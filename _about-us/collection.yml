@@ -2,5 +2,4 @@ collections:
   about-us:
     output: true
     order:
-      - Our Peicai Family/.keep
       - Contact Us.md
