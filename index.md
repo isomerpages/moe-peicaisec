@@ -4,12 +4,10 @@ title: Pei Cai Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
-      background: /images/hero-banner.png
+      background: /images/pcss.gif
       button: Contact Us
       url: /contact-us/
       key_highlights:
@@ -29,6 +27,3 @@ sections:
       button: Button text
       url: /faq/
 ---
-
-
-
