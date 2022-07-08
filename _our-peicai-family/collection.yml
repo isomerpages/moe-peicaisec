@@ -2,7 +2,7 @@ collections:
   our-peicai-family:
     output: true
     order:
-      - Partners/Example Title.md
+      - Partners/Lions Club.md
       - Partners/Rotary Club of Changi.md
       - Partners/Partners.md
       - Partners/.keep
