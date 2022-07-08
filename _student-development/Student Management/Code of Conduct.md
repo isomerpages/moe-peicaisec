@@ -1532,200 +1532,198 @@ Students may be banned from bringing mobile phones to school.</td>
 <table>
 <tbody>
 <tr>
-<td>1.</td>
-<td>When using internet technology<sup>1&nbsp;</sup>to communicate with others, students are expected to be respectful to others by not sharing</td>
+<td style="width: 184.25px;">1.</td>
+<td style="width: 579.672px;">When using internet technology<sup>1&nbsp;</sup>to communicate with others, students are expected to be respectful to others by not sharing</td>
 </tr>
 <tr>
-<td>
+<td style="width: 184.25px;">
 <blockquote>
 <blockquote>(i)</blockquote>
 </blockquote>
 </td>
-<td>
+<td style="width: 579.672px;">
 <blockquote>
 <blockquote>Obscene, derogatory or insensitive remarks/materials.</blockquote>
 </blockquote>
 </td>
 </tr>
 <tr>
-<td>
+<td style="width: 184.25px;">
 <blockquote>
 <blockquote>(ii)</blockquote>
 </blockquote>
 </td>
-<td>
+<td style="width: 579.672px;">
 <blockquote>
 <blockquote>Information/materials that promotes unsafe or illegal acts<sup>2.</sup></blockquote>
 </blockquote>
 </td>
 </tr>
 <tr>
-<td>
+<td style="width: 184.25px;">
 <blockquote>
 <blockquote>(iii)</blockquote>
 </blockquote>
 </td>
-<td>
+<td style="width: 579.672px;">
 <blockquote>
 <blockquote>Information and materials that would affect the safety or privacy of others.</blockquote>
 </blockquote>
 </td>
 </tr>
 <tr>
-<td>2.</td>
-<td>For online lessons, students are expected to</td>
+<td style="width: 184.25px;">2.</td>
+<td style="width: 579.672px;">For online lessons, students are expected to</td>
 </tr>
 <tr>
-<td>
+<td style="width: 184.25px;">
 <blockquote>(a)</blockquote>
 </td>
-<td>
+<td style="width: 579.672px;">
 <blockquote>Be punctual for all scheduled online lessons.</blockquote>
 </td>
 </tr>
 <tr>
-<td>
+<td style="width: 184.25px;">
 <blockquote>(b)</blockquote>
 </td>
-<td>
+<td style="width: 579.672px;">
 <blockquote>Be prompt in informing their teachers should they be unable to attend the online lessons due to valid reasons (e.g. on MC etc.). Absences must be supported by appropriate documentation, similar to how absence from school is accounted for (see Attendance 3d &amp; e above). Absence&nbsp;from&nbsp;school,&nbsp;without&nbsp;any&nbsp;valid&nbsp;reasons,&nbsp;is&nbsp;considered&nbsp;truancy.</blockquote>
 </td>
 </tr>
 <tr>
-<td>
+<td style="width: 184.25px;">
 <blockquote>(c)</blockquote>
 </td>
-<td>
+<td style="width: 579.672px;">
 <blockquote>Be attentive&nbsp;and&nbsp;actively&nbsp;participate&nbsp;during&nbsp;lessons.</blockquote>
 </td>
 </tr>
 <tr>
-<td>
+<td style="width: 184.25px;">
 <blockquote>(d)</blockquote>
 </td>
-<td>
+<td style="width: 579.672px;">
 <blockquote>Be neat and appropriately attired for lessons.</blockquote>
 </td>
 </tr>
 <tr>
-<td>
+<td style="width: 184.25px;">
 <blockquote>(e)</blockquote>
 </td>
-<td>
+<td style="width: 579.672px;">
 <blockquote>Ensure that a conducive place is used for the online lessons.</blockquote>
 </td>
 </tr>
 <tr>
-<td>
+<td style="width: 184.25px;">
 <blockquote>(f)</blockquote>
 </td>
-<td>
+<td style="width: 579.672px;">
 <blockquote>Ensure that the video camera is on and their faces are displayed prominently on screen.</blockquote>
 </td>
 </tr>
 <tr>
-<td>
+<td style="width: 184.25px;">
 <blockquote>(g)</blockquote>
 </td>
-<td>
+<td style="width: 579.672px;">
 <blockquote>Ensure that the mute button is activated when they are not speaking so as to avoid disrupting other participants&rsquo; learning.</blockquote>
 </td>
 </tr>
 <tr>
-<td>
+<td style="width: 184.25px;">
 <blockquote>(h)</blockquote>
 </td>
-<td>
+<td style="width: 579.672px;">
 <blockquote>Demonstrate respect to teachers and classmates at all times by</blockquote>
 </td>
 </tr>
 <tr>
-<td>
+<td style="width: 184.25px;">
 <blockquote>
 <blockquote>(i)</blockquote>
 </blockquote>
 </td>
-<td>
+<td style="width: 579.672px;">
 <blockquote>
 <blockquote>Having only one person speak at a time</blockquote>
 </blockquote>
 </td>
 </tr>
 <tr>
-<td>
+<td style="width: 184.25px;">
 <blockquote>
 <blockquote>(ii)</blockquote>
 </blockquote>
 </td>
-<td>
+<td style="width: 579.672px;">
 <blockquote>
 <blockquote>Giving their fullest attention to whoever is speaking</blockquote>
 </blockquote>
 </td>
 </tr>
 <tr>
-<td>
+<td style="width: 184.25px;">
 <blockquote>
 <blockquote>(iii)</blockquote>
 </blockquote>
 </td>
-<td>
+<td style="width: 579.672px;">
 <blockquote>
 <blockquote>Being polite in their interactions</blockquote>
 </blockquote>
 </td>
 </tr>
 <tr>
-<td>
+<td style="width: 184.25px;">
 <blockquote>(i)</blockquote>
 </td>
-<td>
+<td style="width: 579.672px;">
 <blockquote>Avoid sharing account details, such as the Login ID and password, with others for online lesson platforms such as SLS, Zoom, Google Meet etc.).</blockquote>
 </td>
 </tr>
 <tr>
-<td>
+<td style="width: 184.25px;">
 <blockquote>(j)</blockquote>
 </td>
-<td>
+<td style="width: 579.672px;">
 <blockquote>Always log out from the online lesson platforms after every use.</blockquote>
 </td>
 </tr>
 <tr>
-<td>
+<td style="width: 184.25px;">
 <blockquote>(k)</blockquote>
 </td>
-<td>
+<td style="width: 579.672px;">
 <blockquote>Be wary of suspicious emails and report such emails to your teachers.</blockquote>
 </td>
 </tr>
 <tr>
-<td>
+<td style="width: 184.25px;">
 <blockquote>(l)</blockquote>
 </td>
-<td>
+<td style="width: 579.672px;">
 <blockquote>Protect the privacy by not video-recording or taking photos of other participants in the online lessons.</blockquote>
 </td>
 </tr>
 <tr>
-<td>
+<td style="width: 184.25px;">
 <blockquote>(m)</blockquote>
 </td>
-<td>
+<td style="width: 579.672px;">
 <blockquote>Comply with the teachers&rsquo; instructions at all times during the online lessons.</blockquote>
 </td>
 </tr>
 <tr>
-<td>&nbsp;<sup>1</sup>Applications involving the use of internet technology for communication includes but not limiting to Emails, Instant messaging applications (like WhatsApp, Discord, Instagram Direct Messenger etc) and social<br />networking sites (like Instagram, Facebook etc).<br /><sup>2</sup>Unsafe or illegal acts includes, but not limiting to, gangsterism, pornography, drug/tobacco abuse (including vaping), gambling, violence, harassment, discrimination etc</td>
-</tr>
-<tr>
-<td><strong>&nbsp;Note:</strong></td>
-<td>&nbsp;Students who are responsible for any breach of the above etiquette will be considered as having committed an offence in school and will therefore face a consequence during the school&rsquo;s follow-up actions.</td>
+<td style="width: 184.25px;"><strong>&nbsp;Note:</strong></td>
+<td style="width: 579.672px;">Students who are responsible for any breach of the above etiquette will be considered as having committed an offence in school and will therefore face a consequence during the school&rsquo;s follow-up actions.</td>
 </tr>
 </tbody>
 </table>
 </div>
 <div>
+<p><sup>1</sup>Applications involving the use of internet technology for communication includes but not limiting to Emails, Instant messaging applications (like WhatsApp, Discord, Instagram Direct Messenger etc) and social networking sites (like Instagram, Facebook etc).<br /><sup>2</sup>Unsafe or illegal acts includes, but not limiting to, gangsterism, pornography, drug/tobacco abuse (including vaping), gambling, violence, harassment, discrimination etc</p>
 <h4><strong>POSSIBLE CORRECTIVE AND DISCIPLINARY ACTIONS</strong></h4>
 <table>
 <tbody>
