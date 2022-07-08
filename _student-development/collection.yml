@@ -2,5 +2,6 @@ collections:
   student-development:
     output: true
     order:
+      - Student Leadership (SL)/CCA Leadership.md
       - Student Leadership (SL)/Student Leadership (SL).md
       - Student Leadership (SL)/.keep
