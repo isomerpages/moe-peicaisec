@@ -2,6 +2,7 @@ collections:
   academic:
     output: true
     order:
+      - Assessment and Promotion Criteria.md
       - Subject Overviews.md
       - Blended Learning.md
       - Subject Areas.md
