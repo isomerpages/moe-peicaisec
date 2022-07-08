@@ -1,6 +1,15 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: About Us
+    url: /about-us/principal-s-message
+    sublinks:
+      - title: Principal’s Message
+        url: /about-us/principal-s-message
+      - title: Peicai's History
+        url: /about-us/peicais-history
+      - title: School Crest and Song
+        url: /about-us/school-crest-and-song
+      - title: Mission, Vision and Values
+        url: /about-us/mission-vision-and-values
+      - title: Our Peicai Family
+        url: /about-us/our-peicai-family/school-advisory-committee-sac
