@@ -4,4 +4,4 @@ permalink: /about-us/our-peicai-family/staff/allied-educators
 description: ""
 third_nav_title: Staff
 ---
-![](/images/allied%20educators%202.jpg)
+<img src="/images/allied%20educators%202.jpg">
