@@ -2,6 +2,7 @@ collections:
   achievements:
     output: true
     order:
+      - Students/.keep
       - Staff/Long Service Awards.md
       - Staff/National Awards.md
       - Staff/.keep
