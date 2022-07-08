@@ -2,10 +2,10 @@ collections:
   ccas:
     output: true
     order:
-      - Performing Arts/Drama Club.md
-      - Performing Arts/Concert Band.md
-      - Performing Arts/Modern Dance.md
       - Performing Arts/.keep
+      - Performing Arts/Modern Dance.md
+      - Performing Arts/Concert Band.md
+      - Performing Arts/Drama Club.md
       - Sports/.keep
       - Sports/Basketball Boys.md
       - Sports/Volleyball Boys & Girls.md
