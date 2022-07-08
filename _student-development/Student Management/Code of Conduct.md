@@ -254,3 +254,4 @@ third_nav_title: Student Management
 </tbody>
 </table>
 </div>
+<img src="/images/update.jpg">
