@@ -2,6 +2,7 @@ collections:
   our-peicai-family:
     output: true
     order:
+      - Staff/School Management Committee.md
       - Staff/Executive & Administrative Staff.md
       - Staff/Allied Educators.md
       - Staff/English Language and Literature.md
