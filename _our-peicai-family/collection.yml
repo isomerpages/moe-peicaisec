@@ -2,6 +2,7 @@ collections:
   our-peicai-family:
     output: true
     order:
+      - Students/.keep
       - Partners/.keep
       - Partners/Partners.md
       - Partners/Lions Club.md
