@@ -2,9 +2,9 @@ collections:
   academic:
     output: true
     order:
-      - Assessment and Promotion/School Assessments.md
-      - Assessment and Promotion/Assessment and Promotion Criteria.md
       - Assessment and Promotion/.keep
+      - Assessment and Promotion/Assessment and Promotion Criteria.md
+      - Assessment and Promotion/School Assessments.md
       - Subject Overviews.md
       - Blended Learning.md
       - Subject Areas.md
