@@ -2,6 +2,7 @@ collections:
   ccas:
     output: true
     order:
+      - Clubs & Societies/Aero Modelling Club.md
       - Clubs & Societies/Art Club.md
       - Clubs & Societies/InfoComm Club.md
       - Clubs & Societies/.keep
