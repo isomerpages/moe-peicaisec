@@ -2,6 +2,7 @@ collections:
   ccas:
     output: true
     order:
+      - Sports/.keep
       - Uniformed Groups/NPCC.md
       - Uniformed Groups/(NCC).md
       - Uniformed Groups/Girl Guides.md
