@@ -2,10 +2,10 @@ collections:
   ccas:
     output: true
     order:
+      - Sports/.keep
+      - Sports/Basketball Boys.md
       - Sports/Volleyball Boys & Girls.md
       - Sports/Softball Boys & Girls.md
-      - Sports/Basketball Boys.md
-      - Sports/.keep
       - Uniformed Groups/NPCC.md
       - Uniformed Groups/(NCC).md
       - Uniformed Groups/Girl Guides.md
