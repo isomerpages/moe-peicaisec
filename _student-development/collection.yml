@@ -2,6 +2,7 @@ collections:
   student-development:
     output: true
     order:
+      - CCE/Cyber Wellness @ Peicai.md
       - CCE/Cyber Wellness Tips for Parents 2019.md
       - CCE/Education and Career Guidance (ECG).md
       - CCE/National Education (NE).md
