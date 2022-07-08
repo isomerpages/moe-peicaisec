@@ -234,70 +234,70 @@ description: ""
 <p><a href="/files/S3CL_Exp_Subject%20Overview%202022%20Sem%202.pdf">Chinese</a></p>
 <p><a href="/files/S3CLB_EXP_NA_Subject%20Overview%202022%20Sem%202.pdf">Chinese Syllabus B</a></p>
 <p><a href="/files/S3HCL_EXP_Subject%20Overview%202022%20Sem%202.pdf">Higher Chinese</a></p>
-<p><a href="https://www.peicaisec.moe.edu.sg/qql/slot/u899/Subject%20Overview/MT/S3ML_EXP_Subject%20Overview%202022%20Sem%202.pdf">Malay</a></p>
+<p><a href="/files/S3ML_EXP_Subject%20Overview%202022%20Sem%202.pdf">Malay</a></p>
 </td>
 <td style="text-align: center;" width="208">
-<p><a href="https://www.peicaisec.moe.edu.sg/qql/slot/u899/Subject%20Overview/MT/S3CL_NA_Subject%20Overview%202022%20Sem%202.pdf">Chinese</a></p>
-<p><a href="https://www.peicaisec.moe.edu.sg/qql/slot/u899/Subject%20Overview/MT/S3CLB_EXP_NA_Subject%20Overview%202022%20Sem%202.pdf">Chinese Syllabus B</a></p>
-<p><a href="https://www.peicaisec.moe.edu.sg/qql/slot/u899/Subject%20Overview/MT/S3ML_NA_Subject%20Overview%202022%20Sem%202.pdf">Malay</a></p>
+<p><a href="/files/S3CL_NA_Subject%20Overview%202022%20Sem%202.pdf">Chinese</a></p>
+<p><a href="/files/S3CLB_EXP_NA_Subject%20Overview%202022%20Sem%202.pdf">Chinese Syllabus B</a></p>
+<p><a href="/files/S3ML_NA_Subject%20Overview%202022%20Sem%202.pdf">Malay</a></p>
 </td>
 <td style="text-align: center;" width="208">
-<p><a href="https://www.peicaisec.moe.edu.sg/qql/slot/u899/Subject%20Overview/MT/S3CL_NT_Subject%20Overview%202022%20Sem%202.pdf">Basic Chinese</a></p>
-<p><a href="https://www.peicaisec.moe.edu.sg/qql/slot/u899/Subject%20Overview/MT/S3ML_NT_Subject%20Overview%202022%20Sem%202.pdf">Basic Malay</a></p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="208">
-<p><a href="https://www.peicaisec.moe.edu.sg/qql/slot/u899/Subject%20Overview/Mathematics/Add%20Math_Subject%20Overview_3%20Exp.pdf">Additional Mathematics</a></p>
-<p><a href="https://www.peicaisec.moe.edu.sg/qql/slot/u899/Subject%20Overview/Mathematics/Math_Subject%20Overview_3%20Exp.pdf">Mathematics</a></p>
-</td>
-<td style="text-align: center;" width="208">
-<p><a href="https://www.peicaisec.moe.edu.sg/qql/slot/u899/Subject%20Overview/Mathematics/Add%20Math_Subject%20Overview_3NA.pdf">Additional Mathematics</a></p>
-<p><a href="https://www.peicaisec.moe.edu.sg/qql/slot/u899/Subject%20Overview/Mathematics/Math_Subject%20Overview_3NA.pdf">Mathematics</a></p>
-</td>
-<td style="text-align: center;" width="208">
-<p><a href="https://www.peicaisec.moe.edu.sg/qql/slot/u899/Subject%20Overview/Mathematics/CPA_Subject%20Overview_3NT.pdf">Computer Applications</a></p>
-<p><a href="https://www.peicaisec.moe.edu.sg/qql/slot/u899/Subject%20Overview/Mathematics/Math_%20Subject%20Overview_3NT.pdf">Mathematics</a></p>
+<p><a href="/files/S3CL_NT_Subject%20Overview%202022%20Sem%202.pdf">Basic Chinese</a></p>
+<p><a href="/files/S3ML_NT_Subject%20Overview%202022%20Sem%202.pdf">Basic Malay</a></p>
 </td>
 </tr>
 <tr>
 <td style="text-align: center;" width="208">
-<p><a href="https://www.peicaisec.moe.edu.sg/qql/slot/u899/Subject%20Overview/Science/Sec%203E%20Biology.pdf">Biology</a></p>
-<p><a href="https://www.peicaisec.moe.edu.sg/qql/slot/u899/Subject%20Overview/Science/Sec%203E%20Chemistry.pdf">Chemistry</a></p>
-<p><a href="https://www.peicaisec.moe.edu.sg/qql/slot/u899/Subject%20Overview/Science/Sec%203E%20Physics.pdf">Physics</a></p>
-<p><a href="https://www.peicaisec.moe.edu.sg/qql/slot/u899/Subject%20Overview/Science/Sec%203E%20Sci%20Biology.pdf">Science Biology</a></p>
-<p><a href="https://www.peicaisec.moe.edu.sg/qql/slot/u899/Subject%20Overview/Science/Sec%203E%20Sci%20Chemistry.pdf">Science Chemistry</a></p>
-<p><a href="https://www.peicaisec.moe.edu.sg/qql/slot/u899/Subject%20Overview/Science/Sec%203E%20Sci%20Physics.pdf">Science Physics</a></p>
+<p><a href="/files/Add%20Math_Subject%20Overview_3%20Exp.pdf">Additional Mathematics</a></p>
+<p><a href="/files/Math_Subject%20Overview_3%20Exp.pdf">Mathematics</a></p>
 </td>
 <td style="text-align: center;" width="208">
-<p><a href="https://www.peicaisec.moe.edu.sg/qql/slot/u899/Subject%20Overview/Science/Sec%203NA%20Sci%20Biology.pdf">Science Biology</a></p>
-<p><a href="https://www.peicaisec.moe.edu.sg/qql/slot/u899/Subject%20Overview/Science/Sec%203NA%20Sci%20Chemistry.pdf">Science Chemistry</a></p>
-<p><a href="https://www.peicaisec.moe.edu.sg/qql/slot/u899/Subject%20Overview/Science/Sec%203NA%20Sci%20Physics.pdf">Science Physics</a></p>
+<p><a href="/files/Add%20Math_Subject%20Overview_3NA.pdf">Additional Mathematics</a></p>
+<p><a href="/files/Math_Subject%20Overview_3NA.pdf">Mathematics</a></p>
 </td>
 <td style="text-align: center;" width="208">
-<p><a href="https://www.peicaisec.moe.edu.sg/qql/slot/u899/Subject%20Overview/Science/Sec%203NT%20Science.pdf">Science</a></p>
+<p><a href="/files/CPA_Subject%20Overview_3NT.pdf">Computer Applications</a></p>
+<p><a href="/files/Math_%20Subject%20Overview_3NT.pdf">Mathematics</a></p>
 </td>
 </tr>
 <tr>
 <td style="text-align: center;" width="208">
-<p><a href="https://www.peicaisec.moe.edu.sg/qql/slot/u899/Subject%20Overview/Humanities/3E%20Social%20Studies.pdf">Social Studies</a></p>
-<p><a href="https://www.peicaisec.moe.edu.sg/qql/slot/u899/Subject%20Overview/Humanities/3E%20Geog.pdf">Elective Geography</a></p>
-<p><a href="https://www.peicaisec.moe.edu.sg/qql/slot/u899/Subject%20Overview/Humanities/3E%20Hist.pdf">Elective History</a></p>
-<p><a href="https://www.peicaisec.moe.edu.sg/qql/slot/u899/Subject%20Overview/English/3EXP%20LIT%20Subject%20Overview.pdf">Elective Literature</a></p>
-<p><a href="https://www.peicaisec.moe.edu.sg/qql/slot/u899/Subject%20Overview/Humanities/3E%20Pure%20Geog.pdf">Pure Geography</a></p>
-<p><a href="https://www.peicaisec.moe.edu.sg/qql/slot/u899/Subject%20Overview/English/3EXP%20LIT%20Subject%20Overview.pdf">Pure Literature</a></p>
-<p><a href="https://www.peicaisec.moe.edu.sg/qql/slot/u899/Subject%20Overview/Humanities/3E%20POA.pdf">Principles of Accounts</a></p>
+<p><a href="/files/Sec%203E%20Biology.pdf">Biology</a></p>
+<p><a href="/files/Sec%203E%20Chemistry.pdf">Chemistry</a></p>
+<p><a href="/files/Sec%203E%20Physics.pdf">Physics</a></p>
+<p><a href="/files/Sec%203E%20Sci%20Biology.pdf">Science Biology</a></p>
+<p><a href="/files/Sec%203E%20Sci%20Chemistry.pdf">Science Chemistry</a></p>
+<p><a href="/files/Sec%203E%20Sci%20Physics.pdf">Science Physics</a></p>
 </td>
 <td style="text-align: center;" width="208">
-<p><a href="https://www.peicaisec.moe.edu.sg/qql/slot/u899/Subject%20Overview/Humanities/3N%20Social%20Studies.pdf">Social Studies</a></p>
-<p><a href="https://www.peicaisec.moe.edu.sg/qql/slot/u899/Subject%20Overview/Humanities/3N%20Geog.pdf">Elective Geography</a></p>
-<p><a href="https://www.peicaisec.moe.edu.sg/qql/slot/u899/Subject%20Overview/Humanities/3N%20Hist.pdf">Elective History</a></p>
-<p><a href="https://www.peicaisec.moe.edu.sg/qql/slot/u899/Subject%20Overview/Humanities/3N%20POA.pdf">Principles of Accounts</a></p>
+<p><a href="/files/Sec%203NA%20Sci%20Biology.pdf">Science Biology</a></p>
+<p><a href="/files/Sec%203NA%20Sci%20Chemistry.pdf">Science Chemistry</a></p>
+<p><a href="/files/Sec%203NA%20Sci%20Physics.pdf">Science Physics</a></p>
+</td>
+<td style="text-align: center;" width="208">
+<p><a href="/files/Sec%203NT%20Science.pdf">Science</a></p>
 </td>
 </tr>
 <tr>
 <td style="text-align: center;" width="208">
-<p>&nbsp;<a href="https://www.peicaisec.moe.edu.sg/qql/slot/u899/Subject%20Overview/Craft%20and%20Tech/Art%20Subject%20Overview_3EXP.pdf">Art</a></p>
+<p><a href="/files/3E%20Social%20Studies.pdf">Social Studies</a></p>
+<p><a href="/files//3E%20Geog.pdf">Elective Geography</a></p>
+<p><a href="/files/3E%20Hist.pdf">Elective History</a></p>
+<p><a href="/files/3EXP%20LIT%20Subject%20Overview.pdf">Elective Literature</a></p>
+<p><a href="/files/3E%20Pure%20Geog.pdf">Pure Geography</a></p>
+<p><a href="/files/3EXP%20LIT%20Subject%20Overview.pdf">Pure Literature</a></p>
+<p><a href="/files/3E%20POA.pdf">Principles of Accounts</a></p>
+</td>
+<td style="text-align: center;" width="208">
+<p><a href="/files/3N%20Social%20Studies.pdf">Social Studies</a></p>
+<p><a href="/files/3N%20Geog.pdf">Elective Geography</a></p>
+<p><a href="/files/3N%20Hist.pdf">Elective History</a></p>
+<p><a href="/files/3N%20POA.pdf">Principles of Accounts</a></p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="208">
+<p>&nbsp;<a href="/files/Art%20Subject%20Overview_3EXP.pdf">Art</a></p>
 <p><a href="https://www.peicaisec.moe.edu.sg/qql/slot/u899/Subject%20Overview/Craft%20and%20Tech/Subject%20Overview_DT_3E_editted.pdf">Design and Technology</a></p>
 <p><a href="https://www.peicaisec.moe.edu.sg/qql/slot/u899/Subject%20Overview/Craft%20and%20Tech/Subject%20Oveview_3Exp.pdf">Nutrition and Food Science</a></p>
 </td>
