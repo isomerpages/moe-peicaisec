@@ -2,5 +2,6 @@ collections:
   ccas:
     output: true
     order:
+      - Uniformed Groups/Girl Guides.md
       - Uniformed Groups/.keep
       - CCAs.md
