@@ -2,6 +2,7 @@ collections:
   student-development:
     output: true
     order:
+      - Student Management/Student Management.md
       - Student Management/Code of Conduct.md
       - Student Management/.keep
       - Gear Up.md
