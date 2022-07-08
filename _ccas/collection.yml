@@ -2,7 +2,6 @@ collections:
   ccas:
     output: true
     order:
-      - Modern Dance.md
       - Sports/.keep
       - Sports/Basketball Boys.md
       - Sports/Volleyball Boys & Girls.md
