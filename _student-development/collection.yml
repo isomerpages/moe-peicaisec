@@ -2,6 +2,7 @@ collections:
   student-development:
     output: true
     order:
+      - Gear Up.md
       - (ECG).md
       - Mental and Emotional Wellbeing & Support.md
       - Applied Learning Programme (ALP).md
