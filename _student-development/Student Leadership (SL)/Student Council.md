@@ -9,3 +9,20 @@ third_nav_title: Student Leadership (SL)
 <p dir="ltr">Catering to a wide range of aptitudes and attitudes, Student Councillors who want to be challenged further can apply to be in the Student Council Executive Committee or aim to achieve the rank of Senior Student Councillor.</p>
 <p dir="ltr">The school actively recognises the contributions of Student Councillors through various school-based (e.g. School Contribution Awards) and MOE-based (e.g. EAGLES, LEAPS2.0, ECHA) platforms.</p>
 <p dir="ltr">Follow us on Instagram for more updates!&nbsp;<a href="https://bit.ly/peicaisl_councilig" target="">https://bit.ly/peicaisl_councilig</a>.</p>
+<ul class="jekyllcodex_accordion">
+<li><input id="accordion1" type="checkbox" /> <label for="accordion1">2021</label>
+<div>
+<p>This is a simple one line item</p>
+</div>
+</li>
+<li><input id="accordion2" type="checkbox" /> <label for="accordion2">2020</label>
+<div>
+<p>This is a simple one line item</p>
+</div>
+</li>
+<li><input id="accordion3" type="checkbox" /> <label for="accordion3">2019</label>
+<div>
+<p>This is a simple one line item</p>
+</div>
+</li>
+</ul>
