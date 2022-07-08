@@ -42,3 +42,22 @@ links:
         url: /academic/physical-education
       - title: Science
         url: /academic/science
+  - title: STUDENT DEVELOPMENT
+    url: /student-development/character-n-citizenship-education
+    sublinks:
+      - title: CCE
+        url: /student-development/character-n-citizenship-education
+      - title: Student Management
+        url: /student-development/student-management
+      - title: Gear Up
+        url: /student-development/gear-up
+      - title: ECG
+        url: /student-development/ecg
+      - title: Mental and Emotional
+        url: /student-development/mental-and-emotional-well-being-support
+      - title: Applied Learning Programme
+        url: /student-development/applied-learning-programme-alp
+      - title: Learning for Life
+        url: /student-development/learning-for-life-llp
+      - title: Student Leadership
+        url: /student-development/student-leadership-sl
