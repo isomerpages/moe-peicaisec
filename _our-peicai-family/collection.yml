@@ -2,5 +2,6 @@ collections:
   our-peicai-family:
     output: true
     order:
+      - Partners/Partners.md
       - Partners/.keep
       - Staff Email Addresses 2022.md
