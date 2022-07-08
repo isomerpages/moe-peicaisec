@@ -22,3 +22,7 @@ third_nav_title: Uniformed Groups
 <img style="width: 50%;" src="/images/ncc2.jpg" align = "right" /><br><br><br>
 <p>As a Sea Unit, we organised lots of sea activities such as Rafting, Sailing and Diving led by external vendors and coaches.&nbsp;</p>
 <p>NCC focuses a lot on camaraderie. Beyond tough trainings, we believe in team bonding and as a close knitted community, we take time to celebrate birthdays as well as other festive seasons together.&nbsp;</p>
+<img src="/images/ncc3.jpg">
+<p style="text-align: center;">Through the activities and the high morale of our unit, we have achieved the Distinction/Gold award since 2016.</p>
+<h4><strong>NCC Video</strong></h4>
+<iframe src="https://www.youtube.com/embed/jP3EFftNDHY" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
