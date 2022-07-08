@@ -4,3 +4,5 @@ permalink: /about-us/our-peicai-family/partners/rotary-club-of-changi
 description: ""
 third_nav_title: Partners
 ---
+<p>The Rotary Club of Changi has been part of our Peicai Family for many years. They have supported us in many of our school initiatives over the years. These programmes include leadership workshops for our student leaders as well the Tan Leong Teck Scholarship Award for Interactors.</p>
+<img src="/images/rcc.png">
