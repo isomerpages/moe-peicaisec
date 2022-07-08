@@ -2,6 +2,7 @@ collections:
   student-development:
     output: true
     order:
+      - CCE/Sexuality Education.md
       - CCE/Character & Citizenship Education.md
       - CCE/.keep
       - Student Management/Student Management.md
