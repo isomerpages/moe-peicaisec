@@ -13,3 +13,32 @@ links:
         url: /about-us/mission-vision-and-values
       - title: Our Peicai Family
         url: /about-us/our-peicai-family/school-advisory-committee-sac
+      - title: Contact Us
+        url: /about-us/contact-us
+  - title: ACADEMIC
+    url: /academic/teaching-and-learning-at-pcss
+    sublinks:
+      - title: Teaching and Learning @ PCSS
+        url: /academic/teaching-and-learning-at-pcss
+      - title: Assessment and Promotion
+        url: /academic/assessment-and-promotion-criteria
+      - title: Subject Overviews
+        url: /academic/subject-overviews
+      - title: Blended Learning
+        url: /academic/blended-learning/for-students
+      - title: Subject Areas
+        url: /academic/subject-areas
+      - title: Craft & Technology
+        url: /academic/craft-n-technology
+      - title: English Language & Literature
+        url: /academic/english-language-n-literature
+      - title: Humanities
+        url: /academic/humanities
+      - title: Mathematics
+        url: /academic/mathematics
+      - title: Mother Tongue Languages
+        url: /academic/mother-tongue-languages
+      - title: Physical Education
+        url: /academic/physical-education
+      - title: Science
+        url: /academic/science
