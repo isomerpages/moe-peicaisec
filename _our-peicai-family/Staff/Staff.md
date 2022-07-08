@@ -11,5 +11,7 @@ third_nav_title: Staff
 <img style="width: 65%;" src="/images/executive%20and%20administrative%20staff%202.jpg" />
 <p style="text-align: center;"><strong><a href="/about-us/our-peicai-family/staff/allied-educators" target=""><u>Allied Educators</u></a></strong></p>
 <img style="width: 65%;" src="/images/allied%20educators%202.jpg" />
+<p style="text-align: center;"><strong><a href="/about-us/our-peicai-family/staff/craft-n-technology" target=""><u>Craft & Technology</u></a></strong></p>
+<img style="width: 65%;" src="/images/craft%20and%20technology%20department%202.jpg" />
 <p style="text-align: center;"><strong><a href="/about-us/our-peicai-family/staff/english-language-and-literature" target=""><u>English Language and Literature</u></a></strong></p>
 <img style="width: 65%;" src="/images/english%20language%20and%20literature%20department%202.jpg" />
