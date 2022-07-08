@@ -2,6 +2,7 @@ collections:
   our-peicai-family:
     output: true
     order:
+      - Staff/.keep
       - Students/Model Peicaian.md
       - Students/Student iCON.md
       - Students/.keep
