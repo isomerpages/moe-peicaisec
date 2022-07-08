@@ -61,3 +61,12 @@ links:
         url: /student-development/learning-for-life-llp
       - title: Student Leadership
         url: /student-development/student-leadership-sl
+  - title: CO-CURRICULAR ACTIVITIES
+    url: /co-curricular-activities/co-curricular-framework
+    sublinks:
+      - title: Co-Curricular Framework
+        url: /co-curricular-activities/co-curricular-framework
+      - title: CCA Schedule
+        url: /co-curricular-activities/cca-schedule
+      - title: CCAs
+        url: /co-curricular-activities/ccas
