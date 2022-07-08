@@ -23,3 +23,5 @@ third_nav_title: Staff
 <img style="width: 65%;" src="/images/mother%20tongue%20language%20department%202.jpg" />
 <p style="text-align: center;"><strong><a href="/about-us/our-peicai-family/staff/physical-education" target=""><u>Physical Education</u></a></strong></p>
 <img style="width: 65%;" src="/images/physical%20education%20department%202.jpg" />
+<p style="text-align: center;"><strong><a href="/about-us/our-peicai-family/staff/science" target=""><u>Science</u></a></strong></p>
+<img style="width: 65%;" src="/images/science%20department%202.jpg" />
