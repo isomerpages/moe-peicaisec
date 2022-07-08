@@ -298,23 +298,23 @@ description: ""
 <tr>
 <td style="text-align: center;" width="208">
 <p>&nbsp;<a href="/files/Art%20Subject%20Overview_3EXP.pdf">Art</a></p>
-<p><a href="https://www.peicaisec.moe.edu.sg/qql/slot/u899/Subject%20Overview/Craft%20and%20Tech/Subject%20Overview_DT_3E_editted.pdf">Design and Technology</a></p>
-<p><a href="https://www.peicaisec.moe.edu.sg/qql/slot/u899/Subject%20Overview/Craft%20and%20Tech/Subject%20Oveview_3Exp.pdf">Nutrition and Food Science</a></p>
+<p><a href="/files/Subject%20Overview_DT_3E_editted.pdf">Design and Technology</a></p>
+<p><a href="/files/Subject%20Oveview_3Exp.pdf">Nutrition and Food Science</a></p>
 </td>
 <td style="text-align: center;" width="208">
-<p><a href="https://www.peicaisec.moe.edu.sg/qql/slot/u899/Subject%20Overview/Craft%20and%20Tech/Subject%20Overview_DT_3NA.pdf">Design and Technology</a></p>
-<p><a href="https://www.peicaisec.moe.edu.sg/qql/slot/u899/Subject%20Overview/Craft%20and%20Tech/Subject%20Oveview_3NA.pdf">Nutrition and Food Science</a></p>
+<p><a href="/files/Subject%20Overview_DT_3NA.pdf">Design and Technology</a></p>
+<p><a href="/files/Subject%20Oveview_3NA.pdf">Nutrition and Food Science</a></p>
 </td>
 <td style="text-align: center;" width="208">
-<p><a href="https://www.peicaisec.moe.edu.sg/qql/slot/u899/Subject%20Overview/Craft%20and%20Tech/Art%20Subject%20Overview_3NT.pdf">Art</a></p>
-<p><a href="https://www.peicaisec.moe.edu.sg/qql/slot/u899/Subject%20Overview/Craft%20and%20Tech/Subject%20Overview_DT_3NT.pdf">Design and Technology</a></p>
-<p><a href="https://www.peicaisec.moe.edu.sg/qql/slot/u899/Subject%20Overview/Craft%20and%20Tech/Subject%20Overview_3NT.pdf">Nutrition and Food Science</a></p>
+<p><a href="/files/Art%20Subject%20Overview_3NT.pdf">Art</a></p>
+<p><a href="/files/Subject%20Overview_DT_3NT.pdf">Design and Technology</a></p>
+<p><a href="/files/Subject%20Overview_3NT.pdf">Nutrition and Food Science</a></p>
 </td>
 </tr>
 <tr>
 <td colspan="3" width="623">
 <p style="text-align: center;"><strong>Physical Education</strong></p>
-<p style="text-align: center;"><a href="https://www.peicaisec.moe.edu.sg/qql/slot/u899/Subject%20Overview/PE/2022_Subject%20Overview_PE%20Sem%202_3A1_3A2.pdf">3A1/3A2</a> <a href="https://www.peicaisec.moe.edu.sg/qql/slot/u899/Subject%20Overview/PE/2022_Subject%20Overview_PE%20Sem%202_3B1_3C5.pdf">3B1/3C5</a> <a href="https://www.peicaisec.moe.edu.sg/qql/slot/u899/Subject%20Overview/PE/2022_Subject%20Overview_PE%20Sem%202_3B2.pdf">3B2</a> <a href="https://www.peicaisec.moe.edu.sg/qql/slot/u899/Subject%20Overview/PE/2022_Subject%20Overview_PE%20Sem%202_3C1_3C3_3C4.pdf">3C1/3C3/3C4</a> <a href="https://www.peicaisec.moe.edu.sg/qql/slot/u899/Subject%20Overview/PE/2022_Subject%20Overview_PE%20Sem%202_3C2.pdf">3C2</a></p>
+<p style="text-align: center;"><a href="/files/2022_Subject%20Overview_PE%20Sem%202_3A1_3A2.pdf">3A1/3A2</a> <a href="/files/2022_Subject%20Overview_PE%20Sem%202_3B1_3C5.pdf">3B1/3C5</a> <a href="/files/2022_Subject%20Overview_PE%20Sem%202_3B2.pdf">3B2</a> <a href="/files/2022_Subject%20Overview_PE%20Sem%202_3C1_3C3_3C4.pdf">3C1/3C3/3C4</a> <a href="/files/2022_Subject%20Overview_PE%20Sem%202_3C2.pdf">3C2</a></p>
 </td>
 </tr>
 </tbody>
@@ -335,21 +335,21 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;" width="208">
-<p><a href="https://www.peicaisec.moe.edu.sg/qql/slot/u899/Subject%20Overview/English/4E5N%20EL%20Subject%20Overview.pdf">English Language</a></p>
+<p><a href="/files/4E5N%20EL%20Subject%20Overview.pdf">English Language</a></p>
 </td>
 <td style="text-align: center;" width="208">
-<p><a href="https://www.peicaisec.moe.edu.sg/qql/slot/u899/Subject%20Overview/English/4NA%20EL%20Subject%20Overview.pdf">English Language</a></p>
+<p><a href="/files/4NA%20EL%20Subject%20Overview.pdf">English Language</a></p>
 </td>
 <td style="text-align: center;" width="208">
-<p><a href="https://www.peicaisec.moe.edu.sg/qql/slot/u899/Subject%20Overview/English/4NT%20EL%20Subject%20Overview.pdf">English Language</a></p>
+<p><a href="/files/4NT%20EL%20Subject%20Overview.pdf">English Language</a></p>
 </td>
 </tr>
 <tr>
 <td style="text-align: center;" width="208">
-<p><a href="https://www.peicaisec.moe.edu.sg/qql/slot/u899/Subject%20Overview/MT/S4E_5N_%20Subject%20Overview_2022%20Sem%202.pdf">Chinese</a></p>
-<p><a href="https://www.peicaisec.moe.edu.sg/qql/slot/u899/Subject%20Overview/MT/S4CLB_Subject%20Overview%202022%20Sem%202.pdf">Chinese Syllabus B</a></p>
-<p><a href="https://www.peicaisec.moe.edu.sg/qql/slot/u899/Subject%20Overview/MT/S4HCL%20Subject%20Overview%20Sem%202.pdf">Higher Chinese</a></p>
-<p><a href="https://www.peicaisec.moe.edu.sg/qql/slot/u899/Subject%20Overview/MT/S4ML_EXP_Subject%20Overview%202022%20Sem%202.pdf">Malay</a></p>
+<p><a href="/files/S4E_5N_%20Subject%20Overview_2022%20Sem%202.pdf">Chinese</a></p>
+<p><a href="/files/S4CLB_Subject%20Overview%202022%20Sem%202.pdf">Chinese Syllabus B</a></p>
+<p><a href="/files/S4HCL%20Subject%20Overview%20Sem%202.pdf">Higher Chinese</a></p>
+<p><a href="/files/S4ML_EXP_Subject%20Overview%202022%20Sem%202.pdf">Malay</a></p>
 </td>
 <td style="text-align: center;" width="208">
 <p><a href="https://www.peicaisec.moe.edu.sg/qql/slot/u899/Subject%20Overview/MT/S4CL_NA_Subject%20Overview%202022%20Sem%202.pdf">Chinese</a></p>
