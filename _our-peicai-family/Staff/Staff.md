@@ -15,3 +15,5 @@ third_nav_title: Staff
 <img style="width: 65%;" src="/images/craft%20and%20technology%20department%202.jpg" />
 <p style="text-align: center;"><strong><a href="/about-us/our-peicai-family/staff/english-language-and-literature" target=""><u>English Language and Literature</u></a></strong></p>
 <img style="width: 65%;" src="/images/english%20language%20and%20literature%20department%202.jpg" />
+<p style="text-align: center;"><strong><a href="/about-us/our-peicai-family/staff/humanities" target=""><u>Humanities</u></a></strong></p>
+<img style="width: 65%;" src="/images/humanities%20department%202.jpg" />
