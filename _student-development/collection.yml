@@ -2,6 +2,7 @@ collections:
   student-development:
     output: true
     order:
+      - (ECG).md
       - Mental and Emotional Wellbeing & Support.md
       - Applied Learning Programme (ALP).md
       - Learning for Life (LLP).md
