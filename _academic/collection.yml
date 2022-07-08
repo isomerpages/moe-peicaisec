@@ -2,6 +2,7 @@ collections:
   academic:
     output: true
     order:
+      - Teaching and Learning @ PCSS.md
       - Assessment and Promotion/.keep
       - Assessment and Promotion/Assessment and Promotion Criteria.md
       - Assessment and Promotion/School Assessments.md
