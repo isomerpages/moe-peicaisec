@@ -59,3 +59,9 @@ Brought to you by CCE cyberwellness @PCSS</p>
 <div><img style="width: 15%;" src="/images/logo.jpg" align = "left" />
 <p><strong>School Expectations on Attendance<br /></strong>Please click on above link to find out more!</p>
 <p style="text-align: right;"><a href="/files/Letter%20on%20Attendance%20(Term%203,%202018)_PCSS.pdf">Read More...</a></p>
+<div><img style="width: 15%;" src="/images/ig.jpg" align = "left" />
+<p><strong>Peicai is now on Instagram. Come follow us!<br /></strong>Please refer to the above link for more details.</p>
+<p style="text-align: right;"><a href="https://www.instagram.com/peicai_official/">Read More...</a></p>
+<div><img style="width: 15%;" src="/images/twi.jpg" align = "left" />
+<p><strong>Peicai is now on Twitter. Come follow us!<br /></strong>Please refer to the above link for more details.</p>
+<p style="text-align: right;"><a href="https://twitter.com/peicai_official">Read More...</a></p>
