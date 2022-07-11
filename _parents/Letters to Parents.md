@@ -24,3 +24,6 @@ description: ""
 <div><img style="width: 15%;" src="/images/logo.jpg" align = "left" />
 <p><strong>Peicai E-Open House 2021<br /></strong>Visit our e-open house micro-site at: https://go.gov.sg/peicaiopenhouse2021</p>
 <p style="text-align: right;"><a href="https://sites.google.com/moe.edu.sg/peicaisecondaryschool/home?authuser=0">Read More...</a></p>
+<div><img style="width: 15%;" src="/images/logo.jpg" align = "left" />
+<p><strong>Joint advisory for schools by SPF, CNB, NCPC and NCADA<br /></strong>Please click on the above link to find out more.</p>
+<p style="text-align: right;"><a href="/files/Joint%20Advisory%20Dec%202021.pdf">Read More...</a></p>
