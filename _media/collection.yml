@@ -2,5 +2,6 @@ collections:
   media:
     output: true
     order:
+      - Gallery/.keep
       - Year in Review.md
       - Archive.md
