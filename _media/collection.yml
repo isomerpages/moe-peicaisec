@@ -1,4 +1,5 @@
 collections:
   media:
     output: true
-    order: []
+    order:
+      - Archive.md
