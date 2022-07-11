@@ -2,5 +2,6 @@ collections:
   student-services:
     output: true
     order:
+      - Use of Personal Data.md
       - Useful Links.md
       - Uniform Supplier.md
