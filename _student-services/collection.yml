@@ -2,6 +2,7 @@ collections:
   student-services:
     output: true
     order:
+      - Financial Assistance Scheme (FAS).md
       - Prospective Students.md
       - School Calendar (For Students).md
       - School Facilities.md
