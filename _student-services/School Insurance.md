@@ -300,7 +300,7 @@ Please note that the list of documents above is not exhaustive. Other documents 
 </tr>
 </tbody>
 </table>
-<p><br /><strong>CONTACT DETAILS</strong></p>
+<p><strong>CONTACT DETAILS</strong></p>
 <p><strong>CLICK</strong>&nbsp;on&nbsp;<a href="http://www.income.com.sg/" target="">www.income.com.sg</a></p>
 <p><strong>CALL</strong>&nbsp;our hotline at 6332 1133<br />Mon &ndash; Fri 8.30am to 8.30pm<br />Sat &amp; Sun &ndash; Closed</p>
 <p><strong>ZONE REPRESENTATIVES</strong></p>
