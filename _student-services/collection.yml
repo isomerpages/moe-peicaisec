@@ -2,6 +2,7 @@ collections:
   student-services:
     output: true
     order:
+      - Class Timetable.md
       - Financial Assistance Scheme (FAS).md
       - Prospective Students.md
       - School Calendar (For Students).md
