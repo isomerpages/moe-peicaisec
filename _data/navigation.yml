@@ -79,3 +79,12 @@ links:
         url: /achievements/staff/long-service-awards
       - title: Alumni
         url: /achievements/alumni
+  - title: Media
+    url: /media/gallery/school-events
+    sublinks:
+      - title: Gallery
+        url: /media/gallery/school-events
+      - title: Year in Review
+        url: /media/year-in-review
+      - title: Archive
+        url: /media/archive
