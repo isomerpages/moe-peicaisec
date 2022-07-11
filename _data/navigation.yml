@@ -15,7 +15,7 @@ links:
         url: /about-us/our-peicai-family/school-advisory-committee-sac
       - title: Contact Us
         url: /about-us/contact-us
-  - title: ACADEMIC
+  - title: Academic
     url: /academic/teaching-and-learning-at-pcss
     sublinks:
       - title: Teaching and Learning @ PCSS
@@ -42,7 +42,7 @@ links:
         url: /academic/physical-education
       - title: Science
         url: /academic/science
-  - title: STUDENT DEVELOPMENT
+  - title: Student Development
     url: /student-development/character-n-citizenship-education
     sublinks:
       - title: CCE
@@ -61,7 +61,7 @@ links:
         url: /student-development/learning-for-life-llp
       - title: Student Leadership
         url: /student-development/student-leadership-sl
-  - title: CO-CURRICULAR ACTIVITIES
+  - title: Co-curricular Activities
     url: /co-curricular-activities/co-curricular-framework
     sublinks:
       - title: Co-Curricular Framework
