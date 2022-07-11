@@ -10,11 +10,7 @@ third_nav_title: Clubs & Societies
 <div>
 <p>In InfoComm Club, we aim to:</p>
 <p>1) Excite students about Information Communication and Technology (ICT) in a fun and meaningful way by helping them to learn skills such as use of digital media, mobile technologies and games development.<br />2) Develop in students the skills to setting up and operating sound, projection and lighting system to support school events.</p>
-</div>
-</div>
-<div>
 <h4><strong>Teachers-In-Charge</strong></h4>
-<div>
 <table width="439">
 <tbody>
 <tr>
@@ -39,11 +35,7 @@ third_nav_title: Clubs & Societies
 </tr>
 </tbody>
 </table>
-</div>
-</div>
-<div>
 <h4><strong>Training Schedule</strong></h4>
-<div><br />
 <table width="439">
 <tbody>
 <tr>
@@ -58,11 +50,7 @@ third_nav_title: Clubs & Societies
 </tr>
 </tbody>
 </table>
-</div>
-</div>
-<div>
 <h4><strong>Student EXCO</strong></h4>
-<div>
 <table width="439">
 <tbody>
 <tr>
@@ -83,11 +71,7 @@ third_nav_title: Clubs & Societies
 </tr>
 </tbody>
 </table>
-</div>
-</div>
-<div>
 <h4><strong>Programmes and Activities</strong></h4>
-<div>
 <p>InfoComm students will participate in the following programmes:</p>
 <ul>
 <li>Training on Immersive Media (Sec 1 &amp; Sec 3)</li>
