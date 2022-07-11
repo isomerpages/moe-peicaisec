@@ -2,4 +2,5 @@ collections:
   student-services:
     output: true
     order:
+      - Useful Links.md
       - Uniform Supplier.md
