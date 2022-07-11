@@ -1,6 +1,6 @@
 title: Pei Cai Secondary School
 url: ""
-favicon: /images/favicon-isomer.ico
+favicon: /images/logo.jpg
 colors:
   primary-color: "#3f00b2"
   secondary-color: "#000000"
@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://moe-peicaisec-staging.netlify.app
 prod: https://moe-peicaisec-prod.netlify.app
-shareicon: /images/isomer-logo.svg
+shareicon: /images/logo.jpg
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
