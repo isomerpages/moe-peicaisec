@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Media
           description: ""
-          url: https://google.com
+          url: /media/gallery/school-events
         - title: Highlight B
           description: Important highlight B is equally important
           url: https://gmail.com
