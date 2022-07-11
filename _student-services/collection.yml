@@ -2,6 +2,7 @@ collections:
   student-services:
     output: true
     order:
+      - Bookshop Opening Hours.md
       - Class Timetable.md
       - Financial Assistance Scheme (FAS).md
       - Prospective Students.md
