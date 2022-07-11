@@ -2,10 +2,11 @@ collections:
   ccas:
     output: true
     order:
+      - CCAs.md
+      - Clubs & Societies/.keep
       - Clubs & Societies/Aero Modelling Club.md
       - Clubs & Societies/Art Club.md
       - Clubs & Societies/InfoComm Club.md
-      - Clubs & Societies/.keep
       - Performing Arts/.keep
       - Performing Arts/Modern Dance.md
       - Performing Arts/Concert Band.md
@@ -14,8 +15,7 @@ collections:
       - Sports/Basketball Boys.md
       - Sports/Volleyball Boys & Girls.md
       - Sports/Softball Boys & Girls.md
+      - Uniformed Groups/.keep
       - Uniformed Groups/NPCC.md
       - Uniformed Groups/(NCC).md
       - Uniformed Groups/Girl Guides.md
-      - Uniformed Groups/.keep
-      - CCAs.md
