@@ -92,12 +92,12 @@ description: ""
 </tbody>
 </table>
 <h4><strong>Secondary 1</strong></h4>
-<p><a href="/files/Booklist%202022%20Peicai%20Sec%201%20Exp.pdf">Booklist 2022 Peicai Sec 1 Exp.pdf</a><br /><a href="/files/Booklist%202022/Booklist%202022%20Peicai%20Sec%201%20NA.pdf">Booklist 2022 Peicai Sec 1 NA.pdf</a><br /><a href="/files/Booklist%202022/Booklist%202022%20Peicai%20Sec%201%20NT.pdf">Booklist 2022 Peicai Sec 1 NT.pdf</a></p>
+<p><a href="/files/Booklist%202022%20Peicai%20Sec%201%20Exp.pdf">Booklist 2022 Peicai Sec 1 Exp.pdf</a><br /><a href="/files/Booklist%202022%20Peicai%20Sec%201%20NA.pdf">Booklist 2022 Peicai Sec 1 NA.pdf</a><br /><a href="/files/Booklist%202022%20Peicai%20Sec%201%20NT.pdf">Booklist 2022 Peicai Sec 1 NT.pdf</a></p>
 <h4><strong>Secondary 2</strong></h4>
-<p><a href="/files/Booklist%202022/Booklist%202022%20Peicai%20Sec%202%20Express.pdf">Booklist 2022 Peicai Sec 2 Express.pdf</a><br /><a href="/files/Booklist%202022/Booklist%202022%20Peicai%20Sec%202%20NA.pdf">Booklist 2022 Peicai Sec 2 NA.pdf</a><br /><a href="/files/Booklist%202022/Booklist%202022%20Peicai%20Sec%202%20NT.pdf">Booklist 2022 Peicai Sec 2 NT.pdf</a></p>
+<p><a href="/files/Booklist%202022%20Peicai%20Sec%202%20Express.pdf">Booklist 2022 Peicai Sec 2 Express.pdf</a><br /><a href="/files/Booklist%202022%20Peicai%20Sec%202%20NA.pdf">Booklist 2022 Peicai Sec 2 NA.pdf</a><br /><a href="/files/Booklist%202022%20Peicai%20Sec%202%20NT.pdf">Booklist 2022 Peicai Sec 2 NT.pdf</a></p>
 <h4><strong>Secondary 3</strong></h4>
-<p><a href="/files/Booklist%202022/Booklist%202022%20Peicai%20Sec%203%20Express.pdf">Booklist 2022 Peicai Sec 3 Express.pdf</a><br /><a href="/files/Booklist%202022/Booklist%202022%20Peicai%20Sec%203%20NA.pdf">Booklist 2022 Peicai Sec 3 NA.pdf</a><br /><a href="/files/Booklist%202022/Booklist%202022%20Peicai%20Sec%203%20NT.pdf">Booklist 2022 Peicai Sec 3 NT.pdf</a></p>
+<p><a href="/files/Booklist%202022%20Peicai%20Sec%203%20Express.pdf">Booklist 2022 Peicai Sec 3 Express.pdf</a><br /><a href="/files/Booklist%202022%20Peicai%20Sec%203%20NA.pdf">Booklist 2022 Peicai Sec 3 NA.pdf</a><br /><a href="/files/Booklist%202022%20Peicai%20Sec%203%20NT.pdf">Booklist 2022 Peicai Sec 3 NT.pdf</a></p>
 <h4><strong>Secondary 4</strong></h4>
-<p><a href="/files/Booklist%202022/Booklist%202022%20Peicai%20Sec%204%20Express.pdf">Booklist 2022 Peicai Sec 4 Express.pdf</a><br /><a href="/files/Booklist%202022/Booklist%202022%20Peicai%20Sec%204%20NA.pdf">Booklist 2022 Peicai Sec 4 NA.pdf</a><br /><a href="/files/Booklist%202022/Booklist%202022%20Peicai%20Sec%204%20NT.pdf">Booklist 2022 Peicai Sec 4 NT.pdf</a></p>
+<p><a href="/files/Booklist%202022%20Peicai%20Sec%204%20Express.pdf">Booklist 2022 Peicai Sec 4 Express.pdf</a><br /><a href="/files/Booklist%202022%20Peicai%20Sec%204%20NA.pdf">Booklist 2022 Peicai Sec 4 NA.pdf</a><br /><a href="/files/Booklist%202022%20Peicai%20Sec%204%20NT.pdf">Booklist 2022 Peicai Sec 4 NT.pdf</a></p>
 <h4><strong>Secondary 5</strong></h4>
-<p><a href="/files/Booklist%202022/Booklist%202022%20Peicai%20Sec%205%20NA.pdf">Booklist 2022 Peicai Sec 5 NA.pdf</a></p>
+<p><a href="/files/Booklist%202022%20Peicai%20Sec%205%20NA.pdf">Booklist 2022 Peicai Sec 5 NA.pdf</a></p>
