@@ -70,3 +70,12 @@ links:
         url: /co-curricular-activities/cca-schedule
       - title: CCAs
         url: /co-curricular-activities/ccas
+  - title: Achievements
+    url: /achievements/students
+    sublinks:
+      - title: Students
+        url: /achievements/students
+      - title: Staff
+        url: /achievements/staff/long-service-awards
+      - title: Alumni
+        url: /achievements/alumni
