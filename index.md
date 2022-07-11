@@ -12,9 +12,9 @@ sections:
         - title: Media
           description: ""
           url: /media/gallery/school-events
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
+        - title: Student Services
+          description: ""
+          url: /student-services/booklist
         - title: Parents
           description: ""
           url: /parents
