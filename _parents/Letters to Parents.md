@@ -57,7 +57,5 @@ Click on the link to browse through some cyber wellness tips for you.
 Brought to you by CCE cyberwellness @PCSS</p>
 <p style="text-align: right;"><a href="/curriculum/subject-areas/citizenship-n-character-education/cyber-wellness/cyber-wellness-tips-for-parents-2019">Read More...</a></p>
 <div><img style="width: 15%;" src="/images/logo.jpg" align = "left" />
-<p><strong>Cyber Wellness Tips for Parents<br /></strong>Dear Parents, cyber safety and etiquette are increasingly important in today’s world. 
-Click on the link to browse through some cyber wellness tips for you.  
-Brought to you by CCE cyberwellness @PCSS</p>
-<p style="text-align: right;"><a href="/curriculum/subject-areas/citizenship-n-character-education/cyber-wellness/cyber-wellness-tips-for-parents-2019">Read More...</a></p>
+<p><strong>School Expectations on Attendance<br /></strong>Please click on above link to find out more!</p>
+<p style="text-align: right;"><a href="/files/Letter%20on%20Attendance%20(Term%203,%202018)_PCSS.pdf">Read More...</a></p>
