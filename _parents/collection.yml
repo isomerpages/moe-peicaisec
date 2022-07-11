@@ -2,5 +2,6 @@ collections:
   parents:
     output: true
     order:
+      - Letters to Parents.md
       - Useful Links.md
       - Parents.md
