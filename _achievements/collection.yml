@@ -2,6 +2,7 @@ collections:
   achievements:
     output: true
     order:
+      - Students/The Principal's List.md
       - Students/Individual Student Achievements.md
       - Students/Co Curricular Achievements.md
       - Students/School Based Awards.md
