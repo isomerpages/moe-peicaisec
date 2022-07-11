@@ -2,6 +2,7 @@ collections:
   student-services:
     output: true
     order:
+      - School Calendar (For Students).md
       - School Facilities.md
       - School Insurance.md
       - School Terms and Holidays.md
