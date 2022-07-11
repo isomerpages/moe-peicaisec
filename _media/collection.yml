@@ -2,4 +2,5 @@ collections:
   media:
     output: true
     order:
+      - Year in Review.md
       - Archive.md
