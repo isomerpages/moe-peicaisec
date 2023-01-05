@@ -79,3 +79,20 @@ links:
         url: /achievements/staff/long-service-awards
       - title: Alumni
         url: /achievements/alumni
+  - title: Student Services
+    collection: student-services
+  - title: Media
+    collection: media
+  - title: Parents
+    url: /parents
+    sublinks:
+      - title: Parent Support Group (PSG)
+        url: /parents/parent-support-group-psg
+      - title: Parents Gateway
+        url: /parents/parents-gateway
+      - title: Resources for Parents
+        url: /parents/resources-for-parents
+      - title: Letters to Parents
+        url: /parents/letters-to-parents
+      - title: Useful Links
+        url: /parents/useful-links
