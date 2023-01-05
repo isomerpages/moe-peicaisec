@@ -2,6 +2,7 @@ collections:
   media:
     output: true
     order:
+      - Media.md
       - Gallery/School Events.md
       - Gallery/.keep
       - Year in Review.md
