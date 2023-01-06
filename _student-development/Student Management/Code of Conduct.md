@@ -182,3 +182,5 @@ third_nav_title: Student Management
 </tr>
 </tbody>
 </table>
+<h4><strong>APPEARANCE</strong></h4>
+<p><strong>Rationale: To portray a positive image of oneself through personal grooming&nbsp;and hygiene.</strong></p>
