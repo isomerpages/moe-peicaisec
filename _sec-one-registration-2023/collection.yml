@@ -2,6 +2,7 @@ collections:
   sec-one-registration-2023:
     output: true
     order:
+      - Eligibility for PinnaCle @ Peicai (Talent Development Programme).md
       - Instructions for First Day of School (03 Jan).md
       - Secondary 1 Orientation Programme (04 – 06 Jan).md
       - Reporting Time for School and Timetable.md
