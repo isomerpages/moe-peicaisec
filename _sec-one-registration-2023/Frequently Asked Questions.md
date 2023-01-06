@@ -106,7 +106,7 @@ description: ""
 <tbody>
 <tr>
 <td style="width: 5%;">Q2.</td>
-<td style="width: 95%;">Is there briefing on how CCAs can be selected??</td>
+<td style="width: 95%;">Is there briefing on how CCAs can be selected?</td>
 </tr>
 <tr>
 <td style="width: 5%;">A2.</td>
@@ -123,6 +123,67 @@ description: ""
 <tr>
 <td style="width: 5%;">A3.</td>
 <td style="width: 95%;">Yes, there will be.</td>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 5%;">Q4.</td>
+<td style="width: 95%;">Is it compulsory for all students and parents to attend the CCA Orientation?</td>
+</tr>
+<tr>
+<td style="width: 5%;">A4.</td>
+<td style="width: 95%;">It is only compulsory for all Sec 1 students. However, parents are strongly encouraged to attend in order to understand the LEAPS system better.</td>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 5%;">Q5.</td>
+<td style="width: 95%;">Will there be a make-up of this CCA Open House if students/parents miss this session?</td>
+</tr>
+<tr>
+<td style="width: 5%;">A5.</td>
+<td style="width: 95%;">No, there will not be any make-up session. Sec 1 students will not have any after-school activities on that day and hence, all Sec 1 students should be able to attend the e-CCA Orientation session.</td>
+</tr>
+</tbody>
+</table>
+<p><strong>CCA – General</strong></p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 5%;">Q1.</td>
+<td style="width: 95%;">Is it compulsory for all students to have a CCA?</td>
+</tr>
+<tr>
+<td style="width: 5%;">A1.</td>
+<td style="width: 95%;">Yes, it is compulsory for all students to have at least one CCA in school.</td>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 5%;">Q2.</td>
+<td style="width: 95%;">If my child has an external CCA, is he/she allowed to be excused from CCA in school?</td>
+</tr>
+<tr>
+<td style="width: 5%;">A2.</td>
+<td style="width: 95%;">No, it is compulsory for ALL students to have at least one CCA in school. However, students/parents may request to participate in inter-school competitions in the name of the school for the external CCA. For example, Peicai does not offer Taekwondo. However, students/parents may request to represent Peicai and participate in the inter-school Taekwondo competition.</td>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 5%;">Q3.</td>
+<td style="width: 95%;">What are the CCAs offered in Peicai?</td>
+</tr>
+<tr>
+<td style="width: 5%;">A3.</td>
+<td style="width: 95%;">Please refer to the school website for information at the following link <a href="/co-curricular-activities/ccas">https://www.peicaisec.moe.edu.sg/co-curricular-activities/ccas</a></td>
 </tr>
 </tbody>
 </table>
