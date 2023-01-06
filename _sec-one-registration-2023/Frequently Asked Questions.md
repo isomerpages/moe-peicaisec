@@ -244,7 +244,7 @@ description: ""
 </tr>
 <tr>
 <td style="width: 5%;">A3.</td>
-<td style="width: 95%;">All Sec 1s are expected to be present throughout the duration of the programme. The timing and details of the programme can be found in the school website under the tab titled “Secondary 1 Orientation Programme (04 – 06 Jan)”.</td>
+<td style="width: 95%;">All Sec 1s are expected to be present throughout the duration of the programme. The timing and details of the programme can be found in the school website under the tab titled <strong>“Secondary 1 Orientation Programme (04 – 06 Jan)”.</strong>“</td>
 </tr>
 </tbody>
 </table>
