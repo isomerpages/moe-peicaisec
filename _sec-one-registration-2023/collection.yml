@@ -2,5 +2,6 @@ collections:
   sec-one-registration-2023:
     output: true
     order:
+      - Frequently Asked Questions.md
       - Queries on Secondary One Matters.md
       - Secondary One Key Personnel and Form Teachers.md
