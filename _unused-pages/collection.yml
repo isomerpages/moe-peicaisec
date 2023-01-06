@@ -1,4 +1,5 @@
 collections:
   unused-pages:
     output: true
-    order: []
+    order:
+      - Year in Review.md
