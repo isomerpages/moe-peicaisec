@@ -1,0 +1,4 @@
+collections:
+  unused-pages:
+    output: true
+    order: []
