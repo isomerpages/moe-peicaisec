@@ -2,4 +2,5 @@ collections:
   sec-one-registration-2023:
     output: true
     order:
+      - Queries on Secondary One Matters.md
       - Secondary One Key Personnel and Form Teachers.md
