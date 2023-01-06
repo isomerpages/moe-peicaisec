@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Media.md
-      - Gallery/School Events.md
       - Gallery/.keep
