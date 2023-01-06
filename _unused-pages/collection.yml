@@ -2,5 +2,6 @@ collections:
   unused-pages:
     output: true
     order:
+      - School Events.md
       - Archive.md
       - Year in Review.md
