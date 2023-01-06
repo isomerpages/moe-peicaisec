@@ -2,6 +2,7 @@ collections:
   sec-one-registration-2023:
     output: true
     order:
+      - Purchase of Books and Uniform.md
       - Personal Learning Device (PLD).md
       - Eligibility for Higher Mother Tongue Language (HTML).md
       - Subject–Based Banding (SBB) (For eligible NA & NT students only).md
