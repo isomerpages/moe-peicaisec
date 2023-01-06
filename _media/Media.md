@@ -29,3 +29,26 @@ description: ""
 </tr>
 </tbody>
 </table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 33.3333%;"><a href="https://www.flickr.com/photos/195977907@N04/albums/72177720302021470"><img src="/images/med4.png"></a></td>
+<td style="width: 33.3333%;"><a href="https://www.flickr.com/photos/195977907@N04/albums/72177720302032892"><img src="/images/med5.png"></a></td>
+<td style="width: 33.3333%;"><a href="https://www.flickr.com/photos/195977907@N04/albums/72177720303365193"><img src="/images/med6.png"></a></td>
+</tr>
+<tr>
+<td style="width: 33.3333%; text-align: center;">
+<p><a href="https://www.flickr.com/photos/195977907@N04/albums/72177720302021470" target="_blank" rel="noopener">Peicai's got Talent</a></p>
+<p>During the National Day celebrations this year, students were treated to superb performances by shortlisted students. Peicaians rock!</p>
+</td>
+<td style="width: 33.3333%; text-align: center;">
+<p><a href="https://www.flickr.com/photos/195977907@N04/albums/72177720302032892" target="_blank" rel="noopener">National Day Celebrations</a></p>
+<p>It was an extra special National Day celebration this year - the first physical celebration in 3 years! Peicaians enjoyed a rousing parade by the uniformed groups, then had a memorable celebration in the hall for everyone!</p>
+</td>
+<td style="width: 33.3333%; text-align: center;">
+<p><a href="https://www.flickr.com/photos/195977907@N04/albums/72177720303365193" target="_blank" rel="noopener">Post Exam Programme</a></p>
+<p>Secondary 1-3 Peicaians took part in a myriad of post-exam activities between 25-27 October to unwind and learn after their End Of Year Examinations!</p>
+</td>
+</tr>
+</tbody>
+</table>
