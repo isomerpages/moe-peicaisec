@@ -52,3 +52,21 @@ description: ""
 </tr>
 </tbody>
 </table>
+<table style="border-collapse: collapse; width: 66%; margin-left: auto; margin-right: auto;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><a href="https://www.flickr.com/photos/195977907@N04/albums/72177720303667219"><img src="/images/med7.png"></a></td>
+<td style="width: 50%;"><a href="https://www.flickr.com/photos/195977907@N04/albums/72177720303947539"><img src="/images/med8.jpg"></a></td>
+</tr>
+<tr>
+<td style="width: 50%; text-align: center;">
+<p><a href="https://www.flickr.com/photos/195977907@N04/albums/72177720303667219" target="_blank" rel="noopener">Graduation Night 2022</a></p>
+<p>The Secondary Four and Five students commemorated the end of their secondary school journey with a night of feasting and celebration.&nbsp;&nbsp;</p>
+</td>
+<td style="width: 50%; text-align: center;">
+<p><a href="https://www.flickr.com/photos/195977907@N04/albums/72177720303947539" target="_blank" rel="noopener">Celebration &amp; Recognition Day 2022 (Semester Two)</a></p>
+<p>On 28 October 2022, the school held its second Celebration and Recognition Day to recognise the academic, CCA and other achievements of Peicaians in Semester Two.</p>
+</td>
+</tr>
+</tbody>
+</table>
