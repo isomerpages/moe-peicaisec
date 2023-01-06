@@ -1,4 +1,5 @@
 collections:
   sec-one-registration-2023:
     output: true
-    order: []
+    order:
+      - Secondary One Key Personnel and Form Teachers.md
