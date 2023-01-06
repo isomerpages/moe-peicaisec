@@ -82,7 +82,7 @@ links:
   - title: Student Services
     collection: student-services
   - title: Media
-    collection: media
+    url: /media
   - title: Parents
     url: /parents
     sublinks:
