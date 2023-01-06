@@ -89,3 +89,64 @@ description: ""
 </tr>
 </tbody>
 </table>
+<p><strong>CCA Orientation 2023</strong></p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 5%;">Q1.</td>
+<td style="width: 95%;">Will there be face-to-face sessions where students get to mingle with the current CCA students?</td>
+</tr>
+<tr>
+<td style="width: 5%;">A1.</td>
+<td style="width: 95%;">Yes, there will be a CCA Open House, on 18 January 2023 (Wed).</td>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 5%;">Q2.</td>
+<td style="width: 95%;">Is there briefing on how CCAs can be selected??</td>
+</tr>
+<tr>
+<td style="width: 5%;">A2.</td>
+<td style="width: 95%;">Yes, during the CCA Open House (opening segment), students will be briefed on the steps for CCA selection. More details will be shared during the briefing.</td>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 5%;">Q3.</td>
+<td style="width: 95%;">Will the new students get to watch performances from the Performing Arts (PA) Groups?</td>
+</tr>
+<tr>
+<td style="width: 5%;">A3.</td>
+<td style="width: 95%;">Yes, there will be.</td>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 5%;">Q4.</td>
+<td style="width: 95%;">Is it compulsory for all students and parents to attend the CCA Orientation?</td>
+</tr>
+<tr>
+<td style="width: 5%;">A4.</td>
+<td style="width: 95%;">It is only compulsory for all Sec 1 students. However, parents are strongly encouraged to attend in order to understand the LEAPS system better.</td>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 5%;">Q5.</td>
+<td style="width: 95%;">Will there be a make-up of this CCA Open House if students/parents miss this session?</td>
+</tr>
+<tr>
+<td style="width: 5%;">A5.</td>
+<td style="width: 95%;">No, there will not be any make-up session. Sec 1 students will not have any after-school activities on that day and hence, all Sec 1 students should be able to attend the e-CCA Orientation session.</td>
+</tr>
+</tbody>
+</table>
