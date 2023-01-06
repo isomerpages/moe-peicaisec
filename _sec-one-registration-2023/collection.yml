@@ -2,6 +2,7 @@ collections:
   sec-one-registration-2023:
     output: true
     order:
+      - Eligibility for Higher Mother Tongue Language (HTML).md
       - Subject–Based Banding (SBB) (For eligible NA & NT students only).md
       - Eligibility for PinnaCle @ Peicai (Talent Development Programme).md
       - Instructions for First Day of School (03 Jan).md
