@@ -2,6 +2,7 @@ collections:
   sec-one-registration-2023:
     output: true
     order:
+      - School Safety and Security.md
       - Secondary 1 Parents' Engagement Session (PES) on 04 Feb (Sat).md
       - Medical Appeal Exercise (MAE) by MOE.md
       - Appeals for Transfer in.md
