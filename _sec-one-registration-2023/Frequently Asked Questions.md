@@ -191,11 +191,11 @@ description: ""
 <tbody>
 <tr>
 <td style="width: 5%;">Q4.</td>
-<td style="width: 95%;">Is it compulsory for all students and parents to attend the CCA Orientation?</td>
+<td style="width: 95%;">Which is the CCA day in Peicai?</td>
 </tr>
 <tr>
 <td style="width: 5%;">A4.</td>
-<td style="width: 95%;">It is only compulsory for all Sec 1 students. However, parents are strongly encouraged to attend in order to understand the LEAPS system better.</td>
+<td style="width: 95%;">There is no fixed CCA day in Peicai. All CCAs are scheduled on different days so as to facilitate venues constraints.</td>
 </tr>
 </tbody>
 </table>
@@ -203,11 +203,48 @@ description: ""
 <tbody>
 <tr>
 <td style="width: 5%;">Q5.</td>
-<td style="width: 95%;">Will there be a make-up of this CCA Open House if students/parents miss this session?</td>
+<td style="width: 95%;">How frequent are CCA sessions?</td>
 </tr>
 <tr>
 <td style="width: 5%;">A5.</td>
-<td style="width: 95%;">No, there will not be any make-up session. Sec 1 students will not have any after-school activities on that day and hence, all Sec 1 students should be able to attend the e-CCA Orientation session.</td>
+<td style="width: 95%;">There is no fixed frequency for CCA sessions. Depending on the nature of CCAs, the frequency varies from once to thrice a week.</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Sec 1 Orientation 2023</strong></p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 5%;">Q1.</td>
+<td style="width: 95%;">Is it compulsory for all Sec 1 students to attend the Sec 1 Orientation?</td>
+</tr>
+<tr>
+<td style="width: 5%;">A1.</td>
+<td style="width: 95%;">Yes. Sec 1 Orientation is a milestone for all Sec 1 students who enter the school as it will be the first platform for them to get to know their classmates, school and teachers.</td>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 5%;">Q2.</td>
+<td style="width: 95%;">What is the purpose of the Sec 1 orientation?</td>
+</tr>
+<tr>
+<td style="width: 5%;">A2.</td>
+<td style="width: 95%;">Sec 1 Orientation is the first platform for Sec 1s to be more familiar with their classmates, teachers and the school. Students build closer bonds within the class and a stronger class and school identity. Through Sec 1 Orientation, students will be better assimilated into Peicai Secondary School and will have a greater sense of belonging and pride to the school.</td>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 5%;">Q3.</td>
+<td style="width: 95%;">Can my child go off earlier during the Sec 1 orientation?</td>
+</tr>
+<tr>
+<td style="width: 5%;">A3.</td>
+<td style="width: 95%;">All Sec 1s are expected to be present throughout the duration of the programme. The timing and details of the programme can be found in the school website under the tab titled “Secondary 1 Orientation Programme (04 – 06 Jan)”.</td>
 </tr>
 </tbody>
 </table>
