@@ -62,3 +62,41 @@ description: ""
 </tr>
 </tbody>
 </table>
+<p style="text-align: center;"><strong><u>Peicai Caring Teacher Award 2022</u></strong></p>
+<p style="text-align: center;">The Peicai Caring Teacher Award is given to recognise and reward teachers in our school who go beyond the call of duty and nurture the holistic development of their students while touching their lives. These teachers also make a difference by making the commitment to lead and inspire their students to be critical and independent learners with love for self, family and society. As individuals and as a community of professionals, these teachers also lead and inspire their fellow colleagues by being good role models.</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 16.6667%;"><img src="/images/stf9.png"></td>
+<td style="width: 16.6667%;"><img src="/images/stf10.jpg"></td>
+<td style="width: 16.6667%;"><img src="/images/stf11.png"></td>
+<td style="width: 16.6667%;"><img src="/images/stf12.jpg"></td>
+<td style="width: 16.6667%;"><img src="/images/stf13.png"></td>
+<td style="width: 16.6667%;"><img src="/images/stf14.png"></td>
+</tr>
+<tr>
+<td style="width: 16.6667%; text-align: center;">Ang Yue Hua (Ms)</td>
+<td style="width: 16.6667%; text-align: center;">Lee Jia Hao (Mr)</td>
+<td style="width: 16.6667%; text-align: center;">Leong Yong Lee Kelvin (Mr)</td>
+<td style="width: 16.6667%; text-align: center;">Mok Wei Chi (Ms)</td>
+<td style="width: 16.6667%; text-align: center;">Shanuradha Selvara (Ms)</td>
+<td style="width: 16.6667%; text-align: center;">Tong Yechuan (Mr)</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;"><strong><u>Peicai Service Excellence Award 2022</u></strong></p>
+<p style="text-align: center;">The Service Excellence Award is given to acknowledge and recognise non-teaching staff in our school who are passionate in their service delivery, go beyond the call of duty in delivering exceptional service and create memorable experiences for others. They also go the extra mile to show care and concern for students and colleagues. Congrats to these well deserved awardees!</p>
+<table style="border-collapse: collapse; width: 75%; margin-left: auto; margin-right: auto;" border="1">
+<tbody>
+<tr>
+<td style="width: 33.3333%;"><img src="/images/stf15.jpeg"></td>
+<td style="width: 33.3333%;"><img src="/images/stf16.jpeg"></td>
+<td style="width: 33.3333%;"><img src="/images/stf17.jpeg"></td>
+</tr>
+<tr>
+<td style="width: 33.3333%; text-align: center;">Lim Bee Bee (Ms) &ndash; Security Officer</td>
+<td style="width: 33.3333%; text-align: center;">Lim Buay Hock John (Mr) &ndash; Operations Support Officer (OSO)</td>
+<td style="width: 33.3333%; text-align: center;">Tan Hui San Annie (Ms) &ndash; Corporate Support Officer (CSO)</td>
+</tr>
+</tbody>
+</table>
