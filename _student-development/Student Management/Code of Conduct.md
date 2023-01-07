@@ -549,3 +549,172 @@ third_nav_title: Student Management
 </tr>
 </tbody>
 </table>
+<ol start="3">
+<ol style="list-style-type: lower-alpha;" start="7">
+<li>Upon return of the confiscated mobile device and non-PDLP electronic devices, it is the students' responsibility to check that their phone is in a condition similar to that prior to confiscation.</li>
+<li>The school may confiscate the mobile device and non-PDLP electronic devices as a disciplinary measure or access the mobile device for the purpose of investigation.</li>
+<li>Students who repeatedly flout the rule may be banned from bringing their mobile device and non-PDLP electronic devices to the school.</li>
+<li>Should students need to make a call to their parents/guardians or read an urgent text message during curriculum time, they should proceed to the General Office where they will be allowed to use the phone there.</li>
+<li>Students should not abuse the use of mobile device and non-PDLP electronic devices. They should not take photographs or videos of others without their permission.</li>
+</ol>
+<li>Students are to note that the lockers in the classroom are there to provide interim storage and security for their Personal Learning Devices (PLDs) and learning materials. They are to observe the following expectations regarding the use of these classroom lockers:</li>
+<ol style="list-style-type: lower-alpha;">
+<li>The responsibility to maintain the condition and cleanliness of the lockers lay with the assigned students. The assigned students shall be held liable if they inflict any wilful damage (e.g. vandalism) to their lockers or fail to report in a timely manner for any damage discovered.</li>
+<li>The responsibility for any lost or stolen items from the lockers lay with the assigned students. Students therefore should not share access to the lockers with any other students.</li>
+<li>The lockers shall be used to store items belonging to the assigned students only. Sharing of lockers is not allowed.</li>
+<li>The lockers should not be used for any other purposes except to store the PLDs.</li>
+<li>PLDs should be not left charging in the lockers, and all PLDs must be brought home and not left in the lockers overnight.</li>
+<li>The lockers shall not be used to store any of the following items:</li>
+<ol style="list-style-type: lower-roman;">
+<li>Any items that can attract pests (e.g. all food and drinks, food wrapper and other forms of litter)</li>
+<li>Any items that can affect the safety of students and staff (E.g. Items that can start fires, weapons or weapon-like objects etc)</li>
+<li>Any items that can cause distraction in class and affect students&rsquo; learning</li>
+<li>Any contraband (e.g. tobacco-related products like cigarettes and e-vaporisers etc)</li>
+</ol>
+<li>School retains the rights to open the lockers at any time for the purpose of safety and security (e.g. through routine spot-checks, disciplinary investigations etc).</li>
+</ol>
+<li>To ensure the safety of students and staff within the school premises, all students who arrive in school by private transport must alight at the designated disembarkation areas. Students should inform their parents/guardians that no waiting or parking is allowed at the designated disembarkation areas. Such areas are designated drop off and pick up zones only.</li>
+<li>The overall Conduct Grade, Attendance, Punctuality of each student will be reflected in his/her Result Slip at the end of the year.</li>
+</ol>
+<h4><strong>CYBER ETIQUETTE</strong></h4>
+<p><strong>Students are to demonstrate the same behaviour and attitude as expected in school itself during the use of internet technology for communication and online lessons. In particular,</strong></p>
+<ol>
+<li>When using internet technology <a title="" href="/student-development/student-management/code-of-conduct#_ftn1" name="_ftnref1">[1]</a> to communicate with others, students are expected to be respectful to others by not sharing</li>
+<ol style="list-style-type: lower-roman;">
+<li>Obscene, derogatory or insensitive remarks/materials.</li>
+<li>Information/materials that promotes unsafe or illegal acts <a title="" href="/student-development/student-management/code-of-conduct#_ftn2" name="_ftnref2">[2]</a>.</li>
+<li>Information and materials that would affect the safety or privacy of others.</li>
+</ol>
+<li>For online lessons, students are expected to</li>
+<ol style="list-style-type: lower-alpha;">
+<li>Be punctual for all scheduled online lessons.</li>
+<li>Be prompt in informing their teachers should they be unable to attend the online lessons due to valid reasons (e.g. on MC etc.). Absences must be supported by appropriate documentation, similar to how absence from school is accounted for (see Attendance 3d &amp; e above). Absence from school, without any valid reasons, is considered truancy.</li>
+<li>Be attentive and actively participate during lessons.</li>
+<li>Be neat and appropriately attired for lessons.</li>
+<li>Ensure that a conducive place is used for the online lessons.</li>
+<li>Ensure that the video camera is on and their faces are displayed prominently on screen.</li>
+<li>Ensure that the mute button is activated when they are not speaking so as to avoid disrupting other participants&rsquo; learning.</li>
+<li>Demonstrate respect to teachers and classmates at all times by</li>
+<ol style="list-style-type: lower-roman;">
+<li>Having only one person speak at a time</li>
+<li>Giving their fullest attention to whoever is speaking</li>
+<li>Being polite in their interactions</li>
+</ol>
+<li>Avoid sharing account details, such as the Login ID and password, with others for online lesson platforms such as SLS, Zoom, Google Meet etc.).</li>
+<li>Always log out from the online lesson platforms after every use.</li>
+<li>Be wary of suspicious emails and report such emails to your teachers.</li>
+<li>Protect the privacy by not video-recording or taking photos of other participants in the online lessons.</li>
+<li>Comply with the teachers&rsquo; instructions at all times during the online lessons.</li>
+</ol>
+</ol>
+<p><strong>Note: </strong>Students who are responsible for any breach of the above etiquette will be considered as having committed an offence in school and will therefore face a consequence during the school&rsquo;s follow-up actions.</p>
+<p>[1] Applications involving the use of internet technology for communication includes but not limiting to Emails, Instant messaging applications (like WhatsApp, Discord, Instagram Direct Messenger etc) and social networking sites (like Instagram, Facebook etc).</p>
+<p>[2] Unsafe or illegal acts includes, but not limiting to, gangsterism, pornography, drug/tobacco abuse (including vaping), gambling, violence, harassment, discrimination etc.</p>
+<h4><strong>POSSIBLE CORRECTIVE AND DISCIPLINARY ACTIONS</strong></h4>
+<table>
+<tbody>
+<tr>
+<td style="text-align: center;">
+<p><strong>Offences</strong></p>
+</td>
+<td style="text-align: center;"><strong>Possible Corrective &amp; Disciplinary Actions</strong></td>
+</tr>
+<tr>
+<td>
+<p><strong>Minor Offences</strong></p>
+<p>A breach of the rules and regulations in the areas of Attire, Appearance, Attendance, Attitude and Behaviour including</p>
+<ul>
+<li>Late coming for school lessons and CCAs</li>
+<li>Unauthorised alteration of school uniform</li>
+<li>Improper/Unacceptable attire Improper/Unacceptable appearance</li>
+<li>Unauthorised and improper use of mobile phones during curriculum&nbsp;time</li>
+<li>IT-related offences depending on the nature of the offence</li>
+<li>Failure to return plates and cutlery to assigned receptacles</li>
+<li>Failure to complete and hand in assignments on time</li>
+<li>Failure to complete detention hours.</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Follow up by Form Teachers/Subject Teachers/CCA Teachers</li>
+<li>Confiscation of unauthorised items</li>
+<li>Corrective Work Order</li>
+<li>Counselling</li>
+<li>Detention</li>
+<li>Immediate rectification</li>
+<li>Involvement of parents</li>
+<li>Meeting with Vice Principal</li>
+<li>Probation</li>
+<li>Review of Conduct&nbsp;Grade</li>
+<li>Suspension</li>
+<li>Verbal warning</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Serious Offences</strong></p>
+<p>The repeat occurrence of the above mentioned minor offences resulting in the persistent commission of the offences would constitute a serious offence. In addition, the following offences&nbsp;are considered&nbsp;serious:</p>
+<ul>
+<li>Absence without valid reasons from school (i.e. Truancy)</li>
+<li>Arson or any attempt to start a fire</li>
+<li>Attempting to cheat or cheating in any form in school test or examination</li>
+<li>Borrowing or lending of money</li>
+<li>Bullying/Fighting/Instigating others to fight</li>
+<li>Commission of offences during probation period</li>
+<li>Cyber abuse&nbsp;</li>
+<li>Deception and forgery of any kind</li>
+<li>Defiance towards school authority</li>
+<li>Disregard of safety rules in school premises and special rooms such as workshops, kitchens and laboratories</li>
+<li>Engaging in inappropriate behaviours and/or having inappropriate physical contact in or outside of school.</li>
+<li>Extortion</li>
+<li>Gambling</li>
+<li>Gang association</li>
+<li>Glue sniffing</li>
+<li>Online impersonation</li>
+<li>IT-related offences depending on the nature of the offence</li>
+<li>Leaving school without permission</li>
+<li>Misuse of school equipment or facilities</li>
+<li>Outrage of modesty</li>
+<li>Persistent absenteeism from CCA without valid reasons</li>
+<li>Persistent disruptive behaviour in class or during assembly or school events</li>
+<li>Persistent late-coming</li>
+<li>Possession of any items that could start a fire such as matchsticks and lighters/paracord bracelet with fire-starting features</li>
+<li>Possession of weapon and weapon-like device</li>
+<li>Possession or consumption of alcohol or drugs</li>
+<li>Possession or viewing of pornography or unauthorised materials</li>
+<li>Receiving police reports on commission of offences</li>
+<li>Smoking&nbsp;or&nbsp;possession&nbsp;of&nbsp;cigarettes/ cigars</li>
+<li>Theft</li>
+<li>Use of abusive or vulgar language, including&nbsp;on&nbsp;online&nbsp;platforms</li>
+<li>Vandalism</li>
+<li>Vaping or possession of e-vapourisers or e-vapouriser pods and catridges</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Caning</li>
+<li>Confiscation of unauthorised items</li>
+<li>Corrective Work&nbsp;Order</li>
+<li>Detention</li>
+<li>Expulsion</li>
+<li>Individual Monitoring via a Monitoring Booklet</li>
+<li>Involvement of External Agencies</li>
+<li>Involvement of Parents</li>
+<li>Letter of Undertaking and Probation with monthly progress report from teachers</li>
+<li>Meeting with Principal</li>
+<li>Meeting with Vice Principal</li>
+<li>Official record of offence(s)</li>
+<li>Period of compulsory counselling</li>
+<li>Review of Conduct Grade</li>
+<li>Review of Testimonial</li>
+<li>Suspension</li>
+<li>Warning Letter</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Note:</strong></p>
+<p>The above list is non-exhaustive. The school reserves the sole right to determine and decide which category the offence falls under and the appropriate corrective and disciplinary action(s) that needs to be taken.</p>
+<p>The school may also issue rules and guidelines pertaining to specific matters of discipline from time to time. These may serve to add on to or clarify existing rules and corrective actions.</p>
