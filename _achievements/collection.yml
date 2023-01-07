@@ -2,11 +2,11 @@ collections:
   achievements:
     output: true
     order:
-      - Staff.md
       - Students/.keep
       - Students/Students.md
       - Students/The Principal's List.md
       - Students/Individual Student Achievements.md
       - Students/Co Curricular Achievements.md
       - Students/School Based Awards.md
+      - Staff.md
       - Alumni.md
