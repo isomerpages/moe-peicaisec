@@ -223,3 +223,110 @@ third_nav_title: Student Management
 </ol>
 <li>Student leaders are to put on their Student Leaders&rsquo; badge at all times when they are wearing the school uniform</li>
 </ol>
+<h4><strong>ATTENDANCE:</strong></h4>
+<p><strong>Rationale: To cultivate self-management through personal responsibility and accountability</strong></p>
+<ol>
+<li>All students are expected to be punctual for and be present in school to attend the flag raising ceremony and all lessons.</li>
+<li>Students who are Singapore citizens must sing the National Anthem and take the Pledge. Students will take the Pledge with the right fist placed over the heart.</li>
+<li>The procedures and timings for morning assembly and the flag raising ceremony are as follows:</li>
+</ol>
+<table><colgroup><col width="121" /><col width="486" /></colgroup>
+<tbody>
+<tr>
+<td style="text-align: center;">
+<p>Time</p>
+</td>
+<td style="text-align: center;">
+<p>Activity</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">
+<p>7.35 a.m.</p>
+</td>
+<td>
+<ul>
+<li dir="ltr" aria-level="1">The slow music starts.</li>
+<li dir="ltr" aria-level="1">Students are to assemble with their form class in the parade square / school hall / classroom for flag raising ceremony.</li>
+<li dir="ltr" aria-level="1">An announcement will be made via the public address system if there are any changes to the assigned assembly venues due to inclement weather.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">
+<p>7.35 a.m. &ndash; 7.38 a.m.</p>
+</td>
+<td>
+<ul>
+<li dir="ltr" aria-level="1">The slow music ends.</li>
+<li dir="ltr" aria-level="1">The school bell rings and the school gates will be closed at 7.35 a.m. sharp.</li>
+<li dir="ltr" aria-level="1">The fast music starts.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">
+<p>7.40 a.m. onwards</p>
+</td>
+<td>
+<ul>
+<li dir="ltr" aria-level="1">The fast music ends.</li>
+<li dir="ltr" aria-level="1">The flag raising ceremony will commence.</li>
+<li dir="ltr" aria-level="1">Students who are not present with their form class for the flag raising ceremony (although they are in school) will be considered as late for school.</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<ol start = "4">
+<li>The procedures and timings for morning assembly and the flag raising ceremony on Wednesdays are as follows:</li>
+</ol>
+<table><colgroup><col width="121" /><col width="486" /></colgroup>
+<tbody>
+<tr>
+<td style="text-align: center;">
+<p dir="ltr">Time</p>
+</td>
+<td style="text-align: center;">
+<p dir="ltr">Activity</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">
+<p dir="ltr">8.15 a.m.</p>
+</td>
+<td>
+<ul>
+<li dir="ltr" aria-level="1">The slow music starts.</li>
+<li dir="ltr" aria-level="1">Students are to assemble with their form class in the parade square / school hall / classroom for flag raising ceremony.</li>
+<li dir="ltr" aria-level="1">An announcement will be made via the public address system if there are any changes to the assigned assembly venues due to inclement weather.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">
+<p dir="ltr">8.18 a.m. &ndash; 8.20 a.m.</p>
+</td>
+<td>
+<ul>
+<li dir="ltr" aria-level="1">The slow music ends.</li>
+<li dir="ltr" aria-level="1">The fast music starts.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">
+<p dir="ltr">8.20 a.m. onwards</p>
+</td>
+<td>
+<ul>
+<li dir="ltr" aria-level="1">The fast music ends.</li>
+<li dir="ltr" aria-level="1">The bell will ring.</li>
+<li dir="ltr" aria-level="1">The school gates will be closed.</li>
+<li dir="ltr" aria-level="1">The flag raising ceremony will commence.</li>
+<li dir="ltr" aria-level="1">Students who are not present with their form class for the flag raising ceremony (although they are in school) will be considered as late for school.</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
