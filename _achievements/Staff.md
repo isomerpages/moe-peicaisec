@@ -125,7 +125,7 @@ description: ""
 <tbody>
 <tr>
 <td style="width: 33.3333%;"><img src="/images/stf22.png"></td>
-<td style="width: 33.3333%;"><img src="/images/stf23.png"></td>
+<td style="width: 33.3333%;"><img style="width: 80%;" src="/images/stf23.png"></td>
 <td style="width: 33.3333%;"><img src="/images/stf24.png"></td>
 </tr>
 <tr>
