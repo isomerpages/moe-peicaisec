@@ -100,3 +100,38 @@ description: ""
 </tr>
 </tbody>
 </table>
+<p style="text-align: center;"><strong><u>MOE Service Excellence Awards</u></strong></p>
+<p style="text-align: center;">The MOE Service Excellence Award (MSEA) recognises MOE staff who are passionate in service delivery, consistent in serving customers with C.A.R.E. ( Courtesy, Accessibility, Responsiveness and Effectiveness) and inspire colleagues to do likewise.<br />Congratulations to the following staff who were recipients of the award!&nbsp;</p>
+<table style="border-collapse: collapse; width: 80%; margin-left: auto; margin-right: auto;" border="1">
+<tbody>
+<tr>
+<td style="text-align: center;" colspan="4"><strong>Gold Award</strong></td>
+</tr>
+<tr>
+<td style="width: 25%;"><img src="/images/stf18.png"></td>
+<td style="width: 25%;"><img src="/images/stf19.png"></td>
+<td style="width: 25%;"><img src="/images/stf20.png"></td>
+<td style="width: 25%;"><img src="/images/stf21.png"></td>
+</tr>
+<tr>
+<td style="width: 25%; text-align: center;">Chin Yin Chen Charlotte (Ms)</td>
+<td style="width: 25%; text-align: center;">Han Mee Kwong Richard (Mr)</td>
+<td style="width: 25%; text-align: center;">Low Ching Kai (Mr)</td>
+<td style="width: 25%; text-align: center;">Ow Teng Kok (Mr)</td>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 66%; margin-left: auto; margin-right: auto;" border="1">
+<tbody>
+<tr>
+<td style="width: 33.3333%;"><img src="/images/stf22.png"></td>
+<td style="width: 33.3333%;"><img src="/images/stf23.png"></td>
+<td style="width: 33.3333%;"><img src="/images/stf24.png"></td>
+</tr>
+<tr>
+<td style="width: 33.3333%; text-align: center;">Siew Wei Jian Vincent (Mr)</td>
+<td style="width: 33.3333%; text-align: center;">Tan Jiahui Rachel (Ms)&nbsp;</td>
+<td style="width: 33.3333%; text-align: center;">Tan Kai Ting Caroline (Ms)</td>
+</tr>
+</tbody>
+</table>
