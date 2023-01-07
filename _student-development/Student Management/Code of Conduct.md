@@ -330,3 +330,42 @@ third_nav_title: Student Management
 </tr>
 </tbody>
 </table>
+<ol start="5">
+<li>All students are to adhere to the following:</li>
+<ol style="list-style-type: lower-alpha;">
+<li>Be punctual and present for the flag raising ceremony, assembly, all lessons, activities and other school events.</li>
+<li>Assemble in the parade square/school hall/classroom by 7.40 a.m (8.20 a.m. on Wednesday). It is the responsibility of the student to personally inform his/her Form Teacher if he/she is in school but not in the respective assembly area due to valid reasons.</li>
+<li>Inform the Form Teachers or the General Office of their absence from school by 7.40 a.m. (8.20 a.m. on Wednesday) on the day of absence.</li>
+<li>Submit an original copy of the Medical Certificate (MC) for the day(s) absent from school to the Form Teacher on the day of return to school.</li>
+<li>Letters from parents/guardians explaining a student&rsquo;s absence from school should not exceed 5 in a semester as students&rsquo; attendance in school is critical for them to do well in school. Students will be considered as absent without valid reason if they have submitted parent letters/emails for more than 5 days of absence per semester or travelled overseas during term time for family holidays. Absence without valid reason can be considered as truancy and appropriate consequences will be meted out.</li>
+<li>Letters from parents/guardians cannot be used to explain absence from tests or examinations. Absence from a test/examination without a valid MC will result in the student getting a zero mark for the test/examination.</li>
+<li>Submitted MCs must be issued by a medical practitioner registered under the Medical Registration Act or the Dental Registration Act.</li>
+<li>Persistent truancy is viewed as a wilful absence from school and may result in expulsion. A student who is absent from school without any valid reasons for three days (the days need not be consecutive), will be issued a letter of warning.</li>
+</ol>
+</ol>
+<ol start="6">
+<li>A student who has been late without valid reason for six times for the year will be issued an advisory letter. Persistent late-coming may result in suspension from school.</li>
+<li>After receiving a warning letter, a student who continues to be late (that is reaches school between 7.40 a.m. to 8.00 a.m.) without any valid reasons, may not be allowed to go to class.</li>
+<li>A student who is late on Wednesday (late day) for three times (the days need not be consecutive) will be placed under the Early Bird Programme. Students identified for the Early Bird Programme will have to report to school by 7.40 a.m. thereafter. Wilful absence from the programme will be deemed as defiance/truancy, and the affected students will be placed under detention and/or suspension from school.</li>
+<li>Students who reach school after 8.00 a.m. would be considered as severely late. They are to proceed to the General Office to see one of the Vice Principals (or Student Management KPs if the Vice Principals are not in schools) to obtain approval to proceed for lessons. Students should not proceed for lessons or activities for the day unless approval has been given via the issuance of a late coming slip by a Vice Principal or by a Student Management KP.</li>
+<li>Students with late-coming records the previous year, who arrive after 8.00 a.m. and have no valid reasons for being late, will not be allowed to go to class.</li>
+<li>Students who have been issued the late-coming slip are required to submit these slips to their Form Teachers or Subject Teachers for records purposes.</li>
+<li>Students with less than 95% attendance (where absence is without valid medical reasons) may not be allowed to sit for the End-of-Year examinations.</li>
+<li>Poor attendance in school and persistent late-coming may affect the conduct grade and testimonial of the student.</li>
+<li>Curriculum time is of utmost importance, as such, early release from school or absence during curriculum time will not be approved unless it is on compassionate grounds. Students are advised to schedule their medical or dental appointmentafter curriculum time.</li>
+<li>Students who need to be absent from school for an extended period (continuously three or more days) during term time for valid reasons should seek special permission from the Principal/Vice-Principal by filling in a Permission for Curriculum Absence (PCA) form. Failing which, absence from school during this period may be considered as truancy.</li>
+<ol style="list-style-type: lower-alpha;">
+<li>For planned absences (with valid reasons) from curriculum, application should be submitted at least 2 weeks before. The PCA form may be obtained from the school&rsquo;s General Office.</li>
+<li>For last minute request on compassionate grounds, students should approach the General Office directly if in school or notify via their form teachers if not in school.</li>
+<li>Students on Hospitalisation and/or Medical Leave need not submit the Permission for Curriculum Absence (PCA) Form and should instead follow the points listed out in part 5 (c), 5 (d) and 5 (g).</li>
+</ol>
+</ol>
+<ol start="16">
+<li>Preparing and studying for tests or examinations is not a valid reason for absence from school and such offences will have a direct impact on the student&rsquo;s conduct grade and testimonials.</li>
+<li>Going on holidays during term time will not be considered as a valid reason for absence from school, including lessons, CCA and school programmes. Such offences will have a direct impact on the student&rsquo;s conduct grade and testimonials.</li>
+<li>Attending tuition and other enrichment outside of schoolwill not be considered as a valid reason for absence from school, afternoon lessons or programmes and CCA. Such offences will have a direct impact on the student&rsquo;s conduct grade and testimonials.</li>
+<li>Attendance at detention and CWO is compulsory where assigned. Any assigned hours must be duly completed within the stipulated time.</li>
+<li>Attendance at CCA is compulsory. Students who are absent from CCA will need to produce a valid MC (refer to Point 3g above) for the period of absence to the CCA teacher in-charge. Poor CCA attendance may affect conduct grade and school/national representation in competitions.</li>
+<li>If a student no longer has any more lessons for the day, the earliest time that he/she can be dismissed from school will be at 12.30 p.m.</li>
+<li>Students who do not have any lessons in between periods should do their own self- revision at the school library. Where there are such instances, it will be formally arranged by the school. Students are to sign in and out with the librarian at the library.</li>
+</ol>
