@@ -1,11 +1,32 @@
 ---
 title: Financial Assistance Scheme (FAS)
-permalink: /student-services/financial-support/financial-assistance-scheme-fas
+permalink: /student-services/financial-support/financial-assistance-scheme-fas/
 description: ""
 ---
-<p><u><strong>Financial</strong></u><u><strong>Assistance</strong></u></p>
-<p>MOE Financial Assistance Scheme (FAS) 2022 application is open. Eligible applicant may download the&nbsp;<a href="https://www.moe.gov.sg/financial-matters/-/media/2a3bf498a09a4e7b9088d1a60f761c67.ashx">MOEFAS Application Form for 2022</a>&nbsp;or collect the form from the General Office.</p>
-<p>Submit the completed form together with the required supporting documents to the General Office. We seek your assistance to ensure documentation is complete before submission.</p>
-<p>You may refer <a href="https://www.moe.gov.sg/financial-matters/financial-assistance">here</a>&nbsp;for more information</p>
-<p>For information on the redemption of FAS Transitlink E-vouchers, please refer to the attached step-by-step guide:</p>
-<p><a href="/files/Evoucher_Redemption_Process.pdf">Evoucher_Redemption_Process.pdf</a></p>
+<p><span style="text-decoration: underline;"><strong>MOE FINANCIAL ASSISTANCE SCHEME (MOE FAS) 2023</strong></span></p>
+<ol>
+<li>The MOE Financial Assistance Scheme (FAS) is open for application for Year 2023.</li>
+</ol>
+<p>Eligibility Criteria and Benefits</p>
+<ol start="2">
+<li>Please refer to this <a href="/files/MOE%20FAS%20pamphlet%20EL%20for%20schools.pdf" target="">Pamphlet</a> for the eligibility criteria and MOE FAS benefits.</li>
+</ol>
+<p>Application Procedures</p>
+<ol start="3">
+<li>Parents can choose to apply for MOE FAS either through (i) Hardcopy Form or (ii) e-FAS.</li>
+<ol style="list-style-type: lower-roman;">
+<li>Hardcopy Form<br />You may collect the MOE FAS Application Form from the General Office or download from <a href="/files/MOE%20FAS%20Application%20Form.pdf" target="">here</a>.<br />Please complete the Form and ensure all required supporting documents are attached before submitting your application to the General Office.</li>
+<li>e-FAS<br />If you wish to submit FAS application electronically, please do so using the new e-FAS link/ QR code below. Please prepare in advance all supporting documents in softcopy prior to doing the submission.</li>
+<p style="text-align: center;"><a href="https://go.gov.sg/moe-efas">https://go.gov.sg/moe-efas</a></p>
+<img style="width: 25%;" src="/images/qr1.png" />
+</ol>
+<li>Application strictly via Hardcopy Form is required for below scenarios:</li>
+<ol style="list-style-type: lower-alpha;">
+<li>families with other dependents (Great grandparents, Aunties/Uncles, Cousins and others)&nbsp;</li>
+<li>family with more than 5 children in GGAS&nbsp;</li>
+<li>family with more than 4 unmarried children not in GGAS</li>
+<li>family with more than 3 grandparents in the household</li>
+</ol>
+<li>Parents whose child is a ComCare recipient need not submit the application for MOE FAS as MOE FAS will be auto-granted to ComCare beneficiaries.</li>
+<li>You may contact the General Office at 62884159 or email <a href="mailto:peicai_ss@moe.edu.sg">peicai_ss@moe.edu.sg</a> if you need clarifications.</li>
+</ol>
