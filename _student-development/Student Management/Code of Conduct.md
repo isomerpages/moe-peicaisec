@@ -369,3 +369,79 @@ third_nav_title: Student Management
 <li>If a student no longer has any more lessons for the day, the earliest time that he/she can be dismissed from school will be at 12.30 p.m.</li>
 <li>Students who do not have any lessons in between periods should do their own self- revision at the school library. Where there are such instances, it will be formally arranged by the school. Students are to sign in and out with the librarian at the library.</li>
 </ol>
+<h4><strong>ATTITUDE AND BEHAVIOUR</strong></h4>
+<p><strong>Rationale: To cultivate self-discipline through responsible decision making</strong></p>
+<ol>
+<li>Students are to ensure adherence to the following at all times:</li>
+<ol style="list-style-type: lower-roman;">
+<li><strong>In school:</strong></li>
+<ol style="list-style-type: lower-alpha;">
+<li>Students are to respect and obey all school rules and regulations.</li>
+<li>Students are to display exemplary conduct and behave with decorum at all times.</li>
+<li>Students are to observe silence when they are in the classroom, at the parade square or school hall for flag raising ceremony or other school functions. They are to conduct themselves well during such gatherings where common courtesy and respect must be accorded to all concerned including guest speakers.</li>
+<li>Students must be respectful to all school staff and other students.</li>
+<li>Students are responsible for keeping the environment safe. The school has zero tolerance towards actions that may hurt or harm others emotionally or physically.</li>
+<li>Students are prohibited from entering any staff offices, such as the Staff Rooms, General office and HOD room, as well as the Staff Lounge.</li>
+<li>Students can enter special rooms in the school only when accompanied by teachers.</li>
+<li>Students are not allowed to invite anyone into the school without permission. All visitors to the school must obtain a Visitor Pass at the security post and report to the General Office.</li>
+<li>Students are strictly not allowed to use abusive or foul language.</li>
+<li>Possession of any material that promotes unhealthy habits such as gambling, violence, harassment, discrimination etc. are strictly not allowed</li>
+<li>Possession and consumption of alcohol, tobacco-related products and e-vapouriser related products, like cigarettes, e-vapourisers, e-vapouriser pods or cartridges, are strictly prohibited by law.</li>
+<li>Possession of any incendiary items, such as lighters, paracord survival bracelet, matchsticks, matchboxes, empty cigarette boxes, are strictly not allowed.</li>
+<li>Possession and consumption of drugs are strictly prohibited by law.</li>
+<li>All students are not allowed to have in their possession any weapon or weapon-like devices in school. They are also not allowed to bring any weapon-like item that is used or intended to be used to cause harm to others.</li>
+<li>Cycling, skating, rollerblading, and riding skate-scooters within the school grounds are strictly not allowed.</li>
+</ol>
+</ol>
+</ol>
+<ol>
+<li>Students are to ensure adherence to the following at all times:</li>
+<ol style="list-style-type: lower-roman;">
+<li><strong>In school:</strong></li>
+<ol style="list-style-type: lower-alpha;">
+<li>Students are to respect and obey all school rules and regulations.</li>
+<li>Students are to display exemplary conduct and behave with decorum at all times.</li>
+<li>Students are to observe silence when they are in the classroom, at the parade square or school hall for flag raising ceremony or other school functions. They are to conduct themselves well during such gatherings where common courtesy and respect must be accorded to all concerned including guest speakers.</li>
+<li>Students must be respectful to all school staff and other students.</li>
+<li>Students are responsible for keeping the environment safe. The school has zero tolerance towards actions that may hurt or harm others emotionally or physically.</li>
+<li>Students are prohibited from entering any staff offices, such as the Staff Rooms, General office and HOD room, as well as the Staff Lounge.</li>
+<li>Students can enter special rooms in the school only when accompanied by teachers.</li>
+<li>Students are not allowed to invite anyone into the school without permission. All visitors to the school must obtain a Visitor Pass at the security post and report to the General Office.</li>
+<li>Students are strictly not allowed to use abusive or foul language.</li>
+<li>Possession of any material that promotes unhealthy habits such as gambling, violence, harassment, discrimination etc. are strictly not allowed</li>
+<li>Possession and consumption of alcohol, tobacco-related products and e-vapouriser related products, like cigarettes, e-vapourisers, e-vapouriser pods or cartridges, are strictly prohibited by law.</li>
+<li>Possession of any incendiary items, such as lighters, paracord survival bracelet, matchsticks, matchboxes, empty cigarette boxes, are strictly not allowed.</li>
+<li>Possession and consumption of drugs are strictly prohibited by law.</li>
+<li>All students are not allowed to have in their possession any weapon or weapon-like devices in school. They are also not allowed to bring any weapon-like item that is used or intended to be used to cause harm to others.</li>
+<li>Cycling, skating, rollerblading, and riding skate-scooters within the school grounds are strictly not allowed.</li>
+</ol>
+<li><strong>In Class</strong></li>
+<ol style="list-style-type: lower-alpha;">
+<li>Students are expected to attend all their lessons and not leave the classrooms without permission or a valid reason.</li>
+<li>Students are expected to be punctual for lessons.</li>
+<li>Students are expected to be attentive and participate actively during lessons.</li>
+<li>Students are expected to complete and hand in all assignments on time.</li>
+<li>Students are expected to be responsible for the cleanliness of their classrooms.</li>
+<li>Students leaving the classroom during a lesson are expected to have a pass. Only 1 student will be allowed to leave the classroom at a time.</li>
+<li>Students who are going to another venue during a change of period are expected to do so promptly and in an orderly manner.</li>
+<li>Students are expected not to be walking around the classroom during lesson time.</li>
+<li>Students are expected not to be disruptive during lesson time.</li>
+<li>Students are expected to keep their hand phones and mobile devices out of sight (i.e. inside their school bags) unless otherwise instructed by teachers.</li>
+<li>No food and drinks except mineral water are allowed in the classrooms/special rooms. School staff has the right to discard any food or drinks brought into classroom.</li>
+</ol>
+<li><strong>During Recess</strong></li>
+<ol style="list-style-type: lower-alpha;">
+<li>Students are not to stay in the class during recess unless with permission from a teacher.</li>
+<li>Students should queue for their food and can only buy food for themselves.</li>
+<li>Students should not enter the canteen vendors&rsquo; kitchen area at any time.</li>
+<li>Students should keep the canteen clean.</li>
+<li>Students should return all eating utensils to the respective receptacles after use.</li>
+<li>Students should not bring food and drinks out of the canteen or to the classrooms for consumption. Food and drinks should be consumed only at the designated eating areas.</li>
+</ol>
+<li><strong>At school events/functions</strong></li>
+<ol style="list-style-type: lower-alpha;">
+<li>Students are to show respect and common courtesy to uphold the good name of the school at all times.</li>
+<li>Competitors / players should are to practise fair play when representing the school.</li>
+</ol>
+</ol>
+</ol>
