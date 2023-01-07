@@ -2,5 +2,6 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - CCA.md
       - CCA Schedule.md
       - CCAs.md
