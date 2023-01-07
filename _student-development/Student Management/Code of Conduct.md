@@ -445,3 +445,107 @@ third_nav_title: Student Management
 </ol>
 </ol>
 </ol>
+<ol>
+<li>Students are to observe the following regarding the use of mobile devices (including mobile phones and other electronic devices):</li>
+<ol style="list-style-type: lower-alpha;">
+<li>Students carry mobile phones to school at their own risk. No other personal electronic devices (except school issued PDLP devices) should be brought to school.</li>
+<li>To ensure a conducive environment for learning in school, students are not allowed to use their mobile phones and non-PDLP related electronic devices during curriculum time. The table below summarises the use of devices during curriculum time.</li>
+</ol>
+</ol>
+<table>
+<tbody>
+<tr>
+<td width="312">
+<p style="text-align: center;">Venues where personal and non-PDLP electronic devices may be used</p>
+</td>
+<td width="312">
+<p style="text-align: center;">Venues where personal and non-PDLP electronic devices are&nbsp;<strong><u>not to be used at all times</u></strong></p>
+<p style="text-align: center;">(permission must be obtained from teachers)</p>
+</td>
+</tr>
+<tr>
+<td width="312">
+<p>During recess:</p>
+<ul>
+<li>Basketball Courts</li>
+<li>Canteen</li>
+<li>Field</li>
+<li>Foyer</li>
+<li>Volleyball Courts</li>
+</ul>
+</td>
+<td width="312">
+<ul>
+<li>Art Rooms</li>
+<li>Classrooms</li>
+<li>Computer laboratories</li>
+<li>Corridor along classrooms</li>
+<li>In-door Sports Hall</li>
+<li>Foyer</li>
+<li>Design and Technology Workshops</li>
+<li>Kitchen</li>
+<li>Multi-purpose Hall</li>
+<li>Science laboratories</li>
+<li>Stairway</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<ol>
+<ol style="list-style-type: lower-alpha;" start="3">
+<li>Students are to inform their parents/guardians of the school&rsquo;s policies on the use of mobile devices during curriculum time. For safety and emergency purposes, parents/guardians who need to contact their child/ward urgently can contact the General Office at 6288 4159.</li>
+<li>All mobile phones and non-PDLP related electronic devices should be switched off and kept out-of-sight unless it is used for the purpose of teaching and learning and approved by the teacher. They will be confiscated if they are seen or heard during curriculum time.</li>
+<li>Charging of any electronic devices is not allowed at all times. Students should instead charge their devices at the allocated charging kiosk(s) found in the school canteen.</li>
+<ol style="list-style-type: lower-roman;">
+<li>Students are responsible for the proper use and cleanliness of the charging kiosk(s). Any intentional damage(s) or damage(s) due to negligence will be deemed the responsibility of the student(s), who will bear the cost of damage and face disciplinary action in accordance with the school&rsquo;s discipline policy.</li>
+<li>The school retains the right to open the charging kiosk(s) and/or units to remove any non-complying PLDs at any time for the safety, security and disciplinary purposes.</li>
+<li>All damages spotted by students should be reported to the General Office.</li>
+</ol>
+<li>The period of confiscation will be as follows:</li>
+</ol>
+</ol>
+<table width="484">
+<tbody>
+<tr>
+<td style="text-align: center;" width="143">
+<p><strong>No. of offences</strong></p>
+</td>
+<td style="text-align: center;" width="341">
+<p><strong>Confiscation period</strong></p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="143">
+<p>1<sup>st</sup>&nbsp;time</p>
+</td>
+<td style="text-align: center;" width="341">
+<p>1 day</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="143">
+<p>2<sup>nd</sup>&nbsp;time</p>
+</td>
+<td style="text-align: center;" width="341">
+<p>3 days</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="143">
+<p>3<sup>rd</sup>&nbsp;time</p>
+</td>
+<td style="text-align: center;" width="341">
+<p>5 days</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="143">
+<p>4<sup>th</sup>&nbsp;time or more</p>
+</td>
+<td style="text-align: center;" width="341">
+<p>Mobile phones only to be returned to parents after 7 working days.<br>OR<br>Students may be banned from bringing mobile phones to school.</p>
+</td>
+</tr>
+</tbody>
+</table>
