@@ -161,3 +161,25 @@ description: ""
 <h4 style="text-align: center;"><strong><u>2021</u></strong></h4>
 <p style="text-align: center;"><strong><u>National Day Awards</u></strong></p>
 <p style="text-align: center;">The Singapore National Day Awards are a means of recognising various forms of merit and service to Singapore. Congratulations to the following staff on their awards!</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 25%;"><strong>Year</strong></td>
+<td style="width: 25%;"><strong>Award</strong></td>
+<td style="width: 25%;"><strong>Recipient</strong></td>
+<td style="width: 25%;"><strong>Designation</strong></td>
+</tr>
+<tr>
+<td style="width: 25%;">2021</td>
+<td style="width: 25%;">Commendation Medal</td>
+<td style="width: 25%; text-align: center;"><img src="/images/stf31.png">Ms Tan Hui Chun</td>
+<td style="width: 25%;">Head of Department</td>
+</tr>
+<tr>
+<td style="width: 25%;">2021</td>
+<td style="width: 25%;">Long Service Medal</td>
+<td style="width: 25%; text-align: center;"><img src="/images/stf32.png">Mr Tan Kim Huat</td>
+<td style="width: 25%;">Subject Head</td>
+</tr>
+</tbody>
+</table>
