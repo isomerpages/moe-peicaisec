@@ -154,7 +154,10 @@ description: ""
 <td style="width: 16.6667%; text-align: center;">Choo Kian Tong Jonas (Mr)</td>
 <td style="width: 16.6667%; text-align: center;">Koh Ah Kheng Mark (Mr)</td>
 <td style="width: 16.6667%; text-align: center;">Lim Buay Hock John (Mr)</td>
-<td style="width: 16.6667%; text-align: center;"><span class="">Serasozapandian K (Mr)</span>&nbsp;</td>
+<td style="width: 16.6667%; text-align: center;">Serasozapandian K (Mr)</td>
 </tr>
 </tbody>
 </table>
+<h4 style="text-align: center;"><strong><u>2021</u></strong></h4>
+<p style="text-align: center;"><strong><u>National Day Awards</u></strong></p>
+<p style="text-align: center;">The Singapore National Day Awards are a means of recognising various forms of merit and service to Singapore. Congratulations to the following staff on their awards!</p>
