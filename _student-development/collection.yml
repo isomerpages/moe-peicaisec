@@ -2,7 +2,6 @@ collections:
   student-development:
     output: true
     order:
-      - Talent Development Programme (PinnaCle@Peicai).md
       - CCE/.keep
       - CCE/Character & Citizenship Education.md
       - CCE/Cyber Wellness @ Peicai.md
@@ -10,10 +9,11 @@ collections:
       - CCE/Education and Career Guidance (ECG).md
       - CCE/National Education (NE).md
       - CCE/Sexuality Education.md
+      - Student Management/.keep
       - Student Management/Student Management.md
       - Student Management/Code of Conduct.md
-      - Student Management/.keep
       - Gear Up.md
+      - Talent Development Programme (PinnaCle@Peicai).md
       - (ECG).md
       - Mental and Emotional Wellbeing & Support.md
       - Applied Learning Programme (ALP).md
