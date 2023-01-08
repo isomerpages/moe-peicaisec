@@ -6,6 +6,10 @@ description: ""
 <div><img style="width: 12%;" src="/images/logo.jpg" align = "left" />
 <p><strong>DMA User Guide for Parents<br /></strong>Please click on the above link to find out more.</p>
 <p style="text-align: right;"><a href="/others/dma-user-guide-for-parents">Read More...</a></p>
+
+<div><img style="width: 12%;" src="/images/logo.jpg" align = "left" />
+<p><strong>2022 Term 3 Class Timetable<br /></strong>Please click the link to find out more.</p>
+<p style="text-align: right;"><a href="/files/2022_Class_Term%203_for%20website_final.pdf">Read More...</a></p>
 <div><img style="width: 12%;" src="/images/logo.jpg" align = "left" />
 <p><strong>Inspiring Teacher of English Award 2022<br /></strong>Please click on the above link to find out more.</p>
 <p style="text-align: right;"><a href="/others/inspiring-teacher-of-english-award-2022">Read More...</a></p>
