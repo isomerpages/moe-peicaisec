@@ -1,9 +1,9 @@
 title: Pei Cai Secondary School
-url: ""
+url: https://www.peicaisec.moe.edu.sg
 favicon: /images/logo.jpg
 colors:
   primary-color: "#3f00b2"
-  secondary-color: "#000000"
+  secondary-color: "#6ed8c0"
   media-colors:
     - title: media-color-one
       color: "#ffffff"
