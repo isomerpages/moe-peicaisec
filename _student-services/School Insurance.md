@@ -1,6 +1,6 @@
 ---
 title: School Insurance
-permalink: /student-services/school-insurance
+permalink: /student-services/school-insurance/
 description: ""
 ---
 <h4><strong>Group Personal Accident (GPA) Insurance for Students</strong></h4>
@@ -295,7 +295,10 @@ description: ""
 </tr>
 <tr>
 <td><strong>Required Documents</strong><br />1. For hospitalisation or day surgery, a copy of Inpatient discharge summary/ Day surgery form/ Attending physician's medical report<br />2. Police report, if applicable<br />3. If you have submitted a claim to any third party who has reimbursed your bills (e.g. other insurance policies/ insurers/ your employers), please submit copies of the following documents:<br />
-<blockquote>a. Reimbursement letter/ claim settlement letter from other source<br />b. Copy of the Shield Plan's settlement letter if there is any payment by Medisave-approved Integrated Shield Plan.</blockquote>
+<ol style="list-style-type: lower-alpha;">
+<li>Reimbursement letter/ claim settlement letter from other source</li>
+<li>Copy of the Shield Plan's settlement letter if there is any payment by Medisave-approved Integrated Shield Plan.</li>
+</ol>
 Please note that the list of documents above is not exhaustive. Other documents may be requested if necessary.</td>
 </tr>
 </tbody>
