@@ -3,6 +3,15 @@ collections:
     output: true
     order:
       - School Advisory Committee (SAC).md
+      - Students/.keep
+      - Students/Model Peicaian.md
+      - Students/Student iCON.md
+      - Partners/.keep
+      - Partners/Partners.md
+      - Partners/Lions Club.md
+      - Partners/Rotary Club of Changi.md
+      - Staff Email Addresses 2023.md
+      - Staff/.keep
       - Staff/Staff.md
       - Staff/School Management Committee.md
       - Staff/Executive & Administrative Staff.md
@@ -14,12 +23,3 @@ collections:
       - Staff/Humanities.md
       - Staff/Craft & Technology.md
       - Staff/Physical Education.md
-      - Staff/.keep
-      - Students/Model Peicaian.md
-      - Students/Student iCON.md
-      - Students/.keep
-      - Partners/.keep
-      - Partners/Partners.md
-      - Partners/Lions Club.md
-      - Partners/Rotary Club of Changi.md
-      - Staff Email Addresses 2023.md
