@@ -135,3 +135,26 @@ description: ""
 </tr>
 </tbody>
 </table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 100%; text-align: center;" colspan="6"><strong>Silver Award</strong></td>
+</tr>
+<tr>
+<td style="width: 16.6667%;"><img src="/images/stf25.png"></td>
+<td style="width: 16.6667%;"><img src="/images/stf26.png"></td>
+<td style="width: 16.6667%;"><img src="/images/stf27.png"></td>
+<td style="width: 16.6667%;"><img src="/images/stf28.png"></td>
+<td style="width: 16.6667%;"><img src="/images/stf29.png"></td>
+<td style="width: 16.6667%;"><img style="width: 70%;" src="/images/stf30.png"></td>
+</tr>
+<tr>
+<td style="width: 16.6667%; text-align: center;">Abu Bakar Bin Abd Hamid (Mr)</td>
+<td style="width: 16.6667%; text-align: center;">Bharathi d/o Rengasamy (Ms)</td>
+<td style="width: 16.6667%; text-align: center;">Choo Kian Tong Jonas (Mr)</td>
+<td style="width: 16.6667%; text-align: center;">Koh Ah Kheng Mark (Mr)</td>
+<td style="width: 16.6667%; text-align: center;">Lim Buay Hock John (Mr)</td>
+<td style="width: 16.6667%; text-align: center;"><span class="">Serasozapandian K (Mr)</span>&nbsp;</td>
+</tr>
+</tbody>
+</table>
