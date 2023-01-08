@@ -2,6 +2,7 @@ collections:
   unused-pages:
     output: true
     order:
+      - Staff (Our Peicai Family)/Humanities.md
       - Staff (Our Peicai Family)/Craft & Technology.md
       - Staff (Our Peicai Family)/Physical Education.md
       - Staff (Our Peicai Family)/.keep
