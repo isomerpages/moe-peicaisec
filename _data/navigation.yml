@@ -18,14 +18,16 @@ links:
   - title: Academic
     url: /academic/teaching-and-learning-at-pcss
     sublinks:
-      - title: Teaching and Learning @ PCSS
-        url: /academic/teaching-and-learning-at-pcss
+      - title: Subjects offered
+        url: /academic/subjects-offered
+      - title: Full Subject Based Banding
+        url: /academic/full-subject-based-banding-fsbb
       - title: Assessment and Promotion
         url: /academic/assessment-and-promotion-criteria
       - title: Subject Overviews
         url: /academic/subject-overviews
       - title: Blended Learning
-        url: /academic/blended-learning/for-students
+        url: /academic/blended-learning
       - title: Subject Areas
         url: /academic/subject-areas
       - title: Craft & Technology
