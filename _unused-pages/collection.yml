@@ -2,6 +2,7 @@ collections:
   unused-pages:
     output: true
     order:
+      - Allied Educators.md
       - English Language and Literature.md
       - Staff (Our Peicai Family)/Mother Tongue.md
       - Staff (Our Peicai Family)/Mathematics.md
