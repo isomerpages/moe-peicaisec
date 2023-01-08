@@ -183,3 +183,74 @@ description: ""
 </tr>
 </tbody>
 </table>
+<p style="text-align: center;"><strong><u>MOE Service Excellence Awards</u></strong></p>
+<p style="text-align: center;">The MOE Service Excellence Award (MSEA) recognises MOE staff who are passionate in service delivery, consistent in serving customers with C.A.R.E. ( Courtesy, Accessibility, Responsiveness and Effectiveness) and inspire colleagues to do likewise.<br />Congratulations to the following staff who were recipients of the award!</p>
+<table style="border-collapse: collapse; width: 75%; margin-left: auto; margin-right: auto;" border="1">
+<tbody>
+<tr>
+<td style="width: 20%; text-align: center;"><strong>Year</strong></td>
+<td style="width: 20%; text-align: center;"><strong>Category</strong></td>
+<td style="width: 60%; text-align: center;"><strong>Name</strong></td>
+</tr>
+<tr>
+<td style="width: 20%; text-align: center;">2021</td>
+<td style="width: 20%; text-align: center;">Gold</td>
+<td style="width: 60%; text-align: center;"><img style="width: 50%;" src="/images/stf33.png">Johari Bin Ahmad</td>
+</tr>
+<tr>
+<td style="width: 20%; text-align: center;">2021</td>
+<td style="width: 20%; text-align: center;">Gold</td>
+<td style="width: 60%; text-align: center;"><img style="width: 50%;" src="/images/stf34.png">Lee Wei Tat</td>
+</tr>
+<tr>
+<td style="width: 20%; text-align: center;">2021</td>
+<td style="width: 20%; text-align: center;">Gold</td>
+<td style="width: 60%; text-align: center;"><img style="width: 50%;" src="/images/stf35.png">Mohamad Kamarudin Bin Abdul Samad</td>
+</tr>
+<tr>
+<td style="width: 20%; text-align: center;">2021</td>
+<td style="width: 20%; text-align: center;">Gold</td>
+<td style="width: 60%; text-align: center;"><img style="width: 50%;" src="/images/stf36.jpg">Tan Sheng Ting Heidi</td>
+</tr>
+<tr>
+<td style="width: 20%; text-align: center;">2021</td>
+<td style="width: 20%; text-align: center;">Gold</td>
+<td style="width: 60%; text-align: center;"><img style="width: 50%;" src="/images/stf37.jpg">Lee Jia Hao</td>
+</tr>
+<tr>
+<td style="width: 20%; text-align: center;">2021</td>
+<td style="width: 20%; text-align: center;">Gold</td>
+<td style="width: 60%; text-align: center;"><img style="width: 50%;" src="/images/stf38.jpg">Ho Thuk Lan</td>
+</tr>
+<tr>
+<td style="width: 20%; text-align: center;">2021</td>
+<td style="width: 20%; text-align: center;">Silver</td>
+<td style="width: 60%; text-align: center;"><img style="width: 50%;" src="/images/stf39.png">Jacelyn Pang Yi Xin</td>
+</tr>
+<tr>
+<td style="width: 20%; text-align: center;">2021</td>
+<td style="width: 20%; text-align: center;">Silver</td>
+<td style="width: 60%; text-align: center;"><img style="width: 50%;" src="/images/stf40.png">Seah Bee Leng</td>
+</tr>
+<tr>
+<td style="width: 20%; text-align: center;">2021</td>
+<td style="width: 20%; text-align: center;">Silver</td>
+<td style="width: 60%; text-align: center;"><img style="width: 50%;" src="/images/stf41.jpg">Mok Wei Chi</td>
+</tr>
+<tr>
+<td style="width: 20%; text-align: center;">2021</td>
+<td style="width: 20%; text-align: center;">Silver</td>
+<td style="width: 60%; text-align: center;"><img style="width: 50%;" src="/images/stf42.png">Nurliza Bte Sawi</td>
+</tr>
+<tr>
+<td style="width: 20%; text-align: center;">2021</td>
+<td style="width: 20%; text-align: center;">Silver</td>
+<td style="width: 60%; text-align: center;"><img style="width: 50%;" src="/images/stf43.png">Ong Chiang Thai Greg</td>
+</tr>
+<tr>
+<td style="width: 20%; text-align: center;">2021</td>
+<td style="width: 20%; text-align: center;">Silver</td>
+<td style="width: 60%; text-align: center;"><img style="width: 50%;" src="/images/stf44.png">Theseira Merlinda Laura</td>
+</tr>
+</tbody>
+</table>
