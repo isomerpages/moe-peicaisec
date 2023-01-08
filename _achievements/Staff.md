@@ -267,3 +267,17 @@ description: ""
 </tr>
 </tbody>
 </table>
+<p style="text-align: center;"><strong><u>NIE Caring Teacher Awards</u></strong></p>
+<p style="text-align: center;">The Caring Teacher Awards (CTA) aims to acknowledge teachers in our schools who go beyond the call of duty, nurturing the holistic development of their students and ensuring their charges grow up to be confident, independent and resilient learners for our nation.</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 10%; text-align: center;"><strong>Year</strong></td>
+<td style="width: 90%; text-align: center;"><strong>Winners</strong></td>
+</tr>
+<tr>
+<td style="width: 10%; text-align: center;"><strong>2020</strong></td>
+<td style="width: 90%;"><img src="/images/stf46.png"></td>
+</tr>
+</tbody>
+</table>
