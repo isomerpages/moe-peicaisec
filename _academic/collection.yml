@@ -2,6 +2,7 @@ collections:
   academic:
     output: true
     order:
+      - Blended Learning/Blended Learning.md
       - Blended Learning/.keep
       - Teaching and Learning @ PCSS.md
       - Subjects offered.md
