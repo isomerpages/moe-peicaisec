@@ -1,32 +1,140 @@
 ---
 title: Parent Support Group (PSG)
-permalink: /parents/parent-support-group-psg
+permalink: /parents/parent-support-group-psg/
 description: ""
 ---
-<h4><strong>Parent-Teacher-Student (PTS) Connection</strong></h4>
-<p>The Parent Support Group in Peicai is known as Parent-Teacher-Student (PTS) Connection which is grouped into two areas:</p>
-<img style="width: 65%;" src="/images/psg1.jpg" />
-<p>The PTSC meets once a term on a Friday evening, to brainstorm ideas for PTSC activities. It is also a platform for PTSC members to share ideas and concerns, as well as to bond.</p>
-<p><strong><u>1. PSG Meetings &amp; Activities</u></strong></p>
-<img style="width: 75%;" src="/images/psg2.jpg" />
-<p style="text-align: center;"><em>Our PSG Chairman, Mdm Chong May Fong receiving her appointment letter.</em></p>
-<img style="width: 75%;" src="/images/psg3.jpg" />
-<p style="text-align: center;"><em>Bonding over dinner.</em></p>
-<img style="width: 50%;" src="/images/psg4.jpg" />
-<p style="text-align: center;"><em>Chinese New Year &ndash; Lo Hei!</em></p>
-<img style="width: 100%;" src="/images/psg5.jpg" />
-<p style="text-align: center;"><em>Mac Ritchie Tree Top Walk</em></p>
-<p><strong><u>2. PSG Networking Session by MOE</u></strong></p>
-<img style="width: 75%;" src="/images/psg6.jpg" />
-<p style="text-align: center;"><em>Our PSG Exco attending a networking session on ECG for parents.&nbsp;</em></p>
-<p><strong><u>3. PSG Support for Peicai Activities</u></strong></p>
-<p>a. Green Workshop @Peicai</p>
-<p>Read about the Green Workshop conducted by our PSG, Mdm Parvathy for our Secondary One students on the Ministry of Environment and Water Resources blog.</p>
-<p><a href="https://climateaction.sg/2018/03/04/green-workshops-connect-with-nature/" target="_blank" rel="noopener">https://climateaction.sg/2018/03/04/green-workshops-connect-with-nature/</a></p>
-<img style="width: 50%;" src="/images/psg7.jpg" />
-<p>b. Project Heart@Peicai 2018</p>
-<p>Our PSG members volunteering for Project Heart @Peicai &ndash; a collaboration with Lion Befrienders.</p>
-<img style="width: 100%;" src="/images/psg8.png" />
-<p>c. Caricature Drawing</p>
-<p>Our PSG member, Mr Kamal drew caricatures for staff and students during the Sec 1 Fair</p>
-<img style="width: 50%;" src="/images/psg9.jpg" />
+<p>In PCSS, we believe that a strong home-school partnership is a key enabler to develop our students to their full potential and enable them to fulfill their aspirations.</p>
+<p>The Peicai Parent Support Group (PSG) works in very close partnership with the school to support the school in providing a dynamic and vibrant holistic education as well as environment for students to develop and excel.</p>
+<p><strong>Roles of the PSG</strong></p>
+<img style="width: 90%;" src="/images/psg1.png" />
+<p><strong>Partnering the School</strong></p>
+<p>Parents can support and work in close partnership with the school via the&nbsp;<strong>3 Ts</strong>.</p>
+<table>
+<tbody>
+<tr>
+<td style="text-align: center;" width="208">
+<p><strong>TIME</strong></p>
+</td>
+<td style="text-align: center;" width="208">
+<p><strong>TALENT</strong></p>
+</td>
+<td style="text-align: center;" width="208">
+<p><strong>THOUGHTS</strong></p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="208">
+<p>Volunteer time to participate in the school&rsquo;s events and programmes which will help parents experience first hand what their children do in school</p>
+</td>
+<td style="text-align: center;" width="208">
+<p>Share knowledge, expertise, networks with the school to add value to the school&rsquo;s programmes.</p>
+<p>These could be for students, staff or other parents.</p>
+</td>
+<td style="text-align: center;" width="208">
+<p>Attend PSG Meetings and Breakfast Sessions with the Principal and School Management to share feedback and ideas on policies, processes and programmes that could further enrich the holistic education for all students in the school</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Key Highlights of PSG Activities and Programmes in 2022</strong></p>
+<img src="/images/psg31.jpg"><br>
+<img src="/images/psg41.jpg">
+<p>Parenting Talks 2022</p>
+<table width="624">
+<tbody>
+<tr>
+<td style="text-align: center;" width="54">
+<p><strong>No.</strong></p>
+</td>
+<td style="text-align: center;" width="438">
+<p><strong>Talk</strong></p>
+</td>
+<td style="text-align: center;" width="132">
+<p><strong>Date</strong></p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="54">
+<p>1</p>
+</td>
+<td style="text-align: center;" width="438">
+<p>Triple P L2 Webinar for Sec 1</p>
+</td>
+<td style="text-align: center;" width="132">
+<p>19, 26 Feb &amp; 5 Mar</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="54">
+<p>2</p>
+</td>
+<td style="text-align: center;" width="438">
+<p>Conversations with Your Teens</p>
+</td>
+<td style="text-align: center;" width="132">
+<p>21 Mar</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="54">
+<p>3</p>
+</td>
+<td style="text-align: center;" width="438">
+<p>Colours of the Mind<br>(Positive Functioning, Emotional Intelligence, Social Intelligence)</p>
+</td>
+<td style="text-align: center;" width="132">
+<p>11/13 May</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="54">
+<p>4</p>
+</td>
+<td style="text-align: center;" width="438">
+<p>The Art of Setting Boundaries and Giving Freedom</p>
+</td>
+<td style="text-align: center;" width="132">
+<p>21 May</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="54">
+<p>5</p>
+</td>
+<td style="text-align: center;" width="438">
+<p>Money Sense for you Child</p>
+</td>
+<td style="text-align: center;" width="132">
+<p>4 Jun</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="54">
+<p>6</p>
+</td>
+<td style="text-align: center;" width="438">
+<p>Ask Me Anything Money Sense for Your Child</p>
+</td>
+<td style="text-align: center;" width="132">
+<p>25 Jun</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="54">
+<p>7</p>
+</td>
+<td style="text-align: center;" width="438">
+<p>Triple P L2 Webinar for Sec 2-5</p>
+</td>
+<td style="text-align: center;" width="132">
+<p>5, 12, 19 Aug</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Join us a member of PSG</strong></p>
+<p>We encourage all parents to be a member of the school&rsquo;s PSG as it would instantly connect you with a number of parents with whom you would be able to interact and share ideas as well as thoughts on how you could further support your child in his/her journey as a teenager.</p>
+<p>If you would like to be a member of Peicai&rsquo;s PSG, please register via the QR Code or link provided below and one of the PSG Teacher Advisors (<em>Mr James Koh, Year Head/Upper Sec</em>&nbsp;or&nbsp;<em>Mrs Merlinda Joseph, Year Head/Lower Secondary</em>) would be in touch with you.&nbsp;</p>
+<img style="width: 25%;" src="/images/psg61.png" />
+<p style="text-align: center;"><a href="https://go.gov.sg/pc-psg2022">https://go.gov.sg/pc-psg2022</a></p>
+<p>Should you like to find out more about PSG@Peicai, you may write to us at <a href="mailto:peicai_ss@moe.edu.sg">peicai_ss@moe.edu.sg</a>.</p>
