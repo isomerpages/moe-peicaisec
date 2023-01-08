@@ -254,3 +254,16 @@ description: ""
 </tr>
 </tbody>
 </table>
+<h4 style="text-align: center;"><strong><u>2020</u></strong></h4>
+<p style="text-align: center;"><strong><u>National Day Awards</u></strong></p>
+<p style="text-align: center;">The Singapore National Day Awards are a means of recognising various forms of merit and service to Singapore. Congratulations to the following staff on their awards!</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 25%; text-align: center;">2020</td>
+<td style="width: 25%; text-align: center;">Commendation Medal</td>
+<td style="width: 25%; text-align: center;"><img style="width: 100%;" src="/images/stf45.png">Mdm Yusmawati Bte Abdul Rahman</td>
+<td style="width: 25%; text-align: center;">Head of Department</td>
+</tr>
+</tbody>
+</table>
