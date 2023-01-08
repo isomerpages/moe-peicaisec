@@ -1,6 +1,6 @@
 ---
 title: Useful Links
-permalink: /parents/useful-links
+permalink: /parents/useful-links/
 description: ""
 ---
 <h4><strong>For Parents</strong></h4>
