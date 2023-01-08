@@ -2,6 +2,7 @@ collections:
   unused-pages:
     output: true
     order:
+      - Staff (Our Peicai Family)/Mother Tongue.md
       - Staff (Our Peicai Family)/Mathematics.md
       - Staff (Our Peicai Family)/Science.md
       - Staff (Our Peicai Family)/Humanities.md
