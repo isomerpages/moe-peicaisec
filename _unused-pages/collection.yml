@@ -2,7 +2,7 @@ collections:
   unused-pages:
     output: true
     order:
-      - Staff/.keep
+      - Staff (Our Peicai Family)/.keep
       - School Events.md
       - Archive.md
       - Year in Review.md
