@@ -1,15 +1,47 @@
 ---
 title: Student Leadership (SL)
-permalink: /student-development/student-leadership-sl
+permalink: /student-development/student-leadership-sl/
 description: ""
 third_nav_title: Student Leadership (SL)
 ---
-<p>Student Leadership at Peicai Secondary School stands on the belief that every student has the potential to be developed into a leader. This leads us to offer numerous leadership opportunities for students to embrace the challenge of being a leader, be it at class, CCA or school-wide platforms. We adopt Kouzes and Posner&rsquo;s Student Leadership Challenge model to guide our leadership curriculum as it aligns perfectly with our core belief &ndash; students can become leaders not because they have the character traits of one but rather, by practising the actions that great leaders do.</p>
 <table>
 <tbody>
 <tr>
-<th><img src="images/sl1.png" alt="1.png" width="100%" /></th>
-<td><img src="images/sl2.png" alt="2.png" width="100%" /></td>
+<th><img src="images/sl1.png"></th>
+<td><img src="images/sl2.png"></td>
+</tr>
+</tbody>
+</table>
+<h4><strong>The Team</strong></h4>
+<table width="439">
+<tbody>
+<tr>
+<td width="219"><strong>Name</strong></td>
+<td width="219"><strong>Designation</strong></td>
+</tr>
+<tr>
+<td width="219">Tan Sheng Ting Heidi</td>
+<td width="219">Subject Head (Student Leadership) &ndash; internal</td>
+</tr>
+<tr>
+<td width="219">Leong Yong Lee Kelvin</td>
+<td width="219">Teacher-in-Charge</td>
+</tr>
+<tr>
+<td width="219">Low Ching Kai</td>
+<td width="219">Teacher-in-Charge</td>
+</tr>
+<tr>
+<td width="219">Ophelia Kee</td>
+<td width="219">Teacher-in-Charge</td>
+</tr>
+<tr>
+<td width="219">Tan Khay Yi Sarah</td>
+<td width="219">Teacher-in-Charge</td>
+</tr>
+<tr>
+<td width="219">Wong Jiun Ching</td>
+<td width="219">Teacher-in-Charge</td>
 </tr>
 </tbody>
 </table>
