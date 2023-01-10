@@ -69,3 +69,177 @@ description: ""
 </tr>
 </tbody>
 </table>
+<table width="671">
+<tbody>
+<tr>
+<td style="text-align: center;" width="133">
+<p><strong>Student Name</strong></p>
+</td>
+<td style="text-align: center;" width="238">
+<p><strong>Diploma Course</strong></p>
+</td>
+<td style="text-align: center;" width="86">
+<p><strong>Year of Graduation<br />(from Peicai)</strong></p>
+</td>
+<td style="text-align: center;" width="94">
+<p><strong>Name of Award</strong></p>
+</td>
+<td style="text-align: center;" width="108">
+<p><strong>School</strong></p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="133">
+<p>Jacelyn Wong&nbsp;</p>
+</td>
+<td style="text-align: center;" width="238">
+<p>&nbsp;Diploma in Biomedical Science</p>
+</td>
+<td style="text-align: center;" width="86">
+<p>2014</p>
+</td>
+<td style="text-align: center;" width="94">
+<p>Diploma with Merit&nbsp;</p>
+</td>
+<td style="text-align: center;" width="108">
+<p>Republic Polytechnic&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="133">
+<p>&nbsp;Chee Rui Yi Rachel</p>
+</td>
+<td style="text-align: center;" width="238">
+<p>Nitec in Applied Food Science&nbsp;</p>
+</td>
+<td style="text-align: center;" width="86">
+<p>2014&nbsp;</p>
+</td>
+<td style="text-align: center;" width="94">
+<p>Course Medal&nbsp;</p>
+</td>
+<td style="text-align: center;" width="108">
+<p>ITE College East&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="133">
+<p>&nbsp;Leow Lijuan Charmain</p>
+</td>
+<td style="text-align: center;" width="238">
+<p>Higher NITEC in Passenger Services&nbsp;</p>
+</td>
+<td style="text-align: center;" width="86">
+<p>2014&nbsp;</p>
+</td>
+<td style="text-align: center;" width="94">
+<p>Course Medal</p>
+</td>
+<td style="text-align: center;" width="108">
+<p>ITE College Central&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="133">
+<p>Javen Koo Zi Cong</p>
+</td>
+<td style="text-align: center;" width="238">
+<p>Diploma in Hospitality &amp; Tourism Management</p>
+</td>
+<td style="text-align: center;" width="86">
+<p>2012</p>
+</td>
+<td style="text-align: center;" width="94">
+<p>Crowne Plaza Changi Airport Prize</p>
+</td>
+<td style="text-align: center;" width="108">
+<p>Temasek Polytechnic</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="133">
+<p>Zhuo Luo Ling&nbsp;</p>
+</td>
+<td style="text-align: center;" width="238">
+<p>&nbsp;Diploma in Accountancy and Finance</p>
+</td>
+<td style="text-align: center;" width="86">
+<p>2011</p>
+</td>
+<td style="text-align: center;" width="94">
+<p>&nbsp;Director&rsquo;s List&nbsp;</p>
+</td>
+<td style="text-align: center;" width="108">
+<p>&nbsp;Nanyang Polytechnic</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="133">
+<p>&nbsp;Joanne Lim</p>
+</td>
+<td style="text-align: center;" width="238">
+<p>&nbsp;Diploma in Hospitality and Tourism Management</p>
+</td>
+<td style="text-align: center;" width="86">
+<p>2011&nbsp;</p>
+</td>
+<td style="text-align: center;" width="94">
+<p>Director&rsquo;s List</p>
+</td>
+<td style="text-align: center;" width="108">
+<p>Nanyang Polytechnic&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="133">
+<p>&nbsp;Eunice Tan</p>
+</td>
+<td style="text-align: center;" width="238">
+<p>Diploma in Hospitality and Tourism Management&nbsp;</p>
+</td>
+<td style="text-align: center;" width="86">
+<p>2011&nbsp;</p>
+</td>
+<td style="text-align: center;" width="94">
+<p>Director&rsquo;s List</p>
+</td>
+<td style="text-align: center;" width="108">
+<p>Nanyang Polytechnic&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="133">
+<p>Lim Wai Nee&nbsp;</p>
+</td>
+<td style="text-align: center;" width="238">
+<p>&nbsp;Diploma in Business Management</p>
+</td>
+<td style="text-align: center;" width="86">
+<p>2010&nbsp;</p>
+</td>
+<td style="text-align: center;" width="94">
+<p>Director&rsquo;s List&nbsp;</p>
+</td>
+<td style="text-align: center;" width="108">
+<p>&nbsp;Nanyang Polytechnic</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="133">
+<p>&nbsp;Elaine Tan</p>
+</td>
+<td style="text-align: center;" width="238">
+<p>&nbsp;Diploma in Social Services (Social Work)</p>
+</td>
+<td style="text-align: center;" width="86">
+<p>2010&nbsp;</p>
+</td>
+<td style="text-align: center;" width="94">
+<p>National Council of Social Service Gold Medal&nbsp;</p>
+</td>
+<td style="text-align: center;" width="108">
+<p>Nanyang Polytechnic&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
