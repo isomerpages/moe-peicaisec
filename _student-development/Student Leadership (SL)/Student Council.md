@@ -1,60 +1,101 @@
 ---
 title: Student Council
-permalink: /student-development/student-leadership-sl/student-council
+permalink: /student-development/student-leadership-sl/student-council/
 description: ""
 third_nav_title: Student Leadership (SL)
 ---
-<p dir="ltr">Guided by the principle that leadership is a personal choice, the school encourages students to nominate themselves to embark on the journey of being a leader through the Student Council. By lowering the barriers of entry to leadership, the school endeavours to equip all students with the competencies necessary for success in the 21st century.</p>
-<p dir="ltr">In addition to the leadership principles of the Student Leadership Challenge, Student Councillors are equipped with practical skills like public speaking, group facilitation and project management. This is the platform they stand on when they plan and execute school-wide events, like Secondary One Orientation Camp, NE events and Teachers&rsquo; Day Celebrations.</p>
-<p dir="ltr">Catering to a wide range of aptitudes and attitudes, Student Councillors who want to be challenged further can apply to be in the Student Council Executive Committee or aim to achieve the rank of Senior Student Councillor.</p>
-<p dir="ltr">The school actively recognises the contributions of Student Councillors through various school-based (e.g. School Contribution Awards) and MOE-based (e.g. EAGLES, LEAPS2.0, ECHA) platforms.</p>
-<p dir="ltr">Follow us on Instagram for more updates!&nbsp;<a href="https://bit.ly/peicaisl_councilig" target="">https://bit.ly/peicaisl_councilig</a>.</p>
-<ul class="jekyllcodex_accordion">
-<li><input id="accordion1" type="checkbox" /> <label for="accordion1">2021</label>
-<div>
-<div>
-<h4><strong>Student Leaders Investiture 2021</strong></h4>
-<p>Peicai Secondary School came together to celebrate the appointments of the various student leaders in the school. This year, we invested 63 new Student Councillors, 12 Executive Committee members and 40 CCA Leaders. These brave leaders have answered the call of leadership and in doing so, pledge to serve the school and the community.&nbsp;<br /><br /></p>
-<table>
+<h4><strong>Training and Schedule</strong></h4>
+<table style="margin-left: auto; margin-right: auto;" width="75%">
 <tbody>
 <tr>
-<th style="text-align: center;">Part 1</th>
-<th style="text-align: center;">Part 2</th>
+<td width="146">
+<p><strong>Day</strong></p>
+</td>
+<td width="146">
+<p><strong>Time</strong></p>
+</td>
+<td width="146">
+<p><strong>Venue</strong></p>
+</td>
 </tr>
 <tr>
-<td><iframe title="YouTube video player" src="https://www.youtube.com/embed/u07vkDHe9Q4" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></td>
-<td><iframe title="YouTube video player" src="https://www.youtube.com/embed/AOtJj-D_o98" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></td>
+<td width="146">
+<p>Pow Wow (termly Student Council meetings) first week of the term</p>
+</td>
+<td width="146">
+<p>3.30pm &ndash; 5.30pm</p>
+</td>
+<td width="146">
+<p>Various Venues</p>
+</td>
 </tr>
 </tbody>
 </table>
-</div>
-<div>
-<h4><strong>EXCO Leadership Challenge 2021</strong></h4>
-<p>The newly appointed 13th Student Council Executive Committee got together as a family to take a deeper dive into what leadership is and what it means to them.<br /><br /><iframe title="YouTube video player" src="https://www.youtube.com/embed/dFc4Mik-jMY" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></p>
-</div>
-</div>
-</li>
-<li><input id="accordion2" type="checkbox" /> <label for="accordion2">2020</label>
-<div>
-<h4><strong>Student Leaders Investiture 2020</strong></h4>
-<p>Student Leaders Investiture 2020 had to be run differently because of the times we live in but the 11th Student Council Executive Committee rose to the challenge and digitised the programme.</p>
-<p><iframe src="https://www.youtube.com/embed/nVPdShVvF5o" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></p>
-<h4><strong>EXCO Leadership Challenge 2020</strong></h4>
-<p>The 12th Student Council Executive Committee came together for the annual EXCO leadership training. Over the course of the 2 days, EXCO12 modelled, challenged, inspired, enabled and encouraged. Taking steps towards building their EXCO family, EXCO12 is raring and ready to leader the Student Council forward!</p>
-<p>&ldquo;ELC20 was very eye-opening for me as I got to know my fellow EXCOs better and understand why they are how they are. It reaffirmed my hope that EXCO12 would get closer as time goes by and become the family that I know we can be!&rdquo; &ndash; Lois Lio, 3C1, Hd Logistics, EXCO12</p>
-<p><iframe src="https://www.youtube.com/embed/VhipMuHnKQU" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></p>
-<h4><strong>Teachers' Day Celebrations 2020 - Wanderlust</strong></h4>
-<p>Despite the challenge of 2020, the Student Council challenged the processed and ith a live virtual concert. The Student Council brought the school together to celebrate the impact the teachers have made in the lives of all Peicaians.</p>
-<p>"We know that the staff members of our school have sacrificed so much for the sake of us students and that nothing we do can truly repay them. Through this small effort, the Council hopes to represent the student body in appreciating them. To my fellow Peicaians, instead of us appreciating our teachers annually, just once a year, why not make it a daily affair. Truth be told, I think our teachers would appreciate our small gestures of gratitude on a daily basis rather than a once-off grand affair. As we approach the rest of the year, let&rsquo;s take the initiative and make it habit to do it daily." - Kieron Lye, 3C1, President, EXCO12</p>
-<p><iframe src="https://www.youtube.com/embed/LPI9_gfWV5w" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></p>
-</div>
-</li>
-<li><input id="accordion3" type="checkbox" /> <label for="accordion3">2019</label>
-<div>
-<p>The evening of 12 April 2019 was a significant moment as Peicai invested a total of 173 students into various leadership appointments. Amongst them, 14 graduating student leaders were appointed to the rank of Senior Student Councillor for their invaluable service to the school. </p>
-<p style="text-align: center;">Senior Student Councillors</p>
-<p>The theme this year is "Discover Self, Inspire Others" and through it, we hope that the invested leaders would discover their own strengths and leadership styles as they embark on their leadership journey, and eventually develop into a unique leader who inspires others to take on challenges with a positive attitude!</p>
-<p style="text-align: center;"><strong>Please click on the link for more interesting pictures taken during the event</strong><br /><strong><a href="https://drive.google.com/open?id=1hW406VWUL8SZUHoZNe48iz8OGhBQtE4V" target="">https://drive.google.com/open?id=1hW406VWUL8SZUHoZNe48iz8OGhBQtE4V</a></strong></p>
-</div>
-</li>
-</ul>
+<p>On top of our termly Student Council Pow Wows, most of our trainings are on-job trainings, whereby Student Councillors learn as they serve and get involved in various school events (e.g. Teachers&rsquo; Day, Sec One Orientation Camp, Student Leaders Investiture, etc.).</p>
+<p>The Student Council also organises specific trainings to level the leadership competencies of our Student Councillors &ndash; Public Speaking Skills, Facilitation Skills, and Project Management Skills.</p>
+<p>Beyond being able to deepen their leadership competencies through organising school-based projects and events, our Student Councillors are involved in Community Outreach and Service to the community too. Our Sec 2 Students Councillors take part in the KidsREAD programme initiated by the National Library Bord, in collaboration with MOE. This programme hopes to promote&nbsp;the love of reading and cultivate good reading habits among young Singaporeans, specifically children from less privileged families. The Councillors step out of their comfort zones to reach out to Primary School children, engaging them through storybooks and interactive activities.&nbsp;</p>
+<h4><strong>2022 Student Council Executive Committee</strong></h4>
+<table style="margin-left: auto; margin-right: auto;" width="439">
+<tbody>
+<tr>
+<td width="219"><strong>Appointment</strong></td>
+<td width="219"><strong>Name of Student</strong></td>
+</tr>
+<tr>
+<td width="219">President</td>
+<td width="219">SOUKASEUM SOUVATHANA</td>
+</tr>
+<tr>
+<td width="219">Vice-President</td>
+<td width="219">ANG EE JIN</td>
+</tr>
+<tr>
+<td width="219">Vice-President</td>
+<td width="219">KEH WEE HUI, GENEVIVE</td>
+</tr>
+<tr>
+<td width="219">Head of Information</td>
+<td width="219">ABBYGAIL RAEANNE SALAO ATENDIDO</td>
+</tr>
+<tr>
+<td width="219">Head of Information</td>
+<td width="219">FARAH NUR DIANAH BINTE MOHAMAD HELMI</td>
+</tr>
+<tr>
+<td width="219">Head of Logistics</td>
+<td width="219">SAI LIN MAUNG</td>
+</tr>
+<tr>
+<td width="219">Head of Logistics</td>
+<td width="219">ZARATE SHAE LORENZ RIPARIP</td>
+</tr>
+<tr>
+<td width="219">Head of Media</td>
+<td width="219">ASHLEY TOK WEI JIE</td>
+</tr>
+<tr>
+<td width="219">Head of Media</td>
+<td width="219">NUR FARHANA BINTE FAIRUZ</td>
+</tr>
+<tr>
+<td width="219">Head of Council Level</td>
+<td width="219">PEH KHAI QUAN, ISAAC</td>
+</tr>
+<tr>
+<td width="219">Head of Council Level</td>
+<td width="219">NUR BATRISYIA BINTE DIMYATI</td>
+</tr>
+<tr>
+<td width="219">Head of Council Level</td>
+<td width="219">LIM XIANG MING, JUSTYN</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Student Councillors in Action</strong></h4>
+<img style="width: 90%;" src="/images/sc1.jpg" /><br>
+<img style="width: 90%;" src="/images/sc2.jpg" /><br>
+<img style="width: 90%;" src="/images/sc3.jpg" /><br>
+<img style="width: 90%;" src="/images/sc4.jpg" /><br>
+<img style="width: 90%;" src="/images/sc5.jpg" /><br>
+<img style="width: 90%;" src="/images/sc6.jpg" /><br>
+<img style="width: 90%;" src="/images/sc7.jpg" />
