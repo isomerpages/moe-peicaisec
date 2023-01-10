@@ -28,26 +28,9 @@ description: ""
 <tr>
 <td style="width: 50%;"><img style="width: 75%;" src="/images/al5.png"></td>
 <td style="width: 50%;">
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 30%;"><img src="/images/alp6.png"></td>
-<td style="width: 70%;">
-<p><strong><u>ITE College East 2021<br /></u></strong>Name:Tan Yuan&nbsp;<span class="">Tian<br /></span><span class="">Course:&nbsp;<em>Nitec</em></span><span class="">&nbsp;In&nbsp;Mechanical&nbsp;Technology</span><span class="">,&nbsp;</span><span class="">ITE College&nbsp;East<br /></span>Awards: Course Medal and&nbsp; Tay Eng Soon Gold Medal Award</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 50%;"><img src="/images/alp7.png"></td>
-<td style="width: 50%;">
-<p><strong><u>I</u></strong><strong><u>TE College Central 2021<br /></u></strong>Name&nbsp; : Tam&nbsp;Wei&nbsp;Xuan<br />Course :&nbsp;&nbsp;<em>Higher&nbsp;Nitec</em> In Visual&nbsp;Merchandising,&nbsp;ITE&nbsp;College&nbsp;Central<br />Award&nbsp; : Course Medal&nbsp;</p>
-</td>
-</tr>
-</tbody>
-</table>	
+<img style="width: 50%;" src="/images/al6.png" align = "left" /><p><strong><u>ITE College East 2021<br /></u></strong>Name:Tan Yuan&nbsp;Tian<br />Course:&nbsp;<em>Nitec</em>&nbsp;In&nbsp;Mechanical&nbsp;Technology,&nbsp;ITE College&nbsp;East<br />Awards: Course Medal and Tay Eng Soon Gold Medal Award</p>
+<img style="width: 50%;" src="/images/al7.png" align = "left" />
+	<p><strong><u>I</u></strong><strong><u>TE College Central 2021<br /></u></strong>Name : Tam&nbsp;Wei&nbsp;Xuan<br />Course : <em>Higher&nbsp;Nitec</em>&nbsp;In Visual&nbsp;Merchandising,&nbsp;ITE&nbsp;College&nbsp;Central<br />Award : Course Medal</p>
 </td>
 </tr>
 <tr>
