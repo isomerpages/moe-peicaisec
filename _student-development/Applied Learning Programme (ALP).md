@@ -1,34 +1,19 @@
 ---
 title: Applied Learning Programme (ALP)
-permalink: /student-development/applied-learning-programme-alp
+permalink: /student-development/applied-learning-programme-alp/
 description: ""
 ---
-<p>Peicai&rsquo;s Applied Learning Programme focuses on Applied Food Science over the course of a one-year long programme, from Secondary 1 Semester 2 to Secondary 2 Semester 1. Through this programme, we aim to put students through various soft and hard skills modules, in addition to the content taught throughout the year.</p>
-<p>Skills taught include:&nbsp;</p>
-<div style="text-align: center;">
-<table>
-<tbody>
-<tr>
-<th style="text-align: center;">Soft Skills</th>
-<th style="text-align: center;">Hard Skills</th>
-</tr>
-<tr>
-<td>Collaborative Skills</td>
-<td>IT Skills</td>
-</tr>
-<tr>
-<td>Interview and surveying skills</td>
-<td>Simple Designing</td>
-</tr>
-<tr>
-<td>Presentation Skills&nbsp;</td>
-</tr>
-<tr>
-<td>&nbsp;Empathy</td>
-</tr>
-</tbody>
-</table>
-</div>
-<p>Students go through a series of theoretical and practical sessions, both in the Science laboratories as well as the Food and Consumer Education (FCE) kitchens. At the end of the one year long programme, students whip up a healthy and professional meal for the elders from Lions Befrienders through a yearly affair called Project HEART, a specially planned programme for our Secondary 2 students.</p>
-<p>Students who wish to explore further into the area of Applied Food Science can also participate in our Tier 2 programmes, where they will be given the chance to learn more and deeper through our appointed industrial partners.&nbsp;</p>
-<p>We hope that this programme will give our students a perspective into geriatrics &ndash; the evaluation and management of unique healthcare needs of older people, as the need for more Science, Technology, Engineering and Mathematics (STEM) expertise grows in Singapore.</p>
+<p><strong>Applied Learning Programme (Seek. Make. Advocate)</strong></p>
+<p>Through Peicai&rsquo;s&nbsp;<strong><em>Seek. Make. Advocate</em></strong>, a distinctive Applied Learning Programme (ALP), we aim to develop students to be self-directed digital learners who seek out information, make meaningful prototypes using technologies such as Microbits and AR to conceptualise their ideas, and advocate their innovative solutions to real-world social issues that they are passionate about.</p>
+<p><strong><em>Seek. Make. Advocate</em></strong>&nbsp;is a unique, research-backed programme co-created with the Singapore University of Technology and Design (SUTD) that aims to develop Design Innovation mindsets, digital literacy and cross-disciplinary thinking skills in our students.</p>
+<p><strong>Objectives</strong></p>
+<p>To provide a student-centric and enriching learning experience for Secondary 1 and 2 students that</p>
+<img style="width: 80%;" src="/images/alp1.png" />
+<p><strong>Desired Outcomes</strong></p>
+<p>Students will acquire<strong>&nbsp;21CC</strong>&nbsp;(Critical and Innovative Thinking, Collaboration, Communication),&nbsp;<strong>Digital Literacy</strong>&nbsp;and&nbsp;<strong>Life Skills</strong>&nbsp;such as resilience and adaptability, by embarking on the&nbsp;<strong>cross-disciplinary</strong>&nbsp;project-based learning that integrates&nbsp;<strong>knowledge and skills of STEAM</strong>&nbsp;(Science, Technology, Engineering, Arts, Mathematics), and&nbsp;<strong>practices of design thinking</strong>, enabling them to be&nbsp;<strong>future-ready</strong>.</p>
+<p><strong>Programme Overview</strong></p>
+<p>In Tier 1 of the programme, a blended learning approach will be used to allow students to tinker and experiment with ideas, technologies and skills. They will be exposed to social causes such as environmental care and protection, gender equality and inclusivity for special needs amongst others, and equipped with technological skills like coding, video editing and data analytics. Students will then work collaboratively in groups to come up with technology-based solutions to solve or advocate for their identified social causes.</p>
+<img style="width: 75%;" src="/images/alp2.jpg" /><br>
+<img style="width: 70%;" src="/images/alp3.png" />
+<p>In the next tier of programme, students from select project groups will pitch their prototypes to the community, and partner with organizations to explore implementing their solutions to meet existing as well as future needs.</p>
+<p>For more information on&nbsp;<strong><em>Seek. Make. Advocate</em></strong>, you may write to us at&nbsp;<a href="mailto:peicai_ss@moe.edu.sg">peicai_ss@moe.edu.sg</a>.</p>
