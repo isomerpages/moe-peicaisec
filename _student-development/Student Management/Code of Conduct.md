@@ -718,3 +718,4 @@ third_nav_title: Student Management
 <p><strong>Note:</strong></p>
 <p>The above list is non-exhaustive. The school reserves the sole right to determine and decide which category the offence falls under and the appropriate corrective and disciplinary action(s) that needs to be taken.</p>
 <p>The school may also issue rules and guidelines pertaining to specific matters of discipline from time to time. These may serve to add on to or clarify existing rules and corrective actions.</p>
+<p style="text-align: right;"><em>Updated 28 December 2022</em></p>
