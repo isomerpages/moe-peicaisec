@@ -1,0 +1,4 @@
+collections:
+  student-council:
+    output: true
+    order: []
