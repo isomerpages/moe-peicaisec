@@ -1,129 +1,88 @@
 ---
 title: Alumni
-permalink: /achievements/alumni
+permalink: /achievements/alumni/
 description: ""
 ---
-<h4><strong>ONCE A PEICAIAN, ALWAYS A PEICAIAN</strong></h4>
-<p>It is always the pride and joy of the school when students who pass through the gates of Peicai look back at their years in the school and remark, &ldquo;Those were the best years of my life.&rdquo; Indeed, for many Peicaians, Peicai is their second home. Here, many have found their sense of belonging, their identity, their best friends, their teacher-mentors, and for a few, their future spouse!</p>
-<img style="width: 65%;" src="/images/achieve1.jpg" align = "left" /><br><br><br><br><br><br><br><br><br><br><br>
-<p><em>From Peicai to RI(JC) to Pharmaceutical Science &amp; Siblings in the Peicai Family</em></p>
-<p><strong>1. Our Very Own Peicai PR<sup>2</sup>IDE Stories</strong></p>
-<p><strong>Marcel Lee, Sec 4 Express (2017)<br /></strong>When Marcel first joined&nbsp;Peicai Secondary in Sec 2, he was unmotivated and did not see much meaning behind schooling. However, the caring and supportive environment of teachers and students soon changed him. Marcel was given opportunities to serve and lead in the school and he became a Student Leader and did so well that he was elected into the EXCO. He was also a committed member in the NPCC even though he had only joined the CCA towards the end of Sec 2. These renewed opportunities caused him to grow in his confidence and to aspire to be a role model to his peers and juniors. In Sec 4, Marcel resolved to himself that he would also make both his parents and Peicai proud by doing well in his studies. Although the journey was difficult and he often had many episodes of self-doubt and emotional meltdowns, he persevered till the end. His hard work and resilience in overcoming his challenges were rewarded when he received 6 distinctions in his 2017 O-Level results.</p>
-<p><strong>2. Recent Commendable Achievements&nbsp;</strong></p>
-<div>
-<table class="ive_eobj_left iveo_table ives_tab_dark">
+<h4><strong>Recent Alumni Achievements</strong></h4>
+<table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<th>Student Name</th>
-<th>Diploma Course</th>
-<th>Year of Graduation<br />(from Peicai)</th>
-<th>Name of Award</th>
-<th>School</th>
+<td style="width: 50%;"><img src="/images/al1.png">
+</td>
+<td style="width: 50%;"><img src="/images/al2.png">
+<p>Congratulations to Koh Li Tian and Prakritipong Phuvajakrt&nbsp; (Class of 2019) on their stellar results in the 2021 GCE A Level Examinations!&nbsp;</p>
+</td>
 </tr>
 <tr>
-<td>Javen Koo Zi Cong</td>
-<td>Diploma in Hospitality &amp; Tourism Management</td>
-<td>2012</td>
-<td>Crowne Plaza Changi Airport Prize</td>
-<td>Temasek Polytechnic</td>
+<td style="width: 50%;"><img src="/images/al3.jpg"></td>
+<td style="width: 50%; text-align: center;">
+<p>Congratulations to Sufi Bin Sulaimi (class of 2015) on his stellar achievement as the NAFA Best Graduate 2022!</p>
+</td>
 </tr>
 <tr>
-<td>Lai Teck Yong</td>
-<td>Diploma in Business Process &amp; Systems Engineering&nbsp;</td>
-<td>2012</td>
-<td>Venture Corporation Course Bronze Medal</td>
-<td>Temasek Polytechnic</td>
+<td style="width: 50%;"><img src="/images/al4.jpg"></td>
+<td style="width: 50%;">
+<p style="text-align: center;">Our heartfelt congratulations to Teo Ya Qi (class of 2017) for achieving best graduate of NAFA 2021</p>
+</td>
 </tr>
 <tr>
-<td>&nbsp;Jomund Tay Wei Kwang</td>
-<td><span class="">Diploma in Food and Beverage Business</span>&nbsp;</td>
-<td>2013</td>
-<td>Dilmah Bronze Medal&nbsp;</td>
-<td>Nanyang Polytechnic&nbsp;</td>
-</tr>
+<td style="width: 50%;"><img style="width: 75%;" src="/images/al5.png"></td>
+<td style="width: 50%;">
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
 <tr>
-<td>&nbsp;Argota Timothy John Tee</td>
-<td>&nbsp;Diploma in Business Enterprise It</td>
-<td>2011&nbsp;</td>
-<td>SAP Asia Gold Medal SAP Asia Award for Outstanding Project Work&nbsp;</td>
-<td>Nanyang Polytechnic&nbsp;</td>
-</tr>
-<tr>
-<td>Li Zhi Xin&nbsp;</td>
-<td>&nbsp;</td>
-<td>2012&nbsp;</td>
-<td>&nbsp;</td>
-<td>Republic Polytechnic&nbsp;</td>
-</tr>
-<tr>
-<td>&nbsp;Hendry Ong</td>
-<td>&nbsp;</td>
-<td>2013</td>
-<td>&nbsp;</td>
-<td>Republic Polytechnic&nbsp;</td>
-</tr>
-<tr>
-<td>Jacelyn Ong&nbsp;</td>
-<td>&nbsp;</td>
-<td>2014</td>
-<td>&nbsp;</td>
-<td>Republic Polytechnic&nbsp;</td>
-</tr>
-<tr>
-<td>Lim Wai Nee&nbsp;</td>
-<td>&nbsp;Diploma in Business Management</td>
-<td>2010&nbsp;</td>
-<td>Director&rsquo;s List&nbsp;</td>
-<td>&nbsp;Nanyang Polytechnic</td>
-</tr>
-<tr>
-<td>Zhuo Luo Ling&nbsp;</td>
-<td>&nbsp;Diploma in Accountancy and Finance</td>
-<td>2011</td>
-<td>&nbsp;Director&rsquo;s List&nbsp;</td>
-<td>&nbsp;Nanyang Polytechnic</td>
-</tr>
-<tr>
-<td>&nbsp;Joanne Lim</td>
-<td>&nbsp;Diploma in Hospitality and Tourism Management</td>
-<td>2011&nbsp;</td>
-<td>Director&rsquo;s List&nbsp;&nbsp;</td>
-<td>Nanyang Polytechnic&nbsp;</td>
-</tr>
-<tr>
-<td>&nbsp;Eunice Tan</td>
-<td>Diploma in Hospitality and Tourism Management&nbsp;</td>
-<td>2011&nbsp;</td>
-<td>Director&rsquo;s List&nbsp;&nbsp;</td>
-<td>Nanyang Polytechnic&nbsp;</td>
-</tr>
-<tr>
-<td>&nbsp;Elaine Tan</td>
-<td>&nbsp;Diploma in Social Services (Social Work)</td>
-<td>2010&nbsp;</td>
-<td>National Council of Social Service Gold Medal&nbsp;</td>
-<td>Nanyang Polytechnic&nbsp;</td>
-</tr>
-<tr>
-<td>&nbsp;Chee Rui Yi Rachel</td>
-<td>Nitec in Applied Food Science&nbsp;</td>
-<td>2014&nbsp;</td>
-<td>Course Medal&nbsp;</td>
-<td>ITE College East&nbsp;</td>
-</tr>
-<tr>
-<td>&nbsp;Leow Lijuan Charmain</td>
-<td>Higher NITEC in Passenger Services&nbsp;</td>
-<td>2014&nbsp;</td>
-<td><span class="">Course Medal&nbsp;</span>&nbsp;</td>
-<td>ITE College Central&nbsp;</td>
+<td style="width: 30%;"><img src="/images/alp6.png"></td>
+<td style="width: 70%;">
+<p><strong><u>ITE College East 2021<br /></u></strong>Name:Tan Yuan&nbsp;<span class="">Tian<br /></span><span class="">Course:&nbsp;<em>Nitec</em></span><span class="">&nbsp;In&nbsp;Mechanical&nbsp;Technology</span><span class="">,&nbsp;</span><span class="">ITE College&nbsp;East<br /></span>Awards: Course Medal and&nbsp; Tay Eng Soon Gold Medal Award</p>
+</td>
 </tr>
 </tbody>
 </table>
-<p><strong>3. Peicaians in the News!</strong></p>
-<ul>
-<li>Teo Jia En (2011):&nbsp;<a href="https://www.tnp.sg/news/singapore/hired-after-internships" target="">https://www.tnp.sg/news/singapore/hired-after-internships</a></li>
-<li>Stanley Chia (2005):&nbsp;<a href="https://www.straitstimes.com/business/five-questions-with-cialfo" target="">https://www.straitstimes.com/business/five-questions-with-cialfo</a></li>
-</ul>
-</div>
-<p><strong>4. Click on the link below to join our Facebook page for updates!<br /></strong><a href="https://www.facebook.com/peicai.alumni%C2%A0" target="">https://www.facebook.com/peicai.alumni&nbsp;</a></p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="/images/alp7.png"></td>
+<td style="width: 50%;">
+<p><strong><u>I</u></strong><strong><u>TE College Central 2021<br /></u></strong>Name&nbsp; : Tam&nbsp;Wei&nbsp;Xuan<br />Course :&nbsp;&nbsp;<em>Higher&nbsp;Nitec</em> In Visual&nbsp;Merchandising,&nbsp;ITE&nbsp;College&nbsp;Central<br />Award&nbsp; : Course Medal&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>	
+</td>
+</tr>
+<tr>
+<td style="width: 50%;">&nbsp;</td>
+<td style="width: 50%;">
+<p dir="ltr"><span style="text-decoration: underline;"><strong>Ngee Ann Polytechnic 2020</strong></span><br />Name : Leck Jing Wen<br />Course : Diploma in Arts Business Management<br />Awards : Pangdemonium Theatre Company Silver Medal &amp; Prize; Diploma with Merit</p>
+<p dir="ltr">Name : Ang Jin Kiat, Alton<br />Course : Diploma in Electrical Engineering<br />Awards : IES Award; Diploma with Merit; EA Technology Prize; Omron Prize; SolarGY Prize Diploma Plus: Certificate In Advanced Engineering Mathematics</p>
+</td>
+</tr>
+<tr>
+<td style="width: 50%;">&nbsp;</td>
+<td style="width: 50%;">
+<p dir="ltr"><span style="text-decoration: underline;"><strong>Temasek Polytechnic 2020</strong></span></p>
+<p dir="ltr">Name : Nadia Cheng Xin Ying<br />Course : Diploma in Law &amp; Management<br />Awards : Crown Juris Law LLC Prize; Diploma with Merit</p>
+</td>
+</tr>
+<tr>
+<td style="width: 50%;">&nbsp;</td>
+<td style="width: 50%;">
+<p style="text-align: center;">Congratulations to Lai Teck Yong (class of 2015) for his outstanding achievements!</p>
+</td>
+</tr>
+<tr>
+<td style="width: 50%;">&nbsp;</td>
+<td style="width: 50%;">
+<p><strong><u>Nanyang Polytechnic 2018<br /></u></strong>Name: Jomund Tay Wei Kwang<br />Course: Diploma in Food and Beverage Business<br />Award:&nbsp;Dilmah Bronze Medal</p>
+<p>Name: Argota Timothy John Tee&nbsp;<br />Course: Diploma in Business Enterprise IT<br />Awards: SAP Asia Gold Medal and SAP Asia Award for Outstanding Project Work&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td style="width: 50%;">&nbsp;</td>
+<td style="width: 50%;">
+<p><strong><u>Republic Polytechnic 2017<br /></u></strong>Name: Li Zhi Xin<br />Course: Diploma in Business Applications<br />Award: Diploma with Merit</p>
+<p>Name: Hendry Ong<br />Course: Diploma in Aerospace Engineering<br />Award: Diploma with Merit</p>
+</td>
+</tr>
+</tbody>
+</table>
