@@ -99,3 +99,9 @@ third_nav_title: Student Leadership (SL)
 <img style="width: 90%;" src="/images/sc5.jpg" /><br>
 <img style="width: 90%;" src="/images/sc6.jpg" /><br>
 <img style="width: 90%;" src="/images/sc7.jpg" />
+<h4><strong>Years</strong></h4>
+<ul>
+<li><a href="/student-development/student-leadership-sl/student-council/2019-student-council">2019 - Student Council</a></li>
+<li><a href="/student-development/student-leadership-sl/student-council/2020-student-council">2020 - Student Council</a></li>
+<li><a href="/student-development/student-leadership-sl/student-council/2021-student-council">2021 - Student Council</a></li>
+</ul>
