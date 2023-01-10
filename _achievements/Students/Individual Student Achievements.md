@@ -1,6 +1,6 @@
 ---
 title: Individual Student Achievements
-permalink: /achievements/students/individual-student-achievements
+permalink: /achievements/students/individual-student-achievements/
 description: ""
 third_nav_title: Students
 ---
@@ -16,3 +16,16 @@ third_nav_title: Students
 <img src="/images/ias9.png">
 <img src="/images/ias10.png">
 <img src="/images/ias11.png">
+<img src="/images/ias12.png">
+<img src="/images/ias13.png">
+<img src="/images/ias14.png">
+<img src="/images/ias15.png">
+<img src="/images/ias16.png">
+<img src="/images/ias17.png">
+<img src="/images/ias18.png">
+<img src="/images/ias19.png">
+<img src="/images/ias20.png">
+<img src="/images/ias21.png">
+<img src="/images/ias22.png">
+<img src="/images/ias23.png">
+<img src="/images/ias24.png">
