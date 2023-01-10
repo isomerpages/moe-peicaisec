@@ -1,10 +1,10 @@
 ---
 title: Students
-permalink: /achievements/students
+permalink: /achievements/students/
 description: ""
 third_nav_title: Students
 ---
-<p style="text-align: center;"><strong><u>Year 2022</u></strong></p>
+<p style="text-align: center;"><strong><u>2022</u></strong></p>
 <table width="648">
 <tbody>
 <tr>
@@ -23,3 +23,5 @@ third_nav_title: Students
 </tr>
 </tbody>
 </table>
+<p style="text-align: center;"><strong><u>2021</u></strong></p>
+<p style="text-align: center;"><a href="/achievements/students/national-examinations-2021" target="">National Examinations 2021</a></p>
