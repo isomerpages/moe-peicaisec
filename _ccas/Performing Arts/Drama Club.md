@@ -1,6 +1,6 @@
 ---
 title: Drama Club
-permalink: /co-curricular-activities/ccas/performing-arts/drama-club-1
+permalink: /co-curricular-activities/ccas/performing-arts/drama-club-1/
 description: ""
 third_nav_title: Performing Arts
 ---
@@ -76,29 +76,13 @@ third_nav_title: Performing Arts
 <h4><strong>Programmes and Activities</strong></h4>
 <p>Drama Club students will participate in the following training activities:</p>
 <ul>
-<ul>
-<ul>
 <li>Physical Warm Up</li>
-</ul>
-<ul>
 <li>Voice Warm Up</li>
-</ul>
-<ul>
 <li>Theatre Games</li>
-</ul>
-<ul>
 <li>Improvisation</li>
-</ul>
-<ul>
 <li>Acting Activities</li>
-</ul>
-<ul>
 <li>Script Reading and Writing</li>
-</ul>
-<ul>
 <li>Training for SYF/ school&rsquo;s performance</li>
-</ul>
-</ul>
 </ul>
 <h4><strong>Achievements</strong></h4>
 <p>Every two years, the Drama Club participates in the Singapore Youth Festival Arts Presentation.</p>
