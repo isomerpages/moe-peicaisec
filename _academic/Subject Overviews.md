@@ -1,6 +1,6 @@
 ---
 title: Subject Overviews
-permalink: /academic/subject-overviews
+permalink: /academic/subject-overviews/
 description: ""
 ---
 <h4><strong>Semester Two 2022</strong></h4>
