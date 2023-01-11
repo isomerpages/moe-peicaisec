@@ -1,31 +1,44 @@
 ---
 title: Craft & Technology
-permalink: /academic/craft-n-technology
+permalink: /academic/craft-n-technology/
 description: ""
 ---
 <p>The Craft &amp; Technology Department in Peicai comprises four academic disciplines: Art, Design &amp; Technology (D&amp;T), Music and the Nutrition &amp; Food Science (NFS) Unit. Three of the subjects, Art, Design &amp; Technology (D&amp;T) and Food &amp; Nutrition (F&amp;N), are offered to the upper secondary students. A component of these subjects are coursework based.&nbsp;</p>
 <h4><strong>Art</strong></h4>
-<p>The Art curriculum aims to promote the love for Art and eventually develop a life-long interest in Art in our students. We hope that our students would able to make connections between visual expressions and personal experiences and view the world around them in new ways.&nbsp;</p>
-<img style="width: 33%;" src="/images/art1.jpg" />
-<p><strong>Lower Secondary Syllabus<br /></strong>The Lower Secondary Art syllabus introduces the Elements of Art and Principles of Design to facilitate learning of Art concepts and art making through a variety of art materials.&nbsp;</p>
-<p><strong>Upper Secondary Syllabus<br /></strong>The Upper Secondary Art syllabus builds up students&rsquo; technical and explorative skills in preparation for their&rsquo; GCE &lsquo;N&rsquo; Levels and GCE &lsquo;O&rsquo; Level Art Coursework through the emphasis on 2D drawing and painting. It also aims to inculcate creativity in students to explore, develop and evaluate ideas and concepts in the various stages by making references to and integrating knowledge of artists/artworks with their own art making. Students should show a relevant and consistent inquiry in the development of ideas and intentions. We also aim to deepen their appreciation and interest in Art through learning journeys to museums and galleries.</p>
-<h4><strong>DESIGN &amp; TECHNOLOGY</strong></h4>
-<p><strong>Lower Secondary Syllabus<br /></strong>The D&amp;T curriculum aim is to create interest and awareness in design. This is carried out through a thematic approach to Design &amp; Technology. Students are taught basic sketching skills to express ideas and thoughts about design. Skills like modelling techniques through the visualization of their design and elements of design are taught to help build on students&rsquo; ideas.&nbsp;</p>
-<p><strong>Upper Secondary Syllabus<br /></strong>The upper secondary curriculum provides opportunities for students to think and invent creatively through the Design Process. It aims on honing the students&rsquo; analytical and critical thinking skills as they evaluate the feasibility of their designs and their refinements. It also engages the students through experiential and hands-on activities to develop their problem solving and creative thinking skills.</p>
-<p>Secondary Three students are primed for the standards required for National Examination through their exposure to the abridged version of the design journal and processes. These allow them to be better equipped to do well when they are in Secondary Four. The main activities at Secondary Three involve the following:</p>
-<ul>
-<li>Advanced knowledge of the design processes through an assigned theme.</li>
-<li>Technological areas of Structures, Mechanisms, Electricity and Electronics.</li>
-<li>Essential marking skills involving the use of specialised equipment in the D&amp;T workshop.</li>
-<li>Model making in "designing while doing"</li>
-</ul>
-<p>Secondary Four/Five students are rigorously prepared for their national exams via the reinforcing of key concepts such as design journal and artefact making. We hope to develop future innovators who are able to come up with creative ideas to improve the quality of products used in our everyday life.</p>
-<img src="/images/art3.jpg">
-<h4><strong>Music</strong></h4>
-<p>The Music programme is only taught for the first two years in Peicai Secondary. The unit believes that all students are able to express themselves through music. Students are exposed to various genres to help them appreciate the music around them.</p>
-<p>In Secondary One, students are exposed to the basic skill of playing the ukulele and keyboard. In Secondary two, students will build on the skills taught in Secondary One. They are taught to listen, read, analyse and reproduce music in different forms. They are also taught to apply their learning by recording their own covers using sequencing software such as Garage Band.&nbsp;</p>
-<h4><strong>NUTRITION &amp; FOOD SCIENCE UNIT</strong></h4>
-<img src="/images/art2.jpg">
-<p><strong>Food &amp; Consumer Education (FCE) : Lower Secondary Syllabus<br /></strong>The FCE syllabus is designed to empower students to be health-conscious and discerning consumers, enabling them to better manage their lives for the present and the future. The focus is on how individuals and families optimise their resources of food, finance and time to meet their physical, mental, social and economic needs.</p>
-<p>In Peicai, this is a modular subject where it is being taught in Semester Two for Secondary One students and Semester One for Secondary Two students. One of the key programmes for the NFS Unit is Project Heart@Peicai which involves all the Secondary 2 students. Project Heart@Peicai integrates skills learned during Food &amp; Consumer Education (FCE) lessons with 21st Century competencies and adopts a values-based approach to make learning more authentic. Leveraging on the school&rsquo;s partnership with Lions Club Singapore Nanyang, students spend more than an hour with the elderly from Lions Befrienders, preparing and serving them meals, while teaching them about healthy living, and interacting via conversation, games and the sharing of knowledge and personal lives.</p>
-<p><strong>Food &amp; Nutrition (F&amp;N): Upper Secondary syllabus<br /></strong>The Food &amp; Nutrition syllabus is more demanding as compared to the lower secondary FCE syllabus as students develop deeper understanding of the concept of nutrition and meal planning. With the increase in the number of people in Singapore suffering from diet related disease such as diabetes, the subject also aims to help students to link their knowledge about diet and nutrition to health. Other than nutrition, students are also exposed to food science through inquiry based lessons. Using the knowledge learnt, students will be given opportunities to extend their learning through coursework, where they will be able to use process skills (analysing of task, research, decision making, planning, execution and evaluation) to help them prepare dishes for a given task. Secondary Three students are exposed to the expectations of the national coursework examinations so as to better prepare themselves for coursework during their graduating year.&nbsp;</p>
+<p>In Peicai, we aim&nbsp;to develop our students&rsquo; artistic sensibilities that will enable them to.</p>
+<ol>
+<li>Make connections between visual expressions and personal experiences and view the world around them in new ways.&nbsp;</li>
+<li>Inculcate their creativity to explore and develop in the various stages by making references to and integrating knowledge of artists/artworks with their own art making.&nbsp;</li>
+<li>Gain an understanding of real world applications of Art through different media&nbsp;</li>
+</ol>
+<p>We support these endeavours through&hellip;</p>
+<ol>
+<li>Creating an environment with opportunities for students to demonstrate creativity in their art making processes</li>
+<li>Encourage the expression and reflection of thoughts through the making of art.</li>
+<li>Infusing technology into lessons to cultivate self-directed learners</li>
+</ol>
+<p><strong>Art Learning Journeys and Competitions:</strong></p>
+<p>Our students are given opportunities to participate in Art Competitions and events such as Singapore Youth Festival Art Exhibition.</p>
+<p>Students also have the opportunity to broaden their learning experiences beyond classrooms. The unit organized learning journeys to Art Museums.</p>
+<p><strong>Secondary 3 Art Enrichment</strong></p>
+<p>Secondary 3 Art students can look forward to an exciting range of media such as painting, photography, digital art, and paper cut.</p>
+<p><strong>Aesthetics Week</strong></p>
+<p>Students participate in various activities aimed at developing an appreciation for the Arts. Activities conducted encourages creative expression and imaginative play in the art making processes.</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 35%;"><img src="/images/ct1.jpg"></td>
+<td style="width: 35%;"><img src="/images/ct2.png"></td>
+<td style="width: 30%;"><img src="/images/ct3.jpg"></td>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 23%;"><img src="/images/ct4.jpg"></td>
+<td style="width: 47%;"><img src="/images/ct5.jpg"></td>
+<td style="width: 30%;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
