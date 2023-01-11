@@ -1,33 +1,92 @@
 ---
 title: Humanities
-permalink: /academic/humanities
+permalink: /academic/humanities/
 description: ""
 ---
-<p>The Humanities curriculum in Peicai Secondary School is aligned to the Desired Outcomes of Education, where students are encouraged, taught, mentored, developed and guided into being:</p>
-<ul>
-<li>A confident person who has a strong sense of right and wrong, is adaptable and resilient, knows himself, is discerning in judgement, thinks independently and critically, and communicates effectively;&nbsp;</li>
-<li>A self-directed learner who takes responsibility for his own learning, who questions, reflects and perseveres in the pursuit of learning;&nbsp;</li>
-</ul>
-<p>an active contributor who is able to work effectively in teams, exercises initiative, takes calculated risks, is innovative and strives for excellence; and&nbsp;</p>
-<ul>
-<li>A concerned citizen rooted in Singapore, has a strong civic consciousness, is informed, and takes an active role in bettering the lives of others around him.&nbsp;</li>
-</ul>
-<p><strong><u>Principle of Accounts<br /></u></strong>Accounting is an information system based on generally accepted accounting principles. It involves the recording and processing of business transactions, and communicating the information to stakeholders. The accounting information is used to evaluate business performance and facilitate decision-making.&nbsp;</p>
-<p><strong><u>Our curriculum<br /></u></strong>Principles of Accounts in Peicai Secondary School is designed to provide students with a meaningful basic introduction to financial accounting and to develop an appreciation of the discipline of accounting. It is grounded in preparing, communicating and using financial information, and appreciating the need for ethical conduct. This subject places emphasis on the understanding and application of accounting knowledge to develop lifelong skills and values that will be of value in the increasingly complex world of business.</p>
-<p><strong><u>Social Studies<br /></u></strong>Social Studies seeks to inculcate in students a deeper understanding of the values that define the Singapore society, nurture dispositions that will inspire them to show concern for the society and the world they live in, and demonstrate empathy in their relationships with others.</p>
-<p><strong><u>Our curriculum<br /></u></strong>Our Social Studies curriculum hopes to develop students as informed, concerned and participative citizens, competent in decision-making with an impassioned spirit to&nbsp;contribute responsibly to the society and world they live in. As informed citizens, students would understand their identity as Singaporeans with a global outlook.</p>
-<p><strong><u>History<br /></u></strong>At the heart of History education is the quest to uncover the complexities that define the human experience. In doing so learners are developed to become confident and independent learners who ask critical questions and balance different perspectives that relate to life, nation and the world.</p>
-<p><strong><u>Our curriculum<br /></u></strong>Our curriculum hopes to develop historical understanding in students and they should be able to demonstrate their knowledge and understanding of historical concepts such as History as a construct; where students learn that historical events can have different interpretations based on the available evidence. Students also study the key characteristics of the periods studies which includes the social, economic, cultural and political contexts of the societies and the experiences of the peoples who lived in those societies at those points in time. In lessons, interconnections between individuals, societies, events and developments are made with those in the present day. Students also learn case studies of key individuals, groups, forces, events and ideas that shaped the development of the political, social and cultural contexts of our world today. The concept of change within and across the periods of study is also taught explicitly.</p>
-<p><strong><u>Geography<br /></u></strong>Geography builds on students&rsquo; experiences and prior knowledge to examine the physical and human phenomena found on Earth as well as their complex interactions and patterns across space. Geography emphasises the integrative study of physical and human environments to enable students to gain a better understanding of their own space and other parts of the world. It also focuses on the interconnectedness among groups of people, and between people and their environment.&nbsp;</p>
-<p><strong><u>Our curriculum<br /></u></strong>Our Geography curriculum allows students to acquire a wide range of knowledge and skills to understand and explain physical and human phenomena, and other contemporary environmental and social issues that occur in different places and cultures. Students are equipped with the skills of gathering and analysing information, and an enquiring mind to seek answers to issues affecting our lives and the world we live in, Geography students are prepared for their roles as informed citizens in the 21st century.&nbsp;</p>
-<p><strong><u>Our Programmes<br /></u></strong>Our programmes revolve around the DOE and are catered specifically to Peicai students. We include the Inquiry Process as part of pedagogy for Social Studies, Geography and History. This is done to move away from the mere memorisation of information to the comprehension, extraction and application of information from a variety of sources to construct new knowledge and understanding. This approach empowers students in their own learning and stimulate an interest in the subject. It begins with sparking curiosity through the use of stimulus materials to challenge students&rsquo; assumptions and allow them to pose their questions. Through library research and fieldwork, data is gathered. As students organise the information they have collected, they will need to exercise sound reasoning to analyse and make connections between the pieces of information they have, and construct new knowledge for themselves. They will analyse the information and arrive at a conclusion to the question before reflecting on their learning. Through the inquiry process, students will be challenged to examine their own thinking and become self- directed and reflective thinkers.&nbsp;</p>
-<p>We also include real-life scenario based problems as part of our programme. The aim is for students to be confident and has a strong sense of right and wrong, who are adaptable and resilient, and discerning in judgement.</p>
-<p><strong><u>Humanities Programmes for Lower Secondary<br /></u></strong>1) Historical Investigation at the museums<br />2) Geographical Investigation at MacRitchie Reservoir<br />3) Issues Investigation for Social Studies at Kampong Glam<br />4) NLB History Challenge<br />5) Humanities Week</p>
-<p><strong><u>Humanities Programmes for Upper Secondary<br /></u></strong>1) Geographical Investigation at Chinatown<br />2) Issues Investigation for Social Studies<br />3) NUS Geography Challenge<br />4) POA Accounting Challenge / Amazing Race<br />5) Cultural Immersion Fieldtrip to Vietnam<br />6) Humanities Week</p>
-<p>The Humanities Department believes that Peicaians should be experience to different activities in their everyday lessons. Here are some of the activities that were conducted</p>
+<p>In Peicai, we aim to develop students to become</p>
+<ol>
+<li>a confident person who has a strong sense of right and wrong, is adaptable and resilient, knows himself, is discerning in judgement, thinks independently and critically, and communicates effectively;</li>
+<li>a self-directed learner who can work effectively in teams and takes responsibility for his own learning, who questions, reflects and perseveres in the pursuit of learning; and</li>
+<li>a concerned citizen rooted in Singapore, has a strong civic consciousness, is informed, and takes an active role in bettering the lives of others around him.</li>
+</ol>
+<p>We support these endeavours through</p>
+<p>1) Inquiry Process as part of pedagogy for Social Studies, Geography and History. This approach empowers students in their own learning and stimulate an interest in the subject. It begins with sparking curiosity using stimulus materials to challenge students&rsquo; assumptions and allow them to pose their questions. Through the inquiry process, students will be challenged to examine their own thinking and become self- directed and reflective thinkers.&nbsp;</p>
+<p>2) Real-life scenario-based problems as part of our programme. The aim is for students to be confident and has a strong sense of right and wrong, who are adaptable and resilient, and discerning in judgement.&nbsp;s an established approach used across disciplines where students apply their knowledge to real-world scenarios, promoting higher levels of cognition. In CBL classrooms, students typically work in groups on case studies, or stories involving one or more characters and/or scenarios. The cases present a disciplinary problem or problems for which students devise solutions under the guidance of the instructor.</p>
+<p>3) Differentiated Instructions as part as our Lower Secondary Geography lessons.&nbsp;Differentiated instruction presupposes that students learn in different ways and at different paces. Teachers using this instructional model cultivate and facilitate diverse educational experiences designed to advance each student's learning, regardless of their learning style and background.</p>
+<table>
+<tbody>
+<tr>
+<th style="text-align: center;"><u>Humanities Programmes for Lower Secondary</u></th>
+<th style="text-align: center;"><strong><u>Humanities Programmes for Upper Secondary</u></strong></th>
+</tr>
+<tr>
+<td>
+<p>1) Historical Investigation</p>
+<p>2) Geographical Investigation</p>
+<p>3) Issues Investigation</p>
+<p>4) NLB History Challenge</p>
+<p>5) Humanities Week</p>
+</td>
+<td>
+<p>1) Geographical Investigation</p>
+<p>2) Issues Investigation</p>
+<p>3) NUS Geography Challenge</p>
+<p>4) POA Accounting Challenge / Amazing Race</p>
+<p>5) Cultural Immersion Fieldtrip</p>
+<p>6) Humanities Week</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>The Humanities Department believes that Peicaians should be experience to different activities in their everyday lessons. Here are some of the activities that were conducted.</p>
 <img style="width: 50%;" src="/images/human1.jpg" />
 <p style="text-align: center;">Students conducting water testing conducted during Sec 1 Geographical Investigation</p>
 <img style="width: 50%;" src="/images/human2.jpg" />
 <p style="text-align: center;">Students interviewing Serangoon resident for Geographical Investigation on Housing.</p>
 <img style="width: 70%;" src="/images/human3.jpg" />
 <p style="text-align: center;">Students doing their Historical Investigation at the National Museum of Singapore.</p>
+<img style="width: 100%;" src="/images/human4.jpg" />
+<p style="text-align: center;">Visiting the War Remnants Museum at Ho Chi Minh City during the Cultural Immersion Fieldtrip to Vietnam.</p>
+<h4><strong>Subjects Offered</strong></h4>
+<table width="623">
+<tbody>
+<tr>
+<td width="312">
+<p><strong><u>N Level</u></strong></p>
+</td>
+<td width="312">
+<p><strong><u>O Level</u></strong></p>
+</td>
+</tr>
+<tr>
+<td width="312">
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2022syllabus/2175_y22_sy.pdf">Humanities 2175 (Social Studies, Geography)</a></p>
+</td>
+<td width="312">
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2022syllabus/2272_y22_sy.pdf">Humanities 2272 (Social Studies, Geography)</a></p>
+</td>
+</tr>
+<tr>
+<td width="312">
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2022syllabus/2176_y22_sy.pdf">Humanities 2176 (Social Studies, History)</a></p>
+</td>
+<td width="312">
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2022syllabus/2273_y22_sy.pdf">Humanities 2273 (Social Studies, History)</a></p>
+</td>
+</tr>
+<tr>
+<td width="312">
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2022syllabus/7086_y22_sy.pdf">7086 Principles of Accounts</a></p>
+</td>
+<td width="312">
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2022syllabus/2273_y22_sy.pdf">2236 Geography</a></p>
+</td>
+</tr>
+<tr>
+<td width="312">&nbsp;</td>
+<td width="312">
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2022syllabus/2273_y22_sy.pdf">7087 Principles of Accounts</a></p>
+</td>
+</tr>
+</tbody>
+</table>
