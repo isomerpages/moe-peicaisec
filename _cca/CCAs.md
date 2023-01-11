@@ -46,4 +46,32 @@ description: ""
 </tbody>
 </table>
 <h4><strong>Performing Arts</strong></h4>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 33.3333%;"><a href="/cca/ccas/performing-arts/concert-band"><img style="width: 100%;" src="/images/cca7.jpg" /></a></td>
+<td style="width: 33.3333%;"><a href="/cca/ccas/performing-arts/modern-dance"><img style="width: 100%;" src="/images/cca8.jpg" /></a></td>
+<td style="width: 33.3333%;"><a href="/cca/ccas/performing-arts/drama-club"><img style="width: 100%;" src="/images/cca9.jpg" /></a></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;"><p style="text-align: center;">Concert Band</p></td>
+<td style="width: 33.3333%;"><p style="text-align: center;">Modern Dance</p></td>
+<td style="width: 33.3333%;"><p style="text-align: center;">Drama Club</p></td>
+</tr>
+</tbody>
+</table>
 <h4><strong>Clubs & Societies</strong></h4>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 33.3333%;"><a href="/cca/ccas/clubs-n-societies/aero-modelling-club"><img style="width: 100%;" src="/images/cca10.jpg" /></a></td>
+<td style="width: 33.3333%;"><a href="/cca/ccas/clubs-n-societies/art-club"><img style="width: 100%;" src="/images/cca11.jpg" /></a></td>
+<td style="width: 33.3333%;"><a href="/cca/ccas/clubs-n-societies/infocomm-club"><img style="width: 100%;" src="/images/cca12.jpg" /></a></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;"><p style="text-align: center;">Aero-Modelling Club</p></td>
+<td style="width: 33.3333%;"><p style="text-align: center;">Art Club</p></td>
+<td style="width: 33.3333%;"><p style="text-align: center;">Infocomm Club</p></td>
+</tr>
+</tbody>
+</table>
