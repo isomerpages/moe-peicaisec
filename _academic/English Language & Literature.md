@@ -47,3 +47,22 @@ description: ""
 </tr>
 </tbody>
 </table>
+	<p dir="ltr"><span style="text-decoration: underline;"><strong>English Week</strong></span><br />Students participate in various activities aimed at developing an appreciation for the language. Competitions are held where students demonstrate their understanding of the language through skits and performances. In 2021, students participated in a slew of activities, including the Secondary One students exercising their creative chops in creating a 55 word story.</p>
+<img src="/images/ell4.png">
+	<p dir="ltr"><strong><u>Drama Appreciation<br /></u></strong>Upper Secondary Literature students are given the opportunity to attend musicals and plays. Over the years, students have attended staging of Phantom of the Opera, The Curious Incident of the Dog in the Nighttime, The Sound of Music and many more.&nbsp;</p>
+<p dir="ltr"><strong><u>National Schools Literature Festival<br /></u></strong>Selected students represent the school in various competitions organised during the National Schools Literature Festival, including Set Text Debate and Book Parade.&nbsp;</p>
+<h4><strong>Subjects Offered</strong></h4>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 33.3333%;"><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2022syllabus/1128_y22_sy.pdf" target="_blank" rel="noopener">1128 O Level English</a></td>
+<td style="width: 33.3333%;"><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2022syllabus/1190_y22_sy.pdf" target="_blank" rel="noopener">1190 N(A) Level English</a></td>
+<td style="width: 33.3333%;"><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2022syllabus/1195_y22_sy.pdf" target="_blank" rel="noopener">1195 N(T) Level English</a></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;"><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2023syllabus/2274_y23_sy.pdf" target="_blank" rel="noopener">2274 Humanities (Social Studies, Literature in English)</a></td>
+<td style="width: 33.3333%;"><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2021syllabus/2065_y21_sy.pdf" target="_blank" rel="noopener">2065 Literature in English</a></td>
+<td style="width: 33.3333%;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
