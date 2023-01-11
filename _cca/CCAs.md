@@ -28,6 +28,22 @@ description: ""
 <td style="width: 33.3333%;"><p style="text-align: center;">Volleyball Girls</p></td>
 <td style="width: 33.3333%;"><p style="text-align: center;">Badminton Boys and Girls (NEW!)</p></td>
 </tr>
-
 </tbody>
 </table>
+<h4><strong>Uniformed Groups</strong></h4>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 33.3333%;"><a href="/cca/ccas/uniformed-groups/npcc"><img style="width: 100%;" src="/images/cca4.jpg" /></a></td>
+<td style="width: 33.3333%;"><a href="/cca/ccas/uniformed-groups/ncc-sea"><img style="width: 100%;" src="/images/cca5.jpg" /></a></td>
+<td style="width: 33.3333%;"><a href="/cca/ccas/uniformed-groups/girl-guides"><img style="width: 100%;" src="/images/cca6.jpg" /></a></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;"><p style="text-align: center;">NPCC</p></td>
+<td style="width: 33.3333%;"><p style="text-align: center;">NCC (Sea)</p></td>
+<td style="width: 33.3333%;"><p style="text-align: center;">Girl Guides</p></td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Performing Arts</strong></h4>
+<h4><strong>Clubs & Societies</strong></h4>
