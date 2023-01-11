@@ -91,3 +91,88 @@ description: ""
 </tr>
 </tbody>
 </table>
+<h4 style="text-align: center;"><strong>Secondary Two</strong></h4>
+<table>
+<tbody>
+<tr>
+<td style="text-align: center;" width="208">
+<p><strong><u>Express</u></strong></p>
+</td>
+<td style="text-align: center;" width="208">
+<p><strong><u>Normal (Academic)</u></strong></p>
+</td>
+<td style="text-align: center;" width="208">
+<p><strong><u>Normal (Technical)</u></strong></p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="208">
+<p><a href="/files/English%20Language_2EXP_Sem1%202023.pdf">English Language</a><br /><a href="/files/Literature_2EXP%20Subject%20Overview.pdf">English Literature</a></p>
+</td>
+<td style="text-align: center;" width="208">
+<p><a href="/files/English%20Language_2NA_Sem1%202023.pdf">English Language</a><br /><a href="/files/Literature_2NA%20Subject%20Overview.pdf">English Literature</a></p>
+</td>
+<td style="text-align: center;" width="208">
+<p><a href="/files/English%20Language_2NT_Sem1%202023.pdf">English Language</a></p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="208">
+<p><a href="/files/Chinese%20Language_2EXP_Sem12023.pdf">Chinese</a><br /><a href="/files/Malay%20Language_2EXP_Sem12023.pdf">Malay</a></p>
+</td>
+<td style="text-align: center;" width="208">
+<p><a href="/files/Chinese%20Language_2NA_Sem12023.pdf">Chinese</a><br /><a href="/files/Malay%20Language_2NA_Sem12023.pdf">Malay</a></p>
+</td>
+<td style="text-align: center;" width="208">
+<p><a href="/files/Chinese%20Language_2NT_Sem12023.pdf">Basic Chinese</a><br /><a href="/files/Malay%20Language_2NT_Sem12023.pdf">Basic Malay</a></p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="208">
+<p><a href="/files/Math_2EXP_Sem12023.pdf">Mathematics</a></p>
+</td>
+<td style="text-align: center;" width="208">
+<p><a href="/files/Math_2NA_Sem12023.pdf">Mathematics</a></p>
+</td>
+<td style="text-align: center;" width="208">
+<p><a href="/files/Math_2NT_Sem12023.pdf">Mathematics</a><br /><a href="/files/CPA_2NT_Sem%201%202023.pdf">Computer Applications</a></p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="208">
+<p><a href="/files/Science_2EXP_Sem12023.pdf">Science</a></p>
+</td>
+<td style="text-align: center;" width="208">
+<p><a href="/files/Science_2NA_Sem12023.pdf">Science</a></p>
+</td>
+<td style="text-align: center;" width="208">
+<p><a href="/files/Science_2NT_Sem12023.pdf">Science</a></p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="208">
+<p><a href="/files/Geography_2EX_Sem12023.pdf">Geography</a><br /><a href="/files/History_2EX_Sem12023.pdf">History</a></p>
+</td>
+<td style="text-align: center;" width="208">
+<p><a href="/files/Geography_2NA_Sem12023.pdf">Geography</a><br /><a href="/files/History_2NA_Sem12023.pdf">History</a></p>
+</td>
+<td style="text-align: center;" width="208"><a href="/files/SS_2NT_Sem12023.pdf">Social Studies</a></td>
+</tr>
+<tr>
+<td style="text-align: center;" width="208">
+<p><a href="/files/Art_Sec2_Sem12023.pdf">Art</a><br /><a href="/files/2023%20Subject%20Overview_Sec%202%20Exp.pdf">Food and Consumer Education</a><br /><a href="/files/Music_Sec2_Sem%2012023.pdf">Music</a></p>
+</td>
+<td style="text-align: center;" width="208">
+<p><a href="/files/Art_Sec2_Sem12023.pdf">Art</a><br /><a href="/files/2023%20Subject%20Overview_Sec%202%20NA.pdf">Food and Consumer Education</a><br /><a href="/files/Music_Sec2_Sem%2012023.pdf">Music</a></p>
+</td>
+<td style="text-align: center;" width="208">
+<p><a href="/files/Art_Sec2_Sem12023.pdf">Art</a><br /><a href="/files/2023%20Subject%20Overview_Sec%202%20NT.pdf">Food and Consumer Education</a><br /><a href="/files/Music_Sec2_Sem%2012023.pdf">Music</a></p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" colspan="3">
+<p><strong>Physical Education<br /></strong><a href="/files/PE_2A1_2C1_Sem12023.pdf">2A1/2C1</a> <a href="/files/PE_2A2_2B2_2C4_Sem12023.pdf">2A2/2B2/2C4</a> <a href="/files/PE_2B1_Sem12023.pdf">2B1</a> <a href="/files/PE_2B3_Sem12023.pdf">2B3</a> <a href="/files/PE_2C2_Sem12023.pdf">2C2</a> <a href="/files/PE_2C3_Sem12023.pdf">2C3</a></p>
+</td>
+</tr>
+</tbody>
+</table>
