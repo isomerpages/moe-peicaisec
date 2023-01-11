@@ -217,48 +217,48 @@ description: ""
 <p><a href="/files/Add%20Math_3Exp_Sem12023.pdf">Additional Mathematics</a><br /><a href="/files/Math_3%20Exp_Sem12023.pdf">Mathematics</a></p>
 </td>
 <td style="text-align: center;" width="208">
-<p><a href="/files/AddMath_3NA_Sem%2012023.pdf">Additional Mathematics</a><br /><a href="https://www.peicaisec.moe.edu.sg/qql/slot/u372/2023/Subject%20Overviews%20Sem%201%202023/Mathmatics/Math_3NA_Sem12023.pdf">Mathematics</a></p>
+<p><a href="/files/AddMath_3NA_Sem%2012023.pdf">Additional Mathematics</a><br /><a href="/files/Math_3NA_Sem12023.pdf">Mathematics</a></p>
 </td>
 <td style="text-align: center;" width="208">
-<p><a href="https://www.peicaisec.moe.edu.sg/qql/slot/u372/2023/Subject%20Overviews%20Sem%201%202023/CPA/CPA_3NT_Sem%201_2023.pdf">Computer Applications</a><br /><a href="https://www.peicaisec.moe.edu.sg/qql/slot/u372/2023/Subject%20Overviews%20Sem%201%202023/Mathmatics/Math_3NT_Sem12023.pdf">Mathematics</a></p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="208">
-<p><a href="https://www.peicaisec.moe.edu.sg/qql/slot/u372/2023/Subject%20Overviews%20Sem%201%202023/Science/Biology_3EXP_Sem12023.pdf">Biology</a><br /><a href="https://www.peicaisec.moe.edu.sg/qql/slot/u372/2023/Subject%20Overviews%20Sem%201%202023/Science/Chemistry_3EXP_Sem12023.pdf">Chemistry</a><br /><a href="https://www.peicaisec.moe.edu.sg/qql/slot/u372/2023/Subject%20Overviews%20Sem%201%202023/Science/Physics_3EXP_Sem12023.pdf">Physics</a><br /><a href="https://www.peicaisec.moe.edu.sg/qql/slot/u372/2023/Subject%20Overviews%20Sem%201%202023/Science/ScienceBiology_3EXP_Sem12023.pdf">Science Biology</a><br /><a href="https://www.peicaisec.moe.edu.sg/qql/slot/u372/2023/Subject%20Overviews%20Sem%201%202023/Science/ScienceChemistry_3EXP_Sem12023.pdf">Science Chemistry</a><br /><a href="https://www.peicaisec.moe.edu.sg/qql/slot/u372/2023/Subject%20Overviews%20Sem%201%202023/Science/SciencePhysics_3EXP_Sem12023.pdf">Science Physics</a></p>
-</td>
-<td style="text-align: center;" width="208">
-<p><a href="https://www.peicaisec.moe.edu.sg/qql/slot/u372/2023/Subject%20Overviews%20Sem%201%202023/Science/ScienceBiology_3NA_Sem12023.pdf">Science Biology</a><br /><a href="https://www.peicaisec.moe.edu.sg/qql/slot/u372/2023/Subject%20Overviews%20Sem%201%202023/Science/ScienceChemistry_3NA_Sem12023.pdf">Science Chemistry</a><br /><a href="https://www.peicaisec.moe.edu.sg/qql/slot/u372/2023/Subject%20Overviews%20Sem%201%202023/Science/SciencePhysics_3NA_Sem12023.pdf">Science Physics</a></p>
-</td>
-<td style="text-align: center;" width="208">
-<p><a href="https://www.peicaisec.moe.edu.sg/qql/slot/u372/2023/Subject%20Overviews%20Sem%201%202023/Science/Science_3NT_Sem12023.pdf">Science</a><br /><a href="https://www.peicaisec.moe.edu.sg/qql/slot/u372/2023/Subject%20Overviews%20Sem%201%202023/Humanities/EBS_3NT_Sem12023.pdf">Elements of Business Skills</a></p>
+<p><a href="/files/Math_3NT_Sem12023.pdf">Mathematics</a></p>
 </td>
 </tr>
 <tr>
 <td style="text-align: center;" width="208">
-<p><a href="https://www.peicaisec.moe.edu.sg/qql/slot/u372/2023/Subject%20Overviews%20Sem%201%202023/Humanities/SS_3EX_Sem12023.pdf">Social Studies</a><br /><a href="https://www.peicaisec.moe.edu.sg/qql/slot/u372/2023/Subject%20Overviews%20Sem%201%202023/Humanities/Elective_Geography_3EX_Sem12023.pdf">Elective Geography</a><br /><a href="https://www.peicaisec.moe.edu.sg/qql/slot/u372/2023/Subject%20Overviews%20Sem%201%202023/Humanities/Elective%20History_3EX_Sem12023.pdf">Elective History</a><br /><a href="https://www.peicaisec.moe.edu.sg/qql/slot/u372/2023/Subject%20Overviews%20Sem%201%202023/EL%20and%20LIT/Literature_3EXP%20Subject%20Overview.pdf">Elective Literature</a><br /><a href="https://www.peicaisec.moe.edu.sg/qql/slot/u372/2023/Subject%20Overviews%20Sem%201%202023/Humanities/Pure_Geog_3EX_Sem12023.pdf">Pure Geography</a><br /><a href="https://www.peicaisec.moe.edu.sg/qql/slot/u372/2023/Subject%20Overviews%20Sem%201%202023/Humanities/Pure%20History_3EX_Sem12023.pdf">Pure History</a><br /><a href="https://www.peicaisec.moe.edu.sg/qql/slot/u372/2023/Subject%20Overviews%20Sem%201%202023/Humanities/POA_3EX_Sem12023.pdf">Principles of Accounts</a></p>
+<p><a href="/files/Biology_3EXP_Sem12023.pdf">Biology</a><br /><a href="/files/Chemistry_3EXP_Sem12023.pdf">Chemistry</a><br /><a href="/files/Physics_3EXP_Sem12023.pdf">Physics</a><br /><a href="/files/ScienceBiology_3EXP_Sem12023.pdf">Science Biology</a><br /><a href="/files/ScienceChemistry_3EXP_Sem12023.pdf">Science Chemistry</a><br /><a href="/files/SciencePhysics_3EXP_Sem12023.pdf">Science Physics</a></p>
 </td>
 <td style="text-align: center;" width="208">
-<p><a href="https://www.peicaisec.moe.edu.sg/qql/slot/u372/2023/Subject%20Overviews%20Sem%201%202023/Humanities/SS_3NA_Sem12023.pdf">Social Studies</a><br /><a href="https://www.peicaisec.moe.edu.sg/qql/slot/u372/2023/Subject%20Overviews%20Sem%201%202023/Humanities/Elective_Geography_3NA_Sem12023.pdf">Elective Geography</a><br /><a href="https://www.peicaisec.moe.edu.sg/qql/slot/u372/2023/Subject%20Overviews%20Sem%201%202023/Humanities/Elective%20History_3NA_Sem12023.pdf">Elective History</a><br /><a href="https://www.peicaisec.moe.edu.sg/qql/slot/u372/2023/Subject%20Overviews%20Sem%201%202023/EL%20and%20LIT/Literature_3NA%20Subject%20Overview.pdf">Elective Literature</a><br /><a href="https://www.peicaisec.moe.edu.sg/qql/slot/u372/2023/Subject%20Overviews%20Sem%201%202023/Humanities/POA_3NA_Sem12023.pdf">Principles of Accounts</a>&nbsp;</p>
+<p><a href="/files/ScienceBiology_3NA_Sem12023.pdf">Science Biology</a><br /><a href="/files/ScienceChemistry_3NA_Sem12023.pdf">Science Chemistry</a><br /><a href="/files/SciencePhysics_3NA_Sem12023.pdf">Science Physics</a></p>
+</td>
+<td style="text-align: center;" width="208">
+<p><a href="/files/Science_3NT_Sem12023.pdf">Science</a><br /><a href="/files/EBS_3NT_Sem12023.pdf">Elements of Business Skills</a></p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="208">
+<p><a href="/files/SS_3EX_Sem12023.pdf">Social Studies</a><br /><a href="/files/Elective_Geography_3EX_Sem12023.pdf">Elective Geography</a><br /><a href="/files/Elective%20History_3EX_Sem12023.pdf">Elective History</a><br /><a href="/files/Literature_3EXP%20Subject%20Overview.pdf">Elective Literature</a><br /><a href="/files/Pure_Geog_3EX_Sem12023.pdf">Pure Geography</a><br /><a href="/files/Pure%20History_3EX_Sem12023.pdf">Pure History</a><br /><a href="/files/POA_3EX_Sem12023.pdf">Principles of Accounts</a></p>
+</td>
+<td style="text-align: center;" width="208">
+<p><a href="/files/SS_3NA_Sem12023.pdf">Social Studies</a><br /><a href="/files/Elective_Geography_3NA_Sem12023.pdf">Elective Geography</a><br /><a href="/files/Elective%20History_3NA_Sem12023.pdf">Elective History</a><br /><a href="/files/Literature_3NA%20Subject%20Overview.pdf">Elective Literature</a><br /><a href="/files/POA_3NA_Sem12023.pdf">Principles of Accounts</a>&nbsp;</p>
 </td>
 <td style="text-align: center;" width="208"><br />
-<p><a href="https://www.peicaisec.moe.edu.sg/qql/slot/u372/2023/Subject%20Overviews%20Sem%201%202023/Humanities/SS_3NT_Sem12023.pdf">Social Studies</a></p>
+<p><a href="/files/SS_3NT_Sem12023.pdf">Social Studies</a></p>
 </td>
 </tr>
 <tr>
 <td style="text-align: center;" width="208">
-<p><a href="https://www.peicaisec.moe.edu.sg/qql/slot/u372/2023/Subject%20Overviews%20Sem%201%202023/Craft%20and%20Tech/Art_%203Exp_Sem12023.pdf">Art</a><br /><a href="https://www.peicaisec.moe.edu.sg/qql/slot/u372/2023/Subject%20Overviews%20Sem%201%202023/Craft%20and%20Tech/Subject%20Overview_DT_3E.pdf">Design and Technology</a><br /><a href="https://www.peicaisec.moe.edu.sg/qql/slot/u372/2023/Subject%20Overviews%20Sem%201%202023/Craft%20and%20Tech/2023%20Subject%20Overview_3Exp_NFS.pdf">Nutrition and Food Science</a></p>
+<p><a href="/files/Art_%203Exp_Sem12023.pdf">Art</a><br /><a href="/files/Subject%20Overview_DT_3E.pdf">Design and Technology</a><br /><a href="/files/2023%20Subject%20Overview_3Exp_NFS.pdf">Nutrition and Food Science</a></p>
 </td>
 <td style="text-align: center;" width="208">
-<p><a href="https://www.peicaisec.moe.edu.sg/qql/slot/u372/2023/Subject%20Overviews%20Sem%201%202023/Craft%20and%20Tech/Art_3NA_Sem12023.pdf">Art</a><br /><a href="https://www.peicaisec.moe.edu.sg/qql/slot/u372/2023/Subject%20Overviews%20Sem%201%202023/Craft%20and%20Tech/Subject%20Overview_DT_3NA.pdf">Design and Technology</a><br /><a href="https://www.peicaisec.moe.edu.sg/qql/slot/u372/2023/Subject%20Overviews%20Sem%201%202023/Craft%20and%20Tech/2023_Subject%20Overview_3NA.pdf">Nutrition and Food Science</a></p>
+<p><a href="/files/Art_3NA_Sem12023.pdf">Art</a><br /><a href="/files/Subject%20Overview_DT_3NA.pdf">Design and Technology</a><br /><a href="/files/2023_Subject%20Overview_3NA.pdf">Nutrition and Food Science</a></p>
 </td>
 <td style="text-align: center;" width="208">
-<p><a href="https://www.peicaisec.moe.edu.sg/qql/slot/u372/2023/Subject%20Overviews%20Sem%201%202023/Craft%20and%20Tech/Art_3NT_Art_Sem12023.pdf">Art</a><br /><a href="https://www.peicaisec.moe.edu.sg/qql/slot/u372/2023/Subject%20Overviews%20Sem%201%202023/Craft%20and%20Tech/Subject%20Overview_DT_3NT.pdf">Design and Technology</a><br /><a href="https://www.peicaisec.moe.edu.sg/qql/slot/u372/2023/Subject%20Overviews%20Sem%201%202023/Craft%20and%20Tech/2023_Subject%20Overview_3NT.pdf">Nutrition and Food Science</a></p>
+<p><a href="/files/Art_3NT_Art_Sem12023.pdf">Art</a><br /><a href="/files/Subject%20Overview_DT_3NT.pdf">Design and Technology</a><br /><a href="/files/2023_Subject%20Overview_3NT.pdf">Nutrition and Food Science</a></p>
 </td>
 </tr>
 <tr>
 <td style="text-align: center;" colspan="3" width="623">
-<p><strong>Physical Education<br /></strong><a href="https://www.peicaisec.moe.edu.sg/qql/slot/u372/2023/Subject%20Overviews%20Sem%201%202023/PE/PE_3A1_3B2_Sem12023.pdf">3A1/3B2</a> <a href="https://www.peicaisec.moe.edu.sg/qql/slot/u372/2023/Subject%20Overviews%20Sem%201%202023/PE/PE_3A2_3B1_Sem12023.pdf">3A2/3B1</a> <a href="https://www.peicaisec.moe.edu.sg/qql/slot/u899/Subject%20Overview/PE/2022_Subject%20Overview_PE%20Sem%202_3B2.pdf">3B2</a> <a href="https://www.peicaisec.moe.edu.sg/qql/slot/u372/2023/Subject%20Overviews%20Sem%201%202023/PE/PE_3B3_3C2_3C3_Sem12023.pdf">3B3/3C2/3C3</a> <a href="https://www.peicaisec.moe.edu.sg/qql/slot/u372/2023/Subject%20Overviews%20Sem%201%202023/PE/PE_3C1_3C5_Sem12023.pdf">3C1/3C5</a> <a href="https://www.peicaisec.moe.edu.sg/qql/slot/u372/2023/Subject%20Overviews%20Sem%201%202023/PE/PE_3C4_Sem12023.pdf">3C4</a></p>
+<p><strong>Physical Education<br /></strong><a href="/files/PE_3A1_3B2_Sem12023.pdf">3A1/3B2</a> <a href="/files/PE_3A2_3B1_Sem12023.pdf">3A2/3B1</a> <a href="/files/2022_Subject%20Overview_PE%20Sem%202_3B2.pdf">3B2</a> <a href="/files/PE_3B3_3C2_3C3_Sem12023.pdf">3B3/3C2/3C3</a> <a href="/files/PE_3C1_3C5_Sem12023.pdf">3C1/3C5</a> <a href="/files/PE_3C4_Sem12023.pdf">3C4</a></p>
 </td>
 </tr>
 </tbody>
