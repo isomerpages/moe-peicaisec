@@ -4,12 +4,254 @@ permalink: /cca/ccas/performing-arts/concert-band/
 description: ""
 third_nav_title: Performing Arts
 ---
-
-<img style="width: 50%;" src="/images/band1.jpg" align = "right" />
-<p>Our Band&rsquo;s motto is &ldquo;One Band, One Family, One Sound.&rdquo; We hope to nurture our Band members to be responsible and resilient team players through music. Founded in 1984, Peicai Concert Band is a very unique Co-Curricular Activity as most of our Band members start off without any music background. Our Band may be small in size but has achieved much over the years. One of our achievements is clinching the Certificate of Accomplishment in the Singapore Youth Festival Arts Presentation in 2015 and 2017. In fact, our Band was one of the smallest Bands among all the participating schools in 2015.</p>
-<p>Other than taking part in the Singapore Youth Festival Arts Presentation, our Band demonstrates consideration and empathy for others in the community. In 2015, we performed for 1000 over guests at Safra@Jurong. In addition, we are active participants of the Values-in-Action Projects such as Arts@KKH and Musicfest@SGH where we perform for the patients, visitors and staff. In 2019, our Band performed at the Sengkang General hospital and the&nbsp;ZARTS FEST 2019 @ZHPS.</p>
-<img style="width: 50%;" src="/images/band2.jpg" align = "right" />
-<p>Our repertoire includes pieces from classical music to pop music. We also take part in the biennial Ignite public concert and are given the platform to collaborate with the rest of the performing arts groups in the school. It is&nbsp;definitely a challenging yet fulfilling experience for all the Ignite performers as the school values of perseverance, respect and empathy are being displayed throughout the rehearsals and actual event. Every year we also perform at the National Day and Chinese New Year celebrations in school.</p>
-<p>Our Band members are given the platform to develop teamwork&nbsp;and a strong sense of musicality during their annual Band workshop and school exchange programme.&nbsp;</p>
-<h4><strong>Concert Band Videos</strong></h4>
-<div><iframe src="https://www.youtube.com/embed/iDFNVab16HU" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe><iframe src="https://www.youtube.com/embed/wtl06uxaCFw" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div>
+<img src="/images/band.jpg">
+<h4><strong>Introduction</strong></h4>
+<p>In Concert Band, we aim to&nbsp;</p>
+<ol>
+<li aria-level="1">develop our Band members to be responsible and resilient team players through music.&nbsp;</li>
+<li aria-level="1">provide an opportunity for our Band members to discover their hidden talent.</li>
+<li aria-level="1">provide an opportunity for our Band members to explore and improve their creative abilities further.</li>
+</ol>
+<h4><strong>Teachers-In-Charge</strong></h4>
+<table>
+<tbody>
+<tr>
+<th style="text-align: center;">
+<p>Name</p>
+</th>
+<th style="text-align: center;">
+<p>Designation</p>
+</th>
+</tr>
+<tr>
+<td style="text-align: center;">
+<p><em>Ms Lee Ching Yi</em></p>
+</td>
+<td style="text-align: center;">
+<p><em>Overall Teacher IC</em></p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">
+<p><em>Ms Kwong Wen Li</em></p>
+</td>
+<td style="text-align: center;">
+<p><em>Teacher IC</em></p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">
+<p><em>Mr Wong Jiun Ching</em></p>
+</td>
+<td style="text-align: center;">
+<p><em>Teacher IC</em></p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">
+<p><em>Ms Goh Peini</em></p>
+</td>
+<td style="text-align: center;">
+<p><em>Teacher IC</em></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Training schedule</strong></h4>
+<table>
+<tbody>
+<tr>
+<td style="text-align: center;">
+<p><strong>Day</strong></p>
+</td>
+<td style="text-align: center;">
+<p><strong>Time</strong></p>
+</td>
+<td style="text-align: center;">
+<p><strong>Venue</strong></p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">
+<p><em>Monday</em></p>
+</td>
+<td style="text-align: center;">
+<p><em>3pm - 6pm</em></p>
+</td>
+<td style="text-align: center;">
+<p><em>Band Room</em></p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">
+<p><em>Tuesday</em></p>
+</td>
+<td style="text-align: center;">
+<p><em>3pm - 6pm</em></p>
+</td>
+<td style="text-align: center;">
+<p><em>Band Room (May change to Friday)</em></p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">
+<p><em>Thursday</em></p>
+</td>
+<td style="text-align: center;">
+<p><em>3pm - 6pm</em></p>
+</td>
+<td style="text-align: center;">
+<p><em>Band Room&nbsp;</em></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Student EXCO</strong></h4>
+<table>
+<tbody>
+<tr>
+<td style="text-align: center;">
+<p><strong>Appointment</strong></p>
+</td>
+<td style="text-align: center;">
+<p><strong>Name of Student</strong></p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">
+<p>BAND MAJOR</p>
+</td>
+<td style="text-align: center;">
+<p>NUR IMAN MOHAMMAD AFFENDI</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">
+<p>ASSISTANT BAND MAJOR</p>
+</td>
+<td style="text-align: center;">
+<p>ADRINA YEO KAI XUAN</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">
+<p>DRUM MAJOR</p>
+</td>
+<td style="text-align: center;">
+<p>CHONG ZHENG ZHI</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Programmes/Activities Highlight</strong></h4>
+<table>
+<tbody>
+<tr>
+<th style="text-align: center;">
+<p>Programme</p>
+</th>
+<th style="text-align: center;">
+<p>Remarks</p>
+</th>
+</tr>
+<tr>
+<td style="text-align: center;">
+<p>&nbsp;Weekly Training</p>
+</td>
+<td style="text-align: center;">
+<p>Every Monday (Main Band),<br />Tuesday (Junior Band) and&nbsp;<br />Thursday (All)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">
+<p>CCE-CCA Lesson&nbsp;</p>
+</td>
+<td style="text-align: center;">
+<p>Once a year&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">
+<p>&nbsp;Chinese New Year Performance</p>
+</td>
+<td style="text-align: center;">
+<p>January / February during school&rsquo;s CNY celebration&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">
+<p>Step Down Ceremony</p>
+</td>
+<td style="text-align: center;">
+<p>&nbsp;April</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">
+<p>&nbsp;National Day Performance</p>
+</td>
+<td style="text-align: center;">
+<p>August during school National Day Celebration&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">
+<p>&nbsp;Singapore Youth Festival<br />Arts Presentation</p>
+</td>
+<td style="text-align: center;">
+<p>Biennial</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">
+<p>Ignite Concert</p>
+</td>
+<td style="text-align: center;">
+<p>Biennial&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">
+<p>&nbsp;Recognition and Celebration Day</p>
+</td>
+<td style="text-align: center;">
+<p>May and October&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">
+<p>Band Day Camp/<br />Exchange Programme&nbsp;</p>
+</td>
+<td style="text-align: center;">
+<p>Before SYF Arts Presentation/&nbsp;<br />Ignite Concert&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">
+<p>Learning Journey/ Excursion&nbsp;</p>
+</td>
+<td style="text-align: center;">
+<p>After O-Level Examination&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">
+<p>VIA Project</p>
+</td>
+<td style="text-align: center;">
+<p>Once a year</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Achievements</strong></h4>
+<p>2021 SYF Arts Presentation (Certificate of Accomplishment)</p>
+<p>2019 SYF Arts Presentation (Certificate of Commendation)&nbsp;</p>
+<p>2017 SYF Arts Presentation -Brass Ensembles (Secondary Schools) (Certificate of Accomplishment)</p>
+<p>2017 SYF Arts Presentation -Wind Ensembles (Secondary&nbsp;Schools) (Certificate of Accomplishment)</p>
+<p>2016 SYF Arts Presentation (Certificate of Accomplishment)</p>
+<h4><strong>Videos</strong></h4>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iDFNVab16HU" title="Band CCA E Open House 2021 video 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wtl06uxaCFw" title="Band CCA E Open House 2021 Video 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<h4><strong>Photos</strong></h4>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRDem1rMPx0Lslq-680G5VXAt1rjQKWEZi28k6Y-AXBi71AzpWKC-teCT9F9daNNfm_GMF2WVpyrjLl/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true" ></iframe>
