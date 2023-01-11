@@ -105,12 +105,10 @@ description: ""
 <tbody>
 <tr>
 <td width="312">
-<p><strong><a href="https://www.moe.gov.sg/-/media/files/secondary/syllabuses/science/2021-science-syllabus-lower-secondary.pdf?la=en&amp;hash=5A2FDABB63C929FF42F96A0EC63BDCA8710B8AF1">Lower Secondary</a></strong></p>
-<p><strong><u>N Level</u></strong></p>
+<p><strong><a href="https://www.moe.gov.sg/-/media/files/secondary/syllabuses/science/2021-science-syllabus-lower-secondary.pdf?la=en&amp;hash=5A2FDABB63C929FF42F96A0EC63BDCA8710B8AF1">Lower Secondary</a></strong><br><strong><u>N Level</u></strong></p>
 </td>
 <td width="312">
-<p>&nbsp;</p>
-<p><strong><u>O Level</u></strong></p>
+<br><p><strong><u>O Level</u></strong></p>
 </td>
 </tr>
 <tr>
