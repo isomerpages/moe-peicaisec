@@ -2,6 +2,7 @@ collections:
   unused-pages:
     output: true
     order:
+      - (ECG).md
       - Teachers' Day Appreciation Messages.md
       - School Facilities.md
       - Staff (Our Peicai Family)/Executive & Administrative Staff.md
