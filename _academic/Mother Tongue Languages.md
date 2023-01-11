@@ -200,8 +200,7 @@ description: ""
 <td width="294">
 </td>
 <td width="294">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2022syllabus/3194_y22_sy.pdf">Non-Tamil in-Lieu (NTIL)</a></p>
-<p>Bengali (3215)<br>Gujerati (3199)<br>Hindi (3194)<br>Panjabi 3203)<br>Urdu (3196)</p>
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2022syllabus/3194_y22_sy.pdf">Non-Tamil in-Lieu (NTIL)</a><br>Bengali (3215)<br>Gujerati (3199)<br>Hindi (3194)<br>Panjabi 3203)<br>Urdu (3196)</p>
 </td>
 </tr>
 </tbody>
