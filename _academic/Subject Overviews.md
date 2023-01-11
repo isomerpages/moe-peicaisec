@@ -263,3 +263,88 @@ description: ""
 </tr>
 </tbody>
 </table>
+<h4 style="text-align: center;"><strong>Secondary Four and Five</strong></h4>
+<table>
+<tbody>
+<tr>
+<td style="text-align: center;" width="208">
+<p><strong><u>Express</u></strong></p>
+</td>
+<td style="text-align: center;" width="208">
+<p><strong><u>Normal (Academic)</u></strong></p>
+</td>
+<td style="text-align: center;" width="208">
+<p><strong><u>Normal (Technical)</u></strong></p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="208">
+<p><a href="/files/English%20Language_4E5N_Sem1%202023.pdf">English Language</a></p>
+</td>
+<td style="text-align: center;" width="208">
+<p><a href="/files/English%20Language_4NA_Sem1%202023.pdf">English Language</a></p>
+</td>
+<td style="text-align: center;" width="208">
+<p><a href="/files/English%20Language_4NT_Sem1%202023.pdf">English Language</a></p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="208">
+<p><a href="/files/Chinese%20Language_4EXP_Sem12023.pdf">Chinese</a><br /><a href="/files/Chinese%20Language_4CLB_Sem12023.pdf">Chinese Syllabus B</a><br /><a href="/files/Chinese%20Language_4HCL_Sem12023.pdf">Higher Chinese</a><br /><a href="/files/Malay%20Language_4EXP_Sem12023.pdf">Malay</a></p>
+</td>
+<td style="text-align: center;" width="208">
+<p><a href="/files/Chinese%20Language_4NA_Sem12023.pdf">Chinese</a><br /><a href="/files/Chinese%20Language_4CLB_Sem12023.pdf">Chinese Syllabus B</a><br /><a href="/files/Malay%20Language_4NA_Sem12023.pdf">Malay</a></p>
+</td>
+<td style="text-align: center;" width="208">
+<p><a href="/files/Chinese%20Language_4NT_Sem12023.pdf">Basic Chinese</a><br /><a href="/files/Malay%20Language_4NT_Sem12023.pdf">Basic Malay</a></p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="208">
+<p><a href="/files/Add%20Math_4EXP_Sem12023.pdf">Additional Mathematics 4E</a><br /><a href="/files/Add%20Math_5NA_Sem12023.pdf">Additional Mathematics 5N</a><br /><a href="/files/Math_4EXP_Sem12023.pdf">Mathematics 4E</a><br /><a href="/files/Math_5NA_Sem12023.pdf">Mathematics 5N</a></p>
+</td>
+<td style="text-align: center;" width="208">
+<p><a href="/files/Add%20Math_4NA_Sem12023.pdf">Additional Mathematics</a><br /><a href="/files/Math_4NA_Sem12023.pdf">Mathematics</a></p>
+</td>
+<td style="text-align: center;" width="208">
+<p><a href="/files/CPA_4NT_Sem%201_2023.pdf">Computer Applications</a><br /><a href="/files/Mathmatics/Math_4NT_Sem12023.pdf">Mathematics</a></p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="208">
+<p><a href="/files/Biology_4EXP_Sem12023.pdf">Biology</a><br /><a href="/files/Chemistry_4EXP_Sem12023.pdf">Chemistry</a><br /><a href="/files/Physics_4EXP_Sem12023.pdf">Physics</a><br /><a href="/files/ScienceBiology_4EXP_Sem12023.pdf">Science Biology 4E</a><br /><a href="/files/ScienceBiology_5NA_Sem12023.pdf">Science Biology 5N</a><br /><a href="/files/ScienceChemistry_4EXP_Sem12023.pdf">Science Chemistry 4E</a><br /><a href="/files/ScienceChemistry_5NA_Sem12023.pdf">Science Chemistry 5N</a><br /><a href="/files/ciencePhysics_4EXP_Sem12023.pdf">Science Physics 4E</a><br /><a href="/files/SciencePhysics_5NA_Sem12023.pdf">Science Physics 5N</a></p>
+</td>
+<td style="text-align: center;" width="208">
+<p><a href="/files/ScienceBiology_4NA_Sem12023.pdf">Science Biology</a><br /><a href="/files/ScienceChemistry_4NA_Sem12023.pdf">Science Chemistry</a><br /><a href="/files/SciencePhysics_4NA_Sem12023.pdf">Science Physics</a></p>
+</td>
+<td style="text-align: center;" width="208">
+<p><a href="/files/Science_4NT_Sem12023.pdf">Science</a></p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="208">
+<p><a href="/files/Humanities/SS_4EX_Sem12023.pdf">Social Studies 4E</a><br /><a href="/files/Humanities/SS_5NA_Sem12023.pdf">Social Studies 5N</a><br /><a href="/files/Humanities/Pure_Geog_4EX_Sem2023.pdf">Pure Geography</a><br /><a href="/files/Literature_4EXP%20Pure%20Subject%20Overview_Macbeth.pdf">Pure Literature (Macbeth)</a><br /><a href="/files/Elective_Geography_4EX_Sem12023.pdf">Elective Geography 4E</a><br /><a href="/files/Elective_Geography_5NA_Sem12023.pdf">Elective Geography 5N</a><br /><a href="/files/Elective%20History_4EX5NA_Sem12023.pdf">Elective History</a><br /><a href="/files/Literature_4EXP%20Elective%20Subject%20Overview_F451.pdf">Elective Literature </a><br /><a href="/files/POA_4EX_Sem12023.pdf">Principles of Accounts</a></p>
+</td>
+<td style="text-align: center;" width="208">
+<p><a href="/files/SS_4NA_Sem12023.pdf">Social Studies</a><br /><a href="/files/Elective_Geography_4NA_Sem12023.pdf">Elective Geography</a><br /><a href="/files/Elective%20History_4NA_2023.pdf">Elective History</a><br /><a href="/files/POA_4NA_Sem12023.pdf">Principles of Accounts</a></p>
+</td>
+<td style="text-align: center;" width="208"><a href="/files/SS_4NT_Sem2023.pdf">Social Studies</a></td>
+</tr>
+<tr>
+<td style="text-align: center;" width="208">
+<p><a href="/files/Art_4EXP_Sem12023.pdf">Art 4E</a><br /><a href="/files/Art_5NA_Sem12023.pdf">Art 5N</a><br /><a href="/files/Subject%20Overview_DT_4Exp.pdf">Design and Technology 4E</a><br /><a href="/files/Subject%20Overview_DT_5NA.pdf">Design and Technology 5N</a><br /><a href="/files/2023_Subject%20Overview_4Exp_Sem%201_V2.pdf">Nutrition &amp; Food Science 4E</a><br /><a href="/files/Subject%20Overview_5N_Sem%201_2023_V3.pdf">Nutrition &amp; Food Science 5N</a></p>
+</td>
+<td style="text-align: center;" width="208">
+<p><a href="/files/Subject%20Overview_DT_4NA.pdf">Design and Technology</a><br /><a href="/files/Subject%20Overview_4NA_Sem%201_2023_V3.pdf">Nutrition and Food Science</a></p>
+</td>
+<td style="text-align: center;" width="208">
+<p><a href="/files/Art_4NT__Sem%2012023.pdf">Art</a><br /><a href="/files/Subject%20Overview_DT_4NT.pdf">Design and Technology</a><br /><a href="/files/Subject%20Overview_4NT_Sem%201_2023_V2.pdf">Nutrition and Food Science</a></p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" colspan="3" width="623">
+<p><strong>Physical Education<br /></strong><a href="/files/PE_4A1_4A2_Sem12023.pdf">4A1/4A2</a> <a href="/files/PE_4B1_4C1_4C3_Sem12023.pdf">4B1/4C1/4C3</a> <a href="/files/PE_4B2_Sem12023.pdf">4B2</a> <a href="/files/PE_4C2_Sem12023.pdf">4C2</a> <a href="/files/2022_Subject%20Overview_PE%20Sem%202_4C1_4C2.pdf">4C1/4C2</a> <a href="/files/PE_4C4_4C5_Sem12023.pdf">4C4/4C5</a> <a href="/files/PE_5B1_Sem12023.pdf">5B1</a></p>
+</td>
+</tr>
+</tbody>
+</table>
