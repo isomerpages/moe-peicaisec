@@ -1,6 +1,6 @@
 ---
 title: Sexuality Education
-permalink: /student-development/character-n-citizenship-education/sexuality-education
+permalink: /student-development/character-n-citizenship-education/sexuality-education/
 description: ""
 third_nav_title: CCE
 ---
@@ -74,10 +74,6 @@ third_nav_title: CCE
 <tr>
 <td>&nbsp;b.</td>
 <td>Character and Citizenship Education (CCE)&nbsp;<br /><br /></td>
-</tr>
-</tbody>
-</table>
-</td>
 </tr>
 </tbody>
 </table>
