@@ -42,3 +42,155 @@ description: ""
 </tr>
 </tbody>
 </table>
+<h4><strong>DESIGN &amp; TECHNOLOGY</strong></h4>
+<p>In Peicai, we aim to</p>
+<ol>
+<li>to develop confidence, pride and tenacity through exploring real-world design opportunities for which ideas are developed</li>
+<li>cultivate thinking through doodling, sketching/drawing and experimentation of prototype ideas using appropriate materials and tools</li>
+<li>build on innate curiosity, ability to create, exercise judgements and make evidence-based decisions of a technological, aesthetic and economic nature.</li>
+</ol>
+<p>We support these endeavours through:</p>
+<ul>
+<li>the use of SCAMPER, Shape Borrowing and Random lines trigger techniques for ideation.</li>
+<li>modelling visualization of design and elements of design so as to help build on students&rsquo; ideas.</li>
+<li>experiential and hands-on activities to develop their problem solving and creative thinking skills</li>
+</ul>
+<p><strong><u>Programmes<br /></u></strong>Students participate in the &lsquo;<strong>IgnITE&rsquo; Skills Challenge 2022, organised by Institute of Technical Education (ITE) -&nbsp;</strong>Creative Maquillage. Students had&nbsp;to apply design thinking concept in D&amp;T to design a creative makeup look to enhance the sales of a makeup palette. They used digital mood board and makeup apps to create a makeup look and promote the makeup palette on social media.</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 62%;"><img src="/images/ct6.jpg"></td>
+<td style="width: 38%;"><img src="/images/ct16.jpg"></td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Music</strong></h4>
+<p>In Peicai Secondary School, we aim to develop in students the competencies that will enable them to:</p>
+<ol>
+<li>Express themselves through various genres to help them appreciate the music around them.</li>
+<li>Learn about basic music elements and concepts of rhythm and harmony through music creation.</li>
+<li>Deepen their appreciation for music through the process of active listening by performing and creating music</li>
+</ol>
+<p>We support these endeavours through&hellip;</p>
+<ol>
+<li>Equipping students with the necessary musical skills and knowledge of instrumental playing (ukulele and keyboard).</li>
+<li>Engaging students in analysing and evaluating musical works.</li>
+<li>Infusing technological skills in song arrangements and song writing.</li>
+</ol>
+<p>We provide a two year lower secondary music curriculum to develop and equip our students with the fundamental skills and techniques in music making. It is also aligned to the school&rsquo;s Aesthetic Education Programme where music is seen as an integral part of students&rsquo; lives. We believe that every child should&nbsp;be given the opportunity to develop his/her potential in creative expression through Music education in school.</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 37%;"><img src="/images/ct7.jpg"></td>
+<td style="width: 63%;"><img src="/images/ct8.jpg"></td>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="/images/ct9.jpg"></td>
+<td style="width: 50%;"><img src="/images/ct10.jpg"></td>
+</tr>
+</tbody>
+</table>
+<h4><strong>NUTRITION &amp; FOOD SCIENCE UNIT</strong></h4>
+<p>In Peicai, we aim to</p>
+<ol>
+<li>nurture students who take an active role in bettering the lives of those around them through their knowledge in nutrition,&nbsp;<br />health and food science.</li>
+<li>develop confident individuals who are able to make discerning judgement through essential knowledge and skills on food<br />literacy</li>
+<li>nurture innovative thinkers who will be able to apply principles of culinary science creatively in food preparation and cooking.</li>
+</ol>
+<p>We support these endeavours through</p>
+<ol>
+<li>hands on practical lesson to hone cooking skills</li>
+<li>Inquiry based learning</li>
+<li>effective questioning- socratic questioning- develop the way students think and learn</li>
+<li>scenario based activities</li>
+<li>projects that require students to find solutions to real situations</li>
+</ol>
+<h4><strong>Programmes</strong></h4>
+<p><strong><u>Project Heart @ Peicai</u></strong></p>
+<p>Project Heart@Peicai integrates skills learned during Food &amp; Consumer Education (FCE) lessons with 21st Century competencies. It adopts a values-based approach to make learning more authentic.</p>
+<p>Leveraging on the school&rsquo;s partnership with Lions Club Singapore Nanyang, Students serve food, educate and entertain elderly from Lions Befrienders, preparing and serving them meals, while teaching them about healthy living, and interacting via conversation, games and the sharing of knowledge and personal lives.</p>
+<p>During the pandemic, students produce health videos to educate elderly on diseases and ways to lead a healthier lifestyle.</p>
+<p><strong><u>Food Science Competition</u></strong></p>
+<p>2019- Picky Palette for young children</p>
+<p>Students planned and prepared a nutritional dish and low sugared drink that are able to meet the nutritional needs of young children.</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 60%;"><img src="/images/ct11.png"></td>
+<td style="width: 40%;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>2020- Picky Palette for teenagers</p>
+<p>Students incorporated the knowledge and skills learnt in both Nutrition and food science and ALP STEM lesson to produce an Instagram worthy dish and drink that is suitable for a teenager.</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 60%;"><img src="/images/ct12.png"></td>
+<td style="width: 40%;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>2021- Nutriboost</p>
+<p>Students planned and prepared a main dish to satisfy the nutritional needs of the young adult with a health issue.</p>
+<p>They also created a dietary supplement to complement the main dish and boost their health.</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 33.3333%;"><img src="/images/ct13.png"></td>
+<td style="width: 33.3333%;"><img src="/images/ct14.png"></td>
+<td style="width: 33.3333%;"><img src="/images/ct15.png"></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">Filling the capsules fresh dried ingredients that are high in iron.</td>
+<td style="width: 33.3333%;">To ensure weight of each capsule is uniform.</td>
+<td style="width: 33.3333%;">&nbsp;Tuna and chickpea burger</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Subjects Offered</strong></h4>
+<table>
+<tbody>
+<tr>
+<td width="60">&nbsp;</td>
+<td width="141"><strong><u>Art</u></strong></td>
+<td width="141"><strong><u>Design and Technology</u></strong></td>
+<td width="141"><strong><u>Music</u></strong></td>
+<td width="141"><strong><u>Nutrition and Food Science</u></strong></td>
+</tr>
+<tr>
+<td width="60">&nbsp;</td>
+<td width="141">&nbsp;</td>
+<td width="141">&nbsp;</td>
+<td width="141"><a href="https://www.moe.gov.sg/-/media/files/primary/2015musicteachingandlearningsyllabusprimaryandlowersecondary.ashx?la=en&amp;hash=41025D7E02879592E04790C645AF026FD33D64E9">Lower Secondary Music</a></td>
+<td width="141">&nbsp;</td>
+</tr>
+<tr>
+<td width="60"><strong>N Level</strong></td>
+<td width="141">
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2022syllabus/6128_y22_sy.pdf">6128 N(T) Level</a></p>
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2022syllabus/6128_y22_sy.pdf">Art</a><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2021syllabus/6125_y21_sy.pdf">6125 N(A) Level Art</a></p>
+</td>
+<td width="141">
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2022syllabus/7055_y22_sy.pdf">7055 N(A)</a></p>
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2022syllabus/7062_y22_sy.pdf">7062 N(T)</a></p>
+</td>
+<td width="141">&nbsp;</td>
+<td width="141">
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2022syllabus/6079_y22_sy.pdf">6079 Food Studies</a></p>
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2022syllabus/6073_y22_sy.pdf">6073 Nutrition and Food Science</a></p>
+</td>
+</tr>
+<tr>
+<td width="60"><strong>O Level</strong></td>
+<td width="141"><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2022syllabus/6123_y22_sy.pdf">6123 O Level Art</a></td>
+<td width="141">&nbsp;<a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2022syllabus/7059_y22_sy.pdf">7059</a></td>
+<td width="141">&nbsp;</td>
+<td width="141"><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2022syllabus/6097_y22_sy.pdf">6097 Nutrition and Food Science</a></td>
+</tr>
+</tbody>
+</table>
