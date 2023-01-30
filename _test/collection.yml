@@ -1,5 +1,5 @@
 collections:
-  test-2:
+  test:
     output: true
     order:
       - Dummypage.md
