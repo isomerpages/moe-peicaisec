@@ -11,7 +11,7 @@ description: ""
 <tr>
 <td style="width: 33.3333%;"><a href="/cca/ccas/sports/basketball-boys"><img style="width: 100%;" src="/images/cca1.jpg" /></a></td>
 <td style="width: 33.3333%;"><a href="/cca/ccas/sports/softball-boys-n-girls"><img style="width: 100%;" src="/images/cca2.jpg" /></a></td>
-<td style="width: 33.3333%;"><a href="/cca/ccas/sports/volleyball-boys"><img style="width: 85%;" src="/images/cca13.jpg" /></a></td></td>
+<td style="width: 33.3333%;"><a href="/cca/ccas/sports/volleyball-boys"><img style="width: 85%;" src="/images/cca13.jpg" /></a></td>
 </tr>
 <tr>
 <td style="width: 33.3333%;"><p style="text-align: center;">Basketball Boys</p></td>
@@ -20,7 +20,7 @@ description: ""
 </tr>
 <tr>
 <td style="width: 33.3333%;"><a href="/cca/ccas/sports/floorball-boys-n-girls"><img style="width: 100%;" src="/images/cca14.png" /></a></td>
-<td style="width: 33.3333%;"><a href="/cca/ccas/sports/volleyball-girls"><img style="width: 100%;" src="/images/cca3.jpg" /></a></td></td>
+<td style="width: 33.3333%;"><a href="/cca/ccas/sports/volleyball-girls"><img style="width: 100%;" src="/images/cca3.jpg" /></a></td>
 <td style="width: 33.3333%;"><a href="/cca/ccas/sports/badminton-boys-n-girls-new"><img style="width: 85%;" src="/images/cca15.jpg" /></a></td></td>
 </tr>
 <tr>
