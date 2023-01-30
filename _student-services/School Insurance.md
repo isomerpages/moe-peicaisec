@@ -5,7 +5,7 @@ description: ""
 ---
 <h4><strong>Group Personal Accident (GPA) Insurance for Students</strong></h4>
 <p>This is a Group Personal Accident (GPA) Insurance which covers death, permanent and total/partial disability and medical expenses due to an accident. The proximate or triggering causes of injuries must be reasonably attributed to an accident.</p>
-<p><strong>1. Benefit/ Sum Insured for GPA Insurance &ndash; For Year 2022&nbsp;</strong></p>
+<p><strong>1. Benefit/ Sum Insured for GPA Insurance &ndash; For Year 2023&nbsp;</strong></p>
 <table>
 <tbody>
 <tr>
