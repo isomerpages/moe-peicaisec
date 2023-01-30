@@ -100,4 +100,6 @@ links:
     url: /first-day-of-school-2023
   - title: Student development
     url: /Student-development
-    sublinks: []
+    sublinks:
+      - title: Submenu Title
+        url: /permalink
