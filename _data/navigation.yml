@@ -16,7 +16,7 @@ links:
       - title: Contact Us
         url: /about-us/contact-us
       - title: Test page
-        url: /about-us/Test-page
+        url: /about-us/test
   - title: Academic
     url: /academic/teaching-and-learning-at-pcss
     sublinks:
