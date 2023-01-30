@@ -21,7 +21,7 @@ description: ""
 <tr>
 <td style="width: 33.3333%;"><a href="/cca/ccas/sports/floorball-boys-n-girls"><img style="width: 100%;" src="/images/cca14.png" /></a></td>
 <td style="width: 33.3333%;"><a href="/cca/ccas/sports/volleyball-girls"><img style="width: 100%;" src="/images/cca3.jpg" /></a></td>
-<td style="width: 33.3333%;"><a href="/cca/ccas/sports/badminton-boys-n-girls-new"><img style="width: 85%;" src="/images/cca15.jpg" /></a></td></td>
+<td style="width: 33.3333%;"><a href="/cca/ccas/sports/badminton-boys-n-girls-new"><img style="width: 85%;" src="/images/cca15.jpg" /></a></td>
 </tr>
 <tr>
 <td style="width: 33.3333%;"><p style="text-align: center;">Floorball Boys and Girls</p></td>
