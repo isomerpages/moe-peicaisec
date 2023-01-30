@@ -15,6 +15,8 @@ links:
         url: /about-us/our-peicai-family/school-advisory-committee-sac
       - title: Contact Us
         url: /about-us/contact-us
+      - title: Test page
+        url: /about-us/test-page
   - title: Academic
     url: /academic/teaching-and-learning-at-pcss
     sublinks:
