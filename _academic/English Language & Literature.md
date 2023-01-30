@@ -10,7 +10,7 @@ description: ""
 <li dir="ltr"><strong>Discerning Readers</strong> who possess broad worldviews by staying well informed and self-directed in the use of information, and are able to distinguish fact from falsehood by processing and evaluating information closely, critically and with discernment according to purpose, audience, context and culture.&nbsp;</li>
 <li dir="ltr"><strong>Creative Inquirers</strong> who explore and evaluate real-world issues and multiple perspectives as well as gather and synthesise information from diverse print, non-print and digital networked sources, so as to cocreate knowledge and solutions in familiar or new contexts</li>
 </ol>
-</div>
+
 <div>
 <p dir="ltr">We support these endeavours through:</p>
 <ol>
