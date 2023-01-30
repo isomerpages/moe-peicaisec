@@ -99,4 +99,5 @@ links:
   - title: First Day of School 2023
     url: /first-day-of-school-2023
   - title: Menu Title
-    collection: academic
+    url: /permalink
+    sublinks: []
