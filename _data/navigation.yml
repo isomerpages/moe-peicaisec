@@ -1,8 +1,6 @@
 logo: /images/logo.jpg
 links:
   - title: About Us
-    collection: about-us
-  - title: About Us
     url: /about-us/principal-s-message
     sublinks:
       - title: Principal’s Message
