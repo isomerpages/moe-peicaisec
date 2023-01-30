@@ -14,4 +14,10 @@ The School Advisory Committee (SAC) of Peicai Secondary School is our key partne
 |  |  |  |
 | -------- | -------- | -------- |
 |Chairman     | Mr Tang Chye Huat, PBM    |   |
-
+|Vice-Chairman     | Dr Edmond Tan    |   |
+|Honorary Treasurer | Mr Ramesh S/O Sreedharan Nair    |   |
+|Members     | Ms Evangeline Tan 
+|     | Ms Amy Teo 
+|     | Mr Yeo Boon Thiam, Steven 
+|     | Mr Chia Dingli Stanley 
+               
