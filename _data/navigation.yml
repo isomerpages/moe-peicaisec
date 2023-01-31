@@ -68,6 +68,8 @@ links:
         url: /cca/cca-schedule
       - title: CCAs
         url: /cca/ccas
+      - title: CCAs
+        url: /cca/ccas
   - title: Achievements
     url: /achievements/students
     sublinks:
