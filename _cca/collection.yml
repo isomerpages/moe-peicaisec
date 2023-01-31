@@ -2,7 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - Uniformed Groups/.keep
       - CCA.md
       - CCA Schedule.md
       - CCAs.md
@@ -14,10 +13,11 @@ collections:
       - Performing Arts/Modern Dance.md
       - Performing Arts/Drama Club.md
       - Performing Arts/Concert Band.md
+      - Sports/.keep
       - Sports/Badminton Boys & Girls (New!).md
       - Sports/Volleyball Girls.md
       - Sports/Volleyball Boys.md
       - Sports/Softball Boys & Girls.md
       - Sports/Floorball Boys & Girls.md
-      - Sports/.keep
       - Sports/Basketball Boys.md
+      - Uniformed Groups/.keep
