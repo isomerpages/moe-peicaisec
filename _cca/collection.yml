@@ -2,11 +2,11 @@ collections:
   cca:
     output: true
     order:
-      - Performing Arts/.keep
       - CCA.md
       - CCA Schedule.md
       - CCAs.md
+      - Clubs & Societies/.keep
       - Clubs & Societies/InfoComm Club.md
       - Clubs & Societies/Art Club.md
       - Clubs & Societies/Aero–Modelling Club.md
-      - Clubs & Societies/.keep
+      - Performing Arts/.keep
