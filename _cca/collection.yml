@@ -2,6 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - CCAs.md
       - CCA.md
       - CCA Schedule.md
+      - CCAs.md
