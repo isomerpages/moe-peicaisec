@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Clubs & Societies/.keep
-      - Clubs & Societies/InfoComm Club.md
       - Performing Arts/.keep
       - Performing Arts/Concert Band.md
       - Performing Arts/Drama Club.md
