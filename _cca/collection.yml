@@ -2,8 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - Sports/Basketball Boys.md
-      - Sports/.keep
       - CCA.md
       - CCA Schedule.md
       - CCAs.md
@@ -11,7 +9,9 @@ collections:
       - Clubs & Societies/InfoComm Club.md
       - Clubs & Societies/Art Club.md
       - Clubs & Societies/Aero–Modelling Club.md
+      - Performing Arts/.keep
       - Performing Arts/Modern Dance.md
       - Performing Arts/Drama Club.md
       - Performing Arts/Concert Band.md
-      - Performing Arts/.keep
+      - Sports/.keep
+      - Sports/Basketball Boys.md
