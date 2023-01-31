@@ -4,7 +4,6 @@ permalink: /cca/ccas/
 description: ""
 third_nav_title: CCAs
 ---
-
 <h4><strong>CCA Briefing for Secondary 1</strong></h4>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tEgW1DvihZg" title="CCA Briefing 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <h4><strong>Sports & Games</strong></h4>
