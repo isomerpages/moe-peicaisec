@@ -19,6 +19,6 @@ sections:
           url: /parents
         - title: Announcements
           description: ""
-          url: /announcements
+          url: /announcements/announcements
       background: /images/Banner 1 copy.jpg
 ---
