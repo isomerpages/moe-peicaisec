@@ -92,3 +92,5 @@ links:
         url: /parents/letters-to-parents
       - title: Useful Links
         url: /parents/useful-links
+  - title: announcements
+    collection: announcements
