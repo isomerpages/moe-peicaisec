@@ -2,6 +2,7 @@ collections:
   test:
     output: true
     order:
+      - Archive.md
       - School Events.md
       - CCA.md
       - Dummypage.md
