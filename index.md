@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/pcss banner.gif
       key_highlights:
         - title: Media
           description: ""
