@@ -10,7 +10,7 @@ sections:
       key_highlights:
         - title: Media
           description: ""
-          url: /media/gallery/school-events
+          url: /media/gallery/
         - title: Student Services
           description: ""
           url: /student-services/booklist
