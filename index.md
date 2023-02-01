@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/pcss.gif
+      background: /images/Peicai Banner.gif
       key_highlights:
         - title: Media
           description: ""
