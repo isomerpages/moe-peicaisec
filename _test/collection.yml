@@ -2,6 +2,7 @@ collections:
   test:
     output: true
     order:
+      - Year in Review.md
       - Archive.md
       - School Events.md
       - CCA.md
