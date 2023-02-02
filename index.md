@@ -8,14 +8,14 @@ notification: ""
 sections:
   - hero:
       key_highlights:
+        - title: Announcements
+          description: ""
+          url: /announcements
         - title: Student Services
           description: ""
           url: /student-services/booklist
         - title: Parents
           description: ""
           url: /parents
-        - title: Announcements
-          description: ""
-          url: /announcements
       background: /images/Banner 1 copy.jpg
 ---
