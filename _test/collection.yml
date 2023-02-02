@@ -2,6 +2,7 @@ collections:
   test:
     output: true
     order:
+      - Teaching and Learning @ PCSS.md
       - Year in Review.md
       - Archive.md
       - School Events.md
