@@ -2,7 +2,6 @@ collections:
   academic:
     output: true
     order:
-      - Teaching and Learning @ PCSS.md
       - Subjects offered.md
       - Full Subject Based Banding (FSBB).md
       - Assessment and Promotion/.keep
