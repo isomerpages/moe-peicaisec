@@ -77,8 +77,6 @@ links:
         url: /achievements/alumni
   - title: Student Services
     collection: student-services
-  - title: Media
-    url: /media
   - title: Parents
     url: /parents
     sublinks:
