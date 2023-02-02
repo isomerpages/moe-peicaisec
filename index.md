@@ -17,5 +17,8 @@ sections:
         - title: Parents
           description: ""
           url: /parents
+        - title: Media
+          description: ""
+          url: /media
       background: /images/Banner 1 copy.jpg
 ---
