@@ -20,5 +20,5 @@ sections:
         - title: Media
           description: ""
           url: /media
-      background: /images/Banner 0_1 copy.jpg
+      background: /images/Banner 0_2 copy.jpg
 ---
