@@ -9,10 +9,10 @@ third_nav_title: Partners
 <p><font size="3">Our goal is to nurture partnerships via a whole-school approach, a shared partnership vision as well as a school culture, all of which seek to foster meaningful and sustainable partnerships.&nbsp;</font></p>
 <p><font size="3">In line with our Strategic Thrust 4: Engaged &amp; Supportive Partners, we would like to strive towards&nbsp;</font></p>
 <ul>
-<li><font size="3">harnessing strategic partnerships with stakeholders</li>
-<li>seeking a win-win partnership with external stakeholders</li>
-<li>engaging external stakeholders as goodwill ambassadors of the school</li>
-<li>working with partners to improve the popularity and image of the school</font></li>
+	<li><font size="3">harnessing strategic partnerships with stakeholders</font></li>
+	<li><font size="3">seeking a win-win partnership with external stakeholders</font></li>
+	<li><font size="3">engaging external stakeholders as goodwill ambassadors of the school</font></li>
+	<li><font size="3">working with partners to improve the popularity and image of the school</font></li>
 </ul>
 <p>We strongly believe that a strong partnership with parents will enable us to deliver a holistic education to Peicaians in terms of academic learning and character building.</p>
 <h4><strong>Partnerships with Parents</strong></h4>
