@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Pei Cai Secondary School
+title: PeiCai Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/logo.jpg
 permalink: /
@@ -22,3 +22,4 @@ sections:
           url: /media
       background: /images/Banner 0_3 copy.jpg
 ---
+
