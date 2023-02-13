@@ -3,7 +3,6 @@ title: Staff Email Addresses 2023
 permalink: /about-us/our-peicai-family/staff-email-addresses-2023/
 description: ""
 ---
-
 <table width="629">
 <tbody>
 <tr>
@@ -103,6 +102,17 @@ description: ""
 </td>
 <td width="256">
 <p><a href="mailto:lim_hweei_hsiah_daphne@moe.edu.sg">lim_hweei_hsiah_daphne@moe.edu.sg</a></p>
+</td>
+</tr>
+	<tr>
+<td width="184">
+<p>Koh Puay Yang James (Mr)</p>
+</td>
+<td width="189">
+<p>Year Head (Upper Secondary)</p>
+</td>
+<td width="256">
+<p><a href="mailto:koh_puay_yang_james@moe.edu.sg">koh_puay_yang_james@moe.edu.sg</a></p>
 </td>
 </tr>
 <tr>
