@@ -28,20 +28,20 @@ third_nav_title: Partners
 <td>
 <ul>
 <li><font size="3">Assist students as facilitators in school programmes &amp; events designed to develop their skills in leadership and teamwork, <em>e.g. Chinese New Year celebrations, Racial Harmony Day, Project Heart@Peicai</font></em></li>
-<li><font size="3">Support school programmes that promote the well being &amp; development of our students, <em>e.g.</em>&nbsp;<em>being chaperones during our Night Study Programme and learning journeys, being adult volunteers in the Powerhouse.</font></em></li>
-<li><font size="3">Volunteer expertise in areas of career guidance, <em>e.g.</em>&nbsp;<em>providing work shadowing opportunities to help students understand the value of work, being speakers for Education ad Career Guidance (ECG) talks</font></em></li>
+<li><font size="3">Support school programmes that promote the well being &amp; development of our students, <em>e.g.</em>&nbsp;<em>being chaperones during our Night Study Programme and learning journeys, being adult volunteers in the Powerhouse.</em></font></li>
+<li><font size="3">Volunteer expertise in areas of career guidance, <em>e.g.</em>&nbsp;<em>providing work shadowing opportunities to help students understand the value of work, being speakers for Education ad Career Guidance (ECG) talks</em></font></li>
 </ul>
 </td>
 <td>
 <ul>
-<li>Engage fellow parents in guiding their children through their growing years, <em>e.g. parenting talks/workshops.</em></li>
+<li><font size="3">Engage fellow parents in guiding their children through their growing years, <em>e.g. parenting talks/workshops.</em></font></li>
 <li>Foster positive parent-child relationship, <em>e.g. parent-child bonding activities.</em></li>
 </ul>
 </td>
 </tr>
 </tbody>
 </table>
-<h4><strong>Partnerships with Alumni</strong></h4>
+<h4><strong><font size="4">Partnerships with Alumni</font></strong></h4>
 <p>Ensuring and facilitating the continual bonding of our alumni is one of the objectives of the Peicai Alumni. Our alumni serve as volunteer organisers who plan and conduct activities to connect the past and present batch of students to strengthen our school spirit. Some of these activities include organising Prom Night for our Secondary Four and Five graduates annually and assisting as volunteer coaches and trainers in co-curricular activity (CCA) groups. In addition, they also return to share their personal success stories to inspire current students towards their goals and provide academic consultation for those who need it during our Project Home Run (Night Study) Programme.</p>
 <h4><strong>Partnerships with External Organisations</strong></h4>
 <p>We have established partnerships with two organisations &ndash; Rotary Club of Changi and Lions Befrienders Service Association (Singapore) &ndash; with an aim to nurture committed learners and compassionate leaders. Key programmes that have been implemented and sustained over the years through a segmented approach include Project Heart@Peicai with Lions Befrienders as well as the Tan Leong Teck Scholarship Award for Interactors by the Rotary Club of Changi. This year we will expanding our collaboration to include job attachments/job shadowing as well as career talks for our students.</p>
