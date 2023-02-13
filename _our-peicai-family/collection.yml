@@ -2,6 +2,7 @@ collections:
   our-peicai-family:
     output: true
     order:
+      - Staff Email Addresses 2023.md
       - School Advisory Committee (SAC).md
       - Students/.keep
       - Students/Model Peicaian.md
