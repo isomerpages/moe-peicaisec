@@ -341,13 +341,13 @@ description: ""
 </tr>
 <tr>
 <td width="209">
-<p>Koh Ah Kheng Mark (Mr)</p>
+<p>Kalpana Prakash Otharam (Mdm)</p>
 </td>
 <td width="102">
-<p>1A1</p>
+<p>1IN</p>
 </td>
 <td width="318">
-<p><a href="mailto:koh_ah_kheng@moe.edu.sg">koh_ah_kheng@moe.edu.sg</a></p>
+<p><a href="mailto:kalpana_balakrishnan@moe.edu.sg">kalpana_balakrishnan@moe.edu.sg</a></p>
 </td>
 </tr>
 <tr>
