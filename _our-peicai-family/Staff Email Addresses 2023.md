@@ -429,24 +429,35 @@ description: ""
 </tr>
 <tr>
 <td width="209">
-<p>Eu Su Yen Elizabeth (Ms)</p>
+<p>Ngern Yen Lee (Ms)</p>
 </td>
 <td width="102">
-<p>1C3</p>
+<p>1RE</p>
 </td>
 <td width="318">
-<p><a href="mailto:eu_su_yen_elizabeth@moe.edu.sg">eu_su_yen_elizabeth@moe.edu.sg</a></p>
+<p><a href="mailto:ngern_yen_lee@moe.edu.sg">ngern_yen_lee@moe.edu.sg</a></p>
 </td>
 </tr>
 <tr>
 <td width="209">
-<p>Tong Yechuan (Mr)</p>
+<p>Mohamad Sharizan Bin Abu Bakar (Mr)</p>
 </td>
 <td width="102">
-<p>1C4</p>
+<p>1CY</p>
 </td>
 <td width="318">
-<p><a href="mailto:tong_yechuan@moe.edu.sg">tong_yechuan@moe.edu.sg</a></p>
+<p><a href="mailto:mohamad_sharizan_abu_bakar@moe.edu.sg">mohamad_sharizan_abu_bakar@moe.edu.sg</a></p>
+</td>
+</tr>
+	<tr>
+<td width="209">
+<p>Goh Peini (Ms)</p>
+</td>
+<td width="102">
+<p>1CY</p>
+</td>
+<td width="318">
+<p><a href="mailto:goh_peini@moe.edu.sg">goh_peini@moe.edu.sg</a></p>
 </td>
 </tr>
 <tr>
