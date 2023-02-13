@@ -352,13 +352,13 @@ description: ""
 </tr>
 <tr>
 <td width="209">
-<p>Pong Hao Yang (Mr)</p>
+<p>Chee Khuen Woei Andy (Mr)</p>
 </td>
 <td width="102">
-<p>1A1</p>
+<p>1EE</p>
 </td>
 <td width="318">
-<p><a href="mailto:pong_hao_yang@moe.edu.sg">pong_hao_yang@moe.edu.sg</a></p>
+<p><a href="mailto:chee_khuen_woei@moe.edu.sg">chee_khuen_woei@moe.edu.sg</a></p>
 </td>
 </tr>
 <tr>
