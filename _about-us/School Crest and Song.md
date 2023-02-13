@@ -5,3 +5,14 @@ description: ""
 ---
 <h4><strong>Peicai School Song</strong></h4>
 <p><font size="3">To Peicai School, we all belong<br />With pride and love, let us sing this song<br />Forever loyal, forever true<br />To our friends, our teachers and our school<br />For tasks great and small, we must all unite<br />Success and virtue ever in sight<br />Let us march on, ever onward<br />Determined to perform our daily duties<br />Diligent and loyal, we always will be&nbsp;<br />Loyal to our school and to our country.</font></p>
+
+<p><font size="3">To Peicai School, we all belong</br>  
+With pride and love, let us sing this song  
+Forever loyal, forever true  
+To our friends, our teachers and our school  
+For tasks great and small, we must all unite  
+Success and virtue ever in sight  
+Let us march on, ever onward  
+Determined to perform our daily duties  
+Diligent and loyal, we always will be   
+	Loyal to our school and to our country.</font></p>
