@@ -363,13 +363,13 @@ description: ""
 </tr>
 <tr>
 <td width="209">
-<p>Weng Chenyan (Ms)</p>
+<p>Chow May Yen (Ms)</p>
 </td>
 <td width="102">
-<p>1A2</p>
+<p>1CN</p>
 </td>
 <td width="318">
-<p><a href="mailto:weng_chenyan@moe.edu.sg">weng_chenyan@moe.edu.sg</a></p>
+<p><a href="mailto:chow_may_yen@moe.edu.sg">chow_may_yen@moe.edu.sg</a></p>
 </td>
 </tr>
 <tr>
