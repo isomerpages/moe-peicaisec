@@ -3,7 +3,7 @@ title: Peicai's History
 permalink: /about-us/peicais-history/
 description: ""
 ---
-<p><font size="2">Peicai Secondary School which took over the facilities of the former Hwi Yoh Secondary School, was established in 1984 as a result of the amalgamation of Parry Secondary School and Hwi Yoh Secondary School. The school name is formed from the Chinese names of its two "mother" schools. "Peicai" is the Hanyu Pinyin which stands for "Nurture of Talents".</p></font>
+<p><font size="2">Peicai Secondary School which took over the facilities of the former Hwi Yoh Secondary School, was established in 1984 as a result of the amalgamation of Parry Secondary School and Hwi Yoh Secondary School. The school name is formed from the Chinese names of its two "mother" schools. "Peicai" is the Hanyu Pinyin which stands for "Nurture of Talents".</font></p>
 <h4><strong>Past Principals</strong></h4>
 <table>
 <tbody>
