@@ -2,7 +2,6 @@ collections:
   our-peicai-family:
     output: true
     order:
-      - Partners.md
       - School Advisory Committee (SAC).md
       - Students/.keep
       - Students/Model Peicaian.md
@@ -10,4 +9,5 @@ collections:
       - Partners/.keep
       - Partners/Lions Club.md
       - Partners/Rotary Club of Changi.md
+      - Partners.md
       - Staff Email Addresses 2023.md
