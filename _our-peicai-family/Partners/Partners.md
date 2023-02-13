@@ -1,12 +1,11 @@
 ---
 title: Partners
-permalink: /about-us/our-peicai-family/partners
+permalink: /about-us/our-peicai-family/partners/
 description: ""
 third_nav_title: Partners
 ---
-
 <h4><strong>Partnerships with Parents, Alumni and External Organisations</strong></h4>
-<p>Peicai Secondary School (PCSS) is committed to &ldquo;nurturing critical and independent learners with love for self, family and society&rdquo;. This commitment remains resolute in the ongoing efforts to develop students who are ready to overcome challenges of the 21st century. PCSS acknowledges that to achieve our mission, it is essential that our school leverages on our collaboration with stakeholders to support the learning as well as development of the child.&nbsp;</p>
+<p><font size="3">Peicai Secondary School (PCSS) is committed to &ldquo;nurturing critical and independent learners with love for self, family and society&rdquo;. This commitment remains resolute in the ongoing efforts to develop students who are ready to overcome challenges of the 21st century. PCSS acknowledges that to achieve our mission, it is essential that our school leverages on our collaboration with stakeholders to support the learning as well as development of the child.&nbsp;</p>
 <p>Our goal is to nurture partnerships via a whole-school approach, a shared partnership vision as well as a school culture, all of which seek to foster meaningful and sustainable partnerships.&nbsp;</p>
 <p>In line with our Strategic Thrust 4: Engaged &amp; Supportive Partners, we would like to strive towards&nbsp;</p>
 <ul>
@@ -45,3 +44,4 @@ third_nav_title: Partners
 <p>Ensuring and facilitating the continual bonding of our alumni is one of the objectives of the Peicai Alumni. Our alumni serve as volunteer organisers who plan and conduct activities to connect the past and present batch of students to strengthen our school spirit. Some of these activities include organising Prom Night for our Secondary Four and Five graduates annually and assisting as volunteer coaches and trainers in co-curricular activity (CCA) groups. In addition, they also return to share their personal success stories to inspire current students towards their goals and provide academic consultation for those who need it during our Project Home Run (Night Study) Programme.</p>
 <h4><strong>Partnerships with External Organisations</strong></h4>
 <p>We have established partnerships with two organisations &ndash; Rotary Club of Changi and Lions Befrienders Service Association (Singapore) &ndash; with an aim to nurture committed learners and compassionate leaders. Key programmes that have been implemented and sustained over the years through a segmented approach include Project Heart@Peicai with Lions Befrienders as well as the Tan Leong Teck Scholarship Award for Interactors by the Rotary Club of Changi. This year we will expanding our collaboration to include job attachments/job shadowing as well as career talks for our students.</p>
+</font>
