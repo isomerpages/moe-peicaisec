@@ -2848,6 +2848,3 @@ description: ""
   line-height:16.8pt" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
   color:#222222"><a href="mailto:soh_bee_leng@moe.edu.sg"><span style="color:#4067AE">soh_bee_leng@moe.edu.sg</span></a></span></p></td></tr></tbody></table>
-
-
-
