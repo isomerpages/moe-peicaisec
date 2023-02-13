@@ -374,13 +374,13 @@ description: ""
 </tr>
 <tr>
 <td width="209">
-<p>Laurent Ee Tze Howe</p>
+<p>Low Ching Kai (Mr)</p>
 </td>
 <td width="102">
-<p>1B1</p>
+<p>1PN</p>
 </td>
 <td width="318">
-<p><a href="mailto:laurent_ee_tze_howe@moe.edu.sg">laurent_ee_tze_howe@moe.edu.sg</a></p>
+<p><a href="mailto:low_ching_kai@moe.edu.sg">low_ching_kai@moe.edu.sg</a></p>
 </td>
 </tr>
 <tr>
