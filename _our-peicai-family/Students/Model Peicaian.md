@@ -1,9 +1,10 @@
 ---
 title: Model Peicaian
-permalink: /about-us/our-peicai-family/students/model-peicaian
+permalink: /about-us/our-peicai-family/students/model-peicaian/
 description: ""
 third_nav_title: Students
 ---
+<font size="3">
 <p>The Model Peicaian is Peicai Secondary School's pinnacle award.</p>
 <table style="width: 537px; margin-left: auto; margin-right: auto;">
 <tbody>
@@ -89,3 +90,4 @@ third_nav_title: Students
 </tr>
 </tbody>
 </table>
+	</font>
