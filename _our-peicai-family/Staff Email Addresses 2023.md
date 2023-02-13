@@ -3,8 +3,7 @@ title: Staff Email Addresses 2023
 permalink: /our-peicai-family/staff-email-addresses-2023/
 description: ""
 ---
-
-
+<font size="3">
 <table style="width:602.6pt;border-collapse:collapse;border:none;mso-border-alt:solid #EAEAEA .75pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0in 0in 0in 0in" width="803" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:235.5pt;border:solid black 1.0pt;mso-border-alt:
   solid black .75pt;padding:5.25pt 5.25pt 5.25pt 5.25pt" width="314"><p style="text-align:center;line-height:16.8pt" align="center" class="MsoNormal"><b><span style="font-family:&quot;Lato&quot;,sans-serif;color:#222222">School Leaders</span></b><span style="font-family:&quot;Lato&quot;,sans-serif;mso-bidi-font-family:&quot;Times New Roman&quot;;
@@ -1272,4 +1271,4 @@ description: ""
   border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
   solid black .75pt;mso-border-left-alt:solid black .75pt;mso-border-alt:solid black .75pt;
   padding:5.25pt 5.25pt 5.25pt 5.25pt;outline: 0px" width="311"><p style="text-align:center;line-height:16.8pt;
-  outline: 0px" align="center" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif;color:#222222"><a style="outline: 0px" href="mailto:soh_bee_leng@moe.edu.sg"><span style="color:#4067AE">soh_bee_leng@moe.edu.sg</span></a></span></p></td></tr></tbody></table>
+  outline: 0px" align="center" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif;color:#222222"><a style="outline: 0px" href="mailto:soh_bee_leng@moe.edu.sg"><span style="color:#4067AE">soh_bee_leng@moe.edu.sg</font></span></a></span></p></td></tr></tbody></table>
