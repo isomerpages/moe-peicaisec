@@ -385,13 +385,13 @@ description: ""
 </tr>
 <tr>
 <td width="209">
-<p>Kee Yi-Juan Ophelia (Ms)</p>
+<p>Thenmozhi D/O Nalathamby (Ms)</p>
 </td>
 <td width="102">
-<p>1B2</p>
+<p>1PN</p>
 </td>
 <td width="318">
-<p><a href="mailto:kee_yijuan_ophelia@moe.edu.sg">kee_yijuan_ophelia@moe.edu.sg</a></p>
+<p><a href="mailto:thenmozhi_nalathamby@moe.edu.sg">thenmozhi_nalathamby@moe.edu.sg</a></p>
 </td>
 </tr>
 <tr>
