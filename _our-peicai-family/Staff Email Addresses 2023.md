@@ -271,13 +271,24 @@ description: ""
 </tr>
 <tr>
 <td width="184">
-<p>Lee Jia Hao (Mr)</p>
+<p>Alvin Yeo (Mr)</p>
 </td>
 <td width="189">
-<p>Subject Head Curriculum Innovation (Internal)</p>
+<p>Subject Head Physical Education <br />/ Co-curricular Activities</p>
 </td>
 <td width="256">
-<p><a href="mailto:lee_jia_hao@moe.edu.sg">lee_jia_hao@moe.edu.sg</a></p>
+<p><a href="mailto:alvin_yeo@moe.edu.sg">alvin_yeo@moe.edu.sg</a></p>
+</td>
+</tr>
+	<tr>
+<td width="184">
+<p>Reduan Ibrahim (Mr)</p>
+</td>
+<td width="189">
+<p>Subject Head <br />/ Student Wellbeing</p>
+</td>
+<td width="256">
+<p><a href="mailto:reduan_ibrahim@moe.edu.sg">reduan_ibrahim@moe.edu.sg</a></p>
 </td>
 </tr>
 <tr>
