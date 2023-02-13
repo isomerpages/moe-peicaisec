@@ -7,12 +7,12 @@ third_nav_title: Partners
 <h4><strong>Partnerships with Parents, Alumni and External Organisations</strong></h4>
 <p><font size="3">Peicai Secondary School (PCSS) is committed to &ldquo;nurturing critical and independent learners with love for self, family and society&rdquo;. This commitment remains resolute in the ongoing efforts to develop students who are ready to overcome challenges of the 21st century. PCSS acknowledges that to achieve our mission, it is essential that our school leverages on our collaboration with stakeholders to support the learning as well as development of the child.&nbsp;</font></p>
 <p><font size="3">Our goal is to nurture partnerships via a whole-school approach, a shared partnership vision as well as a school culture, all of which seek to foster meaningful and sustainable partnerships.&nbsp;</font></p>
-<p>In line with our Strategic Thrust 4: Engaged &amp; Supportive Partners, we would like to strive towards&nbsp;</p>
+<p><font size="3">In line with our Strategic Thrust 4: Engaged &amp; Supportive Partners, we would like to strive towards&nbsp;</font></p>
 <ul>
-<li>harnessing strategic partnerships with stakeholders</li>
+<li><font size="3">harnessing strategic partnerships with stakeholders</li>
 <li>seeking a win-win partnership with external stakeholders</li>
 <li>engaging external stakeholders as goodwill ambassadors of the school</li>
-<li>working with partners to improve the popularity and image of the school</li>
+<li>working with partners to improve the popularity and image of the school</font></li>
 </ul>
 <p>We strongly believe that a strong partnership with parents will enable us to deliver a holistic education to Peicaians in terms of academic learning and character building.</p>
 <h4><strong>Partnerships with Parents</strong></h4>
