@@ -2,7 +2,7 @@ collections:
   restore-pages:
     output: true
     order:
-      - Staff Email Addresses 2022.md
+      - Staff Email Addresses 2023.md
       - Student iCON.md
       - Teaching and Learning @ PCSS.md
       - Year in Review.md
