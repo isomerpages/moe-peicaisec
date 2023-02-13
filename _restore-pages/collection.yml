@@ -2,6 +2,7 @@ collections:
   restore-pages:
     output: true
     order:
+      - School Assessments.md
       - Assessment and Promotion Criteria.md
       - Staff Email Addresses 2023.md
       - Student iCON.md
