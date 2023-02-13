@@ -2,12 +2,12 @@ collections:
   our-peicai-family:
     output: true
     order:
-      - Rotary Club of Changi.md
-      - Lions Club.md
       - School Advisory Committee (SAC).md
       - Students/.keep
       - Students/Model Peicaian.md
       - Students/Student iCON.md
       - Partners/.keep
       - Partners.md
+      - Lions Club.md
+      - Rotary Club of Changi.md
       - Staff Email Addresses 2023.md
