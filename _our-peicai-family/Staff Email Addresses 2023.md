@@ -396,35 +396,35 @@ description: ""
 </tr>
 <tr>
 <td width="209">
-<p>R Sheela Malani (Mrs Xavier)</p>
+<p>Zhou Wensi Eileen (Ms)</p>
 </td>
 <td width="102">
-<p>1B2</p>
+<p>1CE</p>
 </td>
 <td width="318">
-<p><a href="mailto:r_sheela_malani@moe.edu.sg">r_sheela_malani@moe.edu.sg</a></p>
+<p><a href="mailto:zhou_wensi_eileen@moe.edu.sg">zhou_wensi_eileen@moe.edu.sg</a></p>
 </td>
 </tr>
 <tr>
 <td width="209">
-<p>Nur Syirain Bte Hamzah (Ms)</p>
+<p>Tay Ning (Ms)</p>
 </td>
 <td width="102">
-<p>1C1</p>
+<p>1CE</p>
 </td>
 <td width="318">
-<p><a href="mailto:nur_syirain_hamzah@moe.edu.sg">nur_syirain_hamzah@moe.edu.sg</a></p>
+<p><a href="mailto:tay_ning@moe.edu.sg">tay_ning@moe.edu.sg</a></p>
 </td>
 </tr>
 <tr>
 <td width="209">
-<p>Seow Choon Chee Jonathan (Mr)</p>
+<p>Wong Jiun Ching (Mr)</p>
 </td>
 <td width="102">
-<p>1C2</p>
+<p>1RE</p>
 </td>
 <td width="318">
-<p><a href="mailto:seow_choon_chee@moe.edu.sg">seow_choon_chee@moe.edu.sg</a></p>
+<p><a href="mailto:wong_jiun_ching@moe.edu.sg">wong_jiun_ching@moe.edu.sg</a></p>
 </td>
 </tr>
 <tr>
