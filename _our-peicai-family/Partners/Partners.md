@@ -16,7 +16,8 @@ third_nav_title: Partners
 </ul>
 <p><font size="3">We strongly believe that a strong partnership with parents will enable us to deliver a holistic education to Peicaians in terms of academic learning and character building.</font></p>
 <h4><strong><font size="4">Partnerships with Parents</font></strong></h4>
-<p>The Parent Support Group in Peicai is known as Parent-Teacher-Student (PTS) Connection which is grouped into two areas:</p>
+<p><font size="3">The Parent Support Group in Peicai is known as Parent-Teacher-Student (PTS) Connection which is grouped into two areas:</font></p>
+<font size="3">
 <table>
 <tbody>
 <tr>
@@ -40,6 +41,7 @@ third_nav_title: Partners
 </tr>
 </tbody>
 </table>
+</font>
 <h4><strong>Partnerships with Alumni</strong></h4>
 <p>Ensuring and facilitating the continual bonding of our alumni is one of the objectives of the Peicai Alumni. Our alumni serve as volunteer organisers who plan and conduct activities to connect the past and present batch of students to strengthen our school spirit. Some of these activities include organising Prom Night for our Secondary Four and Five graduates annually and assisting as volunteer coaches and trainers in co-curricular activity (CCA) groups. In addition, they also return to share their personal success stories to inspire current students towards their goals and provide academic consultation for those who need it during our Project Home Run (Night Study) Programme.</p>
 <h4><strong>Partnerships with External Organisations</strong></h4>
