@@ -16,7 +16,8 @@ third_nav_title: Partners
 </ul>
 <p><font size="3">We strongly believe that a strong partnership with parents will enable us to deliver a holistic education to Peicaians in terms of academic learning and character building.</font></p>
 <h4><strong><font size="4">Partnerships with Parents</font></strong></h4>
-<p><font size="3">The Parent Support Group in Peicai is known as Parent-Teacher-Student (PTS) Connection which is grouped into two areas:</font></p>
+<p><font size="3">The Parent Support Group in Peicai is known as Parent-Teacher-Student (PTS) Connection which is grouped into two areas:</p>
+</font>
 <table>
 <tbody>
 <tr>
