@@ -39,9 +39,9 @@ third_nav_title: Partners
 </ul>
 </td>
 </tr>
+</font>
 </tbody>
 </table>
-</font>
 <h4><strong>Partnerships with Alumni</strong></h4>
 <p>Ensuring and facilitating the continual bonding of our alumni is one of the objectives of the Peicai Alumni. Our alumni serve as volunteer organisers who plan and conduct activities to connect the past and present batch of students to strengthen our school spirit. Some of these activities include organising Prom Night for our Secondary Four and Five graduates annually and assisting as volunteer coaches and trainers in co-curricular activity (CCA) groups. In addition, they also return to share their personal success stories to inspire current students towards their goals and provide academic consultation for those who need it during our Project Home Run (Night Study) Programme.</p>
 <h4><strong>Partnerships with External Organisations</strong></h4>
