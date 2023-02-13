@@ -1271,4 +1271,4 @@ description: ""
   border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
   solid black .75pt;mso-border-left-alt:solid black .75pt;mso-border-alt:solid black .75pt;
   padding:5.25pt 5.25pt 5.25pt 5.25pt;outline: 0px" width="311"><p style="text-align:center;line-height:16.8pt;
-  outline: 0px" align="center" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif;color:#222222"><a style="outline: 0px" href="mailto:soh_bee_leng@moe.edu.sg"><span style="color:#4067AE">soh_bee_leng@moe.edu.sg</span></a></span></font></p></td></tr></tbody></table>
+  outline: 0px" align="center" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif;color:#222222"><a style="outline: 0px" href="mailto:soh_bee_leng@moe.edu.sg"><span style="color:#4067AE">soh_bee_leng@moe.edu.sg</span></a></span></p></font></td></tr></tbody></table>
