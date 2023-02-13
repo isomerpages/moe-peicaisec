@@ -203,6 +203,17 @@ description: ""
 <p><a href="mailto:tan_hui_chun@moe.edu.sg">tan_hui_chun@moe.edu.sg</a></p>
 </td>
 </tr>
+	<tr>
+<td width="184">
+<p>Edvin Kwek (Mr)</p>
+</td>
+<td width="189">
+<p>HOD Science</p>
+</td>
+<td width="256">
+<p><a href="mailto:kwek_swee_hee_edwin@moe.edu.sg">kwek_swee_hee_edwin@moe.edu.sg</a></p>
+</td>
+</tr>
 <tr>
 <td width="184">
 <p>Ong Chiang Thai Greg (Mr)</p>
