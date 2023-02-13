@@ -4,8 +4,7 @@ permalink: /about-us/our-peicai-family/students/model-peicaian/
 description: ""
 third_nav_title: Students
 ---
-<font size="3">
-<p>The Model Peicaian is Peicai Secondary School's pinnacle award.</p>
+<p><font size="3">The Model Peicaian is Peicai Secondary School's pinnacle award.</font></p>
 <table style="width: 537px; margin-left: auto; margin-right: auto;">
 <tbody>
 <tr>
