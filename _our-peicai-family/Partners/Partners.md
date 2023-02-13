@@ -28,8 +28,8 @@ third_nav_title: Partners
 <td>
 <ul>
 <li><font size="3">Assist students as facilitators in school programmes &amp; events designed to develop their skills in leadership and teamwork, <em>e.g. Chinese New Year celebrations, Racial Harmony Day, Project Heart@Peicai</font></em></li>
-<li>Support school programmes that promote the well being &amp; development of our students, <em>e.g.</em>&nbsp;<em>being chaperones during our Night Study Programme and learning journeys, being adult volunteers in the Powerhouse.</em></li>
-<li>Volunteer expertise in areas of career guidance, <em>e.g.</em>&nbsp;<em>providing work shadowing opportunities to help students understand the value of work, being speakers for Education ad Career Guidance (ECG) talks</em></li>
+<li><font size="3">Support school programmes that promote the well being &amp; development of our students, <em>e.g.</em>&nbsp;<em>being chaperones during our Night Study Programme and learning journeys, being adult volunteers in the Powerhouse.</font></em></li>
+<li><font size="3">Volunteer expertise in areas of career guidance, <em>e.g.</em>&nbsp;<em>providing work shadowing opportunities to help students understand the value of work, being speakers for Education ad Career Guidance (ECG) talks</font></em></li>
 </ul>
 </td>
 <td>
