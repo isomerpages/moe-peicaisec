@@ -8,9 +8,6 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: Announcements
-          description: ""
-          url: /announcements
         - title: Student Services
           description: ""
           url: /student-services/booklist
@@ -22,4 +19,3 @@ sections:
           url: /media
       background: /images/Banner 0_3 copy.jpg
 ---
-
