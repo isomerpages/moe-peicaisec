@@ -24,6 +24,7 @@ third_nav_title: Partners
 <th>Student Support</th>
 <th>Parent Support</th>
 </tr>
+</font>
 <tr>
 <td>
 <ul>
@@ -39,7 +40,6 @@ third_nav_title: Partners
 </ul>
 </td>
 </tr>
-</font>
 </tbody>
 </table>
 <h4><strong>Partnerships with Alumni</strong></h4>
