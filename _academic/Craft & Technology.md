@@ -153,6 +153,7 @@ description: ""
 </tbody>
 </table>
 <h4><strong>Subjects Offered</strong></h4>
+<table style="border-collapse: collapse; width: 100%;" border="1">
 <table>
 <tbody>
 <tr>
