@@ -113,6 +113,7 @@ description: ""
 </tbody>
 </table>
 <p>National ML Essay Writing Top 10 (Winner)&nbsp;National ML Essay Writing Competition (Gold Award)</p>
+<p>style\="border-width:3px; border-style:solid</p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
