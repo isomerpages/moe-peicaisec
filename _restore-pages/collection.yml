@@ -2,7 +2,7 @@ collections:
   restore-pages:
     output: true
     order:
-      - Sexuality Education.md
+      - Sexuality Education1.md
       - Subject Overview 1.md
       - School Assessments.md
       - Assessment and Promotion Criteria.md
