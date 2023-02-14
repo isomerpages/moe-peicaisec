@@ -124,6 +124,7 @@ description: ""
 <p>Sec 3 Journalism Programme (NewsMaker) Malay Language</p>
 <p>MTL Archive link</p>
 <p><a href="https://express.adobe.com/page/yyrWK7WrsN4f2">https://express.adobe.com/page/yyrWK7WrsN4f2</a></p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
 <table width="588">
 <tbody>
 <tr>
