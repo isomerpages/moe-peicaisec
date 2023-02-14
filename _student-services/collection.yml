@@ -2,7 +2,6 @@ collections:
   student-services:
     output: true
     order:
-      - T&L Microsite (for Students).md
       - Booklist.md
       - Bookshop Opening Hours.md
       - Class Timetable.md
@@ -15,3 +14,4 @@ collections:
       - Use of Personal Data.md
       - Useful Links.md
       - Uniform Supplier.md
+      - T&L Microsite (for Students).md
