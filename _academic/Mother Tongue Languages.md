@@ -7,15 +7,15 @@ description: ""
 <p>The MTL curriculum aims to develop proficient language users who can communicate confidently and effectively in various real-life contexts; and to expose students to cultures and values through MTL lessons.</p>
 <p>In Peicai, the MTL curriculum aims to</p>
 <ol>
-<li>Strengthen student’s communication skills to be able to use their MTL as a living language both in school and out of school.</li>
-<li>Deepen student’s appreciation of culture by understanding their unique identity through deeper appreciation of culture, traditions, literature, and history.</li>
+<li>Strengthen student&rsquo;s communication skills to be able to use their MTL as a living language both in school and out of school.</li>
+<li>Deepen student&rsquo;s appreciation of culture by understanding their unique identity through deeper appreciation of culture, traditions, literature, and history.</li>
 <li>Better connect students with communities in local context and across Asia including the world.</li>
 </ol>
-<p>Lessons conducted focus on developing students’ critical thinking and creative thinking skills. Teachers will leverage ICT tools to provide students with more interactive and real-life authentic learning, to promote self-directed and collaborative learning.</p>
-<p>We support these endeavours through a repertoire of interactive and innovative teaching strategies, which are customised to student’s learning needs.</p>
+<p>Lessons conducted focus on developing students&rsquo; critical thinking and creative thinking skills. Teachers will leverage ICT tools to provide students with more interactive and real-life authentic learning, to promote self-directed and collaborative learning.</p>
+<p>We support these endeavours through a repertoire of interactive and innovative teaching strategies, which are customised to student&rsquo;s learning needs.</p>
 <p>Experiential Learning is integrated to allow students to make connections of the real-world context.</p>
 <p><u>Assessment Framework</u></p>
-<p>The use of a variety of assessment modes aims to allow for better instructional tool to promote students’ learning. Hence, assessment does not only serve as an evaluative tool. Some of the assessment modes include:</p>
+<p>The use of a variety of assessment modes aims to allow for better instructional tool to promote students&rsquo; learning. Hence, assessment does not only serve as an evaluative tool. Some of the assessment modes include:</p>
 <ul>
 <li aria-level="1">Self, peer and teacher assessment</li>
 <li aria-level="1">Oral Presentation</li>
@@ -24,18 +24,18 @@ description: ""
 <h4><strong>Programmes</strong></h4>
 <p><span style="text-decoration: underline;"><strong>Chinese Language and Culture</strong></span></p>
 <p><strong>Chinese Language</strong></p>
-<p>To achieve our Mother Tongue department mission, we embark on several programmes to enhance our students’ language skills. These programmes aimed at enhancing the necessary language skills, i.e speaking, listening, reading and writing. Our key programmes include ‘Class Library Programme’, the ‘MTL Intensive Programme for our Graduating Classes’ as well as the ‘Conversational Chinese and Malay Programme’ for our Secondary One student’s.</p>
+<p>To achieve our Mother Tongue department mission, we embark on several programmes to enhance our students&rsquo; language skills. These programmes aimed at enhancing the necessary language skills, i.e speaking, listening, reading and writing. Our key programmes include &lsquo;Class Library Programme&rsquo;, the &lsquo;MTL Intensive Programme for our Graduating Classes&rsquo; as well as the &lsquo;Conversational Chinese and Malay Programme&rsquo; for our Secondary One student&rsquo;s.</p>
 <p><strong>Chinese Culture</strong></p>
-<p>To inspire the students’ love for their culture, and to seize every opportunity to teach our students values, we organise the following activities for our students each year:</p>
-<p><u>Chinese New Year concert and Hamper Wrapping for Lion’s Home for the Aged</u></p>
-<p>On the eve of Chinese New Year, a joyous occasion, we want our students to not only enjoy but to remember the less privileged old folks. Together with the VIA coordinator, we organise a hamper wrapping competition. All hampers made by the students would be given to the old folks from Lions’ Home. The old folks are also invited to enjoy the multi-racial concert celebration we have in school.</p>
+<p>To inspire the students&rsquo; love for their culture, and to seize every opportunity to teach our students values, we organise the following activities for our students each year:</p>
+<p><u>Chinese New Year concert and Hamper Wrapping for Lion&rsquo;s Home for the Aged</u></p>
+<p>On the eve of Chinese New Year, a joyous occasion, we want our students to not only enjoy but to remember the less privileged old folks. Together with the VIA coordinator, we organise a hamper wrapping competition. All hampers made by the students would be given to the old folks from Lions&rsquo; Home. The old folks are also invited to enjoy the multi-racial concert celebration we have in school.</p>
 <img src="/images/mtl1.png">
 <p><u>MT Fortnight Cultural activities for our students</u></p>
 <p>In order to expose our students to different cultural activities, we organise various activities for our students during the Mother Tongue fortnight, such as Lion Dance, cultural musical instrument appreciation, clay sculpture, and bamboo books.&nbsp;</p>
 <img src="/images/mtl2.jpg">
 <p><u>Mid-Autumn Festival (September)</u></p>
 <p>Information Board &amp; Lantern Making with Procession</p>
-<table border="1" style="border-collapse: collapse; width: 100%;">
+<table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
 <td style="width: 45%;"><img src="/images/mtl3.jpg"></td>
@@ -45,11 +45,11 @@ description: ""
 </tbody>
 </table>
 <p><u>Exposure / Competition</u></p>
-<img src="/images/mtl5.jpg" style="width: 60%;">
+<img style="width: 60%;" src="/images/mtl5.jpg" />
 <p style="text-align: center;">2022 National Bilingual Debate Competition</p>
-<img src="/images/mtl6.jpg" style="width: 60%;">
+<img style="width: 60%;" src="/images/mtl6.jpg" />
 <p style="text-align: center;">Peicai Reading Programme (Poster Design Competition)</p>
-<table border="1" style="border-collapse: collapse; width: 100%;">
+<table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
 <td style="width: 50%;"><img src="/images/mtl7.jpg"></td>
@@ -60,23 +60,23 @@ description: ""
 <p style="text-align: center;">Sec 3 Journalism Programme (NewsMaker) Chinese Language</p>
 <p><span style="text-decoration: underline;"><strong>Malay Language and Culture</strong></span></p>
 <p><strong>Malay Language</strong></p>
-<p>To achieve our Mother Tongue department mission, we embark on several programmes to enhance our students’ language skills. These programmes include ‘Class Library Programme’, the ‘MTL Intensive Programme for our Graduating Classes’ as well as the ‘Conversational Chinese and Malay Programme’ for our Secondary One student’s.&nbsp;</p>
+<p>To achieve our Mother Tongue department mission, we embark on several programmes to enhance our students&rsquo; language skills. These programmes include &lsquo;Class Library Programme&rsquo;, the &lsquo;MTL Intensive Programme for our Graduating Classes&rsquo; as well as the &lsquo;Conversational Chinese and Malay Programme&rsquo; for our Secondary One student&rsquo;s.&nbsp;</p>
 <p><strong>Malay Culture</strong></p>
-<p>In addition to our commitment to nurture students to be proficient users of the Malay language, we have also included enrichment activities to enhance our students’ knowledge about the Malay culture. These activities are as follows:</p>
-<table border="1" style="border-collapse: collapse; width: 100%;">
+<p>In addition to our commitment to nurture students to be proficient users of the Malay language, we have also included enrichment activities to enhance our students&rsquo; knowledge about the Malay culture. These activities are as follows:</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
 <td style="width: 50%;">
-<p><u>Festive Celebrations – Lunar New Year</u></p>
-<p>Our students are given the opportunity to showcase their performing talents in Dikir Barat and Tarian Melayu. The concert items are solely organized and planned by students. Malay Dance Performers for 2022 CNY Celebrations</p>
+<p><u>Festive Celebrations &ndash; Lunar New Year</u></p>
+<p>Our students are given the opportunity to showcase their performing talents in Dikir Barat and Tarian Melayu. The concert items are solely organized and planned by students. Malay Dance Performers for 2022 CNY Celebrations</u></p>
 </td>
 <td style="width: 50%;"><img src="/images/mtl9.jpg"></td>
 </tr>
 </tbody>
 </table>
 <p><u>MT Fortnight Cultural activities for our students</u></p>
-<p>The department has organized workshops such as Seni Khat, Dikir Barat, Malay Dance and Kompang as well as Acting (Opera Theatre, Bangsawan) for our students. These workshops are conducted to enhance students’ interest and appreciation of Malay culture.&nbsp;</p>
-<table border="1" style="border-collapse: collapse; width: 100%;">
+<p>The department has organized workshops such as Seni Khat, Dikir Barat, Malay Dance and Kompang as well as Acting (Opera Theatre, Bangsawan) for our students. These workshops are conducted to enhance students&rsquo; interest and appreciation of Malay culture.&nbsp;</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
 <td style="width: 36%;"><img src="/images/mtl10.jpg"></td>
@@ -87,7 +87,7 @@ description: ""
 </table>
 <p><u>External Exposure / Competition</u></p>
 <p>Malay Language Student Ambassador organised by Malay Language Council of Singapore in conjunction to National Malay Language Month Movement</p>
-<table border="1" style="border-collapse: collapse; width: 100%;">
+<table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
 <td style="width: 36%;"><img src="/images/mtl13.jpg"></td>
@@ -98,7 +98,7 @@ description: ""
 <p>Rakan Bahasa 2022 &amp; 2021</p>
 <p><u>Language Competition</u></p>
 <p>Pena Emas (Essay writing competition by EDN)</p>
-<table border="1" style="border-collapse: collapse; width: 100%;">
+<table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
 <td style="width: 31%;"><img src="/images/mtl14.png"></td>
@@ -113,8 +113,7 @@ description: ""
 </tbody>
 </table>
 <p>National ML Essay Writing Top 10 (Winner)&nbsp;National ML Essay Writing Competition (Gold Award)</p>
-<table border="1" style="border-width:3px; border-style:solid>
-<table style=">
+<table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
 <td style="width: 60%;"><img src="/images/mtl17.jpg"></td>
