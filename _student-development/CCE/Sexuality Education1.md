@@ -13,4 +13,10 @@ third_nav_title: CCE
 	ii.  To help students know themselves and build healthy and rewarding relationships through the acquisition of social and emotional skills of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and<br />
 	iii.  To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of positive mainstream values and attitudes about sexuality.<br />
 	---------------------------------------------------
-<p><font size="3">3.  The key messages of Sexuality Education are:
+<p><font size="3">3.  The key messages of Sexuality Education are:<br />
+	i.  Love and respect yourself as you love and respect others;<br />
+	ii.  Build positive relationships based on love and respect (which are the foundation for strong families);<br />
+	iii.  Make responsible decisions for yourself, your family and society; and <br />
+	iv.  Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.<br />
+	---------------------------------------------------
+	
