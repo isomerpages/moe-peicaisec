@@ -29,3 +29,4 @@ third_nav_title: CCE
 <p><font size="3"> 7. Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.<br />
 	<font size="3"><b>At Peicai Secondary School, the following lessons from the Sexuality Education Programme will be taught in 2022 :</b><br />
 		<font size="3"><b>Secondary 1</b><br />
+			
