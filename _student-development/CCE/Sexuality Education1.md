@@ -21,5 +21,5 @@ third_nav_title: CCE
 	<font size="3"><b><u>Overview of Peicai Secondary School's Sexuality Education Programme For 2022</u></b><br />
 	<font size="3">4. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://www.moe.gov.sg/programmes/sexuality-education/scope-and-teaching-approach) for more information on the scope of Sexuality Education in the school curriculum.</br>
 	<font size="3">5. The subjects that incorporate topics on sexuality include:<br />
-		a Science </br>
+		a Science<br /> 
 		b  Character and Citizenship Education (CCE)<br /><font size="3"><b> You may click here for more information on MOE Sexuality Education.</font></b><br />
