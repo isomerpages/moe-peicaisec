@@ -25,6 +25,9 @@ description: ""
 </ul>
 <p><strong><u>CPA Competition</u></strong><br />Animation and Game-making (AGM) Competition (CPA)</p>
 <h4><strong>Subjects Offered</strong></h4>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
 <table width="623">
 <tbody>
 <tr>
