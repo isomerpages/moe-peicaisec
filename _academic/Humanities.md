@@ -49,6 +49,8 @@ description: ""
 <p style="text-align: center;">Visiting the War Remnants Museum at Ho Chi Minh City during the Cultural Immersion Fieldtrip to Vietnam.</p>
 <h4><strong>Subjects Offered</strong></h4>
 <table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
 <table width="623">
 <tbody>
 <tr>
