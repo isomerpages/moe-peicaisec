@@ -2,6 +2,7 @@ collections:
   restore-pages:
     output: true
     order:
+      - Letters to Parents.md
       - Subject Overview 1.md
       - School Assessments.md
       - Assessment and Promotion Criteria.md
