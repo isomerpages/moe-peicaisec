@@ -11,6 +11,7 @@ third_nav_title: Students
 <p style="text-align: center;"><strong>Secondary One</strong></p>
 <img style="width: 75%;" src="/images/pl2.png">
 <p style="text-align: center;"><strong>Secondary Two</strong></p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
 <img style="width: 75%;" src="/images/pl3.png">
 <p style="text-align: center;"><strong>Secondary Three</strong></p>
 <hr>
