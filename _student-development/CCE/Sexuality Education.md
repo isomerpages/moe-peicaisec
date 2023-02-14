@@ -12,7 +12,7 @@ third_nav_title: CCE
 <table>
 <tbody>
 <tr>
-<td style="width: 126.453px;">1.</td>
+<td style="width: 126px;">1.</td>
 <td style="width: 534px;">Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.</td>
 </tr>
 <tr>
@@ -93,7 +93,7 @@ third_nav_title: CCE
 </table>
 <p><strong>At Peicai Secondary School, the following lessons from the Sexuality Education Programme will be taught in&nbsp;<u>2022&nbsp;</u>:</strong></p>
 <p><strong>Secondary 1</strong></p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<td style="width: 126.453px;">&nbsp;iv.</td>
 <table width="0">
 <thead>
 <tr>
