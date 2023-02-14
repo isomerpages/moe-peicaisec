@@ -93,6 +93,7 @@ third_nav_title: CCE
 </table>
 <p><strong>At Peicai Secondary School, the following lessons from the Sexuality Education Programme will be taught in&nbsp;<u>2022&nbsp;</u>:</strong></p>
 <p><strong>Secondary 1</strong></p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
 <table width="0">
 <thead>
 <tr>
