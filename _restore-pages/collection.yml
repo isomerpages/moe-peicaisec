@@ -2,6 +2,7 @@ collections:
   restore-pages:
     output: true
     order:
+      - Sexuality Education1.md
       - Letters to Parents.md
       - Subject Overview 1.md
       - School Assessments.md
