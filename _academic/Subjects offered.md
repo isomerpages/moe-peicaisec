@@ -22,10 +22,10 @@ description: ""
 <p><font size="3">Art<br />Design and Technology<br />Food and Consumer Education<br />Food Studies<br />Food and Nutrition<br />Music</font></p>
 </td>
 <td style="text-align: center; height: 145px; width: 242.234px;">
-<p>English Language<br />Literature&nbsp;(Pure)<br />Humanities (SS, Literature)</p>
+<p><font size="3">English Language<br />Literature&nbsp;(Pure)<br />Humanities (SS, Literature)</font></p>
 </td>
 <td style="text-align: center; height: 145px; width: 196.406px;">
-<p>Social Studies<br />Geography&nbsp;(Pure)<br />History&nbsp;(Pure)<br />Humanities (SS, Geography)<br />Humanities (SS, History)<br />Principles of Accounts</p>
+<p><font size="3">Social Studies<br />Geography&nbsp;(Pure)<br />History&nbsp;(Pure)<br />Humanities (SS, Geography)<br />Humanities (SS, History)<br />Principles of Accounts</font></p>
 </td>
 </tr>
 <tr style="height: 18px;">
