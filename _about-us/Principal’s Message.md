@@ -15,7 +15,6 @@ description: ""
 <div>
 <p><font size="3">Mr Michael Muhunthan started his journey in the education service as a teacher in a secondary school where he taught English Language and Literature. He has taught students from Secondary One &ndash; Five in the Express, Normal (Academic) and Normal (Technical) courses in his years as a teacher and went on to become a Head of Department.
 <p>He was awarded the MOE Postgraduate Scholarship and completed his Masters Degree in the National University of Singapore (NUS).</p>
-<p><font size="3">He then served in the Ministry of Education HQ after which he joined Pioneer Junior College as a Vice Principal.</p>
+<p><font size="3">He then served in the Ministry of Education HQ after which he joined Pioneer Junior College as a Vice Principal.
 <p><font size="3">Upon completion of the Leaders in Education Programme (LEP), he led Jurong West Secondary School as Principal from 2015-2021 after which he took over as Principal of Peicai Secondary School with effect from 15 December 2021.
-	</p>
 </font>
