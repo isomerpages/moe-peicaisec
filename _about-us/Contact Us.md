@@ -3,7 +3,6 @@ title: Contact Us
 permalink: /about-us/contact-us/
 description: ""
 ---
-
 <p><font size="3"><strong>Address:<br /></strong>10 Serangoon Ave 4 Singapore (556094)</font></p>
 <p><font size="3"><strong>Telephone:</strong> +(65) 6288 4159<br /><strong>Fax:</strong> +(65) 6283 0480&nbsp;</font></p>
 <p><font size="3"><strong>Email:</strong> <a href="mailto:peicai_ss@moe.edu.sg">peicai_ss@moe.edu.sg</a></font></p>
