@@ -16,10 +16,10 @@ description: ""
 <tbody>
 <tr>
 <td width="180">
-<p style="text-align: center;"><strong>After PSLE and upon admission to Secondary 1</strong></p>
+<p style="text-align: center;"><font size="3"><strong>After PSLE and upon admission to Secondary 1</strong></font></p>
 </td>
 <td width="522">
-<p>Students in the N(A) and N(T) courses who meet the eligibility criteria will be offered the option to take:</p>
+<p><font size="3">Students in the N(A) and N(T) courses who meet the eligibility criteria will be offered the option to take:</font></p>
 <ul>
 <li>English</li>
 <li>Mathematics</li>
