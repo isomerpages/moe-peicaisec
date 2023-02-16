@@ -30,7 +30,7 @@ description: ""
 </tr>
 <tr style="height: 18px;">
 <td style="text-align: center; height: 18px; width: 203.359px;">
-<p><strong>Mathematics</strong></p>
+	<p><font size="3"><strong>Mathematics</strong></font></p>
 </td>
 <td style="text-align: center; height: 18px; width: 242.234px;">
 <p><strong>Mother Tongue Languages</strong></p>
