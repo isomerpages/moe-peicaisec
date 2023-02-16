@@ -3,7 +3,7 @@ title: Subjects offered
 permalink: /academic/subjects-offered/
 description: ""
 ---
-<p>Note:<br />&bull; The subjects below are offered to the current student cohort. They may change for subsequent intakes.<br />&bull; Students taking Tamil Language will have to attend lessons at the nearest Tamil Language Centre after school. See the&nbsp;<a href="https://www.moe.gov.sg/secondary/courses/express/electives?term=Language&amp;subterm=Tamil%20Language" target="_blank" rel="noopener noreferrer">list of designated centres</a>.</p>
+<p><font size="3">Note:<br />&bull; The subjects below are offered to the current student cohort. They may change for subsequent intakes.<br />&bull; Students taking Tamil Language will have to attend lessons at the nearest Tamil Language Centre after school. See the&nbsp;<a href="https://www.moe.gov.sg/secondary/courses/express/electives?term=Language&amp;subterm=Tamil%20Language" target="_blank" rel="noopener noreferrer">list of designated centres</a></font>.</p>
 <table style="height: 398px; margin-left: auto; margin-right: auto;">
 <tbody>
 <tr style="height: 36px;">
