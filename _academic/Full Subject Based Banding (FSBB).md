@@ -3,12 +3,12 @@ title: Full Subject Based Banding (FSBB)
 permalink: /academic/full-subject-based-banding-fsbb/
 description: ""
 ---
-<p><font size="3">
+
 <h4><strong>Purpose and Implementation of Full SBB</strong></h4>
-<p>Full SBB is part of MOE&rsquo;s ongoing efforts to nurture the joy of learning and develop multiple pathways to cater to the different strengths and interests of our students.</p>
-<p>By 2024, secondary schools will have implemented the following aspects of Full SBB:</p>
+<p><font size="3">Full SBB is part of MOE&rsquo;s ongoing efforts to nurture the joy of learning and develop multiple pathways to cater to the different strengths and interests of our students.</font></p>
+<p><font size="3">By 2024, secondary schools will have implemented the following aspects of Full SBB:</font></p>
 <ul>
-<li>Offering of English, Mathematics, Science and Mother Tongue Language at a more demanding level from Secondary 1 for both N(A) and N(T) students who meet the eligibility criteria</li>
+<li><font size="3">Offering of English, Mathematics, Science and Mother Tongue Language at a more demanding level from Secondary 1 for both N(A) and N(T) students who meet the eligibility criteria</font></li>
 <li>Offering of Humanities subjects (Geography, History, Literature in English) at a more demanding level from Secondary 2 for both N(A) and N(T) students who meet the eligibility criteria</li>
 <li>Mixed Form Classes where the students will have a common curriculum for the Craft &amp; Technology subjects (Art, Design &amp; Technology, Food &amp; Consumer Education), Physical Education, Music and Character and Citizenship Education (CCE)</li>
 </ul>
@@ -67,4 +67,3 @@ description: ""
 </table>
 <p>For more information on Full SBB, you may visit&nbsp;<a href="http://www.moe.gov.sg/microsite/psle-fsbb">www.moe.gov.sg/microsite/psle-fsbb</a>.</p>
 <p>For more information of the implementation of Full SBB in Peicai Secondary School, you may write to us at&nbsp;<a href="mailto:peicai_ss@moe.edu.sg">peicai_ss@moe.edu.sg</a></p>
-	</font></p>
