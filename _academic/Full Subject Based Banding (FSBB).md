@@ -3,6 +3,7 @@ title: Full Subject Based Banding (FSBB)
 permalink: /academic/full-subject-based-banding-fsbb/
 description: ""
 ---
+<p><font size="3">
 <h4><strong>Purpose and Implementation of Full SBB</strong></h4>
 <p>Full SBB is part of MOE&rsquo;s ongoing efforts to nurture the joy of learning and develop multiple pathways to cater to the different strengths and interests of our students.</p>
 <p>By 2024, secondary schools will have implemented the following aspects of Full SBB:</p>
@@ -65,4 +66,5 @@ description: ""
 </tbody>
 </table>
 <p>For more information on Full SBB, you may visit&nbsp;<a href="http://www.moe.gov.sg/microsite/psle-fsbb">www.moe.gov.sg/microsite/psle-fsbb</a>.</p>
-<p>For more information of the implementation of Full SBB in Peicai Secondary School, you may write to us at&nbsp;<a href="mailto:peicai_ss@moe.edu.sg">peicai_ss@moe.edu.sg</a>.</p>
+<p>For more information of the implementation of Full SBB in Peicai Secondary School, you may write to us at&nbsp;<a href="mailto:peicai_ss@moe.edu.sg">peicai_ss@moe.edu.sg</a></p>
+	</font></p>
