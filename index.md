@@ -8,9 +8,6 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: Media
-          description: ""
-          url: /media
         - title: ANNOUNCEMENTS
           description: ""
           url: /ANNOUNCEMENTS
