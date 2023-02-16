@@ -61,8 +61,6 @@ description: ""
 </ul>
 	<p><font size="3">at a more demanding level in the following year.</font></p>
 </td>
-</tr>
-</tbody>
-</table>
+
 <p><font size="3">For more information on Full SBB, you may visit&nbsp;<a href="http://www.moe.gov.sg/microsite/psle-fsbb">www.moe.gov.sg/microsite/psle-fsbb</a></font></p>
 <p><font size="3">For more information of the implementation of Full SBB in Peicai Secondary School, you may write to us at&nbsp;<a href="mailto:peicai_ss@moe.edu.sg">peicai_ss@moe.edu.sg</a></font></p>
