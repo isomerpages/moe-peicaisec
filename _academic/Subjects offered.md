@@ -8,13 +8,13 @@ description: ""
 <tbody>
 <tr style="height: 36px;">
 <th style="text-align: center; height: 36px; width: 203.359px;">
-<p>Craft &amp; Technology</p>
+	<p><font size="3">Craft &amp; Technology</font></p>
 </th>
 <th style="text-align: center; height: 36px; width: 242.234px;">
-<p>English Language and Literature</p>
+	<p><font size="3">English Language and Literature</font></p>
 </th>
 <th style="text-align: center; height: 36px; width: 196.406px;">
-<p>Humanities</p>
+	<p><font size="3">Humanities</font></p>
 </th>
 </tr>
 <tr style="height: 145px;">
@@ -33,10 +33,10 @@ description: ""
 	<p><font size="3"><strong>Mathematics</strong></font></p>
 </td>
 <td style="text-align: center; height: 18px; width: 242.234px;">
-<p><strong>Mother Tongue Languages</strong></p>
+	<p><font size="3"><strong>Mother Tongue Languages</strong></font></p>
 </td>
 <td style="text-align: center; height: 18px; width: 196.406px;">
-<p><strong>Science</strong></p>
+	<p><font size="3"><strong>Science</strong></font></p>
 </td>
 </tr>
 <tr style="height: 181px;">
