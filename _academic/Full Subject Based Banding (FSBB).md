@@ -46,8 +46,7 @@ description: ""
 </tr>
 <tr>
 <td width="180">
-	<p style="text-align: center;"><font size="3"><strong>At the end of&nbsp;<u>Semester 2</u></font></strong></p>
-</td>
+	<p style="text-align: center;"><font size="3"><strong>At the end of&nbsp;<u>Semester 2</u></strong>
 <td width="522">
 <p><font size="3">Secondary 1 &ndash; 2 students in the N(A) and N(T) courses who meet the eligibility criteria will be offered the option to take:</font></p>
 <ul>
