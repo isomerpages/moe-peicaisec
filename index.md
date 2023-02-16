@@ -8,12 +8,6 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: Student Services
-          description: ""
-          url: /student-services/booklist
-        - title: Parents
-          description: ""
-          url: /parents
         - title: Media
           description: ""
           url: /media
