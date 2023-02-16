@@ -21,48 +21,48 @@ description: ""
 <td width="522">
 <p><font size="3">Students in the N(A) and N(T) courses who meet the eligibility criteria will be offered the option to take:</font></p>
 <ul>
-<li>English</li>
-<li>Mathematics</li>
-<li>Science</li>
-<li>Mother Tongue Language</li>
+	<li><font size="3">English</font></li>
+	<li><font size="3">Mathematics</font></li>
+	<li><font size="3">Science</font></li>
+	<li><font size="3">Mother Tongue Language</font></li>
 </ul>
-<p>at a more demanding level from the start of Secondary 1.</p>
+	<p><font size="3">at a more demanding level from the start of Secondary 1.</font></p>
 </td>
 </tr>
 <tr>
 <td width="180">
-<p style="text-align: center;"><strong>At the end of&nbsp;<u>Semester 1</u></strong></p>
+<p style="text-align: center;"><font size="3"><strong>At the end of&nbsp;<u>Semester 1</u></strong></font></p>
 </td>
 <td width="522">
-<p>Secondary 1 students in the N(A) and N(T) courses who meet the eligibility criteria will be offered the option to take:</p>
+<p><font size="3">Secondary 1 students in the N(A) and N(T) courses who meet the eligibility criteria will be offered the option to take:</font></p>
 <ul>
-<li>English;</li>
-<li>Mathematics;</li>
-<li>Science; and/or</li>
-<li>Mother Tongue Language</li>
+	<li><font size="3">English;</font></li>
+	<li><font size="3">Mathematics;</font></li>
+	<li><font size="3">Science; and/or</font></li>
+	<li><font size="3">Mother Tongue Language</font></li>
 </ul>
-<p>at a more demanding level in Semester 2.</p>
+	<p><font size="3">at a more demanding level in Semester 2.</font></p>
 </td>
 </tr>
 <tr>
 <td width="180">
-<p style="text-align: center;"><strong>At the end of&nbsp;<u>Semester 2</u></strong></p>
+	<p style="text-align: center;"><font size="3"><strong>At the end of&nbsp;<u>Semester 2</u></font></strong></p>
 </td>
 <td width="522">
-<p>Secondary 1 &ndash; 2 students in the N(A) and N(T) courses who meet the eligibility criteria will be offered the option to take:</p>
+<p><font size="3">Secondary 1 &ndash; 2 students in the N(A) and N(T) courses who meet the eligibility criteria will be offered the option to take:</font></p>
 <ul>
-<li>English;</li>
-<li>Mathematics;</li>
-<li>Science;</li>
-<li>Mother Tongue Language;</li>
-<li>Geography;</li>
-<li>History; and/or</li>
-<li>Literature in English</li>
+	<li><font size="3">English;</font></li>
+<li><font size="3">Mathematics;</font></li>
+<li><font size="3">Science;</font></li>
+<li><font size="3">Mother Tongue Language;</font></li>
+<li><font size="3">Geography;</font></li>
+<li><font size="3">History; and/or</font></li>
+<li><font size="3">Literature in English</font></li>
 </ul>
-<p>at a more demanding level in the following year.</p>
+	<p><font size="3">at a more demanding level in the following year.</font></p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>For more information on Full SBB, you may visit&nbsp;<a href="http://www.moe.gov.sg/microsite/psle-fsbb">www.moe.gov.sg/microsite/psle-fsbb</a>.</p>
-<p>For more information of the implementation of Full SBB in Peicai Secondary School, you may write to us at&nbsp;<a href="mailto:peicai_ss@moe.edu.sg">peicai_ss@moe.edu.sg</a></p>
+<p><font size="3">For more information on Full SBB, you may visit&nbsp;<a href="http://www.moe.gov.sg/microsite/psle-fsbb">www.moe.gov.sg/microsite/psle-fsbb</a></font></p>
+<p><font size="3">For more information of the implementation of Full SBB in Peicai Secondary School, you may write to us at&nbsp;<a href="mailto:peicai_ss@moe.edu.sg">peicai_ss@moe.edu.sg</a></font></p>
