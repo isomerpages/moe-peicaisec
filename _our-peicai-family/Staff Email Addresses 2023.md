@@ -254,7 +254,7 @@ description: ""
   solid black .75pt;mso-border-left-alt:solid black .75pt;mso-border-alt:solid black .75pt;
   padding:5.25pt 5.25pt 5.25pt 5.25pt" width="306"><p style="margin-bottom:0in;text-align:center;
   line-height:16.8pt" align="center" class="MsoNormal"><span style="font-size:10.5pt;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin"><a href="mailto:Lee_Li_Juan@moe.edu.sg"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;color:#4067AE">Lee_Li_Juan@moe.edu.sg</span></a></span><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
+  mso-bidi-theme-font:minor-latin"><a href="mailto:Lee_Li_Juan@moe.edu.sg"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;color:#4067AE">Lee_Li_Juan@schools.gov.sg</span></a></span><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
   Calibri;mso-bidi-theme-font:minor-latin;color:#222222"></span></p></td></tr><tr style="mso-yfti-irow:14"><td style="width:220.1pt;border:solid black 1.0pt;border-top:none;
   mso-border-top-alt:solid black .75pt;mso-border-alt:solid black .75pt;
   padding:5.25pt 5.25pt 5.25pt 5.25pt" width="293"><p style="margin-bottom:0in;text-align:center;
