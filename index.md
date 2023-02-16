@@ -17,5 +17,8 @@ sections:
         - title: Media
           description: ""
           url: /media
+        - title: ANNOUNCEMENTS
+          description: ""
+          url: /ANNOUNCEMENTS
       background: /images/Banner 0_3 copy.jpg
 ---
