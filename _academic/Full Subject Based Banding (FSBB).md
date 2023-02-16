@@ -3,8 +3,7 @@ title: Full Subject Based Banding (FSBB)
 permalink: /academic/full-subject-based-banding-fsbb/
 description: ""
 ---
-
-<h4><strong>Purpose and Implementation of Full SBB</strong></h4>
+<h4><strong><font size="3">Purpose and Implementation of Full SBB</font></strong></h4>
 <p><font size="3">Full SBB is part of MOE&rsquo;s ongoing efforts to nurture the joy of learning and develop multiple pathways to cater to the different strengths and interests of our students.</font></p>
 <p><font size="3">By 2024, secondary schools will have implemented the following aspects of Full SBB:</font></p>
 <ul>
