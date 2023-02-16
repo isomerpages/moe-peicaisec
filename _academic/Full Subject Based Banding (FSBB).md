@@ -8,10 +8,10 @@ description: ""
 <p><font size="3">By 2024, secondary schools will have implemented the following aspects of Full SBB:</font></p>
 <ul>
 <li><font size="3">Offering of English, Mathematics, Science and Mother Tongue Language at a more demanding level from Secondary 1 for both N(A) and N(T) students who meet the eligibility criteria</font></li>
-<li>Offering of Humanities subjects (Geography, History, Literature in English) at a more demanding level from Secondary 2 for both N(A) and N(T) students who meet the eligibility criteria</li>
-<li>Mixed Form Classes where the students will have a common curriculum for the Craft &amp; Technology subjects (Art, Design &amp; Technology, Food &amp; Consumer Education), Physical Education, Music and Character and Citizenship Education (CCE)</li>
+<li><font size="3">Offering of Humanities subjects (Geography, History, Literature in English) at a more demanding level from Secondary 2 for both N(A) and N(T) students who meet the eligibility criteria</font></li>
+<li><font size="3">Mixed Form Classes where the students will have a common curriculum for the Craft &amp; Technology subjects (Art, Design &amp; Technology, Food &amp; Consumer Education), Physical Education, Music and Character and Citizenship Education (CCE)</font></li>
 </ul>
-<p><strong>Stages for students to be offered the option to take the subject at a more demanding level in Peicai Secondary School</strong></p>
+<p><font size="3"><strong>Stages for students to be offered the option to take the subject at a more demanding level in Peicai Secondary School</strong></font></p>
 <table>
 <tbody>
 <tr>
