@@ -4,7 +4,8 @@ permalink: /academic/blended-learning/for-students/
 description: ""
 third_nav_title: Blended Learning
 ---
-**Expectations of Students on Home-Based Learning (HBL) Days**
+<h4><strong>Expectations of Students on Home-Based Learning (HBL) Days</strong></h4>
+<p>
 
 **Objectives of HBL days**
 
@@ -14,13 +15,12 @@ Through regular HBL, the school aims to develop you into self-directed and indep
 
 You can expect the following features of a HBL day:
 
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Learning will take place from home.
+* Learning will take place from home.
+* Asynchronous lesson. Your subject teachers for that day will assign you learning tasks online, and you can decide on the sequence of completing them. Your teachers will also recommend the duration of time you should spend on the learning tasks so as to help you better plan your learning schedule for the day.
 
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Asynchronous lesson. Your subject teachers for that day will assign you learning tasks online, and you can decide on the sequence of completing them. Your teachers will also recommend the duration of time you should spend on the learning tasks so as to help you better plan your learning schedule for the day.
+* You will be completing your learning tasks via different modes that include both online (eg. watching a video on YouTube) &amp; offline (e.g., completing a worksheet) activities so as to ensure that there is no excessive screen time.
 
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;You will be completing your learning tasks via different modes that include both online (eg. watching a video on YouTube) &amp; offline (e.g., completing a worksheet) activities so as to ensure that there is no excessive screen time.
-
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Your teachers will monitor your learning and provide feedback so as to better guide your learning.
+* Your teachers will monitor your learning and provide feedback so as to better guide your learning.
 
 **Structure of HBL Days**
 
@@ -152,21 +152,17 @@ You can expect the following features of a HBL day:
 
 **Expectations of Students**
 
-(I)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Readiness for Learning
+1. Readiness for Learning
 
 You should ensure that you are ready for learning at the start of the day by:
+* Being appropriately dressed (you do not need to be in school uniform) for Morning Check-in which will take place for every first HBL of the month.
 
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Being appropriately dressed (you do not need to be in school uniform) for Morning Check-in which will take place for every first HBL of the month.
+* Personal learning devices (PLDs) should be fully charged or plugged in.
+* Being seated as you would be in the classroom, i.e. not in bed, reclining on the sofa, etc.
+* Logging into SLS and checking the announcements and assigned lessons for the day.
+* Reading the lesson description for each assigned SLS lesson carefully.
 
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Personal learning devices (PLDs) should be fully charged or plugged in.
-
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Being seated as you would be in the classroom, i.e. not in bed, reclining on the sofa, etc.
-
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Logging into SLS and checking the announcements and assigned lessons for the day.
-
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Reading the lesson description for each assigned SLS lesson carefully.
-
-(II)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Start of HBL day
+2. Start of HBL day
 
 HBL day commences at 8.20 am with you logging in to Zoom for Morning Check-in for every first HBL of the month. If you are late for Morning Check-In, you should contact your Form Teacher(s) and inform them.
 
@@ -174,7 +170,7 @@ If you are going to be absent for HBL day, you should let your Form Teacher(s) k
 
 HBL day without any valid reasons will be considered as truancy.
 
-(III)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; HBL Lessons and Student-Initiated Learning (SIL)
+3. HBL Lessons and Student-Initiated Learning (SIL)
 
 Subjects featured on HBL day are the same as the timetable for that day. Subject Teachers will
 
@@ -182,49 +178,50 @@ assign SLS lessons containing instructions for the day’s learning tasks before
 
 In order to have a fruitful HBL day, you should ensure that:
 
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You have all the learning materials (eg. textbook, notes and writing materials) required before you start the asynchronous lesson.
+* You have all the learning materials (eg. textbook, notes and writing materials) required before you start the asynchronous lesson.
 
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You read the SLS lesson’s ‘Lesson Description’ carefully before starting. You use the expected duration stated in each lesson to plan a schedule for the day.
+* You read the SLS lesson’s ‘Lesson Description’ carefully before starting. You use the expected duration stated in each lesson to plan a schedule for the day.
 
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You stay focused during the 6-hour timeslot (8.20 am to 2.35pm; inclusive of 20-min breaks between subject lessons) to complete the learning tasks assigned for the day.
+* You stay focused during the 6-hour timeslot (8.20 am to 2.35pm; inclusive of 20-min breaks between subject lessons) to complete the learning tasks assigned for the day.
 
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You reach out to your teachers if you face difficulties in completing the tasks assigned. · You spend at least 60 mins on their chosen Student-Initiated Learning (SIL) task and complete your SIL Reflection
+* You reach out to your teachers if you face difficulties in completing the tasks assigned. · You spend at least 60 mins on their chosen Student-Initiated Learning (SIL) task and complete your SIL Reflection
 
-(IV)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; End of HBL day
+4. End of HBL day
 
 All lessons and work assigned must be completed and submitted (if necessary) by 6pm. If you face difficulties and require an extension of time for the completion of lessons or work assigned, you should reach out to and seek permission for time extension from your Subject Teachers.
 
-(V)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Learning Dispositions to Adopt
+5. Learning Dispositions to Adopt
 
 HBL days and the learning tasks are designed to encourage self-directedness in you. The following are some positive learning dispositions that you should adopt:
 
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Innovation** – Be a critical and creative thinker when approaching and attempting the learning tasks.
+* **Innovation** – Be a critical and creative thinker when approaching and attempting the learning tasks.
 
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Collaboration** – Collaborate and learn with classmates (e.g., through the SLS Interactive Thinking Routines)
+*  **Collaboration** – Collaborate and learn with classmates (e.g., through the SLS Interactive Thinking Routines)
 
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Autonomy** – Be an independent learner and disciplined in completing your learning tasks.
+*  **Autonomy** – Be an independent learner and disciplined in completing your learning tasks.
 
 ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Resilience** – Keep trying until successful; do not give up just because learning tasks are long, tedious and tough.
 
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Enthusiasm** – Be excited about learning and be amazed by the wonderment and awe of acquiring new knowledge and skills. Extend a helping hand towards classmates who are having difficulties.
+*  **Enthusiasm** – Be excited about learning and be amazed by the wonderment and awe of acquiring new knowledge and skills. Extend a helping hand towards classmates who are having difficulties.
 
 **General Rules for HBL**
 
-(I)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Code of Conduct (Cyber Etiquette)
+1. Code of Conduct (Cyber Etiquette)
 
 You should refer to and abide by the guidelines for Cyber Etiquette as laid out in Peicai Secondary School’s Code of Conduct (CoC).
 
-(II)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Submission and Completion of Work
+2. Submission and Completion of Work
 
 Completion and submission of work will be closely monitored and tracked by your subject teachers. Willful neglect of your HBL work will not be tolerated and you will be taken to task in accordance with the consequence plan laid out in the school’s CoC:
 
-1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Form Teachers and Subject Teachers follow up.
+*  Form Teachers and Subject Teachers follow up.
 
-2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents will be informed, and you will have to complete the work by the next deadline set by teacher or you will stay back the next day to complete your work in school.
+* Parents will be informed, and you will have to complete the work by the next deadline set by teacher or you will stay back the next day to complete your work in school.
 
-3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If you are unable to complete work due to extenuating circumstances, you should inform your teachers immediately.
+*  If you are unable to complete work due to extenuating circumstances, you should inform your teachers immediately.
 
-**Student Guides**
+<h4><strong>Student Guides</strong></h4>
+<p>
 
 *   Login for Student iCON
 
