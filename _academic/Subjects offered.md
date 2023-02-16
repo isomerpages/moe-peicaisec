@@ -41,13 +41,13 @@ description: ""
 </tr>
 <tr style="height: 181px;">
 <td style="text-align: center; height: 181px; width: 203.359px;">
-<p>&nbsp;Mathematics<br />Additional Mathematics<br />Computer Applications&nbsp;</p>
+<p><font size="3">&nbsp;Mathematics<br />Additional Mathematics<br />Computer Applications&nbsp;</font></p>
 </td>
 <td style="text-align: center; height: 181px; width: 242.234px;">
-<p>&nbsp;Chinese Language<br />Malay Language&nbsp;<br />Higher Chinese Language<br />Chinese Language Syllabus B<br />Malay Language Syllabus B<br />Basic Chinese Language<br />Basic Malay Language</p>
+<p><font size="3">&nbsp;Chinese Language<br />Malay Language&nbsp;<br />Higher Chinese Language<br />Chinese Language Syllabus B<br />Malay Language Syllabus B<br />Basic Chinese Language<br />Basic Malay Language</font></p>
 </td>
 <td style="text-align: center; height: 181px; width: 196.406px;">
-<p>&nbsp;Biology (Pure)<br />Chemistry&nbsp;(Pure)<br />Physics&nbsp;(Pure)<br />Science (Chemistry, Biology)<br />Science (Physics, Chemistry)</p>
+<p><font size="3">&nbsp;Biology (Pure)<br />Chemistry&nbsp;(Pure)<br />Physics&nbsp;(Pure)<br />Science (Chemistry, Biology)<br />Science (Physics, Chemistry)</font></p>
 </td>
 </tr>
 <tr style="height: 18px;">
