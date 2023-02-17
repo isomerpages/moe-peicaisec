@@ -4,7 +4,6 @@ permalink: /restore-pages/Sexuality-Educatio-1/
 description: ""
 third_nav_title: CCE
 ---
-
 <b>MOE Sexuality Education in Schools</b><br/>
 1.	Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they 
 experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and
@@ -26,4 +25,8 @@ Singapore on sexuality issues.<br/>
 								
 	You may [click here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education) for more information on MOE Sexuality Education.</br>
 	<b>Overview of Peicai Secondary School’s Sexuality Education Programme for 2023</b><br/>
-	
+	4.       Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and Culture, Society and Law. You may click here for more information on the scope of Sexuality Education in the school curriculum.<br/>
+5.       The subjects that incorporate topics on sexuality include:<br/>
+a.       Science<br/>
+b.      Character and Citizenship Education (CCE)<br/>
+
