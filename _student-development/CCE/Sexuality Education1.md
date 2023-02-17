@@ -48,10 +48,9 @@ character, and expand their understanding and repertoire of skills to deal with 
         <th class="tg-0pky">Lesson Title / Duration</th>
         <th class="tg-0pky">Lesson Overview</th>
         <th class="tg-0pky">Lesson Objectives
-At the end of the lesson, students will be able to:
-</th><th class="tg-0pky">Time Period
-(e.g.Term 1 Week 2)
-</th><th class="tg-0pky"></th>
+At the end of the lesson, students will be able to
+				</th><th class="tg-0pky">Time Period
+(e.g.Term 1 Week 2)</th>
       </tr>
     </thead>
     <tbody>
