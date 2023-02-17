@@ -63,5 +63,13 @@ HBL days and the learning tasks are designed to encourage self-directedness in y
 •	Autonomy – Be an independent learner and disciplined in completing your learning tasks.<br/>
 •	Resilience – Keep trying until successful; do not give up just because learning tasks are long, tedious and tough. <br/>
 •	Enthusiasm – Be excited about learning and be amazed by the wonderment and awe of acquiring new knowledge and skills. Extend a helping hand towards classmates who are having difficulties.<br/>
-
+<b>General Rules for HBL</b><br />
+(I)	Code of Conduct (Cyber Etiquette)
+You should refer to and abide by the guidelines for Cyber Etiquette as laid out in Peicai Secondary School’s Code of Conduct (CoC).<br />
+(II)	Submission and Completion of Work
+Completion and submission of work will be closely monitored and tracked by your subject teachers. Willful neglect of your HBL work will not be tolerated and you will be taken to task in accordance with the consequence plan laid out in the school’s CoC:<br />
+1.	Form Teachers and Subject Teachers follow up.<br />
+2.	Parents will be informed, and you will have to complete the work by the next deadline set by teacher or you will stay back the next day to complete your work in school.<br />
+3.	If you are unable to complete work due to extenuating circumstances, you should inform your teachers immediately.<br />
+4.	
 
