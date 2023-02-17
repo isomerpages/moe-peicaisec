@@ -36,8 +36,7 @@ The gap between physical and emotional/cognitive maturity may result in a tenden
 (including sexual activities), sometimes without understanding the unpleasant consequences that may arise from such experimentation. 
 The need for peer acceptance can be overwhelmingly strong, and hinder one’s ability to act responsibly.  Given the pressures faced by 
 the middle adolescent from within themselves and from peers, it is important to build a strong sense of self-worth, personal conviction 
-and an understanding of the possible consequences of sexual behaviour.<br/> 
-7. Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their 
+and an understanding of the possible consequences of sexual behaviour.<br/> 7. Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their 
 character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.<br/>
 <b>At Peicai Secondary School, the following Sexuality Education lessons will be taught in 2023:</B><br/>
 
