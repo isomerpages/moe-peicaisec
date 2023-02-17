@@ -78,6 +78,7 @@ You should refer to and abide by the guidelines for Cyber Etiquette as laid out 
 
 (II)	Submission and Completion of Work
 Completion and submission of work will be closely monitored and tracked by your subject teachers. Willful neglect of your HBL work will not be tolerated and you will be taken to task in accordance with the consequence plan laid out in the school’s CoC:<br />1.	Form Teachers and Subject Teachers follow up.<br /> 2.	Parents will be informed, and you will have to complete the work by the next deadline set by teacher or you will stay back the next day to complete your work in school.<br /> 3.	If you are unable to complete work due to extenuating circumstances, you should inform your teachers immediately.<br />
+	
 <ul>
 <h4><strong><b>Student Guides</b></strong></h4>
 Login for Student iCON<br />
