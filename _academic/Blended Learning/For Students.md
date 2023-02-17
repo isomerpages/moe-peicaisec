@@ -84,4 +84,4 @@ Completion and submission of work will be closely monitored and tracked by your 
 •	Login for SLS<br/>
 	https://vle.learning.moe.edu.sg/login 
 •	You can log in to SLS using your SLS username or your Student iCON login credentials. <br/>
-•	For students who need help to reset password or unlock account for students' iCON email or SLS can click here to submit the form.<br/>
+•	For students who need help to reset password or unlock account for students' iCON email or SLS can click [here](https://www.form.gov.sg/610c7f6b22cd6800125e3a6a) to submit the form.<br/>
