@@ -117,7 +117,7 @@ third_nav_title: CCE
 <td rowspan="3" width="112">Respectful Relationships &amp; Safety</td>
 <td width="170">
 <p>1</p>
-<p>(60 mins)</p>
+	<p><font size="3">(60 mins)</font></p>
 </td>
 <td width="483">
 <ul>
