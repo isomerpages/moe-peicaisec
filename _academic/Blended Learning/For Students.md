@@ -81,7 +81,7 @@ Completion and submission of work will be closely monitored and tracked by your 
 
 <h4><strong><b>Student Guides</b></strong></h4>
 Login for Student iCON<br />
-•	[https://workspace.google.com/dashboard](https://workspace.google.com/dashboard)<br />
+•[https://workspace.google.com/dashboard](https://workspace.google.com/dashboard)<br />
 Login for SLS<br />
 •	[https://vle.learning.moe.edu.sg/login](https://vle.learning.moe.edu.sg/login)<br /> 
 •	You can log in to SLS using your SLS username or your Student iCON login credentials.<br />
