@@ -37,3 +37,19 @@ You should ensure that you are ready for learning at the start of the day by:<br
 •	Being seated as you would be in the classroom, i.e. not in bed, reclining on the sofa, etc.<br />
 •	Logging into SLS and checking the announcements and assigned lessons for the day.<br />
 •	Reading the lesson description for each assigned SLS lesson carefully.<br />
+(II)	Start of HBL day
+HBL day commences at 8.20 am with you logging in to Zoom for Morning Check-in for every first HBL of the month. If you are late for Morning Check-In, you should contact your Form Teacher(s) and inform them.<br/>
+
+If you are going to be absent for HBL day, you should let your Form Teacher(s) know. All absence must be supported by appropriate documentation (e.g., Medical Certificate (MC)). Absence from
+HBL day without any valid reasons will be considered as truancy.<br/>
+
+(III)	HBL Lessons and Student-Initiated Learning (SIL)
+Subjects featured on HBL day are the same as the timetable for that day. Subject Teachers will
+assign SLS lessons containing instructions for the day’s learning tasks before 8.20 am on HBL days.<br/>
+
+In order to have a fruitful HBL day, you should ensure that:<br/>
+•	You have all the learning materials (eg. textbook, notes and writing materials) required before you start the asynchronous lesson.<br/>
+•	You read the SLS lesson’s ‘Lesson Description’ carefully before starting. You use the expected duration stated in each lesson to plan a schedule for the day.<br/>
+•	You stay focused during the 6-hour timeslot (8.20 am to 2.35pm; inclusive of 20-min breaks between subject lessons) to complete the learning tasks assigned for the day.<br/>
+•	You reach out to your teachers if you face difficulties in completing the tasks assigned.<br/>
+• You spend at least 60 mins on their chosen Student-Initiated Learning (SIL) task and complete your SIL Reflection
