@@ -30,6 +30,9 @@ You can expect the following features of a HBL day:<br />
 1.35 – 2.35 am     | Student-Initiated Learning (SIL)    |     |<br /> 
 <tr>
 <b>Expectations of Students</b><br />
+	(I)	Readiness for Learning
+You should ensure that you are ready for learning at the start of the day by:<br />
+•	Being appropriately dressed (you do not need to be in school uniform) for Morning Check-in which will take place for every first HBL of the month.<br /> 
+•	Personal learning devices (PLDs) should be fully charged or plugged in.<br />
+•	Being seated as you would be in the classroom, i.e. not in bed, reclining on the sofa, etc.<br />
 	
-
-
