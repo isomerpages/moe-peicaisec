@@ -82,4 +82,4 @@ Login for Student iCON<br />
 Login for SLS<br />
 •	[https://vle.learning.moe.edu.sg/login](https://vle.learning.moe.edu.sg/login)<br /> 
 •	You can log in to SLS using your SLS username or your Student iCON login credentials.<br />
-•	For students who need help to reset password or unlock account for students' iCON email or SLS can click here to submit the form.<br />
+•	For students who need help to reset password or unlock account for students' iCON email or SLS can click [here](https://go.gov.sg/pcsstd-sls-icon) to submit the form.<br />
