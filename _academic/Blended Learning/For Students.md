@@ -22,3 +22,5 @@ You can expect the following features of a HBL day:<br />
 | 8.20 – 8.35 am    | Morning Check-in (for every first HBL of the month; i.e. on 1 Feb, 1 Mar, 5 Apr, 3 May, 12 Jul, 23 Aug)    |     |
 8.35 – 9.35 am     | First subject HBL    |     |
 9.35 – 9.55 am    | 20-min Break    |     |
+9.55 – 10.55 am     | Second subject HBL    |     |
+10.55 – 11.15 am    | 20-min Break    |     |
