@@ -41,19 +41,6 @@ character, and expand their understanding and repertoire of skills to deal with 
 <b>At Peicai Secondary School, the following Sexuality Education lessons will be taught in 2023:</B><br/>
 2023 Sexuality Education Lessons in CCE 2021<br/>
 	Secondary 1<br/>
-    <table class="tg">
-    <thead>
-      <tr>
-        <th class="tg-0pky">Unit</th>
-        <th class="tg-0pky">Lesson Title / Duration</th>
-        <th class="tg-0pky">Lesson Overview</th>
-        <th class="tg-0pky">Lesson Objectives
-At the end of the lesson, students will be able to
-				</th><th class="tg-0pky">Time Period
-(e.g.Term 1 Week 2)</th>
-      </tr>
-    </thead>
-    <tbody>
 	 <table class="tg">
     <thead>
       <tr>
