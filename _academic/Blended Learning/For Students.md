@@ -70,3 +70,10 @@ You should refer to and abide by the guidelines for Cyber Etiquette as laid out 
 Completion and submission of work will be closely monitored and tracked by your subject teachers. Willful neglect of your HBL work will not be tolerated and you will be taken to task in accordance with the consequence plan laid out in the school’s CoC:<br />1.	Form Teachers and Subject Teachers follow up.<br />
 2.	Parents will be informed, and you will have to complete the work by the next deadline set by teacher or you will stay back the next day to complete your work in school.<br />
 3.	If you are unable to complete work due to extenuating circumstances, you should inform your teachers immediately.<br />
+<b>Student Guides</b>
+•	Login for Student iCON</b>
+•	https://workspace.google.com/dashboard </b>
+•	Login for SLS</b>
+•	https://vle.learning.moe.edu.sg/login</b> 
+•	You can log in to SLS using your SLS username or your Student iCON login credentials.</b> 
+•	For students who need help to reset password or unlock account for students' iCON email or SLS can click here to submit the form.</b>
