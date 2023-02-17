@@ -91,4 +91,3 @@ Completion and submission of work will be closely monitored and tracked by your 
 *   You can log in to SLS using your SLS username or your Student iCON login credentials.
 
 *   For students who need help to reset password or unlock account for students' iCON email or SLS can click [here](https://www.form.gov.sg/610c7f6b22cd6800125e3a6a) to submit the form.
-	
