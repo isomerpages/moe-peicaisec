@@ -43,15 +43,20 @@ character, and expand their understanding and repertoire of skills to deal with 
 	2023 Sexuality Education Lessons in CCE 2021<br/>
 	<b> Secondary 1</b><br/>
 	
-
-
-|Unit | Lesson Title / Duration | Lesson Overview |Lesson Objectives at the end of thr lesson, students will be able to: |Time Period (e.g.Term 1 Week 2) |
-| -------- | -------- | -------- |-------- |-------- |
-| Respectful Relationships & Safety     | Steady or Not
-Lesson 1
-(60 mins)| This lesson helps students understand more about relationship building and the different types of love (e.g. familial, platonic, romantic). They will have the opportunity to better understand the considerations involved in making responsible decisions towards dating and romantic relationships and understand how to build healthy and supportive relationships, both online and offline. |·       recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles
-·       recognise that there are different forms of love (e.g. familial, platonic, romantic love)
-·       recognise the importance and understand what builds healthy and |Term 3 Week 1     |
-
-
-	
+ </style>
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-0pky">Unit</th>
+        <th class="tg-0pky">Lesson Title / Duration</th>
+        <th class="tg-0pky">Lesson Overview</th>
+        <th class="tg-0pky">Lesson Objectives
+At the end of the lesson, students will be able to:
+</th>
+				<th class="tg-0pky">Time Period
+(e.g.Term 1 Week 2)
+</th>
+        <th class="tg-0pky"></th>
+      </tr>
+    </thead>
+    <tbody>
