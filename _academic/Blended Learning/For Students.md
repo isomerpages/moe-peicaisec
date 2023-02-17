@@ -27,5 +27,9 @@ You can expect the following features of a HBL day:<br />
 11.15 – 12.15 am    | Third subject HBL    |     |
 12.15 – 12.35 am      | 20-min Break    |     |
 12.35 – 1.35 am      | Fourth Subject HBL    |     |
-1.35 – 2.35 am     | Student-Initiated Learning (SIL)    |     |<br />
+1.35 – 2.35 am     | Student-Initiated Learning (SIL)    |     |<br /> 
+<tr>
 <b>Expectations of Students</b><br />
+	
+
+
