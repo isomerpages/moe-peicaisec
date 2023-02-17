@@ -126,7 +126,7 @@ third_nav_title: CCE
 <li><font size="3">Recognise the importance and understand what builds healthy and supportive relationships, both online and offline
 <li><font size="3">&nbsp;Understand what dating is, and recognise that the readiness and interest in dating vary among individuals</font>
 <td width="165">
-<p>Term 3 Week 6</p>
+	<p><font size="3">Term 3 Week 6</font></p>
 </td>
 </tr>
 <tr>
