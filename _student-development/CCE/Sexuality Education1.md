@@ -41,6 +41,5 @@ and an understanding of the possible consequences of sexual behaviour.<br/>
 character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.<br/>
 <b>At Peicai Secondary School, the following Sexuality Education lessons will be taught in 2023:</B><br/>
 
-	2023 Sexuality Education Lessons in CCE 2021
-
-
+	2023 Sexuality Education Lessons in CCE 2021<br/>
+	
