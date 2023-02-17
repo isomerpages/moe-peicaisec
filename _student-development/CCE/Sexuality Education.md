@@ -157,9 +157,7 @@ third_nav_title: CCE
 <td width="165">
 <p>Term 3 Week 10</p>
 </td>
-</tr>
-</tbody>
-</table>
+
 <p><strong>Secondary 2</strong></p>
 <table width="0">
 <thead>
