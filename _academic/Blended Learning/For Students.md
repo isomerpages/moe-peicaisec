@@ -17,3 +17,8 @@ You can expect the following features of a HBL day:<br />
 <b>Structure of HBL Days</b><br />
 
 
+| Time | Activity | |
+| -------- | -------- | -------- |
+| 8.20 – 8.35 am    | Morning Check-in (for every first HBL of the month; i.e. on 1 Feb, 1 Mar, 5 Apr, 3 May, 12 Jul, 23 Aug)    |     |
+8.35 – 9.35 am     | First subject HBL    |     |
+9.35 – 9.55 am    | 20-min Break    |     |
