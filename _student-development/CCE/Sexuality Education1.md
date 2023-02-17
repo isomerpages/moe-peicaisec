@@ -54,3 +54,17 @@ At the end of the lesson, students will be able to
       </tr>
     </thead>
     <tbody>
+			
+		    <table class="tg">
+    <thead>
+      <tr>
+        <th>Unit</th>
+        <th>Lesson Title / Duration</th>
+        <th>Lesson Overview</th>
+        <th>Lesson Objectives
+At the end of the lesson, students will be able to
+				</th><th>Time Period
+(e.g.Term 1 Week 2)</th>
+      </tr>
+    </thead>
+    <tbody>
