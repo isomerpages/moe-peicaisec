@@ -71,5 +71,3 @@ Completion and submission of work will be closely monitored and tracked by your 
 1.	Form Teachers and Subject Teachers follow up.<br />
 2.	Parents will be informed, and you will have to complete the work by the next deadline set by teacher or you will stay back the next day to complete your work in school.<br />
 3.	If you are unable to complete work due to extenuating circumstances, you should inform your teachers immediately.<br />
-4.	
-
