@@ -52,4 +52,16 @@ In order to have a fruitful HBL day, you should ensure that:<br/>
 •	You read the SLS lesson’s ‘Lesson Description’ carefully before starting. You use the expected duration stated in each lesson to plan a schedule for the day.<br/>
 •	You stay focused during the 6-hour timeslot (8.20 am to 2.35pm; inclusive of 20-min breaks between subject lessons) to complete the learning tasks assigned for the day.<br/>
 •	You reach out to your teachers if you face difficulties in completing the tasks assigned.<br/>
-• You spend at least 60 mins on their chosen Student-Initiated Learning (SIL) task and complete your SIL Reflection
+• You spend at least 60 mins on their chosen Student-Initiated Learning (SIL) task and complete your SIL Reflection<br/>
+
+(IV)	End of HBL day<br/>
+All lessons and work assigned must be completed and submitted (if necessary) by 6pm. If you face difficulties and require an extension of time for the completion of lessons or work assigned, you should reach out to and seek permission for time extension from your Subject Teachers.<br/>
+(V)	Learning Dispositions to Adopt
+HBL days and the learning tasks are designed to encourage self-directedness in you. The following are some positive learning dispositions that you should adopt:<br/>
+•	Innovation – Be a critical and creative thinker when approaching and attempting the learning tasks. <br/>
+•	Collaboration – Collaborate and learn with classmates (e.g., through the SLS Interactive Thinking Routines)<br/>
+•	Autonomy – Be an independent learner and disciplined in completing your learning tasks.<br/>
+•	Resilience – Keep trying until successful; do not give up just because learning tasks are long, tedious and tough. <br/>
+•	Enthusiasm – Be excited about learning and be amazed by the wonderment and awe of acquiring new knowledge and skills. Extend a helping hand towards classmates who are having difficulties.<br/>
+
+
