@@ -98,17 +98,17 @@ third_nav_title: CCE
 <thead>
 <tr>
 <td width="112">
-<p><strong>UNIT</strong></p>
+	<p><font size="3"><strong>UNIT</strong></font></p>
 </td>
 <td width="170">
-<p><strong>LESSONS / DURATION</strong></p>
+	<p><font size="3"><strong>LESSONS / DURATION</strong></font></p>
 </td>
 <td width="483">
-<p><strong>Lesson Objectives</strong></p>
-<p><strong>At the end of the lesson, students will be able to:</strong></p>
+	<p><font size="3"><strong>Lesson Objectives</strong></font></p>
+	<p><font size="3"><strong>At the end of the lesson, students will be able to:</strong></font></p>
 </td>
 <td width="165">
-<p><strong>TIME PERIOD</strong></p>
+	<p><font size="3"><strong>TIME PERIOD</strong></font></p>
 </td>
 </tr>
 </thead>
