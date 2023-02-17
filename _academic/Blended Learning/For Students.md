@@ -4,7 +4,7 @@ permalink: /academic/blended-learning/for-students/
 description: ""
 third_nav_title: Blended Learning
 ---
-<h4><strong>Expectations of Students on Home-Based Learning (HBL) Days</strong></h4></b>
+<h4><strong>Expectations of Students on Home-Based Learning (HBL) Days</strong></h4>
 <b>Objectives of HBL days</b><br />
 Through regular HBL, the school aims to develop you into self-directed and independent learners, as well as nurture you into passionate and intrinsically motivated individuals. To this end, lessons on HBL days will be self-paced – the teachers provide you the resources, you plan and complete the work  assigned in your own time.<br />
 
@@ -77,7 +77,7 @@ Completion and submission of work will be closely monitored and tracked by your 
 2.	Parents will be informed, and you will have to complete the work by the next deadline set by teacher or you will stay back the next day to complete your work in school.<br />
 3.	If you are unable to complete work due to extenuating circumstances, you should inform your teachers immediately.<br />
 
-<h4><strong><b>Student Guides</b></strong></h4><br />
+<h4><strong><b>Student Guides</b></strong></h4>
 Login for Student iCON<br />
 •	[https://workspace.google.com/dashboard](https://workspace.google.com/dashboard)<br />
 Login for SLS<br />
