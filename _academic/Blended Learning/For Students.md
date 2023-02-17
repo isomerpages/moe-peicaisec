@@ -35,11 +35,12 @@ You can expect the following features of a HBL day:<br />
 <b>Expectations of Students</b><br />
 	(I)	Readiness for Learning
 You should ensure that you are ready for learning at the start of the day by:<br />
-•	Being appropriately dressed (you do not need to be in school uniform) for Morning Check-in which will take place for every first HBL of the month.<br /> 
-•	Personal learning devices (PLDs) should be fully charged or plugged in.<br />
-•	Being seated as you would be in the classroom, i.e. not in bed, reclining on the sofa, etc.<br />
-•	Logging into SLS and checking the announcements and assigned lessons for the day.<br />
-•	Reading the lesson description for each assigned SLS lesson carefully.<br />
+<ul>
+<li>Being appropriately dressed (you do not need to be in school uniform) for Morning Check-in which will take place for every first HBL of the month.</li> 
+	<li>Personal learning devices (PLDs) should be fully charged or plugged in.</li>
+	<li>Being seated as you would be in the classroom, i.e. not in bed, reclining on the sofa, etc.</li>
+	<li>Logging into SLS and checking the announcements and assigned lessons for the day.</li>
+	<li>Reading the lesson description for each assigned SLS lesson carefully.</li></ul>
 
 (II)	Start of HBL day
 HBL day commences at 8.20 am with you logging in to Zoom for Morning Check-in for every first HBL of the month. If you are late for Morning Check-In, you should contact your Form Teacher(s) and inform them.<br/>
@@ -52,22 +53,24 @@ Subjects featured on HBL day are the same as the timetable for that day. Subject
 assign SLS lessons containing instructions for the day’s learning tasks before 8.20 am on HBL days.<br/>
 
 In order to have a fruitful HBL day, you should ensure that:<br/>
-•	You have all the learning materials (eg. textbook, notes and writing materials) required before you start the asynchronous lesson.<br/>
-•	You read the SLS lesson’s ‘Lesson Description’ carefully before starting. You use the expected duration stated in each lesson to plan a schedule for the day.<br/>
-•	You stay focused during the 6-hour timeslot (8.20 am to 2.35pm; inclusive of 20-min breaks between subject lessons) to complete the learning tasks assigned for the day.<br/>
-•	You reach out to your teachers if you face difficulties in completing the tasks assigned.<br/>
-• You spend at least 60 mins on their chosen Student-Initiated Learning (SIL) task and complete your SIL Reflection<br/>
+<ul>
+<li>You have all the learning materials (eg. textbook, notes and writing materials) required before you start the asynchronous lesson.</li>
+<li>You read the SLS lesson’s ‘Lesson Description’ carefully before starting. You use the expected duration stated in each lesson to plan a schedule for the day.</li>
+<li>You stay focused during the 6-hour timeslot (8.20 am to 2.35pm; inclusive of 20-min breaks between subject lessons) to complete the learning tasks assigned for the day.</li>
+	<li>You reach out to your teachers if you face difficulties in completing the tasks assigned.</li>
+<li>You spend at least 60 mins on their chosen Student-Initiated Learning (SIL) task and complete your SIL Reflection</li></ul>
 
 (IV)	End of HBL day<br/>
 All lessons and work assigned must be completed and submitted (if necessary) by 6pm. If you face difficulties and require an extension of time for the completion of lessons or work assigned, you should reach out to and seek permission for time extension from your Subject Teachers.<br/>
 
 (V)	Learning Dispositions to Adopt
 HBL days and the learning tasks are designed to encourage self-directedness in you. The following are some positive learning dispositions that you should adopt:<br/>
-•	Innovation – Be a critical and creative thinker when approaching and attempting the learning tasks. <br/>
-•	Collaboration – Collaborate and learn with classmates (e.g., through the SLS Interactive Thinking Routines)<br/>
-•	Autonomy – Be an independent learner and disciplined in completing your learning tasks.<br/>
-•	Resilience – Keep trying until successful; do not give up just because learning tasks are long, tedious and tough. <br/>
-•	Enthusiasm – Be excited about learning and be amazed by the wonderment and awe of acquiring new knowledge and skills. Extend a helping hand towards classmates who are having difficulties.<br/>
+<ul>
+<li>Innovation – Be a critical and creative thinker when approaching and attempting the learning tasks. </li>
+<li>Collaboration – Collaborate and learn with classmates (e.g., through the SLS Interactive Thinking Routines)</li>
+	<li>Autonomy – Be an independent learner and disciplined in completing your learning tasks.</li>
+<li>Resilience – Keep trying until successful; do not give up just because learning tasks are long, tedious and tough. </li>
+<li>Enthusiasm – Be excited about learning and be amazed by the wonderment and awe of acquiring new knowledge and skills. Extend a helping hand towards classmates who are having difficulties.</li>
 
 <b>General Rules for HBL</b><br />
 (I)	Code of Conduct (Cyber Etiquette)
