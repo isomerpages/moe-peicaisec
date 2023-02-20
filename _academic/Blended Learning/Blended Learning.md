@@ -43,7 +43,7 @@ third_nav_title: Blended Learning
 </tr>
 </tbody>
 </table>
-<p>On HBL days, students will have largely asynchronous lessons. The lesson resources will be assigned to students via&nbsp;<a href="http://www.vle.learning.moe.edu.sg/" target="_blank" rel="noopener">Student Learning Space</a>.&nbsp;The schedule for HBL will follow students' class timetable to ensure learning continues for every subject. Students will also have scheduled time with their Form Teachers via Form Teacher Check-In (using Zoom) on HBL days so that the Form Teachers can continue to provide necessary support and guidance. Time is also set aside for Student-Initiated Learning (SIL) for students to pursue learning in areas of their interests and learn outside of the curriculum. The following shows the structure of a typical HBL day.</p>
+<p>On HBL days, students will have largely asynchronous lessons. The lesson resources will be assigned to students via&nbsp;<a href="https://vle.learning.moe.edu.sg/login/" target="_blank" rel="noopener">Student Learning Space</a>.&nbsp;The schedule for HBL will follow students' class timetable to ensure learning continues for every subject. Students will also have scheduled time with their Form Teachers via Form Teacher Check-In (using Zoom) on HBL days so that the Form Teachers can continue to provide necessary support and guidance. Time is also set aside for Student-Initiated Learning (SIL) for students to pursue learning in areas of their interests and learn outside of the curriculum. The following shows the structure of a typical HBL day.</p>
 <p><strong>Typical Structure for HBL day</strong></p>
 <table>
 <tbody>
