@@ -71,7 +71,10 @@ HBL days and the learning tasks are designed to encourage self-directedness in y
 	<li>Autonomy – Be an independent learner and disciplined in completing your learning tasks.</li>
 <li>Resilience – Keep trying until successful; do not give up just because learning tasks are long, tedious and tough. </li>
 <li>Enthusiasm – Be excited about learning and be amazed by the wonderment and awe of acquiring new knowledge and skills. Extend a helping hand towards classmates who are having difficulties.</li><br/>
-	<p><b>General Rules for HBL</b><br />
+	
+	
+	
+<p><b>General Rules for HBL</b><br />
 (I)	Code of Conduct (Cyber Etiquette)
 You should refer to and abide by the guidelines for Cyber Etiquette as laid out in Peicai Secondary School’s Code of Conduct (CoC).</p><br />
 
