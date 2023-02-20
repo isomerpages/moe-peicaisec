@@ -81,7 +81,7 @@ You should refer to and abide by the guidelines for Cyber Etiquette as laid out 
 <h4><strong>Student Guides</strong></h4>	
 <a href="https://workspace.google.com/dashboard" target="\_blank" rel="noopener">Login for Student iCON</a>      
 <br><br>
-<a href=" https://vle.learning.moe.edu.sg/login" target="\_blank" rel="noopener">Login for SLS</a>      
+<a href=" https://vle.learning.moe.edu.sg/login" target="\_blank" rel="noopener">Login for SLS</a><br>      
 
 Students who need help to reset password or unlock account for students' iCON email or SLS can click  
 <a href="https://www.form.gov.sg/610c7f6b22cd6800125e3a6a/" target="\_blank" rel="noopener">here</a> to submit the form.
