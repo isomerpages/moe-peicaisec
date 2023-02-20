@@ -82,8 +82,7 @@ You should refer to and abide by the guidelines for Cyber Etiquette as laid out 
 •	Login for SLS<br>
 	 https://vle.learning.moe.edu.sg/login <br><br>
 You can log in to SLS using your SLS username or your Student iCON login credentials. <br><br>
-Students who need help to reset password or unlock account for students' iCON email or SLS can submit their request at this click link below: 
-	
+Students who need help to reset password or unlock account for students' iCON email or SLS can submit their request at this
 (https://www.form.gov.sg/610c7f6b22cd6800125e3a6a).<br/>
 </p><br>
 	<p><br></p>
