@@ -78,12 +78,11 @@ HBL days and the learning tasks are designed to encourage self-directedness in y
 (I)	Code of Conduct (Cyber Etiquette)
 You should refer to and abide by the guidelines for Cyber Etiquette as laid out in Peicai Secondary School’s Code of Conduct (CoC).<br><br>(II)	Submission and Completion of WorkCompletion and submission of work will be closely monitored and tracked by your subject teachers. Willful neglect of your HBL work will not be tolerated and you will be taken to task in accordance with the consequence plan laid out in the school’s CoC:<br>1.	Form Teachers and Subject Teachers follow up.<br>2.	Parents will be informed, and you will have to complete the work by the next deadline set by teacher or you will stay back the next day to complete your work in school.<br>3.	If you are unable to complete work due to extenuating circumstances, you should inform your teachers immediately.<br>
 	
-<h4><strong>Student Guides</strong></h4><br>	
-	•[Login for Student iCON](https://workspace.google.com/dashboard/)<br>	        
+<h4><strong>Student Guides</strong></h4>	
+<a href="https://workspace.google.com/dashboard" target="\_blank" rel="noopener">Login for Student iCON</a>      
 <br><br>
-•	Login for SLS<br>
-	 https://vle.learning.moe.edu.sg/login <br><br>
-You can log in to SLS using your SLS username or your Student iCON login credentials. <br><br>
+<a href=" https://vle.learning.moe.edu.sg/login" target="\_blank" rel="noopener">Login for SLS</a>      
+
 Students who need help to reset password or unlock account for students' iCON email or SLS can click  
 <a href="https://www.form.gov.sg/610c7f6b22cd6800125e3a6a/" target="\_blank" rel="noopener">here</a> to submit the form.
 <br/>
