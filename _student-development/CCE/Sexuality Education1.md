@@ -1154,4 +1154,9 @@ are the key messages. The desired outcome of the eTeens programme is that studen
   mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
   major-latin;mso-ansi-language:EN-GB" lang="EN-GB">Term 3 Week 9</span></p></td></tr></tbody></table><br/>
 	<b>Information for Parents</b><br/>
+10.  Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers.<br/>
+11.  Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable here.The completed form is to be submitted by 27/01/2023.<br/>
+12.  Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable here. The completed form is to be submitted by 27/01/2023.<br/>
+13.  Parents can contact the school peicai_ss@moe.edu.sg or 62884159 for discussion or to seek clarification about the school’s Sexuality Education programme.<br/>
+
 	
