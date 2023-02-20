@@ -1152,6 +1152,5 @@ are the key messages. The desired outcome of the eTeens programme is that studen
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:33.25pt" width="247"><p style="margin-bottom:0in;text-align:center;
   line-height:16.8pt" align="center" class="MsoNormal"><span style="font-family:&quot;Calibri Light&quot;,sans-serif;
   mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
-  major-latin;mso-ansi-language:EN-GB" lang="EN-GB">Term 3 Week 9</span></p></td></tr></tbody></table>
-	<b>Information for Parents</b>
-	
+  major-latin;mso-ansi-language:EN-GB" lang="EN-GB">Term 3 Week 9</span></p></td></tr></tbody></table><br/>
+	<b>Information for Parents</b><br/>
