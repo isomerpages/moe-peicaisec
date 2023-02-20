@@ -2,7 +2,6 @@ collections:
   restore-pages:
     output: true
     order:
-      - Sexuality Education.md
       - Letters to Parents.md
       - Subject Overview 1.md
       - School Assessments.md
@@ -14,3 +13,4 @@ collections:
       - School Events.md
       - CCA.md
       - Dummypage.md
+      - Sexuality Education.md
