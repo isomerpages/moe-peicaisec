@@ -40,7 +40,8 @@ and an understanding of the possible consequences of sexual behaviour.<br> 7. Th
 character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.<br>
 <b>At Peicai Secondary School, the following Sexuality Education lessons will be taught in 2023:</b><br>
 2023 Sexuality Education Lessons in CCE 2021<br>
-<font size="2"><table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+
+<table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-table-lspace:9.0pt;margin-left:6.75pt;mso-table-rspace:
  9.0pt;margin-right:6.75pt;mso-table-anchor-vertical:margin;mso-table-anchor-horizontal:
  column;mso-table-left:left;mso-table-top:22.5pt;mso-padding-alt:0in 5.4pt 0in 5.4pt" align="left" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:19.8pt"><td style="width:120.3pt;border:solid windowtext 1.0pt;
@@ -1086,4 +1087,4 @@ segment and a classroom-based programme.<br>
 9.       Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. 
 They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values 
 are the key messages. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.<br> 
-<b>At Peicai Secondary School, the eTeens programme will be implemented as follows in 2023:</b><br></font>
+<b>At Peicai Secondary School, the eTeens programme will be implemented as follows in 2023:</b><br>
