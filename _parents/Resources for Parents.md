@@ -4,7 +4,7 @@ permalink: /parents/resources-for-parents/
 description: ""
 ---
 <b> Supporting your child on HBL days</b><br>
-Please click HERE for more information.<br>
+Please click[HERE](How do I support my child on regular HBL Day_9May.pdf) for more information.<br>
 Device Management Application (DMA)<br>
 The Parent Guide for each DMA option is as shown below:<br>
 
