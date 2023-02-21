@@ -12,4 +12,4 @@ description: ""
 <li>Clubs and Societies</li>
 </ul>
 <h4><strong>CCA Weekly Schedule 2023</strong></h4>
-<img src="/images/CCA Schedule 2023.jpeg" style="width: 70%;">
+<img src="/images/CCA Schedule 2023.jpeg" style="width: 60%;">
