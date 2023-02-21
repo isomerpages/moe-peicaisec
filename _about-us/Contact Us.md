@@ -12,5 +12,4 @@ description: ""
 <b>Visitors to School</b><br>
 All visitors will need to report to the security guard post for registration upon entering the school gates.<br><br>
 Visitors have to wear their identification tags at all times while in the school compound.<br> <br>
-As parking spaces in the school are very limited, visitors/parents/guardians who are driving to school are requested to park your vehicles at the HDB carparks (for Blocks 218 - 222, Serangoon Avenue 4) which is about 1 minute walk from the school.
-
+As parking spaces in the school are very limited, visitors/parents/guardians who are driving to school are requested to park your vehicles at the HDB carparks (for Blocks 218 - 222, Serangoon Avenue 4) which is about 1 minute walk from the school.<br>
