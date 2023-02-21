@@ -7,7 +7,6 @@ description: ""
 Please click[HERE](How do I support my child on regular HBL Day_9May.pdf) for more information.<br>
 Device Management Application (DMA)<br>
 The Parent Guide for each DMA option is as shown below:<br>
-
 <a href="/files/DMA Parent Guide for Option A for iPadOS1.pdf">DMA Parent Guide for Option B for iPadOS</a><br>
 <a href="/files/DMA Parent Guide for Option B for iPadOS1.pdf ">DMA Parent Guide for Option B for iPadOS</a><br>
 <a href="/files/DMA Parent Guide for Default Option for iPadOS1.pdf ">DMA Parent Guide for Default Option for iPadOS </a>
