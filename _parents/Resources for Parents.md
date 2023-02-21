@@ -8,7 +8,8 @@ Please click[HERE](How do I support my child on regular HBL Day_9May.pdf) for mo
 Device Management Application (DMA)<br>
 The Parent Guide for each DMA option is as shown below:<br>
 
-[DMA Parent Guide for Option B for iPadOS](DMA Parent Guide for Option A for iPadOS1.pdf)<br>
+<a href="/files/DMA Parent Guide for Option A for iPadOS1.pdf">DMA Parent Guide for Option B for iPadOS</a>
+DMA Parent Guide for Option B for iPadOS<br>
 DMA Parent Guide for Option B for iPadOS.pdf<br>
 DMA Parent Guide for Default Option for iPadOS.pdf<br>
 If you wish to change your DMA option or update your new email address for Parents’ portal, please click on the link https://go.gov.sg/pcss-dma-change-request to submit your request. The changes to DMA options will be effected at the end of each Term.
