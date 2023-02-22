@@ -11,5 +11,5 @@ The Parent Guide for each DMA option is as shown below:<br>
 <a href="/files/DMA Parent Guide for Option B for iPadOS1.pdf ">DMA Parent Guide for Option B for iPadOS</a><br>
 <a href="/files/DMA Parent Guide for Default Option for iPadOS1.pdf ">DMA Parent Guide for Default Option for iPadOS </a>
 
-<p align="justify">If you wish to change your DMA option or update your new email address for Parents’ portal, please click on the link<a href="https:// https://go.gov.sg/pcss-dma-change-request/login/" target="_blank" rel="noopener">https://go.gov.sg/pcss-dma-change-request</a>  to submit your request. Please note that the changes to DMA options will be effected at the end of each Term.<br><br>
+<p align="justify">If you wish to change your DMA option or update your new email address for Parents’ portal, please click on the link<a href="https:// https://go.gov.sg/pcss-dma-change-request/login/">https://go.gov.sg/pcss-dma-change-request</a>  to submit your request. Please note that the changes to DMA options will be effected at the end of each Term.<br><br>
 If you have any technical issues relating to DMA matters, you may email to<u> <a href="mailto:peicai_ss@moe.edu.sg">peicai_ss@moe.edu.sg</a> </u>with the title “DMA Query”. <br>
