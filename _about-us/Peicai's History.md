@@ -8,7 +8,7 @@ description: ""
 <h4><strong>Past Principals</strong></h4>
 <table>
 <tbody>
-<tr><p align="justify">
+<tr>
 <td>1984 - 1985</td>
 	<td>Mr Tan Yong Hui</td>
 </tr>
