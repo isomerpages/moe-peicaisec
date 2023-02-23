@@ -71,7 +71,7 @@ description: ""
 <td style="text-align: center;" width="208">
 <p><a href="/files/Geography_1NA_Sem12023.pdf">Geography</a><br /><a href="/files/History_1NA_%20Sem12023.pdf">History</a></p>
 </td>
-<td style="text-align: center;" width="208"><a href="/files/SS_1NT_Sem12023.pdf">Social Studies</a></td>
+<td style="text-align: center;" width="208"><p><a href="/files/SS_1NT_Sem12023.pdf">Social Studies</a></p></td>
 </tr>
 <tr>
 <td style="text-align: center;" width="208">
