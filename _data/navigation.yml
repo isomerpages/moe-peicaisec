@@ -3,9 +3,7 @@ links:
   - title: About Us
     url: /about-us/principal-s-message
     sublinks:
-      - title: Principal's Message1
-        url: /about-us/principal-s-message1
-      - title: Principal’s Message
+      - title: Principal's Message
         url: /about-us/principal-s-message
       - title: Peicai's History
         url: /about-us/peicais-history
