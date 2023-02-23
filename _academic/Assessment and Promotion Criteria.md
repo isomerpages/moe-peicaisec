@@ -7,6 +7,7 @@ description: ""
 <h4><strong>The Grading System</strong></h4>
 <table>
 <tbody>
+<tr>
 <td style="text-align: center;">Marks</td>
 <td style="text-align: center;">75 &amp; Above</td>
 <td style="text-align: center;">70 - 74</td>
@@ -17,6 +18,7 @@ description: ""
 <td style="text-align: center;">45 -49</td>
 <td style="text-align: center;">40 - 44</td>
 <td style="text-align: center;">39 &amp; Below</td>
+</tr>
 <tr>
 <td style="text-align: center;">Express &amp; Sec 5 Normal (Academic)</td>
 <td style="text-align: center;">A1&nbsp;</td>
