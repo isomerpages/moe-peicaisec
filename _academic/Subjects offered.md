@@ -8,7 +8,7 @@ description: ""
 <tbody>
 <tr style="height: 36px;">
 <th style="text-align: center; height: 36px; width: 203.359px;">
-	<p><font size="3">Craft &amp; Technology</font></p>
+	<p>Craft &amp; Technology</p>
 </th>
 <th style="text-align: center; height: 36px; width: 242.234px;">
 	<p>English Language and Literature</p>
