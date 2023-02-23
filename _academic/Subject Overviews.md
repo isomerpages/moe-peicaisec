@@ -10,83 +10,83 @@ description: ""
 <table>
 <tbody>
 <tr>
-<td style="text-align: center;" width="208">
+<td width="208" style="text-align: center;">
 <p><strong><u>Express</u></strong></p>
 </td>
-<td style="text-align: center;" width="208">
+<td width="208" style="text-align: center;">
 <p><strong><u>Normal (Academic)</u></strong></p>
 </td>
-<td style="text-align: center;" width="208">
+<td width="208" style="text-align: center;">
 <p><strong><u>Normal (Technical)</u></strong></p>
 </td>
 </tr>
 <tr>
-<td style="text-align: center;" width="208">
-<p><a href="/files/English%20Language_1EXP_Sem1%202023.pdf">English Language</a><br /><a href="/files/Literature_1EXP%20Subject%20Overview.pdf">English Literature</a></p>
+<td width="208" style="text-align: center;">
+<p><a href="/files/English%20Language_1EXP_Sem1%202023.pdf">English Language</a><br><a href="/files/Literature_1EXP%20Subject%20Overview.pdf">English Literature</a></p>
 </td>
-<td style="text-align: center;" width="208">
-<p><a href="/files/English%20Language_1NA_Sem1%202023.pdf">English Language</a><br /><a href="/files/Literature_1NA%20Subject%20Overview.pdf">English Literature</a></p>
+<td width="208" style="text-align: center;">
+<p><a href="/files/English%20Language_1NA_Sem1%202023.pdf">English Language</a><br><a href="/files/Literature_1NA%20Subject%20Overview.pdf">English Literature</a></p>
 </td>
-<td style="text-align: center;" width="208">
+<td width="208" style="text-align: center;">
 <p><a href="/files/English%20Language_1NT_Sem1%202023.pdf">English Language</a></p>
 </td>
 </tr>
 <tr>
-<td style="text-align: center;" width="208">
-<p><a href="/files/Chinese%20Language_1Exp_Sem12023.pdf">Chinese</a><br /><a href="/files/Chinese%20Language_1HCL_Sem12023.pdf">Higher Chinese</a><br /><a href="/files/Malay%20Language_1EXP_Sem%2012023.pdf">Malay</a></p>
+<td width="208" style="text-align: center;">
+<p><a href="/files/Chinese%20Language_1Exp_Sem12023.pdf">Chinese</a><br><a href="/files/Chinese%20Language_1HCL_Sem12023.pdf">Higher Chinese</a><br><a href="/files/Malay%20Language_1EXP_Sem%2012023.pdf">Malay</a></p>
 </td>
-<td style="text-align: center;" width="208">
-<p><a href="/files/Chinese%20Language_1NA_Sem12023.pdf">Chinese</a><br /><a href="/files//Malay%20Language_1NA_Sem12023.pdf">Malay</a></p>
+<td width="208" style="text-align: center;">
+<p><a href="/files/Chinese%20Language_1NA_Sem12023.pdf">Chinese</a><br><a href="/files//Malay%20Language_1NA_Sem12023.pdf">Malay</a></p>
 </td>
-<td style="text-align: center;" width="208">
-<p><a href="/files/Chinese%20Language_1NT_Sem12023.pdf">Basic Chinese</a><br /><a href="/files/Malay%20Language_1NT_Sem12023.pdf">Basic Malay</a></p>
+<td width="208" style="text-align: center;">
+<p><a href="/files/Chinese%20Language_1NT_Sem12023.pdf">Basic Chinese</a><br><a href="/files/Malay%20Language_1NT_Sem12023.pdf">Basic Malay</a></p>
 </td>
 </tr>
 <tr>
-<td style="text-align: center;" width="208">
+<td width="208" style="text-align: center;">
 <p><a href="/files/Maths_1EXP_Sem12023.pdf">Mathematics</a></p>
 </td>
-<td style="text-align: center;" width="208">
+<td width="208" style="text-align: center;">
 <p><a href="/files/Maths_1NA_Sem12023.pdf">Mathematics</a></p>
 </td>
-<td style="text-align: center;" width="208">
-<p><a href="/files/Math_1NT_Sem12023.pdf">Mathematics</a><br /><a href="/files/CPA_1NT_Sem%201%202023.pdf">Computer Applications</a></p>
+<td width="208" style="text-align: center;">
+<p><a href="/files/Math_1NT_Sem12023.pdf">Mathematics</a><br><a href="/files/CPA_1NT_Sem%201%202023.pdf">Computer Applications</a></p>
 </td>
 </tr>
 <tr>
-<td style="text-align: center;" width="208">
+<td width="208" style="text-align: center;">
 <p><a href="/files/Science_1EXP_Sem12023.pdf">Science</a></p>
 </td>
-<td style="text-align: center;" width="208">
+<td width="208" style="text-align: center;">
 <p><a href="/files/Science_1NA_Sem12023.pdf">Science</a></p>
 </td>
-<td style="text-align: center;" width="208">
+<td width="208" style="text-align: center;">
 <p><a href="/files/Science_1NT_Sem12023.pdf">Science</a></p>
 </td>
 </tr>
 <tr>
-<td style="text-align: center;" width="208">
-<p><a href="/files/Geography_1EX_SEM12023.pdf">Geography</a><br /><a href="/files/History_1EX_%20Sem12023.pdf">History</a></p>
+<td width="208" style="text-align: center;">
+<p><a href="/files/Geography_1EX_SEM12023.pdf">Geography</a><br><a href="/files/History_1EX_%20Sem12023.pdf">History</a></p>
 </td>
-<td style="text-align: center;" width="208">
-<p><a href="/files/Geography_1NA_Sem12023.pdf">Geography</a><br /><a href="/files/History_1NA_%20Sem12023.pdf">History</a></p>
+<td width="208" style="text-align: center;">
+<p><a href="/files/Geography_1NA_Sem12023.pdf">Geography</a><br><a href="/files/History_1NA_%20Sem12023.pdf">History</a></p>
 </td>
-<td style="text-align: center;" width="208"><p><a href="/files/SS_1NT_Sem12023.pdf">Social Studies</a></p></td>
+<td width="208" style="text-align: center;"><p><a href="/files/SS_1NT_Sem12023.pdf">Social Studies</a></p></td>
 </tr>
 <tr>
-<td style="text-align: center;" width="208">
-<p><a href="/files/Art_Sec1_Sem12023.pdf">Art</a><br /><a href="/files/Subject%20Overview_DT_1E.pdf">Design and Technology</a><br /><a href="/files/Music_Sec%201_%20Sem12023%20.pdf">Music</a></p>
+<td width="208" style="text-align: center;">
+<p><a href="/files/Art_Sec1_Sem12023.pdf">Art</a><br><a href="/files/Subject%20Overview_DT_1E.pdf">Design and Technology</a><br><a href="/files/Music_Sec%201_%20Sem12023%20.pdf">Music</a></p>
 </td>
-<td style="text-align: center;" width="208">
-<p><a href="/files/Art_Sec1_Sem12023.pdf">Art</a><br /><a href="/files/Subject%20Overview_DT_1NA.pdf">Design and Technology</a><br /><a href="/files/Music_Sec%201_%20Sem12023%20.pdf">Music</a></p>
+<td width="208" style="text-align: center;">
+<p><a href="/files/Art_Sec1_Sem12023.pdf">Art</a><br><a href="/files/Subject%20Overview_DT_1NA.pdf">Design and Technology</a><br><a href="/files/Music_Sec%201_%20Sem12023%20.pdf">Music</a></p>
 </td>
-<td style="text-align: center;" width="208">
-<p><a href="/files/Art_Sec1_Sem12023.pdf">Art</a><br /><a href="/files/Subject%20Overview_DT_1NT.pdf">Design and Technology</a><br /><a href="/files/Music_Sec%201_%20Sem12023%20.pdf">Music</a></p>
+<td width="208" style="text-align: center;">
+<p><a href="/files/Art_Sec1_Sem12023.pdf">Art</a><br><a href="/files/Subject%20Overview_DT_1NT.pdf">Design and Technology</a><br><a href="/files/Music_Sec%201_%20Sem12023%20.pdf">Music</a></p>
 </td>
 </tr>
 <tr>
-<td style="text-align: center;" colspan="3">
-<p><strong>Physical Education<br /></strong><a href="/files/PE_1-1_Sem12023.pdf">1Innovation</a> <a href="/files/PE_1-2_1-4_Sem12023.pdf">1Excellence/1Passion</a> <a href="/files/PE_1-3_Sem12023.pdf">1Collaboration</a> <a href="/files/PE_1-5_Sem12023.pdf">1Care</a> <a href="/files/PE_1-6_Sem12023.pdf">1Resilience&nbsp;</a> <a href="/files/PE_1-7_Sem12023.pdf">1Creativity</a></p>
+<td colspan="3" style="text-align: center;">
+<p><strong>Physical Education<br></strong><a href="/files/PE_1-1_Sem12023.pdf">1Innovation</a> <a href="/files/PE_1-2_1-4_Sem12023.pdf">1Excellence/1Passion</a> <a href="/files/PE_1-3_Sem12023.pdf">1Collaboration</a> <a href="/files/PE_1-5_Sem12023.pdf">1Care</a> <a href="/files/PE_1-6_Sem12023.pdf">1Resilience&nbsp;</a> <a href="/files/PE_1-7_Sem12023.pdf">1Creativity</a></p>
 </td>
 </tr>
 </tbody>
@@ -95,83 +95,83 @@ description: ""
 <table>
 <tbody>
 <tr>
-<td style="text-align: center;" width="208">
+<td width="208" style="text-align: center;">
 <p><strong><u>Express</u></strong></p>
 </td>
-<td style="text-align: center;" width="208">
+<td width="208" style="text-align: center;">
 <p><strong><u>Normal (Academic)</u></strong></p>
 </td>
-<td style="text-align: center;" width="208">
+<td width="208" style="text-align: center;">
 <p><strong><u>Normal (Technical)</u></strong></p>
 </td>
 </tr>
 <tr>
-<td style="text-align: center;" width="208">
-<p><a href="/files/English%20Language_2EXP_Sem1%202023.pdf">English Language</a><br /><a href="/files/Literature_2EXP%20Subject%20Overview.pdf">English Literature</a></p>
+<td width="208" style="text-align: center;">
+<p><a href="/files/English%20Language_2EXP_Sem1%202023.pdf">English Language</a><br><a href="/files/Literature_2EXP%20Subject%20Overview.pdf">English Literature</a></p>
 </td>
-<td style="text-align: center;" width="208">
-<p><a href="/files/English%20Language_2NA_Sem1%202023.pdf">English Language</a><br /><a href="/files/Literature_2NA%20Subject%20Overview.pdf">English Literature</a></p>
+<td width="208" style="text-align: center;">
+<p><a href="/files/English%20Language_2NA_Sem1%202023.pdf">English Language</a><br><a href="/files/Literature_2NA%20Subject%20Overview.pdf">English Literature</a></p>
 </td>
-<td style="text-align: center;" width="208">
+<td width="208" style="text-align: center;">
 <p><a href="/files/English%20Language_2NT_Sem1%202023.pdf">English Language</a></p>
 </td>
 </tr>
 <tr>
-<td style="text-align: center;" width="208">
-<p><a href="/files/Chinese%20Language_2EXP_Sem12023.pdf">Chinese</a><br /><a href="/files/Malay%20Language_2EXP_Sem12023.pdf">Malay</a></p>
+<td width="208" style="text-align: center;">
+<p><a href="/files/Chinese%20Language_2EXP_Sem12023.pdf">Chinese</a><br><a href="/files/Malay%20Language_2EXP_Sem12023.pdf">Malay</a></p>
 </td>
-<td style="text-align: center;" width="208">
-<p><a href="/files/Chinese%20Language_2NA_Sem12023.pdf">Chinese</a><br /><a href="/files/Malay%20Language_2NA_Sem12023.pdf">Malay</a></p>
+<td width="208" style="text-align: center;">
+<p><a href="/files/Chinese%20Language_2NA_Sem12023.pdf">Chinese</a><br><a href="/files/Malay%20Language_2NA_Sem12023.pdf">Malay</a></p>
 </td>
-<td style="text-align: center;" width="208">
-<p><a href="/files/Chinese%20Language_2NT_Sem12023.pdf">Basic Chinese</a><br /><a href="/files/Malay%20Language_2NT_Sem12023.pdf">Basic Malay</a></p>
+<td width="208" style="text-align: center;">
+<p><a href="/files/Chinese%20Language_2NT_Sem12023.pdf">Basic Chinese</a><br><a href="/files/Malay%20Language_2NT_Sem12023.pdf">Basic Malay</a></p>
 </td>
 </tr>
 <tr>
-<td style="text-align: center;" width="208">
+<td width="208" style="text-align: center;">
 <p><a href="/files/Math_2EXP_Sem12023.pdf">Mathematics</a></p>
 </td>
-<td style="text-align: center;" width="208">
+<td width="208" style="text-align: center;">
 <p><a href="/files/Math_2NA_Sem12023.pdf">Mathematics</a></p>
 </td>
-<td style="text-align: center;" width="208">
-<p><a href="/files/Math_2NT_Sem12023.pdf">Mathematics</a><br /><a href="/files/CPA_2NT_Sem%201%202023.pdf">Computer Applications</a></p>
+<td width="208" style="text-align: center;">
+<p><a href="/files/Math_2NT_Sem12023.pdf">Mathematics</a><br><a href="/files/CPA_2NT_Sem%201%202023.pdf">Computer Applications</a></p>
 </td>
 </tr>
 <tr>
-<td style="text-align: center;" width="208">
+<td width="208" style="text-align: center;">
 <p><a href="/files/Science_2EXP_Sem12023.pdf">Science</a></p>
 </td>
-<td style="text-align: center;" width="208">
+<td width="208" style="text-align: center;">
 <p><a href="/files/Science_2NA_Sem12023.pdf">Science</a></p>
 </td>
-<td style="text-align: center;" width="208">
+<td width="208" style="text-align: center;">
 <p><a href="/files/Science_2NT_Sem12023.pdf">Science</a></p>
 </td>
 </tr>
 <tr>
-<td style="text-align: center;" width="208">
-<p><a href="/files/Geography_2EX_Sem12023.pdf">Geography</a><br /><a href="/files/History_2EX_Sem12023.pdf">History</a></p>
+<td width="208" style="text-align: center;">
+<p><a href="/files/Geography_2EX_Sem12023.pdf">Geography</a><br><a href="/files/History_2EX_Sem12023.pdf">History</a></p>
 </td>
-<td style="text-align: center;" width="208">
-<p><a href="/files/Geography_2NA_Sem12023.pdf">Geography</a><br /><a href="/files/History_2NA_Sem12023.pdf">History</a></p>
+<td width="208" style="text-align: center;">
+<p><a href="/files/Geography_2NA_Sem12023.pdf">Geography</a><br><a href="/files/History_2NA_Sem12023.pdf">History</a></p>
 </td>
-<td style="text-align: center;" width="208"><a href="/files/SS_2NT_Sem12023.pdf">Social Studies</a></td>
+<td width="208" style="text-align: center;"><p>Social Studies</p></td>
 </tr>
 <tr>
-<td style="text-align: center;" width="208">
-<p><a href="/files/Art_Sec2_Sem12023.pdf">Art</a><br /><a href="/files/2023%20Subject%20Overview_Sec%202%20Exp.pdf">Food and Consumer Education</a><br /><a href="/files/Music_Sec2_Sem%2012023.pdf">Music</a></p>
+<td width="208" style="text-align: center;">
+<p><a href="/files/Art_Sec2_Sem12023.pdf">Art</a><br><a href="/files/2023%20Subject%20Overview_Sec%202%20Exp.pdf">Food and Consumer Education</a><br><a href="/files/Music_Sec2_Sem%2012023.pdf">Music</a></p>
 </td>
-<td style="text-align: center;" width="208">
-<p><a href="/files/Art_Sec2_Sem12023.pdf">Art</a><br /><a href="/files/2023%20Subject%20Overview_Sec%202%20NA.pdf">Food and Consumer Education</a><br /><a href="/files/Music_Sec2_Sem%2012023.pdf">Music</a></p>
+<td width="208" style="text-align: center;">
+<p><a href="/files/Art_Sec2_Sem12023.pdf">Art</a><br><a href="/files/2023%20Subject%20Overview_Sec%202%20NA.pdf">Food and Consumer Education</a><br><a href="/files/Music_Sec2_Sem%2012023.pdf">Music</a></p>
 </td>
-<td style="text-align: center;" width="208">
-<p><a href="/files/Art_Sec2_Sem12023.pdf">Art</a><br /><a href="/files/2023%20Subject%20Overview_Sec%202%20NT.pdf">Food and Consumer Education</a><br /><a href="/files/Music_Sec2_Sem%2012023.pdf">Music</a></p>
+<td width="208" style="text-align: center;">
+<p><a href="/files/Art_Sec2_Sem12023.pdf">Art</a><br><a href="/files/2023%20Subject%20Overview_Sec%202%20NT.pdf">Food and Consumer Education</a><br><a href="/files/Music_Sec2_Sem%2012023.pdf">Music</a></p>
 </td>
 </tr>
 <tr>
-<td style="text-align: center;" colspan="3">
-<p><strong>Physical Education<br /></strong><a href="/files/PE_2A1_2C1_Sem12023.pdf">2A1/2C1</a> <a href="/files/PE_2A2_2B2_2C4_Sem12023.pdf">2A2/2B2/2C4</a> <a href="/files/PE_2B1_Sem12023.pdf">2B1</a> <a href="/files/PE_2B3_Sem12023.pdf">2B3</a> <a href="/files/PE_2C2_Sem12023.pdf">2C2</a> <a href="/files/PE_2C3_Sem12023.pdf">2C3</a></p>
+<td colspan="3" style="text-align: center;">
+<p><strong>Physical Education<br></strong><a href="/files/PE_2A1_2C1_Sem12023.pdf">2A1/2C1</a> <a href="/files/PE_2A2_2B2_2C4_Sem12023.pdf">2A2/2B2/2C4</a> <a href="/files/PE_2B1_Sem12023.pdf">2B1</a> <a href="/files/PE_2B3_Sem12023.pdf">2B3</a> <a href="/files/PE_2C2_Sem12023.pdf">2C2</a> <a href="/files/PE_2C3_Sem12023.pdf">2C3</a></p>
 </td>
 </tr>
 </tbody>
@@ -180,85 +180,85 @@ description: ""
 <table>
 <tbody>
 <tr>
-<td style="text-align: center;" width="208">
+<td width="208" style="text-align: center;">
 <p><strong><u>Express</u></strong></p>
 </td>
-<td style="text-align: center;" width="208">
+<td width="208" style="text-align: center;">
 <p><strong><u>Normal (Academic)</u></strong></p>
 </td>
-<td style="text-align: center;" width="208">
+<td width="208" style="text-align: center;">
 <p><strong><u>Normal (Technical)</u></strong></p>
 </td>
 </tr>
 <tr>
-<td style="text-align: center;" width="208">
+<td width="208" style="text-align: center;">
 <p><a href="/files/English%20Language_3EXP_Sem1%202023.pdf">English Language</a></p>
 </td>
-<td style="text-align: center;" width="208">
+<td width="208" style="text-align: center;">
 <p><a href="/files/English%20Language_3NA_Sem1%202023.pdf">English Language</a></p>
 </td>
-<td style="text-align: center;" width="208">
+<td width="208" style="text-align: center;">
 <p><a href="/files/English%20Language_3NT_Sem1%202023.pdf">English Language</a></p>
 </td>
 </tr>
 <tr>
-<td style="text-align: center;" width="208">
-<p><a href="/files/Chinese%20Language_3EXP_Sem12023.pdf">Chinese</a><br /><a href="/files/Chinese%20Language_3CLB_Sem12023.pdf">Chinese Syllabus B</a><br /><a href="/files/Chinese%20Language_3HCL_Sem12023.pdf">Higher Chinese</a><br /><a href="/files/Malay%20Language_3EXP_Sem12023.pdf">Malay</a></p>
+<td width="208" style="text-align: center;">
+<p><a href="/files/Chinese%20Language_3EXP_Sem12023.pdf">Chinese</a><br><a href="/files/Chinese%20Language_3CLB_Sem12023.pdf">Chinese Syllabus B</a><br><a href="/files/Chinese%20Language_3HCL_Sem12023.pdf">Higher Chinese</a><br><a href="/files/Malay%20Language_3EXP_Sem12023.pdf">Malay</a></p>
 </td>
-<td style="text-align: center;" width="208">
-<p><a href="/files/Chinese%20Language_3NA_Sem12023.pdf">Chinese</a><br /><a href="/files/Chinese%20Language_3CLB_Sem12023.pdf">Chinese Syllabus B</a><br /><a href="/files/Malay%20Language_3NA_Sem12023.pdf">Malay</a></p>
+<td width="208" style="text-align: center;">
+<p><a href="/files/Chinese%20Language_3NA_Sem12023.pdf">Chinese</a><br><a href="/files/Chinese%20Language_3CLB_Sem12023.pdf">Chinese Syllabus B</a><br><a href="/files/Malay%20Language_3NA_Sem12023.pdf">Malay</a></p>
 </td>
-<td style="text-align: center;" width="208">
-<p><a href="/files/Chinese%20Language_3NT_Sem12023.pdf">Basic Chinese</a><br /><a href="/files/Malay%20Language_3NT_Sem12023.pdf">Basic Malay</a></p>
+<td width="208" style="text-align: center;">
+<p><a href="/files/Chinese%20Language_3NT_Sem12023.pdf">Basic Chinese</a><br><a href="/files/Malay%20Language_3NT_Sem12023.pdf">Basic Malay</a></p>
 </td>
 </tr>
 <tr>
-<td style="text-align: center;" width="208">
-<p><a href="/files/Add%20Math_3Exp_Sem12023.pdf">Additional Mathematics</a><br /><a href="/files/Math_3%20Exp_Sem12023.pdf">Mathematics</a></p>
+<td width="208" style="text-align: center;">
+<p><a href="/files/Add%20Math_3Exp_Sem12023.pdf">Additional Mathematics</a><br><a href="/files/Math_3%20Exp_Sem12023.pdf">Mathematics</a></p>
 </td>
-<td style="text-align: center;" width="208">
-<p><a href="/files/AddMath_3NA_Sem%2012023.pdf">Additional Mathematics</a><br /><a href="/files/Math_3NA_Sem12023.pdf">Mathematics</a></p>
+<td width="208" style="text-align: center;">
+<p><a href="/files/AddMath_3NA_Sem%2012023.pdf">Additional Mathematics</a><br><a href="/files/Math_3NA_Sem12023.pdf">Mathematics</a></p>
 </td>
-<td style="text-align: center;" width="208">
+<td width="208" style="text-align: center;">
 <p><a href="/files/Math_3NT_Sem12023.pdf">Mathematics</a></p>
 </td>
 </tr>
 <tr>
-<td style="text-align: center;" width="208">
-<p><a href="/files/Biology_3EXP_Sem12023.pdf">Biology</a><br /><a href="/files/Chemistry_3EXP_Sem12023.pdf">Chemistry</a><br /><a href="/files/Physics_3EXP_Sem12023.pdf">Physics</a><br /><a href="/files/ScienceBiology_3EXP_Sem12023.pdf">Science Biology</a><br /><a href="/files/ScienceChemistry_3EXP_Sem12023.pdf">Science Chemistry</a><br /><a href="/files/SciencePhysics_3EXP_Sem12023.pdf">Science Physics</a></p>
+<td width="208" style="text-align: center;">
+<p><a href="/files/Biology_3EXP_Sem12023.pdf">Biology</a><br><a href="/files/Chemistry_3EXP_Sem12023.pdf">Chemistry</a><br><a href="/files/Physics_3EXP_Sem12023.pdf">Physics</a><br><a href="/files/ScienceBiology_3EXP_Sem12023.pdf">Science Biology</a><br><a href="/files/ScienceChemistry_3EXP_Sem12023.pdf">Science Chemistry</a><br><a href="/files/SciencePhysics_3EXP_Sem12023.pdf">Science Physics</a></p>
 </td>
-<td style="text-align: center;" width="208">
-<p><a href="/files/ScienceBiology_3NA_Sem12023.pdf">Science Biology</a><br /><a href="/files/ScienceChemistry_3NA_Sem12023.pdf">Science Chemistry</a><br /><a href="/files/SciencePhysics_3NA_Sem12023.pdf">Science Physics</a></p>
+<td width="208" style="text-align: center;">
+<p><a href="/files/ScienceBiology_3NA_Sem12023.pdf">Science Biology</a><br><a href="/files/ScienceChemistry_3NA_Sem12023.pdf">Science Chemistry</a><br><a href="/files/SciencePhysics_3NA_Sem12023.pdf">Science Physics</a></p>
 </td>
-<td style="text-align: center;" width="208">
-<p><a href="/files/Science_3NT_Sem12023.pdf">Science</a><br /><a href="/files/EBS_3NT_Sem12023.pdf">Elements of Business Skills</a></p>
+<td width="208" style="text-align: center;">
+<p><a href="/files/Science_3NT_Sem12023.pdf">Science</a><br><a href="/files/EBS_3NT_Sem12023.pdf">Elements of Business Skills</a></p>
 </td>
 </tr>
 <tr>
-<td style="text-align: center;" width="208">
-<p><a href="/files/SS_3EX_Sem12023.pdf">Social Studies</a><br /><a href="/files/Elective_Geography_3EX_Sem12023.pdf">Elective Geography</a><br /><a href="/files/Elective%20History_3EX_Sem12023.pdf">Elective History</a><br /><a href="/files/Literature_3EXP%20Subject%20Overview.pdf">Elective Literature</a><br /><a href="/files/Pure_Geog_3EX_Sem12023.pdf">Pure Geography</a><br /><a href="/files/Pure%20History_3EX_Sem12023.pdf">Pure History</a><br /><a href="/files/POA_3EX_Sem12023.pdf">Principles of Accounts</a></p>
+<td width="208" style="text-align: center;">
+<p><a href="/files/SS_3EX_Sem12023.pdf">Social Studies</a><br><a href="/files/Elective_Geography_3EX_Sem12023.pdf">Elective Geography</a><br><a href="/files/Elective%20History_3EX_Sem12023.pdf">Elective History</a><br><a href="/files/Literature_3EXP%20Subject%20Overview.pdf">Elective Literature</a><br><a href="/files/Pure_Geog_3EX_Sem12023.pdf">Pure Geography</a><br><a href="/files/Pure%20History_3EX_Sem12023.pdf">Pure History</a><br><a href="/files/POA_3EX_Sem12023.pdf">Principles of Accounts</a></p>
 </td>
-<td style="text-align: center;" width="208">
-<p><a href="/files/SS_3NA_Sem12023.pdf">Social Studies</a><br /><a href="/files/Elective_Geography_3NA_Sem12023.pdf">Elective Geography</a><br /><a href="/files/Elective%20History_3NA_Sem12023.pdf">Elective History</a><br /><a href="/files/Literature_3NA%20Subject%20Overview.pdf">Elective Literature</a><br /><a href="/files/POA_3NA_Sem12023.pdf">Principles of Accounts</a>&nbsp;</p>
+<td width="208" style="text-align: center;">
+<p><a href="/files/SS_3NA_Sem12023.pdf">Social Studies</a><br><a href="/files/Elective_Geography_3NA_Sem12023.pdf">Elective Geography</a><br><a href="/files/Elective%20History_3NA_Sem12023.pdf">Elective History</a><br><a href="/files/Literature_3NA%20Subject%20Overview.pdf">Elective Literature</a><br><a href="/files/POA_3NA_Sem12023.pdf">Principles of Accounts</a>&nbsp;</p>
 </td>
-<td style="text-align: center;" width="208"><br />
+<td width="208" style="text-align: center;"><br>
 <p><a href="/files/SS_3NT_Sem12023.pdf">Social Studies</a></p>
 </td>
 </tr>
 <tr>
-<td style="text-align: center;" width="208">
-<p><a href="/files/Art_%203Exp_Sem12023.pdf">Art</a><br /><a href="/files/Subject%20Overview_DT_3E.pdf">Design and Technology</a><br /><a href="/files/2023%20Subject%20Overview_3Exp_NFS.pdf">Nutrition and Food Science</a></p>
+<td width="208" style="text-align: center;">
+<p><a href="/files/Art_%203Exp_Sem12023.pdf">Art</a><br><a href="/files/Subject%20Overview_DT_3E.pdf">Design and Technology</a><br><a href="/files/2023%20Subject%20Overview_3Exp_NFS.pdf">Nutrition and Food Science</a></p>
 </td>
-<td style="text-align: center;" width="208">
-<p><a href="/files/Art_3NA_Sem12023.pdf">Art</a><br /><a href="/files/Subject%20Overview_DT_3NA.pdf">Design and Technology</a><br /><a href="/files/2023_Subject%20Overview_3NA.pdf">Nutrition and Food Science</a></p>
+<td width="208" style="text-align: center;">
+<p><a href="/files/Art_3NA_Sem12023.pdf">Art</a><br><a href="/files/Subject%20Overview_DT_3NA.pdf">Design and Technology</a><br><a href="/files/2023_Subject%20Overview_3NA.pdf">Nutrition and Food Science</a></p>
 </td>
-<td style="text-align: center;" width="208">
-<p><a href="/files/Art_3NT_Art_Sem12023.pdf">Art</a><br /><a href="/files/Subject%20Overview_DT_3NT.pdf">Design and Technology</a><br /><a href="/files/2023_Subject%20Overview_3NT.pdf">Nutrition and Food Science</a></p>
+<td width="208" style="text-align: center;">
+<p><a href="/files/Art_3NT_Art_Sem12023.pdf">Art</a><br><a href="/files/Subject%20Overview_DT_3NT.pdf">Design and Technology</a><br><a href="/files/2023_Subject%20Overview_3NT.pdf">Nutrition and Food Science</a></p>
 </td>
 </tr>
 <tr>
-<td style="text-align: center;" colspan="3" width="623">
-<p><strong>Physical Education<br /></strong><a href="/files/PE_3A1_3B2_Sem12023.pdf">3A1/3B2</a> <a href="/files/PE_3A2_3B1_Sem12023.pdf">3A2/3B1</a> <a href="/files/2022_Subject%20Overview_PE%20Sem%202_3B2.pdf">3B2</a> <a href="/files/PE_3B3_3C2_3C3_Sem12023.pdf">3B3/3C2/3C3</a> <a href="/files/PE_3C1_3C5_Sem12023.pdf">3C1/3C5</a> <a href="/files/PE_3C4_Sem12023.pdf">3C4</a></p>
+<td width="623" colspan="3" style="text-align: center;">
+<p><strong>Physical Education<br></strong><a href="/files/PE_3A1_3B2_Sem12023.pdf">3A1/3B2</a> <a href="/files/PE_3A2_3B1_Sem12023.pdf">3A2/3B1</a> <a href="/files/2022_Subject%20Overview_PE%20Sem%202_3B2.pdf">3B2</a> <a href="/files/PE_3B3_3C2_3C3_Sem12023.pdf">3B3/3C2/3C3</a> <a href="/files/PE_3C1_3C5_Sem12023.pdf">3C1/3C5</a> <a href="/files/PE_3C4_Sem12023.pdf">3C4</a></p>
 </td>
 </tr>
 </tbody>
@@ -267,83 +267,83 @@ description: ""
 <table>
 <tbody>
 <tr>
-<td style="text-align: center;" width="208">
+<td width="208" style="text-align: center;">
 <p><strong><u>Express</u></strong></p>
 </td>
-<td style="text-align: center;" width="208">
+<td width="208" style="text-align: center;">
 <p><strong><u>Normal (Academic)</u></strong></p>
 </td>
-<td style="text-align: center;" width="208">
+<td width="208" style="text-align: center;">
 <p><strong><u>Normal (Technical)</u></strong></p>
 </td>
 </tr>
 <tr>
-<td style="text-align: center;" width="208">
+<td width="208" style="text-align: center;">
 <p><a href="/files/English%20Language_4E5N_Sem1%202023.pdf">English Language</a></p>
 </td>
-<td style="text-align: center;" width="208">
+<td width="208" style="text-align: center;">
 <p><a href="/files/English%20Language_4NA_Sem1%202023.pdf">English Language</a></p>
 </td>
-<td style="text-align: center;" width="208">
+<td width="208" style="text-align: center;">
 <p><a href="/files/English%20Language_4NT_Sem1%202023.pdf">English Language</a></p>
 </td>
 </tr>
 <tr>
-<td style="text-align: center;" width="208">
-<p><a href="/files/Chinese%20Language_4EXP_Sem12023.pdf">Chinese</a><br /><a href="/files/Chinese%20Language_4CLB_Sem12023.pdf">Chinese Syllabus B</a><br /><a href="/files/Chinese%20Language_4HCL_Sem12023.pdf">Higher Chinese</a><br /><a href="/files/Malay%20Language_4EXP_Sem12023.pdf">Malay</a></p>
+<td width="208" style="text-align: center;">
+<p><a href="/files/Chinese%20Language_4EXP_Sem12023.pdf">Chinese</a><br><a href="/files/Chinese%20Language_4CLB_Sem12023.pdf">Chinese Syllabus B</a><br><a href="/files/Chinese%20Language_4HCL_Sem12023.pdf">Higher Chinese</a><br><a href="/files/Malay%20Language_4EXP_Sem12023.pdf">Malay</a></p>
 </td>
-<td style="text-align: center;" width="208">
-<p><a href="/files/Chinese%20Language_4NA_Sem12023.pdf">Chinese</a><br /><a href="/files/Chinese%20Language_4CLB_Sem12023.pdf">Chinese Syllabus B</a><br /><a href="/files/Malay%20Language_4NA_Sem12023.pdf">Malay</a></p>
+<td width="208" style="text-align: center;">
+<p><a href="/files/Chinese%20Language_4NA_Sem12023.pdf">Chinese</a><br><a href="/files/Chinese%20Language_4CLB_Sem12023.pdf">Chinese Syllabus B</a><br><a href="/files/Malay%20Language_4NA_Sem12023.pdf">Malay</a></p>
 </td>
-<td style="text-align: center;" width="208">
-<p><a href="/files/Chinese%20Language_4NT_Sem12023.pdf">Basic Chinese</a><br /><a href="/files/Malay%20Language_4NT_Sem12023.pdf">Basic Malay</a></p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="208">
-<p><a href="/files/Add%20Math_4EXP_Sem12023.pdf">Additional Mathematics 4E</a><br /><a href="/files/Add%20Math_5NA_Sem12023.pdf">Additional Mathematics 5N</a><br /><a href="/files/Math_4EXP_Sem12023.pdf">Mathematics 4E</a><br /><a href="/files/Math_5NA_Sem12023.pdf">Mathematics 5N</a></p>
-</td>
-<td style="text-align: center;" width="208">
-<p><a href="/files/Add%20Math_4NA_Sem12023.pdf">Additional Mathematics</a><br /><a href="/files/Math_4NA_Sem12023.pdf">Mathematics</a></p>
-</td>
-<td style="text-align: center;" width="208">
-<p><a href="/files/4NT_CPA_Sem 1_Subject Overview_Final v2 1.pdf">Computer Applications</a><br /><a href="/files/Mathmatics/Math_4NT_Sem12023.pdf">Mathematics</a></p>
+<td width="208" style="text-align: center;">
+<p><a href="/files/Chinese%20Language_4NT_Sem12023.pdf">Basic Chinese</a><br><a href="/files/Malay%20Language_4NT_Sem12023.pdf">Basic Malay</a></p>
 </td>
 </tr>
 <tr>
-<td style="text-align: center;" width="208">
-<p><a href="/files/Biology_4EXP_Sem12023.pdf">Biology</a><br /><a href="/files/Chemistry_4EXP_Sem12023.pdf">Chemistry</a><br /><a href="/files/Physics_4EXP_Sem12023.pdf">Physics</a><br /><a href="/files/ScienceBiology_4EXP_Sem12023.pdf">Science Biology 4E</a><br /><a href="/files/ScienceBiology_5NA_Sem12023.pdf">Science Biology 5N</a><br /><a href="/files/ScienceChemistry_4EXP_Sem12023.pdf">Science Chemistry 4E</a><br /><a href="/files/ScienceChemistry_5NA_Sem12023.pdf">Science Chemistry 5N</a><br /><a href="/files/ciencePhysics_4EXP_Sem12023.pdf">Science Physics 4E</a><br /><a href="/files/SciencePhysics_5NA_Sem12023.pdf">Science Physics 5N</a></p>
+<td width="208" style="text-align: center;">
+<p><a href="/files/Add%20Math_4EXP_Sem12023.pdf">Additional Mathematics 4E</a><br><a href="/files/Add%20Math_5NA_Sem12023.pdf">Additional Mathematics 5N</a><br><a href="/files/Math_4EXP_Sem12023.pdf">Mathematics 4E</a><br><a href="/files/Math_5NA_Sem12023.pdf">Mathematics 5N</a></p>
 </td>
-<td style="text-align: center;" width="208">
-<p><a href="/files/ScienceBiology_4NA_Sem12023.pdf">Science Biology</a><br /><a href="/files/ScienceChemistry_4NA_Sem12023.pdf">Science Chemistry</a><br /><a href="/files/SciencePhysics_4NA_Sem12023.pdf">Science Physics</a></p>
+<td width="208" style="text-align: center;">
+<p><a href="/files/Add%20Math_4NA_Sem12023.pdf">Additional Mathematics</a><br><a href="/files/Math_4NA_Sem12023.pdf">Mathematics</a></p>
 </td>
-<td style="text-align: center;" width="208">
+<td width="208" style="text-align: center;">
+<p><a href="/files/4NT_CPA_Sem 1_Subject Overview_Final v2 1.pdf">Computer Applications</a><br><a href="/files/Mathmatics/Math_4NT_Sem12023.pdf">Mathematics</a></p>
+</td>
+</tr>
+<tr>
+<td width="208" style="text-align: center;">
+<p><a href="/files/Biology_4EXP_Sem12023.pdf">Biology</a><br><a href="/files/Chemistry_4EXP_Sem12023.pdf">Chemistry</a><br><a href="/files/Physics_4EXP_Sem12023.pdf">Physics</a><br><a href="/files/ScienceBiology_4EXP_Sem12023.pdf">Science Biology 4E</a><br><a href="/files/ScienceBiology_5NA_Sem12023.pdf">Science Biology 5N</a><br><a href="/files/ScienceChemistry_4EXP_Sem12023.pdf">Science Chemistry 4E</a><br><a href="/files/ScienceChemistry_5NA_Sem12023.pdf">Science Chemistry 5N</a><br><a href="/files/ciencePhysics_4EXP_Sem12023.pdf">Science Physics 4E</a><br><a href="/files/SciencePhysics_5NA_Sem12023.pdf">Science Physics 5N</a></p>
+</td>
+<td width="208" style="text-align: center;">
+<p><a href="/files/ScienceBiology_4NA_Sem12023.pdf">Science Biology</a><br><a href="/files/ScienceChemistry_4NA_Sem12023.pdf">Science Chemistry</a><br><a href="/files/SciencePhysics_4NA_Sem12023.pdf">Science Physics</a></p>
+</td>
+<td width="208" style="text-align: center;">
 <p><a href="/files/Science_4NT_Sem12023.pdf">Science</a></p>
 </td>
 </tr>
 <tr>
-<td style="text-align: center;" width="208">
-<p><a href="/files/Humanities/SS_4EX_Sem12023.pdf">Social Studies 4E</a><br /><a href="/files/Humanities/SS_5NA_Sem12023.pdf">Social Studies 5N</a><br /><a href="/files/Humanities/Pure_Geog_4EX_Sem2023.pdf">Pure Geography</a><br /><a href="/files/Literature_4EXP%20Pure%20Subject%20Overview_Macbeth.pdf">Pure Literature (Macbeth)</a><br /><a href="/files/Elective_Geography_4EX_Sem12023.pdf">Elective Geography 4E</a><br /><a href="/files/Elective_Geography_5NA_Sem12023.pdf">Elective Geography 5N</a><br /><a href="/files/Elective%20History_4EX5NA_Sem12023.pdf">Elective History</a><br /><a href="/files/Literature_4EXP%20Elective%20Subject%20Overview_F451.pdf">Elective Literature </a><br /><a href="/files/POA_4EX_Sem12023.pdf">Principles of Accounts</a></p>
+<td width="208" style="text-align: center;">
+<p><a href="/files/Humanities/SS_4EX_Sem12023.pdf">Social Studies 4E</a><br><a href="/files/Humanities/SS_5NA_Sem12023.pdf">Social Studies 5N</a><br><a href="/files/Humanities/Pure_Geog_4EX_Sem2023.pdf">Pure Geography</a><br><a href="/files/Literature_4EXP%20Pure%20Subject%20Overview_Macbeth.pdf">Pure Literature (Macbeth)</a><br><a href="/files/Elective_Geography_4EX_Sem12023.pdf">Elective Geography 4E</a><br><a href="/files/Elective_Geography_5NA_Sem12023.pdf">Elective Geography 5N</a><br><a href="/files/Elective%20History_4EX5NA_Sem12023.pdf">Elective History</a><br><a href="/files/Literature_4EXP%20Elective%20Subject%20Overview_F451.pdf">Elective Literature </a><br><a href="/files/POA_4EX_Sem12023.pdf">Principles of Accounts</a></p>
 </td>
-<td style="text-align: center;" width="208">
-<p><a href="/files/SS_4NA_Sem12023.pdf">Social Studies</a><br /><a href="/files/Elective_Geography_4NA_Sem12023.pdf">Elective Geography</a><br /><a href="/files/Elective%20History_4NA_2023.pdf">Elective History</a><br /><a href="/files/POA_4NA_Sem12023.pdf">Principles of Accounts</a></p>
+<td width="208" style="text-align: center;">
+<p><a href="/files/SS_4NA_Sem12023.pdf">Social Studies</a><br><a href="/files/Elective_Geography_4NA_Sem12023.pdf">Elective Geography</a><br><a href="/files/Elective%20History_4NA_2023.pdf">Elective History</a><br><a href="/files/POA_4NA_Sem12023.pdf">Principles of Accounts</a></p>
 </td>
-<td style="text-align: center;" width="208"><a href="/files/SS_4NT_Sem2023.pdf">Social Studies</a></td>
+<td width="208" style="text-align: center;"><a href="/files/SS_4NT_Sem2023.pdf">Social Studies</a></td>
 </tr>
 <tr>
-<td style="text-align: center;" width="208">
-<p><a href="/files/Art_4EXP_Sem12023.pdf">Art 4E</a><br /><a href="/files/Art_5NA_Sem12023.pdf">Art 5N</a><br /><a href="/files/Subject%20Overview_DT_4Exp.pdf">Design and Technology 4E</a><br /><a href="/files/Subject%20Overview_DT_5NA.pdf">Design and Technology 5N</a><br /><a href="/files/2023_Subject%20Overview_4Exp_Sem%201_V2.pdf">Nutrition &amp; Food Science 4E</a><br /><a href="/files/Subject%20Overview_5N_Sem%201_2023_V3.pdf">Nutrition &amp; Food Science 5N</a></p>
+<td width="208" style="text-align: center;">
+<p><a href="/files/Art_4EXP_Sem12023.pdf">Art 4E</a><br><a href="/files/Art_5NA_Sem12023.pdf">Art 5N</a><br><a href="/files/Subject%20Overview_DT_4Exp.pdf">Design and Technology 4E</a><br><a href="/files/Subject%20Overview_DT_5NA.pdf">Design and Technology 5N</a><br><a href="/files/2023_Subject%20Overview_4Exp_Sem%201_V2.pdf">Nutrition &amp; Food Science 4E</a><br><a href="/files/Subject%20Overview_5N_Sem%201_2023_V3.pdf">Nutrition &amp; Food Science 5N</a></p>
 </td>
-<td style="text-align: center;" width="208">
-<p><a href="/files/Subject%20Overview_DT_4NA.pdf">Design and Technology</a><br /><a href="/files/Subject%20Overview_4NA_Sem%201_2023_V3.pdf">Nutrition and Food Science</a></p>
+<td width="208" style="text-align: center;">
+<p><a href="/files/Subject%20Overview_DT_4NA.pdf">Design and Technology</a><br><a href="/files/Subject%20Overview_4NA_Sem%201_2023_V3.pdf">Nutrition and Food Science</a></p>
 </td>
-<td style="text-align: center;" width="208">
-<p><a href="/files/Art_4NT__Sem%2012023.pdf">Art</a><br /><a href="/files/Subject%20Overview_DT_4NT.pdf">Design and Technology</a><br /><a href="/files/Subject%20Overview_4NT_Sem%201_2023_V2.pdf">Nutrition and Food Science</a></p>
+<td width="208" style="text-align: center;">
+<p><a href="/files/Art_4NT__Sem%2012023.pdf">Art</a><br><a href="/files/Subject%20Overview_DT_4NT.pdf">Design and Technology</a><br><a href="/files/Subject%20Overview_4NT_Sem%201_2023_V2.pdf">Nutrition and Food Science</a></p>
 </td>
 </tr>
 <tr>
-<td style="text-align: center;" colspan="3" width="623">
-<p><strong>Physical Education<br /></strong><a href="/files/PE_4A1_4A2_Sem12023.pdf">4A1/4A2</a> <a href="/files/PE_4B1_4C1_4C3_Sem12023.pdf">4B1/4C1/4C3</a> <a href="/files/PE_4B2_Sem12023.pdf">4B2</a> <a href="/files/PE_4C2_Sem12023.pdf">4C2</a> <a href="/files/2022_Subject%20Overview_PE%20Sem%202_4C1_4C2.pdf">4C1/4C2</a> <a href="/files/PE_4C4_4C5_Sem12023.pdf">4C4/4C5</a> <a href="/files/PE_5B1_Sem12023.pdf">5B1</a></p>
+<td width="623" colspan="3" style="text-align: center;">
+<p><strong>Physical Education<br></strong><a href="/files/PE_4A1_4A2_Sem12023.pdf">4A1/4A2</a> <a href="/files/PE_4B1_4C1_4C3_Sem12023.pdf">4B1/4C1/4C3</a> <a href="/files/PE_4B2_Sem12023.pdf">4B2</a> <a href="/files/PE_4C2_Sem12023.pdf">4C2</a> <a href="/files/2022_Subject%20Overview_PE%20Sem%202_4C1_4C2.pdf">4C1/4C2</a> <a href="/files/PE_4C4_4C5_Sem12023.pdf">4C4/4C5</a> <a href="/files/PE_5B1_Sem12023.pdf">5B1</a></p>
 </td>
 </tr>
 </tbody>
