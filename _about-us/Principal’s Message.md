@@ -3,7 +3,7 @@ title: Principal’s Message
 permalink: /about-us/principal-s-message/
 description: ""
 ---
-<p><strong>Principal's Message</strong></p><br>
+<p><strong>Principal's Message</strong></p>
 <table style="border-collapse:collapse;border:none;mso-yfti-tbllook:1184;mso-padding-alt:
  0in 5.4pt 0in 5.4pt;mso-border-insideh:none" cellpadding="0" cellspacing="0" border="0" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes;
   height:44.5pt"><td style="width:395.75pt;border:none;border-right:solid windowtext 1.0pt;
