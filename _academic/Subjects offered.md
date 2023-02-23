@@ -52,6 +52,3 @@ description: ""
 </tr>
 <tr style="height: 18px;">
 <td style="height: 18px; width: 203.359px; text-align: center;"><strong>&nbsp;Physical Education</strong></td>
-</tr>
-</tbody>
-</table>
