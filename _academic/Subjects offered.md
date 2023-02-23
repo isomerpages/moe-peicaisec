@@ -16,7 +16,6 @@ description: ""
 <th style="text-align: center; height: 36px; width: 196.406px;">
 	<p>Humanities</p>
 </th>
-</tr>
 <tr style="height: 145px;">
 <td style="text-align: center; height: 145px; width: 203.359px;">
 <p>Art<br />Design and Technology<br />Food and Consumer Education<br />Food Studies<br />Food and Nutrition<br />Music<br>
