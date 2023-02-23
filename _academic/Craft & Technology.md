@@ -190,7 +190,7 @@ description: ""
 <td width="141"><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2022syllabus/6123_y22_sy.pdf"><p>6123 O Level Art</p></a></td>
 <td width="141">&nbsp;<a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2022syllabus/7059_y22_sy.pdf"><p>7059</p></a></td>
 <td width="141">&nbsp;</td>
-<td width="141"><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2022syllabus/6097_y22_sy.pdf">6097 Nutrition and Food Science</a></td>
+<td width="141"><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2022syllabus/6097_y22_sy.pdf"><p>6097 Nutrition and Food Science</p></a></td>
 </tr>
 </tbody>
 </table>
