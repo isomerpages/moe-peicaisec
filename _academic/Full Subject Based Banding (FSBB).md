@@ -59,8 +59,6 @@ description: ""
 <li>Literature in English</li>
 </ul>
 	<p>at a more demanding level in the following year.</p>
-</td>
 
 <p>For more information on Full SBB, you may visit&nbsp;<a href="http://www.moe.gov.sg/microsite/psle-fsbb">www.moe.gov.sg/microsite/psle-fsbb</a></p>
-<p>For more information of the implementation of Full SBB in Peicai Secondary School, you may write to us at&nbsp;<a href="mailto:peicai_ss@moe.edu.sg">peicai_ss@moe.edu.sg</a
-	</p>
+<p>For more information of the implementation of Full SBB in Peicai Secondary School, you may write to us at&nbsp;<a href="mailto:peicai_ss@moe.edu.sg">peicai_ss@moe.edu.sg
