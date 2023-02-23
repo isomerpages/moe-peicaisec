@@ -19,8 +19,7 @@ description: ""
 </tr>
 <tr style="height: 145px;">
 <td style="text-align: center; height: 145px; width: 203.359px;">
-<p>Art<br />Design and Technology<br />Food and Consumer Education<br />Food Studies<br />Food and Nutrition<br />Music</p>
-</td>
+<p>Art<br />Design and Technology<br />Food and Consumer Education<br />Food Studies<br />Food and Nutrition<br />Music<br>
 <td style="text-align: center; height: 145px; width: 242.234px;">
 <p>English Language<br />Literature&nbsp;(Pure)<br />Humanities (SS, Literature)</p>
 </td>
