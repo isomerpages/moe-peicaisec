@@ -22,10 +22,10 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;" width="208">
-<a href="/files/English%20Language_1EXP_Sem1%202023.pdf">English Language</a><br /><a href="/files/Literature_1EXP%20Subject%20Overview.pdf">English Literature</a>
+<p><a href="/files/English%20Language_1EXP_Sem1%202023.pdf">English Language</a><br /><a href="/files/Literature_1EXP%20Subject%20Overview.pdf">English Literature</a></p>
 </td>
 <td style="text-align: center;" width="208">
-<a href="/files/English%20Language_1NA_Sem1%202023.pdf">English Language</a><br /><a href="/files/Literature_1NA%20Subject%20Overview.pdf">English Literature</a>
+<p><a href="/files/English%20Language_1NA_Sem1%202023.pdf">English Language</a><br /><a href="/files/Literature_1NA%20Subject%20Overview.pdf">English Literature</a></p>
 </td>
 <td style="text-align: center;" width="208">
 <p><a href="/files/English%20Language_1NT_Sem1%202023.pdf">English Language</a></p>
