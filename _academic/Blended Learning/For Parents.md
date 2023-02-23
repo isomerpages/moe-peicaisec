@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Blended Learning
 ---
 <h4><strong>Parents Gateway</strong></h4>
-<p>PG is the primary mode of communication between the school and parents. For more information, visit the&nbsp;<a href="https://pg.moe.edu.sg/" target="">Parents Gateway</a> webpage.</p>
+<p>PG is the primary mode of communication between the school and parents. For more information, visit the&nbsp;<a href="https://pg.moe.edu.sg/" target="blank">Parents Gateway</a> webpage.</p>
 <h4><strong>MOE Home-Based Learning Resource Kit for Parents</strong></h4>
 <ol>
 <li><a href="/files/HBL%20Resource%20Kit%20for%20Parents.pdf">HBL Resource Kit for Parents (Part 1)</a></li>
