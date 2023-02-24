@@ -65,19 +65,19 @@ description: ""
 </tbody>
 </table>
 <h4><strong>Music</strong></h4>
-<p>In Peicai Secondary School, we aim to develop in students the competencies that will enable them to:</p>
+<p><p align="justify">In Peicai Secondary School, we aim to develop in students the competencies that will enable them to:</p>
 <ol>
-<li>Express themselves through various genres to help them appreciate the music around them.</li>
-<li>Learn about basic music elements and concepts of rhythm and harmony through music creation.</li>
-<li>Deepen their appreciation for music through the process of active listening by performing and creating music</li>
+<li><p align="justify">Express themselves through various genres to help them appreciate the music around them.</li>
+<li><p align="justify">Learn about basic music elements and concepts of rhythm and harmony through music creation.</li>
+<li><p align="justify">Deepen their appreciation for music through the process of active listening by performing and creating music</li>
 </ol>
 <p>We support these endeavours through&hellip;</p>
 <ol>
-<li>Equipping students with the necessary musical skills and knowledge of instrumental playing (ukulele and keyboard).</li>
-<li>Engaging students in analysing and evaluating musical works.</li>
-<li>Infusing technological skills in song arrangements and song writing.</li>
+<li><p align="justify">Equipping students with the necessary musical skills and knowledge of instrumental playing (ukulele and keyboard).</li>
+<li><p align="justify">Engaging students in analysing and evaluating musical works.</li>
+<li><p align="justify">Infusing technological skills in song arrangements and song writing.</li>
 </ol>
-<p>We provide a two year lower secondary music curriculum to develop and equip our students with the fundamental skills and techniques in music making. It is also aligned to the school&rsquo;s Aesthetic Education Programme where music is seen as an integral part of students&rsquo; lives. We believe that every child should&nbsp;be given the opportunity to develop his/her potential in creative expression through Music education in school.</p>
+<p><p align="justify">We provide a two year lower secondary music curriculum to develop and equip our students with the fundamental skills and techniques in music making. It is also aligned to the school&rsquo;s Aesthetic Education Programme where music is seen as an integral part of students&rsquo; lives. We believe that every child should&nbsp;be given the opportunity to develop his/her potential in creative expression through Music education in school.</p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
@@ -97,9 +97,9 @@ description: ""
 <h4><strong>NUTRITION &amp; FOOD SCIENCE UNIT</strong></h4>
 <p>In Peicai, we aim to</p>
 <ol>
-<li>nurture students who take an active role in bettering the lives of those around them through their knowledge in nutrition,&nbsp;<br />health and food science.</li>
-<li>develop confident individuals who are able to make discerning judgement through essential knowledge and skills on food<br />literacy</li>
-<li>nurture innovative thinkers who will be able to apply principles of culinary science creatively in food preparation and cooking.</li>
+<li><p align="justify">nurture students who take an active role in bettering the lives of those around them through their knowledge in nutrition,&nbsp;<br />health and food science.</li>
+<li><p align="justify">develop confident individuals who are able to make discerning judgement through essential knowledge and skills on food<br />literacy</li>
+<li><p align="justify">nurture innovative thinkers who will be able to apply principles of culinary science creatively in food preparation and cooking.</li>
 </ol>
 <p>We support these endeavours through</p>
 <ol>
@@ -111,11 +111,11 @@ description: ""
 </ol>
 <h4><strong>Programmes</strong></h4>
 <p><strong><u>Project Heart @ Peicai</u></strong></p>
-<p>Project Heart@Peicai integrates skills learned during Food &amp; Consumer Education (FCE) lessons with 21st Century competencies. It adopts a values-based approach to make learning more authentic.</p>
-<p>Leveraging on the school&rsquo;s partnership with Lions Club Singapore Nanyang, Students serve food, educate and entertain elderly from Lions Befrienders, preparing and serving them meals, while teaching them about healthy living, and interacting via conversation, games and the sharing of knowledge and personal lives.</p>
-<p>During the pandemic, students produce health videos to educate elderly on diseases and ways to lead a healthier lifestyle.</p>
+<p><p align="justify">Project Heart@Peicai integrates skills learned during Food &amp; Consumer Education (FCE) lessons with 21st Century competencies. It adopts a values-based approach to make learning more authentic.</p>
+<p><p align="justify">Leveraging on the school&rsquo;s partnership with Lions Club Singapore Nanyang, Students serve food, educate and entertain elderly from Lions Befrienders, preparing and serving them meals, while teaching them about healthy living, and interacting via conversation, games and the sharing of knowledge and personal lives.</p>
+<p><p align="justify">During the pandemic, students produce health videos to educate elderly on diseases and ways to lead a healthier lifestyle.</p>
 <p><strong><u>Food Science Competition</u></strong></p>
-<p>2019- Picky Palette for young children</p>
+<p><p align="justify">2019- Picky Palette for young children</p>
 <p>Students planned and prepared a nutritional dish and low sugared drink that are able to meet the nutritional needs of young children.</p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
@@ -125,7 +125,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p>2020- Picky Palette for teenagers</p>
+<p><p align="justify">2020- Picky Palette for teenagers</p>
 <p>Students incorporated the knowledge and skills learnt in both Nutrition and food science and ALP STEM lesson to produce an Instagram worthy dish and drink that is suitable for a teenager.</p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
@@ -136,8 +136,8 @@ description: ""
 </tbody>
 </table>
 <p>2021- Nutriboost</p>
-<p>Students planned and prepared a main dish to satisfy the nutritional needs of the young adult with a health issue.</p>
-<p>They also created a dietary supplement to complement the main dish and boost their health.</p>
+<p><p align="justify">Students planned and prepared a main dish to satisfy the nutritional needs of the young adult with a health issue.</p>
+<p><p align="justify">They also created a dietary supplement to complement the main dish and boost their health.</p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
