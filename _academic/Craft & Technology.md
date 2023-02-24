@@ -7,16 +7,14 @@ description: ""
 <h4><strong>Art</strong></h4>
 <p><p align="justify">In Peicai, we aim&nbsp;to develop our students&rsquo; artistic sensibilities that will enable them to.</p>
 <ol>
-<li><p align="justify">Make connections between visual expressions and personal experiences and view the world around them in new ways.&nbsp;</li>
-<li><p align="justify">Inculcate their creativity to explore and develop in the various stages by making references to and integrating knowledge of artists/artworks with their own art making.&nbsp;</li>
-<li><p align="justify">Gain an understanding of real world applications of Art through different media&nbsp;</li>
-</ol>
+<li><p align="justify">Make connections between visual expressions and personal experiences and view the world around them in new ways.&nbsp;
+<li><p align="justify">Inculcate their creativity to explore and develop in the various stages by making references to and integrating knowledge of artists/artworks with their own art making.&nbsp;
+<li><p align="justify">Gain an understanding of real world applications of Art through different media&nbsp;
 <p>We support these endeavours through&hellip;</p>
 <ol>
-<li><p align="justify">Creating an environment with opportunities for students to demonstrate creativity in their art making processes</li>
-<li><p align="justify">Encourage the expression and reflection of thoughts through the making of art.</li>
-<li><p align="justify">Infusing technology into lessons to cultivate self-directed learners</li>
-</ol>
+<li><p align="justify">Creating an environment with opportunities for students to demonstrate creativity in their art making processes
+<li><p align="justify">Encourage the expression and reflection of thoughts through the making of art.
+<li><p align="justify">Infusing technology into lessons to cultivate self-directed learners
 <p><strong>Art Learning Journeys and Competitions:</strong></p>
 <p><p align="justify">Our students are given opportunities to participate in Art Competitions and events such as Singapore Youth Festival Art Exhibition.</p>
 <p><p align="justify">Students also have the opportunity to broaden their learning experiences beyond classrooms. The unit organized learning journeys to Art Museums.</p>
@@ -45,16 +43,14 @@ description: ""
 <h4><strong>DESIGN &amp; TECHNOLOGY</strong></h4>
 <p>In Peicai, we aim to</p>
 <ol>
-<li><p align="justify">to develop confidence, pride and tenacity through exploring real-world design opportunities for which ideas are developed</li>
-<li><p align="justify">cultivate thinking through doodling, sketching/drawing and experimentation of prototype ideas using appropriate materials and tools</li>
-<li><p align="justify">build on innate curiosity, ability to create, exercise judgements and make evidence-based decisions of a technological, aesthetic and economic nature.</li>
-</ol>
+<li><p align="justify">to develop confidence, pride and tenacity through exploring real-world design opportunities for which ideas are developed
+<li><p align="justify">cultivate thinking through doodling, sketching/drawing and experimentation of prototype ideas using appropriate materials and tools
+<li><p align="justify">build on innate curiosity, ability to create, exercise judgements and make evidence-based decisions of a technological, aesthetic and economic nature.
 <p>We support these endeavours through:</p>
 <ul>
-<li><p align="justify">the use of SCAMPER, Shape Borrowing and Random lines trigger techniques for ideation.</li>
-<li><p align="justify">modelling visualization of design and elements of design so as to help build on students&rsquo; ideas.</li>
-<li><p align="justify">experiential and hands-on activities to develop their problem solving and creative thinking skills</li>
-</ul>
+<li><p align="justify">the use of SCAMPER, Shape Borrowing and Random lines trigger techniques for ideation.
+<li><p align="justify">modelling visualization of design and elements of design so as to help build on students&rsquo; ideas.
+<li><p align="justify">experiential and hands-on activities to develop their problem solving and creative thinking skills
 <p><strong><u>Programmes<br /></u></strong><p align="justify">Students participate in the &lsquo;<strong>IgnITE&rsquo; Skills Challenge 2022, organised by Institute of Technical Education (ITE) -&nbsp;</strong>Creative Maquillage. Students had&nbsp;to apply design thinking concept in D&amp;T to design a creative makeup look to enhance the sales of a makeup palette. They used digital mood board and makeup apps to create a makeup look and promote the makeup palette on social media.</p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
@@ -67,16 +63,14 @@ description: ""
 <h4><strong>Music</strong></h4>
 <p><p align="justify">In Peicai Secondary School, we aim to develop in students the competencies that will enable them to:</p>
 <ol>
-<li><p align="justify">Express themselves through various genres to help them appreciate the music around them.</li>
-<li><p align="justify">Learn about basic music elements and concepts of rhythm and harmony through music creation.</li>
-<li><p align="justify">Deepen their appreciation for music through the process of active listening by performing and creating music</li>
-</ol>
+<li><p align="justify">Express themselves through various genres to help them appreciate the music around them.
+<li><p align="justify">Learn about basic music elements and concepts of rhythm and harmony through music creation.
+<li><p align="justify">Deepen their appreciation for music through the process of active listening by performing and creating music
 <p>We support these endeavours through&hellip;</p>
 <ol>
-<li><p align="justify">Equipping students with the necessary musical skills and knowledge of instrumental playing (ukulele and keyboard).</li>
-<li><p align="justify">Engaging students in analysing and evaluating musical works.</li>
-<li><p align="justify">Infusing technological skills in song arrangements and song writing.</li>
-</ol>
+<li><p align="justify">Equipping students with the necessary musical skills and knowledge of instrumental playing (ukulele and keyboard).
+<li><p align="justify">Engaging students in analysing and evaluating musical works.
+<li><p align="justify">Infusing technological skills in song arrangements and song writing.
 <p><p align="justify">We provide a two year lower secondary music curriculum to develop and equip our students with the fundamental skills and techniques in music making. It is also aligned to the school&rsquo;s Aesthetic Education Programme where music is seen as an integral part of students&rsquo; lives. We believe that every child should&nbsp;be given the opportunity to develop his/her potential in creative expression through Music education in school.</p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
@@ -97,10 +91,9 @@ description: ""
 <h4><strong>NUTRITION &amp; FOOD SCIENCE UNIT</strong></h4>
 <p>In Peicai, we aim to</p>
 <ol>
-<li><p align="justify">nurture students who take an active role in bettering the lives of those around them through their knowledge in nutrition,&nbsp;<br />health and food science.</li>
-<li><p align="justify">develop confident individuals who are able to make discerning judgement through essential knowledge and skills on food<br />literacy</li>
-<li><p align="justify">nurture innovative thinkers who will be able to apply principles of culinary science creatively in food preparation and cooking.</li>
-</ol>
+<li><p align="justify">nurture students who take an active role in bettering the lives of those around them through their knowledge in nutrition,&nbsp;<br />health and food science.
+<li><p align="justify">develop confident individuals who are able to make discerning judgement through essential knowledge and skills on food<br />literacy
+<li><p align="justify">nurture innovative thinkers who will be able to apply principles of culinary science creatively in food preparation and cooking.
 <p>We support these endeavours through</p>
 <ol>
 <li>hands on practical lesson to hone cooking skills</li>
