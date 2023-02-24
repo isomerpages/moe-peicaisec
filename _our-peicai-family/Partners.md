@@ -25,15 +25,15 @@ description: ""
 <tr>
 <td>
 <ul>
-<li>Assist students as facilitators in school programmes &amp; events designed to develop their skills in leadership and teamwork, <em>e.g. Chinese New Year celebrations, Racial Harmony Day, Project Heart@Peicai</em></li>
-<li>Support school programmes that promote the well being &amp; development of our students, <em>e.g.</em>&nbsp;<em>being chaperones during our Night Study Programme and learning journeys, being adult volunteers in the Powerhouse.</em></li>
-<li>Volunteer expertise in areas of career guidance, <em>e.g.</em>&nbsp;<em>providing work shadowing opportunities to help students understand the value of work, being speakers for Education ad Career Guidance (ECG) talks</em></li>
+<li>Assist students as facilitators in school programmes &amp; events designed to develop their skills in leadership and teamwork, e.g. Chinese New Year celebrations, Racial Harmony Day, Project Heart@Peicai</li>
+<li>Support school programmes that promote the well being &amp; development of our students, <em>e.g.</em>&nbsp;being chaperones during our Night Study Programme and learning journeys, being adult volunteers in the Powerhouse.</li>
+<li>Volunteer expertise in areas of career guidance, e.g.&nbsp;providing work shadowing opportunities to help students understand the value of work, being speakers for Education ad Career Guidance (ECG) talks</li>
 </ul>
 </td>
 <td>
 <ul>
-<li>Engage fellow parents in guiding their children through their growing years, <em>e.g. parenting talks/workshops.</em></li>
-<li>Foster positive parent-child relationship, <em>e.g. parent-child bonding activities.</em></li>
+<li>Engage fellow parents in guiding their children through their growing years, e.g. parenting talks/workshops.</li>
+<li>Foster positive parent-child relationship, e.g. parent-child bonding activities.</li>
 </ul>
 </td>
 </tr>
