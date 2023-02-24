@@ -5,15 +5,15 @@ description: ""
 third_nav_title: Blended Learning
 ---
 <h4><strong>Introduction</strong></h4>
-<p>In December 2020, MOE introduced Blended Learning (BL) as a key part of the schooling experience for our students.&nbsp;Students will learn what is prescribed by the curriculum through a mix of home-based and in-school activities, and leverage both online and offline approaches to learning.&nbsp;One key aspect of the BL approach is the integration of Home-based Learning (HBL) days as a regular feature of the schooling experience to complement teaching and learning in schools.</p>
-<p>Blended Learning is supported by the National Digital Literacy Programme (NDLP) that was announced earlier in 2020, which will ensure that all secondary students will own a personal learning device (PLD) by end-2021.</p>
+<p><p align="justify">In December 2020, MOE introduced Blended Learning (BL) as a key part of the schooling experience for our students.&nbsp;Students will learn what is prescribed by the curriculum through a mix of home-based and in-school activities, and leverage both online and offline approaches to learning.&nbsp;One key aspect of the BL approach is the integration of Home-based Learning (HBL) days as a regular feature of the schooling experience to complement teaching and learning in schools.</p>
+<p><p align="justify">Blended Learning is supported by the National Digital Literacy Programme (NDLP) that was announced earlier in 2020, which will ensure that all secondary students will own a personal learning device (PLD) by end-2021.</p>
 <h4><strong>Approach</strong></h4>
-<p>In Peicai Secondary School, we designed Blended Learning to:<br />1. Nurture self-directed and independent learners, and;<br />2. Develop passionate and intrinsically motivated learners.</p>
-<p>Through both online and offline approaches to learning, we aim to provide students with more opportunities to <strong>learn at their own pace</strong>&nbsp;and be empowered to&nbsp;<strong>take charge of their learning</strong>.&nbsp;</p>
+<p><p align="justify">In Peicai Secondary School, we designed Blended Learning to:<br />1. Nurture self-directed and independent learners, and;<br />2. Develop passionate and intrinsically motivated learners.</p>
+<p><p align="justify">Through both online and offline approaches to learning, we aim to provide students with more opportunities to <strong>learn at their own pace</strong>&nbsp;and be empowered to&nbsp;<strong>take charge of their learning</strong>.&nbsp;</p>
 <h4><strong>Home-based Learning (HBL) Days</strong></h4>
-<p>One aspect of BL is the integration of home-based learning (HBL) as a regular feature of the schooling experience. Here in Peicai Secondary School, HBL days are scheduled at regular intervals throughout the year to complement teaching and learning in school.</p>
+<p><p align="justify">One aspect of BL is the integration of home-based learning (HBL) as a regular feature of the schooling experience. Here in Peicai Secondary School, HBL days are scheduled at regular intervals throughout the year to complement teaching and learning in school.</p>
 <p><strong>HBL Days for 2022</strong></p>
-<p>The table below lists the HBL days for 2022. These dates can also be found in the semestral welcome letters (for parents) as well as the School Calendar (for students).</p>
+<p><p align="justify">The table below lists the HBL days for 2022. These dates can also be found in the semestral welcome letters (for parents) as well as the School Calendar (for students).</p>
 <table style="margin-left: auto; margin-right: auto;">
 <tbody>
 <tr>
@@ -43,7 +43,7 @@ third_nav_title: Blended Learning
 </tr>
 </tbody>
 </table>
-<p>On HBL days, students will have largely asynchronous lessons. The lesson resources will be assigned to students via&nbsp;<a href="https://vle.learning.moe.edu.sg/login/" target="_blank" rel="noopener">Student Learning Space</a>.&nbsp;The schedule for HBL will follow students' class timetable to ensure learning continues for every subject. Students will also have scheduled time with their Form Teachers via Form Teacher Check-In (using Zoom) on HBL days so that the Form Teachers can continue to provide necessary support and guidance. Time is also set aside for Student-Initiated Learning (SIL) for students to pursue learning in areas of their interests and learn outside of the curriculum. The following shows the structure of a typical HBL day.</p>
+<p><p align="justify">On HBL days, students will have largely asynchronous lessons. The lesson resources will be assigned to students via&nbsp;<a href="https://vle.learning.moe.edu.sg/login/" target="_blank" rel="noopener">Student Learning Space</a>.&nbsp;The schedule for HBL will follow students' class timetable to ensure learning continues for every subject. Students will also have scheduled time with their Form Teachers via Form Teacher Check-In (using Zoom) on HBL days so that the Form Teachers can continue to provide necessary support and guidance. Time is also set aside for Student-Initiated Learning (SIL) for students to pursue learning in areas of their interests and learn outside of the curriculum. The following shows the structure of a typical HBL day.</p>
 <p><strong>Typical Structure for HBL day</strong></p>
 <table>
 <tbody>
