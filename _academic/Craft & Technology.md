@@ -8,22 +8,22 @@ description: ""
 <p><p align="justify">In Peicai, we aim&nbsp;to develop our students&rsquo; artistic sensibilities that will enable them to.</p>
 <ol>
 <li><p align="justify">Make connections between visual expressions and personal experiences and view the world around them in new ways.&nbsp;</li>
-<li>Inculcate their creativity to explore and develop in the various stages by making references to and integrating knowledge of artists/artworks with their own art making.&nbsp;</li>
-<li>Gain an understanding of real world applications of Art through different media&nbsp;</li>
+<li><p align="justify">Inculcate their creativity to explore and develop in the various stages by making references to and integrating knowledge of artists/artworks with their own art making.&nbsp;</li>
+<li><p align="justify">Gain an understanding of real world applications of Art through different media&nbsp;</li>
 </ol>
 <p>We support these endeavours through&hellip;</p>
 <ol>
-<li>Creating an environment with opportunities for students to demonstrate creativity in their art making processes</li>
-<li>Encourage the expression and reflection of thoughts through the making of art.</li>
-<li>Infusing technology into lessons to cultivate self-directed learners</li>
+<li><p align="justify">Creating an environment with opportunities for students to demonstrate creativity in their art making processes</li>
+<li><p align="justify">Encourage the expression and reflection of thoughts through the making of art.</li>
+<li><p align="justify">Infusing technology into lessons to cultivate self-directed learners</li>
 </ol>
 <p><strong>Art Learning Journeys and Competitions:</strong></p>
-<p>Our students are given opportunities to participate in Art Competitions and events such as Singapore Youth Festival Art Exhibition.</p>
-<p>Students also have the opportunity to broaden their learning experiences beyond classrooms. The unit organized learning journeys to Art Museums.</p>
+<p><p align="justify">Our students are given opportunities to participate in Art Competitions and events such as Singapore Youth Festival Art Exhibition.</p>
+<p><p align="justify">Students also have the opportunity to broaden their learning experiences beyond classrooms. The unit organized learning journeys to Art Museums.</p>
 <p><strong>Secondary 3 Art Enrichment</strong></p>
-<p>Secondary 3 Art students can look forward to an exciting range of media such as painting, photography, digital art, and paper cut.</p>
+<p><p align="justify">Secondary 3 Art students can look forward to an exciting range of media such as painting, photography, digital art, and paper cut.</p>
 <p><strong>Aesthetics Week</strong></p>
-<p>Students participate in various activities aimed at developing an appreciation for the Arts. Activities conducted encourages creative expression and imaginative play in the art making processes.</p>
+<p><p align="justify">Students participate in various activities aimed at developing an appreciation for the Arts. Activities conducted encourages creative expression and imaginative play in the art making processes.</p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
@@ -45,17 +45,17 @@ description: ""
 <h4><strong>DESIGN &amp; TECHNOLOGY</strong></h4>
 <p>In Peicai, we aim to</p>
 <ol>
-<li>to develop confidence, pride and tenacity through exploring real-world design opportunities for which ideas are developed</li>
-<li>cultivate thinking through doodling, sketching/drawing and experimentation of prototype ideas using appropriate materials and tools</li>
-<li>build on innate curiosity, ability to create, exercise judgements and make evidence-based decisions of a technological, aesthetic and economic nature.</li>
+<li><p align="justify">to develop confidence, pride and tenacity through exploring real-world design opportunities for which ideas are developed</li>
+<li><p align="justify">cultivate thinking through doodling, sketching/drawing and experimentation of prototype ideas using appropriate materials and tools</li>
+<li><p align="justify">build on innate curiosity, ability to create, exercise judgements and make evidence-based decisions of a technological, aesthetic and economic nature.</li>
 </ol>
 <p>We support these endeavours through:</p>
 <ul>
-<li>the use of SCAMPER, Shape Borrowing and Random lines trigger techniques for ideation.</li>
-<li>modelling visualization of design and elements of design so as to help build on students&rsquo; ideas.</li>
-<li>experiential and hands-on activities to develop their problem solving and creative thinking skills</li>
+<li><p align="justify">the use of SCAMPER, Shape Borrowing and Random lines trigger techniques for ideation.</li>
+<li><p align="justify">modelling visualization of design and elements of design so as to help build on students&rsquo; ideas.</li>
+<li><p align="justify">experiential and hands-on activities to develop their problem solving and creative thinking skills</li>
 </ul>
-<p><strong><u>Programmes<br /></u></strong>Students participate in the &lsquo;<strong>IgnITE&rsquo; Skills Challenge 2022, organised by Institute of Technical Education (ITE) -&nbsp;</strong>Creative Maquillage. Students had&nbsp;to apply design thinking concept in D&amp;T to design a creative makeup look to enhance the sales of a makeup palette. They used digital mood board and makeup apps to create a makeup look and promote the makeup palette on social media.</p>
+<p><strong><u>Programmes<br /></u></strong><p align="justify">Students participate in the &lsquo;<strong>IgnITE&rsquo; Skills Challenge 2022, organised by Institute of Technical Education (ITE) -&nbsp;</strong>Creative Maquillage. Students had&nbsp;to apply design thinking concept in D&amp;T to design a creative makeup look to enhance the sales of a makeup palette. They used digital mood board and makeup apps to create a makeup look and promote the makeup palette on social media.</p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
