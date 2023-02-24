@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Blended Learning
 ---
 <h4><strong>Parents Gateway</strong></h4>
-<p>PG is the primary mode of communication between the school and parents. For more information, visit the&nbsp;<a href="https://pg.moe.edu.sg/" target="blank">Parents Gateway</a> webpage.</p>
+<p><p align="justify">PG is the primary mode of communication between the school and parents. For more information, visit the&nbsp;<a href="https://pg.moe.edu.sg/" target="blank">Parents Gateway</a> webpage.</p>
 <h4><strong>MOE Home-Based Learning Resource Kit for Parents</strong></h4>
 <ol>
 <li><a href="/files/HBL%20Resource%20Kit%20for%20Parents.pdf/">HBL Resource Kit for Parents (Part 1)</a></li>
@@ -21,5 +21,5 @@ third_nav_title: Blended Learning
 <li><a href="https://drive.google.com/file/d/1r5S_tJhLUPnqatC7yDt7oaCSIYoG-_y4/view?usp=sharing" target="_blank" rel="noopener">Notice for Parents Who Have Yet To Be Onboard Parents Gateway</a></li>
 </ul>
 <h4><strong>Home Broadband Access Programme</strong></h4>
-<p>In view that all secondary school students will own a Personal Learning Device (PLD) under MOE's Digital Literacy Programme, secondary school students will no longer be eligible to apply for the NEU PC Plus programme with effect from 1 January 2022.</p>
-<p>Students who need assistance for home broadband connectivity, can apply for the Home Access programme at <a href="http://www.digitalaccess.gov.sg/" target="">www.digitalaccess.gov.sg</a></p>
+<p><p align="justify">In view that all secondary school students will own a Personal Learning Device (PLD) under MOE's Digital Literacy Programme, secondary school students will no longer be eligible to apply for the NEU PC Plus programme with effect from 1 January 2022.</p>
+<p><p align="justify">Students who need assistance for home broadband connectivity, can apply for the Home Access programme at <a href="http://www.digitalaccess.gov.sg/" target="">www.digitalaccess.gov.sg</a></p>
