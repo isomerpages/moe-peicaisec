@@ -84,13 +84,13 @@ description: ""
 </td>
 <td style="width: 542.844px;">
 <p><u>Sec 1 &amp; Sec 2<br /></u>*C6 or better in EL and a Pass in overall percentage of all subjects combined.<br />*Students who do not meet the criteria will be laterally transferred from Sec 1EX/2EX to Sec 2NA/3NA.</p>
-<p><u>Sec 3<br /></u>*C6 or better in EL and 2 other subjects&nbsp;<br />*Students who do not meet the criteria will be retained at Sec 3EX or apply to be transferred to Sec 4NA.</p>
+<p><u>Sec 3<br /></u><p align="justify">*C6 or better in EL and 2 other subjects&nbsp;<br />*Students who do not meet the criteria will be retained at Sec 3EX or apply to be transferred to Sec 4NA.</p>
 </td>
 </tr>
 </tbody>
 </table>
 <h4><strong>Assessment &amp; Subject Weighting</strong></h4>
-<p>Promotion from one level to the next is dependent on student's&nbsp;performance in both continual&nbsp;and semestral assessments.</p>
+<p><p align="justify">Promotion from one level to the next is dependent on student's&nbsp;performance in both continual&nbsp;and semestral assessments.</p>
 <h4><strong>Only For Term 3 Onwards</strong></h4>
 <table>
 <tbody>
