@@ -6,7 +6,7 @@ third_nav_title: Blended Learning
 ---
 <h4><strong>Expectations of Students on Home-Based Learning (HBL) Days</strong></h4>
 <b>Objectives of HBL days</b><br>
-Through regular HBL, the school aims to develop you into self-directed and independent learners, as well as nurture you into passionate and intrinsically motivated individuals. To this end, lessons on HBL days will be self-paced – the teachers provide you the resources, you plan and complete the work  assigned in your own time.<br>
+<p align="justify">Through regular HBL, the school aims to develop you into self-directed and independent learners, as well as nurture you into passionate and intrinsically motivated individuals. To this end, lessons on HBL days will be self-paced – the teachers provide you the resources, you plan and complete the work  assigned in your own time.<br>
 
 <b>Features of HBL</b><br>
 You can expect the following features of a HBL day:<br>
