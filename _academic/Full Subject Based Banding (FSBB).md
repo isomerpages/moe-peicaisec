@@ -26,8 +26,6 @@ description: ""
 	<li>Mother Tongue Language</li>
 </ul>
 	<p>at a more demanding level from the start of Secondary 1.</p>
-</td>
-</tr>
 <tr>
 <td width="180">
 <p style="text-align: center;"><strong>At the end of&nbsp;<u>Semester 1</u></strong></p>
@@ -41,8 +39,6 @@ description: ""
 	<li>Mother Tongue Language</li>
 </ul>
 	<p>at a more demanding level in Semester 2.</p>
-</td>
-</tr>
 <tr>
 <td width="180">
 	<p style="text-align: center;"><strong>At the end of&nbsp;<u>Semester 2</u></strong>
