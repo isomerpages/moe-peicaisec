@@ -6,7 +6,7 @@ description: ""
 <h4><strong>Learning Outcomes</strong></h4>
 <p dir="ltr">In Peicai Secondary School, we aim to develop in students the competencies that will enable them to be:</p>
 <ol>
-<li dir="ltr"><strong>Empathetic communicators</strong> who possess the values, dispositions and skills to listen actively to different perspectives; communicate confidently, effectively and sensitively while collaborating with others to work towards shared goals; and balance an appreciation of the Singapore spirit with multi-ethnic and multicultural sensitivities.&nbsp;</li>
+<li dir="ltr"><strong>Empathetic communicators</strong><br> who possess the values, dispositions and skills to listen actively to different perspectives; communicate confidently, effectively and sensitively while collaborating with others to work towards shared goals; and balance an appreciation of the Singapore spirit with multi-ethnic and multicultural sensitivities.&nbsp;</li>
 <li dir="ltr"><strong>Discerning Readers</strong> who possess broad worldviews by staying well informed and self-directed in the use of information, and are able to distinguish fact from falsehood by processing and evaluating information closely, critically and with discernment according to purpose, audience, context and culture.&nbsp;</li>
 <li dir="ltr"><strong>Creative Inquirers</strong> who explore and evaluate real-world issues and multiple perspectives as well as gather and synthesise information from diverse print, non-print and digital networked sources, so as to cocreate knowledge and solutions in familiar or new contexts</li>
 </ol>
