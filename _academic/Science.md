@@ -4,12 +4,13 @@ permalink: /academic/science/
 description: ""
 ---
 <h4><strong>Learning Outcomes</strong></h4>
-<p>In Peicai, the aims of Secondary Science are to:</p>
-<p>1) cultivate students&rsquo; appreciation of Science as a collective human endeavor to understand the natural world, and as a way of thinking rather than just a body of facts.</p>
-<p>2) inspire students to make informed decisions and take responsible actions in science-related issues that concern their lives, the society and the environment.</p>
-<p>3) help students to develop fundamentals that are integral to scientific inquiry and innovation, including problem-seeking and problem-solving.</p>
+<ol>
+<p>In Peicai, the aims of Secondary Science are to:</p><li>
+<p>cultivate students&rsquo; appreciation of Science as a collective human endeavor to understand the natural world, and as a way of thinking rather than just a body of facts.</p>
+<p><li>inspire students to make informed decisions and take responsible actions in science-related issues that concern their lives, the society and the environment.</p>
+<p><li>help students to develop fundamentals that are integral to scientific inquiry and innovation, including problem-seeking and problem-solving.</p>
 <p>We support these endeavours through&hellip;</p>
-<p>The Peicai Science Department anchors its Teaching and Learning on the nation-wide Science Curriculum framework &lsquo;Science for Life and Society&rsquo;. Through this framework, we want our students to be scientifically literate, so that they can make informed decisions and take responsible actions in their daily lives. On top of that, we also want to enable students to thrive and achieve success at work in our innovation-driven future economy.</p>
+<p><p align="justify">The Peicai Science Department anchors its Teaching and Learning on the nation-wide Science Curriculum framework &lsquo;Science for Life and Society&rsquo;. Through this framework, we want our students to be scientifically literate, so that they can make informed decisions and take responsible actions in their daily lives. On top of that, we also want to enable students to thrive and achieve success at work in our innovation-driven future economy.</p>
 <img style="width: 35%;" src="/images/sci1.jpg" />
 <p>Across all the levels and streams, Peicai Science Teachers plan Science lessons revolving around practical and experimentation, as our sole belief is that students learn and understand scientific concepts better through the hands-on approach. Students work in groups in the Science laboratories, classrooms and even outdoor areas to solve real life problems. Teachers play the important role of facilitators in such activities, ensuring that students ask questions and engage in meaningful scientific dialogue.&nbsp;</p>
 <h4><strong>Programmes</strong></h4>
