@@ -7,10 +7,9 @@ description: ""
 <p><p align="justify">The MTL curriculum aims to develop proficient language users who can communicate confidently and effectively in various real-life contexts; and to expose students to cultures and values through MTL lessons.</p>
 <p>In Peicai, the MTL curriculum aims to</p>
 <ol>
-<li><p align="justify">Strengthen student&rsquo;s communication skills to be able to use their MTL as a living language both in school and out of school.</li>
-<li><p align="justify">Deepen student&rsquo;s appreciation of culture by understanding their unique identity through deeper appreciation of culture, traditions, literature, and history.</li>
-<li><p align="justify">Better connect students with communities in local context and across Asia including the world.</li>
-</ol>
+<li><p align="justify">Strengthen student&rsquo;s communication skills to be able to use their MTL as a living language both in school and out of school.
+<li><p align="justify">Deepen student&rsquo;s appreciation of culture by understanding their unique identity through deeper appreciation of culture, traditions, literature, and history.
+<li><p align="justify">Better connect students with communities in local context and across Asia including the world.
 <p><p align="justify">Lessons conducted focus on developing students&rsquo; critical thinking and creative thinking skills. Teachers will leverage ICT tools to provide students with more interactive and real-life authentic learning, to promote self-directed and collaborative learning.</p>
 <p><p align="justify">We support these endeavours through a repertoire of interactive and innovative teaching strategies, which are customised to student&rsquo;s learning needs.</p>
 <p><p align="justify">Experiential Learning is integrated to allow students to make connections of the real-world context.</p>
