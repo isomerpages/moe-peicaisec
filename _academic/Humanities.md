@@ -38,7 +38,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p>The Humanities Department believes that Peicaians should be experience to different activities in their everyday lessons. Here are some of the activities that were conducted.</p>
+<p><p align="justify">The Humanities Department believes that Peicaians should be experience to different activities in their everyday lessons. Here are some of the activities that were conducted.</p>
 <img style="width: 50%;" src="/images/human1.jpg" />
 <p style="text-align: center;">Students conducting water testing conducted during Sec 1 Geographical Investigation</p>
 <img style="width: 50%;" src="/images/human2.jpg" />
