@@ -30,7 +30,7 @@ description: ""
 <p><p align="justify">On the eve of Chinese New Year, a joyous occasion, we want our students to not only enjoy but to remember the less privileged old folks. Together with the VIA coordinator, we organise a hamper wrapping competition. All hampers made by the students would be given to the old folks from Lions&rsquo; Home. The old folks are also invited to enjoy the multi-racial concert celebration we have in school.</p>
 <img src="/images/mtl1.png">
 <p><u>MT Fortnight Cultural activities for our students</u></p>
-<p>In order to expose our students to different cultural activities, we organise various activities for our students during the Mother Tongue fortnight, such as Lion Dance, cultural musical instrument appreciation, clay sculpture, and bamboo books.&nbsp;</p>
+<p><p align="justify">In order to expose our students to different cultural activities, we organise various activities for our students during the Mother Tongue fortnight, such as Lion Dance, cultural musical instrument appreciation, clay sculpture, and bamboo books.&nbsp;</p>
 <img src="/images/mtl2.jpg">
 <p><u>Mid-Autumn Festival (September)</u></p>
 <p>Information Board &amp; Lantern Making with Procession</p>
@@ -59,7 +59,7 @@ description: ""
 <p style="text-align: center;">Sec 3 Journalism Programme (NewsMaker) Chinese Language</p>
 <p><span style="text-decoration: underline;"><strong>Malay Language and Culture</strong></span></p>
 <p><strong>Malay Language</strong></p>
-<p>To achieve our Mother Tongue department mission, we embark on several programmes to enhance our students&rsquo; language skills. These programmes include &lsquo;Class Library Programme&rsquo;, the &lsquo;MTL Intensive Programme for our Graduating Classes&rsquo; as well as the &lsquo;Conversational Chinese and Malay Programme&rsquo; for our Secondary One student&rsquo;s.&nbsp;</p>
+<p><p align="justify">To achieve our Mother Tongue department mission, we embark on several programmes to enhance our students&rsquo; language skills. These programmes include &lsquo;Class Library Programme&rsquo;, the &lsquo;MTL Intensive Programme for our Graduating Classes&rsquo; as well as the &lsquo;Conversational Chinese and Malay Programme&rsquo; for our Secondary One student&rsquo;s.&nbsp;</p>
 <p><strong>Malay Culture</strong></p>
 <p><p align="justify">In addition to our commitment to nurture students to be proficient users of the Malay language, we have also included enrichment activities to enhance our students&rsquo; knowledge about the Malay culture. These activities are as follows:</p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
@@ -74,7 +74,7 @@ description: ""
 </tbody>
 </table>
 <p><u>MT Fortnight Cultural activities for our students</u></p>
-<p>The department has organized workshops such as Seni Khat, Dikir Barat, Malay Dance and Kompang as well as Acting (Opera Theatre, Bangsawan) for our students. These workshops are conducted to enhance students&rsquo; interest and appreciation of Malay culture.&nbsp;</p>
+<p><p align="justify">The department has organized workshops such as Seni Khat, Dikir Barat, Malay Dance and Kompang as well as Acting (Opera Theatre, Bangsawan) for our students. These workshops are conducted to enhance students&rsquo; interest and appreciation of Malay culture.&nbsp;</p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
@@ -85,7 +85,7 @@ description: ""
 </tbody>
 </table>
 <p><u>External Exposure / Competition</u></p>
-<p>Malay Language Student Ambassador organised by Malay Language Council of Singapore in conjunction to National Malay Language Month Movement</p>
+<p><p align="justify">Malay Language Student Ambassador organised by Malay Language Council of Singapore in conjunction to National Malay Language Month Movement</p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
@@ -111,7 +111,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p>National ML Essay Writing Top 10 (Winner)&nbsp;National ML Essay Writing Competition (Gold Award)</p>
+<p><p align="justify">National ML Essay Writing Top 10 (Winner)&nbsp;National ML Essay Writing Competition (Gold Award)</p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
@@ -120,7 +120,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p>Sec 3 Journalism Programme (NewsMaker) Malay Language</p>
+<p><p align="justify">Sec 3 Journalism Programme (NewsMaker) Malay Language</p>
 <p>MTL Archive link</p>
 <p><a href="https://express.adobe.com/page/yyrWK7WrsN4f2">https://express.adobe.com/page/yyrWK7WrsN4f2</a></p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
