@@ -14,7 +14,7 @@ description: ""
 <img style="width: 35%;" src="/images/sci1.jpg" />
 <p><p align="justify">Across all the levels and streams, Peicai Science Teachers plan Science lessons revolving around practical and experimentation, as our sole belief is that students learn and understand scientific concepts better through the hands-on approach. Students work in groups in the Science laboratories, classrooms and even outdoor areas to solve real life problems. Teachers play the important role of facilitators in such activities, ensuring that students ask questions and engage in meaningful scientific dialogue.&nbsp;</p>
 <h4><strong>Programmes</strong></h4>
-<p>Students are exposed to learning in a variety of online and physical group configurations. Collaboratively, they work on learning activities that promote a spirit of inquiry and innovation.</p>
+<p><p align="justify">Students are exposed to learning in a variety of online and physical group configurations. Collaboratively, they work on learning activities that promote a spirit of inquiry and innovation.</p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
@@ -23,7 +23,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p>(Sec 2: students sharing their investigation and findings from their pill coating project)</p>
+<p><p align="justify">(Sec 2: students sharing their investigation and findings from their pill coating project)</p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
@@ -32,9 +32,9 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p>(LSS NT: Balloon powered car activity to demonstrate forces, conservation of energy and measurement of physical quantities)</p>
+<p><p align="justify">(LSS NT: Balloon powered car activity to demonstrate forces, conservation of energy and measurement of physical quantities)</p>
 <p><u>Enrichment Programme</u></p>
-<p>Over the 4 to 5 years of Science education in Peicai, relevant science enrichment programmes are also planned for all Peicai students according to the level appropriate focus shown below:</p>
+<p><p align="justify">Over the 4 to 5 years of Science education in Peicai, relevant science enrichment programmes are also planned for all Peicai students according to the level appropriate focus shown below:</p>
 <table width="802">
 <tbody>
 <tr>
@@ -91,7 +91,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p>(DNA and Life Programme for our Lower Secondary Science Students)</p>
+<p><p align="justify">(DNA and Life Programme for our Lower Secondary Science Students)</p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
@@ -100,7 +100,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p>(Award recipients of the 42rd International C.B. Paul (ICBP) Science Quiz 2021)</p>
+<p><p align="justify">(Award recipients of the 42rd International C.B. Paul (ICBP) Science Quiz 2021)</p>
 <h4><strong>Subjects Offered</strong></h4>
 <table width="623">
 <tbody>
