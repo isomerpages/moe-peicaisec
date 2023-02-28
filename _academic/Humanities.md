@@ -40,13 +40,13 @@ description: ""
 </table>
 <p><p align="justify">The Humanities Department believes that Peicaians should be experience to different activities in their everyday lessons. Here are some of the activities that were conducted.</p>
 <img style="width: 50%;" src="/images/human1.jpg" />
-<p style="text-align: center;">Students conducting water testing conducted during Sec 1 Geographical Investigation</p>
+<p style="text-align: center;"><p align="justify">Students conducting water testing conducted during Sec 1 Geographical Investigation</p>
 <img style="width: 50%;" src="/images/human2.jpg" />
-<p style="text-align: center;">Students interviewing Serangoon resident for Geographical Investigation on Housing.</p>
+<p style="text-align: center;"><p align="justify">Students interviewing Serangoon resident for Geographical Investigation on Housing.</p>
 <img style="width: 70%;" src="/images/human3.jpg" />
-<p style="text-align: center;">Students doing their Historical Investigation at the National Museum of Singapore.</p>
+<p style="text-align: center;"><p align="justify">Students doing their Historical Investigation at the National Museum of Singapore.</p>
 <img style="width: 100%;" src="/images/human4.jpg" />
-<p style="text-align: center;">Visiting the War Remnants Museum at Ho Chi Minh City during the Cultural Immersion Fieldtrip to Vietnam.</p>
+<p style="text-align: center;"><p align="justify">Visiting the War Remnants Museum at Ho Chi Minh City during the Cultural Immersion Fieldtrip to Vietnam.</p>
 <h4><strong>Subjects Offered</strong></h4>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
