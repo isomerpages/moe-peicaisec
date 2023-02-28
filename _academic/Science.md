@@ -7,8 +7,8 @@ description: ""
 <ol>
 <p>In Peicai, the aims of Secondary Science are to:</p><li>
 <p><p align="justify">cultivate students&rsquo; appreciation of Science as a collective human endeavor to understand the natural world, and as a way of thinking rather than just a body of facts.</p>
-<p><li><p align="justify">inspire students to make informed decisions and take responsible actions in science-related issues that concern their lives, the society and the environment.</p>
-<p><li><p align="justify">help students to develop fundamentals that are integral to scientific inquiry and innovation, including problem-seeking and problem-solving.</p>
+<li><p><p align="justify">inspire students to make informed decisions and take responsible actions in science-related issues that concern their lives, the society and the environment.</p>
+<li><p><p align="justify">help students to develop fundamentals that are integral to scientific inquiry and innovation, including problem-seeking and problem-solving.</p>
 <p>We support these endeavours through&hellip;</p>
 <p><p align="justify">The Peicai Science Department anchors its Teaching and Learning on the nation-wide Science Curriculum framework &lsquo;Science for Life and Society&rsquo;. Through this framework, we want our students to be scientifically literate, so that they can make informed decisions and take responsible actions in their daily lives. On top of that, we also want to enable students to thrive and achieve success at work in our innovation-driven future economy.</p>
 <img style="width: 35%;" src="/images/sci1.jpg" />
