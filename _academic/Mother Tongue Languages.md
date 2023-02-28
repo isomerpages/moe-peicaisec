@@ -4,7 +4,7 @@ permalink: /academic/mother-tongue-languages/
 description: ""
 ---
 <h4><strong>Learning Outcomes</strong></h4>
-<p>The MTL curriculum aims to develop proficient language users who can communicate confidently and effectively in various real-life contexts; and to expose students to cultures and values through MTL lessons.</p>
+<p><p align="justify">The MTL curriculum aims to develop proficient language users who can communicate confidently and effectively in various real-life contexts; and to expose students to cultures and values through MTL lessons.</p>
 <p>In Peicai, the MTL curriculum aims to</p>
 <ol>
 <li>Strengthen student&rsquo;s communication skills to be able to use their MTL as a living language both in school and out of school.</li>
