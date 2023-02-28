@@ -7,15 +7,15 @@ description: ""
 <p><p align="justify">The MTL curriculum aims to develop proficient language users who can communicate confidently and effectively in various real-life contexts; and to expose students to cultures and values through MTL lessons.</p>
 <p>In Peicai, the MTL curriculum aims to</p>
 <ol>
-<li>Strengthen student&rsquo;s communication skills to be able to use their MTL as a living language both in school and out of school.</li>
-<li>Deepen student&rsquo;s appreciation of culture by understanding their unique identity through deeper appreciation of culture, traditions, literature, and history.</li>
-<li>Better connect students with communities in local context and across Asia including the world.</li>
+<li><p align="justify">Strengthen student&rsquo;s communication skills to be able to use their MTL as a living language both in school and out of school.</li>
+<li><p align="justify">Deepen student&rsquo;s appreciation of culture by understanding their unique identity through deeper appreciation of culture, traditions, literature, and history.</li>
+<li><p align="justify">Better connect students with communities in local context and across Asia including the world.</li>
 </ol>
-<p>Lessons conducted focus on developing students&rsquo; critical thinking and creative thinking skills. Teachers will leverage ICT tools to provide students with more interactive and real-life authentic learning, to promote self-directed and collaborative learning.</p>
-<p>We support these endeavours through a repertoire of interactive and innovative teaching strategies, which are customised to student&rsquo;s learning needs.</p>
-<p>Experiential Learning is integrated to allow students to make connections of the real-world context.</p>
+<p><p align="justify">Lessons conducted focus on developing students&rsquo; critical thinking and creative thinking skills. Teachers will leverage ICT tools to provide students with more interactive and real-life authentic learning, to promote self-directed and collaborative learning.</p>
+<p><p align="justify">We support these endeavours through a repertoire of interactive and innovative teaching strategies, which are customised to student&rsquo;s learning needs.</p>
+<p><p align="justify">Experiential Learning is integrated to allow students to make connections of the real-world context.</p>
 <p><u>Assessment Framework</u></p>
-<p>The use of a variety of assessment modes aims to allow for better instructional tool to promote students&rsquo; learning. Hence, assessment does not only serve as an evaluative tool. Some of the assessment modes include:</p>
+<p><p align="justify">The use of a variety of assessment modes aims to allow for better instructional tool to promote students&rsquo; learning. Hence, assessment does not only serve as an evaluative tool. Some of the assessment modes include:</p>
 <ul>
 <li aria-level="1">Self, peer and teacher assessment</li>
 <li aria-level="1">Oral Presentation</li>
@@ -24,11 +24,11 @@ description: ""
 <h4><strong>Programmes</strong></h4>
 <p><span style="text-decoration: underline;"><strong>Chinese Language and Culture</strong></span></p>
 <p><strong>Chinese Language</strong></p>
-<p>To achieve our Mother Tongue department mission, we embark on several programmes to enhance our students&rsquo; language skills. These programmes aimed at enhancing the necessary language skills, i.e speaking, listening, reading and writing. Our key programmes include &lsquo;Class Library Programme&rsquo;, the &lsquo;MTL Intensive Programme for our Graduating Classes&rsquo; as well as the &lsquo;Conversational Chinese and Malay Programme&rsquo; for our Secondary One student&rsquo;s.</p>
+<p><p align="justify">To achieve our Mother Tongue department mission, we embark on several programmes to enhance our students&rsquo; language skills. These programmes aimed at enhancing the necessary language skills, i.e speaking, listening, reading and writing. Our key programmes include &lsquo;Class Library Programme&rsquo;, the &lsquo;MTL Intensive Programme for our Graduating Classes&rsquo; as well as the &lsquo;Conversational Chinese and Malay Programme&rsquo; for our Secondary One student&rsquo;s.</p>
 <p><strong>Chinese Culture</strong></p>
-<p>To inspire the students&rsquo; love for their culture, and to seize every opportunity to teach our students values, we organise the following activities for our students each year:</p>
+<p><p align="justify">To inspire the students&rsquo; love for their culture, and to seize every opportunity to teach our students values, we organise the following activities for our students each year:</p>
 <p><u>Chinese New Year concert and Hamper Wrapping for Lion&rsquo;s Home for the Aged</u></p>
-<p>On the eve of Chinese New Year, a joyous occasion, we want our students to not only enjoy but to remember the less privileged old folks. Together with the VIA coordinator, we organise a hamper wrapping competition. All hampers made by the students would be given to the old folks from Lions&rsquo; Home. The old folks are also invited to enjoy the multi-racial concert celebration we have in school.</p>
+<p><p align="justify">On the eve of Chinese New Year, a joyous occasion, we want our students to not only enjoy but to remember the less privileged old folks. Together with the VIA coordinator, we organise a hamper wrapping competition. All hampers made by the students would be given to the old folks from Lions&rsquo; Home. The old folks are also invited to enjoy the multi-racial concert celebration we have in school.</p>
 <img src="/images/mtl1.png">
 <p><u>MT Fortnight Cultural activities for our students</u></p>
 <p>In order to expose our students to different cultural activities, we organise various activities for our students during the Mother Tongue fortnight, such as Lion Dance, cultural musical instrument appreciation, clay sculpture, and bamboo books.&nbsp;</p>
