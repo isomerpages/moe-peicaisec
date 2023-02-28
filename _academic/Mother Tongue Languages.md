@@ -43,9 +43,9 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p><u>Exposure / Competition</u></p>
+<p><u><p align="justify">Exposure / Competition</u></p>
 <img style="width: 60%;" src="/images/mtl5.jpg" />
-<p style="text-align: center;">2022 National Bilingual Debate Competition</p>
+<p style="text-align: center;"><p align="justify">2022 National Bilingual Debate Competition</p>
 <img style="width: 60%;" src="/images/mtl6.jpg" />
 <p style="text-align: center;">Peicai Reading Programme (Poster Design Competition)</p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
@@ -56,7 +56,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p style="text-align: center;">Sec 3 Journalism Programme (NewsMaker) Chinese Language</p>
+<p style="text-align: center;"><p align="justify">Sec 3 Journalism Programme (NewsMaker) Chinese Language</p>
 <p><span style="text-decoration: underline;"><strong>Malay Language and Culture</strong></span></p>
 <p><strong>Malay Language</strong></p>
 <p><p align="justify">To achieve our Mother Tongue department mission, we embark on several programmes to enhance our students&rsquo; language skills. These programmes include &lsquo;Class Library Programme&rsquo;, the &lsquo;MTL Intensive Programme for our Graduating Classes&rsquo; as well as the &lsquo;Conversational Chinese and Malay Programme&rsquo; for our Secondary One student&rsquo;s.&nbsp;</p>
