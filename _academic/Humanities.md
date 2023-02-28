@@ -5,7 +5,7 @@ description: ""
 ---
 <p>In Peicai, we aim to develop students to become</p>
 <ol>
-<li>a confident person who has a strong sense of right and wrong, is adaptable and resilient, knows himself, is discerning in judgement, thinks independently and critically, and communicates effectively;</li>
+<li><p align="justify">a confident person who has a strong sense of right and wrong, is adaptable and resilient, knows himself, is discerning in judgement, thinks independently and critically, and communicates effectively;</li>
 <li>a self-directed learner who can work effectively in teams and takes responsibility for his own learning, who questions, reflects and perseveres in the pursuit of learning; and</li>
 <li>a concerned citizen rooted in Singapore, has a strong civic consciousness, is informed, and takes an active role in bettering the lives of others around him.</li>
 </ol>
