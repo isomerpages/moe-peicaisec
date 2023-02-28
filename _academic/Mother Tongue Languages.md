@@ -43,7 +43,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p><u><p align="justify">Exposure / Competition</u></p>
+<p><u><p align="justify">Exposure / Competition</p>
 <img style="width: 60%;" src="/images/mtl5.jpg" />
 <p style="text-align: center;"><p align="justify">2022 National Bilingual Debate Competition</p>
 <img style="width: 60%;" src="/images/mtl6.jpg" />
