@@ -10,6 +10,6 @@ sections:
       key_highlights:
         - title: Latest News
           description: ""
-          url: /ANNOUNCEMENTS
+          url: /Latestnews
       background: /images/Banner 0_3 copy.jpg
 ---
