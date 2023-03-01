@@ -4,7 +4,6 @@ permalink: /cca/ccas/sports/volleyball-boys/
 description: ""
 third_nav_title: Sports
 ---
-
 <h4><strong>Introduction</strong></h4>
 <ol>
 <p>In Volleyball, we aim to develop</p>
@@ -31,7 +30,7 @@ third_nav_title: Sports
 <p><em>Overall-in-charge</em></p>
 </td>
 </tr>
-<tr>
+	<tr>
 <td style="text-align: center;" width="219">
 <p><em>Ms Zhao Mengqi</em></p>
 </td>
@@ -39,6 +38,14 @@ third_nav_title: Sports
 <p><em>Teacher-in-charge</em></p>
 </td>
 </tr>
+<tr>
+<td style="text-align: center;" width="219">
+<p><em>Mr Edison Han</em></p>
+</td>
+	<td style="text-align: center;" width="219">
+<p><em>Teacher-in-charge</em></p>
+</td>
+	</tr>
 </tbody>
 </table>
 <h4><strong>Training Schedule</strong></h4>
