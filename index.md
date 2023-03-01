@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: ANNOUNCEMENTS
+        - title: Latest News
           description: ""
           url: /ANNOUNCEMENTS
       background: /images/Banner 0_3 copy.jpg
