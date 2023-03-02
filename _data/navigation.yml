@@ -13,10 +13,10 @@ links:
         url: /about-us/mission-vision-and-values
       - title: Our Peicai Family
         url: /about-us/our-peicai-family/school-advisory-committee-sac
-      - title: Contact Us
-        url: /about-us/contact-us
       - title: Media
         url: /media
+      - title: Contact Us
+        url: /about-us/contact-us
   - title: Academic
     url: /academic/subjects-offered
     sublinks:
