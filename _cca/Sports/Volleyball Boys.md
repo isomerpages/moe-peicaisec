@@ -120,4 +120,4 @@ third_nav_title: Sports
 <h4><strong>Achievements</strong></h4>
 <img style="width: ;" src="/images/Congratulations Volleyball Boys.jpg" /><br>
 <h4><strong>Photos</strong></h4>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRe-oeh32P-okspAk6FNgbYSQuyj1UwYTbTQY2tdYpdC9At9k5rK2taXDPQL-uzPjB2OK-mP7tJTOeY/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRe-oeh32P-okspAk6FNgbYSQuyj1UwYTbTQY2tdYpdC9At9k5rK2taXDPQL-uzPjB2OK-mP7tJTOeY/embed?start=false&loop=false&delayms=10000" frameborder="0" width="760" height="569" allowfullscreen="true"></iframe>
