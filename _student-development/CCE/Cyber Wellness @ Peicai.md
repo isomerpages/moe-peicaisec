@@ -4,11 +4,11 @@ permalink: /student-development/character-n-citizenship-education/cyber-wellness
 description: ""
 third_nav_title: CCE
 ---
-<p>The aim of the Cyber Wellness programme is to develop Peicaians into discerning and responsible ICT users who are able to protect themselves and be responsible for their well-being in cyberspace.</p>
-<p>The school adopts MOE&rsquo;s Cyber Wellness Framework in educating our students on Cyber Wellness. This framework focuses on three key processes: <em>Sense, Think</em>&nbsp;and&nbsp;<em>Act</em>.</p>
+<p><p align="justify">The aim of the Cyber Wellness programme is to develop Peicaians into discerning and responsible ICT users who are able to protect themselves and be responsible for their well-being in cyberspace.</p>
+<p><p align="justify">The school adopts MOE&rsquo;s Cyber Wellness Framework in educating our students on Cyber Wellness. This framework focuses on three key processes: <em>Sense, Think</em>&nbsp;and&nbsp;<em>Act</em>.</p>
 <img src="/images/CyberWellness.png">
 <h4><strong>MOE's Cyber Wellness Framework</strong></h4>
-<p>In order for the students to &lsquo;sense&rsquo; and &lsquo;think&rsquo;, students are provided opportunities to analyze, evaluate and reflect on Cyber Wellness issues. Platforms are also provided to allow students to translate their understanding into actions that will keep them safe while online. These platforms aim to let students take on the role as advocates to share the messages of Cyber Wellness with their peers, family and public.&nbsp;</p>
+<p><p align="justify">In order for the students to &lsquo;sense&rsquo; and &lsquo;think&rsquo;, students are provided opportunities to analyze, evaluate and reflect on Cyber Wellness issues. Platforms are also provided to allow students to translate their understanding into actions that will keep them safe while online. These platforms aim to let students take on the role as advocates to share the messages of Cyber Wellness with their peers, family and public.&nbsp;</p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
@@ -19,13 +19,13 @@ third_nav_title: CCE
 </tbody>
 </table>
 <h4><strong>Broad Overview of CW Coverage in CCE Lessons</strong></h4>
-<p>CW in CCE involves an understanding of the norms of responsible behaviour regarding technology use as well as knowledge, skills, values, and attitudes on how to protect oneself and other users in the cyber world.&nbsp;</p>
+<p><p align="justify">CW in CCE involves an understanding of the norms of responsible behaviour regarding technology use as well as knowledge, skills, values, and attitudes on how to protect oneself and other users in the cyber world.&nbsp;</p>
 <p>Topics in CCE Lessons include:</p>
 <table>
 <tbody>
 <tr>
 <td>Cyber Use</td>
-<td>maintain a healthy balance of their online and offline activities (i.e. excessive use of technology)</td>
+<td><p align="justify">maintain a healthy balance of their online and offline activities (i.e. excessive use of technology)</td>
 </tr>
 <tr>
 <td>Cyber Identity</td>
