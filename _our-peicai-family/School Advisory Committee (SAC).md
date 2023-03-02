@@ -22,7 +22,7 @@ description: ""
 </tr>
 <tr>
 <td>Members</td>
-<td>Ms Evangeline Tan<br />Ms Amy Teo<br />Mr Yeo Boon Thiam, Steven&nbsp;<br />Mr Chia Dingli Stanley</td>
+<td>Ms Evangeline Tan-Yeow<br />Ms Amy Teo<br />Mr Yeo Boon Thiam, Steven&nbsp;<br />Mr Chia Dingli Stanley</td>
 </tr>
 </tbody>
 </table>
