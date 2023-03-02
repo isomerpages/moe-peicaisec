@@ -26,7 +26,7 @@ third_nav_title: CCE
 <table>
 <tbody>
 <tr>
-<td>Cyber Use</td>
+	<td><b>Cyber Use</b></td>
 <td><p align="justify">maintain a healthy balance of their online and offline activities (i.e. excessive use of technology)
 <tr>
 <td>Cyber Identity</td>
