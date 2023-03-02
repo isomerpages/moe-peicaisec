@@ -25,25 +25,21 @@ third_nav_title: CCE
 <tbody>
 <tr>
 <td>Cyber Use</td>
-<td><p align="justify">maintain a healthy balance of their online and offline activities (i.e. excessive use of technology)</td>
-</tr>
+<td><p align="justify">maintain a healthy balance of their online and offline activities (i.e. excessive use of technology)
 <tr>
 <td>Cyber Identity</td>
-<td>develop a healthy online identityexpress oneself online appropriately to be authentic and achieve congruence between online and offline identity</td>
-</tr>
+<td><p align="justify">develop a healthy online identityexpress oneself online appropriately to be authentic and achieve congruence between online and offline identity
 <tr>
 <td>Cyber Relationships</td>
-<td>develop safe, respectful, and meaningful online relationships (e.g. address cyber bullying, build positive relationships)</td>
+<td><p align="justify">develop safe, respectful, and meaningful online relationships (e.g. address cyber bullying, build positive relationships)</td>
 </tr>
 <tr>
 <td>Cyber Citizenship</td>
-<td>understand the cyber world and make informed choices about participation in online activities (e.g. accessing online content with malicious intent/inappropriate websites with content that is violent, sexual or harmful in nature)recognise and protect oneself and others from online risks associated with people who may have malicious intent (e.g. hackers, scammers, online predators)have a positive presence in the cyber community and be a positive influence</td>
+<td><p align="justify">understand the cyber world and make informed choices about participation in online activities (e.g. accessing online content with malicious intent/inappropriate websites with content that is violent, sexual or harmful in nature)recognise and protect oneself and others from online risks associated with people who may have malicious intent (e.g. hackers, scammers, online predators)have a positive presence in the cyber community and be a positive influence</td>
 </tr>
 <tr>
 <td>Cyber Ethics</td>
-<td>create and share online content in a responsible manner (e.g. not sharing content from questionable sources and not propagating deliberate online falsehoods)respect copyright</td>
+<td><p align="justify">create and share online content in a responsible manner (e.g. not sharing content from questionable sources and not propagating deliberate online falsehoods)respect copyright</td>
 </tr>
-</tbody>
-</table>
 <h4><strong>Whole-School Approach for Cyber Wellness</strong></h4>
 <img src="/images/cw3.png">
