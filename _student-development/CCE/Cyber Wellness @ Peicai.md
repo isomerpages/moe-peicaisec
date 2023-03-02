@@ -21,6 +21,8 @@ third_nav_title: CCE
 <h4><strong>Broad Overview of CW Coverage in CCE Lessons</strong></h4>
 <p><p align="justify">CW in CCE involves an understanding of the norms of responsible behaviour regarding technology use as well as knowledge, skills, values, and attitudes on how to protect oneself and other users in the cyber world.&nbsp;</p>
 <p>Topics in CCE Lessons include:</p>
+<h4><strong>Whole-School Approach for Cyber Wellness</strong></h4>
+<img src="/images/cw3.png">
 <table>
 <tbody>
 <tr>
@@ -41,5 +43,3 @@ third_nav_title: CCE
 <td>Cyber Ethics</td>
 <td><p align="justify">create and share online content in a responsible manner (e.g. not sharing content from questionable sources and not propagating deliberate online falsehoods)respect copyright</td>
 </tr>
-<h4><strong>Whole-School Approach for Cyber Wellness</strong></h4>
-<img src="/images/cw3.png">
