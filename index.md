@@ -11,5 +11,4 @@ sections:
         - title: Latest News
           description: ""
           url: /Latestnews
-      background: /images/Banner 2.jpg
 ---
