@@ -29,14 +29,14 @@ third_nav_title: CCE
 	<td><b>Cyber Use</b></td>
 <td><p align="justify">maintain a healthy balance of their online and offline activities (i.e. excessive use of technology)
 <tr>
-<td>Cyber Identity</td>
+	<td><b>Cyber Identity</b></td>
 <td><p align="justify">develop a healthy online identityexpress oneself online appropriately to be authentic and achieve congruence between online and offline identity
 <tr>
-<td>Cyber Relationships</td>
+	<td><b>Cyber Relationships</b></td>
 <td><p align="justify">develop safe, respectful, and meaningful online relationships (e.g. address cyber bullying, build positive relationships)
 <tr>
-<td>Cyber Citizenship</td>
+<td><b>Cyber Citizenship</b></td>
 <td><p align="justify">understand the cyber world and make informed choices about participation in online activities (e.g. accessing online content with malicious intent/inappropriate websites with content that is violent, sexual or harmful in nature)recognise and protect oneself and others from online risks associated with people who may have malicious intent (e.g. hackers, scammers, online predators)have a positive presence in the cyber community and be a positive influence
 <tr>
-<td>Cyber Ethics</td>
+	<td><b>Cyber Ethics</b></td>
 <td><p align="justify">create and share online content in a responsible manner (e.g. not sharing content from questionable sources and not propagating deliberate online falsehoods)respect copyright.
