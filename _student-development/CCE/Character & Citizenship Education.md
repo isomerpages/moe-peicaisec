@@ -8,7 +8,7 @@ third_nav_title: CCE
 <p>In Peicai, we aim to develop in our students</p>
 <ol>
 <li><strong>Good Character<br /></strong><p><p align="justify">Enable students to have a sound moral compass, a strong sense of right and wrong, think critically and ethically, be discerning in judgement, take responsibility for choices and actions, be caring towards others and strive for excellence.</li>
-<li><strong><p><p align="justify">Resilience and Social-Emotional Well-Being</strong><br />Enable students to have a balanced sense of self, form healthy relationships, be resilient when faced with challenges, find meaning in life and have a sense of gratitude and appreciation.</li>
+<li><strong><p align="justify">Resilience and Social-Emotional Well-Being</strong><br />Enable students to have a balanced sense of self, form healthy relationships, be resilient when faced with challenges, find meaning in life and have a sense of gratitude and appreciation.</li>
 <li><strong>Active Citizenship<br /></strong><p><p align="justify">Enable students to develop a strong national identity based on a sense of belonging to the nation, a sense of hope in themselves and the future, an awareness of the reality of Singapore's vulnerabilities and constraints, and the will to act on improving the lives of others and building a future for our nation.</li>
 <li><strong>Future Readiness<br /></strong><p><p align="justify">Enable students to have a sense of purpose in life, develop the dispositions of adaptability and lifelong learning so as to be able to navigate education and career pathways purposefully and take on the challenges of the future, including the world of work.</li>
 </ol>
