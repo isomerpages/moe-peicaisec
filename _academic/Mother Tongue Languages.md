@@ -85,7 +85,7 @@ description: ""
 </table>
 <p><u>External Exposure / Competition</u></p>
 <p><p align="justify">Malay Language Student Ambassador organised by Malay Language Council of Singapore in conjunction to National Malay Language Month Movement</p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 	<td style="width: 30%;">&nbsp;</td>
@@ -112,7 +112,7 @@ description: ""
 </tbody>
 </table>
 <p><p align="justify">National ML Essay Writing Top 10 (Winner)&nbsp;National ML Essay Writing Competition (Gold Award)</p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 60%;"><img src="/images/mtl17.jpg"></td>
@@ -123,7 +123,7 @@ description: ""
 <p><p align="justify">Sec 3 Journalism Programme (NewsMaker) Malay Language</p>
 <p>MTL Archive link</p>
 <p><a href="https://express.adobe.com/page/yyrWK7WrsN4f2">https://express.adobe.com/page/yyrWK7WrsN4f2</a></p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <table width="588">
 <tbody>
 <tr>
