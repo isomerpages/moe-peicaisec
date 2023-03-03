@@ -20,7 +20,7 @@ third_nav_title: CCE
 <p>Do you and your teen use public Wi-Fi a lot? There are risks involved when connecting to public Wi-Fi, so how do you stay safe on public Wi-Fi?<br />Here are some tips on how you can stay safe while you surf the internet on public Wi-Fi.</p>
 <p><strong>Link: </strong><a href="https://www.csa.gov.sg/gosafeonline/go-safe-for-me/homeinternetusers/how-to-stay-safe-on-public-wi-fi"><u>https://www.csa.gov.sg/gosafeonline/go-safe-for-me/homeinternetusers/how-to-stay-safe-on-public-wi-fi</u></a></p>
 <p><strong>6) Parents Should Be More Mindful Of Their Own Media Use</strong></p>
-<p>Do you set a good example for your teen? "Device in a basket until dinner is over" should be a rule that we enforce consistently.&nbsp;</p>
+<p><p align="justify">Do you set a good example for your teen? "Device in a basket until dinner is over" should be a rule that we enforce consistently.&nbsp;</p>
 <p><strong>Link: </strong><a href="http://wapo.st/2FDYaOB22"><u>http://wapo.st/2FDYaOB22</u></a></p>
 <h4><strong>Additional Resources&nbsp;</strong></h4>
 <ol>
