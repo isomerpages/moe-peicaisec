@@ -88,8 +88,8 @@ description: ""
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 36%;"><img src="/images/mtl13.jpg"></td>
-<td style="width: 64%;">&nbsp;</td>
+<td style="width: 40%;"><img src="/images/mtl13.jpg"></td>
+<td style="width: 60%;">&nbsp;</td>
 </tr>
 </tbody>
 </table>
