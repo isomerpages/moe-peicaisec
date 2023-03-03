@@ -88,13 +88,12 @@ description: ""
 <table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
-	<td style="width: 30%;">&nbsp;</td>
 <td style="width: 40%;"><img src="/images/mtl13.jpg"></td>
 <td style="width: 30%;">&nbsp;</td>
 </tr>
 </tbody>
 </table>
-<p><p align="center">Rakan Bahasa 2022 &amp; 2021</p>
+<p>Rakan Bahasa 2022 &amp; 2021</p>
 <p><u>Language Competition</u></p>
 <p>Pena Emas (Essay writing competition by EDN)</p>
 <table style="border-collapse: collapse; width: 100%;" border="0">
