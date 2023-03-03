@@ -15,7 +15,7 @@ description: ""
 <li><strong>Sec 2 Level Camp<br /></strong><p align="justify">The Sec 2 level camp is conducted annually for the Sec 2 students. During this camp, the students get to experience activities such as kayaking and field cooking together with their classmates.
 <li><strong>Sec 3 Outward Bound Singapore Camp<br /></strong><p align="justify">The Sec 3 OBS camp is conducted annually externally by OBS. During this camp, the students get to interact and experience unique activities such as expeditions, with teammates who may come from different classes or even schools (pre-covid).&nbsp;
 
-<img style="width: 75%;" src="/images/pe11.png" /><br>
+<img style="width: 100%;" src="/images/pe11.png" /><br>
 <img style="width: 100%;" src="/images/pe12.jpg" />
 <p style="text-align: center;"><strong>Secondary Three Sports Challenge 2022</strong></p>
 <img style="width: 80%;" src="/images/pe13.jpg" />
