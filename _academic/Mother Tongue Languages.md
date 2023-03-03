@@ -68,7 +68,6 @@ description: ""
 <td style="width: 50%;">
 <p><u>Festive Celebrations &ndash; Lunar New Year</u></p>
 <p><p align="justify">Our students are given the opportunity to showcase their performing talents in Dikir Barat and Tarian Melayu. The concert items are solely organized and planned by students. Malay Dance Performers for 2022 CNY Celebrations
-</td>
 <td style="width: 50%;"><img src="/images/mtl9.jpg"></td>
 </tr>
 </tbody>
