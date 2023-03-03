@@ -94,7 +94,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p>Rakan Bahasa 2022 &amp; 2021</p>
+<p><p align="center">Rakan Bahasa 2022 &amp; 2021</p>
 <p><u>Language Competition</u></p>
 <p>Pena Emas (Essay writing competition by EDN)</p>
 <table style="border-collapse: collapse; width: 100%;" border="0">
