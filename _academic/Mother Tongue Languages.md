@@ -100,9 +100,10 @@ description: ""
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 31%;"><img src="/images/mtl14.png"></td>
-<td style="width: 28%;"><img src="/images/mtl15.jpg"></td>
-<td style="width: 41%;">&nbsp;</td>
+<td style="width: 20%;">&nbsp;</td>
+<td style="width: 30%;"><img src="/images/mtl14.png"></td>
+<td style="width: 30%;"><img src="/images/mtl15.jpg"></td>
+<td style="width: 20%;">&nbsp;</td>
 </tr>
 <tr>
 <td style="width: 31%;">Giovanna (3C4)</td>
