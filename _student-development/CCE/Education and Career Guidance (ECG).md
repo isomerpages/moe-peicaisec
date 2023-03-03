@@ -5,7 +5,7 @@ description: ""
 third_nav_title: CCE
 ---
 <h4><strong>Approach</strong></h4>
-<p>In Peicai, we aim to<br />1) enable students to <strong>explore</strong> viable education and career <strong>options</strong> through the provision of accurate and comprehensive <strong>information; </strong>(Knowledge)<br />2) nurture student's <strong>self-awareness, self-directedness </strong>and <strong>life skills </strong>for continual learning and training; (Skills)<br />3) inculcate an <strong>appreciation </strong>for the <strong>value of all occupations</strong> and how they contribute to the well-functioning of society; (Mindset)<br />4) equip students with <strong>skills and means to positively engage </strong>gtheir parents and other <strong>career influencers. </strong>(Engaging the community)</p>
+<p>In Peicai, we aim to<br /><p align="justify">1) enable students to <strong>explore</strong> viable education and career <strong>options</strong> through the provision of accurate and comprehensive <strong>information; </strong>(Knowledge)<br />2) nurture student's <strong>self-awareness, self-directedness </strong>and <strong>life skills </strong>for continual learning and training; (Skills)<br />3) inculcate an <strong>appreciation </strong>for the <strong>value of all occupations</strong> and how they contribute to the well-functioning of society; (Mindset)<br />4) equip students with <strong>skills and means to positively engage </strong>gtheir parents and other <strong>career influencers. </strong>(Engaging the community)</p>
 <h4><strong>ECG Outcomes for Secondary Students</strong></h4>
 <p dir="ltr"><strong>1) Lower Secondary School Emphasis: Career Exploration</strong></p>
 <ul>
