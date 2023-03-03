@@ -85,7 +85,7 @@ description: ""
 </table>
 <p><u>External Exposure / Competition</u></p>
 <p><p align="justify">Malay Language Student Ambassador organised by Malay Language Council of Singapore in conjunction to National Malay Language Month Movement</p>
-<table style="border-collapse: collapse; width: 100%;" border="0">
+<table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
 	<td style="width: 30%;">&nbsp;</td>
