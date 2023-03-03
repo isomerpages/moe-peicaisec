@@ -5,7 +5,7 @@ description: ""
 third_nav_title: CCE
 ---
 <p><strong>1) Protect Your Teens Against Sexual Predators</strong></p>
-<p>Should parents protect their teens against sexual predators? Be informed and involved, not afraid.&nbsp;<br />Do talk to your teens about online predators and gives them the tools they need to handle the cyber world.</p>
+<p><p align="justify">Should parents protect their teens against sexual predators? Be informed and involved, not afraid.&nbsp;<br />Do talk to your teens about online predators and gives them the tools they need to handle the cyber world.</p>
 <p><strong>Link: </strong><a href="http://www.google.com/appserve/mkt/p/AF35woSaJ7eaT3Z13C-Xy1xu9ug5Js3ol29yewro4BVknC2Ru4Fkdx_y7Z9Vv-mfUGkdRpKEelx3yJc">http://cnn.it/2xhwGL5</a></p>
 <p><strong>2)&nbsp;Setting Online Safety Resolutions with your family</strong></p>
 <p>Is it lame to make new year resolutions? Certainly not! Here are some ideas of online safety resolutions you could make as a family .</p>
