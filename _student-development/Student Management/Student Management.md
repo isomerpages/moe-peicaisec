@@ -13,7 +13,7 @@ third_nav_title: Student Management
 <p><strong>ATTIRE<br /></strong><p align="justify">Rationale: To present oneself well and uphold the good name of the school with pride.</p>
 <p><strong>APPEARANCE<br /></strong><p align="justify">Rationale: To portray a positive image of self through personal grooming and hygiene.</p>
 <p><strong>ATTENDANCE<br /></strong><p align="justify">Rationale: To cultivate self-management through personal responsibility and accountability.</p>
-<p><strong>ATTITUDE AND BEHAVIOUR<br /></strong>Rationale: To cultivate self-discipline through responsible decision making.</p>
+<p><strong>ATTITUDE AND BEHAVIOUR<br /></strong><p align="justify">Rationale: To cultivate self-discipline through responsible decision making.</p>
 <h4><strong>The Team</strong></h4>
 <table width="447">
 <tbody>
