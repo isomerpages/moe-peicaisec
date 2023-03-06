@@ -374,15 +374,12 @@ third_nav_title: Student Management
 <li>Students can enter special rooms in the school only when accompanied by teachers.</li>
 <li><p align="justify">Students are not allowed to invite anyone into the school without permission. All visitors to the school must obtain a Visitor Pass at the security post and report to the General Office.
 <li>Students are strictly not allowed to use abusive or foul language.</li>
-<li>Possession of any material that promotes unhealthy habits such as gambling, violence, harassment, discrimination etc. are strictly not allowed</li>
+<li><p align="justify">Possession of any material that promotes unhealthy habits such as gambling, violence, harassment, discrimination etc. are strictly not allowed
 <li>Possession and consumption of alcohol, tobacco-related products and e-vapouriser related products, like cigarettes, e-vapourisers, e-vapouriser pods or cartridges, are strictly prohibited by law.</li>
 <li>Possession of any incendiary items, such as lighters, paracord survival bracelet, matchsticks, matchboxes, empty cigarette boxes, are strictly not allowed.</li>
 <li>Possession and consumption of drugs are strictly prohibited by law.</li>
-<li>All students are not allowed to have in their possession any weapon or weapon-like devices in school. They are also not allowed to bring any weapon-like item that is used or intended to be used to cause harm to others.</li>
+<li><p align="justify">All students are not allowed to have in their possession any weapon or weapon-like devices in school. They are also not allowed to bring any weapon-like item that is used or intended to be used to cause harm to others.
 <li>Cycling, skating, rollerblading, and riding skate-scooters within the school grounds are strictly not allowed.</li>
-</ol>
-</ol>
-</ol>
 <ol>
 <li>Students are to ensure adherence to the following at all times:</li>
 <ol style="list-style-type: lower-roman;">
