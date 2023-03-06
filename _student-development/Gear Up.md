@@ -3,14 +3,14 @@ title: Gear Up
 permalink: /student-development/gear-up/
 description: ""
 ---
+<h4><strong>GEAR UP</strong></h4>
 <p><p align="justify">In Gear Up, we aim to develop the following desired objectives and outcomes to enhance the holistic education for your child/ward:</p>
 <ol>
-<li>Reintegration and re-acclimatization to school norms and routines&nbsp;</li>
-<li>Provision of the necessary tools and strategies for self-development.&nbsp;</li>
-<li>Support for social-emotional well-being through the getting used to of school routines&nbsp;</li>
-<li>Strengthening relationships and connectedness to teachers and peers to foster a sense of belonging in school.&nbsp;</li>
-<li>Organisation of interest-based and meaningful activities to build on engagement in school.</li>
-</ol>
+<li><p align="justify">Reintegration and re-acclimatization to school norms and routines&nbsp;
+<li><p align="justify">Provision of the necessary tools and strategies for self-development.&nbsp;
+<li><p align="justify">Support for social-emotional well-being through the getting used to of school routines&nbsp;
+<li><p align="justify">Strengthening relationships and connectedness to teachers and peers to foster a sense of belonging in school.&nbsp;
+<li><p align="justify">Organisation of interest-based and meaningful activities to build on engagement in school.
 <h4><strong>Schedule</strong></h4>
 <table width="439">
 <tbody>
