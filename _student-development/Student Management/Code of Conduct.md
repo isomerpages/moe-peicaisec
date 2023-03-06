@@ -349,8 +349,7 @@ third_nav_title: Student Management
 <li>For planned absences (with valid reasons) from curriculum, application should be submitted at least 2 weeks before. The PCA form may be obtained from the school&rsquo;s General Office.</li>
 <li>For last minute request on compassionate grounds, students should approach the General Office directly if in school or notify via their form teachers if not in school.</li>
 <li>Students on Hospitalisation and/or Medical Leave need not submit the Permission for Curriculum Absence (PCA) Form and should instead follow the points listed out in part 5 (c), 5 (d) and 5 (g).</li>
-</ol>
-</ol>
+
 <ol start="16">
 <li>Preparing and studying for tests or examinations is not a valid reason for absence from school and such offences will have a direct impact on the student&rsquo;s conduct grade and testimonials.</li>
 <li>Going on holidays during term time will not be considered as a valid reason for absence from school, including lessons, CCA and school programmes. Such offences will have a direct impact on the student&rsquo;s conduct grade and testimonials.</li>
