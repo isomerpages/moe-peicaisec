@@ -365,8 +365,8 @@ third_nav_title: Student Management
 <ol style="list-style-type: lower-roman;">
 <li><strong>In school:</strong></li>
 <ol style="list-style-type: lower-alpha;">
-<li><p align="justify">Students are to respect and obey all school rules and regulations.</li>
-<li><p align="justify">Students are to display exemplary conduct and behave with decorum at all times.</li>
+<li><p align="justify">Students are to respect and obey all school rules and regulations.
+<li><p align="justify">Students are to display exemplary conduct and behave with decorum at all times.
 <li><p align="justify">Students are to observe silence when they are in the classroom, at the parade square or school hall for flag raising ceremony or other school functions. They are to conduct themselves well during such gatherings where common courtesy and respect must be accorded to all concerned including guest speakers.</li>
 <li>Students must be respectful to all school staff and other students.</li>
 <li>Students are responsible for keeping the environment safe. The school has zero tolerance towards actions that may hurt or harm others emotionally or physically.</li>
