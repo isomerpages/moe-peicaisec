@@ -385,7 +385,7 @@ third_nav_title: Student Management
 <ol style="list-style-type: lower-roman;">
 <li><strong>In school:</strong></li>
 <ol style="list-style-type: lower-alpha;">
-<li>Students are to respect and obey all school rules and regulations.</li>
+<li><p align="justify">Students are to respect and obey all school rules and regulations.
 <li>Students are to display exemplary conduct and behave with decorum at all times.</li>
 <li><p align="justify">Students are to observe silence when they are in the classroom, at the parade square or school hall for flag raising ceremony or other school functions. They are to conduct themselves well during such gatherings where common courtesy and respect must be accorded to all concerned including guest speakers.
 <li>Students must be respectful to all school staff and other students.</li>
@@ -402,17 +402,17 @@ third_nav_title: Student Management
 <li><p align="justify">Cycling, skating, rollerblading, and riding skate-scooters within the school grounds are strictly not allowed.
 <li><strong>In Class</strong></li>
 <ol style="list-style-type: lower-alpha;">
-<li>Students are expected to attend all their lessons and not leave the classrooms without permission or a valid reason.</li>
+<li><p align="justify">Students are expected to attend all their lessons and not leave the classrooms without permission or a valid reason.
 <li>Students are expected to be punctual for lessons.</li>
 <li>Students are expected to be attentive and participate actively during lessons.</li>
 <li>Students are expected to complete and hand in all assignments on time.</li>
 <li>Students are expected to be responsible for the cleanliness of their classrooms.</li>
-<li>Students leaving the classroom during a lesson are expected to have a pass. Only 1 student will be allowed to leave the classroom at a time.</li>
-<li>Students who are going to another venue during a change of period are expected to do so promptly and in an orderly manner.</li>
+<li><p align="justify">Students leaving the classroom during a lesson are expected to have a pass. Only 1 student will be allowed to leave the classroom at a time.
+<li><p align="justify">Students who are going to another venue during a change of period are expected to do so promptly and in an orderly manner.
 <li>Students are expected not to be walking around the classroom during lesson time.</li>
 <li>Students are expected not to be disruptive during lesson time.</li>
-<li>Students are expected to keep their hand phones and mobile devices out of sight (i.e. inside their school bags) unless otherwise instructed by teachers.</li>
-<li>No food and drinks except mineral water are allowed in the classrooms/special rooms. School staff has the right to discard any food or drinks brought into classroom.</li>
+<li><p align="justify">Students are expected to keep their hand phones and mobile devices out of sight (i.e. inside their school bags) unless otherwise instructed by teachers.
+<li><p align="justify">No food and drinks except mineral water are allowed in the classrooms/special rooms. School staff has the right to discard any food or drinks brought into classroom.
 </ol>
 <li><strong>During Recess</strong></li>
 <ol style="list-style-type: lower-alpha;">
@@ -421,8 +421,7 @@ third_nav_title: Student Management
 <li>Students should not enter the canteen vendors&rsquo; kitchen area at any time.</li>
 <li>Students should keep the canteen clean.</li>
 <li>Students should return all eating utensils to the respective receptacles after use.</li>
-<li>Students should not bring food and drinks out of the canteen or to the classrooms for consumption. Food and drinks should be consumed only at the designated eating areas.</li>
-</ol>
+<li><p align="justify">Students should not bring food and drinks out of the canteen or to the classrooms for consumption. Food and drinks should be consumed only at the designated eating areas.
 <li><strong>At school events/functions</strong></li>
 <ol style="list-style-type: lower-alpha;">
 <li>Students are to show respect and common courtesy to uphold the good name of the school at all times.</li>
