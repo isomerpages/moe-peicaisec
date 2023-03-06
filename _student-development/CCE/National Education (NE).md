@@ -7,7 +7,7 @@ third_nav_title: CCE
 <h4><strong>Approach</strong></h4>
 <p>In Peicai, we aim to develop in students:</p>
 <ol>
-<li><strong>A Sense of Belonging;</strong> where students develop a deeper understanding of who they are as Singaporeans, and a shared understanding of the values that are important to us as a nation.</li>
+<li><strong>A Sense of Belonging;</strong> <p align="justify">where students develop a deeper understanding of who they are as Singaporeans, and a shared understanding of the values that are important to us as a nation.</li>
 <li><strong>A Sense of Reality;</strong> where students are aware of contemporary realities &mdash; including Singapore&rsquo;s constraints and vulnerabilities &mdash; which affect us as a nation amidst the backdrop of a less predictable world.</li>
 <li><strong>A Sense of Hope;</strong> where students have confidence and optimism in Singapore&rsquo;s future and the resilience to face the challenges ahead.</li>
 <li><strong>A Will to Act;</strong> where students become active citizens who have a collective resolve and a sense of shared mission towards building a Singapore for all.</li>
