@@ -7,16 +7,16 @@ third_nav_title: CCE
 <h4><strong>Approach</strong></h4>
 <p>In Peicai, we aim to develop in students:</p>
 <ol>
-<li><strong>A Sense of Belonging;</strong> <p align="justify">where students develop a deeper understanding of who they are as Singaporeans, and a shared understanding of the values that are important to us as a nation.</li>
-<li><strong>A Sense of Reality;</strong> where students are aware of contemporary realities &mdash; including Singapore&rsquo;s constraints and vulnerabilities &mdash; which affect us as a nation amidst the backdrop of a less predictable world.</li>
-<li><strong>A Sense of Hope;</strong> where students have confidence and optimism in Singapore&rsquo;s future and the resilience to face the challenges ahead.</li>
-<li><strong>A Will to Act;</strong> where students become active citizens who have a collective resolve and a sense of shared mission towards building a Singapore for all.</li>
+<li><strong>A Sense of Belonging;</strong><p align="justify">where students develop a deeper understanding of who they are as Singaporeans, and a shared understanding of the values that are important to us as a nation.
+<li><strong>A Sense of Reality;</strong><p align="justify"> where students are aware of contemporary realities &mdash; including Singapore&rsquo;s constraints and vulnerabilities &mdash; which affect us as a nation amidst the backdrop of a less predictable world.
+<li><strong>A Sense of Hope;</strong><p align="justify"> where students have confidence and optimism in Singapore&rsquo;s future and the resilience to face the challenges ahead.
+<li><strong>A Will to Act;</strong><p align="justify"> where students become active citizens who have a collective resolve and a sense of shared mission towards building a Singapore for all.
 </ol>
 <h4><strong>Curriculum</strong></h4>
-<p>Considering the current local and global context, it is recognised that NE has to be empowering and aspirational, allowing for individual sense-making so as to nurture active and engaged citizens, who are socially aware, skilled in critical thinking, and informed about local, regional, and global issues.</p>
-<p>As such, the key Dispositions of National Education are integrated and aligned through the various NE Commemorative Events, namely: Total Defence Day, International Friendship Day, Racial Harmony Day as well as National Day.</p>
+<p><p align="justify">Considering the current local and global context, it is recognised that NE has to be empowering and aspirational, allowing for individual sense-making so as to nurture active and engaged citizens, who are socially aware, skilled in critical thinking, and informed about local, regional, and global issues.</p>
+<p><p align="justify">As such, the key Dispositions of National Education are integrated and aligned through the various NE Commemorative Events, namely: Total Defence Day, International Friendship Day, Racial Harmony Day as well as National Day.</p>
 <img style="width: 65%;" src="/images/ne.jpg" />
-<p>To ensure rich learning of the students, these NE events are commemorated through not just CCE lessons, but also fringe activities tailored for the learning needs of each level.</p>
+<p><p align="justify">To ensure rich learning of the students, these NE events are commemorated through not just CCE lessons, but also fringe activities tailored for the learning needs of each level.</p>
 <h4><strong>Team</strong></h4>
 <p><span style="text-decoration: underline;"><strong>NE Committee 2022<br /></strong></span>Mr Keith Teo (NE Coordinator)<br />Ms Nur Syirain Bte Hamzah<br />Ms Talisa Kaur</p>
 <h4><strong>Activities / Events</strong></h4>
