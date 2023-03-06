@@ -3,7 +3,7 @@ title: Gear Up
 permalink: /student-development/gear-up/
 description: ""
 ---
-<p>In Gear Up, we aim to develop the following desired objectives and outcomes to enhance the holistic education for your child/ward:</p>
+<p><p align="justify">In Gear Up, we aim to develop the following desired objectives and outcomes to enhance the holistic education for your child/ward:</p>
 <ol>
 <li>Reintegration and re-acclimatization to school norms and routines&nbsp;</li>
 <li>Provision of the necessary tools and strategies for self-development.&nbsp;</li>
