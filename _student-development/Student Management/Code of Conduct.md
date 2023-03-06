@@ -188,29 +188,27 @@ third_nav_title: Student Management
 <li>For Male Students</li>
 <ol style="list-style-type: lower-roman;">
 <li>Only natural hair colour is allowed (i.e. no dyeing/tinting/highlights).</li>
-<li><p align="justify">Hair must be neat and kept above the eyebrows. When combed downwards, hair should not cover the eyes, touch the ear as well as the collar of the uniform.</li>
-<li>Hair at the crown must not be too thick or bushy.</li>
-<li><p align="justify">Hairstyles must be kept simple. It should not incorporate any inappropriate styles as deemed by the school. Hairstyles such as e.g. undercut, thin shaven at the side, shaved line parting, fringe touching eye-brows, V-shaped at the back are not allowed.</li>
+<li><p align="justify">Hair must be neat and kept above the eyebrows. When combed downwards, hair should not cover the eyes, touch the ear as well as the collar of the uniform.
+<li>Hair at the crown must not be too thick or bushy.
+<li><p align="justify">Hairstyles must be kept simple. It should not incorporate any inappropriate styles as deemed by the school. Hairstyles such as e.g. undercut, thin shaven at the side, shaved line parting, fringe touching eye-brows, V-shaped at the back are not allowed.
 <li>Earrings or ear sticks are not allowed</li>
-<li><p align="justify">Moustache/Beard/Goatee/Facial Piercings are not allowed. All students must be clean shaven and neat in appearance</li>
+<li><p align="justify">Moustache/Beard/Goatee/Facial Piercings are not allowed. All students must be clean shaven and neat in appearance
 <li>Sideburns, where kept, should not go beyond the cartilage at the centre of the ear</li>
-</ol>
 <img style="width: 70%;" src="/images/app1.jpg">
 <li>For Female Students</li>
 <ol style="list-style-type: lower-roman;">
 <li>Only natural hair colour is allowed (i.e. no dyeing/tinting/highlights).</li>
-<li><p align="justify">Hair must be neat and hair that is touching the shoulder or hair that is longer than shoulder length should be tied up.</li>
-<li><p align="justify">Length of hair fringe should be above the eyebrows. If the fringe is below the eyebrows, it should be clipped up.</li>
+<li><p align="justify">Hair must be neat and hair that is touching the shoulder or hair that is longer than shoulder length should be tied up.
+<li><p align="justify">Length of hair fringe should be above the eyebrows. If the fringe is below the eyebrows, it should be clipped up.
 <li>Any hair accessories worn should not be fanciful.</li>
 <li>Any ear studs worn should be of a simple design and not fanciful.</li>
 <li>Only one ear stud per ear is allowed and it has to be worn on the ear lobes only.</li>
 <li>Any ear sticks worn should be transparent.</li>
 <li>Dangling earrings are not allowed.</li>
-</ol>
 <img src="/images/app2.jpg">
 <li>All students are not allowed to have the following on them:</li>
 <ol style="list-style-type: lower-roman;">
-<li><p align="justify">Tattoos of any kind (visible or otherwise).<br />Students found with any tattoos should remove it before they are allowed to go to class.</li>
+<li><p align="justify">Tattoos of any kind (visible or otherwise).<br />Students found with any tattoos should remove it before they are allowed to go to class.
 <li>Henna&nbsp;painting.</li>
 <li>Make-up of any form.</li>
 <li>Long and/or coloured nails are not allowed.</li>
@@ -219,8 +217,7 @@ third_nav_title: Student Management
 <li><p align="justify">Accessories of any kind unless special permission is given<br />Religious accessories, when worn, should be concealed.</li>
 </ol>
 </ol>
-<li><p align="justify">Student leaders are to put on their Student Leaders&rsquo; badge at all times when they are wearing the school uniform</li>
-</ol>
+<li><p align="justify">Student leaders are to put on their Student Leaders&rsquo; badge at all times when they are wearing the school uniform
 <h4><strong>ATTENDANCE:</strong></h4>
 <p><strong>Rationale: To cultivate self-management through personal responsibility and accountability</strong></p>
 <ol>
