@@ -200,28 +200,28 @@ third_nav_title: Student Management
 <img style="width: 70%;" src="/images/app1.jpg">
 <li>For Female Students</li>
 <ol style="list-style-type: lower-roman;">
-<li>Only natural hair colour is allowed (i.e. no dyeing/tinting/highlights).</li>
-<li>Hair must be neat and hair that is touching the shoulder or hair that is longer than shoulder length should be tied up.</li>
-<li>Length of hair fringe should be above the eyebrows. If the fringe is below the eyebrows, it should be clipped up.</li>
-<li>Any hair accessories worn should not be fanciful.</li>
-<li>Any ear studs worn should be of a simple design and not fanciful.</li>
-<li>Only one ear stud per ear is allowed and it has to be worn on the ear lobes only.</li>
-<li>Any ear sticks worn should be transparent.</li>
+<li><p align="justify">Only natural hair colour is allowed (i.e. no dyeing/tinting/highlights).</li>
+<li><p align="justify">Hair must be neat and hair that is touching the shoulder or hair that is longer than shoulder length should be tied up.</li>
+<li><p align="justify">Length of hair fringe should be above the eyebrows. If the fringe is below the eyebrows, it should be clipped up.</li>
+<li><p align="justify">Any hair accessories worn should not be fanciful.</li>
+<li><p align="justify">Any ear studs worn should be of a simple design and not fanciful.</li>
+<li><p align="justify">Only one ear stud per ear is allowed and it has to be worn on the ear lobes only.</li>
+<li><p align="justify">Any ear sticks worn should be transparent.</li>
 <li>Dangling earrings are not allowed.</li>
 </ol>
 <img src="/images/app2.jpg">
-<li>All students are not allowed to have the following on them:</li>
+<li><p align="justify">All students are not allowed to have the following on them:</li>
 <ol style="list-style-type: lower-roman;">
-<li>Tattoos of any kind (visible or otherwise).<br />Students found with any tattoos should remove it before they are allowed to go to class.</li>
+<li><p align="justify">Tattoos of any kind (visible or otherwise).<br />Students found with any tattoos should remove it before they are allowed to go to class.</li>
 <li>Henna&nbsp;painting.</li>
 <li>Make-up of any form.</li>
-<li>Long and/or coloured nails are not allowed.</li>
-<li>Fanciful or striking spectacle frames.<br />Spectacle lenses should not be tinted.</li>
-<li>Cosmetic contact lenses.<br />E.g., contact lens with colour/patterns, contact lens that enlarge the pupils etc.</li>
-<li>Accessories of any kind unless special permission is given<br />Religious accessories, when worn, should be concealed.</li>
+<li><p align="justify">Long and/or coloured nails are not allowed.</li>
+<li><p align="justify">Fanciful or striking spectacle frames.<br />Spectacle lenses should not be tinted.</li>
+<li><p align="justify">Cosmetic contact lenses.<br />E.g., contact lens with colour/patterns, contact lens that enlarge the pupils etc.</li>
+<li><p align="justify">Accessories of any kind unless special permission is given<br />Religious accessories, when worn, should be concealed.</li>
 </ol>
 </ol>
-<li>Student leaders are to put on their Student Leaders&rsquo; badge at all times when they are wearing the school uniform</li>
+<li><p align="justify">Student leaders are to put on their Student Leaders&rsquo; badge at all times when they are wearing the school uniform</li>
 </ol>
 <h4><strong>ATTENDANCE:</strong></h4>
 <p><strong>Rationale: To cultivate self-management through personal responsibility and accountability</strong></p>
