@@ -4,9 +4,8 @@ permalink: /student-development/character-n-citizenship-education/Sexuality-Educ
 description: ""
 third_nav_title: CCE
 ---
-
 <h4><strong>Sexuality Education</strong></h4>
-<b>MOE Sexuality Education in Schools</b><br>
+<b><p align="justify">MOE Sexuality Education in Schools</b><br>
 1.	Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they 
 experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and
 make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic 
