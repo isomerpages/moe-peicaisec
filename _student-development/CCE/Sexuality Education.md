@@ -1079,7 +1079,7 @@ character, and expand their understanding and repertoire of skills to deal with 
   mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
   major-latin;mso-ansi-language:EN-GB">Term 1 Week 9</span></p></td></tr></tbody></table>
 	
-<b>eTeens Programme:</b><br>
+<b><p align="justify">eTeens Programme:</b><br>
 eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3
  students with accurate information  on STIs, HIV and protection from a health perspective. eTeens is conducted in two segments – a mass talk 
 segment and a classroom-based programme.<br>
