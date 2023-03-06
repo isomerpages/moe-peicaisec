@@ -375,11 +375,11 @@ third_nav_title: Student Management
 <li><p align="justify">Students are not allowed to invite anyone into the school without permission. All visitors to the school must obtain a Visitor Pass at the security post and report to the General Office.
 <li>Students are strictly not allowed to use abusive or foul language.</li>
 <li><p align="justify">Possession of any material that promotes unhealthy habits such as gambling, violence, harassment, discrimination etc. are strictly not allowed
-<li>Possession and consumption of alcohol, tobacco-related products and e-vapouriser related products, like cigarettes, e-vapourisers, e-vapouriser pods or cartridges, are strictly prohibited by law.</li>
-<li>Possession of any incendiary items, such as lighters, paracord survival bracelet, matchsticks, matchboxes, empty cigarette boxes, are strictly not allowed.</li>
+<li><p align="justify">Possession and consumption of alcohol, tobacco-related products and e-vapouriser related products, like cigarettes, e-vapourisers, e-vapouriser pods or cartridges, are strictly prohibited by law.
+<li><p align="justify">Possession of any incendiary items, such as lighters, paracord survival bracelet, matchsticks, matchboxes, empty cigarette boxes, are strictly not allowed.
 <li>Possession and consumption of drugs are strictly prohibited by law.</li>
 <li><p align="justify">All students are not allowed to have in their possession any weapon or weapon-like devices in school. They are also not allowed to bring any weapon-like item that is used or intended to be used to cause harm to others.
-<li>Cycling, skating, rollerblading, and riding skate-scooters within the school grounds are strictly not allowed.</li>
+<li><p align="justify">Cycling, skating, rollerblading, and riding skate-scooters within the school grounds are strictly not allowed.
 <ol>
 <li>Students are to ensure adherence to the following at all times:</li>
 <ol style="list-style-type: lower-roman;">
@@ -474,12 +474,12 @@ third_nav_title: Student Management
 </table>
 <ol>
 <ol style="list-style-type: lower-alpha;" start="3">
-<li>Students are to inform their parents/guardians of the school&rsquo;s policies on the use of mobile devices during curriculum time. For safety and emergency purposes, parents/guardians who need to contact their child/ward urgently can contact the General Office at 6288 4159.</li>
-<li>All mobile phones and non-PDLP related electronic devices should be switched off and kept out-of-sight unless it is used for the purpose of teaching and learning and approved by the teacher. They will be confiscated if they are seen or heard during curriculum time.</li>
-<li>Charging of any electronic devices is not allowed at all times. Students should instead charge their devices at the allocated charging kiosk(s) found in the school canteen.</li>
+<li><p align="justify">Students are to inform their parents/guardians of the school&rsquo;s policies on the use of mobile devices during curriculum time. For safety and emergency purposes, parents/guardians who need to contact their child/ward urgently can contact the General Office at 6288 4159.
+<li><p align="justify">All mobile phones and non-PDLP related electronic devices should be switched off and kept out-of-sight unless it is used for the purpose of teaching and learning and approved by the teacher. They will be confiscated if they are seen or heard during curriculum time.
+<li><p align="justify">Charging of any electronic devices is not allowed at all times. Students should instead charge their devices at the allocated charging kiosk(s) found in the school canteen.
 <ol style="list-style-type: lower-roman;">
-<li>Students are responsible for the proper use and cleanliness of the charging kiosk(s). Any intentional damage(s) or damage(s) due to negligence will be deemed the responsibility of the student(s), who will bear the cost of damage and face disciplinary action in accordance with the school&rsquo;s discipline policy.</li>
-<li>The school retains the right to open the charging kiosk(s) and/or units to remove any non-complying PLDs at any time for the safety, security and disciplinary purposes.</li>
+<li><p align="justify">Students are responsible for the proper use and cleanliness of the charging kiosk(s). Any intentional damage(s) or damage(s) due to negligence will be deemed the responsibility of the student(s), who will bear the cost of damage and face disciplinary action in accordance with the school&rsquo;s discipline policy.
+<li><p align="justify">The school retains the right to open the charging kiosk(s) and/or units to remove any non-complying PLDs at any time for the safety, security and disciplinary purposes.
 <li>All damages spotted by students should be reported to the General Office.</li>
 </ol>
 <li>The period of confiscation will be as follows:</li>
