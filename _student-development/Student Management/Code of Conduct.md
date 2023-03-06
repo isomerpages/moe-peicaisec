@@ -426,7 +426,6 @@ third_nav_title: Student Management
 <ol style="list-style-type: lower-alpha;">
 <li><p align="justify">Students are to show respect and common courtesy to uphold the good name of the school at all times.
 <li>Competitors / players should are to practise fair play when representing the school.</li>
-</ol>
 <ol>
 <li>Students are to observe the following regarding the use of mobile devices (including mobile phones and other electronic devices):</li>
 <ol style="list-style-type: lower-alpha;">
