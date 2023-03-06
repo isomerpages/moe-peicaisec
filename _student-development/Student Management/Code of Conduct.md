@@ -353,12 +353,11 @@ third_nav_title: Student Management
 <ol start="16">
 <li><p align="justify">Preparing and studying for tests or examinations is not a valid reason for absence from school and such offences will have a direct impact on the student&rsquo;s conduct grade and testimonials.</li>
 <li><p align="justify">Going on holidays during term time will not be considered as a valid reason for absence from school, including lessons, CCA and school programmes. Such offences will have a direct impact on the student&rsquo;s conduct grade and testimonials.</li>
-<li><p align="justify">Attending tuition and other enrichment outside of schoolwill not be considered as a valid reason for absence from school, afternoon lessons or programmes and CCA. Such offences will have a direct impact on the student&rsquo;s conduct grade and testimonials.</li>
-<li><p align="justify">Attendance at detention and CWO is compulsory where assigned. Any assigned hours must be duly completed within the stipulated time.</li>
-<li><p align="justify">Attendance at CCA is compulsory. Students who are absent from CCA will need to produce a valid MC (refer to Point 3g above) for the period of absence to the CCA teacher in-charge. Poor CCA attendance may affect conduct grade and school/national representation in competitions.</li>
-<li><p align="justify">If a student no longer has any more lessons for the day, the earliest time that he/she can be dismissed from school will be at 12.30 p.m.</li>
-<li><p align="justify">Students who do not have any lessons in between periods should do their own self- revision at the school library. Where there are such instances, it will be formally arranged by the school. Students are to sign in and out with the librarian at the library.</li>
-</ol>
+<li><p align="justify">Attending tuition and other enrichment outside of schoolwill not be considered as a valid reason for absence from school, afternoon lessons or programmes and CCA. Such offences will have a direct impact on the student&rsquo;s conduct grade and testimonials.
+<li><p align="justify">Attendance at detention and CWO is compulsory where assigned. Any assigned hours must be duly completed within the stipulated time.
+<li><p align="justify">Attendance at CCA is compulsory. Students who are absent from CCA will need to produce a valid MC (refer to Point 3g above) for the period of absence to the CCA teacher in-charge. Poor CCA attendance may affect conduct grade and school/national representation in competitions.
+<li><p align="justify">If a student no longer has any more lessons for the day, the earliest time that he/she can be dismissed from school will be at 12.30 p.m.
+<li><p align="justify">Students who do not have any lessons in between periods should do their own self- revision at the school library. Where there are such instances, it will be formally arranged by the school. Students are to sign in and out with the librarian at the library.
 <h4><strong>ATTITUDE AND BEHAVIOUR</strong></h4>
 <p><strong>Rationale: To cultivate self-discipline through responsible decision making</strong></p>
 <ol>
