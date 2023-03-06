@@ -214,9 +214,7 @@ third_nav_title: Student Management
 <li>Long and/or coloured nails are not allowed.</li>
 <li>Fanciful or striking spectacle frames.<br />Spectacle lenses should not be tinted.</li>
 <li>Cosmetic contact lenses.<br />E.g., contact lens with colour/patterns, contact lens that enlarge the pupils etc.</li>
-<li><p align="justify">Accessories of any kind unless special permission is given<br />Religious accessories, when worn, should be concealed.</li>
-</ol>
-</ol>
+<li><p align="justify">Accessories of any kind unless special permission is given<br />Religious accessories, when worn, should be concealed.
 <li><p align="justify">Student leaders are to put on their Student Leaders&rsquo; badge at all times when they are wearing the school uniform
 <h4><strong>ATTENDANCE:</strong></h4>
 <p><strong>Rationale: To cultivate self-management through personal responsibility and accountability</strong></p>
