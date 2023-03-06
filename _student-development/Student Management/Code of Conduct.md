@@ -351,8 +351,8 @@ third_nav_title: Student Management
 <li>Students on Hospitalisation and/or Medical Leave need not submit the Permission for Curriculum Absence (PCA) Form and should instead follow the points listed out in part 5 (c), 5 (d) and 5 (g).</li>
 
 <ol start="16">
-<li><p align="justify">Preparing and studying for tests or examinations is not a valid reason for absence from school and such offences will have a direct impact on the student&rsquo;s conduct grade and testimonials.</li>
-<li><p align="justify">Going on holidays during term time will not be considered as a valid reason for absence from school, including lessons, CCA and school programmes. Such offences will have a direct impact on the student&rsquo;s conduct grade and testimonials.</li>
+<li><p align="justify">Preparing and studying for tests or examinations is not a valid reason for absence from school and such offences will have a direct impact on the student&rsquo;s conduct grade and testimonials.
+<li><p align="justify">Going on holidays during term time will not be considered as a valid reason for absence from school, including lessons, CCA and school programmes. Such offences will have a direct impact on the student&rsquo;s conduct grade and testimonials.
 <li><p align="justify">Attending tuition and other enrichment outside of schoolwill not be considered as a valid reason for absence from school, afternoon lessons or programmes and CCA. Such offences will have a direct impact on the student&rsquo;s conduct grade and testimonials.
 <li><p align="justify">Attendance at detention and CWO is compulsory where assigned. Any assigned hours must be duly completed within the stipulated time.
 <li><p align="justify">Attendance at CCA is compulsory. Students who are absent from CCA will need to produce a valid MC (refer to Point 3g above) for the period of absence to the CCA teacher in-charge. Poor CCA attendance may affect conduct grade and school/national representation in competitions.
