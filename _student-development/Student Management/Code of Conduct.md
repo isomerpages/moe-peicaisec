@@ -416,12 +416,12 @@ third_nav_title: Student Management
 </ol>
 <li><strong>During Recess</strong></li>
 <ol style="list-style-type: lower-alpha;">
-<li>Students are not to stay in the class during recess unless with permission from a teacher.</li>
-<li>Students should queue for their food and can only buy food for themselves.</li>
-<li>Students should not enter the canteen vendors&rsquo; kitchen area at any time.</li>
-<li>Students should keep the canteen clean.</li>
-<li>Students should return all eating utensils to the respective receptacles after use.</li>
-<li><p align="justify">Students should not bring food and drinks out of the canteen or to the classrooms for consumption. Food and drinks should be consumed only at the designated eating areas.
+<li><p align="justify">Students are not to stay in the class during recess unless with permission from a teacher.
+<li><p align="justify">Students should queue for their food and can only buy food for themselves.
+<li><p align="justify">Students should not enter the canteen vendors&rsquo; kitchen area at any time.
+<li><p align="justify">Students should keep the canteen clean.
+<li><p align="justify">Students should return all eating utensils to the respective receptacles after use.
+<li><p align="justify"><p align="justify">Students should not bring food and drinks out of the canteen or to the classrooms for consumption. Food and drinks should be consumed only at the designated eating areas.
 <li><strong>At school events/functions</strong></li>
 <ol style="list-style-type: lower-alpha;">
 <li><p align="justify">Students are to show respect and common courtesy to uphold the good name of the school at all times.
