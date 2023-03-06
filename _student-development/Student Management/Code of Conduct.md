@@ -387,20 +387,19 @@ third_nav_title: Student Management
 <ol style="list-style-type: lower-alpha;">
 <li>Students are to respect and obey all school rules and regulations.</li>
 <li>Students are to display exemplary conduct and behave with decorum at all times.</li>
-<li>Students are to observe silence when they are in the classroom, at the parade square or school hall for flag raising ceremony or other school functions. They are to conduct themselves well during such gatherings where common courtesy and respect must be accorded to all concerned including guest speakers.</li>
+<li><p align="justify">Students are to observe silence when they are in the classroom, at the parade square or school hall for flag raising ceremony or other school functions. They are to conduct themselves well during such gatherings where common courtesy and respect must be accorded to all concerned including guest speakers.
 <li>Students must be respectful to all school staff and other students.</li>
-<li>Students are responsible for keeping the environment safe. The school has zero tolerance towards actions that may hurt or harm others emotionally or physically.</li>
-<li>Students are prohibited from entering any staff offices, such as the Staff Rooms, General office and HOD room, as well as the Staff Lounge.</li>
+<li><p align="justify">Students are responsible for keeping the environment safe. The school has zero tolerance towards actions that may hurt or harm others emotionally or physically.
+<li><p align="justify">Students are prohibited from entering any staff offices, such as the Staff Rooms, General office and HOD room, as well as the Staff Lounge.
 <li>Students can enter special rooms in the school only when accompanied by teachers.</li>
-<li>Students are not allowed to invite anyone into the school without permission. All visitors to the school must obtain a Visitor Pass at the security post and report to the General Office.</li>
+<li><p align="justify">Students are not allowed to invite anyone into the school without permission. All visitors to the school must obtain a Visitor Pass at the security post and report to the General Office.
 <li>Students are strictly not allowed to use abusive or foul language.</li>
-<li>Possession of any material that promotes unhealthy habits such as gambling, violence, harassment, discrimination etc. are strictly not allowed</li>
-<li>Possession and consumption of alcohol, tobacco-related products and e-vapouriser related products, like cigarettes, e-vapourisers, e-vapouriser pods or cartridges, are strictly prohibited by law.</li>
+<li><p align="justify">Possession of any material that promotes unhealthy habits such as gambling, violence, harassment, discrimination etc. are strictly not allowed
+<li><p align="justify">Possession and consumption of alcohol, tobacco-related products and e-vapouriser related products, like cigarettes, e-vapourisers, e-vapouriser pods or cartridges, are strictly prohibited by law.
 <li>Possession of any incendiary items, such as lighters, paracord survival bracelet, matchsticks, matchboxes, empty cigarette boxes, are strictly not allowed.</li>
 <li>Possession and consumption of drugs are strictly prohibited by law.</li>
-<li>All students are not allowed to have in their possession any weapon or weapon-like devices in school. They are also not allowed to bring any weapon-like item that is used or intended to be used to cause harm to others.</li>
-<li>Cycling, skating, rollerblading, and riding skate-scooters within the school grounds are strictly not allowed.</li>
-</ol>
+<li><p align="justify">All students are not allowed to have in their possession any weapon or weapon-like devices in school. They are also not allowed to bring any weapon-like item that is used or intended to be used to cause harm to others.
+<li><p align="justify">Cycling, skating, rollerblading, and riding skate-scooters within the school grounds are strictly not allowed.
 <li><strong>In Class</strong></li>
 <ol style="list-style-type: lower-alpha;">
 <li>Students are expected to attend all their lessons and not leave the classrooms without permission or a valid reason.</li>
