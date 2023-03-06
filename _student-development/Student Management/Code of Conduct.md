@@ -425,14 +425,13 @@ third_nav_title: Student Management
 <li><strong>At school events/functions</strong></li>
 <ol style="list-style-type: lower-alpha;">
 <li><p align="justify">Students are to show respect and common courtesy to uphold the good name of the school at all times.
-<li>Competitors / players should are to practise fair play when representing the school.</li>
+<li><p align="justify">Competitors / players should are to practise fair play when representing the school.
 <ol>
-<li>Students are to observe the following regarding the use of mobile devices (including mobile phones and other electronic devices):</li>
+<li><p align="justify">Students are to observe the following regarding the use of mobile devices (including mobile phones and other electronic devices):
 <ol style="list-style-type: lower-alpha;">
-<li>Students carry mobile phones to school at their own risk. No other personal electronic devices (except school issued PDLP devices) should be brought to school.</li>
-<li>To ensure a conducive environment for learning in school, students are not allowed to use their mobile phones and non-PDLP related electronic devices during curriculum time. The table below summarises the use of devices during curriculum time.</li>
-</ol>
-</ol>
+<li><p align="justify">Students carry mobile phones to school at their own risk. No other personal electronic devices (except school issued PDLP devices) should be brought to school.
+<li><p align="justify">To ensure a conducive environment for learning in school, students are not allowed to use their mobile phones and non-PDLP related electronic devices during curriculum time. The table below summarises the use of devices during curriculum time.
+
 <table>
 <tbody>
 <tr>
