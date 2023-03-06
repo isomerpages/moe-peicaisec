@@ -424,7 +424,7 @@ third_nav_title: Student Management
 <li><p align="justify">Students should not bring food and drinks out of the canteen or to the classrooms for consumption. Food and drinks should be consumed only at the designated eating areas.
 <li><strong>At school events/functions</strong></li>
 <ol style="list-style-type: lower-alpha;">
-<li>Students are to show respect and common courtesy to uphold the good name of the school at all times.</li>
+<li><p align="justify">Students are to show respect and common courtesy to uphold the good name of the school at all times.
 <li>Competitors / players should are to practise fair play when representing the school.</li>
 </ol>
 </ol>
