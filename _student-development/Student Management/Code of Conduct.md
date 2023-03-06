@@ -23,8 +23,7 @@ third_nav_title: Student Management
 <li><p align="justify">White/black or dark coloured school based t-shirts can be worn underneath the school shirt. No bright or fluorescent coloured t-shirts e.g. bright pink, neon green or orange etc.
 <li><p align="justify">Only canvas shoes or sports shoes are allowed. Canvas shoes must be predominately in the following colours: Black, Blue, White and Grey. Sports shoes can be of any colour but avoid bright and flashy colours. Brightly coloured shoes are strictly not allowed. The shoes should either be with laces or straps. Slip-on and high-cut shoes are not allowed. Shoes with lights, wheels or wedges are also not allowed.
 <li>Socks should be worn at all times when in school attire.&nbsp;&nbsp;Socks must be black, white or grey in colour. Socks should also be long enough to cover the ankles but not the calf.&nbsp;</li>
-<li>Any footwear, other than the above prescribed shoes, are not allowed to be worn in school except for medical reasons and approved by a teacher with supporting documentation issued by medical practitioners registered under the Medical Registration Act.</li>
-</ol>
+<li><p align="justify">Any footwear, other than the above prescribed shoes, are not allowed to be worn in school except for medical reasons and approved by a teacher with supporting documentation issued by medical practitioners registered under the Medical Registration Act.</li>
 <li>The prescribed attire for various school activities and events (unless otherwise specified) is as follows:</li>
 </ol>
 <table width="643">
