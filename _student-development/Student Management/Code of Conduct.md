@@ -342,9 +342,9 @@ third_nav_title: Student Management
 <li><p align="justify">Students with late-coming records the previous year, who arrive after 8.00 a.m. and have no valid reasons for being late, will not be allowed to go to class.
 <li><p align="justify">Students who have been issued the late-coming slip are required to submit these slips to their Form Teachers or Subject Teachers for records purposes.
 <li><p align="justify">Students with less than 95% attendance (where absence is without valid medical reasons) may not be allowed to sit for the End-of-Year examinations.
-<li>Poor attendance in school and persistent late-coming may affect the conduct grade and testimonial of the student.</li>
-<li>Curriculum time is of utmost importance, as such, early release from school or absence during curriculum time will not be approved unless it is on compassionate grounds. Students are advised to schedule their medical or dental appointmentafter curriculum time.</li>
-<li>Students who need to be absent from school for an extended period (continuously three or more days) during term time for valid reasons should seek special permission from the Principal/Vice-Principal by filling in a Permission for Curriculum Absence (PCA) form. Failing which, absence from school during this period may be considered as truancy.</li>
+<li><p align="justify">Poor attendance in school and persistent late-coming may affect the conduct grade and testimonial of the student.
+<li><p align="justify">Curriculum time is of utmost importance, as such, early release from school or absence during curriculum time will not be approved unless it is on compassionate grounds. Students are advised to schedule their medical or dental appointmentafter curriculum time.
+<li><p align="justify">Students who need to be absent from school for an extended period (continuously three or more days) during term time for valid reasons should seek special permission from the Principal/Vice-Principal by filling in a Permission for Curriculum Absence (PCA) form. Failing which, absence from school during this period may be considered as truancy.
 <ol style="list-style-type: lower-alpha;">
 <li>For planned absences (with valid reasons) from curriculum, application should be submitted at least 2 weeks before. The PCA form may be obtained from the school&rsquo;s General Office.</li>
 <li>For last minute request on compassionate grounds, students should approach the General Office directly if in school or notify via their form teachers if not in school.</li>
