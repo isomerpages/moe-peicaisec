@@ -5,27 +5,27 @@ description: ""
 third_nav_title: Student Management
 ---
 <h4><strong>PHILOSOPHY AND APPROACH</strong></h4>
-<p>The code of conduct serves to nurture in our students desired values and behaviours that are exemplary.</p>
-<p>The discipline processes and systems in the school are designed to help and guide students to think responsibly, reflect on their actions, understand the consequences of actions as well as responsibilities and come up with collaborative solutions to move forward. Discipline offences will have a direct impact on conduct grade, testimonial of students</p>
-<p>The school has a clear set of rules and regulations, which together with the school&rsquo;s philosophy for discipline, are shared with the students. The rationale for each segment of the rules and regulations have been articulated explicitly to ensure that students do not follow rules blindly. Instead, students should understand the intentions and reasons for these rules as well as how these rules would serve them well in future as they progress to the next phase of their education and lives.</p>
-<p>We trust that students who graduate from PCSS would leave the school as responsible young adults and citizens who are ready to contribute to the community and the nation.</p>
+<p><p align="justify">The code of conduct serves to nurture in our students desired values and behaviours that are exemplary.</p>
+<p><p align="justify">The discipline processes and systems in the school are designed to help and guide students to think responsibly, reflect on their actions, understand the consequences of actions as well as responsibilities and come up with collaborative solutions to move forward. Discipline offences will have a direct impact on conduct grade, testimonial of students</p>
+<p><p align="justify">The school has a clear set of rules and regulations, which together with the school&rsquo;s philosophy for discipline, are shared with the students. The rationale for each segment of the rules and regulations have been articulated explicitly to ensure that students do not follow rules blindly. Instead, students should understand the intentions and reasons for these rules as well as how these rules would serve them well in future as they progress to the next phase of their education and lives.</p>
+<p><p align="justify">We trust that students who graduate from PCSS would leave the school as responsible young adults and citizens who are ready to contribute to the community and the nation.</p>
 <h4><strong>ATTIRE</strong></h4>
-<p><strong>Rationale: To present oneself well and uphold the good name of the school with pride both in and out of school</strong></p>
+<p><strong><p align="justify">Rationale: To present oneself well and uphold the good name of the school with pride both in and out of school</strong></p>
 <ol>
-<li>Students are to wear the prescribed school uniform. Modification to the uniform is strictly not allowed.</li>
-<li>All students are to ensure that they are properly attired at all times including during the school holidays and outside of school.</li>
-<li>No external attire is allowed in school at all times.</li>
-<li>All students are to ensure the following with regard to the school uniform:</li>
+<li><p align="justify">Students are to wear the prescribed school uniform. Modification to the uniform is strictly not allowed.</li>
+<li><p align="justify">All students are to ensure that they are properly attired at all times including during the school holidays and outside of school.</li>
+<li><p align="justify">No external attire is allowed in school at all times.</li>
+<li><p align="justify">All students are to ensure the following with regard to the school uniform:</li>
 <ol style="list-style-type: lower-alpha;">
-<li>Shirts&nbsp;and blouses must be properly buttoned up, worn neatly and smartly at all times</li>
-<li>The length of the school skirt should not be 3cm higher than the knees.</li>
-<li>The school pants/shorts/shirt/skirt is of the correct size and not oversized, too tight or too short.</li>
-<li>White/black or dark coloured school based t-shirts can be worn underneath the school shirt. No bright or fluorescent coloured t-shirts e.g. bright pink, neon green or orange etc.</li>
-<li>Only canvas shoes or sports shoes are allowed. Canvas shoes must be predominately in the following colours: Black, Blue, White and Grey. Sports shoes can be of any colour but avoid bright and flashy colours. Brightly coloured shoes are strictly not allowed. The shoes should either be with laces or straps. Slip-on and high-cut shoes are not allowed. Shoes with lights, wheels or wedges are also not allowed.</li>
-<li>Socks should be worn at all times when in school attire.&nbsp;&nbsp;Socks must be black, white or grey in colour. Socks should also be long enough to cover the ankles but not the calf.&nbsp;</li>
-<li>Any footwear, other than the above prescribed shoes, are not allowed to be worn in school except for medical reasons and approved by a teacher with supporting documentation issued by medical practitioners registered under the Medical Registration Act.</li>
+<li><p align="justify">Shirts&nbsp;and blouses must be properly buttoned up, worn neatly and smartly at all times</li>
+<li><p align="justify">The length of the school skirt should not be 3cm higher than the knees.</li>
+<li><p align="justify">The school pants/shorts/shirt/skirt is of the correct size and not oversized, too tight or too short.</li>
+<li><p align="justify">White/black or dark coloured school based t-shirts can be worn underneath the school shirt. No bright or fluorescent coloured t-shirts e.g. bright pink, neon green or orange etc.</li>
+<li><p align="justify">Only canvas shoes or sports shoes are allowed. Canvas shoes must be predominately in the following colours: Black, Blue, White and Grey. Sports shoes can be of any colour but avoid bright and flashy colours. Brightly coloured shoes are strictly not allowed. The shoes should either be with laces or straps. Slip-on and high-cut shoes are not allowed. Shoes with lights, wheels or wedges are also not allowed.</li>
+<li><p align="justify">Socks should be worn at all times when in school attire.&nbsp;&nbsp;Socks must be black, white or grey in colour. Socks should also be long enough to cover the ankles but not the calf.&nbsp;</li>
+<li><p align="justify">Any footwear, other than the above prescribed shoes, are not allowed to be worn in school except for medical reasons and approved by a teacher with supporting documentation issued by medical practitioners registered under the Medical Registration Act.</li>
 </ol>
-<li>The prescribed attire for various school activities and events (unless otherwise specified) is as follows:</li>
+<li><p align="justify">The prescribed attire for various school activities and events (unless otherwise specified) is as follows:</li>
 </ol>
 <table width="643">
 <thead>
@@ -183,19 +183,19 @@ third_nav_title: Student Management
 </tbody>
 </table>
 <h4><strong>APPEARANCE</strong></h4>
-<p><strong>Rationale: To portray a positive image of oneself through personal grooming&nbsp;and hygiene.</strong></p>
+<p><strong><p align="justify">Rationale: To portray a positive image of oneself through personal grooming&nbsp;and hygiene.</strong></p>
 <ol>
 <li>All students are to ensure the following:</li>
 <ol style="list-style-type: lower-alpha;">
 <li>For Male Students</li>
 <ol style="list-style-type: lower-roman;">
-<li>Only natural hair colour is allowed (i.e. no dyeing/tinting/highlights).</li>
-<li>Hair must be neat and kept above the eyebrows. When combed downwards, hair should not cover the eyes, touch the ear as well as the collar of the uniform.</li>
-<li>Hair at the crown must not be too thick or bushy.</li>
-<li>Hairstyles must be kept simple. It should not incorporate any inappropriate styles as deemed by the school. Hairstyles such as e.g. undercut, thin shaven at the side, shaved line parting, fringe touching eye-brows, V-shaped at the back are not allowed.</li>
-<li>Earrings or ear sticks are not allowed</li>
-<li>Moustache/Beard/Goatee/Facial Piercings are not allowed. All students must be clean shaven and neat in appearance</li>
-<li>Sideburns, where kept, should not go beyond the cartilage at the centre of the ear</li>
+<li><p align="justify">Only natural hair colour is allowed (i.e. no dyeing/tinting/highlights).</li>
+<li><p align="justify">Hair must be neat and kept above the eyebrows. When combed downwards, hair should not cover the eyes, touch the ear as well as the collar of the uniform.</li>
+<li><p align="justify">Hair at the crown must not be too thick or bushy.</li>
+<li><p align="justify">Hairstyles must be kept simple. It should not incorporate any inappropriate styles as deemed by the school. Hairstyles such as e.g. undercut, thin shaven at the side, shaved line parting, fringe touching eye-brows, V-shaped at the back are not allowed.</li>
+<li><p align="justify">Earrings or ear sticks are not allowed</li>
+<li><p align="justify">Moustache/Beard/Goatee/Facial Piercings are not allowed. All students must be clean shaven and neat in appearance</li>
+<li><p align="justify">Sideburns, where kept, should not go beyond the cartilage at the centre of the ear</li>
 </ol>
 <img style="width: 70%;" src="/images/app1.jpg">
 <li>For Female Students</li>
