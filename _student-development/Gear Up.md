@@ -82,25 +82,18 @@ description: ""
 <td width="294">
 <p>Transition to Secondary School:</p>
 <p><p align="justify">To inculcate good self-management routine to support better transition to Secondary School life and to strengthen school connectedness</p>
-</td>
-</tr>
 <tr>
 <td width="144">
 <p>Secondary 2 and 3</p>
 </td>
 <td width="294">
 <p><p align="justify">Discovering Self &amp; Purpose: Developing sense of self, purpose and resilience to pursue personal goals and passion. Building Positive Relationship: Developing skills to relating to others better and&nbsp;perspective taking to understand impact of decisions on self and others. The school has identified the same programme objectives for the sec 2 and 3s to allow for better continuity and integration, and any possible enhancements, as they progress from sec 2 to sec 3.</p>
-</td>
-</tr>
 <tr>
 <td width="144">
 <p>Secondary 4</p>
 </td>
 <td width="294">
 <p><p align="justify">ECG. To help and guide with post-secondary school options with the focus on motivating the students for their upcoming national exams at the end of the year.</p>
-</td>
-</tr>
-</tbody>
 	<h4><strong>The Team</strong></h4>
 <table width="439">
 <tbody>
