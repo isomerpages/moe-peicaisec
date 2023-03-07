@@ -11,7 +11,7 @@ third_nav_title: Blended Learning
 <p><p align="justify">At Peicai Secondary School, teachers design engaging Blended Learning experiences to:<br />1. Nurture self-directed and independent learners, and;<br />2. Develop passionate and intrinsically motivated learners.</p>
 <p><p align="justify">Through both online and offline approaches to learning, we aim to provide students with opportunities to  <strong>learn at their own pace</strong>&nbsp;and be empowered to&nbsp;<strong>take charge of their learning</strong>&nbsp;for core curriculum as well as their interests beyond the syllabus.&nbsp;</p>
 <h4><strong>Home-based Learning (HBL) Days</strong></h4>
-<p><p align="justify">One aspect of BL is the integration of home-based learning (HBL) as a regular feature of the schooling experience. Here in Peicai Secondary School, HBL days are scheduled at regular intervals throughout the year to complement teaching and learning in school.</p>
+<p><p align="justify"> HBL days are scheduled every fortnightly in Term 1 to 3 to complement teaching and learning in school.</p>
 <p><strong>HBL Days for 2022</strong></p>
 <p><p align="justify">The table below lists the HBL days for 2022. These dates can also be found in the semestral welcome letters (for parents) as well as the School Calendar (for students).</p>
 <table style="margin-left: auto; margin-right: auto;">
