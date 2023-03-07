@@ -4,14 +4,12 @@ permalink: /cca/ccas/clubs-n-societies/infocomm-club/
 description: ""
 third_nav_title: Clubs & Societies
 ---
-
-
 <img src="/images/info1.png">
 <div>
 <h4><strong>Introduction</strong></h4>
 <div>
 <p>In InfoComm Club, we aim to:</p>
-<p>1) Excite students about Information Communication and Technology (ICT) in a fun and meaningful way by helping them to learn skills such as use of digital media, mobile technologies and games development.<br />2) Develop in students the skills to setting up and operating sound, projection and lighting system to support school events.</p>
+<p><p align="justify">1) Excite students about Information Communication and Technology (ICT) in a fun and meaningful way by helping them to learn skills such as use of digital media, mobile technologies and games development.<br />2) Develop in students the skills to setting up and operating sound, projection and lighting system to support school events.</p>
 <h4><strong>Teachers-In-Charge</strong></h4>
 <table width="439">
 <tbody>
