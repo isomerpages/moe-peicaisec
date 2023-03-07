@@ -1,9 +1,10 @@
 ---
 title: Class Leadership
-permalink: /student-development/student-leadership-sl/class-leadership
+permalink: /student-development/student-leadership-sl/class-leadership/
 description: ""
 third_nav_title: Student Leadership (SL)
 ---
+<h4><strong>Student Leadership (SL)</strong></h4>
 <p>The Class Leaders of Peicai Secondary School are representatives of each class chosen to serve a pivotal role in the school&rsquo;s ecosystem of care. They serve two main groups of people &ndash; their class and their classmates.</p>
 <p>For their class, they support their Form Teachers with the day-to-day to operations of their class in a myriad of tasks like building class spirit.</p>
 <p>For their classmates, they are trained in peer supporting strategies and are tasked to continually look out for their classmates. Equipped with cyber-wellness advocacy and peer mediating competencies, the Class Leaders are front-liners in any peer-to-peer issues in the class. And in doing so, they actively shape the dynamics of the school towards a positive and caring climate.</p>
