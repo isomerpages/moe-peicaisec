@@ -4,11 +4,10 @@ permalink: /co-curricular-activities/ccas/uniformed-groups/girl-guides/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-
 <img src="/images/gg.png">
 <h4><strong>Introduction</strong></h4>
 <p>In Girl Guides, we aim to&hellip;.</p>
-<p>1) provide opportunities to help our girls discover and develop their strengths and skills to the fullest potential,<br />2) become responsible citizens of the world, and<br />3) be prepared for each and every opportunity or challenge they will face in life.</p>
+<p><p align="justify">1) provide opportunities to help our girls discover and develop their strengths and skills to the fullest potential,<br />2) become responsible citizens of the world, and<br />3) be prepared for each and every opportunity or challenge they will face in life.</p>
 <h4><strong>Teachers-In-Charge</strong></h4>
 <table width="414">
 <tbody>
