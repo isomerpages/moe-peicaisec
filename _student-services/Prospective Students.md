@@ -120,7 +120,7 @@ description: ""
 <li><strong>Leadership</strong></li>
 </ul>
 <p><p align="justify">Our Student Council (SC) aims to develop students into inspiring leaders with a daring spirit and a passion to lead and serve. The Student Leadership Programme in PCSS offers a wide range of platforms for students to take on leadership roles in the school.</p>
-<p>Applicants admitted to the school via DSA (Leadership) can expect to be appointed as a student councillor in Secondary 1 and perform duties in the Student Council to make a difference to the school and community. He/She will be able to deepen their leadership competencies through the Student Leadership Challenge framework (Kouzes and Pozner). They will also build on skills through various workshops (i.e. public speaking and facilitation) and on-job training when leading school-wide events.</p>
+<p><p align="justify">Applicants admitted to the school via DSA (Leadership) can expect to be appointed as a student councillor in Secondary 1 and perform duties in the Student Council to make a difference to the school and community. He/She will be able to deepen their leadership competencies through the Student Leadership Challenge framework (Kouzes and Pozner). They will also build on skills through various workshops (i.e. public speaking and facilitation) and on-job training when leading school-wide events.</p>
 <p><u>Criteria</u></p>
 <table width="946">
 <tbody>
