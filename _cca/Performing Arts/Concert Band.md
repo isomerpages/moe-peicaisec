@@ -4,7 +4,6 @@ permalink: /cca/ccas/performing-arts/concert-band/
 description: ""
 third_nav_title: Performing Arts
 ---
-
 <img src="/images/band.jpg">
 <h4><strong>Introduction</strong></h4>
 <p>In Concert Band, we aim to&nbsp;</p>
