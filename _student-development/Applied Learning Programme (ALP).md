@@ -16,5 +16,5 @@ description: ""
 <p><p align="justify">In Tier 1 of the programme, a blended learning approach will be used to allow students to tinker and experiment with ideas, technologies and skills. They will be exposed to social causes such as environmental care and protection, gender equality and inclusivity for special needs amongst others, and equipped with technological skills like coding, video editing and data analytics. Students will then work collaboratively in groups to come up with technology-based solutions to solve or advocate for their identified social causes.</p>
 <img style="width: 75%;" src="/images/alp2.jpg" /><br>
 <img style="width: 70%;" src="/images/alp3.png" />
-<p>In the next tier of programme, students from select project groups will pitch their prototypes to the community, and partner with organizations to explore implementing their solutions to meet existing as well as future needs.</p>
+<p><p align="justify">In the next tier of programme, students from select project groups will pitch their prototypes to the community, and partner with organizations to explore implementing their solutions to meet existing as well as future needs.</p>
 <p>For more information on&nbsp;<strong><em>Seek. Make. Advocate</em></strong>, you may write to us at&nbsp;<a href="mailto:peicai_ss@moe.edu.sg">peicai_ss@moe.edu.sg</a>.</p>
