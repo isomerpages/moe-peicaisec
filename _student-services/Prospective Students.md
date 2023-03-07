@@ -12,8 +12,8 @@ description: ""
 <li><strong>Softball (Boys and Girls)</strong></li>
 <li><strong>Volleyball (Boys)</strong></li>
 </ul>
-<p>Our Sports and Games teams aim to develop students into skilled and passionate sportsmen, who are not only competent in sports but possess good character and values such as integrity and sportsmanship.</p>
-<p>Applicants admitted to the school via DSA (Sports and Games) can expect to be a member of the school&rsquo;s sports teams and represent the school in various competitions such as the National Schools Games (NSG).</p>
+<p><p align="justify">Our Sports and Games teams aim to develop students into skilled and passionate sportsmen, who are not only competent in sports but possess good character and values such as integrity and sportsmanship.</p>
+<p><p align="justify">Applicants admitted to the school via DSA (Sports and Games) can expect to be a member of the school&rsquo;s sports teams and represent the school in various competitions such as the National Schools Games (NSG).</p>
 <p><u>Criteria</u></p>
 <table width="943">
 <tbody>
