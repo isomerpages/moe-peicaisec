@@ -4,7 +4,7 @@ permalink: /student-development/student-leadership-sl/student-council/
 description: ""
 third_nav_title: Student Leadership (SL)
 ---
-<h4><strong>Training and Schedule</strong></h4>
+<h4><strong>Student Council</strong></h4>
 <table style="margin-left: auto; margin-right: auto;" width="75%">
 <tbody>
 <tr>
