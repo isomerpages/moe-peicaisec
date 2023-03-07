@@ -6,15 +6,15 @@ third_nav_title: Uniformed Groups
 ---
 <h4><strong>Introduction</strong></h4>
 <p><p align="justify">Peicai Secondary School's National Cadet Corps (NCC) Sea is a premier uniformed youth organisation supported by the Ministry of Education (MOE) of Singapore.</p>
-<p>Our unit aims to nurture inspiring leaders and committed citizens through fun, adventurous and military-related activities. Members participate in a wide range of programmes, such as the Shooting Experience, where cadets have the opportunity to fire a SAR21 and TAR-21 airsoft rifle, Free Style Drills Competition, kayaking certification, Kayaking Expedition, rock-climbing, sailing, dragon-boat competition, etc.</p>
-<p>Along with these activities, we also have a myriad of camps and courses that are conducted on the grounds of our headquarters where the facilities are utilised by such activities. For example, Secondary One cadets participate in Camp Forge, Secondary Two cadets in Camp Steel and Secondary Three cadets go through Camp Pinnacle and the Leaders&rsquo; Camp.</p>
-<p>Beyond the land and sea trainings, cadets are also given opportunities to train overseas in programmes such as:</p>
+<p><p align="justify">Our unit aims to nurture inspiring leaders and committed citizens through fun, adventurous and military-related activities. Members participate in a wide range of programmes, such as the Shooting Experience, where cadets have the opportunity to fire a SAR21 and TAR-21 airsoft rifle, Free Style Drills Competition, kayaking certification, Kayaking Expedition, rock-climbing, sailing, dragon-boat competition, etc.</p>
+<p><p align="justify">Along with these activities, we also have a myriad of camps and courses that are conducted on the grounds of our headquarters where the facilities are utilised by such activities. For example, Secondary One cadets participate in Camp Forge, Secondary Two cadets in Camp Steel and Secondary Three cadets go through Camp Pinnacle and the Leaders&rsquo; Camp.</p>
+<p><p align="justify">Beyond the land and sea trainings, cadets are also given opportunities to train overseas in programmes such as:</p>
 <ul>
 <li>Midshipmen Sea Training Deployment (MSTD)&nbsp;</li>
 <li>Desert Trekking (India)&nbsp;</li>
 <li>Mt Ophir Expedition</li>
 </ul>
-<div>All in all, we strive to develop every NCC Cadet to have a resilient mind, fit body and committed heart. This is in line with the NCC vision,&nbsp;<strong>&lsquo;Cadet Strong&rsquo;</strong>:</div>
+<div><p align="justify">All in all, we strive to develop every NCC Cadet to have a resilient mind, fit body and committed heart. This is in line with the NCC vision,&nbsp;<strong>&lsquo;Cadet Strong&rsquo;</strong>:</div>
 <p><strong>Mind<br /></strong>Cadet with a resilient mind is confident to take on challenges and overcome setbacks.&nbsp;</p>
 <p><strong>Body<br /></strong>Cadet understands the importance of a fit body, takes ownership to maintain a good level of physical fitness and adopt healthy eating habits.&nbsp;</p>
 <p><strong>Heart<br /></strong>Cadet has a committed heart and lives by the NCC Core Values with a strong sense of purpose to serve the cadet&rsquo;s team, school and nation. Cadet learns passionately to develop cadet&rsquo;s own abilities and proactively contributes towards wherever the cadet is.</p>
