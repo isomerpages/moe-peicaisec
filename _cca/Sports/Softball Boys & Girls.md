@@ -4,6 +4,7 @@ permalink: /cca/ccas/sports/softball-boys-n-girls/
 description: ""
 third_nav_title: Sports
 ---
+<h4><strong>Softball Boys & Girls</strong></h4>
 <img style="width: 50%;" src="/images/sb1.jpg" align = "right" />
 <p>Over the years, the Peicai Softball Team has developed a tough reputation&nbsp;amongst competing schools in the national tournaments. We train with diligence and discipline to ensure that we are prepared to put up a strong challenge at the national level. We participate in various competitions throughout the year, namely the National School Games &lsquo;B&rsquo; and &lsquo;C&rsquo; divisions, and the U14 and U17 categories at the annual Singapore Recreation Club Softball Carnival</p>
 <p><p align="justify">Our boys and girls step onto the field with only one thing on their mind &ndash; to play their best game ever. The outcome may not always be in our favour, but every game brings a new lesson learnt. The games on the field parallels the challenges our players may face in real life and they can benefit from the experience they go through on the field. We cherish the values of teamwork, respect and integrity that help keep us going amidst adversities.&nbsp;</p>
