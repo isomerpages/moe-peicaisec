@@ -12,8 +12,8 @@ third_nav_title: Blended Learning
 <p><p align="justify">Through both online and offline approaches to learning, we aim to provide students with opportunities to  <strong>learn at their own pace</strong>&nbsp;and be empowered to&nbsp;<strong>take charge of their learning</strong>&nbsp;for core curriculum as well as their interests beyond the syllabus.&nbsp;</p>
 <h4><strong>Home-based Learning (HBL) Days</strong></h4>
 <p><p align="justify"> HBL days are scheduled every fortnightly in Term 1 to 3 to complement teaching and learning in school.</p>
-<p><strong>HBL Days for 2022</strong></p>
-<p><p align="justify">The table below lists the HBL days for 2022. These dates can also be found in the semestral welcome letters (for parents) as well as the School Calendar (for students).</p>
+<p><strong>HBL Days for 2023</strong></p>
+</p>
 <table style="margin-left: auto; margin-right: auto;">
 <tbody>
 <tr>
