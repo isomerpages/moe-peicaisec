@@ -4,8 +4,7 @@ permalink: /cca/ccas/sports/floorball-boys-n-girls/
 description: ""
 third_nav_title: Sports
 ---
-
-<h4><strong>Introduction</strong></h4>
+<h4><strong>Floorball Boys & Girls</strong></h4>
 <p>In Floorball, we aim to develop students holistically through character building and instilling values through the medium of sports. Students will be equipped with the necessary floorball skills to compete to the best of their abilities. In their time with the CCA, students would develop and strengthen the values of</p>
 <ol>
 <li>Discipline</li>
