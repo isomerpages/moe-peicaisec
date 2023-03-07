@@ -6,7 +6,7 @@ description: ""
 <h3><strong>Direct School Admission (DSA)</strong></h3>
 <h4><strong>Introduction</strong></h4>
 <p><p align="justify">Peicai Secondary School&rsquo;s (PCSS) Direct School Admission (DSA) programme aims to nurture and develop students in five main areas &ndash; Softball, Volleyball, National Cadet Corps (NCC) [Sea], National Police Cadet Corps (NPCC) and Leadership. The school&rsquo;s softball and volleyball teams have consistently participated at the National School Games with notable results while the school&rsquo;s NCC [Sea] and NPCC have consistently achieved the Distinction awards for the Unit competitions for the past few years. Peicai Secondary School hones leadership dispositions in students through its Student Council which organises large-scale school events.</p>
-<p>&nbsp;PCSS welcomes Primary Six students eligible for Secondary One admission in 2023 with talents in the various areas stated above to apply for DSA-Sec in 2022.</p>
+<p><p align="justify">&nbsp;PCSS welcomes Primary Six students eligible for Secondary One admission in 2023 with talents in the various areas stated above to apply for DSA-Sec in 2022.</p>
 <h4><strong>A. Sports and Games</strong></h4>
 <ul>
 <li><strong>Softball (Boys and Girls)</strong></li>
