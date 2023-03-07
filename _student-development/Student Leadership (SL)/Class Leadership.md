@@ -12,4 +12,4 @@ third_nav_title: Student Leadership (SL)
 <img src="/images/Student%20leadership%207.jpg">
 <h4><strong>Class Leaders Investiture 2021</strong></h4>
 <p><p align="justify">As a school, we prioritise the role that the Class Leaders play for their class and for their classmates. As such, we accord the Class Leaders due recognition with the Class Leaders Investiture. The entire class comes together to witness the appointment of their Class Leaders - it is a public declaration of the responsibilities and the mantle placed on the shoulders of these leaders.</p>
-<div><iframe title="YouTube video player" src="https://www.youtube.com/embed/SpQ6lHK-y30" width="640" height="480" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div>
+<div><iframe title="YouTube video player" src="https://www.youtube.com/embed/SpQ6lHK-y30" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div>
