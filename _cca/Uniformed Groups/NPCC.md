@@ -4,9 +4,8 @@ permalink: /co-curricular-activities/ccas/uniformed-groups/npcc/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-
 <img style="width: 75%;" src="/images/npcc1.jpg" />
-<p>Peicai&rsquo;s NPCC firmly believes in development of character, leadership and resilience. Training has evolved from just drills to more structured and interesting training programmes. Through a myriad of activities, values such as discipline, loyalty, integrity, resourcefulness, tenacity and civic-consciousness are inculcated to develop members into Caring and Responsible Citizens.</p>
+<p><p align="justify">Peicai&rsquo;s NPCC firmly believes in development of character, leadership and resilience. Training has evolved from just drills to more structured and interesting training programmes. Through a myriad of activities, values such as discipline, loyalty, integrity, resourcefulness, tenacity and civic-consciousness are inculcated to develop members into Caring and Responsible Citizens.</p>
 <img style="width: 50%;" src="/images/npcc2.jpg" align = "right" />
 <p>Our Unit has a tradition of excellence and we have been achieving the Unit Overall Proficiency Award &ndash; Gold for many years. Through the high standards of weekly trainings, the Unit has inculcated a strong sense of discipline and confidence in our cadets. Cadets receive varied and systematic training for many activities such as foot drills, camp craft, outdoor adventure skills and planning of activities, etc. On top of the weekly scheduled activities, cadets also have opportunities to visit and be involved in activities with police establishments and organizations. The trainings and involvement with the law enforcing units will help Peicaians to develop into Cadet Leaders that are self-reliant, caring, confident, disciplined and responsible citizens</p>
 <p>Over the course of four years, NPCC cadets have many opportunities to experience programmes affiliated to Singapore Police Force. NPCC cadets have first-hand experience on. 22 revolver shooting when they are in Secondary Two, and will have a chance to obtain a Marksman Badge when they go for their 22 revolver shooting in Secondary Three.</p>
