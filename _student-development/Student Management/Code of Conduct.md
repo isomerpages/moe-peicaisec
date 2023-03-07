@@ -8,10 +8,9 @@ third_nav_title: Student Management
 <p><p align="justify">The code of conduct serves to nurture in our students desired values and behaviours that are exemplary.</p>
 <p><p align="justify">The discipline processes and systems in the school are designed to help and guide students to think responsibly, reflect on their actions, understand the consequences of actions as well as responsibilities and come up with collaborative solutions to move forward. Discipline offences will have a direct impact on conduct grade, testimonial of students</p>
 <p><p align="justify">The school has a clear set of rules and regulations, which together with the school&rsquo;s philosophy for discipline, are shared with the students. The rationale for each segment of the rules and regulations have been articulated explicitly to ensure that students do not follow rules blindly. Instead, students should understand the intentions and reasons for these rules as well as how these rules would serve them well in future as they progress to the next phase of their education and lives.</p>
-<p><p align="justify">We trust that students who graduate from PCSS would leave the school as responsible young adults and citizens who are ready to contribute to the community and the nation.</p>
+<p>We trust that students who graduate from PCSS would leave the school as responsible young adults and citizens who are ready to contribute to the community and the nation.</p>
 <h4><strong>ATTIRE</strong></h4>
 <p><strong>Rationale: To present oneself well and uphold the good name of the school with pride both in and out of school</strong></p>
-<ol>
 <li>Students are to wear the prescribed school uniform. Modification to the uniform is strictly not allowed.</li>
 <li>All students are to ensure that they are properly attired at all times including during the school holidays and outside of school.</li>
 <li>No external attire is allowed in school at all times.</li>
@@ -20,10 +19,10 @@ third_nav_title: Student Management
 <li>Shirts&nbsp;and blouses must be properly buttoned up, worn neatly and smartly at all times</li>
 <li>The length of the school skirt should not be 3cm higher than the knees.</li>
 <li>The school pants/shorts/shirt/skirt is of the correct size and not oversized, too tight or too short.</li>
-<li><p align="justify">White/black or dark coloured school based t-shirts can be worn underneath the school shirt. No bright or fluorescent coloured t-shirts e.g. bright pink, neon green or orange etc.
-<li><p align="justify">Only canvas shoes or sports shoes are allowed. Canvas shoes must be predominately in the following colours: Black, Blue, White and Grey. Sports shoes can be of any colour but avoid bright and flashy colours. Brightly coloured shoes are strictly not allowed. The shoes should either be with laces or straps. Slip-on and high-cut shoes are not allowed. Shoes with lights, wheels or wedges are also not allowed.
+<li>White/black or dark coloured school based t-shirts can be worn underneath the school shirt. No bright or fluorescent coloured t-shirts e.g. bright pink, neon green or orange etc.
+<li>Only canvas shoes or sports shoes are allowed. Canvas shoes must be predominately in the following colours: Black, Blue, White and Grey. Sports shoes can be of any colour but avoid bright and flashy colours. Brightly coloured shoes are strictly not allowed. The shoes should either be with laces or straps. Slip-on and high-cut shoes are not allowed. Shoes with lights, wheels or wedges are also not allowed.
 <li>Socks should be worn at all times when in school attire.&nbsp;&nbsp;Socks must be black, white or grey in colour. Socks should also be long enough to cover the ankles but not the calf.&nbsp;</li>
-<li><p align="justify">Any footwear, other than the above prescribed shoes, are not allowed to be worn in school except for medical reasons and approved by a teacher with supporting documentation issued by medical practitioners registered under the Medical Registration Act.
+<li>Any footwear, other than the above prescribed shoes, are not allowed to be worn in school except for medical reasons and approved by a teacher with supporting documentation issued by medical practitioners registered under the Medical Registration Act.
 <li>The prescribed attire for various school activities and events (unless otherwise specified) is as follows:</li>
 <table width="643">
 <thead>
@@ -472,7 +471,6 @@ third_nav_title: Student Management
 </tr>
 </tbody>
 </table>
-<ol>
 <ol style="list-style-type: lower-alpha;" start="3">
 <li><p align="justify">Students are to inform their parents/guardians of the school&rsquo;s policies on the use of mobile devices during curriculum time. For safety and emergency purposes, parents/guardians who need to contact their child/ward urgently can contact the General Office at 6288 4159.
 <li><p align="justify">All mobile phones and non-PDLP related electronic devices should be switched off and kept out-of-sight unless it is used for the purpose of teaching and learning and approved by the teacher. They will be confiscated if they are seen or heard during curriculum time.
@@ -481,10 +479,7 @@ third_nav_title: Student Management
 <li><p align="justify">Students are responsible for the proper use and cleanliness of the charging kiosk(s). Any intentional damage(s) or damage(s) due to negligence will be deemed the responsibility of the student(s), who will bear the cost of damage and face disciplinary action in accordance with the school&rsquo;s discipline policy.
 <li><p align="justify">The school retains the right to open the charging kiosk(s) and/or units to remove any non-complying PLDs at any time for the safety, security and disciplinary purposes.
 <li>All damages spotted by students should be reported to the General Office.</li>
-</ol>
 <li>The period of confiscation will be as follows:</li>
-</ol>
-</ol>
 <table width="484">
 <tbody>
 <tr>
@@ -549,20 +544,16 @@ third_nav_title: Student Management
 <li>Any items that can affect the safety of students and staff (E.g. Items that can start fires, weapons or weapon-like objects etc)</li>
 <li>Any items that can cause distraction in class and affect students&rsquo; learning</li>
 <li>Any contraband (e.g. tobacco-related products like cigarettes and e-vaporisers etc)</li>
-</ol>
 <li>School retains the rights to open the lockers at any time for the purpose of safety and security (e.g. through routine spot-checks, disciplinary investigations etc).</li>
-</ol>
 <li>To ensure the safety of students and staff within the school premises, all students who arrive in school by private transport must alight at the designated disembarkation areas. Students should inform their parents/guardians that no waiting or parking is allowed at the designated disembarkation areas. Such areas are designated drop off and pick up zones only.
 <li>The overall Conduct Grade, Attendance, Punctuality of each student will be reflected in his/her Result Slip at the end of the year.
 <h4><strong>CYBER ETIQUETTE</strong></h4>
 <p><strong>Students are to demonstrate the same behaviour and attitude as expected in school itself during the use of internet technology for communication and online lessons. In particular,</strong></p>
-<ol>
 <li>When using internet technology <a title="" href="/student-development/student-management/code-of-conduct#_ftn1" name="_ftnref1">[1]</a> to communicate with others, students are expected to be respectful to others by not sharing</li>
 <ol style="list-style-type: lower-roman;">
 <li>Obscene, derogatory or insensitive remarks/materials.</li>
 <li>Information/materials that promotes unsafe or illegal acts <a title="" href="/student-development/student-management/code-of-conduct#_ftn2" name="_ftnref2">[2]</a>.</li>
 <li>Information and materials that would affect the safety or privacy of others.</li>
-</ol>
 <li>For online lessons, students are expected to</li>
 <ol style="list-style-type: lower-alpha;">
 <li>Be punctual for all scheduled online lessons.</li>
@@ -577,14 +568,11 @@ third_nav_title: Student Management
 <li>Having only one person speak at a time</li>
 <li>Giving their fullest attention to whoever is speaking</li>
 <li>Being polite in their interactions</li>
-</ol>
 <li>Avoid sharing account details, such as the Login ID and password, with others for online lesson platforms such as SLS, Zoom, Google Meet etc.).</li>
 <li>Always log out from the online lesson platforms after every use.</li>
 <li>Be wary of suspicious emails and report such emails to your teachers.</li>
 <li>Protect the privacy by not video-recording or taking photos of other participants in the online lessons.</li>
 <li>Comply with the teachers&rsquo; instructions at all times during the online lessons.</li>
-</ol>
-</ol>
 <p><strong>Note: </strong>Students who are responsible for any breach of the above etiquette will be considered as having committed an offence in school and will therefore face a consequence during the school&rsquo;s follow-up actions.</p>
 <p>[1] Applications involving the use of internet technology for communication includes but not limiting to Emails, Instant messaging applications (like WhatsApp, Discord, Instagram Direct Messenger etc) and social networking sites (like Instagram, Facebook etc).</p>
 <p>[2] Unsafe or illegal acts includes, but not limiting to, gangsterism, pornography, drug/tobacco abuse (including vaping), gambling, violence, harassment, discrimination etc.</p>
