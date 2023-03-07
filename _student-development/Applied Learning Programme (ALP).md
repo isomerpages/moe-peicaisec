@@ -6,7 +6,7 @@ description: ""
 <h4><strong>Applied Learning Programme (ALP)</strong></h4>
 <p><strong>Applied Learning Programme (Seek. Make. Advocate)</strong></p>
 <p><p align="justify">Through Peicai&rsquo;s&nbsp;<strong><em>Seek. Make. Advocate</em></strong>, a distinctive Applied Learning Programme (ALP), we aim to develop students to be self-directed digital learners who seek out information, make meaningful prototypes using technologies such as Microbits and AR to conceptualise their ideas, and advocate their innovative solutions to real-world social issues that they are passionate about.</p>
-<p><strong><em><p align="justify">Seek. Make. Advocate</em></strong>&nbsp;is a unique, research-backed programme co-created with the Singapore University of Technology and Design (SUTD) that aims to develop Design Innovation mindsets, digital literacy and cross-disciplinary thinking skills in our students.</p>
+<p><strong><em>Seek. Make. Advocate</em></strong>&nbsp;is a unique, research-backed programme co-created with the Singapore University of Technology and Design (SUTD) that aims to develop Design Innovation mindsets, digital literacy and cross-disciplinary thinking skills in our students.</p>
 <p><strong>Objectives</strong></p>
 <p><p align="justify">To provide a student-centric and enriching learning experience for Secondary 1 and 2 students that</p>
 <img style="width: 80%;" src="/images/alp1.png" />
