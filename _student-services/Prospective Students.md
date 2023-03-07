@@ -164,7 +164,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p>Selection Process<br /><strong><p align="justify">Shortlisted applicants will be invited for a half-hour interview and trial (only applicable to sports) between 27 June 2022 and 12 September 2022. Please note that meeting all criteria does not guarantee the student will be shortlisted/given an offer. The below criteria will be assessed during the interview and trial.</strong></p>
+<p>Selection Process<br /><strong><p align="justify">Shortlisted applicants will be invited for a half-hour interview and trial (only applicable to sports) between 27 June 2022 and 12 September 2022. Please note that meeting all criteria does not guarantee the student will be shortlisted/given an offer. The below criteria will be assessed during the interview and trial.</strong><br /></p>
 <p>1)&nbsp;Applicants will be interviewed and assessed on:</p>
 <p><u>Sports &amp; Games</u></p>
 <ul>
