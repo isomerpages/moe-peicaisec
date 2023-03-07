@@ -531,15 +531,15 @@ third_nav_title: Student Management
 </table>
 <ol start="3">
 <ol style="list-style-type: lower-alpha;" start="7">
-<li><p align="justify">Upon return of the confiscated mobile device and non-PDLP electronic devices, it is the students' responsibility to check that their phone is in a condition similar to that prior to confiscation.
-<li><p align="justify">The school may confiscate the mobile device and non-PDLP electronic devices as a disciplinary measure or access the mobile device for the purpose of investigation.
-<li><p align="justify">Students who repeatedly flout the rule may be banned from bringing their mobile device and non-PDLP electronic devices to the school.
-<li><p align="justify">Should students need to make a call to their parents/guardians or read an urgent text message during curriculum time, they should proceed to the General Office where they will be allowed to use the phone there.
-<li><p align="justify">Students should not abuse the use of mobile device and non-PDLP electronic devices. They should not take photographs or videos of others without their permission.
-<li><p align="justify">Students are to note that the lockers in the classroom are there to provide interim storage and security for their Personal Learning Devices (PLDs) and learning materials. They are to observe the following expectations regarding the use of these classroom lockers:
+<li>Upon return of the confiscated mobile device and non-PDLP electronic devices, it is the students' responsibility to check that their phone is in a condition similar to that prior to confiscation.
+<li>The school may confiscate the mobile device and non-PDLP electronic devices as a disciplinary measure or access the mobile device for the purpose of investigation.
+<li>Students who repeatedly flout the rule may be banned from bringing their mobile device and non-PDLP electronic devices to the school.
+<li>Should students need to make a call to their parents/guardians or read an urgent text message during curriculum time, they should proceed to the General Office where they will be allowed to use the phone there.
+<li>Students should not abuse the use of mobile device and non-PDLP electronic devices. They should not take photographs or videos of others without their permission.
+<li>Students are to note that the lockers in the classroom are there to provide interim storage and security for their Personal Learning Devices (PLDs) and learning materials. They are to observe the following expectations regarding the use of these classroom lockers:
 <ol style="list-style-type: lower-alpha;">
-<li><p align="justify">The responsibility to maintain the condition and cleanliness of the lockers lay with the assigned students. The assigned students shall be held liable if they inflict any wilful damage (e.g. vandalism) to their lockers or fail to report in a timely manner for any damage discovered.
-<li><p align="justify">The responsibility for any lost or stolen items from the lockers lay with the assigned students. Students therefore should not share access to the lockers with any other students.
+<li>The responsibility to maintain the condition and cleanliness of the lockers lay with the assigned students. The assigned students shall be held liable if they inflict any wilful damage (e.g. vandalism) to their lockers or fail to report in a timely manner for any damage discovered.
+<li>The responsibility for any lost or stolen items from the lockers lay with the assigned students. Students therefore should not share access to the lockers with any other students.
 <li>The lockers shall be used to store items belonging to the assigned students only. Sharing of lockers is not allowed.</li>
 <li>The lockers should not be used for any other purposes except to store the PLDs.</li>
 <li>PLDs should be not left charging in the lockers, and all PLDs must be brought home and not left in the lockers overnight.</li>
@@ -552,8 +552,8 @@ third_nav_title: Student Management
 </ol>
 <li>School retains the rights to open the lockers at any time for the purpose of safety and security (e.g. through routine spot-checks, disciplinary investigations etc).</li>
 </ol>
-<li><p align="justify">To ensure the safety of students and staff within the school premises, all students who arrive in school by private transport must alight at the designated disembarkation areas. Students should inform their parents/guardians that no waiting or parking is allowed at the designated disembarkation areas. Such areas are designated drop off and pick up zones only.
-<li><p align="justify">The overall Conduct Grade, Attendance, Punctuality of each student will be reflected in his/her Result Slip at the end of the year.
+<li>To ensure the safety of students and staff within the school premises, all students who arrive in school by private transport must alight at the designated disembarkation areas. Students should inform their parents/guardians that no waiting or parking is allowed at the designated disembarkation areas. Such areas are designated drop off and pick up zones only.
+<li>The overall Conduct Grade, Attendance, Punctuality of each student will be reflected in his/her Result Slip at the end of the year.
 <h4><strong>CYBER ETIQUETTE</strong></h4>
 <p><strong>Students are to demonstrate the same behaviour and attitude as expected in school itself during the use of internet technology for communication and online lessons. In particular,</strong></p>
 <ol>
@@ -566,7 +566,7 @@ third_nav_title: Student Management
 <li>For online lessons, students are expected to</li>
 <ol style="list-style-type: lower-alpha;">
 <li>Be punctual for all scheduled online lessons.</li>
-<li><p align="justify">Be prompt in informing their teachers should they be unable to attend the online lessons due to valid reasons (e.g. on MC etc.). Absences must be supported by appropriate documentation, similar to how absence from school is accounted for (see Attendance 3d &amp; e above). Absence from school, without any valid reasons, is considered truancy.
+<li>Be prompt in informing their teachers should they be unable to attend the online lessons due to valid reasons (e.g. on MC etc.). Absences must be supported by appropriate documentation, similar to how absence from school is accounted for (see Attendance 3d &amp; e above). Absence from school, without any valid reasons, is considered truancy.
 <li>Be attentive and actively participate during lessons.</li>
 <li>Be neat and appropriately attired for lessons.</li>
 <li>Ensure that a conducive place is used for the online lessons.</li>
