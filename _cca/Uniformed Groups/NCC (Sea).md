@@ -4,9 +4,8 @@ permalink: /cca/ccas/uniformed-groups/ncc-sea/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-
 <h4><strong>Introduction</strong></h4>
-<p>Peicai Secondary School's National Cadet Corps (NCC) Sea is a premier uniformed youth organisation supported by the Ministry of Education (MOE) of Singapore.</p>
+<p><p align="justify">Peicai Secondary School's National Cadet Corps (NCC) Sea is a premier uniformed youth organisation supported by the Ministry of Education (MOE) of Singapore.</p>
 <p>Our unit aims to nurture inspiring leaders and committed citizens through fun, adventurous and military-related activities. Members participate in a wide range of programmes, such as the Shooting Experience, where cadets have the opportunity to fire a SAR21 and TAR-21 airsoft rifle, Free Style Drills Competition, kayaking certification, Kayaking Expedition, rock-climbing, sailing, dragon-boat competition, etc.</p>
 <p>Along with these activities, we also have a myriad of camps and courses that are conducted on the grounds of our headquarters where the facilities are utilised by such activities. For example, Secondary One cadets participate in Camp Forge, Secondary Two cadets in Camp Steel and Secondary Three cadets go through Camp Pinnacle and the Leaders&rsquo; Camp.</p>
 <p>Beyond the land and sea trainings, cadets are also given opportunities to train overseas in programmes such as:</p>
