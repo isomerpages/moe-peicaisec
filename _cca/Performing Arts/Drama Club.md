@@ -11,7 +11,7 @@ third_nav_title: Performing Arts
 <p>1) Confident Communicators</p>
 <p>2) Committed Members</p>
 <p>3) Creative Ideators</p>
-<p>The Drama Club aims to nuture students to grow into confident communicators, creative ideators and committed members who contribute willingly to every drama session with zest and passion. This is a place where everyone will be offered the opportunity to seize the stage and shine in front of an audience.&nbsp;</p>
+<p><p align="justify">The Drama Club aims to nuture students to grow into confident communicators, creative ideators and committed members who contribute willingly to every drama session with zest and passion. This is a place where everyone will be offered the opportunity to seize the stage and shine in front of an audience.&nbsp;</p>
 <h4><strong>Teachers-in-Charge</strong></h4>
 <table width="439">
 <tbody>
