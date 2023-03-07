@@ -21,6 +21,5 @@ description: ""
 <li>family with more than 5 children in GGAS&nbsp;</li>
 <li>family with more than 4 unmarried children not in GGAS</li>
 <li>family with more than 3 grandparents in the household
-</ol>
 <li>Parents whose child is a ComCare recipient need not submit the application for MOE FAS as MOE FAS will be auto-granted to ComCare beneficiaries.
 <li>You may contact the General Office at 62884159 or email <a href="mailto:peicai_ss@moe.edu.sg">peicai_ss@moe.edu.sg</a> if you need clarifications.
