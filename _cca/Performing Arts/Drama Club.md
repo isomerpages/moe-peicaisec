@@ -4,8 +4,7 @@ permalink: /cca/ccas/performing-arts/drama-club/
 description: ""
 third_nav_title: Performing Arts
 ---
-
-
+<h4><strong>Modern Dance</strong></h4>
 <img src="/images/drama1.jpeg">
 <h4><strong>Introduction</strong></h4>
 <p>In Drama Club, we aim to develop&hellip;.</p>
