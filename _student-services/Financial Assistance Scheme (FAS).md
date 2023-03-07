@@ -22,11 +22,11 @@ description: ""
 </ol>
 <li>Application strictly via Hardcopy Form is required for below scenarios:</li>
 <ol style="list-style-type: lower-alpha;">
-<li>families with other dependents (Great grandparents, Aunties/Uncles, Cousins and others)&nbsp;</li>
+<li><p align="justify">families with other dependents (Great grandparents, Aunties/Uncles, Cousins and others)&nbsp;</li>
 <li>family with more than 5 children in GGAS&nbsp;</li>
 <li>family with more than 4 unmarried children not in GGAS</li>
 <li>family with more than 3 grandparents in the household</li>
 </ol>
-<li>Parents whose child is a ComCare recipient need not submit the application for MOE FAS as MOE FAS will be auto-granted to ComCare beneficiaries.</li>
-<li>You may contact the General Office at 62884159 or email <a href="mailto:peicai_ss@moe.edu.sg">peicai_ss@moe.edu.sg</a> if you need clarifications.</li>
+<li><p align="justify">Parents whose child is a ComCare recipient need not submit the application for MOE FAS as MOE FAS will be auto-granted to ComCare beneficiaries.</li>
+<li><p align="justify">You may contact the General Office at 62884159 or email <a href="mailto:peicai_ss@moe.edu.sg">peicai_ss@moe.edu.sg</a> if you need clarifications.</li>
 </ol>
