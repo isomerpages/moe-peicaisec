@@ -4,10 +4,9 @@ permalink: /cca/ccas/sports/volleyball-girls/
 description: ""
 third_nav_title: Sports
 ---
-
 <img style="width: 50%;" src="/images/vg.jpg" />
 <h4><strong>Introduction</strong></h4>
-<p>In Volleyball, our girls will learn volleyball skills, as well as the rules and strategies of the game. Sportsmanship and resilience are key values in the team. Our aim is to help our girls develop good balance, flexibility, upper and lower body strength, and speed. Through weekly training and competitions our girls will grow into individuals who possess a strong sense of responsibility, unwavering resilience, and a high level of integrity.</p>
+<p><p align="justify">In Volleyball, our girls will learn volleyball skills, as well as the rules and strategies of the game. Sportsmanship and resilience are key values in the team. Our aim is to help our girls develop good balance, flexibility, upper and lower body strength, and speed. Through weekly training and competitions our girls will grow into individuals who possess a strong sense of responsibility, unwavering resilience, and a high level of integrity.</p>
 <h4><strong>Teachers-In-Charge</strong></h4>
 <table width="439">
 <tbody>
@@ -137,7 +136,7 @@ third_nav_title: Sports
 </tbody>
 </table>
 <h4><strong>Programmes / Activities</strong></h4>
-<p>Weekly training sessions on fundamental skills,&nbsp;incorporating match simulation drills and developmental techniques. We also emphasis on improving the girls&rsquo; speed, sense of timing, communication with each other, and ability to work as a team.</p>
+<p><p align="justify">Weekly training sessions on fundamental skills,&nbsp;incorporating match simulation drills and developmental techniques. We also emphasis on improving the girls&rsquo; speed, sense of timing, communication with each other, and ability to work as a team.</p>
 <h4><strong>Achievements</strong></h4>
 <p>National School Games Volleyball Girls &lsquo;B&rsquo; Division 2022 &ndash; Participated in South Zone</p>
 <h4><strong>Photos</strong></h4>
