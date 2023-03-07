@@ -181,7 +181,6 @@ third_nav_title: Student Management
 </table>
 <h4><strong>APPEARANCE</strong></h4>
 <p><strong>Rationale: To portray a positive image of oneself through personal grooming&nbsp;and hygiene.</strong></p>
-<ol>
 <li>All students are to ensure the following:</li>
 <ol style="list-style-type: lower-alpha;">
 <li>For Male Students</li>
@@ -217,11 +216,9 @@ third_nav_title: Student Management
 <li><p align="justify">Student leaders are to put on their Student Leaders&rsquo; badge at all times when they are wearing the school uniform
 <h4><strong>ATTENDANCE:</strong></h4>
 <p><strong>Rationale: To cultivate self-management through personal responsibility and accountability</strong></p>
-<ol>
 <li>All students are expected to be punctual for and be present in school to attend the flag raising ceremony and all lessons.</li>
 <li>Students who are Singapore citizens must sing the National Anthem and take the Pledge. Students will take the Pledge with the right fist placed over the heart.</li>
 <li>The procedures and timings for morning assembly and the flag raising ceremony are as follows:</li>
-</ol>
 <table><colgroup><col width="121" /><col width="486" /></colgroup>
 <tbody>
 <tr>
@@ -327,36 +324,36 @@ third_nav_title: Student Management
 <ol style="list-style-type: lower-alpha;">
 <li><p align="justify">Be punctual and present for the flag raising ceremony, assembly, all lessons, activities and other school events.
 <li><p align="justify">Assemble in the parade square/school hall/classroom by 7.40 a.m (8.20 a.m. on Wednesday). It is the responsibility of the student to personally inform his/her Form Teacher if he/she is in school but not in the respective assembly area due to valid reasons.
-<li><p align="justify">Inform the Form Teachers or the General Office of their absence from school by 7.40 a.m. (8.20 a.m. on Wednesday) on the day of absence.
-<li><p align="justify">Submit an original copy of the Medical Certificate (MC) for the day(s) absent from school to the Form Teacher on the day of return to school.
-<li><p align="justify">Letters from parents/guardians explaining a student&rsquo;s absence from school should not exceed 5 in a semester as students&rsquo; attendance in school is critical for them to do well in school. Students will be considered as absent without valid reason if they have submitted parent letters/emails for more than 5 days of absence per semester or travelled overseas during term time for family holidays. Absence without valid reason can be considered as truancy and appropriate consequences will be meted out.
-<li><p align="justify">Letters from parents/guardians cannot be used to explain absence from tests or examinations. Absence from a test/examination without a valid MC will result in the student getting a zero mark for the test/examination.
-<li><p align="justify">Submitted MCs must be issued by a medical practitioner registered under the Medical Registration Act or the Dental Registration Act.
-<li><p align="justify">Persistent truancy is viewed as a wilful absence from school and may result in expulsion. A student who is absent from school without any valid reasons for three days (the days need not be consecutive), will be issued a letter of warning.
+<li>Inform the Form Teachers or the General Office of their absence from school by 7.40 a.m. (8.20 a.m. on Wednesday) on the day of absence.
+<li>Submit an original copy of the Medical Certificate (MC) for the day(s) absent from school to the Form Teacher on the day of return to school.
+<li>Letters from parents/guardians explaining a student&rsquo;s absence from school should not exceed 5 in a semester as students&rsquo; attendance in school is critical for them to do well in school. Students will be considered as absent without valid reason if they have submitted parent letters/emails for more than 5 days of absence per semester or travelled overseas during term time for family holidays. Absence without valid reason can be considered as truancy and appropriate consequences will be meted out.
+<li>Letters from parents/guardians cannot be used to explain absence from tests or examinations. Absence from a test/examination without a valid MC will result in the student getting a zero mark for the test/examination.
+<li>Submitted MCs must be issued by a medical practitioner registered under the Medical Registration Act or the Dental Registration Act.
+<li>Persistent truancy is viewed as a wilful absence from school and may result in expulsion. A student who is absent from school without any valid reasons for three days (the days need not be consecutive), will be issued a letter of warning.
 <ol start="6">
-<li><p align="justify">A student who has been late without valid reason for six times for the year will be issued an advisory letter. Persistent late-coming may result in suspension from school.
-<li><p align="justify">After receiving a warning letter, a student who continues to be late (that is reaches school between 7.40 a.m. to 8.00 a.m.) without any valid reasons, may not be allowed to go to class.
-<li><p align="justify">A student who is late on Wednesday (late day) for three times (the days need not be consecutive) will be placed under the Early Bird Programme. Students identified for the Early Bird Programme will have to report to school by 7.40 a.m. thereafter. Wilful absence from the programme will be deemed as defiance/truancy, and the affected students will be placed under detention and/or suspension from school.
-<li><p align="justify">Students who reach school after 8.00 a.m. would be considered as severely late. They are to proceed to the General Office to see one of the Vice Principals (or Student Management KPs if the Vice Principals are not in schools) to obtain approval to proceed for lessons. Students should not proceed for lessons or activities for the day unless approval has been given via the issuance of a late coming slip by a Vice Principal or by a Student Management KP.
-<li><p align="justify">Students with late-coming records the previous year, who arrive after 8.00 a.m. and have no valid reasons for being late, will not be allowed to go to class.
-<li><p align="justify">Students who have been issued the late-coming slip are required to submit these slips to their Form Teachers or Subject Teachers for records purposes.
-<li><p align="justify">Students with less than 95% attendance (where absence is without valid medical reasons) may not be allowed to sit for the End-of-Year examinations.
-<li><p align="justify">Poor attendance in school and persistent late-coming may affect the conduct grade and testimonial of the student.
-<li><p align="justify">Curriculum time is of utmost importance, as such, early release from school or absence during curriculum time will not be approved unless it is on compassionate grounds. Students are advised to schedule their medical or dental appointmentafter curriculum time.
-<li><p align="justify">Students who need to be absent from school for an extended period (continuously three or more days) during term time for valid reasons should seek special permission from the Principal/Vice-Principal by filling in a Permission for Curriculum Absence (PCA) form. Failing which, absence from school during this period may be considered as truancy.
+<li>A student who has been late without valid reason for six times for the year will be issued an advisory letter. Persistent late-coming may result in suspension from school.
+<li>After receiving a warning letter, a student who continues to be late (that is reaches school between 7.40 a.m. to 8.00 a.m.) without any valid reasons, may not be allowed to go to class.
+<li>A student who is late on Wednesday (late day) for three times (the days need not be consecutive) will be placed under the Early Bird Programme. Students identified for the Early Bird Programme will have to report to school by 7.40 a.m. thereafter. Wilful absence from the programme will be deemed as defiance/truancy, and the affected students will be placed under detention and/or suspension from school.
+<li>Students who reach school after 8.00 a.m. would be considered as severely late. They are to proceed to the General Office to see one of the Vice Principals (or Student Management KPs if the Vice Principals are not in schools) to obtain approval to proceed for lessons. Students should not proceed for lessons or activities for the day unless approval has been given via the issuance of a late coming slip by a Vice Principal or by a Student Management KP.
+<li>Students with late-coming records the previous year, who arrive after 8.00 a.m. and have no valid reasons for being late, will not be allowed to go to class.
+<li>Students who have been issued the late-coming slip are required to submit these slips to their Form Teachers or Subject Teachers for records purposes.
+<li>Students with less than 95% attendance (where absence is without valid medical reasons) may not be allowed to sit for the End-of-Year examinations.
+<li>Poor attendance in school and persistent late-coming may affect the conduct grade and testimonial of the student.
+<li>Curriculum time is of utmost importance, as such, early release from school or absence during curriculum time will not be approved unless it is on compassionate grounds. Students are advised to schedule their medical or dental appointmentafter curriculum time.
+<li>Students who need to be absent from school for an extended period (continuously three or more days) during term time for valid reasons should seek special permission from the Principal/Vice-Principal by filling in a Permission for Curriculum Absence (PCA) form. Failing which, absence from school during this period may be considered as truancy.
 <ol style="list-style-type: lower-alpha;">
 <li>For planned absences (with valid reasons) from curriculum, application should be submitted at least 2 weeks before. The PCA form may be obtained from the school&rsquo;s General Office.</li>
 <li>For last minute request on compassionate grounds, students should approach the General Office directly if in school or notify via their form teachers if not in school.</li>
 <li>Students on Hospitalisation and/or Medical Leave need not submit the Permission for Curriculum Absence (PCA) Form and should instead follow the points listed out in part 5 (c), 5 (d) and 5 (g).</li>
 
 <ol start="16">
-<li><p align="justify">Preparing and studying for tests or examinations is not a valid reason for absence from school and such offences will have a direct impact on the student&rsquo;s conduct grade and testimonials.
-<li><p align="justify">Going on holidays during term time will not be considered as a valid reason for absence from school, including lessons, CCA and school programmes. Such offences will have a direct impact on the student&rsquo;s conduct grade and testimonials.
-<li><p align="justify">Attending tuition and other enrichment outside of schoolwill not be considered as a valid reason for absence from school, afternoon lessons or programmes and CCA. Such offences will have a direct impact on the student&rsquo;s conduct grade and testimonials.
-<li><p align="justify">Attendance at detention and CWO is compulsory where assigned. Any assigned hours must be duly completed within the stipulated time.
-<li><p align="justify">Attendance at CCA is compulsory. Students who are absent from CCA will need to produce a valid MC (refer to Point 3g above) for the period of absence to the CCA teacher in-charge. Poor CCA attendance may affect conduct grade and school/national representation in competitions.
-<li><p align="justify">If a student no longer has any more lessons for the day, the earliest time that he/she can be dismissed from school will be at 12.30 p.m.
-<li><p align="justify">Students who do not have any lessons in between periods should do their own self- revision at the school library. Where there are such instances, it will be formally arranged by the school. Students are to sign in and out with the librarian at the library.
+<li>Preparing and studying for tests or examinations is not a valid reason for absence from school and such offences will have a direct impact on the student&rsquo;s conduct grade and testimonials.
+<li>Going on holidays during term time will not be considered as a valid reason for absence from school, including lessons, CCA and school programmes. Such offences will have a direct impact on the student&rsquo;s conduct grade and testimonials.
+<li>Attending tuition and other enrichment outside of schoolwill not be considered as a valid reason for absence from school, afternoon lessons or programmes and CCA. Such offences will have a direct impact on the student&rsquo;s conduct grade and testimonials.
+<li>Attendance at detention and CWO is compulsory where assigned. Any assigned hours must be duly completed within the stipulated time.
+<li>Attendance at CCA is compulsory. Students who are absent from CCA will need to produce a valid MC (refer to Point 3g above) for the period of absence to the CCA teacher in-charge. Poor CCA attendance may affect conduct grade and school/national representation in competitions.
+<li>If a student no longer has any more lessons for the day, the earliest time that he/she can be dismissed from school will be at 12.30 p.m.
+<li>Students who do not have any lessons in between periods should do their own self- revision at the school library. Where there are such instances, it will be formally arranged by the school. Students are to sign in and out with the librarian at the library.
 <h4><strong>ATTITUDE AND BEHAVIOUR</strong></h4>
 <p><strong>Rationale: To cultivate self-discipline through responsible decision making</strong></p>
 <ol>
@@ -366,70 +363,70 @@ third_nav_title: Student Management
 <ol style="list-style-type: lower-alpha;">
 <li><p align="justify">Students are to respect and obey all school rules and regulations.
 <li><p align="justify">Students are to display exemplary conduct and behave with decorum at all times.
-<li><p align="justify">Students are to observe silence when they are in the classroom, at the parade square or school hall for flag raising ceremony or other school functions. They are to conduct themselves well during such gatherings where common courtesy and respect must be accorded to all concerned including guest speakers.</li>
-<li><p align="justify">Students must be respectful to all school staff and other students.
-<li><p align="justify">Students are responsible for keeping the environment safe. The school has zero tolerance towards actions that may hurt or harm others emotionally or physically.
-<li><p align="justify">Students are prohibited from entering any taff offices, such as the Staff Rooms, General office and HOD room, as well as the Staff Lounge.
+<li>Students are to observe silence when they are in the classroom, at the parade square or school hall for flag raising ceremony or other school functions. They are to conduct themselves well during such gatherings where common courtesy and respect must be accorded to all concerned including guest speakers.</li>
+<li>Students must be respectful to all school staff and other students.
+<li>Students are responsible for keeping the environment safe. The school has zero tolerance towards actions that may hurt or harm others emotionally or physically.
+<li>Students are prohibited from entering any taff offices, such as the Staff Rooms, General office and HOD room, as well as the Staff Lounge.
 <li>Students can enter special rooms in the school only when accompanied by teachers.</li>
-<li><p align="justify">Students are not allowed to invite anyone into the school without permission. All visitors to the school must obtain a Visitor Pass at the security post and report to the General Office.
+<li>Students are not allowed to invite anyone into the school without permission. All visitors to the school must obtain a Visitor Pass at the security post and report to the General Office.
 <li>Students are strictly not allowed to use abusive or foul language.</li>
-<li><p align="justify">Possession of any material that promotes unhealthy habits such as gambling, violence, harassment, discrimination etc. are strictly not allowed
-<li><p align="justify">Possession and consumption of alcohol, tobacco-related products and e-vapouriser related products, like cigarettes, e-vapourisers, e-vapouriser pods or cartridges, are strictly prohibited by law.
-<li><p align="justify">Possession of any incendiary items, such as lighters, paracord survival bracelet, matchsticks, matchboxes, empty cigarette boxes, are strictly not allowed.
+<li>Possession of any material that promotes unhealthy habits such as gambling, violence, harassment, discrimination etc. are strictly not allowed
+<li>Possession and consumption of alcohol, tobacco-related products and e-vapouriser related products, like cigarettes, e-vapourisers, e-vapouriser pods or cartridges, are strictly prohibited by law.
+<li>Possession of any incendiary items, such as lighters, paracord survival bracelet, matchsticks, matchboxes, empty cigarette boxes, are strictly not allowed.
 <li>Possession and consumption of drugs are strictly prohibited by law.</li>
-<li><p align="justify">All students are not allowed to have in their possession any weapon or weapon-like devices in school. They are also not allowed to bring any weapon-like item that is used or intended to be used to cause harm to others.
-<li><p align="justify">Cycling, skating, rollerblading, and riding skate-scooters within the school grounds are strictly not allowed.
+<li>All students are not allowed to have in their possession any weapon or weapon-like devices in school. They are also not allowed to bring any weapon-like item that is used or intended to be used to cause harm to others.
+<li>Cycling, skating, rollerblading, and riding skate-scooters within the school grounds are strictly not allowed.
 <ol>
 <li>Students are to ensure adherence to the following at all times:</li>
 <ol style="list-style-type: lower-roman;">
 <li><strong>In school:</strong></li>
 <ol style="list-style-type: lower-alpha;">
-<li><p align="justify">Students are to respect and obey all school rules and regulations.
+<li>Students are to respect and obey all school rules and regulations.
 <li>Students are to display exemplary conduct and behave with decorum at all times.</li>
-<li><p align="justify">Students are to observe silence when they are in the classroom, at the parade square or school hall for flag raising ceremony or other school functions. They are to conduct themselves well during such gatherings where common courtesy and respect must be accorded to all concerned including guest speakers.
+<li>Students are to observe silence when they are in the classroom, at the parade square or school hall for flag raising ceremony or other school functions. They are to conduct themselves well during such gatherings where common courtesy and respect must be accorded to all concerned including guest speakers.
 <li>Students must be respectful to all school staff and other students.</li>
-<li><p align="justify">Students are responsible for keeping the environment safe. The school has zero tolerance towards actions that may hurt or harm others emotionally or physically.
-<li><p align="justify">Students are prohibited from entering any staff offices, such as the Staff Rooms, General office and HOD room, as well as the Staff Lounge.
+<li>Students are responsible for keeping the environment safe. The school has zero tolerance towards actions that may hurt or harm others emotionally or physically.
+<li>Students are prohibited from entering any staff offices, such as the Staff Rooms, General office and HOD room, as well as the Staff Lounge.
 <li>Students can enter special rooms in the school only when accompanied by teachers.</li>
-<li><p align="justify">Students are not allowed to invite anyone into the school without permission. All visitors to the school must obtain a Visitor Pass at the security post and report to the General Office.
+<li>Students are not allowed to invite anyone into the school without permission. All visitors to the school must obtain a Visitor Pass at the security post and report to the General Office.
 <li>Students are strictly not allowed to use abusive or foul language.</li>
-<li><p align="justify">Possession of any material that promotes unhealthy habits such as gambling, violence, harassment, discrimination etc. are strictly not allowed
-<li><p align="justify">Possession and consumption of alcohol, tobacco-related products and e-vapouriser related products, like cigarettes, e-vapourisers, e-vapouriser pods or cartridges, are strictly prohibited by law.
+<li>Possession of any material that promotes unhealthy habits such as gambling, violence, harassment, discrimination etc. are strictly not allowed
+<li>Possession and consumption of alcohol, tobacco-related products and e-vapouriser related products, like cigarettes, e-vapourisers, e-vapouriser pods or cartridges, are strictly prohibited by law.
 <li>Possession of any incendiary items, such as lighters, paracord survival bracelet, matchsticks, matchboxes, empty cigarette boxes, are strictly not allowed.</li>
 <li>Possession and consumption of drugs are strictly prohibited by law.</li>
-<li><p align="justify">All students are not allowed to have in their possession any weapon or weapon-like devices in school. They are also not allowed to bring any weapon-like item that is used or intended to be used to cause harm to others.
-<li><p align="justify">Cycling, skating, rollerblading, and riding skate-scooters within the school grounds are strictly not allowed.
+<li>All students are not allowed to have in their possession any weapon or weapon-like devices in school. They are also not allowed to bring any weapon-like item that is used or intended to be used to cause harm to others.
+<li>Cycling, skating, rollerblading, and riding skate-scooters within the school grounds are strictly not allowed.
 <li><strong>In Class</strong></li>
 <ol style="list-style-type: lower-alpha;">
-<li><p align="justify">Students are expected to attend all their lessons and not leave the classrooms without permission or a valid reason.
+<li>Students are expected to attend all their lessons and not leave the classrooms without permission or a valid reason.
 <li>Students are expected to be punctual for lessons.</li>
 <li>Students are expected to be attentive and participate actively during lessons.</li>
 <li>Students are expected to complete and hand in all assignments on time.</li>
 <li>Students are expected to be responsible for the cleanliness of their classrooms.</li>
-<li><p align="justify">Students leaving the classroom during a lesson are expected to have a pass. Only 1 student will be allowed to leave the classroom at a time.
-<li><p align="justify">Students who are going to another venue during a change of period are expected to do so promptly and in an orderly manner.
+<li>Students leaving the classroom during a lesson are expected to have a pass. Only 1 student will be allowed to leave the classroom at a time.
+<li>Students who are going to another venue during a change of period are expected to do so promptly and in an orderly manner.
 <li>Students are expected not to be walking around the classroom during lesson time.</li>
 <li>Students are expected not to be disruptive during lesson time.</li>
-<li><p align="justify">Students are expected to keep their hand phones and mobile devices out of sight (i.e. inside their school bags) unless otherwise instructed by teachers.
-<li><p align="justify">No food and drinks except mineral water are allowed in the classrooms/special rooms. School staff has the right to discard any food or drinks brought into classroom.
+<li>Students are expected to keep their hand phones and mobile devices out of sight (i.e. inside their school bags) unless otherwise instructed by teachers.
+<li>No food and drinks except mineral water are allowed in the classrooms/special rooms. School staff has the right to discard any food or drinks brought into classroom.
 </ol>
 <li><strong>During Recess</strong></li>
 <ol style="list-style-type: lower-alpha;">
-<li><p align="justify">Students are not to stay in the class during recess unless with permission from a teacher.
-<li><p align="justify">Students should queue for their food and can only buy food for themselves.
-<li><p align="justify">Students should not enter the canteen vendors&rsquo; kitchen area at any time.
-<li><p align="justify">Students should keep the canteen clean.
-<li><p align="justify">Students should return all eating utensils to the respective receptacles after use.
-<li><p align="justify"><p align="justify">Students should not bring food and drinks out of the canteen or to the classrooms for consumption. Food and drinks should be consumed only at the designated eating areas.
+<li>Students are not to stay in the class during recess unless with permission from a teacher.
+<li>Students should queue for their food and can only buy food for themselves.
+<li>Students should not enter the canteen vendors&rsquo; kitchen area at any time.
+<li>Students should keep the canteen clean.
+<li>Students should return all eating utensils to the respective receptacles after use.
+<li>Students should not bring food and drinks out of the canteen or to the classrooms for consumption. Food and drinks should be consumed only at the designated eating areas.
 <li><strong>At school events/functions</strong></li>
 <ol style="list-style-type: lower-alpha;">
-<li><p align="justify">Students are to show respect and common courtesy to uphold the good name of the school at all times.
-<li><p align="justify">Competitors / players should are to practise fair play when representing the school.
+<li>Students are to show respect and common courtesy to uphold the good name of the school at all times.
+<li>Competitors / players should are to practise fair play when representing the school.
 <ol>
-<li><p align="justify">Students are to observe the following regarding the use of mobile devices (including mobile phones and other electronic devices):
+<li>Students are to observe the following regarding the use of mobile devices (including mobile phones and other electronic devices):
 <ol style="list-style-type: lower-alpha;">
-<li><p align="justify">Students carry mobile phones to school at their own risk. No other personal electronic devices (except school issued PDLP devices) should be brought to school.
-<li><p align="justify">To ensure a conducive environment for learning in school, students are not allowed to use their mobile phones and non-PDLP related electronic devices during curriculum time. The table below summarises the use of devices during curriculum time.
+<li>Students carry mobile phones to school at their own risk. No other personal electronic devices (except school issued PDLP devices) should be brought to school.
+<li>To ensure a conducive environment for learning in school, students are not allowed to use their mobile phones and non-PDLP related electronic devices during curriculum time. The table below summarises the use of devices during curriculum time.
 
 <table>
 <tbody>
@@ -472,12 +469,12 @@ third_nav_title: Student Management
 </tbody>
 </table>
 <ol style="list-style-type: lower-alpha;" start="3">
-<li><p align="justify">Students are to inform their parents/guardians of the school&rsquo;s policies on the use of mobile devices during curriculum time. For safety and emergency purposes, parents/guardians who need to contact their child/ward urgently can contact the General Office at 6288 4159.
-<li><p align="justify">All mobile phones and non-PDLP related electronic devices should be switched off and kept out-of-sight unless it is used for the purpose of teaching and learning and approved by the teacher. They will be confiscated if they are seen or heard during curriculum time.
-<li><p align="justify">Charging of any electronic devices is not allowed at all times. Students should instead charge their devices at the allocated charging kiosk(s) found in the school canteen.
+<li>Students are to inform their parents/guardians of the school&rsquo;s policies on the use of mobile devices during curriculum time. For safety and emergency purposes, parents/guardians who need to contact their child/ward urgently can contact the General Office at 6288 4159.
+<li>All mobile phones and non-PDLP related electronic devices should be switched off and kept out-of-sight unless it is used for the purpose of teaching and learning and approved by the teacher. They will be confiscated if they are seen or heard during curriculum time.
+<li>Charging of any electronic devices is not allowed at all times. Students should instead charge their devices at the allocated charging kiosk(s) found in the school canteen.
 <ol style="list-style-type: lower-roman;">
-<li><p align="justify">Students are responsible for the proper use and cleanliness of the charging kiosk(s). Any intentional damage(s) or damage(s) due to negligence will be deemed the responsibility of the student(s), who will bear the cost of damage and face disciplinary action in accordance with the school&rsquo;s discipline policy.
-<li><p align="justify">The school retains the right to open the charging kiosk(s) and/or units to remove any non-complying PLDs at any time for the safety, security and disciplinary purposes.
+<li>Students are responsible for the proper use and cleanliness of the charging kiosk(s). Any intentional damage(s) or damage(s) due to negligence will be deemed the responsibility of the student(s), who will bear the cost of damage and face disciplinary action in accordance with the school&rsquo;s discipline policy.
+<li>The school retains the right to open the charging kiosk(s) and/or units to remove any non-complying PLDs at any time for the safety, security and disciplinary purposes.
 <li>All damages spotted by students should be reported to the General Office.</li>
 <li>The period of confiscation will be as follows:</li>
 <table width="484">
