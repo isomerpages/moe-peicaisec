@@ -20,7 +20,7 @@ third_nav_title: Student Leadership (SL)
 </tr>
 <tr>
 <td width="146">
-<p><p align="justify">Pow Wow (termly Student Council meetings) first week of the term</p>
+<p>Pow Wow (termly Student Council meetings) first week of the term</p>
 </td>
 <td width="146">
 <p>3.30pm &ndash; 5.30pm</p>
