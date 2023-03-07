@@ -127,13 +127,13 @@ third_nav_title: Uniformed Groups
 </table>
 <h4><strong>Programmes / Activities</strong></h4>
 <p>The motto of Girl Guides Singapore is &ldquo;<strong><em>Be prepared</em></strong>&rdquo;.&nbsp;</p>
-<p>In Peicai Girl Guides, we aim to help our girls be prepared for life through providing opportunities to help them discover and develop their strengths and skills to the fullest potential, and to become responsible citizens of the world.</p>
-To achieve this goal, we empower our girls to plan CCA activities to cater to their needs and interests, and to execute initiatives on&nbsp;societal issues that they care about. Over the years, our girls have reached out to the community around us, from children to the elderly, to make a positive difference in our society.
-<p>Apart from working for interest and proficiency badges and awards that help our girls build up new skills and knowledge, we are also committed to the 5-Point Programme which enables our girls to develop in the following five aspects:&nbsp;<em>personal and social development, home, outdoor, community and international</em>.</p>
-<p>Our girls are given opportunities to take part in the school National Day Parade, and HQ and South Division activities where they get to interact and make new friends with other sister guides from other schools and countries.</p>
-<p>Our annual camp and other enrichment activities are also designed to challenge the girls to go beyond their comfort zones, to grow and become better versions of themselves because it is our belief to&nbsp;<strong>allow the light that is within us to shine through every challenge</strong>.</p>
-<p>Through these guiding experiences in Peicai, we envision our girls to become women who are independent and confident, who have a heart for others and most importantly, have a passion for life and learning.</p>
-<p>Ultimately, it is our goal that our girls are <strong>empowered to empower others.</strong></p>
+<p><p align="justify">In Peicai Girl Guides, we aim to help our girls be prepared for life through providing opportunities to help them discover and develop their strengths and skills to the fullest potential, and to become responsible citizens of the world.</p>
+<p align="justify">To achieve this goal, we empower our girls to plan CCA activities to cater to their needs and interests, and to execute initiatives on&nbsp;societal issues that they care about. Over the years, our girls have reached out to the community around us, from children to the elderly, to make a positive difference in our society.
+<p><p align="justify">Apart from working for interest and proficiency badges and awards that help our girls build up new skills and knowledge, we are also committed to the 5-Point Programme which enables our girls to develop in the following five aspects:&nbsp;<em><p align="justify">personal and social development, home, outdoor, community and international</em>.</p>
+<p><p align="justify">Our girls are given opportunities to take part in the school National Day Parade, and HQ and South Division activities where they get to interact and make new friends with other sister guides from other schools and countries.</p>
+<p><p align="justify">Our annual camp and other enrichment activities are also designed to challenge the girls to go beyond their comfort zones, to grow and become better versions of themselves because it is our belief to&nbsp;<strong>allow the light that is within us to shine through every challenge</strong>.</p>
+<p><p align="justify">Through these guiding experiences in Peicai, we envision our girls to become women who are independent and confident, who have a heart for others and most importantly, have a passion for life and learning.</p>
+<p><p align="justify">Ultimately, it is our goal that our girls are <strong>empowered to empower others.</strong></p>
 <h4><strong>Achievements</strong></h4>
 <p><strong>Puan Noor Aishah Award (PNAA)<br /></strong>Gold (2013-2021)</p>
 <p><strong>National Day Parade 2021<br /></strong>Represented Girl Guides and participated in the parade.</p>
