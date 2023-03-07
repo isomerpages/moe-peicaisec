@@ -7,11 +7,8 @@ description: ""
 <ol>
 <li>The MOE Financial Assistance Scheme (FAS) is open fo application for Year 2023.
 <p>Eligibility Criteria and Benefits</p>
-<ol start="2">
 <li>Please refer to this <a href="/files/MOE%20FAS%20pamphlet%20EL%20for%20schools.pdf" target="">Pamphlet</a> for the eligibility criteria and MOE FAS benefits.
-</ol>
 <p>Application Procedures</p>
-<ol start="3">
 <li>Parents can choose to apply for MOE FAS either through (i) Hardcopy Form or (ii) e-FAS.
 <ol style="list-style-type: lower-roman;">
 <li>Hardcopy Form<br />You may collect the MOE FAS Application Form from the General Office or download from <a href="/files/MOE%20FAS%20Application%20Form.pdf" target="">here</a>.<br />Please complete the Form and ensure all required supporting documents are attached before submitting your application to the General Office.
