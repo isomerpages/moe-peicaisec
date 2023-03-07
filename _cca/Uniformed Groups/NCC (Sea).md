@@ -14,7 +14,7 @@ third_nav_title: Uniformed Groups
 <li>Desert Trekking (India)&nbsp;</li>
 <li>Mt Ophir Expedition</li>
 </ul>
-<div><p align="justify">All in all, we strive to develop every NCC Cadet to have a resilient mind, fit body and committed heart. This is in line with the NCC vision,&nbsp;<strong>&lsquo;Cadet Strong&rsquo;</strong>:</div>
+<div><p align="justify">All in all, we strive to develop every NCC Cadet to have a resilient mind, fit body and committed heart. This is in line with the NCC vision,&nbsp;<strong>&lsquo;Cadet Strong&rsquo;</strong>:
 <p><strong>Mind<br /></strong>Cadet with a resilient mind is confident to take on challenges and overcome setbacks.&nbsp;</p>
 <p><strong>Body<br /></strong>Cadet understands the importance of a fit body, takes ownership to maintain a good level of physical fitness and adopt healthy eating habits.&nbsp;</p>
 <p><strong>Heart<br /></strong>Cadet has a committed heart and lives by the NCC Core Values with a strong sense of purpose to serve the cadet&rsquo;s team, school and nation. Cadet learns passionately to develop cadet&rsquo;s own abilities and proactively contributes towards wherever the cadet is.</p>
