@@ -568,4 +568,12 @@ The discipline processes and systems in the school are designed to help and guid
   mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;color:#222222"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt;font-family:
   &quot;Lato&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
   &quot;Times New Roman&quot;;color:#222222">Students who are not present with their form class for the flag raising ceremony (although they are in school) will be considered as late for school.</span></p></td></tr></tbody></table><br>
-	
+5.    All students are to adhere to the following:<br>
+(a)  Be punctual and present for the flag raising ceremony, assembly, all lessons, activities and other school events.<br>
+(b)  Assemble in the parade square/school hall/classroom by 7.40 a.m (8.20 a.m. on Wednesday). It is the responsibility of the student to personally inform his/her Form Teacher if he/she is in school but not in the respective assembly area due to valid reasons.<br>
+(c)  Inform the Form Teachers or the General Office of their absence from school by 7.40 a.m. (8.20 a.m. on Wednesday) on the day of absence.<br>
+(d)  Submit an original copy of the Medical Certificate (MC) for the day(s) absent from school to the Form Teacher on the day of return to school.<br>
+(e)  Letters from parents/guardians explaining a student’s absence from school should not exceed 5 in a semester as students’ attendance in school is critical for them to do well in school. Students will be considered as absent without valid reason if they have submitted parent letters/emails for more than 5 days of absence per semester or travelled overseas during term time for family holidays. Absence without valid reason can be considered as truancy and appropriate consequences will be meted out.<br>
+(f)    Letters from parents/guardians cannot be used to explain absence from tests or examinations.  Absence from a test/examination without a valid MC will result in the student getting a zero mark for the test/examination.<br>
+(g)  Submitted MCs must be issued by a medical practitioner registered under the Medical Registration Act or the Dental Registration Act.<br>
+(h)  Persistent truancy is viewed as a wilful absence from school and may result in expulsion. A student who is absent from school without any valid reasons for three days (the days need not be consecutive), will be issued a letter of warning.<br>
