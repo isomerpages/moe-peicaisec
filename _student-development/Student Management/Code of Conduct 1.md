@@ -366,4 +366,12 @@ The discipline processes and systems in the school are designed to help and guid
 (vi)	Moustache/Beard/Goatee/Facial Piercings are not allowed. All students must be clean shaven and neat in appearance<br>
 (vii)	Sideburns, where kept, should not go beyond the cartilage at the centre of the ear.<br>
 <img style="width: 60%;" src="/images/Hairstyle1.jpg" /><br>
-	
+(b)	 For Female Students<br>
+(i)	Only natural hair colour is allowed (i.e. no dyeing/tinting/highlights).<br>
+(ii)	Hair must be neat and hair that is touching the shoulder or hair that is longer than shoulder length should be tied up.<br>
+(iii)	Length of hair fringe should be above the eyebrows. If the fringe is below the eyebrows, it should be clipped up.<br>
+(iv)	Any hair accessories worn should not be fanciful.<br>
+(v)	Any ear studs worn should be of a simple design and not fanciful.<br>
+(vi)	Only one ear stud per ear is allowed and it has to be worn on the ear lobes only. Multiple earrings or ear studs on any ear is strictly not allowed.<br>
+(vii)	Any ear sticks worn should be transparent.<br>
+(viii)	Dangling earrings are not allowed.<br>
