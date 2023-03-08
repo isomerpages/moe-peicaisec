@@ -51,9 +51,7 @@ third_nav_title: Blended Learning
 <td style="text-align: center;">&nbsp;</td>
 </td>
 </tr>
-</tbody>
-</table>
-Sec4/5:
+
 <table style="margin-left: auto; margin-right: auto;">
 <tbody>
 <tr>
