@@ -186,18 +186,18 @@ third_nav_title: Student Management
 <li>For Male Students</li>
 <ol style="list-style-type: lower-roman;">
 <li>Only natural hair colour is allowed (i.e. no dyeing/tinting/highlights).</li>
-<li><p align="justify">Hair must be neat and kept above the eyebrows. When combed downwards, hair should not cover the eyes, touch the ear as well as the collar of the uniform.
+<li>Hair must be neat and kept above the eyebrows. When combed downwards, hair should not cover the eyes, touch the ear as well as the collar of the uniform.
 <li>Hair at the crown must not be too thick or bushy.
-<li><p align="justify">Hairstyles must be kept simple. It should not incorporate any inappropriate styles as deemed by the school. Hairstyles such as e.g. undercut, thin shaven at the side, shaved line parting, fringe touching eye-brows, V-shaped at the back are not allowed.
+<li>Hairstyles must be kept simple. It should not incorporate any inappropriate styles as deemed by the school. Hairstyles such as e.g. undercut, thin shaven at the side, shaved line parting, fringe touching eye-brows, V-shaped at the back are not allowed.
 <li>Earrings or ear sticks are not allowed</li>
-<li><p align="justify">Moustache/Beard/Goatee/Facial Piercings are not allowed. All students must be clean shaven and neat in appearance
+<li>Moustache/Beard/Goatee/Facial Piercings are not allowed. All students must be clean shaven and neat in appearance
 <li>Sideburns, where kept, should not go beyond the cartilage at the centre of the ear</li>
 <img style="width: 70%;" src="/images/app1.jpg">
 <li>For Female Students</li>
 <ol style="list-style-type: lower-roman;">
 <li>Only natural hair colour is allowed (i.e. no dyeing/tinting/highlights).</li>
-<li><p align="justify">Hair must be neat and hair that is touching the shoulder or hair that is longer than shoulder length should be tied up.
-<li><p align="justify">Length of hair fringe should be above the eyebrows. If the fringe is below the eyebrows, it should be clipped up.
+<li>Hair must be neat and hair that is touching the shoulder or hair that is longer than shoulder length should be tied up.
+<li>Length of hair fringe should be above the eyebrows. If the fringe is below the eyebrows, it should be clipped up.
 <li>Any hair accessories worn should not be fanciful.</li>
 <li>Any ear studs worn should be of a simple design and not fanciful.</li>
 <li>Only one ear stud per ear is allowed and it has to be worn on the ear lobes only.</li>
@@ -206,14 +206,14 @@ third_nav_title: Student Management
 <img src="/images/app2.jpg">
 <li>All students are not allowed to have the following on them:</li>
 <ol style="list-style-type: lower-roman;">
-<li><p align="justify">Tattoos of any kind (visible or otherwise).<br />Students found with any tattoos should remove it before they are allowed to go to class.
+<li>Tattoos of any kind (visible or otherwise).<br />Students found with any tattoos should remove it before they are allowed to go to class.
 <li>Henna&nbsp;painting.</li>
 <li>Make-up of any form.</li>
 <li>Long and/or coloured nails are not allowed.</li>
 <li>Fanciful or striking spectacle frames.<br />Spectacle lenses should not be tinted.</li>
 <li>Cosmetic contact lenses.<br />E.g., contact lens with colour/patterns, contact lens that enlarge the pupils etc.</li>
-<li><p align="justify">Accessories of any kind unless special permission is given<br />Religious accessories, when worn, should be concealed.
-<li><p align="justify">Student leaders are to put on their Student Leaders&rsquo; badge at all times when they are wearing the school uniform
+<li>Accessories of any kind unless special permission is given<br />Religious accessories, when worn, should be concealed.
+<li>Student leaders are to put on their Student Leaders&rsquo; badge at all times when they are wearing the school uniform
 <h4><strong>ATTENDANCE:</strong></h4>
 <p><strong>Rationale: To cultivate self-management through personal responsibility and accountability</strong></p>
 <li>All students are expected to be punctual for and be present in school to attend the flag raising ceremony and all lessons.</li>
@@ -322,8 +322,8 @@ third_nav_title: Student Management
 <ol start="5">
 <li>All students are to adhere to the following:</li>
 <ol style="list-style-type: lower-alpha;">
-<li><p align="justify">Be punctual and present for the flag raising ceremony, assembly, all lessons, activities and other school events.
-<li><p align="justify">Assemble in the parade square/school hall/classroom by 7.40 a.m (8.20 a.m. on Wednesday). It is the responsibility of the student to personally inform his/her Form Teacher if he/she is in school but not in the respective assembly area due to valid reasons.
+<li>Be punctual and present for the flag raising ceremony, assembly, all lessons, activities and other school events.
+<li>Assemble in the parade square/school hall/classroom by 7.40 a.m (8.20 a.m. on Wednesday). It is the responsibility of the student to personally inform his/her Form Teacher if he/she is in school but not in the respective assembly area due to valid reasons.
 <li>Inform the Form Teachers or the General Office of their absence from school by 7.40 a.m. (8.20 a.m. on Wednesday) on the day of absence.
 <li>Submit an original copy of the Medical Certificate (MC) for the day(s) absent from school to the Form Teacher on the day of return to school.
 <li>Letters from parents/guardians explaining a student&rsquo;s absence from school should not exceed 5 in a semester as students&rsquo; attendance in school is critical for them to do well in school. Students will be considered as absent without valid reason if they have submitted parent letters/emails for more than 5 days of absence per semester or travelled overseas during term time for family holidays. Absence without valid reason can be considered as truancy and appropriate consequences will be meted out.
@@ -362,7 +362,7 @@ third_nav_title: Student Management
 <li><strong>In school:</strong></li>
 <ol style="list-style-type: lower-alpha;">
 <li><p align="justify">Students are to respect and obey all school rules and regulations.
-<li><p align="justify">Students are to display exemplary conduct and behave with decorum at all times.
+<li>Students are to display exemplary conduct and behave with decorum at all times.
 <li>Students are to observe silence when they are in the classroom, at the parade square or school hall for flag raising ceremony or other school functions. They are to conduct themselves well during such gatherings where common courtesy and respect must be accorded to all concerned including guest speakers.</li>
 <li>Students must be respectful to all school staff and other students.
 <li>Students are responsible for keeping the environment safe. The school has zero tolerance towards actions that may hurt or harm others emotionally or physically.
