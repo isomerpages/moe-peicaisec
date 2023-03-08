@@ -322,8 +322,8 @@ third_nav_title: Student Management
 <ol start="5">
 <li>All students are to adhere to the following:</li>
 <ol style="list-style-type: lower-alpha;">
-<li>Be punctual and present for the flag raising ceremony, assembly, all lessons, activities and other school events.
-<li>Assemble in the parade square/school hall/classroom by 7.40 a.m (8.20 a.m. on Wednesday). It is the responsibility of the student to personally inform his/her Form Teacher if he/she is in school but not in the respective assembly area due to valid reasons.
+<li><p align="justify">Be punctual and present for the flag raising ceremony, assembly, all lessons, activities and other school events.
+<li><p align="justify">Assemble in the parade square/school hall/classroom by 7.40 a.m (8.20 a.m. on Wednesday). It is the responsibility of the student to personally inform his/her Form Teacher if he/she is in school but not in the respective assembly area due to valid reasons.
 <li>Inform the Form Teachers or the General Office of their absence from school by 7.40 a.m. (8.20 a.m. on Wednesday) on the day of absence.
 <li>Submit an original copy of the Medical Certificate (MC) for the day(s) absent from school to the Form Teacher on the day of return to school.
 <li>Letters from parents/guardians explaining a student&rsquo;s absence from school should not exceed 5 in a semester as students&rsquo; attendance in school is critical for them to do well in school. Students will be considered as absent without valid reason if they have submitted parent letters/emails for more than 5 days of absence per semester or travelled overseas during term time for family holidays. Absence without valid reason can be considered as truancy and appropriate consequences will be meted out.
@@ -362,7 +362,7 @@ third_nav_title: Student Management
 <li><strong>In school:</strong></li>
 <ol style="list-style-type: lower-alpha;">
 <li><p align="justify">Students are to respect and obey all school rules and regulations.
-<li>Students are to display exemplary conduct and behave with decorum at all times.
+<li><p align="justify">Students are to display exemplary conduct and behave with decorum at all times.
 <li>Students are to observe silence when they are in the classroom, at the parade square or school hall for flag raising ceremony or other school functions. They are to conduct themselves well during such gatherings where common courtesy and respect must be accorded to all concerned including guest speakers.</li>
 <li>Students must be respectful to all school staff and other students.
 <li>Students are responsible for keeping the environment safe. The school has zero tolerance towards actions that may hurt or harm others emotionally or physically.
