@@ -105,14 +105,14 @@ Sec4/5:
 </tr>
 <tr>
 <td style="text-align: center;">
-<p>08.00 am - 12.30 pm</p>
+<p>08.35 am - 12.35 pm</p>
 </td>
 <td style="text-align: center;">
-<p>Commencement of Learning (largely asynchronous, via SLS)</p>
+<p>Commencement of learning on four subjects</p>
 </td>
 <td style="text-align: center;">
-<p>The Student Learning Space (SLS) will serve as the main platform in which students receive instructions from their subject teachers for HBL.</p>
-<p>Teachers will continue to monitor students on their learning and check for understanding as well as provide timely feedback for the assignments given during HBL.</p>
+<p>The Student Learning Space (SLS) will serve as the main platform in which students receive instructions from their subject teachers for HBL..</p>
+<p>Teachers will monitor students on their learning and check for understanding as well as provide timely feedback for the assignments given during HBL.</p>
 </td>
 </tr>
 <tr>
