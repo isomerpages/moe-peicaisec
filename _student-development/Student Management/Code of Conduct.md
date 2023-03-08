@@ -356,7 +356,7 @@ third_nav_title: Student Management
 <li>Students who do not have any lessons in between periods should do their own self- revision at the school library. Where there are such instances, it will be formally arranged by the school. Students are to sign in and out with the librarian at the library.
 <h4><strong>ATTITUDE AND BEHAVIOUR</strong></h4>
 <p><strong>Rationale: To cultivate self-discipline through responsible decision making</strong></p>
-<ol>
+	
 <li>Students are to ensure adherence to the following at all times:</li>
 <ol style="list-style-type: lower-roman;">
 <li><strong>In school:</strong></li>
