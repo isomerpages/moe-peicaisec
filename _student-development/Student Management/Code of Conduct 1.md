@@ -26,334 +26,334 @@ The discipline processes and systems in the school are designed to help and guid
 (g)         Any footwear, other than the above prescribed shoes, are not allowed to be worn in school except for medical reasons and approved by a teacher with supporting documentation issued by medical practitioners registered under the Medical Registration Act.<br>
 	<p>5.      The prescribed attire for various school activities and events (unless otherwise specified) is as follows: <br>
 
-<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" width="749" style="width:562.0pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
- mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="219" valign="top" style="width:164.2pt;border:solid windowtext 1.0pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="margin-top:0in;margin-right:0in;
+<table style="width:562.0pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt" width="749" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:164.2pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="219"><p style="margin-top:0in;margin-right:0in;
   margin-bottom:0in;margin-left:4.75pt;text-align:center;mso-line-height-alt:
-  11.5pt"><b><span lang="EN-GB" style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  11.5pt" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
-  mso-ansi-language:EN-GB">School Events / Activities</span></b><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;"></span></p></td><td width="530" valign="top" style="width:397.8pt;border:solid windowtext 1.0pt;
+  mso-ansi-language:EN-GB" lang="EN-GB">School Events / Activities</span></b><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;"></span></p></td><td style="width:397.8pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="margin-top:0in;margin-right:0in;
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="530"><p style="margin-top:0in;margin-right:0in;
   margin-bottom:0in;margin-left:5.0pt;text-align:center;mso-line-height-alt:
-  11.5pt"><b><span lang="EN-GB" style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  11.5pt" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
-  mso-ansi-language:EN-GB">Attire</span></b><span style="font-size:12.0pt;
+  mso-ansi-language:EN-GB" lang="EN-GB">Attire</span></b><span style="font-size:12.0pt;
   font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-bidi-font-family:&quot;Times New Roman&quot;"></span></p></td></tr><tr style="mso-yfti-irow:1"><td width="219" valign="top" style="width:164.2pt;border:solid windowtext 1.0pt;
+  mso-bidi-font-family:&quot;Times New Roman&quot;"></span></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:164.2pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="margin-top:0in;margin-right:32.25pt;
-  margin-bottom:0in;margin-left:4.75pt;text-align:center;line-height:16.8pt"><span lang="EN-GB" style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  padding:0in 5.4pt 0in 5.4pt" valign="top" width="219"><p style="margin-top:0in;margin-right:32.25pt;
+  margin-bottom:0in;margin-left:4.75pt;text-align:center;line-height:16.8pt" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-ansi-language:
-  EN-GB">Daily</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;"></span></p><p class="MsoNormal" align="center" style="margin-top:0in;margin-right:32.25pt;
-  margin-bottom:0in;margin-left:4.75pt;text-align:center;line-height:16.8pt"><span lang="EN-GB" style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  EN-GB" lang="EN-GB">Daily</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;"></span></p><p style="margin-top:0in;margin-right:32.25pt;
+  margin-bottom:0in;margin-left:4.75pt;text-align:center;line-height:16.8pt" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-ansi-language:
-  EN-GB">(excluding days with PE lessons)</span><span style="font-size:12.0pt;
+  EN-GB" lang="EN-GB">(excluding days with PE lessons)</span><span style="font-size:12.0pt;
   font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-bidi-font-family:&quot;Times New Roman&quot;"></span></p></td><td width="530" valign="top" style="width:397.8pt;border-top:none;border-left:
+  mso-bidi-font-family:&quot;Times New Roman&quot;"></span></p></td><td style="width:397.8pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:.5in;text-indent:-.25in;line-height:16.8pt"><span lang="EN-GB" style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="530"><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:.5in;text-indent:-.25in;line-height:16.8pt" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-ansi-language:
-  EN-GB">·</span><span lang="EN-GB" style="font-size:7.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  EN-GB" lang="EN-GB">·</span><span style="font-size:7.0pt;font-family:&quot;Lato&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
-  mso-ansi-language:EN-GB">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span lang="EN-GB" style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  mso-ansi-language:EN-GB" lang="EN-GB">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-ansi-language:
-  EN-GB">Prescribed school<span style="letter-spacing:-2.05pt">&nbsp;</span>uniform skirt</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;"></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:25.65pt;margin-bottom:
-  0in;margin-left:.75in;text-indent:-.25in;line-height:16.8pt"><span lang="EN-GB" style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  EN-GB" lang="EN-GB">Prescribed school<span style="letter-spacing:-2.05pt">&nbsp;</span>uniform skirt</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;"></span></p><p style="margin-top:0in;margin-right:25.65pt;margin-bottom:
+  0in;margin-left:.75in;text-indent:-.25in;line-height:16.8pt" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-ansi-language:
-  EN-GB">Ø</span><span lang="EN-GB" style="font-size:7.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  EN-GB" lang="EN-GB">Ø</span><span style="font-size:7.0pt;font-family:&quot;Lato&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
-  mso-ansi-language:EN-GB">&nbsp;&nbsp;</span><span lang="EN-GB" style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  mso-ansi-language:EN-GB" lang="EN-GB">&nbsp;&nbsp;</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-ansi-language:
-  EN-GB">Shirt<span style="letter-spacing:-.75pt">&nbsp;</span>and<span style="letter-spacing:-.4pt">&nbsp;</span>shorts<span style="letter-spacing:
+  EN-GB" lang="EN-GB">Shirt<span style="letter-spacing:-.75pt">&nbsp;</span>and<span style="letter-spacing:-.4pt">&nbsp;</span>shorts<span style="letter-spacing:
   -.7pt">&nbsp;</span>for<span style="letter-spacing:-.85pt">&nbsp;</span>lower<span style="letter-spacing:-.45pt">&nbsp;</span>secondary boys</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;"></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:26.6pt;margin-bottom:
-  0in;margin-left:.75in;text-indent:-.25in;line-height:16.8pt"><span lang="EN-GB" style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;"></span></p><p style="margin-top:0in;margin-right:26.6pt;margin-bottom:
+  0in;margin-left:.75in;text-indent:-.25in;line-height:16.8pt" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-ansi-language:
-  EN-GB">Ø</span><span lang="EN-GB" style="font-size:7.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  EN-GB" lang="EN-GB">Ø</span><span style="font-size:7.0pt;font-family:&quot;Lato&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
-  mso-ansi-language:EN-GB">&nbsp;&nbsp;</span><span lang="EN-GB" style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  mso-ansi-language:EN-GB" lang="EN-GB">&nbsp;&nbsp;</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-ansi-language:
-  EN-GB">Shirt<span style="letter-spacing:-.75pt">&nbsp;</span>and<span style="letter-spacing:-.4pt">&nbsp;</span>pants<span style="letter-spacing:
+  EN-GB" lang="EN-GB">Shirt<span style="letter-spacing:-.75pt">&nbsp;</span>and<span style="letter-spacing:-.4pt">&nbsp;</span>pants<span style="letter-spacing:
   -.7pt">&nbsp;</span>for<span style="letter-spacing:-.45pt">&nbsp;</span>upper<span style="letter-spacing:-.65pt">&nbsp;</span>secondary boys</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;"></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:26.6pt;margin-bottom:
-  0in;margin-left:.75in;text-indent:-.25in;line-height:16.8pt"><span lang="EN-GB" style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;"></span></p><p style="margin-top:0in;margin-right:26.6pt;margin-bottom:
+  0in;margin-left:.75in;text-indent:-.25in;line-height:16.8pt" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-ansi-language:
-  EN-GB">Ø</span><span lang="EN-GB" style="font-size:7.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  EN-GB" lang="EN-GB">Ø</span><span style="font-size:7.0pt;font-family:&quot;Lato&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
-  mso-ansi-language:EN-GB">&nbsp;&nbsp;</span><span lang="EN-GB" style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  mso-ansi-language:EN-GB" lang="EN-GB">&nbsp;&nbsp;</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-ansi-language:
-  EN-GB">Blouse<span style="letter-spacing:-.85pt">&nbsp;and</span>&nbsp;skirts<span style="letter-spacing:-.85pt">&nbsp;</span><span style="letter-spacing:.15pt">for</span><span style="letter-spacing:-.7pt">&nbsp;</span>both<span style="letter-spacing:
+  EN-GB" lang="EN-GB">Blouse<span style="letter-spacing:-.85pt">&nbsp;and</span>&nbsp;skirts<span style="letter-spacing:-.85pt">&nbsp;</span><span style="letter-spacing:.15pt">for</span><span style="letter-spacing:-.7pt">&nbsp;</span>both<span style="letter-spacing:
   -.65pt">&nbsp;</span>upper<span style="letter-spacing:-.3pt">&nbsp;</span>and lower secondary<span style="letter-spacing:-1.95pt">&nbsp;</span>girls</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;"></span></p></td></tr><tr style="mso-yfti-irow:2"><td width="219" valign="top" style="width:164.2pt;border:solid windowtext 1.0pt;
+  &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;"></span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:164.2pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="margin-top:0in;margin-right:10.3pt;
-  margin-bottom:0in;margin-left:4.55pt;text-align:center;line-height:16.8pt"><span lang="EN-GB" style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  padding:0in 5.4pt 0in 5.4pt" valign="top" width="219"><p style="margin-top:0in;margin-right:10.3pt;
+  margin-bottom:0in;margin-left:4.55pt;text-align:center;line-height:16.8pt" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-ansi-language:
-  EN-GB">Days with PE lessons</span><span style="font-size:12.0pt;font-family:
+  EN-GB" lang="EN-GB">Days with PE lessons</span><span style="font-size:12.0pt;font-family:
   &quot;Lato&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
-  &quot;Times New Roman&quot;"></span></p></td><td width="530" valign="top" style="width:397.8pt;border-top:none;border-left:
+  &quot;Times New Roman&quot;"></span></p></td><td style="width:397.8pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:.5in;text-indent:-.25in;line-height:16.8pt"><span lang="EN-GB" style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="530"><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:.5in;text-indent:-.25in;line-height:16.8pt" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-ansi-language:
-  EN-GB">·</span><span lang="EN-GB" style="font-size:7.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  EN-GB" lang="EN-GB">·</span><span style="font-size:7.0pt;font-family:&quot;Lato&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
-  mso-ansi-language:EN-GB">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span lang="EN-GB" style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  mso-ansi-language:EN-GB" lang="EN-GB">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-ansi-language:
-  EN-GB">PE<span style="letter-spacing:-.6pt">&nbsp;</span>attire</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;"></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:.5in;line-height:16.8pt"><span lang="EN-GB" style="font-size:12.0pt;
+  EN-GB" lang="EN-GB">PE<span style="letter-spacing:-.6pt">&nbsp;</span>attire</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;"></span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:.5in;line-height:16.8pt" class="MsoNormal"><span style="font-size:12.0pt;
   font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-bidi-font-family:&quot;Times New Roman&quot;;mso-ansi-language:EN-GB">Students must wear the school PE t-shirt and shorts for all PE lessons</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;"></span></p></td></tr><tr style="mso-yfti-irow:3"><td width="219" valign="top" style="width:164.2pt;border:solid windowtext 1.0pt;
+  mso-bidi-font-family:&quot;Times New Roman&quot;;mso-ansi-language:EN-GB" lang="EN-GB">Students must wear the school PE t-shirt and shorts for all PE lessons</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;"></span></p></td></tr><tr style="mso-yfti-irow:3"><td style="width:164.2pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="margin-top:0in;margin-right:32.25pt;
-  margin-bottom:0in;margin-left:4.75pt;text-align:center;line-height:16.8pt"><span lang="EN-GB" style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  padding:0in 5.4pt 0in 5.4pt" valign="top" width="219"><p style="margin-top:0in;margin-right:32.25pt;
+  margin-bottom:0in;margin-left:4.75pt;text-align:center;line-height:16.8pt" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-ansi-language:
-  EN-GB">School functions<br>e.g. Speech Day</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;"></span></p></td><td width="530" valign="top" style="width:397.8pt;border-top:none;border-left:
+  EN-GB" lang="EN-GB">School functions<br>e.g. Speech Day</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;"></span></p></td><td style="width:397.8pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-top:0in;margin-right:10.45pt;margin-bottom:
-  0in;margin-left:.5in;text-indent:-.25in;line-height:16.8pt"><span lang="EN-GB" style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="530"><p style="margin-top:0in;margin-right:10.45pt;margin-bottom:
+  0in;margin-left:.5in;text-indent:-.25in;line-height:16.8pt" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-ansi-language:
-  EN-GB">·</span><span lang="EN-GB" style="font-size:7.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  EN-GB" lang="EN-GB">·</span><span style="font-size:7.0pt;font-family:&quot;Lato&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
-  mso-ansi-language:EN-GB">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span lang="EN-GB" style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  mso-ansi-language:EN-GB" lang="EN-GB">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-ansi-language:
-  EN-GB">Prescribed<span style="letter-spacing:-.7pt">&nbsp;</span>school<span style="letter-spacing:-.8pt">&nbsp;</span>uniform</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;"></span></p></td></tr><tr style="mso-yfti-irow:4"><td width="219" valign="top" style="width:164.2pt;border:solid windowtext 1.0pt;
+  EN-GB" lang="EN-GB">Prescribed<span style="letter-spacing:-.7pt">&nbsp;</span>school<span style="letter-spacing:-.8pt">&nbsp;</span>uniform</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;"></span></p></td></tr><tr style="mso-yfti-irow:4"><td style="width:164.2pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="margin-top:0in;margin-right:0in;
-  margin-bottom:0in;margin-left:4.55pt;text-align:center;line-height:16.8pt"><span lang="EN-GB" style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  padding:0in 5.4pt 0in 5.4pt" valign="top" width="219"><p style="margin-top:0in;margin-right:0in;
+  margin-bottom:0in;margin-left:4.55pt;text-align:center;line-height:16.8pt" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-ansi-language:
-  EN-GB">Examinations</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;"></span></p></td><td width="530" valign="top" style="width:397.8pt;border-top:none;border-left:
+  EN-GB" lang="EN-GB">Examinations</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;"></span></p></td><td style="width:397.8pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:.5in;text-indent:-.25in;line-height:16.8pt"><span lang="EN-GB" style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="530"><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:.5in;text-indent:-.25in;line-height:16.8pt" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-ansi-language:
-  EN-GB">·</span><span lang="EN-GB" style="font-size:7.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  EN-GB" lang="EN-GB">·</span><span style="font-size:7.0pt;font-family:&quot;Lato&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
-  mso-ansi-language:EN-GB">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span lang="EN-GB" style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  mso-ansi-language:EN-GB" lang="EN-GB">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-ansi-language:
-  EN-GB">Prescribed<span style="letter-spacing:-1.15pt">&nbsp;</span>school<span style="letter-spacing:-1.25pt">&nbsp;</span>uniform (unless informed of any changes)</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;"></span></p></td></tr><tr style="mso-yfti-irow:5"><td width="219" valign="top" style="width:164.2pt;border:solid windowtext 1.0pt;
+  EN-GB" lang="EN-GB">Prescribed<span style="letter-spacing:-1.15pt">&nbsp;</span>school<span style="letter-spacing:-1.25pt">&nbsp;</span>uniform (unless informed of any changes)</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;"></span></p></td></tr><tr style="mso-yfti-irow:5"><td style="width:164.2pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="margin-top:0in;margin-right:0in;
-  margin-bottom:0in;margin-left:4.55pt;text-align:center;line-height:16.8pt"><span lang="EN-GB" style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  padding:0in 5.4pt 0in 5.4pt" valign="top" width="219"><p style="margin-top:0in;margin-right:0in;
+  margin-bottom:0in;margin-left:4.55pt;text-align:center;line-height:16.8pt" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-ansi-language:
-  EN-GB">Inter-class Games</span><span style="font-size:12.0pt;font-family:
+  EN-GB" lang="EN-GB">Inter-class Games</span><span style="font-size:12.0pt;font-family:
   &quot;Lato&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
-  &quot;Times New Roman&quot;"></span></p></td><td width="530" valign="top" style="width:397.8pt;border-top:none;border-left:
+  &quot;Times New Roman&quot;"></span></p></td><td style="width:397.8pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:.5in;text-indent:-.25in;line-height:16.8pt"><span lang="EN-GB" style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="530"><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:.5in;text-indent:-.25in;line-height:16.8pt" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-ansi-language:
-  EN-GB">·</span><span lang="EN-GB" style="font-size:7.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  EN-GB" lang="EN-GB">·</span><span style="font-size:7.0pt;font-family:&quot;Lato&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
-  mso-ansi-language:EN-GB">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span lang="EN-GB" style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  mso-ansi-language:EN-GB" lang="EN-GB">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-ansi-language:
-  EN-GB">PE<span style="letter-spacing:-.6pt">&nbsp;</span>attire</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;"></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:.5in;text-indent:-.25in;line-height:16.8pt"><span lang="EN-GB" style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  EN-GB" lang="EN-GB">PE<span style="letter-spacing:-.6pt">&nbsp;</span>attire</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;"></span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:.5in;text-indent:-.25in;line-height:16.8pt" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-ansi-language:
-  EN-GB">·</span><span lang="EN-GB" style="font-size:7.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  EN-GB" lang="EN-GB">·</span><span style="font-size:7.0pt;font-family:&quot;Lato&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
-  mso-ansi-language:EN-GB">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span lang="EN-GB" style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  mso-ansi-language:EN-GB" lang="EN-GB">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-ansi-language:
-  EN-GB">Class/CCA<span style="letter-spacing:-.75pt">&nbsp;</span>T-shirts<span style="letter-spacing:-.6pt">&nbsp;</span>with<span style="letter-spacing:
+  EN-GB" lang="EN-GB">Class/CCA<span style="letter-spacing:-.75pt">&nbsp;</span>T-shirts<span style="letter-spacing:-.6pt">&nbsp;</span>with<span style="letter-spacing:
   -.4pt">&nbsp;</span>PE<span style="letter-spacing:-.6pt">&nbsp;</span>shorts</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;"></span></p></td></tr><tr style="mso-yfti-irow:6;height:87.0pt"><td width="219" valign="top" style="width:164.2pt;border:solid windowtext 1.0pt;
+  &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;"></span></p></td></tr><tr style="mso-yfti-irow:6;height:87.0pt"><td style="width:164.2pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt;height:87.0pt"><p class="MsoNormal" align="center" style="margin-top:0in;margin-right:0in;
-  margin-bottom:0in;margin-left:4.55pt;text-align:center;line-height:16.8pt"><span lang="EN-GB" style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  padding:0in 5.4pt 0in 5.4pt;height:87.0pt" valign="top" width="219"><p style="margin-top:0in;margin-right:0in;
+  margin-bottom:0in;margin-left:4.55pt;text-align:center;line-height:16.8pt" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-ansi-language:
-  EN-GB">School Excursions &amp; Learning Journeys</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;"></span></p></td><td width="530" valign="top" style="width:397.8pt;border-top:none;border-left:
+  EN-GB" lang="EN-GB">School Excursions &amp; Learning Journeys</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;"></span></p></td><td style="width:397.8pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:87.0pt"><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:.5in;text-indent:-.25in;line-height:16.8pt"><span lang="EN-GB" style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:87.0pt" valign="top" width="530"><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:.5in;text-indent:-.25in;line-height:16.8pt" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-ansi-language:
-  EN-GB">·</span><span lang="EN-GB" style="font-size:7.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  EN-GB" lang="EN-GB">·</span><span style="font-size:7.0pt;font-family:&quot;Lato&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
-  mso-ansi-language:EN-GB">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span lang="EN-GB" style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  mso-ansi-language:EN-GB" lang="EN-GB">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-ansi-language:
-  EN-GB">Depending on the nature of activity,</span><span style="font-size:
+  EN-GB" lang="EN-GB">Depending on the nature of activity,</span><span style="font-size:
   12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-bidi-font-family:&quot;Times New Roman&quot;"></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:.5in;text-indent:-.25in;line-height:16.8pt"><span lang="EN-GB" style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  mso-bidi-font-family:&quot;Times New Roman&quot;"></span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:.5in;text-indent:-.25in;line-height:16.8pt" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-ansi-language:
-  EN-GB">·</span><span lang="EN-GB" style="font-size:7.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  EN-GB" lang="EN-GB">·</span><span style="font-size:7.0pt;font-family:&quot;Lato&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
-  mso-ansi-language:EN-GB">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span lang="EN-GB" style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  mso-ansi-language:EN-GB" lang="EN-GB">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-ansi-language:
-  EN-GB">Prescribed<span style="letter-spacing:-1.15pt">&nbsp;</span>school<span style="letter-spacing:-1.25pt">&nbsp;</span>uniform</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;"></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:.5in;text-indent:-.25in;line-height:16.8pt"><span lang="EN-GB" style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  EN-GB" lang="EN-GB">Prescribed<span style="letter-spacing:-1.15pt">&nbsp;</span>school<span style="letter-spacing:-1.25pt">&nbsp;</span>uniform</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;"></span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:.5in;text-indent:-.25in;line-height:16.8pt" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-ansi-language:
-  EN-GB">·</span><span lang="EN-GB" style="font-size:7.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  EN-GB" lang="EN-GB">·</span><span style="font-size:7.0pt;font-family:&quot;Lato&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
-  mso-ansi-language:EN-GB">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span lang="EN-GB" style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  mso-ansi-language:EN-GB" lang="EN-GB">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-ansi-language:
-  EN-GB">PE<span style="letter-spacing:-.6pt">&nbsp;</span>attire</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;"></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:19.85pt;margin-bottom:
-  0in;margin-left:.5in;text-indent:-.25in;line-height:16.8pt"><span lang="EN-GB" style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  EN-GB" lang="EN-GB">PE<span style="letter-spacing:-.6pt">&nbsp;</span>attire</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;"></span></p><p style="margin-top:0in;margin-right:19.85pt;margin-bottom:
+  0in;margin-left:.5in;text-indent:-.25in;line-height:16.8pt" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-ansi-language:
-  EN-GB">·</span><span lang="EN-GB" style="font-size:7.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  EN-GB" lang="EN-GB">·</span><span style="font-size:7.0pt;font-family:&quot;Lato&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
-  mso-ansi-language:EN-GB">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span lang="EN-GB" style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  mso-ansi-language:EN-GB" lang="EN-GB">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-ansi-language:
-  EN-GB">Class<span style="letter-spacing:-.95pt">&nbsp;</span>T-shirt<span style="letter-spacing:-.8pt">&nbsp;</span>with<span style="letter-spacing:
+  EN-GB" lang="EN-GB">Class<span style="letter-spacing:-.95pt">&nbsp;</span>T-shirt<span style="letter-spacing:-.8pt">&nbsp;</span>with<span style="letter-spacing:
   -.65pt">&nbsp;</span>school<span style="letter-spacing:-.95pt">&nbsp;</span>shorts / pants / skirts/ PE shorts</span><span style="font-size:12.0pt;font-family:
   &quot;Lato&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
-  &quot;Times New Roman&quot;"></span></p></td></tr><tr style="mso-yfti-irow:7"><td width="219" valign="top" style="width:164.2pt;border:solid windowtext 1.0pt;
+  &quot;Times New Roman&quot;"></span></p></td></tr><tr style="mso-yfti-irow:7"><td style="width:164.2pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="margin-top:0in;margin-right:0in;
-  margin-bottom:0in;margin-left:4.55pt;text-align:center;line-height:16.8pt"><span lang="EN-GB" style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  padding:0in 5.4pt 0in 5.4pt" valign="top" width="219"><p style="margin-top:0in;margin-right:0in;
+  margin-bottom:0in;margin-left:4.55pt;text-align:center;line-height:16.8pt" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-ansi-language:
-  EN-GB">Saturdays &amp; School Holidays</span><span style="font-size:12.0pt;
+  EN-GB" lang="EN-GB">Saturdays &amp; School Holidays</span><span style="font-size:12.0pt;
   font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-bidi-font-family:&quot;Times New Roman&quot;"></span></p></td><td width="530" valign="top" style="width:397.8pt;border-top:none;border-left:
+  mso-bidi-font-family:&quot;Times New Roman&quot;"></span></p></td><td style="width:397.8pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:.5in;text-indent:-.25in;line-height:16.8pt"><span lang="EN-GB" style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="530"><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:.5in;text-indent:-.25in;line-height:16.8pt" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-ansi-language:
-  EN-GB">·</span><span lang="EN-GB" style="font-size:7.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  EN-GB" lang="EN-GB">·</span><span style="font-size:7.0pt;font-family:&quot;Lato&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
-  mso-ansi-language:EN-GB">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span lang="EN-GB" style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  mso-ansi-language:EN-GB" lang="EN-GB">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-ansi-language:
-  EN-GB">PE<span style="letter-spacing:-.6pt">&nbsp;</span>attire</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;"></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:13.75pt;margin-bottom:
-  0in;margin-left:.5in;text-indent:-.25in;line-height:16.8pt"><span lang="EN-GB" style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  EN-GB" lang="EN-GB">PE<span style="letter-spacing:-.6pt">&nbsp;</span>attire</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;"></span></p><p style="margin-top:0in;margin-right:13.75pt;margin-bottom:
+  0in;margin-left:.5in;text-indent:-.25in;line-height:16.8pt" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-ansi-language:
-  EN-GB">·</span><span lang="EN-GB" style="font-size:7.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  EN-GB" lang="EN-GB">·</span><span style="font-size:7.0pt;font-family:&quot;Lato&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
-  mso-ansi-language:EN-GB">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span lang="EN-GB" style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  mso-ansi-language:EN-GB" lang="EN-GB">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-ansi-language:
-  EN-GB">PE/CCA/Class<span style="letter-spacing:-.95pt">&nbsp;</span>T-shirt<span style="letter-spacing:-.95pt">&nbsp;</span>with<span style="letter-spacing:
+  EN-GB" lang="EN-GB">PE/CCA/Class<span style="letter-spacing:-.95pt">&nbsp;</span>T-shirt<span style="letter-spacing:-.95pt">&nbsp;</span>with<span style="letter-spacing:
   -.85pt">&nbsp;</span>school shorts /pants / skirt / PE&nbsp;<span style="letter-spacing:1.4pt">&nbsp;</span>shorts</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;"></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:.5in;text-indent:-.25in;line-height:16.8pt"><span lang="EN-GB" style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;"></span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:.5in;text-indent:-.25in;line-height:16.8pt" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-ansi-language:
-  EN-GB">·</span><span lang="EN-GB" style="font-size:7.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  EN-GB" lang="EN-GB">·</span><span style="font-size:7.0pt;font-family:&quot;Lato&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
-  mso-ansi-language:EN-GB">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span lang="EN-GB" style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  mso-ansi-language:EN-GB" lang="EN-GB">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-ansi-language:
-  EN-GB">Shoes and socks (no slippers allowed)</span><span style="font-size:
+  EN-GB" lang="EN-GB">Shoes and socks (no slippers allowed)</span><span style="font-size:
   12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-bidi-font-family:&quot;Times New Roman&quot;"></span></p></td></tr><tr style="mso-yfti-irow:8"><td width="219" valign="top" style="width:164.2pt;border:solid windowtext 1.0pt;
+  mso-bidi-font-family:&quot;Times New Roman&quot;"></span></p></td></tr><tr style="mso-yfti-irow:8"><td style="width:164.2pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="margin-top:0in;margin-right:6.95pt;
-  margin-bottom:0in;margin-left:4.55pt;text-align:center;line-height:16.8pt"><span lang="EN-GB" style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  padding:0in 5.4pt 0in 5.4pt" valign="top" width="219"><p style="margin-top:0in;margin-right:6.95pt;
+  margin-bottom:0in;margin-left:4.55pt;text-align:center;line-height:16.8pt" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-ansi-language:
-  EN-GB">Physical activities and in the Gym</span><span style="font-size:12.0pt;
+  EN-GB" lang="EN-GB">Physical activities and in the Gym</span><span style="font-size:12.0pt;
   font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-bidi-font-family:&quot;Times New Roman&quot;"></span></p></td><td width="530" valign="top" style="width:397.8pt;border-top:none;border-left:
+  mso-bidi-font-family:&quot;Times New Roman&quot;"></span></p></td><td style="width:397.8pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:43.5pt;text-indent:-22.5pt;line-height:16.8pt"><span lang="EN-GB" style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="530"><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:43.5pt;text-indent:-22.5pt;line-height:16.8pt" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-ansi-language:
-  EN-GB">·</span><span lang="EN-GB" style="font-size:7.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  EN-GB" lang="EN-GB">·</span><span style="font-size:7.0pt;font-family:&quot;Lato&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
-  mso-ansi-language:EN-GB">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span lang="EN-GB" style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  mso-ansi-language:EN-GB" lang="EN-GB">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-ansi-language:
-  EN-GB">PE<span style="letter-spacing:-.6pt">&nbsp;</span>attire</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;"></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:19.85pt;margin-bottom:
-  0in;margin-left:43.5pt;text-indent:-22.5pt;line-height:16.8pt"><span lang="EN-GB" style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  EN-GB" lang="EN-GB">PE<span style="letter-spacing:-.6pt">&nbsp;</span>attire</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;"></span></p><p style="margin-top:0in;margin-right:19.85pt;margin-bottom:
+  0in;margin-left:43.5pt;text-indent:-22.5pt;line-height:16.8pt" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-ansi-language:
-  EN-GB">·</span><span lang="EN-GB" style="font-size:7.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  EN-GB" lang="EN-GB">·</span><span style="font-size:7.0pt;font-family:&quot;Lato&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
-  mso-ansi-language:EN-GB">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span lang="EN-GB" style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  mso-ansi-language:EN-GB" lang="EN-GB">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-ansi-language:
-  EN-GB">CCA/Class<span style="letter-spacing:-.8pt">&nbsp;</span>T-shirt<span style="letter-spacing:-.7pt">&nbsp;</span>with<span style="letter-spacing:
+  EN-GB" lang="EN-GB">CCA/Class<span style="letter-spacing:-.8pt">&nbsp;</span>T-shirt<span style="letter-spacing:-.7pt">&nbsp;</span>with<span style="letter-spacing:
   -.7pt">&nbsp;</span>PE<span style="letter-spacing:-.7pt">&nbsp;</span>shorts</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;"></span></p></td></tr><tr style="mso-yfti-irow:9"><td width="219" valign="top" style="width:164.2pt;border:solid windowtext 1.0pt;
+  &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;"></span></p></td></tr><tr style="mso-yfti-irow:9"><td style="width:164.2pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="margin-top:0in;margin-right:0in;
-  margin-bottom:0in;margin-left:4.55pt;text-align:center;line-height:16.8pt"><span lang="EN-GB" style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  padding:0in 5.4pt 0in 5.4pt" valign="top" width="219"><p style="margin-top:0in;margin-right:0in;
+  margin-bottom:0in;margin-left:4.55pt;text-align:center;line-height:16.8pt" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-ansi-language:
-  EN-GB">Night Study Programme /Consultations</span><span style="font-size:
+  EN-GB" lang="EN-GB">Night Study Programme /Consultations</span><span style="font-size:
   12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-bidi-font-family:&quot;Times New Roman&quot;"></span></p></td><td width="530" valign="top" style="width:397.8pt;border-top:none;border-left:
+  mso-bidi-font-family:&quot;Times New Roman&quot;"></span></p></td><td style="width:397.8pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:43.5pt;text-indent:-22.5pt;line-height:16.8pt"><span lang="EN-GB" style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="530"><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:43.5pt;text-indent:-22.5pt;line-height:16.8pt" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-ansi-language:
-  EN-GB">·</span><span lang="EN-GB" style="font-size:7.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  EN-GB" lang="EN-GB">·</span><span style="font-size:7.0pt;font-family:&quot;Lato&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
-  mso-ansi-language:EN-GB">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span lang="EN-GB" style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  mso-ansi-language:EN-GB" lang="EN-GB">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-ansi-language:
-  EN-GB">Prescribed<span style="letter-spacing:-1.15pt">&nbsp;</span>school<span style="letter-spacing:-1.25pt">&nbsp;</span>uniform</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;"></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:43.5pt;text-indent:-22.5pt;line-height:16.8pt"><span lang="EN-GB" style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  EN-GB" lang="EN-GB">Prescribed<span style="letter-spacing:-1.15pt">&nbsp;</span>school<span style="letter-spacing:-1.25pt">&nbsp;</span>uniform</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;"></span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:43.5pt;text-indent:-22.5pt;line-height:16.8pt" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-ansi-language:
-  EN-GB">·</span><span lang="EN-GB" style="font-size:7.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  EN-GB" lang="EN-GB">·</span><span style="font-size:7.0pt;font-family:&quot;Lato&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
-  mso-ansi-language:EN-GB">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span lang="EN-GB" style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  mso-ansi-language:EN-GB" lang="EN-GB">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-ansi-language:
-  EN-GB">PE<span style="letter-spacing:-.6pt">&nbsp;</span>attire</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;"></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:13.75pt;margin-bottom:
+  EN-GB" lang="EN-GB">PE<span style="letter-spacing:-.6pt">&nbsp;</span>attire</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;"></span></p><p style="margin-top:0in;margin-right:13.75pt;margin-bottom:
   0in;margin-left:43.5pt;text-align:justify;text-justify:inter-ideograph;
-  text-indent:-22.5pt;line-height:16.8pt"><span lang="EN-GB" style="font-size:
+  text-indent:-22.5pt;line-height:16.8pt" class="MsoNormal"><span style="font-size:
   12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-bidi-font-family:&quot;Times New Roman&quot;;mso-ansi-language:EN-GB">·</span><span lang="EN-GB" style="font-size:7.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  mso-bidi-font-family:&quot;Times New Roman&quot;;mso-ansi-language:EN-GB" lang="EN-GB">·</span><span style="font-size:7.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-ansi-language:
-  EN-GB">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span lang="EN-GB" style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  EN-GB" lang="EN-GB">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-ansi-language:
-  EN-GB">PE/CCA/Class<span style="letter-spacing:-1.2pt">&nbsp;</span>T-shirt<span style="letter-spacing:-1.2pt">&nbsp;</span>with<span style="letter-spacing:
+  EN-GB" lang="EN-GB">PE/CCA/Class<span style="letter-spacing:-1.2pt">&nbsp;</span>T-shirt<span style="letter-spacing:-1.2pt">&nbsp;</span>with<span style="letter-spacing:
   -1.1pt">&nbsp;</span>school shorts / pants / skirts / PE shorts</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;"></span></p></td></tr><tr style="mso-yfti-irow:10"><td width="219" valign="top" style="width:164.2pt;border:solid windowtext 1.0pt;
+  &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;"></span></p></td></tr><tr style="mso-yfti-irow:10"><td style="width:164.2pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="margin-top:0in;margin-right:0in;
-  margin-bottom:0in;margin-left:4.55pt;text-align:center;line-height:16.8pt"><span lang="EN-GB" style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  padding:0in 5.4pt 0in 5.4pt" valign="top" width="219"><p style="margin-top:0in;margin-right:0in;
+  margin-bottom:0in;margin-left:4.55pt;text-align:center;line-height:16.8pt" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-ansi-language:
-  EN-GB">Co-curricular Activities (CCA)</span><span style="font-size:12.0pt;
+  EN-GB" lang="EN-GB">Co-curricular Activities (CCA)</span><span style="font-size:12.0pt;
   font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-bidi-font-family:&quot;Times New Roman&quot;"></span></p></td><td width="530" valign="top" style="width:397.8pt;border-top:none;border-left:
+  mso-bidi-font-family:&quot;Times New Roman&quot;"></span></p></td><td style="width:397.8pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:43.5pt;text-indent:-22.5pt;line-height:16.8pt"><span lang="EN-GB" style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="530"><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:43.5pt;text-indent:-22.5pt;line-height:16.8pt" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-ansi-language:
-  EN-GB">·</span><span lang="EN-GB" style="font-size:7.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  EN-GB" lang="EN-GB">·</span><span style="font-size:7.0pt;font-family:&quot;Lato&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
-  mso-ansi-language:EN-GB">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span lang="EN-GB" style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  mso-ansi-language:EN-GB" lang="EN-GB">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-ansi-language:
-  EN-GB">CCA<span style="letter-spacing:-1.1pt">&nbsp;</span>Attire / CCA T-shirts/PE shorts / school shorts / pants / skirts</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;"></span></p></td></tr><tr style="mso-yfti-irow:11;mso-yfti-lastrow:yes"><td width="219" valign="top" style="width:164.2pt;border:solid windowtext 1.0pt;
+  EN-GB" lang="EN-GB">CCA<span style="letter-spacing:-1.1pt">&nbsp;</span>Attire / CCA T-shirts/PE shorts / school shorts / pants / skirts</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;"></span></p></td></tr><tr style="mso-yfti-irow:11;mso-yfti-lastrow:yes"><td style="width:164.2pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="margin-top:0in;margin-right:6.95pt;
-  margin-bottom:0in;margin-left:4.55pt;text-align:center;line-height:16.8pt"><span lang="EN-GB" style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  padding:0in 5.4pt 0in 5.4pt" valign="top" width="219"><p style="margin-top:0in;margin-right:6.95pt;
+  margin-bottom:0in;margin-left:4.55pt;text-align:center;line-height:16.8pt" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-ansi-language:
-  EN-GB">Every Friday<br>(except during the examination periods)</span><span style="font-size:12.0pt;
+  EN-GB" lang="EN-GB">Every Friday<br>(except during the examination periods)</span><span style="font-size:12.0pt;
   font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-bidi-font-family:&quot;Times New Roman&quot;"></span></p></td><td width="530" valign="top" style="width:397.8pt;border-top:none;border-left:
+  mso-bidi-font-family:&quot;Times New Roman&quot;"></span></p></td><td style="width:397.8pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-top:0in;margin-right:11.45pt;margin-bottom:
-  0in;margin-left:43.5pt;text-indent:-22.5pt;line-height:16.8pt"><span lang="EN-GB" style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="530"><p style="margin-top:0in;margin-right:11.45pt;margin-bottom:
+  0in;margin-left:43.5pt;text-indent:-22.5pt;line-height:16.8pt" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-ansi-language:
-  EN-GB">·</span><span lang="EN-GB" style="font-size:7.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  EN-GB" lang="EN-GB">·</span><span style="font-size:7.0pt;font-family:&quot;Lato&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
-  mso-ansi-language:EN-GB">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span lang="EN-GB" style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  mso-ansi-language:EN-GB" lang="EN-GB">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-ansi-language:
-  EN-GB">PE/Class/CCA<span style="letter-spacing:-.9pt">&nbsp;</span>T-shirt<span style="letter-spacing:-.75pt">&nbsp;</span><span style="letter-spacing:-.15pt">with</span><span style="letter-spacing:-.75pt">&nbsp;PE shorts /&nbsp;</span>school<span style="letter-spacing:-.85pt">&nbsp;</span>shorts / pants/ skirts&nbsp;(This is a privilege that will be reviewed by the school when necessary)</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  EN-GB" lang="EN-GB">PE/Class/CCA<span style="letter-spacing:-.9pt">&nbsp;</span>T-shirt<span style="letter-spacing:-.75pt">&nbsp;</span><span style="letter-spacing:-.15pt">with</span><span style="letter-spacing:-.75pt">&nbsp;PE shorts /&nbsp;</span>school<span style="letter-spacing:-.85pt">&nbsp;</span>shorts / pants/ skirts&nbsp;(This is a privilege that will be reviewed by the school when necessary)</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;"></span></p></td></tr></tbody></table>
-<img src="/images/Code1.jpg" style="width: 100%;">
+<img style="width: 100%;" src="/images/Code1.jpg">
 </p><h4><strong>APPEARANCE</strong><br>&nbsp;</h4>
 <p><b>Rationale:	To portray a positive image of oneself through personal grooming and hygiene.</b></p><br>
 	1. 	All students are to ensure the following:<br>
@@ -365,7 +365,7 @@ The discipline processes and systems in the school are designed to help and guid
 (v)	Earrings or ear sticks are not allowed<br>
 (vi)	Moustache/Beard/Goatee/Facial Piercings are not allowed. All students must be clean shaven and neat in appearance<br>
 (vii)	Sideburns, where kept, should not go beyond the cartilage at the centre of the ear.<br>
-<img src="/images/Hairstyle1.jpg" style="width: 60%;"><br>
+<img style="width: 60%;" src="/images/Hairstyle1.jpg"><br>
 (b)	 For Female Students<br>
 (i)	Only natural hair colour is allowed (i.e. no dyeing/tinting/highlights).<br>
 (ii)	Hair must be neat and hair that is touching the shoulder or hair that is longer than shoulder length should be tied up.<br>
@@ -375,7 +375,7 @@ The discipline processes and systems in the school are designed to help and guid
 (vi)	Only one ear stud per ear is allowed and it has to be worn on the ear lobes only. Multiple earrings or ear studs on any ear is strictly not allowed.<br>
 (vii)	Any ear sticks worn should be transparent.<br>
 (viii)	Dangling earrings are not allowed.<br>
-	<img src="/images/Hairstyle2.jpg" style="width: 60%;"><br>
+	<img style="width: 60%;" src="/images/Hairstyle2.jpg"><br>
 (c) All students are not allowed to have the following on them:<br>
 (i) Tattoos of any kind (visible or otherwise).<br>
 	<b>Students found with any tattoos should remove it before they are allowed to go to class.</b><br>
@@ -394,25 +394,111 @@ The discipline processes and systems in the school are designed to help and guid
 2.    Students who are Singapore citizens must sing the National Anthem and take the Pledge. Students will take the Pledge with the right fist placed over the heart.<br>
 3.    The procedures and timings for morning assembly and the flag raising ceremony are as follows:<br>
 
-<table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
- mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="border:solid windowtext 1.0pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt" valign="top"><p style="margin-bottom:0in;text-align:center;
-  line-height:16.8pt" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td valign="top" style="border:solid windowtext 1.0pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:16.8pt"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
-  color:#222222">Time</span></p></td><td style="width:284.2pt;border:solid windowtext 1.0pt;
+  color:#222222">Time</span></p></td><td width="379" valign="top" style="width:284.2pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="379"><p style="margin-bottom:0in;text-align:center;
-  line-height:16.8pt" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:16.8pt"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
-  color:#222222">Activity</span></p></td></tr><tr style="mso-yfti-irow:1"><td style="border:solid windowtext 1.0pt;border-top:none;
+  color:#222222">Activity</span></p></td></tr><tr style="mso-yfti-irow:1"><td valign="top" style="border:solid windowtext 1.0pt;border-top:none;
   mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt" valign="top"><p style="margin-bottom:0in;text-align:center;
-  line-height:16.8pt" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:16.8pt"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
-  color:#222222">7.35 a.m.</span></p></td><td style="width:284.2pt;border-top:none;border-left:
+  color:#222222">7.35 a.m.</span></p></td><td width="379" valign="top" style="width:284.2pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="379"><p style="margin-top:0in;margin-right:0in;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="margin-top:0in;margin-right:0in;
+  margin-bottom:0in;margin-left:.75in;text-align:center;text-indent:-.25in;
+  line-height:16.8pt;mso-list:l0 level1 lfo1;tab-stops:list .5in"><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Symbol;
+  mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;color:#222222"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt;font-family:
+  &quot;Lato&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
+  &quot;Times New Roman&quot;;color:#222222">The slow music starts.</span></p><p class="MsoNormal" align="center" style="margin-top:0in;margin-right:0in;
+  margin-bottom:0in;margin-left:.75in;text-align:center;text-indent:-.25in;
+  line-height:16.8pt;mso-list:l0 level1 lfo1;tab-stops:list .5in"><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Symbol;
+  mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;color:#222222"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt;font-family:
+  &quot;Lato&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
+  &quot;Times New Roman&quot;;color:#222222">Students are to assemble with their form class in the parade square / school hall / classroom for flag raising ceremony.</span></p><p class="MsoNormal" align="center" style="margin-top:0in;margin-right:0in;
+  margin-bottom:0in;margin-left:.75in;text-align:center;text-indent:-.25in;
+  line-height:16.8pt;mso-list:l0 level1 lfo1;tab-stops:list .5in"><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Symbol;
+  mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;color:#222222"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt;font-family:
+  &quot;Lato&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
+  &quot;Times New Roman&quot;;color:#222222">An announcement will be made via the public address system if there are any changes to the assigned assembly venues due to inclement weather.</span></p></td></tr><tr style="mso-yfti-irow:2"><td valign="top" style="border:solid windowtext 1.0pt;border-top:none;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:16.8pt"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  color:#222222">7.35 a.m. –</span></p><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:16.8pt"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  color:#222222">7.38 a.m.</span></p></td><td width="379" valign="top" style="width:284.2pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="margin-top:0in;margin-right:0in;
+  margin-bottom:0in;margin-left:.75in;text-align:center;text-indent:-.25in;
+  line-height:16.8pt;mso-list:l2 level1 lfo2;tab-stops:list .5in"><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Symbol;
+  mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;color:#222222"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt;font-family:
+  &quot;Lato&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
+  &quot;Times New Roman&quot;;color:#222222">The slow music ends.</span></p><p class="MsoNormal" align="center" style="margin-top:0in;margin-right:0in;
+  margin-bottom:0in;margin-left:.75in;text-align:center;text-indent:-.25in;
+  line-height:16.8pt;mso-list:l2 level1 lfo2;tab-stops:list .5in"><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Symbol;
+  mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;color:#222222"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt;font-family:
+  &quot;Lato&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
+  &quot;Times New Roman&quot;;color:#222222">The school bell rings and the school gates will be closed at 7.35 a.m. sharp.</span></p><p class="MsoNormal" align="center" style="margin-top:0in;margin-right:0in;
+  margin-bottom:0in;margin-left:.75in;text-align:center;text-indent:-.25in;
+  line-height:16.8pt;mso-list:l2 level1 lfo2;tab-stops:list .5in"><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Symbol;
+  mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;color:#222222"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt;font-family:
+  &quot;Lato&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
+  &quot;Times New Roman&quot;;color:#222222">The fast music starts.</span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes"><td valign="top" style="border:solid windowtext 1.0pt;border-top:none;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:16.8pt"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  color:#222222">7.40 a.m. onwards</span></p></td><td width="379" valign="top" style="width:284.2pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="margin-top:0in;margin-right:0in;
+  margin-bottom:0in;margin-left:.75in;text-align:center;text-indent:-.25in;
+  line-height:16.8pt;mso-list:l1 level1 lfo3;tab-stops:list .5in"><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Symbol;
+  mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;color:#222222"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt;font-family:
+  &quot;Lato&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
+  &quot;Times New Roman&quot;;color:#222222">The fast music ends.</span></p><p class="MsoNormal" align="center" style="margin-top:0in;margin-right:0in;
+  margin-bottom:0in;margin-left:.75in;text-align:center;text-indent:-.25in;
+  line-height:16.8pt;mso-list:l1 level1 lfo3;tab-stops:list .5in"><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Symbol;
+  mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;color:#222222"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt;font-family:
+  &quot;Lato&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
+  &quot;Times New Roman&quot;;color:#222222">The flag raising ceremony will commence.</span></p><p class="MsoNormal" align="center" style="margin-top:0in;margin-right:0in;
+  margin-bottom:0in;margin-left:.75in;text-align:center;text-indent:-.25in;
+  line-height:16.8pt;mso-list:l1 level1 lfo3;tab-stops:list .5in"><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Symbol;
+  mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;color:#222222"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt;font-family:
+  &quot;Lato&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
+  &quot;Times New Roman&quot;;color:#222222">Students who are not present with their form class for the flag raising ceremony (although they are in school) will be considered as late for school.</span></p></td></tr></tbody></table>
+	4. The procedures and timings for morning assembly and the flag raising ceremony on Wednesdays are as follows:<br>
+	         <!-- /\* Font Definitions \*/ @font-face {font-family:Wingdings; panose-1:5 0 0 0 0 0 0 0 0 0; mso-font-charset:2; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:0 268435456 0 0 -2147483648 0;} @font-face {font-family:Latha; panose-1:2 0 4 0 0 0 0 0 0 0; mso-font-alt:"Nirmala UI"; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:1048579 0 0 0 1 0;} @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:-536869121 1107305727 33554432 0 415 0;} @font-face {font-family:DengXian; panose-1:2 1 6 0 3 1 1 1 1 1; mso-font-alt:等线; mso-font-charset:134; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:-1610612033 953122042 22 0 262159 0;} @font-face {font-family:Calibri; panose-1:2 15 5 2 2 2 4 3 2 4; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-469750017 -1073732485 9 0 511 0;} @font-face {font-family:Lato; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-520092929 1342237951 33 0 415 0;} @font-face {font-family:"\\@DengXian"; panose-1:2 1 6 0 3 1 1 1 1 1; mso-font-charset:134; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:-1610612033 953122042 22 0 262159 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin-top:0in; margin-right:0in; margin-bottom:8.0pt; margin-left:0in; line-height:107%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:DengXian; mso-fareast-theme-font:minor-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:Latha;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:DengXian; mso-fareast-theme-font:minor-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:Latha; mso-bidi-theme-font:minor-bidi;} .MsoPapDefault {mso-style-type:export-only; margin-bottom:8.0pt; line-height:107%;} @page WordSection1 {size:8.5in 11.0in; margin:1.0in 1.0in 1.0in 1.0in; mso-header-margin:.5in; mso-footer-margin:.5in; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} /\* List Definitions \*/ @list l0 {mso-list-id:1234700487; mso-list-template-ids:-140333466;} @list l0:level1 {mso-level-number-format:bullet; mso-level-text:; mso-level-tab-stop:.5in; mso-level-number-position:left; text-indent:-.25in; mso-ansi-font-size:10.0pt; font-family:Symbol;} @list l0:level2 {mso-level-number-format:bullet; mso-level-text:o; mso-level-tab-stop:1.0in; mso-level-number-position:left; text-indent:-.25in; mso-ansi-font-size:10.0pt; font-family:"Courier New"; mso-bidi-font-family:"Times New Roman";} @list l0:level3 {mso-level-number-format:bullet; mso-level-text:; mso-level-tab-stop:1.5in; mso-level-number-position:left; text-indent:-.25in; mso-ansi-font-size:10.0pt; font-family:Wingdings;} @list l0:level4 {mso-level-number-format:bullet; mso-level-text:; mso-level-tab-stop:2.0in; mso-level-number-position:left; text-indent:-.25in; mso-ansi-font-size:10.0pt; font-family:Wingdings;} @list l0:level5 {mso-level-number-format:bullet; mso-level-text:; mso-level-tab-stop:2.5in; mso-level-number-position:left; text-indent:-.25in; mso-ansi-font-size:10.0pt; font-family:Wingdings;} @list l0:level6 {mso-level-number-format:bullet; mso-level-text:; mso-level-tab-stop:3.0in; mso-level-number-position:left; text-indent:-.25in; mso-ansi-font-size:10.0pt; font-family:Wingdings;} @list l0:level7 {mso-level-number-format:bullet; mso-level-text:; mso-level-tab-stop:3.5in; mso-level-number-position:left; text-indent:-.25in; mso-ansi-font-size:10.0pt; font-family:Wingdings;} @list l0:level8 {mso-level-number-format:bullet; mso-level-text:; mso-level-tab-stop:4.0in; mso-level-number-position:left; text-indent:-.25in; mso-ansi-font-size:10.0pt; font-family:Wingdings;} @list l0:level9 {mso-level-number-format:bullet; mso-level-text:; mso-level-tab-stop:4.5in; mso-level-number-position:left; text-indent:-.25in; mso-ansi-font-size:10.0pt; font-family:Wingdings;} @list l1 {mso-list-id:1346908889; mso-list-template-ids:-706072138;} @list l1:level1 {mso-level-number-format:bullet; mso-level-text:; mso-level-tab-stop:.5in; mso-level-number-position:left; text-indent:-.25in; mso-ansi-font-size:10.0pt; font-family:Symbol;} @list l1:level2 {mso-level-number-format:bullet; mso-level-text:o; mso-level-tab-stop:1.0in; mso-level-number-position:left; text-indent:-.25in; mso-ansi-font-size:10.0pt; font-family:"Courier New"; mso-bidi-font-family:"Times New Roman";} @list l1:level3 {mso-level-number-format:bullet; mso-level-text:; mso-level-tab-stop:1.5in; mso-level-number-position:left; text-indent:-.25in; mso-ansi-font-size:10.0pt; font-family:Wingdings;} @list l1:level4 {mso-level-number-format:bullet; mso-level-text:; mso-level-tab-stop:2.0in; mso-level-number-position:left; text-indent:-.25in; mso-ansi-font-size:10.0pt; font-family:Wingdings;} @list l1:level5 {mso-level-number-format:bullet; mso-level-text:; mso-level-tab-stop:2.5in; mso-level-number-position:left; text-indent:-.25in; mso-ansi-font-size:10.0pt; font-family:Wingdings;} @list l1:level6 {mso-level-number-format:bullet; mso-level-text:; mso-level-tab-stop:3.0in; mso-level-number-position:left; text-indent:-.25in; mso-ansi-font-size:10.0pt; font-family:Wingdings;} @list l1:level7 {mso-level-number-format:bullet; mso-level-text:; mso-level-tab-stop:3.5in; mso-level-number-position:left; text-indent:-.25in; mso-ansi-font-size:10.0pt; font-family:Wingdings;} @list l1:level8 {mso-level-number-format:bullet; mso-level-text:; mso-level-tab-stop:4.0in; mso-level-number-position:left; text-indent:-.25in; mso-ansi-font-size:10.0pt; font-family:Wingdings;} @list l1:level9 {mso-level-number-format:bullet; mso-level-text:; mso-level-tab-stop:4.5in; mso-level-number-position:left; text-indent:-.25in; mso-ansi-font-size:10.0pt; font-family:Wingdings;} @list l2 {mso-list-id:1568342806; mso-list-template-ids:361023722;} @list l2:level1 {mso-level-number-format:bullet; mso-level-text:; mso-level-tab-stop:.5in; mso-level-number-position:left; text-indent:-.25in; mso-ansi-font-size:10.0pt; font-family:Symbol;} @list l2:level2 {mso-level-number-format:bullet; mso-level-text:o; mso-level-tab-stop:1.0in; mso-level-number-position:left; text-indent:-.25in; mso-ansi-font-size:10.0pt; font-family:"Courier New"; mso-bidi-font-family:"Times New Roman";} @list l2:level3 {mso-level-number-format:bullet; mso-level-text:; mso-level-tab-stop:1.5in; mso-level-number-position:left; text-indent:-.25in; mso-ansi-font-size:10.0pt; font-family:Wingdings;} @list l2:level4 {mso-level-number-format:bullet; mso-level-text:; mso-level-tab-stop:2.0in; mso-level-number-position:left; text-indent:-.25in; mso-ansi-font-size:10.0pt; font-family:Wingdings;} @list l2:level5 {mso-level-number-format:bullet; mso-level-text:; mso-level-tab-stop:2.5in; mso-level-number-position:left; text-indent:-.25in; mso-ansi-font-size:10.0pt; font-family:Wingdings;} @list l2:level6 {mso-level-number-format:bullet; mso-level-text:; mso-level-tab-stop:3.0in; mso-level-number-position:left; text-indent:-.25in; mso-ansi-font-size:10.0pt; font-family:Wingdings;} @list l2:level7 {mso-level-number-format:bullet; mso-level-text:; mso-level-tab-stop:3.5in; mso-level-number-position:left; text-indent:-.25in; mso-ansi-font-size:10.0pt; font-family:Wingdings;} @list l2:level8 {mso-level-number-format:bullet; mso-level-text:; mso-level-tab-stop:4.0in; mso-level-number-position:left; text-indent:-.25in; mso-ansi-font-size:10.0pt; font-family:Wingdings;} @list l2:level9 {mso-level-number-format:bullet; mso-level-text:; mso-level-tab-stop:4.5in; mso-level-number-position:left; text-indent:-.25in; mso-ansi-font-size:10.0pt; font-family:Wingdings;} ol {margin-bottom:0in;} ul {margin-bottom:0in;} -->
+
+<table style="width:466.05pt;border-collapse:collapse;border:none;mso-border-alt:
+ solid windowtext .5pt;mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt" width="621" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:18.6pt"><td style="border:solid windowtext 1.0pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:18.6pt" valign="top"><p style="margin-bottom:0in;text-align:center;
+  line-height:16.8pt" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  color:#222222">Time</span></p></td><td style="border:solid windowtext 1.0pt;border-left:none;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:18.6pt" valign="top"><p style="margin-bottom:0in;text-align:center;
+  line-height:16.8pt" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  color:#222222">Activity</span></p></td></tr><tr style="mso-yfti-irow:1;height:114.55pt"><td style="border:solid windowtext 1.0pt;border-top:none;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:114.55pt" valign="top"><p style="margin-bottom:0in;text-align:center;
+  line-height:16.8pt" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  color:#222222">8.15 a.m.</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:114.55pt" valign="top"><p style="margin-top:0in;margin-right:0in;
   margin-bottom:0in;margin-left:.75in;text-align:center;text-indent:-.25in;
   line-height:16.8pt;mso-list:l0 level1 lfo1;tab-stops:list .5in" align="center" class="MsoNormal"><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Symbol;
   mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;color:#222222"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt;font-family:
@@ -427,54 +513,59 @@ The discipline processes and systems in the school are designed to help and guid
   line-height:16.8pt;mso-list:l0 level1 lfo1;tab-stops:list .5in" align="center" class="MsoNormal"><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Symbol;
   mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;color:#222222"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt;font-family:
   &quot;Lato&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
-  &quot;Times New Roman&quot;;color:#222222">An announcement will be made via the public address system if there are any changes to the assigned assembly venues due to inclement weather.</span></p></td></tr><tr style="mso-yfti-irow:2"><td style="border:solid windowtext 1.0pt;border-top:none;
+  &quot;Times New Roman&quot;;color:#222222">An announcement will be made via the public address system if there are any changes to the assigned assembly venues due to inclement weather.</span></p></td></tr><tr style="mso-yfti-irow:2;height:38.1pt"><td style="border:solid windowtext 1.0pt;border-top:none;
   mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt" valign="top"><p style="margin-bottom:0in;text-align:center;
+  padding:0in 5.4pt 0in 5.4pt;height:38.1pt" valign="top"><p style="margin-bottom:0in;text-align:center;
   line-height:16.8pt" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
-  color:#222222">7.35 a.m. –</span></p><p style="margin-bottom:0in;text-align:center;
+  color:#222222">8.18 a.m. –</span></p><p style="margin-bottom:0in;text-align:center;
   line-height:16.8pt" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
-  color:#222222">7.38 a.m.</span></p></td><td style="width:284.2pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="379"><p style="margin-top:0in;margin-right:0in;
+  color:#222222">8.20 a.m.</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:38.1pt" valign="top"><p style="margin-top:0in;margin-right:0in;
   margin-bottom:0in;margin-left:.75in;text-align:center;text-indent:-.25in;
-  line-height:16.8pt;mso-list:l2 level1 lfo2;tab-stops:list .5in" align="center" class="MsoNormal"><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Symbol;
+  line-height:16.8pt;mso-list:l1 level1 lfo2;tab-stops:list .5in" align="center" class="MsoNormal"><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Symbol;
   mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;color:#222222"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt;font-family:
   &quot;Lato&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
   &quot;Times New Roman&quot;;color:#222222">The slow music ends.</span></p><p style="margin-top:0in;margin-right:0in;
   margin-bottom:0in;margin-left:.75in;text-align:center;text-indent:-.25in;
-  line-height:16.8pt;mso-list:l2 level1 lfo2;tab-stops:list .5in" align="center" class="MsoNormal"><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Symbol;
+  line-height:16.8pt;mso-list:l1 level1 lfo2;tab-stops:list .5in" align="center" class="MsoNormal"><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Symbol;
   mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;color:#222222"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt;font-family:
   &quot;Lato&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
-  &quot;Times New Roman&quot;;color:#222222">The school bell rings and the school gates will be closed at 7.35 a.m. sharp.</span></p><p style="margin-top:0in;margin-right:0in;
-  margin-bottom:0in;margin-left:.75in;text-align:center;text-indent:-.25in;
-  line-height:16.8pt;mso-list:l2 level1 lfo2;tab-stops:list .5in" align="center" class="MsoNormal"><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Symbol;
-  mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;color:#222222"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt;font-family:
-  &quot;Lato&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
-  &quot;Times New Roman&quot;;color:#222222">The fast music starts.</span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes"><td style="border:solid windowtext 1.0pt;border-top:none;
+  &quot;Times New Roman&quot;;color:#222222">The fast music starts.</span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes;height:132.4pt"><td style="border:solid windowtext 1.0pt;border-top:none;
   mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt" valign="top"><p style="margin-bottom:0in;text-align:center;
+  padding:0in 5.4pt 0in 5.4pt;height:132.4pt" valign="top"><p style="margin-bottom:0in;text-align:center;
   line-height:16.8pt" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
-  color:#222222">7.40 a.m. onwards</span></p></td><td style="width:284.2pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="379"><p style="margin-top:0in;margin-right:0in;
+  color:#222222">8.20 a.m. onwards</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:132.4pt" valign="top"><p style="margin-top:0in;margin-right:0in;
   margin-bottom:0in;margin-left:.75in;text-align:center;text-indent:-.25in;
-  line-height:16.8pt;mso-list:l1 level1 lfo3;tab-stops:list .5in" align="center" class="MsoNormal"><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Symbol;
+  line-height:16.8pt;mso-list:l2 level1 lfo3;tab-stops:list .5in" align="center" class="MsoNormal"><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Symbol;
   mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;color:#222222"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt;font-family:
   &quot;Lato&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
   &quot;Times New Roman&quot;;color:#222222">The fast music ends.</span></p><p style="margin-top:0in;margin-right:0in;
   margin-bottom:0in;margin-left:.75in;text-align:center;text-indent:-.25in;
-  line-height:16.8pt;mso-list:l1 level1 lfo3;tab-stops:list .5in" align="center" class="MsoNormal"><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Symbol;
+  line-height:16.8pt;mso-list:l2 level1 lfo3;tab-stops:list .5in" align="center" class="MsoNormal"><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Symbol;
+  mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;color:#222222"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt;font-family:
+  &quot;Lato&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
+  &quot;Times New Roman&quot;;color:#222222">The bell will ring.</span></p><p style="margin-top:0in;margin-right:0in;
+  margin-bottom:0in;margin-left:.75in;text-align:center;text-indent:-.25in;
+  line-height:16.8pt;mso-list:l2 level1 lfo3;tab-stops:list .5in" align="center" class="MsoNormal"><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Symbol;
+  mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;color:#222222"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt;font-family:
+  &quot;Lato&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
+  &quot;Times New Roman&quot;;color:#222222">The school gates will be closed.</span></p><p style="margin-top:0in;margin-right:0in;
+  margin-bottom:0in;margin-left:.75in;text-align:center;text-indent:-.25in;
+  line-height:16.8pt;mso-list:l2 level1 lfo3;tab-stops:list .5in" align="center" class="MsoNormal"><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Symbol;
   mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;color:#222222"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt;font-family:
   &quot;Lato&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
   &quot;Times New Roman&quot;;color:#222222">The flag raising ceremony will commence.</span></p><p style="margin-top:0in;margin-right:0in;
   margin-bottom:0in;margin-left:.75in;text-align:center;text-indent:-.25in;
-  line-height:16.8pt;mso-list:l1 level1 lfo3;tab-stops:list .5in" align="center" class="MsoNormal"><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Symbol;
+  line-height:16.8pt;mso-list:l2 level1 lfo3;tab-stops:list .5in" align="center" class="MsoNormal"><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Symbol;
   mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;color:#222222"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt;font-family:
   &quot;Lato&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
   &quot;Times New Roman&quot;;color:#222222">Students who are not present with their form class for the flag raising ceremony (although they are in school) will be considered as late for school.</span></p></td></tr></tbody></table>
-	4. The procedures and timings for morning assembly and the flag raising ceremony on Wednesdays are as follows:
+	</li></ol>
