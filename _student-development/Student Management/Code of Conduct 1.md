@@ -354,6 +354,14 @@ The discipline processes and systems in the school are designed to help and guid
   EN-GB" lang="EN-GB">PE/Class/CCA<span style="letter-spacing:-.9pt">&nbsp;</span>T-shirt<span style="letter-spacing:-.75pt">&nbsp;</span><span style="letter-spacing:-.15pt">with</span><span style="letter-spacing:-.75pt">&nbsp;PE shorts /&nbsp;</span>school<span style="letter-spacing:-.85pt">&nbsp;</span>shorts / pants/ skirts&nbsp;(This is a privilege that will be reviewed by the school when necessary)</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;"></span></p></td></tr></tbody></table>
 <img style="width: 100%;" src="/images/Code1.jpg" />
-	<h4><strong>APPEARANCE</strong><br>&nbsp;</h4>
-	<p><b>Rationale:	To portray a positive image of oneself through personal grooming and hygiene.</b></p><br>
-	
+<h4><strong>APPEARANCE</strong><br>&nbsp;</h4>
+<p><b>Rationale:	To portray a positive image of oneself through personal grooming and hygiene.</b></p><br>
+	1. 	All students are to ensure the following:<br>
+(a)	For Male Students<br>
+(i)	Only natural hair colour is allowed (i.e. no dyeing/tinting/highlights).<br>
+(ii)	Hair must be neat and kept above the eyebrows. When combed downwards, hair should not cover the eyes, touch the ear as well as the collar of the uniform.<br>
+(iii)	Hair at the crown must not be too thick or bushy.<br>
+(iv)	Hairstyles must be kept simple. It should not incorporate any inappropriate styles as deemed by the school. Hairstyles such as e.g. undercut, thin shaven at the side, shaved line parting, fringe touching eye-brows, V-shaped at the back are not allowed.<br>
+(v)	Earrings or ear sticks are not allowed<br>
+(vi)	Moustache/Beard/Goatee/Facial Piercings are not allowed. All students must be clean shaven and neat in appearance<br>
+(vii)	Sideburns, where kept, should not go beyond the cartilage at the centre of the ear.<br>
