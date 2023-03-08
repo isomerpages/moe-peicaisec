@@ -354,4 +354,4 @@ The discipline processes and systems in the school are designed to help and guid
   EN-GB" lang="EN-GB">PE/Class/CCA<span style="letter-spacing:-.9pt">&nbsp;</span>T-shirt<span style="letter-spacing:-.75pt">&nbsp;</span><span style="letter-spacing:-.15pt">with</span><span style="letter-spacing:-.75pt">&nbsp;PE shorts /&nbsp;</span>school<span style="letter-spacing:-.85pt">&nbsp;</span>shorts / pants/ skirts&nbsp;(This is a privilege that will be reviewed by the school when necessary)</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;"></span></p></td></tr></tbody></table>
 		</p></li></ol>
-		
+		<img style="width: 100%;" src="/images/Code1.jpg" /><br>
