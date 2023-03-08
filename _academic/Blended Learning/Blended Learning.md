@@ -51,27 +51,6 @@ third_nav_title: Blended Learning
 <td style="text-align: center;">&nbsp;</td>
 </td>
 </tr>
-
-<table style="margin-left: auto; margin-right: auto;">
-<tbody>
-<tr>
-<th style="text-align: center;">Term 1</th>
-<th style="text-align: center;">Term 2</th>
-<th style="text-align: center;">Term 3</th>
-</tr>
-<tr>
-<td style="text-align: center;">1 Feb 23 (Wed)</td>
-<td style="text-align: center;">22 Mar 23 (Wed)</td>
-<td style="text-align: center;">12 Jul 23 (Wed)</td>
-	<tr>
-<td style="text-align: center;"></td>
-<td style="text-align: center;">5 Apr 23 (Wed) </td>
-<td style="text-align: center;">26 Jul 23 (Wed)</td>
-		<tr>
-<td style="text-align: center;"></td>
-<td style="text-align: center;">17 May 23 (Wed) </td>
-<td style="text-align: center;"></td>
-</tr>
 </tbody>
 </table>
 
