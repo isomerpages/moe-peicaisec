@@ -375,4 +375,22 @@ The discipline processes and systems in the school are designed to help and guid
 (vi)	Only one ear stud per ear is allowed and it has to be worn on the ear lobes only. Multiple earrings or ear studs on any ear is strictly not allowed.<br>
 (vii)	Any ear sticks worn should be transparent.<br>
 (viii)	Dangling earrings are not allowed.<br>
-	<img style="width: 60%;" src="/images/Hairstyle2.jpg" />
+	<img style="width: 60%;" src="/images/Hairstyle2.jpg" /><br>
+(c) All students are not allowed to have the following on them:<br>
+(i) Tattoos of any kind (visible or otherwise).<br>
+	<b>Students found with any tattoos should remove it before they are allowed to go to class.</b><br>
+	(ii)	Henna painting.<br>
+(iii)	Make-up of any form.<br>
+(iv)	Long and/or coloured nails are not allowed.<br>
+(v)	Fanciful or striking spectacle frames.<br>
+•	Spectacle lenses should not be tinted.<br>
+	(vi)	Cosmetic contact lenses.<br>
+•	E.g., contact lens with colour/patterns, contact lens that enlarge the pupils etc.
+
+	
+	
+
+
+	
+	
+	
