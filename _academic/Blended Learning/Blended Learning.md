@@ -22,24 +22,34 @@ third_nav_title: Blended Learning
 <th style="text-align: center;">Term 3</th>
 </tr>
 <tr>
-<td style="text-align: center;">9 Feb 22 (Wed)</td>
-<td style="text-align: center;">29 Mar 22 (Tues)</td>
-<td style="text-align: center;">7 Jul 22 (Thurs)</td>
+<td style="text-align: center;">1 Feb 23 (Wed)</td>
+<td style="text-align: center;">22 Mar 23 (Wed)</td>
+<td style="text-align: center;">12 Jul 23 (Wed)</td>
 </tr>
 <tr>
-<td style="text-align: center;">25 Feb 22 (Fri)</td>
-<td style="text-align: center;">13 Apr 22 (Wed)&nbsp;</td>
-<td style="text-align: center;">20 Jul 22 (Wed)</td>
+<td style="text-align: center;">15 Feb 23 (Wed)</td>
+<td style="text-align: center;">5 Apr 23 (Wed)&nbsp;</td>
+<td style="text-align: center;">26 Jul 23 (Wed)
+	</td>	
 </tr>
 <tr>
-<td style="text-align: center;">8 Mar 22 (Tues)</td>
-<td style="text-align: center;">25 Apr 22 (Mon)</td>
-<td style="text-align: center;">1 Aug 22 (Mon)&nbsp;</td>
+<td style="text-align: center;"> 1 Mar 23 (Wed)</td>
+<td style="text-align: center;"> 19 Apr 23 (Wed)</td>	
+<td style="text-align: center;">23 Aug 23 (Wed)
+	</td>
+	<tr>
+<td style="text-align: center;"> </td>
+<td style="text-align: center;"> 3 May 23 (Wed) </td>	
+<td style="text-align: center;"></td>
+	<tr>
+<td style="text-align: center;"> </td>
+<td style="text-align: center;"> 17 May 23 (Wed)</td>	
+<td style="text-align: center;"></td>	
 </tr>
 <tr>
 <td style="text-align: center;">&nbsp;</td>
 <td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">23 Aug 22 (Tues)&nbsp;</td>
+</td>
 </tr>
 </tbody>
 </table>
