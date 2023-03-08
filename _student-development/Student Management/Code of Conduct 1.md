@@ -365,3 +365,4 @@ The discipline processes and systems in the school are designed to help and guid
 (v)	Earrings or ear sticks are not allowed<br>
 (vi)	Moustache/Beard/Goatee/Facial Piercings are not allowed. All students must be clean shaven and neat in appearance<br>
 (vii)	Sideburns, where kept, should not go beyond the cartilage at the centre of the ear.<br>
+<img style="width: 100%;" src="/images/Hairstyle1.jpg" />
