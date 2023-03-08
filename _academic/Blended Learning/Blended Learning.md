@@ -53,6 +53,26 @@ third_nav_title: Blended Learning
 </tr>
 </tbody>
 </table>
+Sec4/5:
+<table style="margin-left: auto; margin-right: auto;">
+<tbody>
+<tr>
+<th style="text-align: center;">Term 1</th>
+<th style="text-align: center;">Term 2</th>
+<th style="text-align: center;">Term 3</th>
+</tr>
+<tr>
+<td style="text-align: center;">1 Feb 23 (Wed)</td>
+<td style="text-align: center;">22 Mar 23 (Wed)</td>
+<td style="text-align: center;">12 Jul 23 (Wed)</td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
 <p><p align="justify">On HBL days, students will have largely asynchronous lessons. The lesson resources will be assigned to students via&nbsp;<a href="https://vle.learning.moe.edu.sg/login/" target="_blank" rel="noopener">Student Learning Space</a>.&nbsp;The schedule for HBL will follow students' class timetable to ensure learning continues for every subject. Students will also have scheduled time with their Form Teachers via Form Teacher Check-In (using Zoom) on HBL days so that the Form Teachers can continue to provide necessary support and guidance. Time is also set aside for Student-Initiated Learning (SIL) for students to pursue learning in areas of their interests and learn outside of the curriculum. The following shows the structure of a typical HBL day.</p>
 <p><strong>Typical Structure for HBL day</strong></p>
 <table>
