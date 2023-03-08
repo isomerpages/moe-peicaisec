@@ -26,3 +26,5 @@ The discipline processes and systems in the school are designed to help and guid
 (g)         Any footwear, other than the above prescribed shoes, are not allowed to be worn in school except for medical reasons and approved by a teacher with supporting documentation issued by medical practitioners registered under the Medical Registration Act.<br>
 	<p>5.      The prescribed attire for various school activities and events (unless otherwise specified) is as follows: <br>
 		
+	
+		
