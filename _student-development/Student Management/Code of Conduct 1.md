@@ -597,3 +597,4 @@ The discipline processes and systems in the school are designed to help and guid
 20. Attendance at CCA is compulsory. Students who are absent from CCA will need to produce a valid MC (refer to Point 3g above) for the period of absence to the CCA teacher in-charge. Poor CCA attendance may affect conduct grade and school/national representation in competitions.<br>
 21. If a student no longer has any more lessons for the day, the earliest time that he/she can be dismissed from school will be at 12.30 p.m.<br>
 22. Students who do not have any lessons in between periods should do their own self- revision at the school library. Where there are such instances, it will be formally arranged by the school. Students are to sign in and out with the librarian at the library.<br>
+<h4>ATTITUDE AND BEHAVIOUR</h4><br>
