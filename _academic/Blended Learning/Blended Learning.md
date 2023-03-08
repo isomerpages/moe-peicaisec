@@ -230,7 +230,7 @@ third_nav_title: Blended Learning
 </td>
 <td>
 <p>Dedicated time and space will be provided to allow students to pursue their own interests and learn out of the curriculum.</p>
-	<p>The school has identified four different tracks for students to embark on for their SIL.</p>
+<p>The school has identified four different tracks for students to embark on for their SIL.</p>
 </td>
 </tr>
 </tbody>
