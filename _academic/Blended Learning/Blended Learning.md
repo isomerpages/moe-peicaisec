@@ -94,13 +94,13 @@ Sec4/5:
 </tr>
 <tr>
 <td style="text-align: center;">
-<p>07.35 am - 08.00 am</p>
+<p>08.20 am - 08.35 am</p>
 </td>
 <td style="text-align: center;">
-<p>Form Teacher Check-In</p>
+<p>Morning Check-In</p>
 </td>
 <td style="text-align: center;">
-<p>Join Form Teacher&rsquo;s Zoom meeting via invitation link. Students are reminded to log in to Zoom using their Student iCON accounts.</p>
+<p>Join Zoom meeting via invitation link. Students are reminded to log in to Zoom using their Student iCON accounts.</p>
 </td>
 </tr>
 <tr>
