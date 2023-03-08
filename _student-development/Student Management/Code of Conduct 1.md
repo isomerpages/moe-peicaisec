@@ -356,4 +356,3 @@ The discipline processes and systems in the school are designed to help and guid
 		</p></li></ol>
 		<img style="width: 100%;" src="/images/Code1.jpg" /><br>
 		<h4><strong>APPEARANCE</strong></h4>
-		
