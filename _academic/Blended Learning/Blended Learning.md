@@ -182,43 +182,7 @@ third_nav_title: Blended Learning
   border-right:solid #AAAAAA 1.0pt;mso-border-top-alt:solid #AAAAAA .75pt;
   mso-border-left-alt:solid #AAAAAA .75pt;mso-border-alt:solid #AAAAAA .75pt;
   padding:5.25pt 5.25pt 5.25pt 5.25pt"></td></tr></tbody></table>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+	
 <p></p><p align="justify">On HBL days, students will have asynchronous learning with lesson resources assigned to students via &nbsp;<a href="https://vle.learning.moe.edu.sg/login/" target="_blank" rel="noopener">Student Learning Space</a>.&nbsp;Students will also have Morning Check-in (using Zoom) on every first HBL of the month with their Form Teachers and classmates where they will discuss about learning dispositions and attitudes. Time is also set aside for Student-Initiated Learning (SIL) for students to pursue learning in areas of their interests and learn outside of the curriculum. The following shows the structure of a typical HBL day.</p>
 <p><strong>Typical Structure for HBL day</strong></p>
 <table>
