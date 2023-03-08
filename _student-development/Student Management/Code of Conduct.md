@@ -376,7 +376,7 @@ third_nav_title: Student Management
 <li>Possession and consumption of drugs are strictly prohibited by law.</li>
 <li>All students are not allowed to have in their possession any weapon or weapon-like devices in school. They are also not allowed to bring any weapon-like item that is used or intended to be used to cause harm to others.
 <li>Cycling, skating, rollerblading, and riding skate-scooters within the school grounds are strictly not allowed.
-<ol>
+
 <li>Students are to ensure adherence to the following at all times:</li>
 <ol style="list-style-type: lower-roman;">
 <li><strong>In school:</strong></li>
@@ -409,7 +409,7 @@ third_nav_title: Student Management
 <li>Students are expected not to be disruptive during lesson time.</li>
 <li>Students are expected to keep their hand phones and mobile devices out of sight (i.e. inside their school bags) unless otherwise instructed by teachers.
 <li>No food and drinks except mineral water are allowed in the classrooms/special rooms. School staff has the right to discard any food or drinks brought into classroom.
-</ol>
+
 <li><strong>During Recess</strong></li>
 <ol style="list-style-type: lower-alpha;">
 <li>Students are not to stay in the class during recess unless with permission from a teacher.
@@ -422,7 +422,7 @@ third_nav_title: Student Management
 <ol style="list-style-type: lower-alpha;">
 <li>Students are to show respect and common courtesy to uphold the good name of the school at all times.
 <li>Competitors / players should are to practise fair play when representing the school.
-<ol>
+	
 <li>Students are to observe the following regarding the use of mobile devices (including mobile phones and other electronic devices):
 <ol style="list-style-type: lower-alpha;">
 <li>Students carry mobile phones to school at their own risk. No other personal electronic devices (except school issued PDLP devices) should be brought to school.
