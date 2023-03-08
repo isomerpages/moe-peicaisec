@@ -387,4 +387,4 @@ The discipline processes and systems in the school are designed to help and guid
 	(vi)	Cosmetic contact lenses.<br>
 •	E.g., contact lens with colour/patterns, contact lens that enlarge the pupils etc.<br>(vii)	Accessories of any kind.<br>
 •	Including caps, nose studs, tongue studs, nose rings, lip rings, necklaces, bracelets, and rings.<br>
-	
+	2.	Student leaders are to put on their Student Leaders’ badge at all times when they are wearing the school uniform.<br>
