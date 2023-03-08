@@ -24,3 +24,5 @@ The discipline processes and systems in the school are designed to help and guid
 (e)         Only canvas shoes or sports shoes are allowed. Canvas shoes must be predominately in the following colours: Black, Blue, White and Grey. Sports shoes can be of any colour but avoid bright and flashy colours. Brightly coloured shoes are strictly not allowed.  The shoes should either be with laces or straps. Slip-on and high-cut shoes are not allowed. Shoes with lights, wheels or wedges are also not allowed.<br>
 (f)          Socks should be worn at all times when in school attire.  Socks must be black, white or grey in colour.   Socks should also be long enough to cover the ankles but not the calf.<br>
 (g)         Any footwear, other than the above prescribed shoes, are not allowed to be worn in school except for medical reasons and approved by a teacher with supporting documentation issued by medical practitioners registered under the Medical Registration Act.<br>
+	<p>5.      The prescribed attire for various school activities and events (unless otherwise specified) is as follows: <br>
+		
