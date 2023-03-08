@@ -476,4 +476,5 @@ The discipline processes and systems in the school are designed to help and guid
   line-height:16.8pt;mso-list:l1 level1 lfo3;tab-stops:list .5in" align="center" class="MsoNormal"><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Symbol;
   mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;color:#222222"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt;font-family:
   &quot;Lato&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
-  &quot;Times New Roman&quot;;color:#222222">Students who are not present with their form class for the flag raising ceremony (although they are in school) will be considered as late for school.</span></p></td></tr>
+  &quot;Times New Roman&quot;;color:#222222">Students who are not present with their form class for the flag raising ceremony (although they are in school) will be considered as late for school.</span></p></td></tr></tbody></table>
+	
