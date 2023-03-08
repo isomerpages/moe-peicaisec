@@ -354,20 +354,4 @@ The discipline processes and systems in the school are designed to help and guid
   EN-GB" lang="EN-GB">PE/Class/CCA<span style="letter-spacing:-.9pt">&nbsp;</span>T-shirt<span style="letter-spacing:-.75pt">&nbsp;</span><span style="letter-spacing:-.15pt">with</span><span style="letter-spacing:-.75pt">&nbsp;PE shorts /&nbsp;</span>school<span style="letter-spacing:-.85pt">&nbsp;</span>shorts / pants/ skirts&nbsp;(This is a privilege that will be reviewed by the school when necessary)</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;"></span></p></td></tr></tbody></table>
 		</p></li></ol>
-		<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 16.6667%;"><img src="/images/coc1.png"></td>
-<td style="width: 16.6667%;"><img src="/images/coc2.png"></td>
-<td style="width: 16.6667%;"><img src="/images/coc3.png"></td>
-<td style="width: 16.6667%;"><img src="/images/coc4.png"></td>
-<td style="width: 16.6667%;"><img src="/images/coc5.png"></td>
-<td style="width: 16.6667%;"><img src="/images/coc6.png"></td>
-</tr>
-<tr>
-<td style="text-align: center;" colspan="2">Male &ndash; Lower Sec Short Pants (Front &amp; Side)</td>
-<td style="text-align: center;" colspan="2">Male &ndash; Upper Sec Long Pants (Front &amp; Side)</td>
-<td style="text-align: center;" colspan="2">Female &ndash; Skirt (Front &amp; Side)</td>
-</tr>
-</tbody>
-</table>
+		
