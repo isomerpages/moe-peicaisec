@@ -229,6 +229,6 @@ third_nav_title: Blended Learning
 <p>Student-Initiated Learning (SIL) &nbsp;</p>
 </td>
 <td>
-	
+<td style="text-align: center;">
 <p>Dedicated time and space will be provided to allow students to pursue their own interests and learn out of the curriculum.</p>
-<p>The school has identified four different tracks for students to embark on for their SIL.</p>
+<p>The school has identified four different tracks for students to embark on for their SIL.</td></p>
