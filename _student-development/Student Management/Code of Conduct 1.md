@@ -385,12 +385,6 @@ The discipline processes and systems in the school are designed to help and guid
 (v)	Fanciful or striking spectacle frames.<br>
 •	Spectacle lenses should not be tinted.<br>
 	(vi)	Cosmetic contact lenses.<br>
-•	E.g., contact lens with colour/patterns, contact lens that enlarge the pupils etc.
-
-	
-	
-
-
-	
-	
+•	E.g., contact lens with colour/patterns, contact lens that enlarge the pupils etc.<br>(vii)	Accessories of any kind.<br>
+•	Including caps, nose studs, tongue studs, nose rings, lip rings, necklaces, bracelets, and rings.<br>
 	
