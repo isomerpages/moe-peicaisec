@@ -221,12 +221,15 @@ third_nav_title: Blended Learning
 <p>Teachers will monitor students on their learning and check for understanding as well as provide timely feedback for the assignments given during HBL.</p>
 </td>
 </tr>
-<tr>
+	<tr>
 <td style="text-align: center;">
-<p>12.35 pm -1.35 pm onwards&nbsp;</p>
+<p>12.35 am - 1.35 pm</p>
 </td>
 <td style="text-align: center;">
 <p>Student-Initiated Learning (SIL) &nbsp;</p>
 </td>
-<td>
-	<p>Dedicated time and space will be provided to allow students to pursue their own interests and learn out of the curriculum.The school has identified four different tracks for students to embark on for their SIL.</p>
+<td style="text-align: center;">
+<p>Dedicated time and space will be provided to allow students to pursue their own interests and learn out of the curriculum.</p>
+<p>The school has identified four different tracks for students to embark on for their SIL.</p>
+</td>
+</tr>
