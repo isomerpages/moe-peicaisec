@@ -355,11 +355,5 @@ The discipline processes and systems in the school are designed to help and guid
   &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;"></span></p></td></tr></tbody></table>
 <img style="width: 100%;" src="/images/Code1.jpg" />
 	<h4><strong>APPEARANCE</strong><br>&nbsp;</h4>
-	<p><b>Rationale:	To portray a positive image of oneself through personal grooming and hygiene.
-	
-	
-
-
-
-
+	<p><b>Rationale:	To portray a positive image of oneself through personal grooming and hygiene.</b></p><br>
 	
