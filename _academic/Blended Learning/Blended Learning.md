@@ -117,18 +117,14 @@ Sec4/5:
 </tr>
 <tr>
 <td style="text-align: center;">
-<p>1.30 pm onwards&nbsp;</p>
+<p>12.35 pm -1.35 pm onwards&nbsp;</p>
 </td>
 <td style="text-align: center;">
-<p>Student-Initiated Learning (SIL)&nbsp;</p>
+<p>Student-Initiated Learning (SIL) &nbsp;</p>
 </td>
 <td>
 <p>Dedicated time and space will be provided to allow students to pursue their own interests and learn out of the curriculum.</p>
-The school has identified the following themes for students of different levels and curated learning packages to support our students&rsquo; learning in these areas:
-<p><strong>Sec 1: Digital Literacies</strong></p>
-<p><strong>Sec 2: Subject Combination (Introduction to Upper Sec Subjects)</strong></p>
-<p><strong>Sec 3: General Interests</strong></p>
-<p><strong>Sec 4: Education and Career Guidance&nbsp;</strong></p>
+The school has identified four different tracks for students to embark on for their SIL.
 </td>
 </tr>
 </tbody>
