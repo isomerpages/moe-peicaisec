@@ -390,4 +390,6 @@ The discipline processes and systems in the school are designed to help and guid
 	2.	Student leaders are to put on their Student Leaders’ badge at all times when they are wearing the school uniform.<br>
 	<h4>ATTENDANCE:</h4>
 	<b>Rationale:    To cultivate self-management through personal responsibility and accountability</b><br>
-	
+	1.    All students are expected to be punctual for and be present in school to attend the flag raising ceremony and all lessons.<br>
+2.    Students who are Singapore citizens must sing the National Anthem and take the Pledge. Students will take the Pledge with the right fist placed over the heart.<br>
+3.    The procedures and timings for morning assembly and the flag raising ceremony are as follows:<br>
