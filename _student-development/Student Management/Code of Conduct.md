@@ -4,7 +4,6 @@ permalink: /student-development/Student-Management/CodeofConduct/
 description: ""
 third_nav_title: Student Management
 ---
-
 <h4><strong>Code of Conduct</strong></h4>
 <h4><strong>PHILOSOPHY AND APPROACH</strong></h4>
 <p></p><p align="justify"> The code of conduct serves to nurture in our students desired values and behaviours that are exemplary.
