@@ -727,5 +727,3 @@ l.      Protect the privacy by not video-recording or taking photos of other par
 m.   Comply with the teachers’ instructions at all times during the online lessons.<br>
  
 <b>Note: Students who are responsible for any breach of the above etiquette will be considered as having committed an offence in school and will therefore face a consequence during the school’s follow-up actions.</b><br>
-
-
