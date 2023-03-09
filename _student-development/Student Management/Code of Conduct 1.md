@@ -726,3 +726,8 @@ k.     Be wary of suspicious emails and report such emails to your teachers.<br>
 l.      Protect the privacy by not video-recording or taking photos of other participants in the online lessons.<br>
 m.   Comply with the teachers’ instructions at all times during the online lessons.<br> 
 <b>Note: Students who are responsible for any breach of the above etiquette will be considered as having committed an offence in school and will therefore face a consequence during the school’s follow-up actions.</b><br>
+------------------------------------------------------------------------------------------<br>
+[1] Applications involving the use of internet technology for communication includes but not limiting to Emails, Instant messaging applications (like WhatsApp, Discord, Instagram Direct Messenger etc) and social networking sites (like Instagram, Facebook etc).<br>
+[2] Unsafe or illegal acts includes, but not limiting to, gangsterism, pornography, drug/tobacco abuse (including vaping), gambling, violence, harassment, discrimination etc.
+
+
