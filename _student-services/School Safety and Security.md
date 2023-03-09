@@ -12,7 +12,7 @@ description: ""
 <tbody>
 <tr>
 <td>
-<p>a.</p>
+<p><p align="justify">a.</p>
 </td>
 <td>
 <p>Reduce vehicle speed and stay alert for pedestrians in the school zone. This is especially so at the&nbsp;<strong>Zebra Crossing next to Blk 223 Serangoon Ave 4&nbsp;</strong>. We would like to advise both drivers and pedestrians to exercise patience when getting to school in the morning.</p>
