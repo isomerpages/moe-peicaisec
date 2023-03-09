@@ -886,4 +886,3 @@ m.   Comply with the teachers’ instructions at all times during the online les
   Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span>Suspension</p><p style="margin-bottom:0in;mso-add-space:
   auto;text-indent:-.25in;line-height:normal;mso-list:l1 level1 lfo2" class="MsoListParagraphCxSpLast"><span style="font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
   Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span>Warning&nbsp;Letter</p></td></tr></tbody></table>
-</li></ol>
