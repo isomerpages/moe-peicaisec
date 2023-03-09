@@ -1,10 +1,10 @@
 ---
 title: School Safety and Security
-permalink: /student-services/school-safety-and-security
+permalink: /student-services/school-safety-and-security/
 description: ""
 ---
 <h4><strong>1. Road Safety Advisory</strong></h4>
-<p>We would like to seek your cooperation to work with the school in ensuring the safety of students coming to and leaving school. This is especially important as students may not have the skills required to use roads properly and do not always fully appreciate the dangers presented. Their physique also makes them less visible to motorists.</p>
+<p><p align="justify">We would like to seek your cooperation to work with the school in ensuring the safety of students coming to and leaving school. This is especially important as students may not have the skills required to use roads properly and do not always fully appreciate the dangers presented. Their physique also makes them less visible to motorists.</p>
 <p><strong><u><em>Safe driving for motorists</em></u></strong></p>
 <img style="width: 65%;" src="/images/sss1.jpg" align = "left" />
 <div><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
