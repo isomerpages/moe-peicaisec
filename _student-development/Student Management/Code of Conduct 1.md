@@ -701,7 +701,7 @@ b)    Competitors / players should are to practise fair play when representing t
 (iv)        Any contraband (e.g. tobacco-related products like cigarettes and e-vaporisers etc)<br>
 (g)    School retains the rights to open the lockers at any time for the purpose of safety and security (e.g. through routine spot-checks, disciplinary investigations etc).<br>
 4.    To ensure the safety of students and staff within the school premises, all students who arrive in school by private transport must alight at the designated disembarkation areas. Students should inform their parents/guardians that no waiting or parking is allowed at the designated disembarkation areas. Such areas are designated drop off and pick up zones only.<br>
-5.    The overall Conduct Grade, Attendance, Punctuality of each student will be reflected in his/her Result Slip at the end of the year.<br>
+5.    The overall Conduct Grade, Attendance, Punctuality of each student will be reflected in his/her Result Slip at the end of the year.<br><br><br>
 <b>CYBER ETIQUETTE</b><br><br>
 <b>Students are to demonstrate the same behaviour and attitude as expected in school itself during the use of internet technology for communication and online lessons.  In particular,</b><br>
 1.    When using internet technology[1] to communicate with others, students are expected to be respectful to others by not sharing<br>
@@ -724,6 +724,5 @@ i.      Avoid sharing account details, such as the Login ID and password, with o
 j.      Always log out from the online lesson platforms after every use.<br>
 k.     Be wary of suspicious emails and report such emails to your teachers.<br>
 l.      Protect the privacy by not video-recording or taking photos of other participants in the online lessons.<br>
-m.   Comply with the teachers’ instructions at all times during the online lessons.<br>
- 
+m.   Comply with the teachers’ instructions at all times during the online lessons.<br> 
 <b>Note: Students who are responsible for any breach of the above etiquette will be considered as having committed an offence in school and will therefore face a consequence during the school’s follow-up actions.</b><br>
