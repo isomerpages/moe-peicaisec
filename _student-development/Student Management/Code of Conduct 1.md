@@ -686,4 +686,3 @@ b)    Competitors / players should are to practise fair play when representing t
   border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
   solid black .75pt;mso-border-left-alt:solid black .75pt;mso-border-alt:solid black .75pt;
   padding:5.25pt 5.25pt 5.25pt 5.25pt" width="341"><p class="MsoNoSpacing"><span style="mso-ansi-language:EN-GB" lang="EN-GB">Mobile phones only to be returned to parents after 7 working days.</span></p><p class="MsoNoSpacing"><span style="mso-ansi-language:EN-GB" lang="EN-GB">OR</span></p><p class="MsoNoSpacing"><span style="mso-ansi-language:EN-GB" lang="EN-GB">Students may be banned from bringing mobile phones to school.</span></p></td></tr></tbody></table>
-</li></ol>
