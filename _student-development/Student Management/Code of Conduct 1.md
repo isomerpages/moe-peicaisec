@@ -598,3 +598,48 @@ The discipline processes and systems in the school are designed to help and guid
 21. If a student no longer has any more lessons for the day, the earliest time that he/she can be dismissed from school will be at 12.30 p.m.<br>
 22. Students who do not have any lessons in between periods should do their own self- revision at the school library. Where there are such instances, it will be formally arranged by the school. Students are to sign in and out with the librarian at the library.<br>
 <h4>ATTITUDE AND BEHAVIOUR</h4><br>
+<b>Rationale:   To cultivate self-discipline through responsible decision making</b><br>
+ 1.   Students are to ensure adherence to the following at all times:
+(a)  In school:
+
+(a)  Students are to respect and obey all school rules and regulations.<br>
+(b)  Students are to display exemplary conduct and behave with decorum at all times.<br>
+(c)  Students are to observe silence when they are in the classroom, at the parade square or school hall for flag raising ceremony or other school functions. They are to conduct themselves well during such gatherings where common courtesy and respect must be accorded to all concerned including guest speakers.<br>
+(d)  Students must be respectful to all school staff and other students.<br>
+(e)  Students are responsible for keeping the environment safe. The school has zero tolerance towards actions that may hurt or harm others emotionally or physically.<br>
+(f)   Students are prohibited from entering any staff offices, such as the Staff Rooms, General office and HOD room, as well as the Staff Lounge.<br>
+(g)  Students can enter special rooms in the school only when accompanied by teachers.<br>
+(h) Students are not allowed to invite anyone into the school without permission. <br>All visitors to the school must obtain a Visitor Pass at the security post and report to the General Office.<br>
+(i)   Students are strictly not allowed to use abusive or foul language.<br>
+(j)   Possession of any material that promotes unhealthy habits such as gambling, violence, harassment, discrimination etc. are strictly not allowed<br>
+(k)  Possession and consumption of alcohol, tobacco-related products and e-vapouriser related products, like cigarettes, e-vapourisers, e-vapouriser pods or cartridges, are strictly prohibited by law.<br>
+(l)   Possession of any incendiary items, such as lighters, paracord survival bracelet, matchsticks, matchboxes, empty cigarette boxes, are strictly not allowed.<br>
+(m)  Possession and consumption of drugs are strictly prohibited by law.<br>
+(n) All students are not allowed to have in their possession any weapon or weapon-like devices in school. They are also not allowed to bring any weapon-like item that is used or intended to be used to cause harm to others.<br>
+(o) Cycling, skating, rollerblading, and riding skate-scooters within the school grounds are strictly not allowed.<br>
+ <b>(ii) In class:</b><br>
+  a)  Students are expected to attend all their lessons and not leave the classrooms without permission or a valid reason.<br>
+b)  Students are expected to be punctual for lessons.<br>
+c)  Students are expected to be attentive and participate actively during lessons.<br>
+d)  Students are expected to complete and hand in all assignments on time.<br>
+e)  Students are expected to be responsible for the cleanliness of their classrooms.<br>
+f)   Students leaving the classroom during a lesson are expected to have a pass. Only 1 student will be allowed to leave the classroom at a time.<br>
+g)  Students who are going to another venue during a change of period are expected to do so promptly and in an orderly manner.<br>
+h)  Students are expected not to be walking around the classroom during lesson time.<br>
+i)    Students are expected not to be disruptive during lesson time.<br>
+j)    Students are expected to keep their hand phones and mobile devices out of sight (i.e. inside their school bags) unless otherwise instructed by teachers.<br>
+k)  No food and drinks except mineral water are allowed in the classrooms/special rooms. School staff has the right to discard any food or drinks brought into classroom.<br>
+<b>(iii) During recess:</b><br>
+ a)    Students are not to stay in the class during recess unless with permission from a teacher.<br>
+b)    Students should queue for their food and can only buy food for themselves.<br>
+c)    Students should not enter the canteen vendors’ kitchen area at any time.<br>
+d)    Students should keep the canteen clean.<br>
+e)    Students should return all eating utensils to the respective receptacles after use.<br>
+f)      Students should not bring food and drinks out of the canteen or to the classrooms for consumption. Food and drinks should be consumed only at the designated eating areas<br>
+<b>(iv) At school functions/events</b><br>
+a)    Students are to show respect and common courtesy to uphold the good name of the school at all times.<br>
+b)    Competitors / players should are to practise fair play when representing the school.<br>
+2.   Students are to observe the following regarding the use of mobile devices (including mobile phones and other electronic devices):<br>
+(a) Students carry mobile phones to school at their own risk. No other personal electronic devices (except school issued PDLP devices) should be brought to school.<br>
+(b) To ensure a conducive environment for learning in school, students are not allowed to use their mobile phones and non-PDLP related electronic devices during curriculum time. The table below summarises the use of devices during curriculum time.<br>
+
