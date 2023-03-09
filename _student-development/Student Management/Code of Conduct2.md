@@ -4,7 +4,6 @@ permalink: /student-development/student-management/code-of-conduct2/
 description: ""
 third_nav_title: Student Management
 ---
-
 <h4><strong>PHILOSOPHY AND APPROACH</strong></h4>
 <p><p align="justify">The code of conduct serves to nurture in our students desired values and behaviours that are exemplary.</p>
 <p><p align="justify">The discipline processes and systems in the school are designed to help and guide students to think responsibly, reflect on their actions, understand the consequences of actions as well as responsibilities and come up with collaborative solutions to move forward. Discipline offences will have a direct impact on conduct grade, testimonial of students</p>
