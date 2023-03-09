@@ -702,3 +702,30 @@ b)    Competitors / players should are to practise fair play when representing t
 (g)    School retains the rights to open the lockers at any time for the purpose of safety and security (e.g. through routine spot-checks, disciplinary investigations etc).<br>
 4.    To ensure the safety of students and staff within the school premises, all students who arrive in school by private transport must alight at the designated disembarkation areas. Students should inform their parents/guardians that no waiting or parking is allowed at the designated disembarkation areas. Such areas are designated drop off and pick up zones only.<br>
 5.    The overall Conduct Grade, Attendance, Punctuality of each student will be reflected in his/her Result Slip at the end of the year.<br>
+<b>CYBER ETIQUETTE</b><br><br>
+<b>Students are to demonstrate the same behaviour and attitude as expected in school itself during the use of internet technology for communication and online lessons.  In particular,</b><br>
+1.    When using internet technology[1] to communicate with others, students are expected to be respectful to others by not sharing<br>
+                         i.     Obscene, derogatory or insensitive remarks/materials.<br>
+                       ii.     Information/materials that promotes unsafe or illegal acts[2].<br>
+                      iii.     Information and materials that would affect the safety or privacy of others.<br>
+2.    For online lessons, students are expected to<br>
+a.    Be punctual for all scheduled online lessons.<br>
+b.    Be prompt in informing their teachers should they be unable to attend the online lessons due to valid reasons (e.g. on MC etc.).  Absences must be supported by appropriate documentation, similar to how absence from school is accounted for (see Attendance 3d & e above).  Absence from school, without any valid reasons, is considered truancy.<br>
+c.     Be attentive and actively participate during lessons.<br>
+d.    Be neat and appropriately attired for lessons.<br>
+e.    Ensure that a conducive place is used for the online lessons.<br>
+f.      Ensure that the video camera is on and their faces are displayed prominently on screen.<br>
+g.    Ensure that the mute button is activated when they are not speaking so as to avoid disrupting other participants’ learning.<br>
+h.    Demonstrate respect to teachers and classmates at all times by<br>
+                      i.        Having only one person speak at a time<br>
+                     ii.        Giving their fullest attention to whoever is speaking<br>
+                    iii.       Being polite in their interactions<br>
+i.      Avoid sharing account details, such as the Login ID and password, with others for online lesson platforms such as SLS, Zoom, Google Meet etc.).<br>
+j.      Always log out from the online lesson platforms after every use.<br>
+k.     Be wary of suspicious emails and report such emails to your teachers.<br>
+l.      Protect the privacy by not video-recording or taking photos of other participants in the online lessons.<br>
+m.   Comply with the teachers’ instructions at all times during the online lessons.<br>
+ 
+<b>Note: Students who are responsible for any breach of the above etiquette will be considered as having committed an offence in school and will therefore face a consequence during the school’s follow-up actions.</b><br>
+
+
