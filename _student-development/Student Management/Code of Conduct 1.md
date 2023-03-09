@@ -683,3 +683,22 @@ b)    Competitors / players should are to practise fair play when representing t
   border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
   solid black .75pt;mso-border-left-alt:solid black .75pt;mso-border-alt:solid black .75pt;
   padding:5.25pt 5.25pt 5.25pt 5.25pt" width="341"><p class="MsoNoSpacing"><span style="mso-ansi-language:EN-GB" lang="EN-GB">Mobile phones only to be returned to parents after 7 working days.</span></p><p class="MsoNoSpacing"><span style="mso-ansi-language:EN-GB" lang="EN-GB">OR</span></p><p class="MsoNoSpacing"><span style="mso-ansi-language:EN-GB" lang="EN-GB">Students may be banned from bringing mobile phones to school.</span></p></td></tr></tbody></table>
+	(g)    Upon return of the confiscated mobile device and non-PDLP electronic devices, it is the students' responsibility to check that their phone is in a condition similar to that prior to confiscation.<br>
+(h)    The school may confiscate the mobile device and non-PDLP electronic devices as a disciplinary measure or access the mobile device for the purpose of investigation.<br>
+(i)      Students who repeatedly flout the rule may be banned from bringing their mobile device and non-PDLP electronic devices to the school.<br>
+(j)      Should students need to make a call to their parents/guardians or read an urgent text message during curriculum time, they should proceed to the General Office where they will be allowed to use the phone there.<br>
+(k)    Students should not abuse the use of mobile device and non-PDLP electronic devices. They should not take photographs or videos of others without their permission.<br>
+3.   Students are to note that the lockers in the classroom are there to provide interim storage and security for their Personal Learning Devices (PLDs) and learning materials. They are to observe the following expectations regarding the use of these classroom lockers:<br>
+(a)  The responsibility to maintain the condition and cleanliness of the lockers lay with the assigned students.  The assigned students shall be held liable if they inflict any wilful damage (e.g. vandalism) to their lockers or fail to report in a timely manner for any damage discovered.<br>
+(b)    The responsibility for any lost or stolen items from the lockers lay with the assigned students.  Students therefore should not share access to the lockers with any other students.<br>
+(c)    The lockers shall be used to store items belonging to the assigned students only.  Sharing of lockers is not allowed.<br>
+(d)    The lockers should not be used for any other purposes except to store the PLDs.<br>
+(e)    PLDs should be not left charging in the lockers, and all PLDs must be brought home and not left in the lockers overnight.<br>
+(f)      The lockers shall not be used to store any of the following items:<br>
+(i)           Any items that can attract pests (e.g. all food and drinks, food wrapper and other forms of litter)<br>
+(ii)         Any items that can affect the safety of students and staff (E.g. Items that can start fires, weapons or weapon-like objects etc)<br>
+(iii)        Any items that can cause distraction in class and affect students’ learning<br>
+(iv)        Any contraband (e.g. tobacco-related products like cigarettes and e-vaporisers etc)<br>
+(g)    School retains the rights to open the lockers at any time for the purpose of safety and security (e.g. through routine spot-checks, disciplinary investigations etc).<br>
+4.    To ensure the safety of students and staff within the school premises, all students who arrive in school by private transport must alight at the designated disembarkation areas. Students should inform their parents/guardians that no waiting or parking is allowed at the designated disembarkation areas. Such areas are designated drop off and pick up zones only.<br>
+5.    The overall Conduct Grade, Attendance, Punctuality of each student will be reflected in his/her Result Slip at the end of the year.<br>
