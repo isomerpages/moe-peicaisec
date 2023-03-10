@@ -220,7 +220,7 @@ description: ""
 <p><a href="/files/AddMath_3NA_Sem%2012023.pdf">Additional Mathematics</a><br><a href="/files/Math_3NA_Sem12023.pdf">Mathematics</a></p>
 </td>
 <td width="208" style="text-align: center;">
-<p><a href="/files/Math_3NT_Sem12023.pdf">Mathematics</a><br><a>Computer Applications</a></p>
+<p><a href="/files/Math_3NT_Sem12023.pdf">Mathematics</a><br><a href="/files/3NT_CPA_Term 2_Subject Overview.pdf">Computer Applications</a></p>
 </td>
 </tr>
 <tr>
