@@ -5,14 +5,8 @@ description: ""
 ---
 **2023 Semester One**
 
-<b>Bus Captain Appreciation by Sec 3 Cohort</b>
-
-
-
-
-
-
-
+<b>Bus Captain Appreciation by Sec 3 Cohort</b><br/><br/>
+<img style="width: %;" src="/images/Bus Captain Appreciation by Sec 3 Cohort.jpg" /><br>
 
 <B>Nominate your Teachers for the President's Award for Teachers! </B>
 
