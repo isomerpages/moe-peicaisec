@@ -1,6 +1,6 @@
 ---
 title: Code of Conduct
-permalink: /student-development/Student-Management/CodeofConduct/
+permalink: /student-development/student-management/codeofconduct/
 description: ""
 third_nav_title: Student Management
 ---

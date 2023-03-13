@@ -1,6 +1,6 @@
 ---
 title: DMA User Guide for Parents
-permalink: /others/dma-user-guide-for-parents
+permalink: /others/dma-user-guide-for-parents/
 description: ""
 ---
 <p>Dear parents/guardian, please download the Parent Guide of your selected DMA option:<br /><br /><a href="/files/DMA%20Parent%20Guide%20for%20Option%20A%20for%20iPadOS.pdf">DMA Parent Guide for Option A for iPadOS.pdf</a><br /><a href="/files/DMA%20Parent%20Guide%20for%20Option%20B%20for%20iPadOS.pdf">DMA Parent Guide for Option B for iPadOS.pdf</a><br /><a href="/files/DMA%20Parent%20Guide%20for%20Default%20Option%20for%20iPadOS.pdf">DMA Parent Guide for Default Option for iPadOS.pdf</a></p>

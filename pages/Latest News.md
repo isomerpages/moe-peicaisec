@@ -1,6 +1,6 @@
 ---
 title: Latest News
-permalink: /Latestnews/
+permalink: /latestnews/
 description: ""
 ---
 **2023 Semester One**

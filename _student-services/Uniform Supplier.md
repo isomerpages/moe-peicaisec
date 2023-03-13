@@ -1,6 +1,6 @@
 ---
 title: Uniform Supplier
-permalink: /student-services/uniform-supplier
+permalink: /student-services/uniform-supplier/
 description: ""
 ---
 <p><u>Uniform Supplier</u>:<br />Student Mart (under Jeep Sing Fashion)<br />Contact:&nbsp;31636074<br />Website&nbsp;:&nbsp;<a href="http://www.jeepsinguniform.com/"><strong>www.jeepsinguniform.com</strong></a><br /><strong>Refer to the above uniform supplier website for details on how you can make uniform purchase.</strong></p>
