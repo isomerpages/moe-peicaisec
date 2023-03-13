@@ -1,0 +1,7 @@
+collections:
+  student-council:
+    output: true
+    order:
+      - 2019 – Student Council.md
+      - 2020 – Student Council.md
+      - 2021 – Student Council.md

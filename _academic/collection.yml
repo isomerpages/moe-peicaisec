@@ -1,0 +1,19 @@
+collections:
+  academic:
+    output: true
+    order:
+      - Subjects offered.md
+      - Full Subject Based Banding (FSBB).md
+      - Assessment and Promotion Criteria.md
+      - Blended Learning/.keep
+      - Blended Learning/Blended Learning.md
+      - Blended Learning/For Students.md
+      - Blended Learning/For Parents.md
+      - Blended Learning/Technical Support.md
+      - Craft & Technology.md
+      - English Language & Literature.md
+      - Humanities.md
+      - Mathematics.md
+      - Mother Tongue Languages.md
+      - Physical Education.md
+      - Science.md

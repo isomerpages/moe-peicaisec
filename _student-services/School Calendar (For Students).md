@@ -1,0 +1,7 @@
+---
+title: School Calendar (For Students)
+permalink: /student-services/school-calendar-for-students/
+description: ""
+---
+<p style="text-align: center;">Click on the link below&nbsp;to download the 2023 School Calendar for Students.</p>
+<p style="text-align: center;"><a href="/files/Student%20Calendar%20Semester%201%202023.pdf" target="_blank" rel="noopener">Semester One 2023 (as at 5th January 2023)</a></p>

@@ -1,13 +1,90 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/logo.jpg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: About Us
+    url: /about-us/principal-s-message
+    sublinks:
+      - title: Principal's Message
+        url: /about-us/principal-s-message
+      - title: Peicai's History
+        url: /about-us/peicais-history
+      - title: School Crest and Song
+        url: /about-us/school-crest-and-song
+      - title: Mission, Vision and Values
+        url: /about-us/mission-vision-and-values
+      - title: Our Peicai Family
+        url: /about-us/our-peicai-family/school-advisory-committee-sac
+      - title: Media
+        url: /media
+      - title: Contact Us
+        url: /about-us/contact-us
+  - title: Academic
+    url: /academic/subjects-offered
+    sublinks:
+      - title: Subjects offered
+        url: /academic/subjects-offered
+      - title: Full Subject Based Banding
+        url: /academic/full-subject-based-banding-fsbb
+      - title: Assessment and Promotion
+        url: /academic/assessment-and-promotion-criteria
+      - title: Blended Learning
+        url: /academic/blended-learning
+      - title: Craft & Technology
+        url: /academic/craft-n-technology
+      - title: English Language & Literature
+        url: /academic/english-language-n-literature
+      - title: Humanities
+        url: /academic/humanities
+      - title: Mathematics
+        url: /academic/mathematics
+      - title: Mother Tongue Languages
+        url: /academic/mother-tongue-languages
+      - title: Physical Education
+        url: /academic/physical-education
+      - title: Science
+        url: /academic/science
+  - title: Student Development
+    url: /student-development/character-n-citizenship-education
+    sublinks:
+      - title: CCE
+        url: /student-development/character-n-citizenship-education
+      - title: Student Management
+        url: /student-development/student-management
+      - title: Gear Up
+        url: /student-development/gear-up
+      - title: Talent Development Programme
+        url: /student-development/talent-development-programme-pinnacle-at-peicai
+      - title: Applied Learning Programme
+        url: /student-development/applied-learning-programme-alp
+      - title: Learning for Life
+        url: /student-development/learning-for-life-llp
+      - title: Student Leadership
+        url: /student-development/student-leadership-sl
+  - title: CCA
+    url: /cca/cca-schedule
+    sublinks:
+      - title: CCA Schedule
+        url: /cca/cca-schedule
+      - title: CCAs
+        url: /cca/ccas
+  - title: Achievements
+    url: /achievements/students
+    sublinks:
+      - title: Students
+        url: /achievements/students
+      - title: Staff
+        url: /achievements/staff
+      - title: Alumni
+        url: /achievements/alumni
+  - title: Student Services
+    collection: student-services
+  - title: Parents
+    url: /parents
+    sublinks:
+      - title: Parent Support Group (PSG)
+        url: /parents/parent-support-group-psg
+      - title: Parents Gateway
+        url: /parents/parents-gateway
+      - title: Resources for Parents
+        url: /parents/resources-for-parents
+      - title: Useful Links
+        url: /parents/useful-links

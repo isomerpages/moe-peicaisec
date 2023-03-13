@@ -1,0 +1,17 @@
+collections:
+  student-services:
+    output: true
+    order:
+      - Booklist.md
+      - Bookshop Opening Hours.md
+      - Class Timetable.md
+      - Financial Assistance Scheme (FAS).md
+      - Prospective Students.md
+      - School Calendar (For Students).md
+      - School Insurance.md
+      - School Terms and Holidays.md
+      - School Safety and Security.md
+      - Use of Personal Data.md
+      - Useful Links.md
+      - Uniform Supplier.md
+      - T&L Microsite (for Students).md

@@ -1,0 +1,107 @@
+---
+title: Student Council
+permalink: /student-development/student-leadership-sl/student-council/
+description: ""
+third_nav_title: Student Leadership (SL)
+---
+<h4><strong>Student Council</strong></h4>
+<table style="margin-left: auto; margin-right: auto;" width="75%">
+<tbody>
+<tr>
+<td width="146">
+<p><strong>Day</strong></p>
+</td>
+<td width="146">
+<p><strong>Time</strong></p>
+</td>
+<td width="146">
+<p><strong>Venue</strong></p>
+</td>
+</tr>
+<tr>
+<td width="146">
+<p>Pow Wow (termly Student Council meetings) first week of the term</p>
+</td>
+<td width="146">
+<p>3.30pm &ndash; 5.30pm</p>
+</td>
+<td width="146">
+<p>Various Venues</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><p align="justify">On top of our termly Student Council Pow Wows, most of our trainings are on-job trainings, whereby Student Councillors learn as they serve and get involved in various school events (e.g. Teachers&rsquo; Day, Sec One Orientation Camp, Student Leaders Investiture, etc.).</p>
+<p><p align="justify">The Student Council also organises specific trainings to level the leadership competencies of our Student Councillors &ndash; Public Speaking Skills, Facilitation Skills, and Project Management Skills.</p>
+<p><p align="justify">Beyond being able to deepen their leadership competencies through organising school-based projects and events, our Student Councillors are involved in Community Outreach and Service to the community too. Our Sec 2 Students Councillors take part in the KidsREAD programme initiated by the National Library Bord, in collaboration with MOE. This programme hopes to promote&nbsp;the love of reading and cultivate good reading habits among young Singaporeans, specifically children from less privileged families. The Councillors step out of their comfort zones to reach out to Primary School children, engaging them through storybooks and interactive activities.&nbsp;</p>
+<h4><strong>2022 Student Council Executive Committee</strong></h4>
+<table style="margin-left: auto; margin-right: auto;" width="439">
+<tbody>
+<tr>
+<td width="219"><strong>Appointment</strong></td>
+<td width="219"><strong>Name of Student</strong></td>
+</tr>
+<tr>
+<td width="219">President</td>
+<td width="219">SOUKASEUM SOUVATHANA</td>
+</tr>
+<tr>
+<td width="219">Vice-President</td>
+<td width="219">ANG EE JIN</td>
+</tr>
+<tr>
+<td width="219">Vice-President</td>
+<td width="219">KEH WEE HUI, GENEVIVE</td>
+</tr>
+<tr>
+<td width="219">Head of Information</td>
+<td width="219">ABBYGAIL RAEANNE SALAO ATENDIDO</td>
+</tr>
+<tr>
+<td width="219">Head of Information</td>
+<td width="219">FARAH NUR DIANAH BINTE MOHAMAD HELMI</td>
+</tr>
+<tr>
+<td width="219">Head of Logistics</td>
+<td width="219">SAI LIN MAUNG</td>
+</tr>
+<tr>
+<td width="219">Head of Logistics</td>
+<td width="219">ZARATE SHAE LORENZ RIPARIP</td>
+</tr>
+<tr>
+<td width="219">Head of Media</td>
+<td width="219">ASHLEY TOK WEI JIE</td>
+</tr>
+<tr>
+<td width="219">Head of Media</td>
+<td width="219">NUR FARHANA BINTE FAIRUZ</td>
+</tr>
+<tr>
+<td width="219">Head of Council Level</td>
+<td width="219">PEH KHAI QUAN, ISAAC</td>
+</tr>
+<tr>
+<td width="219">Head of Council Level</td>
+<td width="219">NUR BATRISYIA BINTE DIMYATI</td>
+</tr>
+<tr>
+<td width="219">Head of Council Level</td>
+<td width="219">LIM XIANG MING, JUSTYN</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Student Councillors in Action</strong></h4>
+<img style="width: 90%;" src="/images/sc1.jpg" /><br>
+<img style="width: 90%;" src="/images/sc2.jpg" /><br>
+<img style="width: 90%;" src="/images/sc3.jpg" /><br>
+<img style="width: 90%;" src="/images/sc4.jpg" /><br>
+<img style="width: 90%;" src="/images/sc5.jpg" /><br>
+<img style="width: 90%;" src="/images/sc6.jpg" /><br>
+<img style="width: 90%;" src="/images/sc7.jpg" />
+<h4><strong>Years</strong></h4>
+<ul>
+<li><a href="/student-development/student-leadership-sl/student-council/2019-student-council">2019 - Student Council</a></li>
+<li><a href="/student-development/student-leadership-sl/student-council/2020-student-council">2020 - Student Council</a></li>
+<li><a href="/student-development/student-leadership-sl/student-council/2021-student-council">2021 - Student Council</a></li>
+</ul>

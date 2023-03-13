@@ -1,0 +1,5 @@
+collections:
+  media:
+    output: true
+    order:
+      - Media.md
