@@ -6,13 +6,6 @@ description: ""
 **2023 Semester One**
 <B>4NT SGC Collection Slots Booking</B><a href="https://docs.google.com/forms/d/e/1FAIpQLSf30HhoPsCMq1RTcsKuMk5O2zyfjjJqO9xLUY08kEkrg_JXvQ/viewform " target="_blank" rel="noopener">Click Here</a>
 
-
-
-
-
-
-
-
 <b>Bus Captain Appreciation by Sec 3 Cohort</b><br/><br/>
 <img style="width: %;" src="/images/Bus Captain Appreciation by Sec 3 Cohort.jpg" /><br>
 
