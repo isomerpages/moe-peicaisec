@@ -3,7 +3,6 @@ title: Subject Overviews
 permalink: /academic/subject-overviews/
 description: ""
 ---
-
 <h4><strong>Semester One 2023</strong></h4>
 <p>Please click on each link to access the subject overview of each subject for Semester One 2023.</p>
 <p>Do note that the subject overviews are tentative and subject to changes.</p>
@@ -136,7 +135,7 @@ description: ""
 <p><a href="/files/Math_2NA_Sem12023.pdf">Mathematics</a></p>
 </td>
 <td width="208" style="text-align: center;">
-<p><a href="/files/Math_2NT_Sem12023.pdf">Mathematics</a><br><a href="/files/2NT_CPA_Term 2_Subject Overview.pdf">Computer Applications</a></p>
+<p><a href="/files/Math_2NT_Sem12023.pdf">Mathematics</a><br><a href="/files/2NT_CPA_Term 2_Subject Overview_Final_v3.pdf">Computer Applications</a></p>
 </td>
 </tr>
 <tr>
