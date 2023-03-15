@@ -22,7 +22,7 @@ description: ""
 </tr>
 <tr>
 <td width="208" style="text-align: center;">
-<p><a href="/files/English%20Language_1EXP_Sem1%202023.pdf">English Language</a><br><a href="/files/Literature_1EXP%20Subject%20Overview.pdf">English Literature</a></p>
+<p><a href="/files/English%20Language_1EXP_Sem1%202023.pdf"><p align="left">English Language</a><br><a href="/files/Literature_1EXP%20Subject%20Overview.pdf"><p align="left">English Literature</a></p>
 </td>
 <td width="208" style="text-align: center;">
 <p><a href="/files/English%20Language_1NA_Sem1%202023.pdf">English Language</a><br><a href="/files/Literature_1NA%20Subject%20Overview.pdf">English Literature</a></p>
