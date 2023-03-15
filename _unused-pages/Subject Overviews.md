@@ -10,82 +10,82 @@ description: ""
 <table>
 <tbody>
 <tr>
-<td width="208" style="text-align: center;">
+<td style="text-align: center;" width="208">
 <p><strong><u>Express</u></strong></p>
 </td>
-<td width="208" style="text-align: center;">
+<td style="text-align: center;" width="208">
 <p><strong><u>Normal (Academic)</u></strong></p>
 </td>
-<td width="208" style="text-align: center;">
+<td style="text-align: center;" width="208">
 <p><strong><u>Normal (Technical)</u></strong></p>
 </td>
 </tr>
 <tr>
-<td width="208" style="text-align: center;">
+<td style="text-align: center;" width="208">
 <p><a href="/files/English%20Language_1EXP_Sem1%202023.pdf">English Language</a><br><a href="/files/Literature_1EXP%20Subject%20Overview.pdf">English Literature</a></p>
 </td>
-<td width="208" style="text-align: center;">
+<td style="text-align: center;" width="208">
 <p><a href="/files/English%20Language_1NA_Sem1%202023.pdf">English Language</a><br><a href="/files/Literature_1NA%20Subject%20Overview.pdf">English Literature</a></p>
 </td>
-<td width="208" style="text-align: center;">
+<td style="text-align: center;" width="208">
 <p><a href="/files/English%20Language_1NT_Sem1%202023.pdf">English Language</a></p>
 </td>
 </tr>
 <tr>
-<td width="208" style="text-align: center;">
+<td style="text-align: center;" width="208">
 <p><a href="/files/Chinese%20Language_1Exp_Sem12023.pdf">Chinese</a><br><a href="/files/Chinese%20Language_1HCL_Sem12023.pdf">Higher Chinese</a><br><a href="/files/Malay%20Language_1EXP_Sem%2012023.pdf">Malay</a></p>
 </td>
-<td width="208" style="text-align: center;">
+<td style="text-align: center;" width="208">
 <p><a href="/files/Chinese%20Language_1NA_Sem12023.pdf">Chinese</a><br><a href="/files//Malay%20Language_1NA_Sem12023.pdf">Malay</a></p>
 </td>
-<td width="208" style="text-align: center;">
+<td style="text-align: center;" width="208">
 <p><a href="/files/Chinese%20Language_1NT_Sem12023.pdf">Basic Chinese</a><br><a href="/files/Malay%20Language_1NT_Sem12023.pdf">Basic Malay</a></p>
 </td>
 </tr>
 <tr>
-<td width="208" style="text-align: center;">
+<td style="text-align: center;" width="208">
 <p><a href="/files/Maths_1EXP_Sem12023.pdf">Mathematics</a></p>
 </td>
-<td width="208" style="text-align: center;">
+<td style="text-align: center;" width="208">
 <p><a href="/files/Maths_1NA_Sem12023.pdf">Mathematics</a></p>
 </td>
-<td width="208" style="text-align: center;">
+<td style="text-align: center;" width="208">
 <p><a href="/files/Math_1NT_Sem12023.pdf">Mathematics</a><br><a href="/files/1NT_CPA_Term 2_Subject Overview.pdf">Computer Applications</a></p>
 </td>
 </tr>
 <tr>
-<td width="208" style="text-align: center;">
+<td style="text-align: center;" width="208">
 <p><a href="/files/Science_1EXP_Sem12023.pdf">Science</a></p>
 </td>
-<td width="208" style="text-align: center;">
+<td style="text-align: center;" width="208">
 <p><a href="/files/Science_1NA_Sem12023.pdf">Science</a></p>
 </td>
-<td width="208" style="text-align: center;">
+<td style="text-align: center;" width="208">
 <p><a href="/files/Science_1NT_Sem12023.pdf">Science</a></p>
 </td>
 </tr>
 <tr>
-<td width="208" style="text-align: center;">
+<td style="text-align: center;" width="208">
 <p><a href="/files/Geography_1EX_SEM12023.pdf">Geography</a><br><a href="/files/History_1EX_%20Sem12023.pdf">History</a></p>
 </td>
-<td width="208" style="text-align: center;">
+<td style="text-align: center;" width="208">
 <p><a href="/files/Geography_1NA_Sem12023.pdf">Geography</a><br><a href="/files/History_1NA_%20Sem12023.pdf">History</a></p>
 </td>
-<td width="208" style="text-align: center;"><p><a href="/files/SS_1NT_Sem12023.pdf">Social Studies</a></p></td>
+<td style="text-align: center;" width="208"><p><a href="/files/SS_1NT_Sem12023.pdf">Social Studies</a></p></td>
 </tr>
 <tr>
-<td width="208" style="text-align: center;">
+<td style="text-align: center;" width="208">
 <p><a href="/files/Art_Sec1_Sem12023.pdf">Art</a><br><a href="/files/Subject%20Overview_DT_1E.pdf">Design and Technology</a><br><a href="/files/Music_Sec%201_%20Sem12023%20.pdf">Music</a></p>
 </td>
-<td width="208" style="text-align: center;">
+<td style="text-align: center;" width="208">
 <p><a href="/files/Art_Sec1_Sem12023.pdf">Art</a><br><a href="/files/Subject%20Overview_DT_1NA.pdf">Design and Technology</a><br><a href="/files/Music_Sec%201_%20Sem12023%20.pdf">Music</a></p>
 </td>
-<td width="208" style="text-align: center;">
+<td style="text-align: center;" width="208">
 <p><a href="/files/Art_Sec1_Sem12023.pdf">Art</a><br><a href="/files/Subject%20Overview_DT_1NT.pdf">Design and Technology</a><br><a href="/files/Music_Sec%201_%20Sem12023%20.pdf">Music</a></p>
 </td>
 </tr>
 <tr>
-<td colspan="3" style="text-align: center;">
+<td style="text-align: center;" colspan="3">
 <p><strong>Physical Education<br></strong><a href="/files/PE_1-1_Sem12023.pdf">1Innovation</a> <a href="/files/PE_1-2_1-4_Sem12023.pdf">1Excellence/1Passion</a> <a href="/files/PE_1-3_Sem12023.pdf">1Collaboration</a> <a href="/files/PE_1-5_Sem12023.pdf">1Care</a> <a href="/files/PE_1-6_Sem12023.pdf">1Resilience&nbsp;</a> <a href="/files/PE_1-7_Sem12023.pdf">1Creativity</a></p>
 </td>
 </tr>
@@ -95,82 +95,82 @@ description: ""
 <table>
 <tbody>
 <tr>
-<td width="208" style="text-align: center;">
+<td style="text-align: center;" width="208">
 <p><strong><u>Express</u></strong></p>
 </td>
-<td width="208" style="text-align: center;">
+<td style="text-align: center;" width="208">
 <p><strong><u>Normal (Academic)</u></strong></p>
 </td>
-<td width="208" style="text-align: center;">
+<td style="text-align: center;" width="208">
 <p><strong><u>Normal (Technical)</u></strong></p>
 </td>
 </tr>
 <tr>
-<td width="208" style="text-align: center;">
+<td style="text-align: center;" width="208">
 <p><a href="/files/English%20Language_2EXP_Sem1%202023.pdf">English Language</a><br><a href="/files/Literature_2EXP%20Subject%20Overview.pdf">English Literature</a></p>
 </td>
-<td width="208" style="text-align: center;">
+<td style="text-align: center;" width="208">
 <p><a href="/files/English%20Language_2NA_Sem1%202023.pdf">English Language</a><br><a href="/files/Literature_2NA%20Subject%20Overview.pdf">English Literature</a></p>
 </td>
-<td width="208" style="text-align: center;">
+<td style="text-align: center;" width="208">
 <p><a href="/files/English%20Language_2NT_Sem1%202023.pdf">English Language</a></p>
 </td>
 </tr>
 <tr>
-<td width="208" style="text-align: center;">
+<td style="text-align: center;" width="208">
 <p><a href="/files/Chinese%20Language_2EXP_Sem12023.pdf">Chinese</a><br><a href="/files/Malay%20Language_2EXP_Sem12023.pdf">Malay</a></p>
 </td>
-<td width="208" style="text-align: center;">
+<td style="text-align: center;" width="208">
 <p><a href="/files/Chinese%20Language_2NA_Sem12023.pdf">Chinese</a><br><a href="/files/Malay%20Language_2NA_Sem12023.pdf">Malay</a></p>
 </td>
-<td width="208" style="text-align: center;">
+<td style="text-align: center;" width="208">
 <p><a href="/files/Chinese%20Language_2NT_Sem12023.pdf">Basic Chinese</a><br><a href="/files/Malay%20Language_2NT_Sem12023.pdf">Basic Malay</a></p>
 </td>
 </tr>
 <tr>
-<td width="208" style="text-align: center;">
+<td style="text-align: center;" width="208">
 <p><a href="/files/Math_2EXP_Sem12023.pdf">Mathematics</a></p>
 </td>
-<td width="208" style="text-align: center;">
+<td style="text-align: center;" width="208">
 <p><a href="/files/Math_2NA_Sem12023.pdf">Mathematics</a></p>
 </td>
-<td width="208" style="text-align: center;">
+<td style="text-align: center;" width="208">
 <p><a href="/files/Math_2NT_Sem12023.pdf">Mathematics</a><br><a href="/files/2NT_CPA_Term 2_Subject Overview_Final_v3.pdf">Computer Applications</a></p>
 </td>
 </tr>
 <tr>
-<td width="208" style="text-align: center;">
+<td style="text-align: center;" width="208">
 <p><a href="/files/Science_2EXP_Sem12023.pdf">Science</a></p>
 </td>
-<td width="208" style="text-align: center;">
+<td style="text-align: center;" width="208">
 <p><a href="/files/Science_2NA_Sem12023.pdf">Science</a></p>
 </td>
-<td width="208" style="text-align: center;">
+<td style="text-align: center;" width="208">
 <p><a href="/files/Science_2NT_Sem12023.pdf">Science</a></p>
 </td>
 </tr>
 <tr>
-<td width="208" style="text-align: center;">
+<td style="text-align: center;" width="208">
 <p><a href="/files/Geography_2EX_Sem12023.pdf">Geography</a><br><a href="/files/History_2EX_Sem12023.pdf">History</a></p>
 </td>
-<td width="208" style="text-align: center;">
+<td style="text-align: center;" width="208">
 <p><a href="/files/Geography_2NA_Sem12023.pdf">Geography</a><br><a href="/files/History_2NA_Sem12023.pdf">History</a></p>
 </td>
-<td width="208" style="text-align: center;"><p><a href="/files/SS_2NT_Sem12023.pdf">Social Studies</a></p></td>
+<td style="text-align: center;" width="208"><p><a href="/files/SS_2NT_Sem12023.pdf">Social Studies</a></p></td>
 </tr>
 <tr>
-<td width="208" style="text-align: center;">
+<td style="text-align: center;" width="208">
 <p><a href="/files/Art_Sec2_Sem12023.pdf">Art</a><br><a href="/files/2023%20Subject%20Overview_Sec%202%20Exp.pdf">Food and Consumer Education</a><br><a href="/files/Music_Sec2_Sem%2012023.pdf">Music</a></p>
 </td>
-<td width="208" style="text-align: center;">
+<td style="text-align: center;" width="208">
 <p><a href="/files/Art_Sec2_Sem12023.pdf">Art</a><br><a href="/files/2023%20Subject%20Overview_Sec%202%20NA.pdf">Food and Consumer Education</a><br><a href="/files/Music_Sec2_Sem%2012023.pdf">Music</a></p>
 </td>
-<td width="208" style="text-align: center;">
+<td style="text-align: center;" width="208">
 <p><a href="/files/Art_Sec2_Sem12023.pdf">Art</a><br><a href="/files/2023%20Subject%20Overview_Sec%202%20NT.pdf">Food and Consumer Education</a><br><a href="/files/Music_Sec2_Sem%2012023.pdf">Music</a></p>
 </td>
 </tr>
 <tr>
-<td colspan="3" style="text-align: center;">
+<td style="text-align: center;" colspan="3">
 <p><strong>Physical Education<br></strong><a href="/files/PE_2A1_2C1_Sem12023.pdf">2A1/2C1</a> <a href="/files/PE_2A2_2B2_2C4_Sem12023.pdf">2A2/2B2/2C4</a> <a href="/files/PE_2B1_Sem12023.pdf">2B1</a> <a href="/files/PE_2B3_Sem12023.pdf">2B3</a> <a href="/files/PE_2C2_Sem12023.pdf">2C2</a> <a href="/files/PE_2C3_Sem12023.pdf">2C3</a></p>
 </td>
 </tr>
@@ -180,84 +180,84 @@ description: ""
 <table>
 <tbody>
 <tr>
-<td width="208" style="text-align: center;">
+<td style="text-align: center;" width="208">
 <p><strong><u>Express</u></strong></p>
 </td>
-<td width="208" style="text-align: center;">
+<td style="text-align: center;" width="208">
 <p><strong><u>Normal (Academic)</u></strong></p>
 </td>
-<td width="208" style="text-align: center;">
+<td style="text-align: center;" width="208">
 <p><strong><u>Normal (Technical)</u></strong></p>
 </td>
 </tr>
 <tr>
-<td width="208" style="text-align: center;">
+<td style="text-align: center;" width="208">
 <p><a href="/files/English%20Language_3EXP_Sem1%202023.pdf">English Language</a></p>
 </td>
-<td width="208" style="text-align: center;">
+<td style="text-align: center;" width="208">
 <p><a href="/files/English%20Language_3NA_Sem1%202023.pdf">English Language</a></p>
 </td>
-<td width="208" style="text-align: center;">
+<td style="text-align: center;" width="208">
 <p><a href="/files/English%20Language_3NT_Sem1%202023.pdf">English Language</a></p>
 </td>
 </tr>
 <tr>
-<td width="208" style="text-align: center;">
+<td style="text-align: center;" width="208">
 <p><a href="/files/Chinese%20Language_3EXP_Sem12023.pdf">Chinese</a><br><a href="/files/Chinese%20Language_3CLB_Sem12023.pdf">Chinese Syllabus B</a><br><a href="/files/Chinese%20Language_3HCL_Sem12023.pdf">Higher Chinese</a><br><a href="/files/Malay%20Language_3EXP_Sem12023.pdf">Malay</a></p>
 </td>
-<td width="208" style="text-align: center;">
+<td style="text-align: center;" width="208">
 <p><a href="/files/Chinese%20Language_3NA_Sem12023.pdf">Chinese</a><br><a href="/files/Chinese%20Language_3CLB_Sem12023.pdf">Chinese Syllabus B</a><br><a href="/files/Malay%20Language_3NA_Sem12023.pdf">Malay</a></p>
 </td>
-<td width="208" style="text-align: center;">
+<td style="text-align: center;" width="208">
 <p><a href="/files/Chinese%20Language_3NT_Sem12023.pdf">Basic Chinese</a><br><a href="/files/Malay%20Language_3NT_Sem12023.pdf">Basic Malay</a></p>
 </td>
 </tr>
 <tr>
-<td width="208" style="text-align: center;">
+<td style="text-align: center;" width="208">
 <p><a href="/files/Add%20Math_3Exp_Sem12023.pdf">Additional Mathematics</a><br><a href="/files/Math_3%20Exp_Sem12023.pdf">Mathematics</a></p>
 </td>
-<td width="208" style="text-align: center;">
+<td style="text-align: center;" width="208">
 <p><a href="/files/AddMath_3NA_Sem%2012023.pdf">Additional Mathematics</a><br><a href="/files/Math_3NA_Sem12023.pdf">Mathematics</a></p>
 </td>
-<td width="208" style="text-align: center;">
+<td style="text-align: center;" width="208">
 <p><a href="/files/Math_3NT_Sem12023.pdf">Mathematics</a><br><a href="/files/3NT_CPA_Term 2_Subject Overview.pdf">Computer Applications</a></p>
 </td>
 </tr>
 <tr>
-<td width="208" style="text-align: center;">
+<td style="text-align: center;" width="208">
 <p><a href="/files/Biology_3EXP_Sem12023.pdf">Biology</a><br><a href="/files/Chemistry_3EXP_Sem12023.pdf">Chemistry</a><br><a href="/files/Physics_3EXP_Sem12023.pdf">Physics</a><br><a href="/files/ScienceBiology_3EXP_Sem12023.pdf">Science Biology</a><br><a href="/files/ScienceChemistry_3EXP_Sem12023.pdf">Science Chemistry</a><br><a href="/files/SciencePhysics_3EXP_Sem12023.pdf">Science Physics</a></p>
 </td>
-<td width="208" style="text-align: center;">
+<td style="text-align: center;" width="208">
 <p><a href="/files/ScienceBiology_3NA_Sem12023.pdf">Science Biology</a><br><a href="/files/ScienceChemistry_3NA_Sem12023.pdf">Science Chemistry</a><br><a href="/files/SciencePhysics_3NA_Sem12023.pdf">Science Physics</a></p>
 </td>
-<td width="208" style="text-align: center;">
+<td style="text-align: center;" width="208">
 <p><a href="/files/Science_3NT_Sem12023.pdf">Science</a><br><a href="/files/EBS_3NT_Sem12023.pdf">Elements of Business Skills</a></p>
 </td>
 </tr>
 <tr>
-<td width="208" style="text-align: center;">
+<td style="text-align: center;" width="208">
 <p><a href="/files/SS_3EX_Sem12023.pdf">Social Studies</a><br><a href="/files/Elective_Geography_3EX_Sem12023.pdf">Elective Geography</a><br><a href="/files/Elective%20History_3EX_Sem12023.pdf">Elective History</a><br><a href="/files/Literature_3EXP%20Subject%20Overview.pdf">Elective Literature</a><br><a href="/files/Pure_Geog_3EX_Sem12023.pdf">Pure Geography</a><br><a href="/files/Pure%20History_3EX_Sem12023.pdf">Pure History</a><br><a href="/files/POA_3EX_Sem12023.pdf">Principles of Accounts</a></p>
 </td>
-<td width="208" style="text-align: center;">
+<td style="text-align: center;" width="208">
 <p><a href="/files/SS_3NA_Sem12023.pdf">Social Studies</a><br><a href="/files/Elective_Geography_3NA_Sem12023.pdf">Elective Geography</a><br><a href="/files/Elective%20History_3NA_Sem12023.pdf">Elective History</a><br><a href="/files/Literature_3NA%20Subject%20Overview.pdf">Elective Literature</a><br><a href="/files/POA_3NA_Sem12023.pdf">Principles of Accounts</a>&nbsp;</p>
 </td>
-<td width="208" style="text-align: center;"><br>
+<td style="text-align: center;" width="208"><br>
 <p><a href="/files/SS_3NT_Sem12023.pdf">Social Studies</a></p>
 </td>
 </tr>
 <tr>
-<td width="208" style="text-align: center;">
+<td style="text-align: center;" width="208">
 <p><a href="/files/Art_%203Exp_Sem12023.pdf">Art</a><br><a href="/files/Subject%20Overview_DT_3E.pdf">Design and Technology</a><br><a href="/files/2023%20Subject%20Overview_3Exp_NFS.pdf">Nutrition and Food Science</a></p>
 </td>
-<td width="208" style="text-align: center;">
+<td style="text-align: center;" width="208">
 <p><a href="/files/Art_3NA_Sem12023.pdf">Art</a><br><a href="/files/Subject%20Overview_DT_3NA.pdf">Design and Technology</a><br><a href="/files/2023_Subject%20Overview_3NA.pdf">Nutrition and Food Science</a></p>
 </td>
-<td width="208" style="text-align: center;">
+<td style="text-align: center;" width="208">
 <p><a href="/files/Art_3NT_Art_Sem12023.pdf">Art</a><br><a href="/files/Subject%20Overview_DT_3NT.pdf">Design and Technology</a><br><a href="/files/2023_Subject%20Overview_3NT.pdf">Nutrition and Food Science</a></p>
 </td>
 </tr>
 <tr>
-<td width="623" colspan="3" style="text-align: center;">
+<td style="text-align: center;" colspan="3" width="623">
 <p><strong>Physical Education<br></strong><a href="/files/PE_3A1_3B2_Sem12023.pdf">3A1/3B2</a> <a href="/files/PE_3A2_3B1_Sem12023.pdf">3A2/3B1</a> <a href="/files/2022_Subject%20Overview_PE%20Sem%202_3B2.pdf">3B2</a> <a href="/files/PE_3B3_3C2_3C3_Sem12023.pdf">3B3/3C2/3C3</a> <a href="/files/PE_3C1_3C5_Sem12023.pdf">3C1/3C5</a> <a href="/files/PE_3C4_Sem12023.pdf">3C4</a></p>
 </td>
 </tr>
@@ -267,84 +267,629 @@ description: ""
 <table>
 <tbody>
 <tr>
-<td width="208" style="text-align: center;">
+<td style="text-align: center;" width="208">
 <p><strong><u>Express</u></strong></p>
 </td>
-<td width="208" style="text-align: center;">
+<td style="text-align: center;" width="208">
 <p><strong><u>Normal (Academic)</u></strong></p>
 </td>
-<td width="208" style="text-align: center;">
+<td style="text-align: center;" width="208">
 <p><strong><u>Normal (Technical)</u></strong></p>
 </td>
 </tr>
 <tr>
-<td width="208" style="text-align: center;">
+<td style="text-align: center;" width="208">
 <p><a href="/files/English%20Language_4E5N_Sem1%202023.pdf">English Language</a></p>
 </td>
-<td width="208" style="text-align: center;">
+<td style="text-align: center;" width="208">
 <p><a href="/files/English%20Language_4NA_Sem1%202023.pdf">English Language</a></p>
 </td>
-<td width="208" style="text-align: center;">
+<td style="text-align: center;" width="208">
 <p><a href="/files/English%20Language_4NT_Sem1%202023.pdf">English Language</a></p>
 </td>
 </tr>
 <tr>
-<td width="208" style="text-align: center;">
+<td style="text-align: center;" width="208">
 <p><a href="/files/Chinese%20Language_4EXP_Sem12023.pdf">Chinese</a><br><a href="/files/Chinese%20Language_4CLB_Sem12023.pdf">Chinese Syllabus B</a><br><a href="/files/Chinese%20Language_4HCL_Sem12023.pdf">Higher Chinese</a><br><a href="/files/Malay%20Language_4EXP_Sem12023.pdf">Malay</a></p>
 </td>
-<td width="208" style="text-align: center;">
+<td style="text-align: center;" width="208">
 <p><a href="/files/Chinese%20Language_4NA_Sem12023.pdf">Chinese</a><br><a href="/files/Chinese%20Language_4CLB_Sem12023.pdf">Chinese Syllabus B</a><br><a href="/files/Malay%20Language_4NA_Sem12023.pdf">Malay</a></p>
 </td>
-<td width="208" style="text-align: center;">
+<td style="text-align: center;" width="208">
 <p><a href="/files/Chinese%20Language_4NT_Sem12023.pdf">Basic Chinese</a><br><a href="/files/Malay%20Language_4NT_Sem12023.pdf">Basic Malay</a></p>
 </td>
 </tr>
 <tr>
-<td width="208" style="text-align: center;">
+<td style="text-align: center;" width="208">
 <p><a href="/files/Add%20Math_4EXP_Sem12023.pdf">Additional Mathematics 4E</a><br><a href="/files/Add%20Math_5NA_Sem12023.pdf">Additional Mathematics 5N</a><br><a href="/files/Math_4EXP_Sem12023.pdf">Mathematics 4E</a><br><a href="/files/Math_5NA_Sem12023.pdf">Mathematics 5N</a></p>
 </td>
-<td width="208" style="text-align: center;">
+<td style="text-align: center;" width="208">
 <p><a href="/files/Add%20Math_4NA_Sem12023.pdf">Additional Mathematics</a><br><a href="/files/Math_4NA_Sem12023.pdf">Mathematics</a></p>
 </td>
-<td width="208" style="text-align: center;">
+<td style="text-align: center;" width="208">
 <p><a href="/files/4NT_CPA_Sem 1_Subject Overview_Final v2 1.pdf">Computer Applications</a><br><a href="/files/Mathmatics/Math_4NT_Sem12023.pdf">Mathematics</a></p>
 </td>
 </tr>
 <tr>
-<td width="208" style="text-align: center;">
+<td style="text-align: center;" width="208">
 <p><a href="/files/Biology_4EXP_Sem12023.pdf">Biology</a><br><a href="/files/Chemistry_4EXP_Sem12023.pdf">Chemistry</a><br><a href="/files/Physics_4EXP_Sem12023.pdf">Physics</a><br><a href="/files/ScienceBiology_4EXP_Sem12023.pdf">Science Biology 4E</a><br><a href="/files/ScienceBiology_5NA_Sem12023.pdf">Science Biology 5N</a><br><a href="/files/ScienceChemistry_4EXP_Sem12023.pdf">Science Chemistry 4E</a><br><a href="/files/ScienceChemistry_5NA_Sem12023.pdf">Science Chemistry 5N</a><br><a href="/files/ciencePhysics_4EXP_Sem12023.pdf">Science Physics 4E</a><br><a href="/files/SciencePhysics_5NA_Sem12023.pdf">Science Physics 5N</a></p>
 </td>
-<td width="208" style="text-align: center;">
+<td style="text-align: center;" width="208">
 <p><a href="/files/ScienceBiology_4NA_Sem12023.pdf">Science Biology</a><br><a href="/files/ScienceChemistry_4NA_Sem12023.pdf">Science Chemistry</a><br><a href="/files/SciencePhysics_4NA_Sem12023.pdf">Science Physics</a></p>
 </td>
-<td width="208" style="text-align: center;">
+<td style="text-align: center;" width="208">
 <p><a href="/files/Science_4NT_Sem12023.pdf">Science</a></p>
 </td>
 </tr>
 <tr>
-<td width="208" style="text-align: center;">
+<td style="text-align: center;" width="208">
 <p><a href="/files/Humanities/SS_4EX_Sem12023.pdf">Social Studies 4E</a><br></p><p><a href="/files/Humanities/SS_5NA_Sem12023.pdf">Social Studies 5N</a></p><br><a href="/files/Humanities/Pure_Geog_4EX_Sem2023.pdf">Pure Geography</a><br><a href="/files/Literature_4EXP%20Pure%20Subject%20Overview_Macbeth.pdf">Pure Literature (Macbeth)</a><br><a href="/files/Elective_Geography_4EX_Sem12023.pdf">Elective Geography 4E</a><br><a href="/files/Elective_Geography_5NA_Sem12023.pdf">Elective Geography 5N</a><br><a href="/files/Elective%20History_4EX5NA_Sem12023.pdf">Elective History</a><br><a href="/files/Literature_4EXP%20Elective%20Subject%20Overview_F451.pdf">Elective Literature </a><br><a href="/files/POA_4EX_Sem12023.pdf">Principles of Accounts</a><p></p>
 </td>
-<td width="208" style="text-align: center;">
+<td style="text-align: center;" width="208">
 <p><a href="/files/SS_4NA_Sem12023.pdf">Social Studies</a><br><a href="/files/Elective_Geography_4NA_Sem12023.pdf">Elective Geography</a><br><a href="/files/Elective%20History_4NA_2023.pdf">Elective History</a><br><a href="/files/POA_4NA_Sem12023.pdf">Principles of Accounts</a></p>
 </td>
-<td width="208" style="text-align: center;"><a href="/files/SS_4NT_Sem2023.pdf">Social Studies</a></td>
+<td style="text-align: center;" width="208"><a href="/files/SS_4NT_Sem2023.pdf">Social Studies</a></td>
 </tr>
 <tr>
-<td width="208" style="text-align: center;">
+<td style="text-align: center;" width="208">
 <p><a href="/files/Art_4EXP_Sem12023.pdf">Art 4E</a><br><a href="/files/Art_5NA_Sem12023.pdf">Art 5N</a><br><a href="/files/Subject%20Overview_DT_4Exp.pdf">Design and Technology 4E</a><br><a href="/files/Subject%20Overview_DT_5NA.pdf">Design and Technology 5N</a><br><a href="/files/2023_Subject%20Overview_4Exp_Sem%201_V2.pdf">Nutrition &amp; Food Science 4E</a><br><a href="/files/Subject%20Overview_5N_Sem%201_2023_V3.pdf">Nutrition &amp; Food Science 5N</a></p>
 </td>
-<td width="208" style="text-align: center;">
+<td style="text-align: center;" width="208">
 <p><a href="/files/Subject%20Overview_DT_4NA.pdf">Design and Technology</a><br><a href="/files/Subject%20Overview_4NA_Sem%201_2023_V3.pdf">Nutrition and Food Science</a></p>
 </td>
-<td width="208" style="text-align: center;">
+<td style="text-align: center;" width="208">
 <p><a href="/files/Art_4NT__Sem%2012023.pdf">Art</a><br><a href="/files/Subject%20Overview_DT_4NT.pdf">Design and Technology</a><br><a href="/files/Subject%20Overview_4NT_Sem%201_2023_V2.pdf">Nutrition and Food Science</a></p>
 </td>
 </tr>
 <tr>
-<td width="623" colspan="3" style="text-align: center;">
+<td style="text-align: center;" colspan="3" width="623">
 <p><strong>Physical Education<br></strong><a href="/files/PE_4A1_4A2_Sem12023.pdf">4A1/4A2</a> <a href="/files/PE_4B1_4C1_4C3_Sem12023.pdf">4B1/4C1/4C3</a> <a href="/files/PE_4B2_Sem12023.pdf">4B2</a> <a href="/files/PE_4C2_Sem12023.pdf">4C2</a> <a href="/files/2022_Subject%20Overview_PE%20Sem%202_4C1_4C2.pdf">4C1/4C2</a> <a href="/files/PE_4C4_4C5_Sem12023.pdf">4C4/4C5</a> <a href="/files/PE_5B1_Sem12023.pdf">5B1</a></p>
 </td>
 </tr>
 </tbody>
 </table>
+         <!-- /\* Font Definitions \*/ @font-face {font-family:Latha; panose-1:2 0 4 0 0 0 0 0 0 0; mso-font-alt:Latha; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:1048579 0 0 0 1 0;} @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:-536869121 1107305727 33554432 0 415 0;} @font-face {font-family:DengXian; panose-1:2 1 6 0 3 1 1 1 1 1; mso-font-alt:等线; mso-font-charset:134; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:-1610612033 953122042 22 0 262159 0;} @font-face {font-family:Calibri; panose-1:2 15 5 2 2 2 4 3 2 4; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-469750017 -1073732485 9 0 511 0;} @font-face {font-family:Lato; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-520092929 1342237951 33 0 415 0;} @font-face {font-family:"\\@DengXian"; panose-1:2 1 6 0 3 1 1 1 1 1; mso-font-charset:134; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:-1610612033 953122042 22 0 262159 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin-top:0in; margin-right:0in; margin-bottom:8.0pt; margin-left:0in; line-height:107%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:DengXian; mso-fareast-theme-font:minor-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:Latha;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:DengXian; mso-fareast-theme-font:minor-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:Latha; mso-bidi-theme-font:minor-bidi;} .MsoPapDefault {mso-style-type:export-only; margin-bottom:8.0pt; line-height:107%;} @page WordSection1 {size:8.5in 11.0in; margin:1.0in 1.0in 1.0in 1.0in; mso-header-margin:.5in; mso-footer-margin:.5in; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} -->
+
+<table style="border-collapse:collapse;border:none;mso-border-alt:solid #BFBFBF .5pt;
+ mso-border-themecolor:background1;mso-border-themeshade:191;mso-yfti-tbllook:
+ 1184;mso-padding-alt:0in 5.4pt 0in 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTable15Plain1"><tbody><tr style="mso-yfti-irow:-1;mso-yfti-firstrow:yes;mso-yfti-lastfirstrow:yes;
+  height:22.0pt"><td style="width:155.8pt;border:solid #BFBFBF 1.0pt;
+  mso-border-themecolor:background1;mso-border-themeshade:191;mso-border-alt:
+  solid #BFBFBF .5pt;mso-border-themecolor:background1;mso-border-themeshade:
+  191;padding:0in 5.4pt 0in 5.4pt;height:22.0pt" valign="top" width="208"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-yfti-cnfc:5" align="center" class="MsoNormal"><b><span style="font-family:&quot;Lato&quot;,sans-serif">Express</span></b></p></td><td style="width:155.85pt;border:solid #BFBFBF 1.0pt;
+  mso-border-themecolor:background1;mso-border-themeshade:191;border-left:none;
+  mso-border-left-alt:solid #BFBFBF .5pt;mso-border-left-themecolor:background1;
+  mso-border-left-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
+  background1;mso-border-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:
+  22.0pt" valign="top" width="208"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-yfti-cnfc:1" align="center" class="MsoNormal"><b><span style="font-family:&quot;Lato&quot;,sans-serif">Normal (Academic)</span></b></p></td><td style="width:155.85pt;border:solid #BFBFBF 1.0pt;
+  mso-border-themecolor:background1;mso-border-themeshade:191;border-left:none;
+  mso-border-left-alt:solid #BFBFBF .5pt;mso-border-left-themecolor:background1;
+  mso-border-left-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
+  background1;mso-border-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:
+  22.0pt" valign="top" width="208"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-yfti-cnfc:1" align="center" class="MsoNormal"><b><span style="font-family:&quot;Lato&quot;,sans-serif">Normal (Technical)</span></b></p></td></tr><tr style="mso-yfti-irow:0;height:22.0pt"><td style="width:155.8pt;border:solid #BFBFBF 1.0pt;mso-border-themecolor:
+  background1;mso-border-themeshade:191;border-top:none;mso-border-top-alt:
+  solid #BFBFBF .5pt;mso-border-top-themecolor:background1;mso-border-top-themeshade:
+  191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:background1;
+  mso-border-themeshade:191;background:#F2F2F2;mso-background-themecolor:background1;
+  mso-background-themeshade:242;padding:0in 5.4pt 0in 5.4pt;height:22.0pt" width="208"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-yfti-cnfc:68" align="center" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext"><a href="/files/Literature_1EXP%20Subject%20Overview.pdf">English Language</a></span><a href="/files/Literature_1EXP%20Subject%20Overview.pdf"><span style="font-family:&quot;Lato&quot;,sans-serif"></span></a></p></td><td style="width:155.85pt;border-top:none;border-left:none;
+  border-bottom:solid #BFBFBF 1.0pt;mso-border-bottom-themecolor:background1;
+  mso-border-bottom-themeshade:191;border-right:solid #BFBFBF 1.0pt;mso-border-right-themecolor:
+  background1;mso-border-right-themeshade:191;mso-border-top-alt:solid #BFBFBF .5pt;
+  mso-border-top-themecolor:background1;mso-border-top-themeshade:191;
+  mso-border-left-alt:solid #BFBFBF .5pt;mso-border-left-themecolor:background1;
+  mso-border-left-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
+  background1;mso-border-themeshade:191;background:#F2F2F2;mso-background-themecolor:
+  background1;mso-background-themeshade:242;padding:0in 5.4pt 0in 5.4pt;
+  height:22.0pt" width="208"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-yfti-cnfc:64" align="center" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">English Language</span><span style="font-family:&quot;Lato&quot;,sans-serif"></span></p></td><td style="width:155.85pt;border-top:none;border-left:none;
+  border-bottom:solid #BFBFBF 1.0pt;mso-border-bottom-themecolor:background1;
+  mso-border-bottom-themeshade:191;border-right:solid #BFBFBF 1.0pt;mso-border-right-themecolor:
+  background1;mso-border-right-themeshade:191;mso-border-top-alt:solid #BFBFBF .5pt;
+  mso-border-top-themecolor:background1;mso-border-top-themeshade:191;
+  mso-border-left-alt:solid #BFBFBF .5pt;mso-border-left-themecolor:background1;
+  mso-border-left-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
+  background1;mso-border-themeshade:191;background:#F2F2F2;mso-background-themecolor:
+  background1;mso-background-themeshade:242;padding:0in 5.4pt 0in 5.4pt;
+  height:22.0pt" width="208"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-yfti-cnfc:64" align="center" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">English Language</span><span style="font-family:&quot;Lato&quot;,sans-serif"></span></p></td></tr><tr style="mso-yfti-irow:1;height:22.0pt"><td style="width:155.8pt;border:solid #BFBFBF 1.0pt;mso-border-themecolor:
+  background1;mso-border-themeshade:191;border-top:none;mso-border-top-alt:
+  solid #BFBFBF .5pt;mso-border-top-themecolor:background1;mso-border-top-themeshade:
+  191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:background1;
+  mso-border-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:22.0pt" width="208"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-yfti-cnfc:4" align="center" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif">English Literature</span></p></td><td style="width:155.85pt;border-top:none;border-left:none;
+  border-bottom:solid #BFBFBF 1.0pt;mso-border-bottom-themecolor:background1;
+  mso-border-bottom-themeshade:191;border-right:solid #BFBFBF 1.0pt;mso-border-right-themecolor:
+  background1;mso-border-right-themeshade:191;mso-border-top-alt:solid #BFBFBF .5pt;
+  mso-border-top-themecolor:background1;mso-border-top-themeshade:191;
+  mso-border-left-alt:solid #BFBFBF .5pt;mso-border-left-themecolor:background1;
+  mso-border-left-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
+  background1;mso-border-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:
+  22.0pt" width="208"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif">English Literature</span></p></td><td style="width:155.85pt;border-top:none;border-left:none;
+  border-bottom:solid #BFBFBF 1.0pt;mso-border-bottom-themecolor:background1;
+  mso-border-bottom-themeshade:191;border-right:solid #BFBFBF 1.0pt;mso-border-right-themecolor:
+  background1;mso-border-right-themeshade:191;mso-border-top-alt:solid #BFBFBF .5pt;
+  mso-border-top-themecolor:background1;mso-border-top-themeshade:191;
+  mso-border-left-alt:solid #BFBFBF .5pt;mso-border-left-themecolor:background1;
+  mso-border-left-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
+  background1;mso-border-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:
+  22.0pt" width="208"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal">&nbsp;</p></td></tr><tr style="mso-yfti-irow:2;height:8.5pt"><td style="width:155.8pt;border:solid #BFBFBF 1.0pt;mso-border-themecolor:
+  background1;mso-border-themeshade:191;border-top:none;mso-border-top-alt:
+  solid #BFBFBF .5pt;mso-border-top-themecolor:background1;mso-border-top-themeshade:
+  191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:background1;
+  mso-border-themeshade:191;background:#F2F2F2;mso-background-themecolor:background1;
+  mso-background-themeshade:242;padding:0in 5.4pt 0in 5.4pt;height:8.5pt" width="208"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-yfti-cnfc:68" align="center" class="MsoNormal"><b>&nbsp;</b></p></td><td style="width:155.85pt;border-top:none;border-left:none;
+  border-bottom:solid #BFBFBF 1.0pt;mso-border-bottom-themecolor:background1;
+  mso-border-bottom-themeshade:191;border-right:solid #BFBFBF 1.0pt;mso-border-right-themecolor:
+  background1;mso-border-right-themeshade:191;mso-border-top-alt:solid #BFBFBF .5pt;
+  mso-border-top-themecolor:background1;mso-border-top-themeshade:191;
+  mso-border-left-alt:solid #BFBFBF .5pt;mso-border-left-themecolor:background1;
+  mso-border-left-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
+  background1;mso-border-themeshade:191;background:#F2F2F2;mso-background-themecolor:
+  background1;mso-background-themeshade:242;padding:0in 5.4pt 0in 5.4pt;
+  height:8.5pt" width="208"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-yfti-cnfc:64" align="center" class="MsoNormal">&nbsp;</p></td><td style="width:155.85pt;border-top:none;border-left:none;
+  border-bottom:solid #BFBFBF 1.0pt;mso-border-bottom-themecolor:background1;
+  mso-border-bottom-themeshade:191;border-right:solid #BFBFBF 1.0pt;mso-border-right-themecolor:
+  background1;mso-border-right-themeshade:191;mso-border-top-alt:solid #BFBFBF .5pt;
+  mso-border-top-themecolor:background1;mso-border-top-themeshade:191;
+  mso-border-left-alt:solid #BFBFBF .5pt;mso-border-left-themecolor:background1;
+  mso-border-left-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
+  background1;mso-border-themeshade:191;background:#F2F2F2;mso-background-themecolor:
+  background1;mso-background-themeshade:242;padding:0in 5.4pt 0in 5.4pt;
+  height:8.5pt" width="208"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-yfti-cnfc:64" align="center" class="MsoNormal">&nbsp;</p></td></tr><tr style="mso-yfti-irow:3;height:22.0pt"><td style="width:155.8pt;border:solid #BFBFBF 1.0pt;mso-border-themecolor:
+  background1;mso-border-themeshade:191;border-top:none;mso-border-top-alt:
+  solid #BFBFBF .5pt;mso-border-top-themecolor:background1;mso-border-top-themeshade:
+  191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:background1;
+  mso-border-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:22.0pt" width="208"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-yfti-cnfc:4" align="center" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif">Chinese</span></p></td><td style="width:155.85pt;border-top:none;border-left:none;
+  border-bottom:solid #BFBFBF 1.0pt;mso-border-bottom-themecolor:background1;
+  mso-border-bottom-themeshade:191;border-right:solid #BFBFBF 1.0pt;mso-border-right-themecolor:
+  background1;mso-border-right-themeshade:191;mso-border-top-alt:solid #BFBFBF .5pt;
+  mso-border-top-themecolor:background1;mso-border-top-themeshade:191;
+  mso-border-left-alt:solid #BFBFBF .5pt;mso-border-left-themecolor:background1;
+  mso-border-left-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
+  background1;mso-border-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:
+  22.0pt" width="208"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif">Chinese</span></p></td><td style="width:155.85pt;border-top:none;border-left:none;
+  border-bottom:solid #BFBFBF 1.0pt;mso-border-bottom-themecolor:background1;
+  mso-border-bottom-themeshade:191;border-right:solid #BFBFBF 1.0pt;mso-border-right-themecolor:
+  background1;mso-border-right-themeshade:191;mso-border-top-alt:solid #BFBFBF .5pt;
+  mso-border-top-themecolor:background1;mso-border-top-themeshade:191;
+  mso-border-left-alt:solid #BFBFBF .5pt;mso-border-left-themecolor:background1;
+  mso-border-left-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
+  background1;mso-border-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:
+  22.0pt" width="208"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif">Basic Chinese</span></p></td></tr><tr style="mso-yfti-irow:4;height:22.0pt"><td style="width:155.8pt;border:solid #BFBFBF 1.0pt;mso-border-themecolor:
+  background1;mso-border-themeshade:191;border-top:none;mso-border-top-alt:
+  solid #BFBFBF .5pt;mso-border-top-themecolor:background1;mso-border-top-themeshade:
+  191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:background1;
+  mso-border-themeshade:191;background:#F2F2F2;mso-background-themecolor:background1;
+  mso-background-themeshade:242;padding:0in 5.4pt 0in 5.4pt;height:22.0pt" width="208"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-yfti-cnfc:68" align="center" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">Higher Chinese</span><span style="font-family:&quot;Lato&quot;,sans-serif"></span></p></td><td style="width:155.85pt;border-top:none;border-left:none;
+  border-bottom:solid #BFBFBF 1.0pt;mso-border-bottom-themecolor:background1;
+  mso-border-bottom-themeshade:191;border-right:solid #BFBFBF 1.0pt;mso-border-right-themecolor:
+  background1;mso-border-right-themeshade:191;mso-border-top-alt:solid #BFBFBF .5pt;
+  mso-border-top-themecolor:background1;mso-border-top-themeshade:191;
+  mso-border-left-alt:solid #BFBFBF .5pt;mso-border-left-themecolor:background1;
+  mso-border-left-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
+  background1;mso-border-themeshade:191;background:#F2F2F2;mso-background-themecolor:
+  background1;mso-background-themeshade:242;padding:0in 5.4pt 0in 5.4pt;
+  height:22.0pt" width="208"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-yfti-cnfc:64" align="center" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">Malay</span><span style="font-family:
+  &quot;Lato&quot;,sans-serif"></span></p></td><td style="width:155.85pt;border-top:none;border-left:none;
+  border-bottom:solid #BFBFBF 1.0pt;mso-border-bottom-themecolor:background1;
+  mso-border-bottom-themeshade:191;border-right:solid #BFBFBF 1.0pt;mso-border-right-themecolor:
+  background1;mso-border-right-themeshade:191;mso-border-top-alt:solid #BFBFBF .5pt;
+  mso-border-top-themecolor:background1;mso-border-top-themeshade:191;
+  mso-border-left-alt:solid #BFBFBF .5pt;mso-border-left-themecolor:background1;
+  mso-border-left-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
+  background1;mso-border-themeshade:191;background:#F2F2F2;mso-background-themecolor:
+  background1;mso-background-themeshade:242;padding:0in 5.4pt 0in 5.4pt;
+  height:22.0pt" width="208"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-yfti-cnfc:64" align="center" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">Basic Malay</span><span style="font-family:&quot;Lato&quot;,sans-serif"></span></p></td></tr><tr style="mso-yfti-irow:5;height:22.0pt"><td style="width:155.8pt;border:solid #BFBFBF 1.0pt;mso-border-themecolor:
+  background1;mso-border-themeshade:191;border-top:none;mso-border-top-alt:
+  solid #BFBFBF .5pt;mso-border-top-themecolor:background1;mso-border-top-themeshade:
+  191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:background1;
+  mso-border-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:22.0pt" width="208"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-yfti-cnfc:4" align="center" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif">Malay</span></p></td><td style="width:155.85pt;border-top:none;border-left:none;
+  border-bottom:solid #BFBFBF 1.0pt;mso-border-bottom-themecolor:background1;
+  mso-border-bottom-themeshade:191;border-right:solid #BFBFBF 1.0pt;mso-border-right-themecolor:
+  background1;mso-border-right-themeshade:191;mso-border-top-alt:solid #BFBFBF .5pt;
+  mso-border-top-themecolor:background1;mso-border-top-themeshade:191;
+  mso-border-left-alt:solid #BFBFBF .5pt;mso-border-left-themecolor:background1;
+  mso-border-left-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
+  background1;mso-border-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:
+  22.0pt" width="208"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif">&nbsp;</span></p></td><td style="width:155.85pt;border-top:none;border-left:none;
+  border-bottom:solid #BFBFBF 1.0pt;mso-border-bottom-themecolor:background1;
+  mso-border-bottom-themeshade:191;border-right:solid #BFBFBF 1.0pt;mso-border-right-themecolor:
+  background1;mso-border-right-themeshade:191;mso-border-top-alt:solid #BFBFBF .5pt;
+  mso-border-top-themecolor:background1;mso-border-top-themeshade:191;
+  mso-border-left-alt:solid #BFBFBF .5pt;mso-border-left-themecolor:background1;
+  mso-border-left-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
+  background1;mso-border-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:
+  22.0pt" width="208"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:6;height:12.1pt"><td style="width:155.8pt;border:solid #BFBFBF 1.0pt;mso-border-themecolor:
+  background1;mso-border-themeshade:191;border-top:none;mso-border-top-alt:
+  solid #BFBFBF .5pt;mso-border-top-themecolor:background1;mso-border-top-themeshade:
+  191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:background1;
+  mso-border-themeshade:191;background:#F2F2F2;mso-background-themecolor:background1;
+  mso-background-themeshade:242;padding:0in 5.4pt 0in 5.4pt;height:12.1pt" width="208"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-yfti-cnfc:68" align="center" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif">&nbsp;</span></p></td><td style="width:155.85pt;border-top:none;border-left:none;
+  border-bottom:solid #BFBFBF 1.0pt;mso-border-bottom-themecolor:background1;
+  mso-border-bottom-themeshade:191;border-right:solid #BFBFBF 1.0pt;mso-border-right-themecolor:
+  background1;mso-border-right-themeshade:191;mso-border-top-alt:solid #BFBFBF .5pt;
+  mso-border-top-themecolor:background1;mso-border-top-themeshade:191;
+  mso-border-left-alt:solid #BFBFBF .5pt;mso-border-left-themecolor:background1;
+  mso-border-left-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
+  background1;mso-border-themeshade:191;background:#F2F2F2;mso-background-themecolor:
+  background1;mso-background-themeshade:242;padding:0in 5.4pt 0in 5.4pt;
+  height:12.1pt" width="208"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-yfti-cnfc:64" align="center" class="MsoNormal"><b><span style="font-family:&quot;Lato&quot;,sans-serif">&nbsp;</span></b></p></td><td style="width:155.85pt;border-top:none;border-left:none;
+  border-bottom:solid #BFBFBF 1.0pt;mso-border-bottom-themecolor:background1;
+  mso-border-bottom-themeshade:191;border-right:solid #BFBFBF 1.0pt;mso-border-right-themecolor:
+  background1;mso-border-right-themeshade:191;mso-border-top-alt:solid #BFBFBF .5pt;
+  mso-border-top-themecolor:background1;mso-border-top-themeshade:191;
+  mso-border-left-alt:solid #BFBFBF .5pt;mso-border-left-themecolor:background1;
+  mso-border-left-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
+  background1;mso-border-themeshade:191;background:#F2F2F2;mso-background-themecolor:
+  background1;mso-background-themeshade:242;padding:0in 5.4pt 0in 5.4pt;
+  height:12.1pt" width="208"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-yfti-cnfc:64" align="center" class="MsoNormal"><b><span style="font-family:&quot;Lato&quot;,sans-serif">&nbsp;</span></b></p></td></tr><tr style="mso-yfti-irow:7;height:22.0pt"><td style="width:155.8pt;border:solid #BFBFBF 1.0pt;mso-border-themecolor:
+  background1;mso-border-themeshade:191;border-top:none;mso-border-top-alt:
+  solid #BFBFBF .5pt;mso-border-top-themecolor:background1;mso-border-top-themeshade:
+  191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:background1;
+  mso-border-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:22.0pt" width="208"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-yfti-cnfc:4" align="center" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif">Mathematics</span></p></td><td style="width:155.85pt;border-top:none;border-left:none;
+  border-bottom:solid #BFBFBF 1.0pt;mso-border-bottom-themecolor:background1;
+  mso-border-bottom-themeshade:191;border-right:solid #BFBFBF 1.0pt;mso-border-right-themecolor:
+  background1;mso-border-right-themeshade:191;mso-border-top-alt:solid #BFBFBF .5pt;
+  mso-border-top-themecolor:background1;mso-border-top-themeshade:191;
+  mso-border-left-alt:solid #BFBFBF .5pt;mso-border-left-themecolor:background1;
+  mso-border-left-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
+  background1;mso-border-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:
+  22.0pt" width="208"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif">Mathematics</span></p></td><td style="width:155.85pt;border-top:none;border-left:none;
+  border-bottom:solid #BFBFBF 1.0pt;mso-border-bottom-themecolor:background1;
+  mso-border-bottom-themeshade:191;border-right:solid #BFBFBF 1.0pt;mso-border-right-themecolor:
+  background1;mso-border-right-themeshade:191;mso-border-top-alt:solid #BFBFBF .5pt;
+  mso-border-top-themecolor:background1;mso-border-top-themeshade:191;
+  mso-border-left-alt:solid #BFBFBF .5pt;mso-border-left-themecolor:background1;
+  mso-border-left-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
+  background1;mso-border-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:
+  22.0pt" width="208"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif">Mathematics</span></p></td></tr><tr style="mso-yfti-irow:8;height:22.0pt"><td style="width:155.8pt;border:solid #BFBFBF 1.0pt;mso-border-themecolor:
+  background1;mso-border-themeshade:191;border-top:none;mso-border-top-alt:
+  solid #BFBFBF .5pt;mso-border-top-themecolor:background1;mso-border-top-themeshade:
+  191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:background1;
+  mso-border-themeshade:191;background:#F2F2F2;mso-background-themecolor:background1;
+  mso-background-themeshade:242;padding:0in 5.4pt 0in 5.4pt;height:22.0pt" width="208"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-yfti-cnfc:68" align="center" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif">&nbsp;</span></p></td><td style="width:155.85pt;border-top:none;border-left:none;
+  border-bottom:solid #BFBFBF 1.0pt;mso-border-bottom-themecolor:background1;
+  mso-border-bottom-themeshade:191;border-right:solid #BFBFBF 1.0pt;mso-border-right-themecolor:
+  background1;mso-border-right-themeshade:191;mso-border-top-alt:solid #BFBFBF .5pt;
+  mso-border-top-themecolor:background1;mso-border-top-themeshade:191;
+  mso-border-left-alt:solid #BFBFBF .5pt;mso-border-left-themecolor:background1;
+  mso-border-left-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
+  background1;mso-border-themeshade:191;background:#F2F2F2;mso-background-themecolor:
+  background1;mso-background-themeshade:242;padding:0in 5.4pt 0in 5.4pt;
+  height:22.0pt" width="208"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-yfti-cnfc:64" align="center" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif">&nbsp;</span></p></td><td style="width:155.85pt;border-top:none;border-left:none;
+  border-bottom:solid #BFBFBF 1.0pt;mso-border-bottom-themecolor:background1;
+  mso-border-bottom-themeshade:191;border-right:solid #BFBFBF 1.0pt;mso-border-right-themecolor:
+  background1;mso-border-right-themeshade:191;mso-border-top-alt:solid #BFBFBF .5pt;
+  mso-border-top-themecolor:background1;mso-border-top-themeshade:191;
+  mso-border-left-alt:solid #BFBFBF .5pt;mso-border-left-themecolor:background1;
+  mso-border-left-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
+  background1;mso-border-themeshade:191;background:#F2F2F2;mso-background-themecolor:
+  background1;mso-background-themeshade:242;padding:0in 5.4pt 0in 5.4pt;
+  height:22.0pt" width="208"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-yfti-cnfc:64" align="center" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">Computer Applications</span><span style="font-family:&quot;Lato&quot;,sans-serif"></span></p></td></tr><tr style="mso-yfti-irow:9;height:12.1pt"><td style="width:155.8pt;border:solid #BFBFBF 1.0pt;mso-border-themecolor:
+  background1;mso-border-themeshade:191;border-top:none;mso-border-top-alt:
+  solid #BFBFBF .5pt;mso-border-top-themecolor:background1;mso-border-top-themeshade:
+  191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:background1;
+  mso-border-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:12.1pt" width="208"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-yfti-cnfc:4" align="center" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif">&nbsp;</span></p></td><td style="width:155.85pt;border-top:none;border-left:none;
+  border-bottom:solid #BFBFBF 1.0pt;mso-border-bottom-themecolor:background1;
+  mso-border-bottom-themeshade:191;border-right:solid #BFBFBF 1.0pt;mso-border-right-themecolor:
+  background1;mso-border-right-themeshade:191;mso-border-top-alt:solid #BFBFBF .5pt;
+  mso-border-top-themecolor:background1;mso-border-top-themeshade:191;
+  mso-border-left-alt:solid #BFBFBF .5pt;mso-border-left-themecolor:background1;
+  mso-border-left-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
+  background1;mso-border-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:
+  12.1pt" width="208"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-family:&quot;Lato&quot;,sans-serif">&nbsp;</span></b></p></td><td style="width:155.85pt;border-top:none;border-left:none;
+  border-bottom:solid #BFBFBF 1.0pt;mso-border-bottom-themecolor:background1;
+  mso-border-bottom-themeshade:191;border-right:solid #BFBFBF 1.0pt;mso-border-right-themecolor:
+  background1;mso-border-right-themeshade:191;mso-border-top-alt:solid #BFBFBF .5pt;
+  mso-border-top-themecolor:background1;mso-border-top-themeshade:191;
+  mso-border-left-alt:solid #BFBFBF .5pt;mso-border-left-themecolor:background1;
+  mso-border-left-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
+  background1;mso-border-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:
+  12.1pt" width="208"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-family:&quot;Lato&quot;,sans-serif">&nbsp;</span></b></p></td></tr><tr style="mso-yfti-irow:10;height:22.0pt"><td style="width:155.8pt;border:solid #BFBFBF 1.0pt;mso-border-themecolor:
+  background1;mso-border-themeshade:191;border-top:none;mso-border-top-alt:
+  solid #BFBFBF .5pt;mso-border-top-themecolor:background1;mso-border-top-themeshade:
+  191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:background1;
+  mso-border-themeshade:191;background:#F2F2F2;mso-background-themecolor:background1;
+  mso-background-themeshade:242;padding:0in 5.4pt 0in 5.4pt;height:22.0pt" width="208"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-yfti-cnfc:68" align="center" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">Science</span><span style="font-family:
+  &quot;Lato&quot;,sans-serif"></span></p></td><td style="width:155.85pt;border-top:none;border-left:none;
+  border-bottom:solid #BFBFBF 1.0pt;mso-border-bottom-themecolor:background1;
+  mso-border-bottom-themeshade:191;border-right:solid #BFBFBF 1.0pt;mso-border-right-themecolor:
+  background1;mso-border-right-themeshade:191;mso-border-top-alt:solid #BFBFBF .5pt;
+  mso-border-top-themecolor:background1;mso-border-top-themeshade:191;
+  mso-border-left-alt:solid #BFBFBF .5pt;mso-border-left-themecolor:background1;
+  mso-border-left-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
+  background1;mso-border-themeshade:191;background:#F2F2F2;mso-background-themecolor:
+  background1;mso-background-themeshade:242;padding:0in 5.4pt 0in 5.4pt;
+  height:22.0pt" width="208"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-yfti-cnfc:64" align="center" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">Science</span><span style="font-family:
+  &quot;Lato&quot;,sans-serif"></span></p></td><td style="width:155.85pt;border-top:none;border-left:none;
+  border-bottom:solid #BFBFBF 1.0pt;mso-border-bottom-themecolor:background1;
+  mso-border-bottom-themeshade:191;border-right:solid #BFBFBF 1.0pt;mso-border-right-themecolor:
+  background1;mso-border-right-themeshade:191;mso-border-top-alt:solid #BFBFBF .5pt;
+  mso-border-top-themecolor:background1;mso-border-top-themeshade:191;
+  mso-border-left-alt:solid #BFBFBF .5pt;mso-border-left-themecolor:background1;
+  mso-border-left-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
+  background1;mso-border-themeshade:191;background:#F2F2F2;mso-background-themecolor:
+  background1;mso-background-themeshade:242;padding:0in 5.4pt 0in 5.4pt;
+  height:22.0pt" width="208"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-yfti-cnfc:64" align="center" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">Science</span><span style="font-family:
+  &quot;Lato&quot;,sans-serif"></span></p></td></tr><tr style="mso-yfti-irow:11;height:7.6pt"><td style="width:155.8pt;border:solid #BFBFBF 1.0pt;mso-border-themecolor:
+  background1;mso-border-themeshade:191;border-top:none;mso-border-top-alt:
+  solid #BFBFBF .5pt;mso-border-top-themecolor:background1;mso-border-top-themeshade:
+  191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:background1;
+  mso-border-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:7.6pt" width="208"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-yfti-cnfc:4" align="center" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif">&nbsp;</span></p></td><td style="width:155.85pt;border-top:none;border-left:none;
+  border-bottom:solid #BFBFBF 1.0pt;mso-border-bottom-themecolor:background1;
+  mso-border-bottom-themeshade:191;border-right:solid #BFBFBF 1.0pt;mso-border-right-themecolor:
+  background1;mso-border-right-themeshade:191;mso-border-top-alt:solid #BFBFBF .5pt;
+  mso-border-top-themecolor:background1;mso-border-top-themeshade:191;
+  mso-border-left-alt:solid #BFBFBF .5pt;mso-border-left-themecolor:background1;
+  mso-border-left-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
+  background1;mso-border-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:
+  7.6pt" width="208"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-family:&quot;Lato&quot;,sans-serif">&nbsp;</span></b></p></td><td style="width:155.85pt;border-top:none;border-left:none;
+  border-bottom:solid #BFBFBF 1.0pt;mso-border-bottom-themecolor:background1;
+  mso-border-bottom-themeshade:191;border-right:solid #BFBFBF 1.0pt;mso-border-right-themecolor:
+  background1;mso-border-right-themeshade:191;mso-border-top-alt:solid #BFBFBF .5pt;
+  mso-border-top-themecolor:background1;mso-border-top-themeshade:191;
+  mso-border-left-alt:solid #BFBFBF .5pt;mso-border-left-themecolor:background1;
+  mso-border-left-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
+  background1;mso-border-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:
+  7.6pt" width="208"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-family:&quot;Lato&quot;,sans-serif">&nbsp;</span></b></p></td></tr><tr style="mso-yfti-irow:12;height:22.0pt"><td style="width:155.8pt;border:solid #BFBFBF 1.0pt;mso-border-themecolor:
+  background1;mso-border-themeshade:191;border-top:none;mso-border-top-alt:
+  solid #BFBFBF .5pt;mso-border-top-themecolor:background1;mso-border-top-themeshade:
+  191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:background1;
+  mso-border-themeshade:191;background:#F2F2F2;mso-background-themecolor:background1;
+  mso-background-themeshade:242;padding:0in 5.4pt 0in 5.4pt;height:22.0pt" width="208"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-yfti-cnfc:68" align="center" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">Geography</span><span style="font-family:
+  &quot;Lato&quot;,sans-serif"></span></p></td><td style="width:155.85pt;border-top:none;border-left:none;
+  border-bottom:solid #BFBFBF 1.0pt;mso-border-bottom-themecolor:background1;
+  mso-border-bottom-themeshade:191;border-right:solid #BFBFBF 1.0pt;mso-border-right-themecolor:
+  background1;mso-border-right-themeshade:191;mso-border-top-alt:solid #BFBFBF .5pt;
+  mso-border-top-themecolor:background1;mso-border-top-themeshade:191;
+  mso-border-left-alt:solid #BFBFBF .5pt;mso-border-left-themecolor:background1;
+  mso-border-left-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
+  background1;mso-border-themeshade:191;background:#F2F2F2;mso-background-themecolor:
+  background1;mso-background-themeshade:242;padding:0in 5.4pt 0in 5.4pt;
+  height:22.0pt" width="208"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-yfti-cnfc:64" align="center" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">Geography</span><b><span style="font-family:&quot;Lato&quot;,sans-serif"></span></b></p></td><td style="width:155.85pt;border-top:none;border-left:none;
+  border-bottom:solid #BFBFBF 1.0pt;mso-border-bottom-themecolor:background1;
+  mso-border-bottom-themeshade:191;border-right:solid #BFBFBF 1.0pt;mso-border-right-themecolor:
+  background1;mso-border-right-themeshade:191;mso-border-top-alt:solid #BFBFBF .5pt;
+  mso-border-top-themecolor:background1;mso-border-top-themeshade:191;
+  mso-border-left-alt:solid #BFBFBF .5pt;mso-border-left-themecolor:background1;
+  mso-border-left-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
+  background1;mso-border-themeshade:191;background:#F2F2F2;mso-background-themecolor:
+  background1;mso-background-themeshade:242;padding:0in 5.4pt 0in 5.4pt;
+  height:22.0pt" width="208"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-yfti-cnfc:64" align="center" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">Geography</span><b><span style="font-family:&quot;Lato&quot;,sans-serif"></span></b></p></td></tr><tr style="mso-yfti-irow:13;height:22.0pt"><td style="width:155.8pt;border:solid #BFBFBF 1.0pt;mso-border-themecolor:
+  background1;mso-border-themeshade:191;border-top:none;mso-border-top-alt:
+  solid #BFBFBF .5pt;mso-border-top-themecolor:background1;mso-border-top-themeshade:
+  191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:background1;
+  mso-border-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:22.0pt" width="208"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-yfti-cnfc:4" align="center" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif">History</span></p></td><td style="width:155.85pt;border-top:none;border-left:none;
+  border-bottom:solid #BFBFBF 1.0pt;mso-border-bottom-themecolor:background1;
+  mso-border-bottom-themeshade:191;border-right:solid #BFBFBF 1.0pt;mso-border-right-themecolor:
+  background1;mso-border-right-themeshade:191;mso-border-top-alt:solid #BFBFBF .5pt;
+  mso-border-top-themecolor:background1;mso-border-top-themeshade:191;
+  mso-border-left-alt:solid #BFBFBF .5pt;mso-border-left-themecolor:background1;
+  mso-border-left-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
+  background1;mso-border-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:
+  22.0pt" width="208"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif">History<b></b></span></p></td><td style="width:155.85pt;border-top:none;border-left:none;
+  border-bottom:solid #BFBFBF 1.0pt;mso-border-bottom-themecolor:background1;
+  mso-border-bottom-themeshade:191;border-right:solid #BFBFBF 1.0pt;mso-border-right-themecolor:
+  background1;mso-border-right-themeshade:191;mso-border-top-alt:solid #BFBFBF .5pt;
+  mso-border-top-themecolor:background1;mso-border-top-themeshade:191;
+  mso-border-left-alt:solid #BFBFBF .5pt;mso-border-left-themecolor:background1;
+  mso-border-left-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
+  background1;mso-border-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:
+  22.0pt" width="208"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif">History<b></b></span></p></td></tr><tr style="mso-yfti-irow:14;height:7.6pt"><td style="width:155.8pt;border:solid #BFBFBF 1.0pt;mso-border-themecolor:
+  background1;mso-border-themeshade:191;border-top:none;mso-border-top-alt:
+  solid #BFBFBF .5pt;mso-border-top-themecolor:background1;mso-border-top-themeshade:
+  191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:background1;
+  mso-border-themeshade:191;background:#F2F2F2;mso-background-themecolor:background1;
+  mso-background-themeshade:242;padding:0in 5.4pt 0in 5.4pt;height:7.6pt" width="208"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-yfti-cnfc:68" align="center" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif">&nbsp;</span></p></td><td style="width:155.85pt;border-top:none;border-left:none;
+  border-bottom:solid #BFBFBF 1.0pt;mso-border-bottom-themecolor:background1;
+  mso-border-bottom-themeshade:191;border-right:solid #BFBFBF 1.0pt;mso-border-right-themecolor:
+  background1;mso-border-right-themeshade:191;mso-border-top-alt:solid #BFBFBF .5pt;
+  mso-border-top-themecolor:background1;mso-border-top-themeshade:191;
+  mso-border-left-alt:solid #BFBFBF .5pt;mso-border-left-themecolor:background1;
+  mso-border-left-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
+  background1;mso-border-themeshade:191;background:#F2F2F2;mso-background-themecolor:
+  background1;mso-background-themeshade:242;padding:0in 5.4pt 0in 5.4pt;
+  height:7.6pt" width="208"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-yfti-cnfc:64" align="center" class="MsoNormal"><b><span style="font-family:&quot;Lato&quot;,sans-serif">&nbsp;</span></b></p></td><td style="width:155.85pt;border-top:none;border-left:none;
+  border-bottom:solid #BFBFBF 1.0pt;mso-border-bottom-themecolor:background1;
+  mso-border-bottom-themeshade:191;border-right:solid #BFBFBF 1.0pt;mso-border-right-themecolor:
+  background1;mso-border-right-themeshade:191;mso-border-top-alt:solid #BFBFBF .5pt;
+  mso-border-top-themecolor:background1;mso-border-top-themeshade:191;
+  mso-border-left-alt:solid #BFBFBF .5pt;mso-border-left-themecolor:background1;
+  mso-border-left-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
+  background1;mso-border-themeshade:191;background:#F2F2F2;mso-background-themecolor:
+  background1;mso-background-themeshade:242;padding:0in 5.4pt 0in 5.4pt;
+  height:7.6pt" width="208"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-yfti-cnfc:64" align="center" class="MsoNormal"><b><span style="font-family:&quot;Lato&quot;,sans-serif">&nbsp;</span></b></p></td></tr><tr style="mso-yfti-irow:15;height:22.0pt"><td style="width:155.8pt;border:solid #BFBFBF 1.0pt;mso-border-themecolor:
+  background1;mso-border-themeshade:191;border-top:none;mso-border-top-alt:
+  solid #BFBFBF .5pt;mso-border-top-themecolor:background1;mso-border-top-themeshade:
+  191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:background1;
+  mso-border-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:22.0pt" width="208"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-yfti-cnfc:4" align="center" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif">Art</span></p></td><td style="width:155.85pt;border-top:none;border-left:none;
+  border-bottom:solid #BFBFBF 1.0pt;mso-border-bottom-themecolor:background1;
+  mso-border-bottom-themeshade:191;border-right:solid #BFBFBF 1.0pt;mso-border-right-themecolor:
+  background1;mso-border-right-themeshade:191;mso-border-top-alt:solid #BFBFBF .5pt;
+  mso-border-top-themecolor:background1;mso-border-top-themeshade:191;
+  mso-border-left-alt:solid #BFBFBF .5pt;mso-border-left-themecolor:background1;
+  mso-border-left-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
+  background1;mso-border-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:
+  22.0pt" width="208"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif">Art</span></p></td><td style="width:155.85pt;border-top:none;border-left:none;
+  border-bottom:solid #BFBFBF 1.0pt;mso-border-bottom-themecolor:background1;
+  mso-border-bottom-themeshade:191;border-right:solid #BFBFBF 1.0pt;mso-border-right-themecolor:
+  background1;mso-border-right-themeshade:191;mso-border-top-alt:solid #BFBFBF .5pt;
+  mso-border-top-themecolor:background1;mso-border-top-themeshade:191;
+  mso-border-left-alt:solid #BFBFBF .5pt;mso-border-left-themecolor:background1;
+  mso-border-left-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
+  background1;mso-border-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:
+  22.0pt" width="208"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif">Art</span></p></td></tr><tr style="mso-yfti-irow:16;height:22.0pt"><td style="width:155.8pt;border:solid #BFBFBF 1.0pt;mso-border-themecolor:
+  background1;mso-border-themeshade:191;border-top:none;mso-border-top-alt:
+  solid #BFBFBF .5pt;mso-border-top-themecolor:background1;mso-border-top-themeshade:
+  191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:background1;
+  mso-border-themeshade:191;background:#F2F2F2;mso-background-themecolor:background1;
+  mso-background-themeshade:242;padding:0in 5.4pt 0in 5.4pt;height:22.0pt" width="208"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-yfti-cnfc:68" align="center" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">Design and Technology</span><span style="font-family:&quot;Lato&quot;,sans-serif"></span></p></td><td style="width:155.85pt;border-top:none;border-left:none;
+  border-bottom:solid #BFBFBF 1.0pt;mso-border-bottom-themecolor:background1;
+  mso-border-bottom-themeshade:191;border-right:solid #BFBFBF 1.0pt;mso-border-right-themecolor:
+  background1;mso-border-right-themeshade:191;mso-border-top-alt:solid #BFBFBF .5pt;
+  mso-border-top-themecolor:background1;mso-border-top-themeshade:191;
+  mso-border-left-alt:solid #BFBFBF .5pt;mso-border-left-themecolor:background1;
+  mso-border-left-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
+  background1;mso-border-themeshade:191;background:#F2F2F2;mso-background-themecolor:
+  background1;mso-background-themeshade:242;padding:0in 5.4pt 0in 5.4pt;
+  height:22.0pt" width="208"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-yfti-cnfc:64" align="center" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">Design and Technology</span><span style="font-family:&quot;Lato&quot;,sans-serif"></span></p></td><td style="width:155.85pt;border-top:none;border-left:none;
+  border-bottom:solid #BFBFBF 1.0pt;mso-border-bottom-themecolor:background1;
+  mso-border-bottom-themeshade:191;border-right:solid #BFBFBF 1.0pt;mso-border-right-themecolor:
+  background1;mso-border-right-themeshade:191;mso-border-top-alt:solid #BFBFBF .5pt;
+  mso-border-top-themecolor:background1;mso-border-top-themeshade:191;
+  mso-border-left-alt:solid #BFBFBF .5pt;mso-border-left-themecolor:background1;
+  mso-border-left-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
+  background1;mso-border-themeshade:191;background:#F2F2F2;mso-background-themecolor:
+  background1;mso-background-themeshade:242;padding:0in 5.4pt 0in 5.4pt;
+  height:22.0pt" width="208"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-yfti-cnfc:64" align="center" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">Design and Technology</span><span style="font-family:&quot;Lato&quot;,sans-serif"></span></p></td></tr><tr style="mso-yfti-irow:17;height:22.0pt"><td style="width:155.8pt;border:solid #BFBFBF 1.0pt;mso-border-themecolor:
+  background1;mso-border-themeshade:191;border-top:none;mso-border-top-alt:
+  solid #BFBFBF .5pt;mso-border-top-themecolor:background1;mso-border-top-themeshade:
+  191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:background1;
+  mso-border-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:22.0pt" width="208"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-yfti-cnfc:4" align="center" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif">Music</span></p></td><td style="width:155.85pt;border-top:none;border-left:none;
+  border-bottom:solid #BFBFBF 1.0pt;mso-border-bottom-themecolor:background1;
+  mso-border-bottom-themeshade:191;border-right:solid #BFBFBF 1.0pt;mso-border-right-themecolor:
+  background1;mso-border-right-themeshade:191;mso-border-top-alt:solid #BFBFBF .5pt;
+  mso-border-top-themecolor:background1;mso-border-top-themeshade:191;
+  mso-border-left-alt:solid #BFBFBF .5pt;mso-border-left-themecolor:background1;
+  mso-border-left-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
+  background1;mso-border-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:
+  22.0pt" width="208"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif">Music</span></p></td><td style="width:155.85pt;border-top:none;border-left:none;
+  border-bottom:solid #BFBFBF 1.0pt;mso-border-bottom-themecolor:background1;
+  mso-border-bottom-themeshade:191;border-right:solid #BFBFBF 1.0pt;mso-border-right-themecolor:
+  background1;mso-border-right-themeshade:191;mso-border-top-alt:solid #BFBFBF .5pt;
+  mso-border-top-themecolor:background1;mso-border-top-themeshade:191;
+  mso-border-left-alt:solid #BFBFBF .5pt;mso-border-left-themecolor:background1;
+  mso-border-left-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
+  background1;mso-border-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:
+  22.0pt" width="208"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif">Music</span></p></td></tr><tr style="mso-yfti-irow:18;height:22.0pt"><td style="width:467.5pt;border:solid #BFBFBF 1.0pt;
+  mso-border-themecolor:background1;mso-border-themeshade:191;border-top:none;
+  mso-border-top-alt:solid #BFBFBF .5pt;mso-border-top-themecolor:background1;
+  mso-border-top-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
+  background1;mso-border-themeshade:191;background:#F2F2F2;mso-background-themecolor:
+  background1;mso-background-themeshade:242;padding:0in 5.4pt 0in 5.4pt;
+  height:22.0pt" colspan="3" width="623"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-yfti-cnfc:68" align="center" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">Physical Education</span><span style="font-family:&quot;Lato&quot;,sans-serif"></span></p></td></tr><tr style="mso-yfti-irow:19;height:22.0pt"><td style="width:155.8pt;border:solid #BFBFBF 1.0pt;mso-border-themecolor:
+  background1;mso-border-themeshade:191;border-top:none;mso-border-top-alt:
+  solid #BFBFBF .5pt;mso-border-top-themecolor:background1;mso-border-top-themeshade:
+  191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:background1;
+  mso-border-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:22.0pt" width="208"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-yfti-cnfc:4" align="center" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif">1Innovation</span></p></td><td style="width:155.85pt;border-top:none;border-left:none;
+  border-bottom:solid #BFBFBF 1.0pt;mso-border-bottom-themecolor:background1;
+  mso-border-bottom-themeshade:191;border-right:solid #BFBFBF 1.0pt;mso-border-right-themecolor:
+  background1;mso-border-right-themeshade:191;mso-border-top-alt:solid #BFBFBF .5pt;
+  mso-border-top-themecolor:background1;mso-border-top-themeshade:191;
+  mso-border-left-alt:solid #BFBFBF .5pt;mso-border-left-themecolor:background1;
+  mso-border-left-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
+  background1;mso-border-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:
+  22.0pt" width="208"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif">1Excellence/1Passion</span></p></td><td style="width:155.85pt;border-top:none;border-left:none;
+  border-bottom:solid #BFBFBF 1.0pt;mso-border-bottom-themecolor:background1;
+  mso-border-bottom-themeshade:191;border-right:solid #BFBFBF 1.0pt;mso-border-right-themecolor:
+  background1;mso-border-right-themeshade:191;mso-border-top-alt:solid #BFBFBF .5pt;
+  mso-border-top-themecolor:background1;mso-border-top-themeshade:191;
+  mso-border-left-alt:solid #BFBFBF .5pt;mso-border-left-themecolor:background1;
+  mso-border-left-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
+  background1;mso-border-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:
+  22.0pt" width="208"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif">1Collaboration</span></p></td></tr><tr style="mso-yfti-irow:20;mso-yfti-lastrow:yes;height:22.0pt"><td style="width:155.8pt;border:solid #BFBFBF 1.0pt;mso-border-themecolor:
+  background1;mso-border-themeshade:191;border-top:none;mso-border-top-alt:
+  solid #BFBFBF .5pt;mso-border-top-themecolor:background1;mso-border-top-themeshade:
+  191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:background1;
+  mso-border-themeshade:191;background:#F2F2F2;mso-background-themecolor:background1;
+  mso-background-themeshade:242;padding:0in 5.4pt 0in 5.4pt;height:22.0pt" width="208"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-yfti-cnfc:68" align="center" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">1Care</span><span style="font-family:
+  &quot;Lato&quot;,sans-serif"></span></p></td><td style="width:155.85pt;border-top:none;border-left:none;
+  border-bottom:solid #BFBFBF 1.0pt;mso-border-bottom-themecolor:background1;
+  mso-border-bottom-themeshade:191;border-right:solid #BFBFBF 1.0pt;mso-border-right-themecolor:
+  background1;mso-border-right-themeshade:191;mso-border-top-alt:solid #BFBFBF .5pt;
+  mso-border-top-themecolor:background1;mso-border-top-themeshade:191;
+  mso-border-left-alt:solid #BFBFBF .5pt;mso-border-left-themecolor:background1;
+  mso-border-left-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
+  background1;mso-border-themeshade:191;background:#F2F2F2;mso-background-themecolor:
+  background1;mso-background-themeshade:242;padding:0in 5.4pt 0in 5.4pt;
+  height:22.0pt" width="208"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-yfti-cnfc:64" align="center" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">1Resilience</span><span style="font-family:&quot;Lato&quot;,sans-serif"></span></p></td><td style="width:155.85pt;border-top:none;border-left:none;
+  border-bottom:solid #BFBFBF 1.0pt;mso-border-bottom-themecolor:background1;
+  mso-border-bottom-themeshade:191;border-right:solid #BFBFBF 1.0pt;mso-border-right-themecolor:
+  background1;mso-border-right-themeshade:191;mso-border-top-alt:solid #BFBFBF .5pt;
+  mso-border-top-themecolor:background1;mso-border-top-themeshade:191;
+  mso-border-left-alt:solid #BFBFBF .5pt;mso-border-left-themecolor:background1;
+  mso-border-left-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
+  background1;mso-border-themeshade:191;background:#F2F2F2;mso-background-themecolor:
+  background1;mso-background-themeshade:242;padding:0in 5.4pt 0in 5.4pt;
+  height:22.0pt" width="208"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal;mso-yfti-cnfc:64" align="center" class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">1Creativity</span><span style="font-family:&quot;Lato&quot;,sans-serif"></span></p></td></tr></tbody></table>
