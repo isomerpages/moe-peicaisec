@@ -225,7 +225,7 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;" width="208">
-<p><a href="/files/Biology_3EXP_Sem12023.pdf">Biology</a><br><a href="/files/Chemistry_3EXP_Sem12023.pdf">Chemistry</a><br><a href="/files/Physics_3EXP_Sem12023.pdf">Physics</a><br><a href="/files/ScienceBiology_3EXP_Sem12023.pdf">Science Biology</a><br><a href="/files/ScienceChemistry_3EXP_Sem12023.pdf">Science Chemistry</a><br><a href="/files/SciencePhysics_3EXP_Sem12023.pdf">Science Physics</a></p>
+<p><a href="/files/Biology_3EXP_Sem12023.pdf">Biology</a><br><a href="/files/Chemistry_3EXP_Sem12023 v1.pdf">Chemistry</a><br><a href="/files/Physics_3EXP_Sem12023.pdf">Physics</a><br><a href="/files/ScienceBiology_3EXP_Sem12023.pdf">Science Biology</a><br><a href="/files/ScienceChemistry_3EXP_Sem12023.pdf">Science Chemistry</a><br><a href="/files/SciencePhysics_3EXP_Sem12023.pdf">Science Physics</a></p>
 </td>
 <td style="text-align: center;" width="208">
 <p><a href="/files/ScienceBiology_3NA_Sem12023.pdf">Science Biology</a><br><a href="/files/ScienceChemistry_3NA_Sem12023.pdf">Science Chemistry</a><br><a href="/files/SciencePhysics_3NA_Sem12023.pdf">Science Physics</a></p>
