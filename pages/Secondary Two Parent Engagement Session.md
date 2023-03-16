@@ -1,6 +1,6 @@
 ---
 title: Secondary Two Parent Engagement Session
-permalink: /others/secondary-two-parent-engagement-session
+permalink: /others/secondary-two-parent-engagement-session/
 description: ""
 ---
 <p>Dear parents/guardian,</p>

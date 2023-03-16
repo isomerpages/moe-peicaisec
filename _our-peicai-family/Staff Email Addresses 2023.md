@@ -691,6 +691,23 @@ description: ""
   padding:5.25pt 5.25pt 5.25pt 5.25pt" width="306"><p style="margin-bottom:0in;text-align:center;
   line-height:16.8pt" align="center" class="MsoNormal"><span style="font-size:10.5pt;mso-bidi-font-family:Calibri;
   mso-bidi-theme-font:minor-latin"><a href="mailto:ngern_yen_lee@moe.edu.sg"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;color:#4067AE">ngern_yen_lee@moe.edu.sg</span></a></span><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin;color:#222222"></span></p></td></tr><tr style="mso-yfti-irow:9"><td style="width:220.1pt;border:solid black 1.0pt;border-top:none;
+  mso-border-top-alt:solid black .75pt;mso-border-alt:solid black .75pt;
+  padding:5.25pt 5.25pt 5.25pt 5.25pt" width="293"><p style="margin-bottom:12.0pt;text-align:center;
+  line-height:16.8pt" align="center" class="MsoNormal"><span style="font-size:10.5pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
+  color:#222222">Nur Syirain Hamzah (Ms)</span></p></td><td style="width:1.75in;border-top:none;border-left:none;
+  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
+  solid black .75pt;mso-border-left-alt:solid black .75pt;mso-border-alt:solid black .75pt;
+  padding:5.25pt 5.25pt 5.25pt 5.25pt" width="168"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:10.5pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
+  color:#222222">1RE</span></p></td><td style="width:229.5pt;border-top:none;border-left:none;
+  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
+  solid black .75pt;mso-border-left-alt:solid black .75pt;mso-border-alt:solid black .75pt;
+  padding:5.25pt 5.25pt 5.25pt 5.25pt" width="306"><p style="margin-bottom:0in;text-align:center;
+  line-height:16.8pt" align="center" class="MsoNormal"><span style="font-size:10.5pt;mso-bidi-font-family:Calibri;
+  mso-bidi-theme-font:minor-latin"><a href="mailto:nur_syirain_hamzah@moe.edu.sg"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;color:#4067AE">nur_syirain_hamzah@moe.edu.sg</span></a></span><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
   Calibri;mso-bidi-theme-font:minor-latin;color:#222222"></span></p></td></tr><tr style="mso-yfti-irow:10"><td style="width:220.1pt;border:solid black 1.0pt;border-top:none;
   mso-border-top-alt:solid black .75pt;mso-border-alt:solid black .75pt;
   padding:5.25pt 5.25pt 5.25pt 5.25pt" width="293"><p style="margin-bottom:12.0pt;text-align:center;
@@ -854,6 +871,24 @@ description: ""
   line-height:16.8pt" align="center" class="MsoNormal"><span style="font-size:10.5pt;mso-bidi-font-family:Calibri;
   mso-bidi-theme-font:minor-latin"><a href="mailto:lim_lay_ting_jessica@moe.edu.sg"><span style="mso-fareast-font-family:
   &quot;Times New Roman&quot;;color:#4067AE">lim_lay_ting_jessica@moe.edu.sg</span></a></span><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin;color:#222222"></span></p></td></tr><tr style="mso-yfti-irow:18"><td style="width:220.1pt;border:solid black 1.0pt;border-top:none;
+  mso-border-top-alt:solid black .75pt;mso-border-alt:solid black .75pt;
+  padding:5.25pt 5.25pt 5.25pt 5.25pt" width="293"><p style="margin-bottom:0in;text-align:center;
+  line-height:16.8pt" align="center" class="MsoNormal"><span style="font-size:10.5pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
+  color:#222222">Chia Ying (Ms)</span></p></td><td style="width:1.75in;border-top:none;border-left:none;
+  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
+  solid black .75pt;mso-border-left-alt:solid black .75pt;mso-border-alt:solid black .75pt;
+  padding:5.25pt 5.25pt 5.25pt 5.25pt" width="168"><p style="margin-bottom:0in;text-align:center;
+  line-height:16.8pt" align="center" class="MsoNormal"><span style="font-size:10.5pt;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
+  color:#222222">2B1</span></p></td><td style="width:229.5pt;border-top:none;border-left:none;
+  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
+  solid black .75pt;mso-border-left-alt:solid black .75pt;mso-border-alt:solid black .75pt;
+  padding:5.25pt 5.25pt 5.25pt 5.25pt" width="306"><p style="margin-bottom:0in;text-align:center;
+  line-height:16.8pt" align="center" class="MsoNormal"><span style="font-size:10.5pt;mso-bidi-font-family:Calibri;
+  mso-bidi-theme-font:minor-latin"><a href="mailto:chia_ying@moe.ed.sg"><span style="mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#4067AE">chia_ying@moe.ed.sg</span></a></span><span style="font-size:10.5pt;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
   Calibri;mso-bidi-theme-font:minor-latin;color:#222222"></span></p></td></tr><tr style="mso-yfti-irow:19"><td style="width:220.1pt;border:solid black 1.0pt;border-top:none;
   mso-border-top-alt:solid black .75pt;mso-border-alt:solid black .75pt;
   padding:5.25pt 5.25pt 5.25pt 5.25pt" width="293"><p style="margin-bottom:0in;text-align:center;

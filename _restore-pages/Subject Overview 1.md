@@ -1,6 +1,6 @@
 ---
 title: Subject Overview 1
-permalink: /academic/SubjectOverview1/
+permalink: /academic/subjectoverview1/
 description: ""
 ---
 

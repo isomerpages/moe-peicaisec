@@ -1,5 +1,5 @@
 ---
 title: CCAs
-permalink: /co-curricular-activities/ccas
+permalink: /co-curricular-activities/ccas/
 description: ""
 ---

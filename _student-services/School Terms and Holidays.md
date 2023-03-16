@@ -1,6 +1,6 @@
 ---
 title: School Terms and Holidays
-permalink: /student-services/school-terms-and-holidays
+permalink: /student-services/school-terms-and-holidays/
 description: ""
 ---
 <h4><strong>School Terms for 2022</strong></h4>

@@ -1,6 +1,6 @@
 ---
 title: T&L Microsite (for Students)
-permalink: /student-services/TL-Microsite-for-Students/
+permalink: /student-services/tl-microsite-for-students/
 description: ""
 ---
 
