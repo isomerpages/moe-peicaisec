@@ -209,7 +209,7 @@ description: ""
 <p><a href="/files/Chinese Language_3NA_Sem12023v1.pdf">Chinese</a><br><a href="/files/Chinese%20Language_3CLB_Sem12023.pdf">Chinese Syllabus B</a><br><a href="/files/Malay%20Language_3NA_Sem12023.pdf">Malay</a></p>
 </td>
 <td style="text-align: center;" width="208">
-<p><a href="/files/Chinese%20Language_3NT_Sem12023.pdf">Basic Chinese</a><br><a href="/files/Malay%20Language_3NT_Sem12023.pdf">Basic Malay</a></p>
+<p><a href="/files/Chinese Language_3NT_Sem12023v1.pdf">Basic Chinese</a><br><a href="/files/Malay%20Language_3NT_Sem12023.pdf">Basic Malay</a></p>
 </td>
 </tr>
 <tr>
