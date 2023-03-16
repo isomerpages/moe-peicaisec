@@ -3,7 +3,6 @@ title: Subject Overviews
 permalink: /academic/subject-overviews/
 description: ""
 ---
-
 <h4><strong>Semester One 2023</strong></h4>
 <p>Please click on each link to access the subject overview of each subject for Semester One 2023.</p>
 <p>Do note that the subject overviews are tentative and subject to changes.</p>
@@ -34,7 +33,7 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;" width="208">
-<p><a href="/files/Chinese%20Language_1Exp_Sem12023.pdf">Chinese</a><br><a href="/files/Chinese%20Language_1HCL_Sem12023.pdf">Higher Chinese</a><br><a href="/files/Malay%20Language_1EXP_Sem%2012023.pdf">Malay</a></p>
+<p><a href="/files/Chinese Language_1Exp_Sem12023v1.pdf">Chinese</a><br><a href="/files/Chinese%20Language_1HCL_Sem12023.pdf">Higher Chinese</a><br><a href="/files/Malay%20Language_1EXP_Sem%2012023.pdf">Malay</a></p>
 </td>
 <td style="text-align: center;" width="208">
 <p><a href="/files/Chinese%20Language_1NA_Sem12023.pdf">Chinese</a><br><a href="/files//Malay%20Language_1NA_Sem12023.pdf">Malay</a></p>
