@@ -2,9 +2,9 @@ collections:
   academic:
     output: true
     order:
-      - Subject Overviews.md
       - Subjects offered.md
       - Full Subject Based Banding (FSBB).md
+      - Subject Overviews.md
       - Blended Learning/.keep
       - Blended Learning/Blended Learning.md
       - Blended Learning/For Students.md
