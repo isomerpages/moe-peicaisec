@@ -214,7 +214,7 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;" width="208">
-<p><a href="/files/Add Math_3Exp_Sem v12023.pdf">Additional Mathematics</a><br><a href="/files/Math_3%20Exp_Sem12023.pdf">Mathematics</a></p>
+<p><a href="/files/Add Math_3Exp_Sem v12023.pdf">Additional Mathematics</a><br><a href="/files/Math_3 Exp_Sem v12023.pdf">Mathematics</a></p>
 </td>
 <td style="text-align: center;" width="208">
 <p><a href="/files/AddMath_3NA_Sem v12023.pdf">Additional Mathematics</a><br><a href="/files/Math_3NA_Sem12023.pdf">Mathematics</a></p>
