@@ -33,7 +33,7 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;" width="208">
-<p><a href="/files/Chinese Language_1Exp_Sem12023v1.pdf">Chinese</a><br><a href="/files/Chinese Language_1HCL_Sem12023v1.pdf">Higher Chinese</a><br><a href="/files/Malay Language_1EXP_Sem 12023v1.pdf">Malay</a></p>
+<p><a href="/files/Chinese Language_1Exp_Sem12023v1.pdf">Chinese</a><br><a href="/files/Chinese Language_1CLB_Sem12023v1.pdf">Chinese Syllabus B</a><br><a href="/files/Chinese Language_1HCL_Sem12023v1.pdf">Higher Chinese</a><br><a href="/files/Malay Language_1EXP_Sem 12023v1.pdf">Malay</a></p>
 </td>
 <td style="text-align: center;" width="208">
 <p><a href="/files/Chinese Language_1NA_Sem12023v1.pdf">Chinese</a><br><a href="/files//Malay Language_1NA_Sem12023v1.pdf">Malay</a></p>
