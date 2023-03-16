@@ -110,7 +110,7 @@ description: ""
 <p><a href="/files/English%20Language_2EXP_Sem1%202023.pdf">English Language</a><br><a href="/files/Literature_2EXP Subject Overview_v1.pdf">English Literature</a></p>
 </td>
 <td style="text-align: center;" width="208">
-<p><a href="/files/English%20Language_2NA_Sem1%202023.pdf">English Language</a><br><a href="/files/Literature_2NA%20Subject%20Overview.pdf">English Literature</a></p>
+<p><a href="/files/English%20Language_2NA_Sem1%202023.pdf">English Language</a><br><a href="/files/Literature_2NA Subject Overview_v1.pdf">English Literature</a></p>
 </td>
 <td style="text-align: center;" width="208">
 <p><a href="/files/English%20Language_2NT_Sem1%202023.pdf">English Language</a></p>
