@@ -118,7 +118,7 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;" width="208">
-<p><a href="/files/Chinese Language_2Exp_Sem12023v1.pdf">Chinese</a><br><a href="/files/Malay%20Language_2EXP_Sem12023.pdf">Malay</a></p>
+<p><a href="/files/Chinese Language_2Exp_Sem12023v1.pdf">Chinese</a><br><a href="/files/Malay Language_2EXP_Sem 12023v1.pdf">Malay</a></p>
 </td>
 <td style="text-align: center;" width="208">
 <p><a href="/files/Chinese Language_2NA_Sem12023v1.pdf">Chinese</a><br><a href="/files/Malay%20Language_2NA_Sem12023.pdf">Malay</a></p>
