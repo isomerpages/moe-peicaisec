@@ -36,7 +36,7 @@ description: ""
 <p><a href="/files/Chinese Language_1Exp_Sem12023v1.pdf">Chinese</a><br><a href="/files/Chinese Language_1HCL_Sem12023v1.pdf">Higher Chinese</a><br><a href="/files/Malay Language_1EXP_Sem 12023v1.pdf">Malay</a></p>
 </td>
 <td style="text-align: center;" width="208">
-<p><a href="/files/Chinese Language_1NA_Sem12023v1.pdf">Chinese</a><br><a href="/files//Malay%20Language_1NA_Sem12023.pdf">Malay</a></p>
+<p><a href="/files/Chinese Language_1NA_Sem12023v1.pdf">Chinese</a><br><a href="/files//Malay Language_1NA_Sem12023v1.pdf">Malay</a></p>
 </td>
 <td style="text-align: center;" width="208">
 <p><a href="/files/Chinese Language_1NT_Sem12023v1.pdf">Basic Chinese</a><br><a href="/files/Malay%20Language_1NT_Sem12023.pdf">Basic Malay</a></p>
