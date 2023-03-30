@@ -160,7 +160,7 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;" width="208">
-<p><a href="/files/Art_Sec2_v1.pdf">Art</a><br><a href="/files/2023%20Subject%20Overview_Sec%202%20Exp.pdf">Food and Consumer Education</a><br><a href="/files/Music_Sec2_Sem 12023_v1.pdf">Music</a></p>
+<p><a href="/files/Art_Sec2_v1.pdf">Art</a><br><a href="/files/FCE_2Exp_v1.pdf">Food and Consumer Education</a><br><a href="/files/Music_Sec2_Sem 12023_v1.pdf">Music</a></p>
 </td>
 <td style="text-align: center;" width="208">
 <p><a href="/files/Art_Sec2_v1.pdf">Art</a><br><a href="/files/2023%20Subject%20Overview_Sec%202%20NA.pdf">Food and Consumer Education</a><br><a href="/files/Music_Sec2_Sem 12023_v1.pdf">Music</a></p>
