@@ -21,7 +21,7 @@ third_nav_title: Student Leadership (SL)
 </tr>
 <tr>
 <td width="219">Tan Sheng Ting Heidi</td>
-<td width="219">Subject Head (Student Leadership) &ndash; internal</td>
+<td width="219">Subject Head (Student Leadership) – internal</td>
 </tr>
 <tr>
 <td width="219">Leong Yong Lee Kelvin</td>
