@@ -7,9 +7,9 @@ third_nav_title: Student Leadership (SL)
 <table>
 <tbody>
 <tr>
-<th><img src="images/sl1.png"></th>
-<td><img src="images/sl2.png"></td>
-</tr>
+<th><img src="/images/student leadership1.jpg" style="width: 100%;"><br>	
+</th><td><img src="/images/student leadership12.jpg" style="width: 100%;"><br>	
+</td></tr>
 </tbody>
 </table>
 <h4><strong>The Team</strong></h4>
