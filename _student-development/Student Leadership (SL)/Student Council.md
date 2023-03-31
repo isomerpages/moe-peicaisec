@@ -67,7 +67,7 @@ third_nav_title: Student Leadership (SL)
 </table>
 <table>
 <tbody>
-	<tr>
+<tr>
 <th><img src="/images/tls1tls1.jpg" style="width: 100%;"><br>	
 </th><td><img src="/images/tls2tls2.jpg" style="width: 100%;"><br>	
 </td></tr>
