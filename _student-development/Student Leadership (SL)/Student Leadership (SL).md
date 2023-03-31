@@ -24,23 +24,39 @@ third_nav_title: Student Leadership (SL)
 <td width="219">Subject Head (Student Leadership) – internal</td>
 </tr>
 <tr>
+<td width="219">Alvin Yeo (Mr)</td>
+<td width="219">Subject Head (PE/CCA)</td>
+</tr>
+<tr>
+<td width="219">Arista Pang (Ms)</td>
+<td width="219">Teacher-in-Charge</td>
+</tr>
+<tr>
+<td width="219">Jonas Choo (Mr)</td>
+<td width="219">Teacher-in-Charge</td>
+</tr>
+<tr>
+<td width="219">Leong Yong Lee Kelvin (Mr)</td>
+<td width="219">Teacher-in-Charge</td>
+</tr>
+<tr>
 <td width="219">Leong Yong Lee Kelvin</td>
 <td width="219">Teacher-in-Charge</td>
 </tr>
 <tr>
-<td width="219">Low Ching Kai</td>
+<td width="219">Low Ching Kai (Mr)</td>
 <td width="219">Teacher-in-Charge</td>
 </tr>
 <tr>
-<td width="219">Ophelia Kee</td>
+<td width="219">Ophelia Kee (Ms)</td>
 <td width="219">Teacher-in-Charge</td>
 </tr>
 <tr>
-<td width="219">Tan Khay Yi Sarah</td>
+<td width="219">Rachel Huang (Ms)</td>
 <td width="219">Teacher-in-Charge</td>
 </tr>
 <tr>
-<td width="219">Wong Jiun Ching</td>
+<td width="219">Tan Khay Yi Sarah (Ms)</td>
 <td width="219">Teacher-in-Charge</td>
 </tr>
 </tbody>
