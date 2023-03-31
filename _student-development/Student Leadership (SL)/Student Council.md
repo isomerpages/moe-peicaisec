@@ -34,7 +34,7 @@ third_nav_title: Student Leadership (SL)
 <p></p><p align="justify">On top of our termly Student Council Pow Wows, most of our trainings are on-job trainings, whereby Student Councillors learn as they serve and get involved in various school events (e.g. Teachers’ Day, Sec One Orientation Camp, Student Leaders Investiture, etc.).</p><br>
 <b>Student Leaders leading Sec One Orientation</b><br>
 <img src="/images/sooc001.png" style="width: %;"><br>
-<b>
+<b>Councillors in action leading the Embracing Diversity programme for Sec 1 students, teaching them to understand various learning needs</b><br>
 <p></p><p align="justify">The Student Council also organises specific trainings to level the leadership competencies of our Student Councillors – Public Speaking Skills, Facilitation Skills, and Project Management Skills.</p>
 <p></p><p align="justify">Beyond being able to deepen their leadership competencies through organising school-based projects and events, our Student Councillors are involved in Community Outreach and Service to the community too. Our Sec 2 Students Councillors take part in the KidsREAD programme initiated by the National Library Bord, in collaboration with MOE. This programme hopes to promote&nbsp;the love of reading and cultivate good reading habits among young Singaporeans, specifically children from less privileged families. The Councillors step out of their comfort zones to reach out to Primary School children, engaging them through storybooks and interactive activities.&nbsp;</p>
 <h4><strong>2022 Student Council Executive Committee</strong></h4>
@@ -107,4 +107,4 @@ third_nav_title: Student Leadership (SL)
 <li><a href="/student-development/student-leadership-sl/student-council/2019-student-council">2019 - Student Council</a></li>
 <li><a href="/student-development/student-leadership-sl/student-council/2020-student-council">2020 - Student Council</a></li>
 <li><a href="/student-development/student-leadership-sl/student-council/2021-student-council">2021 - Student Council</a></li>
-</ul></b>
+</ul>
