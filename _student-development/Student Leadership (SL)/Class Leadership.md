@@ -16,6 +16,14 @@ third_nav_title: Student Leadership (SL)
 </td></tr>
 </tbody>
 </table>
+<h4><strong>Class Committee Investiture 2023</strong></h4><br>
+<table>
+<tbody>
+<tr>
+
+</tr>
+</tbody>
+</table>
 <h4><strong>Class Leaders Investiture 2021</strong></h4>
 <p></p><p align="justify">As a school, we prioritise the role that the Class Leaders play for their class and for their classmates. As such, we accord the Class Leaders due recognition with the Class Leaders Investiture. The entire class comes together to witness the appointment of their Class Leaders - it is a public declaration of the responsibilities and the mantle placed on the shoulders of these leaders.</p>
 <div></div>
