@@ -60,8 +60,16 @@ third_nav_title: Student Leadership (SL)
 <table>
 <tbody>
 <tr>
-<th><img src="/images/.jpg" style="width: 100%;"><br>	
-</th><td><img src="/images/.jpg" style="width: 100%;"><br>	
+<th><img src="/images/tls1tls1.jpg" style="width: 100%;"><br>	
+</th><td><img src="/images/tls2tls2.jpg" style="width: 100%;"><br>	
+</td></tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<th><img src="/images/tls3tls3copy.jpg" style="width: 100%;"><br>	
+</th><td><img src="/images/tls4tls4 copy.jpg" style="width: 100%;"><br>	
 </td></tr>
 </tbody>
 </table>
