@@ -12,6 +12,8 @@ third_nav_title: Student Leadership (SL)
 </td></tr>
 </tbody>
 </table>
+<b>Class Leadership </b>
+<p>The Class Leaders of Peicai Secondary School are representatives of each class chosen to serve a pivotal role in the school’s ecosystem of care. They serve two main groups of people – their class and their classmates.</p>
 <h4><strong>The Team</strong></h4>
 <table width="439">
 <tbody>
