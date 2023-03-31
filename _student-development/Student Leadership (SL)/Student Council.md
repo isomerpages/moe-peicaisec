@@ -40,7 +40,22 @@ third_nav_title: Student Leadership (SL)
 <img src="/images/kidsread.jpg" style="width: %;"><br>
 <p>In addition, selected Student Councillors get a chance to participate in Leadership programmes and seminars in other schools, such as Y.LEAD organized by River Valley High School, and Temasek Leadership Showdown, organized by Temasek Junior College. Through these programmes, Student Councillors get to network, interact, and learn the best practices of Student Leaders from different schools. </p>
 <b>Student Councillors in Y.LEAD 2022</b><br>
-
+<table>
+<tbody>
+<tr>
+<th><img src="/images/ylead1.jpg" style="width: 100%;"><br>	
+</th><td><img src="/images/ylead2.jpg" style="width: 100%;"><br>	
+</td></tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<th><img src="/images/ylead3copy.jpg" style="width: 100%;"><br>	
+</th><td><img src="/images/ylead4.jpg" style="width: 100%;"><br>	
+</td></tr>
+</tbody>
+</table>
 
 <h4><strong>2022 Student Council Executive Committee</strong></h4>
 <table style="margin-left: auto; margin-right: auto;" width="439">
