@@ -56,6 +56,15 @@ third_nav_title: Student Leadership (SL)
 </td></tr>
 </tbody>
 </table>
+<b>Student Councillors in Temasek Leadership Showdown 2022</b>
+<table>
+<tbody>
+<tr>
+<th><img src="/images/.jpg" style="width: 100%;"><br>	
+</th><td><img src="/images/.jpg" style="width: 100%;"><br>	
+</td></tr>
+</tbody>
+</table>
 <h4><strong>2022 Student Council Executive Committee</strong></h4>
 <table style="margin-left: auto; margin-right: auto;" width="439">
 <tbody>
