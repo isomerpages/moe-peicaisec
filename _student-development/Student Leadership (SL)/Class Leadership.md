@@ -29,6 +29,17 @@ third_nav_title: Student Leadership (SL)
 <img src="/images/ccinvestiture10.png" style="width: 100%;"><br>
 <img src="/images/ccinvestiture11.png" style="width: 100%;"><br>
 <img src="/images/ccinvestiture12.png" style="width: 100%;"><br>
-<h4><strong>Class Leaders Investiture 2021</strong></h4>
-<p></p><p align="justify">As a school, we prioritise the role that the Class Leaders play for their class and for their classmates. As such, we accord the Class Leaders due recognition with the Class Leaders Investiture. The entire class comes together to witness the appointment of their Class Leaders - it is a public declaration of the responsibilities and the mantle placed on the shoulders of these leaders.</p>
+<h4><strong>Class Leaders Investiture </strong></h4>
+<p></p><p align="justify">The Class Leaders of Peicai Secondary School are representatives of each class chosen to serve a pivotal role in the school’s ecosystem of care. They serve two main groups of people – their class and their classmates.<br><br>
+For their class, they support their Form Teachers with the day-to-day to operations of their class in a myriad of tasks like building class spirit and collegiality.<br><br>
+For their classmates, they are trained in peer supporting strategies and are tasked to continually look out for their classmates. Equipped with cyber-wellness advocacy and peer mediating competencies, the Class Leaders are front-liners in any peer-to-peer issues in the class. And in doing so, they actively shape the dynamics of the school towards a positive and caring climate.<br><br>
+The class leaders undergo a series of trainings and mentoring, which is aligned to Kouzes and Posner’s Student Leadership Challenge model, to equip them with the skills and competencies to lead and support their classmates. <br><br>
+</p><p><b> Class Leaders Trainings:</b></p>
+
+
+
+
+
+
+<p></p>
 <div></div>
