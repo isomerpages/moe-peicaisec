@@ -60,7 +60,4 @@ Chosen by their CCA teachers because they are the expert craftsmen of their resp
 <th><img src="/images/cl class1.png" style="width: 100%;"><br>	
 </th>	
 </tr>
-</tbody>
-
-
-</table>
+</tbody></table>
