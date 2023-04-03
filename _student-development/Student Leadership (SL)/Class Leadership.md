@@ -51,8 +51,15 @@ The class leaders undergo a series of trainings and mentoring, which is aligned 
 </th><td><img src="/images/clt frame.png" style="width: 100%;"><br>	
 </td></tr>
 </tbody>
+</table><hr>
+<br><table>
+<tbody>
+<tr>
+<th><img src="/images/cl class1.png" style="width: 100%;"><br>	
+</th>	
+</tr>
+</tbody>
 </table>
-
 
 
 
