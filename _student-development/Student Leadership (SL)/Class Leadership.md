@@ -12,7 +12,7 @@ third_nav_title: Student Leadership (SL)
 <tbody>
 <tr>
 <th><img src="/images/Student leadership 6.jpg" style="width: 100%;"><br>	
-</th><td><img src="/images/Student leadership 7.jpg" style="width: 90%;"><br>	
+</th><td><img src="/images/Student leadership 7.jpg" style="width: 90%;"><br>
 </td></tr>
 </tbody>
 </table>
