@@ -73,9 +73,8 @@ third_nav_title: Student Leadership (SL)
 </td></tr>
 </tbody>
 </table>
+<p>_____________________________________________________________________________________________________
 <table>
-<tbody>
-	</tbody></table><table>
 <tbody>
 <tr>
 <th><img src="/images/ed1ed11.jpg" style="width: 100%;"><br>	
@@ -85,7 +84,7 @@ third_nav_title: Student Leadership (SL)
 </table>
 
 
-<h4><strong>2022 Student Council Executive Committee</strong></h4>
+</p><h4><strong>2022 Student Council Executive Committee</strong></h4>
 <table style="margin-left: auto; margin-right: auto;" width="439">
 <tbody>
 <tr>
