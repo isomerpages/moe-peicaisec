@@ -4,7 +4,7 @@ permalink: /latestnews/
 description: ""
 ---
 <h4><strong>3v3 mBot Football Challenge</strong></h4>
-<img src="/images/3v3 mbot football challenge.png" alt="...">
+<img src="/images/3v3 mbot football challenge.png" style="width: 80%;"><br>
 	
 	
 
