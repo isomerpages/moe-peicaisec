@@ -3,17 +3,26 @@ title: Latest News
 permalink: /latestnews/
 description: ""
 ---
-**2023 Semester One**<br>
-
-<B>1. 4NT SGC Collection Slots Booking</B><a href="https://docs.google.com/forms/d/e/1FAIpQLSf30HhoPsCMq1RTcsKuMk5O2zyfjjJqO9xLUY08kEkrg_JXvQ/viewform " target="_blank" rel="noopener">Click Here</a>
-
-<b>2. Bus Captain Appreciation by Sec 3 Cohort</b><br/><br/>
-<img style="width: %;" src="/images/Bus Captain Appreciation by Sec 3 Cohort.jpg" /><br>
-
-<B>3. Nominate your Teachers for the President's Award for Teachers! </B>
-
-![](/images/Slide1%20copy.jpg)
-
-<B>4. Nominate your teachers for the Outstanding Youth in Education Award! </B>
-
-![](/images/Slide2%20copy.jpg)
+<h4><strong>3v3 mBot Football Challenge</strong></h4>
+<style>
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
+img:hover {
+  box-shadow: 0 0 2px 1px rgba(43, 36, 36, 1);
+}
+</style>
+<table>
+<tbody>
+<tr>
+<th><a href="/images/3v3 mbot football challenge.png" target="_blank" rel="noreferrer noopener"><img style="width:80%;" src="/images/3v3 mbot football challenge.png"></a><br></th>
+<td><a href="/images/mbot 3v3 poster1.jpg" target="_blank" rel="noreferrer noopener"><img style="width: 80%;" src="/images/mbot 3v3 poster1.jpg"></a><br></td>
+</tr></tbody>
+</table>
+<hr>
+	
+<b>4NT SGC Collection Slots Booking</b><a href="https://docs.google.com/forms/d/e/1FAIpQLSf30HhoPsCMq1RTcsKuMk5O2zyfjjJqO9xLUY08kEkrg_JXvQ/viewform" target="_blank" rel="noopener">Click Here</a>
+<hr>
