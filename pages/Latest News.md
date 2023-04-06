@@ -5,7 +5,9 @@ description: ""
 ---
 <h4><strong>3v3 mBot Football Challenge</strong></h4>
 <img src="/images/3v3 mbot football challenge.png" style="width: 70%;"><br>
-	
+	    <a rel="noreferrer noopener" target="_blank" href="/images/3v3 mbot football challenge.png">
+       <img src="/images/3v3 mbot football challenge.png">
+    </a>
 	
 
 	
