@@ -18,7 +18,7 @@ img:hover {
 <table>
 <tbody>
 <tr>
-<th><a href="/images/3v3 mbot football challenge.png" target="_blank" rel="noreferrer noopener"><img style="width: 94%;" src="/images/3v3 mbot football challenge.png"></a><br></th>
+<th><a href="/images/3v3 mbot football challenge.png" target="_blank" rel=""><img style="width: 94%;" src="/images/3v3 mbot football challenge.png"></a><br></th>
 <td><a href="/images/mbot 3v3 poster.jpg" target="_blank" rel="noreferrer noopener"><img style="width: 60%;" src="/images/mbot 3v3 poster.jpg"><br></a></td>
 </tr></tbody>
 </table>
