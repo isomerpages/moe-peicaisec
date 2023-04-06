@@ -15,11 +15,11 @@ img:hover {
   box-shadow: 0 0 2px 1px rgba(43, 36, 36, 1);
 }
 </style>
-<br><table>
+<table>
 <tbody>
 <tr>
 <th><a href="/images/3v3 mbot football challenge.png" target="_blank" rel="noreferrer noopener"><img style="width:80%;" src="/images/3v3 mbot football challenge.png"></a><br></th>
-<td><a href="/images/mbot 3v3 poster1.jpg" target="_blank" rel="noreferrer noopener"><img style="width: 80%;" src="/images/mbot 3v3 poster1.jpg"></a></td>
+<td><a href="/images/mbot 3v3 poster1.jpg" target="_blank" rel="noreferrer noopener"><img style="width: 80%;" src="/images/mbot 3v3 poster1.jpg"><br></a></td>
 </tr></tbody>
 </table>
 <hr>
