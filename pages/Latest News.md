@@ -3,15 +3,33 @@ title: Latest News
 permalink: /latestnews/
 description: ""
 ---
+
+
+
+<style>
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
+
+img:hover {
+  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+</style>
+
+
+
 <h4><strong>3v3 mBot Football Challenge</strong></h4>
 <table>
 <tbody>
 <tr>
-<th><a rel="noreferrer noopener" target="_blank" href="/images/3v3 mbot football challenge.png"><img src="/images/3v3 mbot football challenge.png" style="width: 94%;"></a><br></th>
-<td><a rel="noreferrer noopener" target="_blank" href="/images/mbot 3v3 poster.jpg"><img src="/images/mbot 3v3 poster.jpg" style="width: 60%;"><br></a></td>
+<th><a href="/images/3v3 mbot football challenge.png" target="_blank" rel="noreferrer noopener"><img style="width: 94%;" src="/images/3v3 mbot football challenge.png"></a><br></th>
+<td><a href="/images/mbot 3v3 poster.jpg" target="_blank" rel="noreferrer noopener"><img style="width: 60%;" src="/images/mbot 3v3 poster.jpg"><br></a></td>
 </tr></tbody>
 </table>
 <hr>
 	
-<b>4NT SGC Collection Slots Booking</b><a rel="noopener" target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSf30HhoPsCMq1RTcsKuMk5O2zyfjjJqO9xLUY08kEkrg_JXvQ/viewform">Click Here</a>
+<b>4NT SGC Collection Slots Booking</b><a href="https://docs.google.com/forms/d/e/1FAIpQLSf30HhoPsCMq1RTcsKuMk5O2zyfjjJqO9xLUY08kEkrg_JXvQ/viewform" target="_blank" rel="noopener">Click Here</a>
 <hr>
