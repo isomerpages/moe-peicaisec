@@ -4,15 +4,12 @@ permalink: /latestnews/
 description: ""
 ---
 <h4><strong>3v3 mBot Football Challenge</strong></h4>
-<img src="/images/3v3 mbot football challenge.png" style="width: 70%;"><br>
-	    <a rel="noreferrer noopener" target="_blank" href="/images/3v3 mbot football challenge.png">
-       <img src="/images/3v3 mbot football challenge.png">
-    </a>
-	
+<table>
+<tbody>
+<tr>
+<th><a rel="noreferrer noopener" target="_blank" href="/images/3v3 mbot football challenge.png"><img src="/images/3v3 mbot football challenge.png" style="width: 60%;"></a><br></th><td><a rel="noreferrer noopener" target="_blank" href="/images/3v3 mbot football challenge.png"><img src="/images/3v3 mbot football challenge.png" style="width: 60%;"><br></a></td></tr>
+</tbody>
+</table>
 
-	
-	
-	
-	
 	
 <b>2. 4NT SGC Collection Slots Booking</b><a rel="noopener" target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSf30HhoPsCMq1RTcsKuMk5O2zyfjjJqO9xLUY08kEkrg_JXvQ/viewform">Click Here</a>
