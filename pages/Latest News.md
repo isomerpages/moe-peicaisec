@@ -3,9 +3,6 @@ title: Latest News
 permalink: /latestnews/
 description: ""
 ---
-
-
-
 <style>
 img {
   border: 1px solid #ddd;
@@ -18,8 +15,6 @@ img:hover {
   box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
 }
 </style>
-
-
 
 <h4><strong>3v3 mBot Football Challenge</strong></h4>
 <table>
