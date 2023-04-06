@@ -2,5 +2,6 @@ collections:
   media:
     output: true
     order:
+      - School Events 2022.md
       - Media.md
       - School Events 2023.md
