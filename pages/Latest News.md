@@ -11,7 +11,7 @@ img {
   width: 150px;
 }
 img:hover {
-  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+  box-shadow: 0 0 2px 1px rgba(43, 36, 36, 1);
 }
 </style>
 <h4><strong>3v3 mBot Football Challenge</strong></h4>
