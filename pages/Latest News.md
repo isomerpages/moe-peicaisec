@@ -7,8 +7,9 @@ description: ""
 <table>
 <tbody>
 <tr>
-<th><a rel="noreferrer noopener" target="_blank" href="/images/3v3 mbot football challenge.png"><img src="/images/3v3 mbot football challenge.png" style="width: 60%;"></a><br></th><td><a rel="noreferrer noopener" target="_blank" href="/images/3v3 mbot football challenge.png"><img src="/images/3v3 mbot football challenge.png" style="width: 60%;"><br></a></td></tr>
-</tbody>
+<th><a rel="noreferrer noopener" target="_blank" href="/images/3v3 mbot football challenge.png"><img src="/images/3v3 mbot football challenge.png" style="width: 94%;"></a><br></th>
+<td><a rel="noreferrer noopener" target="_blank" href="/images/3v3 mbot football challenge.png"><img src="/images/mbot 3v3 poster.jpg" style="width: 60%;"><br></a></td>
+</tr></tbody>
 </table>
 
 	
