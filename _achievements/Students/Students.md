@@ -19,7 +19,7 @@ third_nav_title: Students
 <table>
 <tbody>
 <tr>
-<th><img src="/images/congratulations to our npcc cadets 1.jpg" style="width: 100%;"><br>	
+<th><img src="/images/congratulations to our npcc cadets 1 copy.png" style="width: 100%;"><br>	
 </th>
 </tr>
 </tbody>
