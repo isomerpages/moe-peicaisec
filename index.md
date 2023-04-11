@@ -12,4 +12,8 @@ sections:
           description: ""
           url: /latestnews
       background: /images/Banner 3.jpg
+  - resources:
+      title: Resources Section Title
+      subtitle: Resources Section Subtitle
+      button: Resources Button Name
 ---
