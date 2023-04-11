@@ -14,7 +14,7 @@ third_nav_title: Students
 </td></tr>
 </tbody>
 </table>
-<p></p><hr>
+<hr>
 <b><p align="center"><b>Congratulations to our NPCC Cadets for being presented</b>
 <table>
 <tbody>
