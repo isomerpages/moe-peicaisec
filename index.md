@@ -12,4 +12,8 @@ sections:
           description: ""
           url: /latestnews
       background: /images/Banner 3.jpg
+  - resources:
+      title: Latest News
+      subtitle: Peicai secondary school
+      button: Resources Button Name
 ---
