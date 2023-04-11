@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Students
 ---
 <p style="text-align: center;"><strong><u>2023</u></strong></p>
-<b><p align="center"><b>Captain Appreciation by Sec 3 Cohort</b></p>
+<p align="center"><b>Captain Appreciation by Sec 3 Cohort</b>
 <table>
 <tbody>
 <tr>
@@ -14,7 +14,7 @@ third_nav_title: Students
 </td></tr>
 </tbody>
 </table>
-<hr>
+</p><hr>
 <b><p align="center"><b>Congratulations to our NPCC Cadets for being presented</b>
 <table>
 <tbody>
@@ -57,4 +57,4 @@ third_nav_title: Students
 </table>
 <hr>
 <p style="text-align: center;"><strong><u>2021</u></strong></p>
-<p style="text-align: center;"><a href="/achievements/students/national-examinations-2021" target="">National Examinations 2021</a></p></b></b></b>
+<p style="text-align: center;"><a href="/achievements/students/national-examinations-2021" target="">National Examinations 2021</a></p></b></b>
