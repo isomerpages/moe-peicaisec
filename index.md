@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/Banner 3.jpg
   - resources:
-      title: Latest News
+      title: Announcements
       subtitle: PEICAI SECONDARY SCHOOL
       button: More details
 ---
