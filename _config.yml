@@ -3,7 +3,7 @@ url: https://www.peicaisec.moe.edu.sg
 favicon: /images/logo.jpg
 colors:
   primary-color: "#13194d"
-  secondary-color: "#4fa18f"
+  secondary-color: "#13194d"
   media-colors:
     - title: media-color-one
       color: "#ffffff"
