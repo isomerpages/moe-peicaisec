@@ -1,7 +1,10 @@
 ---
-title: Latest News
-permalink: /latestnews/
+title: 3v3 mBot Football Challenge
+permalink: /test-1/school-announcement/permalink/
+date: 2023-04-11
+layout: post
 description: ""
+image: ""
 ---
 <h4><strong>3v3 mBot Football Challenge</strong></h4>
 <style>

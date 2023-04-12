@@ -7,9 +7,9 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      key_highlights:
-        - title: Latest News
-          description: ""
-          url: /latestnews
       background: /images/Banner 3.jpg
+  - resources:
+      title: Announcements
+      subtitle: PEICAI SECONDARY SCHOOL
+      button: More details
 ---
