@@ -8,4 +8,23 @@ description: ""
 image: /images/congratulations peicai sec! qualified for semi finals of national
   school games track and field.jpg
 ---
-Congratulations Peicai Sec! Qualified for Semi Finals of National School Games Track and Field
+<p align="center"><b>Congratulations Peicai Sec! Qualified for Semi Finals of National School Games Track and Field </b>
+<table>
+<tbody>
+<tr>
+<th><img src="/images/congratulations peicai sec! qualified for semi finals of national school games track and field.jpg" style="width: 100%;"><br>	
+</th>
+</tr>
+</tbody>
+</table>
+</p><hr>
+<p align="center"><b>Congratulations Peicai Sec! Qualified for Semi Finals of National School Games Track and Field </b>
+<table>
+<tbody>
+<tr>
+<th><img src="/images/congratulations peicai sec! qualified for semi finals of national school games track and field.jpg" style="width: 100%;"><br>	
+</th>
+</tr>
+</tbody>
+</table>
+</p><hr>
