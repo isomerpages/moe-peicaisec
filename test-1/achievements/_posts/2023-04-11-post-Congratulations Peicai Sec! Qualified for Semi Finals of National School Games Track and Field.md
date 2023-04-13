@@ -17,7 +17,7 @@ image: /images/congratulations peicai sec! qualified for semi finals of national
 </tr>
 </tbody>
 </table>
-</p><hr>
+</p><hr><hr>
 <p align="center"><b>Congratulations Peicai Secondary Modern Dance for clinching ‘Distinction' in SYF 2023! </b>
 <table>
 <tbody>
@@ -27,4 +27,4 @@ image: /images/congratulations peicai sec! qualified for semi finals of national
 </tr>
 </tbody>
 </table>
-</p><hr>
+</p><hr><hr>
