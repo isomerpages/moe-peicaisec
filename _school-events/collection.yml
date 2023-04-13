@@ -1,5 +1,5 @@
 collections:
-  media:
+  school-events:
     output: true
     order:
       - School Events.md
