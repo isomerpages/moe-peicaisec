@@ -25,7 +25,7 @@ third_nav_title: Students
 </tbody>
 </table>
 </p><hr>
-<p align="center"><b>Congratulations! Volleyball Boys</b>
+<p align="center"><b>Congratulations Volleyball Boys for Top-Four Finish in South Zone</b>
 <table>
 <tbody>
 <tr>
