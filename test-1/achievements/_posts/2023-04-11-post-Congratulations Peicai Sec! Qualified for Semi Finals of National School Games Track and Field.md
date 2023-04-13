@@ -37,7 +37,7 @@ image: /images/congratulations peicai sec! qualified for semi finals of national
 </tr>
 </tbody>
 </table>
-</p><hr><hr>
+</p><hr>
 <p align="center"><b>Congratulations to our Peicaians for Top 8 finish Translation Competition </b>
 <table>
 <tbody>
@@ -47,4 +47,4 @@ image: /images/congratulations peicai sec! qualified for semi finals of national
 </tr>
 </tbody>
 </table>
-</p><hr><hr>
+</p><hr>
