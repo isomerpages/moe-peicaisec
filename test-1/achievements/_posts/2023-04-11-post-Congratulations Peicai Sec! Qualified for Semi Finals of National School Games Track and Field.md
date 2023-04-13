@@ -38,3 +38,13 @@ image: /images/congratulations peicai sec! qualified for semi finals of national
 </tbody>
 </table>
 </p><hr><hr>
+<p align="center"><b>Congratulations to our Peicaians for Top 8 finish Translation Competition </b>
+<table>
+<tbody>
+<tr>
+<th><img src="/images/congratulations to our peicaians for top 8 finish translation competition.jpg" style="width: 100%;"><br>	
+</th>
+</tr>
+</tbody>
+</table>
+</p><hr><hr>
