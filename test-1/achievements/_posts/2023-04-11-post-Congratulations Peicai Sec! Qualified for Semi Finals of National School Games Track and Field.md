@@ -28,3 +28,13 @@ image: /images/congratulations peicai sec! qualified for semi finals of national
 </tbody>
 </table>
 </p><hr><hr>
+<p align="center"><b>Congratulations to our peicaians for being appointed malay language ambassadors </b>
+<table>
+<tbody>
+<tr>
+<th><img src="/images/congratulations to our peicaians for being appointed malay language ambassadors.jpg" style="width: 100%;"><br>	
+</th>
+</tr>
+</tbody>
+</table>
+</p><hr><hr>
