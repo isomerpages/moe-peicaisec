@@ -3,7 +3,7 @@ title: School Terms and Holidays
 permalink: /student-services/school-terms-and-holidays/
 description: ""
 ---
-<h4><strong>School Terms for 2022</strong></h4>
+<h4><strong>School Terms for 2023</strong></h4>
 <table style="width: 100%;" width="100%">
 <thead>
 <tr>
@@ -58,7 +58,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p>*The last day of the final school term for schools which will be used as venues for the GCE O Level written examinations will be Friday, 27 October 2022.</p>
+<p>*The last day of the final school term for schools which will be used as venues for the GCE O Level written examinations will be Friday, 27 October 2023.</p>
 <h4><strong>School Holidays for 2022</strong></h4>
 <table style="width: 100%;" width="100%">
 <thead>
