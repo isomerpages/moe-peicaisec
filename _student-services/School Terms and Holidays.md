@@ -18,7 +18,7 @@ description: ""
 <p>Term 1</p>
 </td>
 <td style="width: 85.444%;">
-<p>Tuesday 4 Jan to Friday 11 March</p>
+<p>Tuesday 3 Jan to Friday 10 March</p>
 </td>
 </tr>
 <tr>
@@ -26,7 +26,7 @@ description: ""
 <p>Term 2</p>
 </td>
 <td style="width: 85.444%;">
-<p>Monday 21 March to Friday 27 May</p>
+<p>Monday 20 March to Friday 26 May</p>
 </td>
 </tr>
 </tbody>
@@ -45,7 +45,7 @@ description: ""
 <p>Term 3</p>
 </td>
 <td style="width: 85.4439%;">
-<p>Monday 27 June to Friday 2 September</p>
+<p>Monday 26 June to Friday 1 September</p>
 </td>
 </tr>
 <tr>
@@ -53,12 +53,12 @@ description: ""
 <p>Term 4</p>
 </td>
 <td style="width: 85.4439%;">
-<p>Monday 12 September to *Friday 18 November</p>
+<p>Monday 11 September to *Friday 17 November</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>*The last day of the final school term for schools which will be used as venues for the GCE O Level written examinations will be Friday, 28 October 2022.</p>
+<p>*The last day of the final school term for schools which will be used as venues for the GCE O Level written examinations will be Friday, 27 October 2022.</p>
 <h4><strong>School Holidays for 2022</strong></h4>
 <table style="width: 100%;" width="100%">
 <thead>
@@ -132,7 +132,7 @@ description: ""
 <p>Youth Day</p>
 </td>
 <td>
-<p>Sunday 3 July<br /><em>(The following Monday, 4 Jul 2022 will be a scheduled school holiday)</em></p>
+<p>Sunday 3 July<br><em>(The following Monday, 4 Jul 2022 will be a scheduled school holiday)</em></p>
 </td>
 </tr>
 <tr>
@@ -145,7 +145,7 @@ description: ""
 </tr>
 <tr>
 <td>
-<p>Teachers&rsquo; Day</p>
+<p>Teachers’ Day</p>
 </td>
 <td>
 <p>Friday 2 September</p>
@@ -153,7 +153,7 @@ description: ""
 </tr>
 <tr>
 <td>
-<p>Children&rsquo;s Day<br /><em>(for primary schools and primary sections of full schools only)</em></p>
+<p>Children’s Day<br><em>(for primary schools and primary sections of full schools only)</em></p>
 </td>
 <td>
 <p>Friday 7 October</p>
@@ -176,7 +176,7 @@ description: ""
 <tbody>
 <tr>
 <td>
-<p>New Year&rsquo;s Day</p>
+<p>New Year’s Day</p>
 </td>
 <td>
 <p>*Saturday 1 January</p>
@@ -260,7 +260,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td colspan="2"><em>*Monday, 3 Jan, will be a school holiday.<br />**Monday, 2 May, will be a public holiday.<br />***Monday, 16 May, will be a public holiday.<br />****Monday, 11 Jul, will be a public holiday.<br />*****Monday, 26 Dec, will be a public holiday.</em></td>
+<td colspan="2"><em>*Monday, 3 Jan, will be a school holiday.<br>**Monday, 2 May, will be a public holiday.<br>***Monday, 16 May, will be a public holiday.<br>****Monday, 11 Jul, will be a public holiday.<br>*****Monday, 26 Dec, will be a public holiday.</em></td>
 </tr>
 </tbody>
 </table>
