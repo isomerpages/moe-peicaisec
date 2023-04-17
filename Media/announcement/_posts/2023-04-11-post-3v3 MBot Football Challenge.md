@@ -1,5 +1,5 @@
 ---
-title: 3v3 mBot Football Challenge
+title: 3v3 MBot Football Challenge
 permalink: /test-1/school-announcement/permalink/
 date: 2023-04-11
 layout: post

@@ -1,6 +1,6 @@
 ---
 title: School Events 2022
-permalink: /media/schoolevents2022/
+permalink: /schoolevents/schoolevents2022/
 description: ""
 ---
 <h4><strong>School Events 2022</strong></h4>

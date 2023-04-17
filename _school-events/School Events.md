@@ -1,6 +1,6 @@
 ---
-title: Media
-permalink: /media/
+title: School Events
+permalink: /schoolevents/
 description: ""
 ---
 <h4><strong>School Corporate Video 2022</strong></h4>
