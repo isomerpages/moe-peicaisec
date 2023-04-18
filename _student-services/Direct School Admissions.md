@@ -9,8 +9,9 @@ description: ""
 <p></p><p align="justify">&nbsp;PCSS welcomes Primary Six students eligible for Secondary One admission in 2024 with talents in the various areas stated above to apply for DSA-Sec in 2023. </p>
 <h4><strong>A. Sports and Games</strong></h4>
 <ul>
+	<li><strong>Basketball (Boys)</strong></li>
 <li><strong>Softball (Boys and Girls)</strong></li>
-<li><strong>Volleyball (Boys)</strong></li>
+<li><strong>Volleyball (Boys and Girls)</strong></li>
 </ul>
 <p></p><p align="justify">Our Sports and Games teams aim to develop students into skilled and passionate sportsmen, who are not only competent in sports but possess good character and values such as integrity and sportsmanship.</p>
 <p></p><p align="justify">Applicants admitted to the school via DSA (Sports and Games) can expect to be a member of the school’s sports teams and represent the school in various competitions such as the National Schools Games (NSG).</p>
