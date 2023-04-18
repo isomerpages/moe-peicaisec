@@ -65,6 +65,62 @@ description: ""
 </tbody>
 </table>
 <p><em>*Applicants who do not have any specific sports background may be considered for direct admission based on their performance during selection trials.</em></p>
+
+
+<h4><strong>B. Performing Arts</strong></h4>
+<ul>
+<li><strong>English Drama</strong></li>
+</ul>
+<p></p><p align="justify">Our English Drama aims to develop students into gifted performers, passionate about the craft of acting and performing. </p>
+<p></p><p align="justify">Applicants admitted to the school via DSA (English Drama) can expect to be a member of the school’s English Drama Club and represent the school in various competitions and performances such as the SYF Arts Presentation. </p>
+
+<p><u>Criteria</u></p>
+<table width="940">
+<tbody>
+<tr>
+<td width="10%">
+<p><strong>CCA</strong></p>
+</td>
+<td width="35%">
+<p><strong>Abilities/Talents</strong></p>
+</td>
+<td width="53%">
+<p><strong>Experience</strong></p>
+</td>
+</tr>
+<tr>
+<td width="10%">
+<table>
+<tbody>
+<tr>
+<td>
+<p><strong>NCC(Sea) NPCC</strong></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td width="35%">
+<p>Applicants should</p>
+<ul>
+<li>demonstrate a keen interest and passion in the relevant UG activities, and</li>
+<li>display commitment and self-motivation.</li>
+</ul>
+</td>
+<td width="53%">
+<p>Applicants should have music related experience such as:</p>
+<ul>
+<li>a minimum conduct grade of “Very Good”; and</li>
+<li>a proven and sustained record of playing key leadership roles in their respective CCAs in primary school; or</li>
+<li>active involvement in school level projects or community level&nbsp;</li>
+<li>programmes or project.</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+
+
 <h4><strong>B. Leadership &amp; Uniformed Groups</strong></h4>
 <ul>
 <li><strong>National Cadet Corps (Sea)</strong></li>
