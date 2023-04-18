@@ -35,6 +35,7 @@ description: ""
 <tbody>
 <tr>
 <td>
+<p><strong>Basketball</strong></p>
 <p><strong>Softball</strong></p>
 <p><strong>Volleyball</strong></p>
 </td>
@@ -48,14 +49,14 @@ description: ""
 <ul>
 <li>have keen interest and passion towards the sport,</li>
 <li>possess fundamental skills in the sport, and</li>
-<li>be committed and self-motivated</li>
+<li>be committed and self-motivated.</li>
 </ul>
 </td>
 <td width="53%">
-<p>Applicants should have drama relevant experience such as:</p>
+<p>Applicants should have relevant experience such as:</p>
 <ul>
-<li>represented primary school in National Schools Games&nbsp;(Zonal or National) Inter-Primary School Championship,</li>
-<li>represented National Sports Association or Club in local or overseas competition,</li>
+<li>represented primary school in National Schools Games (Zonal or National) Inter-Primary School Championship,</li>
+<li>represented National Sports Association or Club in local or overseas competition,,</li>
 <li>participated in MOE’s Junior Sports Academy (JSA) Programme,</li>
 <li>participated in external training programmes.</li>
 </ul>
