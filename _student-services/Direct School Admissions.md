@@ -94,7 +94,7 @@ description: ""
 <tbody>
 <tr>
 <td>
-<p><strong>NCC(Sea) NPCC</strong></p>
+<p><strong>Drama Club</strong></p>
 </td>
 </tr>
 </tbody>
@@ -103,25 +103,25 @@ description: ""
 <td width="35%">
 <p>Applicants should</p>
 <ul>
-<li>demonstrate a keen interest and passion in the relevant UG activities, and</li>
-<li>display commitment and self-motivation.</li>
+<li>display a passion for drama,</li>
+<li>enjoy performing in front of an audience, and</li>
+<li>be committed and self-motivated</li>
 </ul>
 </td>
 <td width="53%">
-<p>Applicants should have music related experience such as:</p>
+<p>Applicants should have drama relevant experience such as:</p>
 <ul>
-<li>a minimum conduct grade of “Very Good”; and</li>
-<li>a proven and sustained record of playing key leadership roles in their respective CCAs in primary school; or</li>
-<li>active involvement in school level projects or community level&nbsp;</li>
-<li>programmes or project.</li>
+<li>represented at school or national level or relevant external organisations in performances,</li>
+<li>participated in SYF (Drama) Arts Presentation,</li>
+<li>attended drama-related enrichment classes.</li>
 </ul>
 </td>
 </tr>
 </tbody>
 </table>
+<p><em>*Applicants who do not have any drama background may be considered for direct admission based on their performance during audition.</em></p>
 
-
-<h4><strong>B. Leadership &amp; Uniformed Groups</strong></h4>
+<h4><strong>C. Leadership &amp; Uniformed Groups</strong></h4>
 <ul>
 <li><strong>National Cadet Corps (Sea)</strong></li>
 <li><strong>National Police Cadet Corps</strong></li>
