@@ -15,4 +15,4 @@ image: ""
 </tr>
 </tbody>
 </table>
-</p><hr>
+</p>
