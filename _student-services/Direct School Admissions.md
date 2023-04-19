@@ -176,7 +176,7 @@ description: ""
 <ul>
 <li><strong>Leadership</strong></li>
 </ul>
-<p></p><p align="justify">Our Student Council (SC) aims to develop students into inspiring leaders with a daring spirit and a passion to lead and serve. The Student Leadership Programme in PCSS offers a wide range of platforms for students to take on leadership roles in the school.</p>
+<p></p><p align="justify">Our Student Council (SC) aims to develop students into inspiring leaders with a daring spirit and a passion to lead and serve. The Student Leadership Programme in PCSS offers a wide range of platforms for students to take on leadership roles in the school. </p>
 <p></p><p align="justify">Applicants admitted to the school via DSA (Leadership) can expect to be appointed as a student councillor in Secondary 1 and perform duties in the Student Council to make a difference to the school and community. He/She will be able to deepen their leadership competencies through the Student Leadership Challenge framework (Kouzes and Pozner). They will also build on skills through various workshops (i.e. public speaking and facilitation) and on-job training when leading school-wide events.</p>
 <p><u>Criteria</u></p>
 <table width="946">
@@ -206,7 +206,7 @@ description: ""
 </ul>
 </td>
 <td width="55%">
-<p>Applicants should have relevant experience such as:</p>
+<p>Applicants should have attained:</p>
 <ul>
 <li>a minimum conduct grade of “Very Good”</li>
 </ul>
@@ -221,25 +221,3 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p>Selection Process<br><strong>Shortlisted applicants will be invited for a half-hour interview and trial (only applicable to sports) between 27 June 2022 and 12 September 2022. Please note that meeting all criteria does not guarantee the student will be shortlisted/given an offer. The below criteria will be assessed during the interview and trial.</strong></p>
-<p>1)&nbsp;Applicants will be interviewed and assessed on:</p>
-<p><u>Sports &amp; Games</u></p>
-<ul>
-<li>knowledge of game rules</li>
-<li>in-game decision-making skills</li>
-<li>passion, commitment and interest in game</li>
-</ul>
-<p>&nbsp;<u>Leadership</u></p>
-<ul>
-<li>their understanding of leadership,</li>
-<li>their reflection of their past leadership experiences.</li>
-</ul>
-<p>&nbsp;<u>Uniformed Groups</u></p>
-<ul>
-<li>their understanding of being in uniformed groups,</li>
-<li>their passion, commitment and interest in the uniformed groups.</li>
-</ul>
-<p>2) Applicants under DSA-Sports may be required to demonstrate some sport-specific performance tasks during the trial.</p>
-<p align="justify">Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 5 May 2022, 11am to 1 June 2022, 3pm. For more details, please refer to MOE website –&nbsp;<a href="http://www.moe.gov.sg/dsa-sec"><strong>www.moe.gov.sg/dsa-sec</strong></a>
-</p><p align="justify">Parents and students are encouraged to choose schools wisely based on student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
-</p><p align="justify">Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1-4.</p>
