@@ -127,7 +127,7 @@ description: ""
 <li><strong>National Police Cadet Corps</strong></li>
 </ul>
 <p></p><p align="justify">Our Uniformed Groups (UGs) aim to develop students into inspiring leaders who are committed to serve the school and nation. Over the last 10 years, our UGs have achieved numerous Gold/Distinction Awards.</p>
-<p></p><p align="justify">Applicants admitted to the school via DSA (Uniformed Groups) can expect to be a member of the school’s NCC (Sea) or NPCC unit and be developed into confident and inspiring leaders who make a positive impact to the society and nation.</p>
+<p></p><p align="justify">Applicants admitted to the school via DSA (Uniformed Groups) can expect to be a member of the school’s NCC (Sea) or NPCC unit and be developed into confident and inspiring leaders who make a positive impact to the society and nation. </p>
 <p><u>Criteria</u></p>
 <table width="940">
 <tbody>
@@ -162,18 +162,17 @@ description: ""
 </ul>
 </td>
 <td width="53%">
-<p>Applicants should have music related experience such as:</p>
+<p>Applicants should have attained:</p>
 <ul>
 <li>a minimum conduct grade of “Very Good”; and</li>
 <li>a proven and sustained record of playing key leadership roles in their respective CCAs in primary school; or</li>
-<li>active involvement in school level projects or community level&nbsp;</li>
-<li>programmes or project.</li>
+<li>active involvement in school level projects or community level programmes or project.nbsp;</li>
 </ul>
 </td>
 </tr>
 </tbody>
 </table>
-<h4><strong>C. Leadership &amp; Uniformed Groups</strong></h4>
+<h4><strong>D. Leadership &amp; Uniformed Groups</strong></h4>
 <ul>
 <li><strong>Leadership</strong></li>
 </ul>
