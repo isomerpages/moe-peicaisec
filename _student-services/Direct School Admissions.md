@@ -166,7 +166,7 @@ description: ""
 <ul>
 <li>a minimum conduct grade of “Very Good”; and</li>
 <li>a proven and sustained record of playing key leadership roles in their respective CCAs in primary school; or</li>
-<li>active involvement in school level projects or community level programmes or project.nbsp;</li>
+<li>active involvement in school level projects or community level programmes or project.</li>
 </ul>
 </td>
 </tr>
