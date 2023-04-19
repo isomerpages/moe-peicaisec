@@ -3,7 +3,7 @@ title: School Terms and Holidays
 permalink: /student-services/school-terms-and-holidays/
 description: ""
 ---
-<h4><strong>School Terms for 2022</strong></h4>
+<h4><strong>School Terms for 2023</strong></h4>
 <table style="width: 100%;" width="100%">
 <thead>
 <tr>
@@ -18,7 +18,7 @@ description: ""
 <p>Term 1</p>
 </td>
 <td style="width: 85.444%;">
-<p>Tuesday 4 Jan to Friday 11 March</p>
+<p>Tuesday 3 Jan to Friday 10 March</p>
 </td>
 </tr>
 <tr>
@@ -26,7 +26,7 @@ description: ""
 <p>Term 2</p>
 </td>
 <td style="width: 85.444%;">
-<p>Monday 21 March to Friday 27 May</p>
+<p>Monday 20 March to Friday 26 May</p>
 </td>
 </tr>
 </tbody>
@@ -45,7 +45,7 @@ description: ""
 <p>Term 3</p>
 </td>
 <td style="width: 85.4439%;">
-<p>Monday 27 June to Friday 2 September</p>
+<p>Monday 26 June to Friday 1 September</p>
 </td>
 </tr>
 <tr>
@@ -53,13 +53,13 @@ description: ""
 <p>Term 4</p>
 </td>
 <td style="width: 85.4439%;">
-<p>Monday 12 September to *Friday 18 November</p>
+<p>Monday 11 September to *Friday 17 November</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>*The last day of the final school term for schools which will be used as venues for the GCE O Level written examinations will be Friday, 28 October 2022.</p>
-<h4><strong>School Holidays for 2022</strong></h4>
+<p>*The last day of the final school term for schools which will be used as venues for the GCE O Level written examinations will be Friday, 27 October 2023.</p>
+<h4><strong>School Holidays for 2023</strong></h4>
 <table style="width: 100%;" width="100%">
 <thead>
 <tr>
@@ -74,7 +74,7 @@ description: ""
 <p>Between Terms 1 and 2</p>
 </td>
 <td style="width: 67.8311%;">
-<p>Saturday 12 March to Sunday 20 March</p>
+<p>Saturday 11 March to Sunday 19 March</p>
 </td>
 </tr>
 <tr>
@@ -82,7 +82,7 @@ description: ""
 <p>Between Semesters 1 &amp; 2</p>
 </td>
 <td style="width: 67.8311%;">
-<p>Saturday 28 May to Sunday 26 June</p>
+<p>Saturday 27 May to Sunday 25 June</p>
 </td>
 </tr>
 </tbody>
@@ -101,7 +101,7 @@ description: ""
 <p>Between Terms 3 &amp; 4</p>
 </td>
 <td>
-<p>Saturday 3 September to Sunday 11 September</p>
+<p>Saturday 2 September to Sunday 10 September</p>
 </td>
 </tr>
 <tr>
@@ -109,12 +109,12 @@ description: ""
 <p>At End of School Year</p>
 </td>
 <td>
-<p>Saturday 19 November to Friday 31 December</p>
+<p>Saturday 18 November to Sunday 31 December</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h4><strong>Scheduled School Holidays for 2022</strong></h4>
+<h4><strong>Scheduled School Holidays for 2023</strong></h4>
 <table width="100%">
 <thead>
 <tr>
@@ -132,7 +132,7 @@ description: ""
 <p>Youth Day</p>
 </td>
 <td>
-<p>Sunday 3 July<br /><em>(The following Monday, 4 Jul 2022 will be a scheduled school holiday)</em></p>
+<p>Sunday 2 July<br><em>(The following Monday, 4 Jul 2023 will be a scheduled school holiday)</em></p>
 </td>
 </tr>
 <tr>
@@ -140,28 +140,28 @@ description: ""
 <p>Day after National Day</p>
 </td>
 <td>
-<p>Wednesday 10 August</p>
+<p>Thursday 10 August</p>
 </td>
 </tr>
 <tr>
 <td>
-<p>Teachers&rsquo; Day</p>
+<p>Teachers’ Day</p>
 </td>
 <td>
-<p>Friday 2 September</p>
+<p>Friday 1 September</p>
 </td>
 </tr>
 <tr>
 <td>
-<p>Children&rsquo;s Day<br /><em>(for primary schools and primary sections of full schools only)</em></p>
+<p>Children’s Day<br><em>(for primary schools and primary sections of full schools only)</em></p>
 </td>
 <td>
-<p>Friday 7 October</p>
+<p>Friday 6 October</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h4><strong>Public Holidays for 2022</strong></h4>
+<h4><strong>Public Holidays for 2023</strong></h4>
 <table width="601">
 <thead>
 <tr>
@@ -176,10 +176,10 @@ description: ""
 <tbody>
 <tr>
 <td>
-<p>New Year&rsquo;s Day</p>
+<p>New Year’s Day</p>
 </td>
 <td>
-<p>*Saturday 1 January</p>
+<p>*Sunday 1 January</p>
 </td>
 </tr>
 <tr>
@@ -187,12 +187,12 @@ description: ""
 <p>Chinese New Year</p>
 </td>
 <td>
-<p>Tuesday 1 February</p>
+<p>**Sunday 22 January</p>
 </td>
 </tr>
 <tr>
 <td>
-<p>Wednesday 2 February</p>
+<p>Monday 23 January</p>
 </td>
 </tr>
 <tr>
@@ -200,15 +200,7 @@ description: ""
 <p>Good Friday</p>
 </td>
 <td>
-<p>Friday 15 April</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Labour Day</p>
-</td>
-<td>
-<p>**Sunday 1 May</p>
+<p>Friday 7 April</p>
 </td>
 </tr>
 <tr>
@@ -216,7 +208,15 @@ description: ""
 <p>Hari Raya Puasa</p>
 </td>
 <td>
-<p>Tuesday 3 May</p>
+<p>***Saturday 22 April</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Labour Day</p>
+</td>
+<td>
+<p>Monday 1 May</p>
 </td>
 </tr>
 <tr>
@@ -224,7 +224,7 @@ description: ""
 <p>Vesak Day</p>
 </td>
 <td>
-<p>***Sunday 15 May</p>
+<p>Friday 2 June</p>
 </td>
 </tr>
 <tr>
@@ -232,7 +232,7 @@ description: ""
 <p>Hari Raya Haji</p>
 </td>
 <td>
-<p>****Sunday 10 July</p>
+<p>Thursday 29 June</p>
 </td>
 </tr>
 <tr>
@@ -240,7 +240,7 @@ description: ""
 <p>National Day</p>
 </td>
 <td>
-<p>Tuesday 9 August</p>
+<p>Wednesday 9 August</p>
 </td>
 </tr>
 <tr>
@@ -248,7 +248,7 @@ description: ""
 <p>Deepavali</p>
 </td>
 <td>
-<p>Monday 24 October</p>
+<p>****Sunday 12 November</p>
 </td>
 </tr>
 <tr>
@@ -256,11 +256,11 @@ description: ""
 <p>Christmas Day</p>
 </td>
 <td>
-<p>*****Sunday 25 December</p>
+<p>Monday 25 December</p>
 </td>
 </tr>
 <tr>
-<td colspan="2"><em>*Monday, 3 Jan, will be a school holiday.<br />**Monday, 2 May, will be a public holiday.<br />***Monday, 16 May, will be a public holiday.<br />****Monday, 11 Jul, will be a public holiday.<br />*****Monday, 26 Dec, will be a public holiday.</em></td>
+<td colspan="2"><em>*Monday, 2 Jan will be a public holiday.<br>**Tuesday, 24 Jan will be a public holiday.<br>***Monday, 24 Apr will be a school holiday and a designated day off-in-lieu, schools are closed including the General Office, Student Care Centre/Kindergarten Care (KCare) Centres.<br>****Monday, 13 Nov will be a public holiday.<br></em></td>
 </tr>
 </tbody>
 </table>
