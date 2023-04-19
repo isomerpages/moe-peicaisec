@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-<p align="center"><b>Congratulations Peicai Secondary Modern Dance for clinching ‘Distinction' in SYF 2023! </b>
+<p align="center"><b>Distinguished Chinese Language Teachers Awards 2023</b>
 <table>
 <tbody>
 <tr>
