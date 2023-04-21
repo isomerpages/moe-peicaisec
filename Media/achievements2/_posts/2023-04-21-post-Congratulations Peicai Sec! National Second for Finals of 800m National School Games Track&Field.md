@@ -8,16 +8,35 @@ description: ""
 image: /images/congratulations peicai sec! qualified for semi finals of national
   school games track and field.jpg
 ---
-<p align="center"><b>Congratulations Peicai Sec! Qualified for Semi Finals of National School Games Track and Field </b>
+<p align="center"><b>Congratulations Peicai Sec! National Second for Finals of 800 m National School Games Track and Field </b>
 <table>
 <tbody>
 <tr>
-<th><img src="/images/congratulations peicai sec! qualified for semi finals of national school games track and field.jpg" style="width: 100%;"><br>	
+<th><img src="/images/national second for finals 1 copy.jpg" style="width: 100%;"><br>
 </th>
 </tr>
 </tbody>
 </table>
 </p><hr>
+<table>
+<tbody>
+<tr>
+<th><img src="/images/national second for finals 2 copy.jpg" style="width: 100%;"><br>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p><hr>
+<table>
+<tbody>
+<tr>
+<th><img src="/images/national second for finals 3 copy.jpg" style="width: 100%;"><br>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p><hr><hr>
+
 <p align="center"><b>Congratulations Peicai Secondary Modern Dance for clinching ‘Distinction' in SYF 2023! </b>
 <table>
 <tbody>
