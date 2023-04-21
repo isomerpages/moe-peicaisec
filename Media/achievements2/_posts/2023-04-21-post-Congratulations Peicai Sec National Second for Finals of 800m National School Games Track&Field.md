@@ -8,7 +8,7 @@ description: ""
 image: /images/congratulations peicai sec! qualified for semi finals of national
   school games track and field.jpg
 ---
-<p align="center"><b>Congratulations Peicai Sec! National Second for Finals of 800 m National School Games Track and Field </b>
+<p align="center"><b>Congratulations Peicai Sec National Second for Finals of 800 m National School Games Track and Field </b>
 <table>
 <tbody>
 <tr>
