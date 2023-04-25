@@ -35,4 +35,4 @@ image: /images/congratulations peicai sec! qualified for semi finals of national
 </tr>
 </tbody>
 </table>
-<p></p><hr><hr>
+<p></p><hr>
