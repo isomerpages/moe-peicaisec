@@ -7,7 +7,7 @@ layout: post
 description: ""
 image: ""
 ---
-<p align="center"><b>CCongratulations to our Science PinnaCle @ Peicai for achieving outstanding results in the C.B. Paul Science Quiz organised by ACJC!</b>
+<p align="center"><b>Congratulations to our Science PinnaCle @ Peicai for achieving outstanding results in the C.B. Paul Science Quiz organised by ACJC!</b>
 <table>
 <tbody>
 <tr>
