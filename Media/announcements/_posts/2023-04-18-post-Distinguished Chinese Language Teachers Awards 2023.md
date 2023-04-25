@@ -15,4 +15,6 @@ image: ""
 </tr>
 </tbody>
 </table>
-</p>
+</p><hr>
+
+<p align="center"><b>3v3 mBot Football Challenge</b></p>
