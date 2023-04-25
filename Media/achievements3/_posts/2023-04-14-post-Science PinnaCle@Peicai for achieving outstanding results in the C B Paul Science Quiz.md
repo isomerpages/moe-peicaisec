@@ -17,3 +17,15 @@ image: ""
 </tbody>
 </table>
 </p><hr>
+
+<p style="text-align: center;"><strong><u>2023</u></strong></p>
+<p align="center"><b>Bus Captain Appreciation by Sec 3 Cohort</b>
+<table>
+<tbody>
+<tr>
+<th><img src="/images/bus captain appreciation by sec 3 cohort 1.jpg" style="width: 100%;"><br>	
+</th><td><img src="/images/captain appreciation by sec 3 cohort 2.jpg" style="width: 100%;"><br>	
+</td></tr>
+</tbody>
+</table>
+</p><hr>
