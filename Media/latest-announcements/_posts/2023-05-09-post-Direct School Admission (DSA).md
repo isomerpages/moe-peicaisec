@@ -1,8 +1,7 @@
 ---
-title: Congratulations Peicai Sec! National Second for Finals of 800m National
-  School Games Track&Field
-permalink: /test-1/resource/permalink/
-date: 2023-04-21
+title: Direct School Admission (DSA)
+permalink: /student-services/prospective-students/direct-school-admission-dsa/
+date: 2023-05-09
 layout: post
 description: ""
 image: /images/congratulations peicai sec! qualified for semi finals of national
