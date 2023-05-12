@@ -192,9 +192,7 @@ description: ""
 <table width="900">
 <tbody>
 <tr>
-</tr></tbody></table><table>
-<tbody>
-<tr>
+</tr><tr>
 <td>
 <p><strong>Sports &amp; Games</strong></p>
 	•	knowledge of game rules<br>
@@ -205,10 +203,7 @@ description: ""
 </tbody>
 </table><hr>
 
-<table width="943">
-<tbody>
-<tr>
-</tr></tbody></table><table>
+<table width="900">
 <tbody>
 <tr>
 <td>
@@ -221,10 +216,7 @@ description: ""
 </tbody>
 </table><hr>
 
-<table width="943">
-<tbody>
-<tr>
-</tr></tbody></table><table>
+<table width="900">
 <tbody>
 <tr>
 <td>
@@ -236,10 +228,7 @@ description: ""
 </tbody>
 </table><hr>
 
-<table width="943">
-<tbody>
-<tr>
-</tr></tbody></table><table>
+<table width="900">
 <tbody>
 <tr>
 <td>
