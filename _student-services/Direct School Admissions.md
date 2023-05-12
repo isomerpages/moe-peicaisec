@@ -216,7 +216,7 @@ description: ""
 Please note that students successfully allocated to their DSA-Sec schools will NOT be allowed to participate in the annual S1 Posting Exercise to opt for secondary schools, and are expected to honour the commitment to the allocated DSA-Sec school. They will also NOT be allowed to transfer to another school after the release of the PSLE results. <br>
 Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1-4. </p>
 <h4><strong>ENQUIRIES</strong></h4>
-<p> For more information on DSA-Sec, please refer to the MOE website at <a rel="noopener" target="_blank" href="https:// https://www.moe.gov.sg/dsa-sec">https://www.moe.gov.sg/dsa-sec</a><br>
+<p> For more information on DSA-Sec, please refer to the MOE website at <a rel="noopener" target="_blank" href="https://www.moe.gov.sg/dsa-sec">https://www.moe.gov.sg/dsa-sec</a><br>
 Parents and students are encouraged to choose schools based on the student’s aptitudes and strengths, bearing in mind the schools’ strengths as well as curricular and co-curricular programmes.<br>
 If you would like to have further details or require any clarification, you may contact the following staff:</p>
 <table width="943">
