@@ -193,8 +193,7 @@ description: ""
 	•	knowledge of game rules<br>
 	•	in-game decision-making skills<br>
 	•	passion, commitment and interest in game<br>
-<hr>
-<strong>Performing Arts</strong><br>
+<hr><strong>Performing Arts</strong><br>
 	•	knowledge in performing arts<br>
 	•	specific arts-related skills<br>
 	•	passion, commitment and interest in performing arts<br>
