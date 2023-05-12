@@ -188,33 +188,17 @@ description: ""
 
 <h4><strong>SCHOOL SELECTION PROCESS</strong></h4>
 <p>All shortlisted applicants will be notified latest by 7 July 2023 to attend an interview and or a trial/audition (only applicable to sports and performing arts) between 26 June 2023 and 11 September 2023. Please note that the meeting of specified criteria does not guarantee the student will be shortlisted or given an offer.</p>
-1)	Applicants will be assessed based on the following criteria:
-<table width="900">
-<tbody>
-<tr>
-</tr><tr>
-<td>
-<p><strong>Sports &amp; Games</strong></p>
+1)	Applicants will be assessed based on the following criteria:<br>
+	<strong>Sports &amp; Games</strong><br>
 	•	knowledge of game rules<br>
 	•	in-game decision-making skills<br>
 	•	passion, commitment and interest in game<br>
-</td>
-</tr>
-</tbody>
-</table><hr>
-
-<table width="900">
-<tbody>
-<tr>
-<td>
-<p><strong>Performing Arts</strong></p>
+<hr>
+<strong>Performing Arts</strong><br>
 	•	knowledge in performing arts<br>
 	•	specific arts-related skills<br>
 	•	passion, commitment and interest in performing arts<br>
-</td>
-</tr>
-</tbody>
-</table><hr>
+<hr>
 <strong>Leadership</strong><br>
 	•	understanding of leadership,<br>
 	•	reflection of their past leadership experiences.<br>
