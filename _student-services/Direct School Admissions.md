@@ -256,4 +256,4 @@ description: ""
 </tr>
 </tbody>
 </table><hr>
-
+<p>2)	Applicants under DSA-Sports may be required to demonstrate some sport-specific performance tasks during the trial while applicants under DSA-Performing Arts may be required to perform a short skit based on the script provided during the audition. </p>
