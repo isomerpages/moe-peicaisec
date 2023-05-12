@@ -259,3 +259,5 @@ description: ""
 •	Qualify for an academic course offered by the school (i.e. GS, G2, G1) based on PSLE results<br>
 <p>DSA-Sec allocation results will be released through the students’ Primary Schools together with their PSLE results. 
 </p>
+<p>Please note that students successfully allocated to their DSA-Sec schools will NOT be allowed to participate in the annual S1 Posting Exercise to opt for secondary schools, and are expected to honour the commitment to the allocated DSA-Sec school. They will also NOT be allowed to transfer to another school after the release of the PSLE results. </p>
+<p>Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1-4. </p>
