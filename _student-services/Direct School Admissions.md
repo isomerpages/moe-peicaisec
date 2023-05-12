@@ -226,3 +226,34 @@ description: ""
 </tr>
 </tbody>
 </table><hr>
+
+<table width="943">
+<tbody>
+<tr>
+</tr></tbody></table><table>
+<tbody>
+<tr>
+<td>
+<p><strong>Leadership</strong></p>
+	•	understanding of leadership,<br>
+	•	reflection of their past leadership experiences.<br>
+</td>
+</tr>
+</tbody>
+</table><hr>
+
+<table width="943">
+<tbody>
+<tr>
+</tr></tbody></table><table>
+<tbody>
+<tr>
+<td>
+<p><strong>Uniformed Groups</strong></p>
+	•	understanding of being in uniformed groups,<br>
+	•	passion, commitment and interest in the uniformed groups. <br>
+</td>
+</tr>
+</tbody>
+</table><hr>
+
