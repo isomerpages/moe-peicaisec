@@ -236,3 +236,40 @@ Students who are successfully admitted to the school via DSA are expected to hon
 <p> For more information on DSA-Sec, please refer to the MOE website at https://www.moe.gov.sg/dsa-sec.<br>
 Parents and students are encouraged to choose schools based on the student’s aptitudes and strengths, bearing in mind the schools’ strengths as well as curricular and co-curricular programmes.<br>
 If you would like to have further details or require any clarification, you may contact the following staff:</p>
+<table width="943">
+<tbody>
+<tr>
+<td width="30%">
+<p><strong>Name</strong></p>
+</td>
+<td width="35%">
+<p><strong>Email</strong></p>
+</td>
+<td width="53%">
+<p><strong>Contact Number</strong></p>
+</td>
+</tr>
+<tr>
+<td width="30%">
+<table>
+<tbody>
+<tr>
+<td>
+<p>Mr Alvin Yeo</p>
+	Subject Head,
+Physical Education &amp; CCA
+</td>
+</tr>
+</tbody>
+</table>
+<p><br><br></p>
+</td>
+<td width="35%">
+<p>Alvin_Yeo@schools.gov.sg</p>
+</td>
+<td width="53%">
+<p>6288 4159</p>
+</td>
+</tr>
+</tbody>
+</table>
