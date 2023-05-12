@@ -131,11 +131,12 @@ description: ""
 <p>The UGs develop our students’ leadership potential in various ways. Our UG students are regularly given opportunities to lead, which in turn developing them into independent and confident leaders of character. </p>
 </td>
 <td width="53%">
-<p>Students applying should have relevant experience which could include the following:</p>
+<p>Students applying should have:</p>
 <ul>
-<li>represented at school or national level or relevant external organisations in performances</li>
+<li>attained a minimum conduct grade of “Very Good”</li>
 <li>participated in SYF (Drama) Arts Presentation</li>
-<li>attended drama-related enrichment classes</li>
+<li>attained a proven and sustained record of playing key leadership roles in their respective CCAs in primary school</li>
+<li>active involvement in school level projects or community level programmes or project</li>
 </ul>
 </td>
 </tr>
@@ -143,6 +144,53 @@ description: ""
 </table>
 
 
+<table width="943">
+<tbody>
+<tr>
+<td width="10%">
+<p><strong></strong></p>
+</td>
+<td width="35%">
+<p><strong></strong></p>
+</td>
+<td width="53%">
+<p><strong></strong></p>
+</td>
+</tr>
+<tr>
+<td width="10%">
+<table>
+<tbody>
+<tr>
+<td>
+<p><strong>Leadership and Uniformed Groups</strong></p>
+	<p><strong>•Leadership</strong></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><br><br></p>
+</td>
+<td width="35%">
+<p>Our Student Council (SC) aims to develop students into inspiring leaders with a daring spirit and a passion to lead and serve. The Student Leadership Programme in PCSS offers a wide range of platforms for students to take on leadership roles in the school.   </p>
+<p>Applicants admitted to the school via DSA (Leadership) can expect to be appointed as a Student Councillor in Secondary 1 where they will lead and serve the student body while acquiring key leadership competencies.  </p>
+</td>
+<td width="53%">
+<p>Students applying should have:</p>
+<ul>
+<li>attained a minimum conduct grade of “Very Good”</li>
+<p>And should satisfy at least two of the following: </p>
+<li>currently holding a leadership position at the class, CCA and/or school level</li>
+<li>active involvement in community or school level programmes</li>
+<li>a keen interest in leading and serving the student body and the community</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+
+<h4><strong>Introduction</strong></h4>
+<p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application will be from 4 May 2023, 11am to 31 May 2023, 3pm. For more details, please refer to MOE website – www.moe.gov.sg/dsa-sec.
 
 
 
@@ -150,7 +198,14 @@ description: ""
 
 
 
-<p><em>*Applicants who do not have any specific sports background may be considered for direct admission based on their performance during selection trials.</em></p>
+
+
+
+
+
+
+
+</p><p><em>*Applicants who do not have any specific sports background may be considered for direct admission based on their performance during selection trials.</em></p>
 
 
 <h4><strong>B. Performing Arts</strong></h4>
