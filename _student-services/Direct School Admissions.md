@@ -188,11 +188,11 @@ description: ""
 
 <h4><strong>SCHOOL SELECTION PROCESS</strong></h4>
 <p>All shortlisted applicants will be notified latest by 7 July 2023 to attend an interview and or a trial/audition (only applicable to sports and performing arts) between 26 June 2023 and 11 September 2023. Please note that the meeting of specified criteria does not guarantee the student will be shortlisted or given an offer.</p>
-1)	Applicants will be assessed based on the following criteria:<br>
+<p>1)	Applicants will be assessed based on the following criteria:<br>
 	<strong>Sports &amp; Games</strong><br>
 	•	knowledge of game rules<br>
 	•	in-game decision-making skills<br>
-	•	passion, commitment and interest in game<br><hr>
+	•	passion, commitment and interest in game<br></p><hr>
 <strong>Performing Arts</strong><br>
 	•	knowledge in performing arts<br>
 	•	specific arts-related skills<br>
@@ -202,7 +202,7 @@ description: ""
 	•	reflection of their past leadership experiences.<br><hr>
 <strong>Uniformed Groups</strong><br>
 	•	understanding of being in uniformed groups,<br>
-	•	passion, commitment and interest in the uniformed groups.<br><hr>
+	•	passion, commitment and interest in the uniformed groups.<p></p><br><hr>
 <p>2)	Applicants under DSA-Sports may be required to demonstrate some sport-specific performance tasks during the trial while applicants under DSA-Performing Arts may be required to perform a short skit based on the script provided during the audition. </p>
 <h4><strong>RELEASE OF OUTCOME OF DSA-SEC EXERCISE</strong></h4>
 <p>All applicants would be informed of their selection outcome by 11 September 2023 [i.e. Confirmed Offer (CO), Wait List (WL) or Unsuccessful].</p>
