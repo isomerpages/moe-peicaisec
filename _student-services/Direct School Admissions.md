@@ -242,7 +242,6 @@ Physical Education &amp; CCA
 </tr>
 </tbody>
 </table>
-<p><br><br></p>
 </td>
 <td width="35%">
 <p>Alvin_Yeo@schools.gov.sg</p>
