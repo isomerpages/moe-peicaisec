@@ -98,6 +98,49 @@ description: ""
 </tbody>
 </table>
 
+<table width="943">
+<tbody>
+<tr>
+<td width="10%">
+<p><strong></strong></p>
+</td>
+<td width="35%">
+<p><strong></strong></p>
+</td>
+<td width="53%">
+<p><strong></strong></p>
+</td>
+</tr>
+<tr>
+<td width="10%">
+<table>
+<tbody>
+<tr>
+<td>
+<p><strong>Leadership and Uniformed Groups</strong></p>
+	<p><strong>•	National Cadet Corps (Sea)</strong></p>
+	<p><strong>•	National Police Cadet Corps</strong></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><br><br></p>
+</td>
+<td width="35%">
+<p>Our Uniformed Groups (UGs) have been performing very well over the past years. Our NCC and NPCC units have been consistently achieving the Distinction Awards in the unit competitions for 6 and 5 years respectively.  </p>
+<p>The UGs develop our students’ leadership potential in various ways. Our UG students are regularly given opportunities to lead, which in turn developing them into independent and confident leaders of character. </p>
+</td>
+<td width="53%">
+<p>Students applying should have relevant experience which could include the following:</p>
+<ul>
+<li>represented at school or national level or relevant external organisations in performances</li>
+<li>participated in SYF (Drama) Arts Presentation</li>
+<li>attended drama-related enrichment classes</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
 
 
 
