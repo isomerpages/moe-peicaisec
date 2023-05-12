@@ -189,8 +189,12 @@ description: ""
 </tbody>
 </table>
 
-<h4><strong>Introduction</strong></h4>
-<p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application will be from 4 May 2023, 11am to 31 May 2023, 3pm. For more details, please refer to MOE website – www.moe.gov.sg/dsa-sec.
+<h4><strong>APPLICATION PROCEDURE</strong></h4>
+<p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application will be from 4 May 2023, 11am to 31 May 2023, 3pm. For more details, please refer to MOE website – www.moe.gov.sg/dsa-sec.</p>
+
+<h4><strong>SCHOOL SELECTION PROCESS</strong></h4>
+<p>All shortlisted applicants will be notified latest by 7 July 2023 to attend an interview and or a trial/audition (only applicable to sports and performing arts) between 26 June 2023 and 11 September 2023. Please note that the meeting of specified criteria does not guarantee the student will be shortlisted or given an offer.</p>
+1)	Applicants will be assessed based on the following criteria:
 
 
 
@@ -205,7 +209,8 @@ description: ""
 
 
 
-</p><p><em>*Applicants who do not have any specific sports background may be considered for direct admission based on their performance during selection trials.</em></p>
+
+<p></p><p><em>*Applicants who do not have any specific sports background may be considered for direct admission based on their performance during selection trials.</em></p>
 
 
 <h4><strong>B. Performing Arts</strong></h4>
