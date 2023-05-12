@@ -56,6 +56,49 @@ description: ""
 </tbody>
 </table>
 
+<table width="943">
+<tbody>
+<tr>
+<td width="10%">
+<p><strong></strong></p>
+</td>
+<td width="35%">
+<p><strong></strong></p>
+</td>
+<td width="53%">
+<p><strong></strong></p>
+</td>
+</tr>
+<tr>
+<td width="10%">
+<table>
+<tbody>
+<tr>
+<td>
+<p><strong>Performing Arts</strong></p>
+	<p><strong>•	English Drama</strong></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><br><br></p>
+</td>
+<td width="35%">
+<p>Our English Drama CCA has been doing well at the Singapore Youth Festival (SYF) Presentations with the team achieving the Distinction award this year. </p>
+</td>
+<td width="53%">
+<p>Students applying should have relevant experience which could include the following:</p>
+<ul>
+<li>represented at school or national level or relevant external organisations in performances</li>
+<li>participated in SYF (Drama) Arts Presentation</li>
+<li>attended drama-related enrichment classes</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+
+
 
 
 
