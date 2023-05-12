@@ -189,8 +189,7 @@ description: ""
 <h4><strong>SCHOOL SELECTION PROCESS</strong></h4>
 <p>All shortlisted applicants will be notified latest by 7 July 2023 to attend an interview and or a trial/audition (only applicable to sports and performing arts) between 26 June 2023 and 11 September 2023. Please note that the meeting of specified criteria does not guarantee the student will be shortlisted or given an offer.</p>
 1)	Applicants will be assessed based on the following criteria:
-
-<table width="943">
+<table width="900">
 <tbody>
 <tr>
 </tr></tbody></table><table>
