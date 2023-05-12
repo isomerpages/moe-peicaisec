@@ -3,30 +3,25 @@ title: Direct School Admissions
 permalink: /student-services/prospective-students/direct-school-admission-dsa/
 description: ""
 ---
-<h3><strong>Direct School Admission (DSA)</strong></h3>
+<h3><strong>Direct School Admission – Secondary Exercise (DSA-Sec)</strong></h3>
 <h4><strong>Introduction</strong></h4>
-<p></p><p align="justify">Peicai Secondary School’s (PCSS) Direct School Admission (DSA) programme aims to nurture and develop students in seven main areas – Basketball, Softball, Volleyball, English Drama, National Cadet Corps (NCC) [Sea], National Police Cadet Corps (NPCC) and Leadership. The school’s basketball, softball and volleyball teams have consistently participated at the National School Games while the school’s English Drama Club has consistently participated in the Singapore Youth Festival (SYF) Arts Presentation with notable results. NCC [Sea] and NPCC have consistently achieved the Distinction awards for the Unit competitions for the past few years. Peicai Secondary School hones leadership dispositions in students through its Student Council which organises large-scale school events. </p>
-<p></p><p align="justify">&nbsp;PCSS welcomes Primary Six students eligible for Secondary One admission in 2024 with talents in the various areas stated above to apply for DSA-Sec in 2023. </p>
-<h4><strong>A. Sports and Games</strong></h4>
-<ul>
-	<li><strong>Basketball (Boys)</strong></li>
-<li><strong>Softball (Boys and Girls)</strong></li>
-<li><strong>Volleyball (Boys and Girls)</strong></li>
-</ul>
-<p></p><p align="justify">Our Sports and Games teams aim to develop students into skilled and passionate sportsmen, who are not only competent in sports but possess good character and values such as integrity and sportsmanship.</p>
-<p></p><p align="justify">Applicants admitted to the school via DSA (Sports and Games) can expect to be a member of the school’s sports teams and represent the school in various competitions such as the National Schools Games (NSG).</p>
-<p><u>Criteria</u></p>
+<p></p><p align="justify">Peicai Secondary School (PCSS) welcomes eligible Primary Six students for Secondary One admission in 2024 with talents in various areas to apply for Direct School Admission to Secondary One.  </p>
+<h4><strong>WHY APPLY FOR DSA TO PCSS</strong></h4>
+<p> In PCSS, we focus on the holistic development of our students. We strongly believe that both academic excellence and character development are critical components in nurturing our students to be future ready. </p>
+<p> Our CCAs and Student Leadership groups offer a multitude of exciting opportunities for students to pursue their passion and enhance their skills as they develop 21st Century Competencies. </p> <br>
+
+<p>PCSS offers DSA to students who display talent/passion in the following areas:</p>
 <table width="943">
 <tbody>
 <tr>
 <td width="10%">
-<p><strong>CCA</strong></p>
+<p><strong>Talent Areas</strong></p>
 </td>
 <td width="35%">
-<p><strong>Abilities/Talents</strong></p>
+<p><strong>Strengths</strong></p>
 </td>
 <td width="53%">
-<p><strong>Experience</strong></p>
+<p><strong>Criteria</strong></p>
 </td>
 </tr>
 <tr>
@@ -35,9 +30,10 @@ description: ""
 <tbody>
 <tr>
 <td>
-<p><strong>Basketball</strong></p>
-<p><strong>Softball</strong></p>
-<p><strong>Volleyball</strong></p>
+<p><strong>Sports and Games</strong></p>
+	<p><strong>•Basketball (Boys)</strong></p>
+<p><strong>•	Softball (Boys and Girls)</strong></p>
+<p><strong>•	Volleyball (Boys and Girls)</strong></p>
 </td>
 </tr>
 </tbody>
@@ -45,25 +41,29 @@ description: ""
 <p><br><br></p>
 </td>
 <td width="35%">
-<p>Applicants should</p>
-<ul>
-<li>have keen interest and passion towards the sport,</li>
-<li>possess fundamental skills in the sport, and</li>
-<li>be committed and self-motivated.</li>
-</ul>
+<p>Our Sports and Games have been making steady progress with the most recent achievement being the school’s Volleyball Boys achieving South Zone Top 4 Placing in 2023. </p>
 </td>
 <td width="53%">
-<p>Applicants should have relevant experience such as:</p>
+<p>Students applying should have relevant experience which could include the following:</p>
 <ul>
-<li>represented primary school in National Schools Games (Zonal or National) Inter-Primary School Championship,</li>
-<li>represented National Sports Association or Club in local or overseas competition,,</li>
-<li>participated in MOE’s Junior Sports Academy (JSA) Programme,</li>
-<li>participated in external training programmes.</li>
+<li>represented primary school in National Schools Games (Zonal or National) Inter-Primary School Championship</li>
+<li>represented National Sports Association or Club in local or overseas competition</li>
+<li>participated in MOE’s Junior Sports Academy (JSA) Programme</li>
+<li>participated in external training programmes</li>
 </ul>
 </td>
 </tr>
 </tbody>
 </table>
+
+
+
+
+
+
+
+
+
 <p><em>*Applicants who do not have any specific sports background may be considered for direct admission based on their performance during selection trials.</em></p>
 
 
