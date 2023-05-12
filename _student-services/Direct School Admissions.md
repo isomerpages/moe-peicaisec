@@ -55,7 +55,6 @@ description: ""
 </tr>
 </tbody>
 </table>
-
 <table width="943">
 <tbody>
 <tr>
@@ -97,7 +96,6 @@ description: ""
 </tr>
 </tbody>
 </table>
-
 <table width="943">
 <tbody>
 <tr>
@@ -118,8 +116,8 @@ description: ""
 <tr>
 <td>
 <p><strong>Leadership and Uniformed Groups</strong></p>
-	<p><strong>•	National Cadet Corps (Sea)</strong></p>
-	<p><strong>•	National Police Cadet Corps</strong></p>
+<p><strong>•	National Cadet Corps (Sea)</strong></p>
+<p><strong>•	National Police Cadet Corps</strong></p>
 </td>
 </tr>
 </tbody>
@@ -142,7 +140,6 @@ description: ""
 </tr>
 </tbody>
 </table>
-
 <table width="943">
 <tbody>
 <tr>
@@ -187,7 +184,6 @@ description: ""
 </tr>
 </tbody>
 </table>
-
 <h4><strong>APPLICATION PROCEDURE</strong></h4>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application will be from 4 May 2023, 11am to 31 May 2023, 3pm. For more details, please refer to MOE website – www.moe.gov.sg/dsa-sec.</p>
 
