@@ -253,3 +253,10 @@ description: ""
 </tbody>
 </table><hr>
 <p>2)	Applicants under DSA-Sports may be required to demonstrate some sport-specific performance tasks during the trial while applicants under DSA-Performing Arts may be required to perform a short skit based on the script provided during the audition. </p>
+<h4><strong>RELEASE OF OUTCOME OF DSA-SEC EXERCISE</strong></h4>
+<p>All applicants would be informed of their selection outcome by 11 September 2023 [i.e. Confirmed Offer (CO), Wait List (WL) or Unsuccessful].</p>
+<p>Applicants given CO are guaranteed admission only if they:</p>
+•	Accept the school’s offer during School Preference Submission (23 October – 27 October 2023)<br>
+•	Qualify for an academic course offered by the school (i.e. GS, G2, G1) based on PSLE results<br>
+<p>DSA-Sec allocation results will be released through the students’ Primary Schools together with their PSLE results. 
+</p>
