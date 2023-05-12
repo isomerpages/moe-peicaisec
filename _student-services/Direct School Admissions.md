@@ -202,11 +202,27 @@ description: ""
 <tbody>
 <tr>
 <td>
-<p><strong>Leadership and Uniformed Groups</strong></p>
+<p><strong>Sports &amp; Games</strong></p>
 	•	knowledge of game rules<br>
 	•	in-game decision-making skills<br>
 	•	passion, commitment and interest in game<br>
 </td>
 </tr>
 </tbody>
-</table>
+</table><hr>
+
+<table width="943">
+<tbody>
+<tr>
+</tr></tbody></table><table>
+<tbody>
+<tr>
+<td>
+<p><strong>Performing Arts</strong></p>
+	•	knowledge in performing arts<br>
+	•	specific arts-related skills<br>
+	•	passion, commitment and interest in performing arts<br>
+</td>
+</tr>
+</tbody>
+</table><hr>
