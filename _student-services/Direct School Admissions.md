@@ -8,8 +8,7 @@ description: ""
 <p></p><p align="justify">Peicai Secondary School (PCSS) welcomes eligible Primary Six students for Secondary One admission in 2024 with talents in various areas to apply for Direct School Admission to Secondary One.  </p>
 <h4><strong>WHY APPLY FOR DSA TO PCSS</strong></h4>
 <p> In PCSS, we focus on the holistic development of our students. We strongly believe that both academic excellence and character development are critical components in nurturing our students to be future ready. </p>
-<p> Our CCAs and Student Leadership groups offer a multitude of exciting opportunities for students to pursue their passion and enhance their skills as they develop 21st Century Competencies. </p> <br>
-
+<p> Our CCAs and Student Leadership groups offer a multitude of exciting opportunities for students to pursue their passion and enhance their skills as they develop 21st Century Competencies. </p>
 <p>PCSS offers DSA to students who display talent/passion in the following areas:</p>
 <table width="943">
 <tbody>
