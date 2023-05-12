@@ -215,30 +215,14 @@ description: ""
 </tr>
 </tbody>
 </table><hr>
-
-<table width="900">
-<tbody>
-<tr>
-<td>
-<p><strong>Leadership</strong></p>
+<strong>Leadership</strong><br>
 	•	understanding of leadership,<br>
 	•	reflection of their past leadership experiences.<br>
-</td>
-</tr>
-</tbody>
-</table><hr>
-
-<table width="900">
-<tbody>
-<tr>
-<td>
-<p><strong>Uniformed Groups</strong></p>
+<hr>
+<strong>Uniformed Groups</strong><br>
 	•	understanding of being in uniformed groups,<br>
 	•	passion, commitment and interest in the uniformed groups. <br>
-</td>
-</tr>
-</tbody>
-</table><hr>
+<hr>
 <p>2)	Applicants under DSA-Sports may be required to demonstrate some sport-specific performance tasks during the trial while applicants under DSA-Performing Arts may be required to perform a short skit based on the script provided during the audition. </p>
 <h4><strong>RELEASE OF OUTCOME OF DSA-SEC EXERCISE</strong></h4>
 <p>All applicants would be informed of their selection outcome by 11 September 2023 [i.e. Confirmed Offer (CO), Wait List (WL) or Unsuccessful].</p>
