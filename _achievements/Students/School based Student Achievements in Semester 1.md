@@ -46,7 +46,7 @@ third_nav_title: Students
 <th style="text-align: left;"></th>
 </tr>
 <tr>
-	<td style="text-align: left;">Outstanding Cadet<br> of the Year <br>(Male &amp; Female) </td>
+	<td style="text-align: left;">Outstanding Cadet<br> of the Year <br>(Male &amp; Female)&nbsp;&nbsp;&nbsp; </td>
 <td style="text-align: left;">Recognises and affirms a Sec 4/5 student who has contributed significantly to the Uniformed Group (UG) or attained significant achievements in the respective UG</td>
 </tr>
 </tbody></table>
