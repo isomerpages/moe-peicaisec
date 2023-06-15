@@ -12,7 +12,7 @@ third_nav_title: Students
  mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:1184;mso-padding-alt:
  0in 5.4pt 0in 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:45.75pt"><td width="189" style="width:141.8pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:45.75pt"><p class="MsoNormal" style="margin-top:12.0pt;margin-right:0in;margin-bottom:
-  12.0pt;margin-left:0in;text-align:justify;text-justify:inter-ideograph"><a name="_Hlk136868725"><span lang="EN-GB" style="font-size:10.0pt;font-family:
+  12.0pt;margin-left:0in;text-align:justify;text-justify:inter-ideograph"><a name="_Hlk136868725"><span lang="EN-GB" style="font-size:11.0pt;font-family:
   &quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;color:black;mso-bidi-font-weight:
   bold">Principal’s List</span></a></p></td><td width="219" style="width:163.9pt;border:solid windowtext 1.0pt;border-left:
   none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
