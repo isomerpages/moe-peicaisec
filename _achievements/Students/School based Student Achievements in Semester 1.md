@@ -7,7 +7,7 @@ third_nav_title: Students
 <p></p><h4>4.	School-based Student Achievements in Semester 1</h4><p></p>
 <p> As part of recognising students for their holistic achievements, 185 school-based awards were awarded to our students and we would like to congratulate all students who have received the following school-based awards. Please refer to the school website at https://www.peicaisec.moe.edu.sg/achievements/students for more details. </p>
 
-<table class="TableGrid1" border="1" cellspacing="0" cellpadding="0" style="margin-left:
+<table class="TableGrid1" border="1" cellspacing="0" cellpadding="0" style="margin-center:
  27.0pt;border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
  mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:1184;mso-padding-alt:
  0in 5.4pt 0in 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:45.75pt"><td width="189" style="width:141.8pt;border:solid windowtext 1.0pt;mso-border-alt:
