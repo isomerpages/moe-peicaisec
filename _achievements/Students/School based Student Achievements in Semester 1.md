@@ -17,3 +17,14 @@ third_nav_title: Students
 <td style="text-align: left;">Recognises and affirms students who have achieve outstanding results on a Semestral basis and demonstrated exemplary conduct</td>
 </tr>
 </tbody></table>
+<table>
+<tbody>
+<tr>
+<th style="text-align: left;"></th>
+<th style="text-align: left;"></th>
+</tr>
+<tr>
+<td style="text-align: left;">Sports Boy of the Year </td>
+<td style="text-align: left;">Recognises and affirms a Sec 4/5 male student who has contributed significantly to the sports teams or attained significant achievements in the field of the sport</td>
+</tr>
+</tbody></table>
