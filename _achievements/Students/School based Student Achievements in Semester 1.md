@@ -14,7 +14,7 @@ third_nav_title: Students
 </tr>
 <tr>
 <td style="text-align: left;">Principal’s List </td>
-<td style="text-align: left;">Recognises and affirms students who have achieve outstanding results on a Semestral basis and demonstrated exemplary conduct</td>
+<td style="text-align: left;">Recognises and affirms students who have achieve outstanding results on a Semestral basis and demonstrated exemplary conduct</td>	
 </tr>
 </tbody></table>
 <table>
@@ -46,7 +46,7 @@ third_nav_title: Students
 <th style="text-align: left;"></th>
 </tr>
 <tr>
-<td style="text-align: left;">Outstanding Cadet of the Year (Male &amp; Female) </td>
+	<td style="text-align: left;">Outstanding Cadet<br> of the Year <br>(Male &amp; Female) </td>
 <td style="text-align: left;">Recognises and affirms a Sec 4/5 student who has contributed significantly to the Uniformed Group (UG) or attained significant achievements in the respective UG</td>
 </tr>
 </tbody></table>
@@ -57,7 +57,40 @@ third_nav_title: Students
 <th style="text-align: left;"></th>
 </tr>
 <tr>
-<td style="text-align: left;">Outstanding Performer of the Year (Male &amp; Female) </td>
+	<td style="text-align: left;">Outstanding Performer <br>of the Year ,<br>(Male &amp; Female) </td>
 <td style="text-align: left;">Recognises and affirms a Sec 4/5 student who has contributed significantly to the Performing Arts groups or attained significant achievements in the respective Performing Arts groups</td>
+</tr>
+</tbody></table>
+<table>
+<tbody>
+<tr>
+<th style="text-align: left;"></th>
+<th style="text-align: left;"></th>
+</tr>
+<tr>
+	<td style="text-align: left;">Outstanding Contributor<br> of the Year</td>
+<td style="text-align: left;">Recognises and affirms a Sec 4/5 student who has contributed significantly to the Clubs and Societies or attained significant achievements in the respective Clubs and Societies</td>
+</tr>
+</tbody></table>
+<table>
+<tbody>
+<tr>
+<th style="text-align: left;"></th>
+<th style="text-align: left;"></th>
+</tr>
+<tr>
+<td style="text-align: left;">Outstanding Leader of the Year</td>
+<td style="text-align: left;">Recognises and affirms a Sec 4/5 student who has contributed significantly to the school as a leader in various ares (e.g. Student Council, CCA, Class, VIA groups) and exhibited exemplary conduct and leadership skills </td>
+</tr>
+</tbody></table>
+<table>
+<tbody>
+<tr>
+<th style="text-align: left;"></th>
+<th style="text-align: left;"></th>
+</tr>
+<tr>
+<td style="text-align: left;">CCA Colours Awards</td>
+<td style="text-align: left;">Recognises and affirms Sec 4/5 students who have who have attained significant achievements in their respective CCAs and contributed to the running of the CCAs or to the school to his/her best ability</td>
 </tr>
 </tbody></table>
