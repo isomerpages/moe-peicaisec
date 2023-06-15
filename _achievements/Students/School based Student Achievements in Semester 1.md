@@ -13,7 +13,7 @@ third_nav_title: Students
 <th style="text-align: left;"></th>
 </tr>
 <tr>
-<td style="text-align: left;">Principal’s List </td>
+<td style="text-align: left;">Principal’s List &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
 <td style="text-align: left;">Recognises and affirms students who have achieve outstanding results on a Semestral basis and demonstrated exemplary conduct</td>	
 </tr>
 </tbody></table>
@@ -24,7 +24,7 @@ third_nav_title: Students
 <th style="text-align: left;"></th>
 </tr>
 <tr>
-<td style="text-align: left;">Sports Boy of the Year </td>
+<td style="text-align: left;">Sports Boy of the Year&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </td>
 <td style="text-align: left;">Recognises and affirms a Sec 4/5 male student who has contributed significantly to the sports teams or attained significant achievements in the field of the sport</td>
 </tr>
 </tbody></table>
@@ -35,7 +35,7 @@ third_nav_title: Students
 <th style="text-align: left;"></th>
 </tr>
 <tr>
-<td style="text-align: left;">Sports Girl of the Year </td>
+<td style="text-align: left;">Sports Girl of the Year&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </td>
 <td style="text-align: left;">Recognises and affirms a Sec 4/5 female student who has contributed significantly to the sports teams or attained significant achievements in the field of the sport</td>
 </tr>
 </tbody></table>
@@ -90,7 +90,7 @@ third_nav_title: Students
 <th style="text-align: left;"></th>
 </tr>
 <tr>
-<td style="text-align: left;">CCA Colours Awards</td>
+<td style="text-align: left;">CCA Colours Awards&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
 <td style="text-align: left;">Recognises and affirms Sec 4/5 students who have who have attained significant achievements in their respective CCAs and contributed to the running of the CCAs or to the school to his/her best ability</td>
 </tr>
 </tbody></table>
