@@ -13,7 +13,7 @@ third_nav_title: Students
 <th style="text-align: left;"></th>
 </tr>
 <tr>
-<td style="text-align: left;">Principal’s List &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td style="text-align: left;">Principal’s List &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
 <td style="text-align: left;">Recognises and affirms students who have achieve outstanding results on a Semestral basis and demonstrated exemplary conduct</td>	
 </tr>
 </tbody></table>
