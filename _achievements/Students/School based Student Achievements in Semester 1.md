@@ -102,3 +102,11 @@ third_nav_title: Students
 <tr>
 </tr>
 </tbody></table>
+<p>At the end of Semester 2, the school will be giving out the following awards:</p>
+<p>1.	Principal’s List<br>
+2.	Good Improvement Award<br>
+3.	Junior Sports Boy &amp; Girl of the Year<br>
+4.	Outstanding Junior Cadet of the Year (Male &amp; Female)<br>
+5.	Outstanding Junior Performer of the Year (Male &amp; Female)<br>
+6.	Outstanding Junior Contributor of the Year<br>
+7.	Outstanding Junior Leader of the Year</p>
