@@ -68,7 +68,7 @@ third_nav_title: Students
 <th style="text-align: left;"></th>
 </tr>
 <tr>
-	<td style="text-align: left;">Outstanding Contributor<br> of the Year</td>
+	<td style="text-align: left;">Outstanding Contributor of the Year</td>
 <td style="text-align: left;">Recognises and affirms a Sec 4/5 student who has contributed significantly to the Clubs and Societies or attained significant achievements in the respective Clubs and Societies</td>
 </tr>
 </tbody></table>
