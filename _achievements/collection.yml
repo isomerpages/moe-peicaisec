@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - Students/.keep
-      - Students/Students.md
       - Students/School based Student Achievements in Semester 1.md
+      - Students/Students.md
       - Students/The Principal's List.md
       - Students/Individual Student Achievements.md
       - Students/Co Curricular Achievements.md
