@@ -116,7 +116,7 @@ third_nav_title: Students
   mso-bidi-font-weight:bold">who have attained significant achievements in their respective CCAs and contributed to the running of the CCAs or to the school to his/her best ability</span></span><span style="mso-bookmark:_Hlk136868725"><span lang="EN-GB" style="font-size:11.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
   Arial;mso-bidi-font-family:Arial;color:black;mso-bidi-font-weight:bold"></span></span></p></td></tr></tbody></table>
 
-
+<p>At the end of Semester 2, the school will be giving out the following awards:</p>
 
 <p>1.	Principal’s List<br>
 2.	Good Improvement Award<br>
