@@ -28,3 +28,36 @@ third_nav_title: Students
 <td style="text-align: left;">Recognises and affirms a Sec 4/5 male student who has contributed significantly to the sports teams or attained significant achievements in the field of the sport</td>
 </tr>
 </tbody></table>
+<table>
+<tbody>
+<tr>
+<th style="text-align: left;"></th>
+<th style="text-align: left;"></th>
+</tr>
+<tr>
+<td style="text-align: left;">Sports Girl of the Year </td>
+<td style="text-align: left;">Recognises and affirms a Sec 4/5 female student who has contributed significantly to the sports teams or attained significant achievements in the field of the sport</td>
+</tr>
+</tbody></table>
+<table>
+<tbody>
+<tr>
+<th style="text-align: left;"></th>
+<th style="text-align: left;"></th>
+</tr>
+<tr>
+<td style="text-align: left;">Outstanding Cadet of the Year (Male &amp; Female) </td>
+<td style="text-align: left;">Recognises and affirms a Sec 4/5 student who has contributed significantly to the Uniformed Group (UG) or attained significant achievements in the respective UG</td>
+</tr>
+</tbody></table>
+<table>
+<tbody>
+<tr>
+<th style="text-align: left;"></th>
+<th style="text-align: left;"></th>
+</tr>
+<tr>
+<td style="text-align: left;">Outstanding Performer of the Year (Male &amp; Female) </td>
+<td style="text-align: left;">Recognises and affirms a Sec 4/5 student who has contributed significantly to the Performing Arts groups or attained significant achievements in the respective Performing Arts groups</td>
+</tr>
+</tbody></table>
