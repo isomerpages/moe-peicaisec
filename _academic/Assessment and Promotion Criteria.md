@@ -394,4 +394,3 @@ b) 4 subjects
 </tr>
 </tbody>
 </table>
-
