@@ -2,7 +2,6 @@ collections:
   academic:
     output: true
     order:
-      - Assessment and Promotion Criteria.md
       - Subjects offered.md
       - Full Subject Based Banding (FSBB).md
       - Subject Overviews.md
