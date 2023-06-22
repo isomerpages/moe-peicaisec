@@ -134,13 +134,13 @@ description: ""
 <p>WA1 (15%)</p>
 </td>
 <td style="text-align: center;" width="143">
-<p>MYE (30%)</p>
+<p>WA2 (15%)</p>
 </td>
 <td style="text-align: center;" width="143">
 <p>WA3 (15%)</p>
 </td>
 <td style="text-align: center;" width="143">
-<p>EYE (40%)</p>
+<p>EYE (55%)</p>
 </td>
 </tr>
 	<tr>
@@ -151,13 +151,13 @@ description: ""
 <p>WA1 (15%)</p>
 </td>
 <td style="text-align: center;" width="143">
-<p>MYE (30%)</p>
+<p>WA2 (15%)</p>
 </td>
 <td style="text-align: center;" width="143">
 <p>WA3 (15%)</p>
 </td>
 <td style="text-align: center;" width="143">
-<p>EYE (40%)</p>
+<p>EYE (55%)</p>
 </td>
 </tr>
 <tr>
@@ -168,13 +168,13 @@ description: ""
 <p>WA1&nbsp;(100%)</p>
 </td>
 <td style="text-align: center;" width="143">
-<p>MYE&nbsp;(100%)</p>
-</td>
-<td style="text-align: center;" width="143">
-<p>-</p>
+<p>WA2&nbsp;(100%)</p>
 </td>
 <td style="text-align: center;" width="143">
 <p>Prelim (100%)</p>
+</td>
+<td style="text-align: center;" width="143">
+<p>-</p>
 </td>
 </tr>
 <tr>
@@ -185,13 +185,13 @@ description: ""
 <p>WA1&nbsp;(100%)</p>
 </td>
 <td style="text-align: center;" width="143">
-<p>MYE (100%)</p>
-</td>
-<td style="text-align: center;" width="143">
-<p>-</p>
+<p>WA2&nbsp;(100%)</p>
 </td>
 <td style="text-align: center;" width="143">
 <p>Prelim (100%)</p>
+</td>
+<td style="text-align: center;" width="143">
+<p>-</p>
 </td>
 </tr>
 </tbody>
