@@ -136,11 +136,11 @@ third_nav_title: Students
 </tbody>
 </table>
 </p><hr>
-<p align="center"><b>Congratulations to our NPCC Cadets </b>
+<p align="center"><b></b>
 <table>
 <tbody>
 <tr>
-<th><img src="/images/congratulations to our npcc cadets 1 copy.png" style="width: 100%;"><br>	
+<th><img src="/images/02congratulationsperforming arts.png" style="width: 100%;"><br>	
 </th>
 </tr>
 </tbody>
