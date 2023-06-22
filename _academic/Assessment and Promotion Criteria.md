@@ -163,12 +163,13 @@ description: ""
   mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;">&nbsp;*U (Ungraded)&nbsp;&nbsp; &nbsp; &nbsp;</span></p></td></tr></tbody></table>
 
 <p>*Grades marked with asterisks are fail grades.</p>
-<h4><strong>Criteria For Promotion from Sec 1 to Sec 3</strong></h4>
+<h4><strong>To be promoted to Secondary 2, the criteria for the respective courses are as follows: </strong></h4>
+
 <table>
-<tbody>
+<tbody>	
 <tr>
 <th style="width: 128.156px; text-align: center;">
-<p>Course &amp; Level</p>
+<p>Course &amp; Level (Secondary 1)</p>
 </th>
 <th style="width: 542.844px; text-align: center;">
 <p>Promotion Criteria</p>
@@ -176,27 +177,29 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center; width: 128.156px;">
-<p>Normal (Technical)</p>
+<p>Express</p>
 </td>
 <td style="width: 542.844px;">
-<p><u>Sec 1 to Sec 3<br></u>*Grade D or better in 2 subjects, one of which should be EL or Mathematics.<br>*Student who do not meet the criteria will be retained.<br>*Student must attain a minimum of 70% in the overall&nbsp;percentage of all subjects combined to be laterally transferred from.<br>*Sec 1NT to Sec 2NA<br>*Sec 2NT to Sec 2NA<br>*Sec 3NT to Sec 3NA</p>
+Pass in English Language and a pass percentage in the average of all subjects<p></p>
 </td>
 </tr>
 <tr>
 <td style="text-align: center; width: 128.156px;">
-<p>Normal (Academic)</p>
+<p>Normal Academic</p>
 </td>
 <td style="width: 542.844px;">
-<p><u>Sec 1&nbsp;to&nbsp;Sec 3<br></u>*Grades 5 or better in EL and 2 other subjects OR 4 other subjects.<br>*Students who do not meet the criteria will be retained.<br>*Student must attain a minimum of 70% in the overall&nbsp;percentage of all subjects combined to be laterally transferred from Sec 1NA/2NA to Sec 2EX/3EX</p>
+Grade 5 or better in
+a) English Language and 2 other subjects or
+b) 4 subjects
+<p></p>
 </td>
 </tr>
 <tr>
 <td style="text-align: center; width: 128.156px;">
-<p>Express&nbsp;</p>
+<p>Normal Technical</p>
 </td>
 <td style="width: 542.844px;">
-<p><u>Sec 1 &amp; Sec 2<br></u>*C6 or better in EL and a Pass in overall percentage of all subjects combined.<br>*Students who do not meet the criteria will be laterally transferred from Sec 1EX/2EX to Sec 2NA/3NA.</p>
-<p><u>Sec 3<br></u>*C6 or better in EL and 2 other subjects.&nbsp;<br>*Students who do not meet the criteria will be retained at Sec 3EX or apply to be transferred to Sec 4NA.</p>
+Grade D or better in 2 subjects, one of which should be English Language or Mathematics<p></p>
 </td>
 </tr>
 </tbody>
