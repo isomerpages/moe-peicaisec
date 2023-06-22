@@ -196,3 +196,4 @@ description: ""
 </tr>
 </tbody>
 </table>
+<p>Promotion to the next level is dependent on student's performance in both Weighted Assessment (WA) and End-of-Year 	Examinations (EYE).</p>
