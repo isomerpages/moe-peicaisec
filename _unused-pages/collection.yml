@@ -2,6 +2,7 @@ collections:
   unused-pages:
     output: true
     order:
+      - Assessment and Promotion Criteria1.md
       - Subject Areas.md
       - Mental and Emotional Wellbeing & Support.md
       - (ECG).md
