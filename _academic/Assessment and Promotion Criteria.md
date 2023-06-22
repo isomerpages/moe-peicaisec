@@ -90,7 +90,7 @@ description: ""
 </tbody>
 </table>
 <h4><strong>Assessment &amp; Subject Weighting</strong></h4>
-<p></p><p align="justify">Promotion from one level to the next is dependent on student's&nbsp;performance in both continual&nbsp;and semestral assessments.</p>
+<p></p><p align="justify">Promotion to the next level is dependent on student's performance in both Weighted Assessment (WA) and End-of-Year 	Examinations (EYE).</p>
 <h4><strong>Weighted Assessments for 2023</strong></h4>
 <table>
 <tbody>
@@ -196,4 +196,3 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p>Promotion to the next level is dependent on student's performance in both Weighted Assessment (WA) and End-of-Year 	Examinations (EYE).</p>
