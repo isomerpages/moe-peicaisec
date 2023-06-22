@@ -221,7 +221,7 @@ b) 4 subjects
 <p>Express</p>
 </td>
 <td style="width: 542.844px;">
-Pass in English Language and a pass percentage in the average of all subjects<p></p>
+<p>Pass in English Language and a pass percentage in the average of all subjects</p>
 </td>
 </tr>
 <tr>
