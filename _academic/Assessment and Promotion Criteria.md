@@ -3,7 +3,7 @@ title: Assessment and Promotion Criteria
 permalink: /academic/assessment-and-promotion-criteria/
 description: ""
 ---
-<img src="/images/am.jpg">
+<img src="/images/am.jpg" style="width: 50%;">
 <h4><strong>The Grading System</strong></h4>
 
 <table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="725" style="width:543.65pt;border-collapse:collapse;border:none;mso-border-alt:
@@ -163,12 +163,13 @@ description: ""
   mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;">&nbsp;*U (Ungraded)&nbsp;&nbsp; &nbsp; &nbsp;</span></p></td></tr></tbody></table>
 
 <p>*Grades marked with asterisks are fail grades.</p>
-<h4><strong>To be promoted to Secondary 2, the criteria for the respective courses are as follows: </strong></h4>
+<p></p><h5>Secondary 1</h5>
+<strong>To be promoted to Secondary 2, the criteria for the respective courses are as follows: </strong>
 <table>
 <tbody>	
 <tr>
 <th style="width: 128.156px; text-align: center;">
-<p>Course &amp; Level (Secondary 1)</p>
+<p>Course &amp; Level </p>
 </th>
 <th style="width: 542.844px; text-align: center;">
 <p>Promotion Criteria</p>
@@ -203,8 +204,8 @@ b) 4 subjects
 </tr>
 </tbody>
 </table>
-
-<h4><strong>To be promoted to Secondary 3, the criteria for the respective courses are as follows: </strong></h4>
+<p></p><h5>Secondary 2</h5>
+<strong>To be promoted to Secondary 3, the criteria for the respective courses are as follows: </strong>
 <table>
 <tbody>	
 <tr>
@@ -245,7 +246,8 @@ b) 4 subjects
 </tbody>
 </table>
 
-<h4><strong>To be promoted to Secondary 4, the criteria for the respective courses are as follows: </strong></h4>
+<p></p><h5>Secondary 3</h5>
+<strong>To be promoted to Secondary 4, the criteria for the respective courses are as follows: </strong>
 <table>
 <tbody>	
 <tr>
