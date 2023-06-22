@@ -180,7 +180,7 @@ third_nav_title: Students
 <table>
 <tbody>
 <tr>
-<th><img src="/images/03peicai atheletes in national school games 2023.png" style="width: 100%;"><br>	
+<th><img src="/images/06singapore and asian schools mathematics olympia.png" style="width: 100%;"><br>	
 </th>
 </tr>
 </tbody>
@@ -190,7 +190,7 @@ third_nav_title: Students
 <table>
 <tbody>
 <tr>
-<th><img src="/images/03peicai atheletes in national school games 2023.png" style="width: 100%;"><br>	
+<th><img src="/images/07science pinnacle@peicai.png" style="width: 100%;"><br>	
 </th>
 </tr>
 </tbody>
@@ -200,7 +200,7 @@ third_nav_title: Students
 <table>
 <tbody>
 <tr>
-<th><img src="/images/03peicai atheletes in national school games 2023.png" style="width: 100%;"><br>	
+<th><img src="/images/08congratulations peicai sec science department for clinching.png" style="width: 100%;"><br>	
 </th>
 </tr>
 </tbody>
