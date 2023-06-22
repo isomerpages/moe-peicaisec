@@ -91,7 +91,7 @@ description: ""
 </table>
 <h4><strong>Assessment &amp; Subject Weighting</strong></h4>
 <p></p><p align="justify">Promotion from one level to the next is dependent on student's&nbsp;performance in both continual&nbsp;and semestral assessments.</p>
-<h4><strong>Only For Term 3 Onwards</strong></h4>
+<h4><strong>Weighted Assessments for 2023</strong></h4>
 <table>
 <tbody>
 <tr>
@@ -111,7 +111,7 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;" width="142">
-<p>Sec 1&nbsp;&amp;&nbsp;Sec 3</p>
+<p>Sec 1</p>
 </td>
 <td style="text-align: center;" width="143">
 <p>WA1 (15%)</p>
@@ -129,6 +129,23 @@ description: ""
 <tr>
 <td style="text-align: center;" width="142">
 <p>Sec 2</p>
+</td>
+<td style="text-align: center;" width="143">
+<p>WA1 (15%)</p>
+</td>
+<td style="text-align: center;" width="143">
+<p>MYE (30%)</p>
+</td>
+<td style="text-align: center;" width="143">
+<p>WA3 (15%)</p>
+</td>
+<td style="text-align: center;" width="143">
+<p>EYE (40%)</p>
+</td>
+</tr>
+	<tr>
+<td style="text-align: center;" width="142">
+<p>Sec 3</p>
 </td>
 <td style="text-align: center;" width="143">
 <p>WA1 (15%)</p>
