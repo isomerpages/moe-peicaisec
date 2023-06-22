@@ -131,7 +131,7 @@ third_nav_title: Students
 <table>
 <tbody>
 <tr>
-<th><img src="/images/bus captain appreciation by sec 3 cohort 1.jpg" style="width: 100%;"><br>	
+<th><img src="/images/01congratulations uniform groups.png" style="width: 100%;"><br>	
 </th></tr>
 </tbody>
 </table>
