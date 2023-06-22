@@ -210,7 +210,7 @@ b) 4 subjects
 <tbody>	
 <tr>
 <th style="width: 128.156px; text-align: center;">
-<p>Course &amp; Level (Secondary 2)</p>
+<p>Course &amp; Level </p>
 </th>
 <th style="width: 542.844px; text-align: center;">
 <p>Promotion Criteria</p>
@@ -252,7 +252,7 @@ b) 4 subjects
 <tbody>	
 <tr>
 <th style="width: 128.156px; text-align: center;">
-<p>Course &amp; Level (Secondary 3)</p>
+<p>Course &amp; Level </p>
 </th>
 <th style="width: 542.844px; text-align: center;">
 <p>Promotion Criteria</p>
