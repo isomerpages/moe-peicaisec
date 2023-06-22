@@ -164,7 +164,6 @@ description: ""
 
 <p>*Grades marked with asterisks are fail grades.</p>
 <h4><strong>To be promoted to Secondary 2, the criteria for the respective courses are as follows: </strong></h4>
-
 <table>
 <tbody>	
 <tr>
@@ -204,6 +203,48 @@ Grade D or better in 2 subjects, one of which should be English Language or Math
 </tr>
 </tbody>
 </table>
+
+<h4><strong>To be promoted to Secondary 3, the criteria for the respective courses are as follows: </strong></h4>
+<table>
+<tbody>	
+<tr>
+<th style="width: 128.156px; text-align: center;">
+<p>Course &amp; Level (Secondary 2)</p>
+</th>
+<th style="width: 542.844px; text-align: center;">
+<p>Promotion Criteria</p>
+</th>
+</tr>
+<tr>
+<td style="text-align: center; width: 128.156px;">
+<p>Express</p>
+</td>
+<td style="width: 542.844px;">
+Pass in English Language and a pass percentage in the average of all subjects<p></p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center; width: 128.156px;">
+<p>Normal Academic</p>
+</td>
+<td style="width: 542.844px;">
+Grade 5 or better in
+a) English Language and 2 other subjects or
+b) 4 subjects
+<p></p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center; width: 128.156px;">
+<p>Normal Technical</p>
+</td>
+<td style="width: 542.844px;">
+Grade D or better in 2 subjects, one of which should be English Language or Mathematics<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+
 <h4><strong>Assessment &amp; Subject Weighting</strong></h4>
 <p></p><p align="justify">Promotion to the next level is dependent on student's performance in both Weighted Assessment (WA) and End-of-Year 	Examinations (EYE).</p>
 <h4><strong>Weighted Assessments for 2023</strong></h4>
