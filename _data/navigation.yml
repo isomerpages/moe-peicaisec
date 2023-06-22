@@ -22,6 +22,8 @@ links:
     sublinks:
       - title: Subjects offered
         url: /academic/subjects-offered
+      - title: Assessment and Promotion
+        url: /academic/assessment-and-promotion-criteria
       - title: Full Subject Based Banding
         url: /academic/full-subject-based-banding-fsbb
       - title: Subject Overviews
@@ -42,8 +44,6 @@ links:
         url: /academic/physical-education
       - title: Science
         url: /academic/science
-      - title: "Assessment and Promotion "
-        url: /academic/assessment-and-promotion-criteria
   - title: Student Development
     url: /student-development/character-n-citizenship-education
     sublinks:
