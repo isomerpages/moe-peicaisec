@@ -3,7 +3,114 @@ title: Assessment and Promotion Criteria
 permalink: /academic/assessment-and-promotion-criteria/
 description: ""
 ---
-<img src="/images/am.jpg" style="width: 50%;">
+<h4><strong>Assessment &amp; Subject Weighting</strong></h4>
+<p></p><p align="justify">Promotion to the next level is dependent on student's performance in both Weighted Assessment (WA) and End-of-Year 	Examinations (EYE).</p>
+<h4><strong>Weighted Assessments for 2023</strong></h4>
+<table>
+<tbody>
+<tr>
+<td width="142" style="text-align: center;">&nbsp;</td>
+<td width="143" style="text-align: center;">
+<p>Term 1</p>
+</td>
+<td width="143" style="text-align: center;">
+<p>Term 2</p>
+</td>
+<td width="143" style="text-align: center;">
+<p>Term 3</p>
+</td>
+<td width="143" style="text-align: center;">
+<p>Term 4</p>
+</td>
+</tr>
+<tr>
+<td width="142" style="text-align: center;">
+<p>Sec 1</p>
+</td>
+<td width="143" style="text-align: center;">
+<p>WA1 (15%)</p>
+</td>
+<td width="143" style="text-align: center;">
+<p>WA2 (15%)</p>
+</td>
+<td width="143" style="text-align: center;">
+<p>WA3 (15%)</p>
+</td>
+<td width="143" style="text-align: center;">
+<p>EYE (55%)</p>
+</td>
+</tr>
+<tr>
+<td width="142" style="text-align: center;">
+<p>Sec 2</p>
+</td>
+<td width="143" style="text-align: center;">
+<p>WA1 (15%)</p>
+</td>
+<td width="143" style="text-align: center;">
+<p>WA2 (15%)</p>
+</td>
+<td width="143" style="text-align: center;">
+<p>WA3 (15%)</p>
+</td>
+<td width="143" style="text-align: center;">
+<p>EYE (55%)</p>
+</td>
+</tr>
+	<tr>
+<td width="142" style="text-align: center;">
+<p>Sec 3</p>
+</td>
+<td width="143" style="text-align: center;">
+<p>WA1 (15%)</p>
+</td>
+<td width="143" style="text-align: center;">
+<p>WA2 (15%)</p>
+</td>
+<td width="143" style="text-align: center;">
+<p>WA3 (15%)</p>
+</td>
+<td width="143" style="text-align: center;">
+<p>EYE (55%)</p>
+</td>
+</tr>
+<tr>
+<td width="142" style="text-align: center;">
+<p>Sec4N</p>
+</td>
+<td width="143" style="text-align: center;">
+<p>WA1&nbsp;(100%)</p>
+</td>
+<td width="143" style="text-align: center;">
+<p>WA2&nbsp;(100%)</p>
+</td>
+<td width="143" style="text-align: center;">
+<p>Prelim (100%)</p>
+</td>
+<td width="143" style="text-align: center;">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td width="142" style="text-align: center;">
+<p>Sec 4E5N</p>
+</td>
+<td width="143" style="text-align: center;">
+<p>WA1&nbsp;(100%)</p>
+</td>
+<td width="143" style="text-align: center;">
+<p>WA2&nbsp;(100%)</p>
+</td>
+<td width="143" style="text-align: center;">
+<p>Prelim (100%)</p>
+</td>
+<td width="143" style="text-align: center;">
+<p>-</p>
+</td>
+</tr>
+</tbody>
+</table>
+
 <h4><strong>The Grading System</strong></h4>
 
 <table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="725" style="width:543.65pt;border-collapse:collapse;border:none;mso-border-alt:
@@ -288,110 +395,3 @@ b) 4 subjects
 </tbody>
 </table>
 
-<h4><strong>Assessment &amp; Subject Weighting</strong></h4>
-<p></p><p align="justify">Promotion to the next level is dependent on student's performance in both Weighted Assessment (WA) and End-of-Year 	Examinations (EYE).</p>
-<h4><strong>Weighted Assessments for 2023</strong></h4>
-<table>
-<tbody>
-<tr>
-<td width="142" style="text-align: center;">&nbsp;</td>
-<td width="143" style="text-align: center;">
-<p>Term 1</p>
-</td>
-<td width="143" style="text-align: center;">
-<p>Term 2</p>
-</td>
-<td width="143" style="text-align: center;">
-<p>Term 3</p>
-</td>
-<td width="143" style="text-align: center;">
-<p>Term 4</p>
-</td>
-</tr>
-<tr>
-<td width="142" style="text-align: center;">
-<p>Sec 1</p>
-</td>
-<td width="143" style="text-align: center;">
-<p>WA1 (15%)</p>
-</td>
-<td width="143" style="text-align: center;">
-<p>WA2 (15%)</p>
-</td>
-<td width="143" style="text-align: center;">
-<p>WA3 (15%)</p>
-</td>
-<td width="143" style="text-align: center;">
-<p>EYE (55%)</p>
-</td>
-</tr>
-<tr>
-<td width="142" style="text-align: center;">
-<p>Sec 2</p>
-</td>
-<td width="143" style="text-align: center;">
-<p>WA1 (15%)</p>
-</td>
-<td width="143" style="text-align: center;">
-<p>WA2 (15%)</p>
-</td>
-<td width="143" style="text-align: center;">
-<p>WA3 (15%)</p>
-</td>
-<td width="143" style="text-align: center;">
-<p>EYE (55%)</p>
-</td>
-</tr>
-	<tr>
-<td width="142" style="text-align: center;">
-<p>Sec 3</p>
-</td>
-<td width="143" style="text-align: center;">
-<p>WA1 (15%)</p>
-</td>
-<td width="143" style="text-align: center;">
-<p>WA2 (15%)</p>
-</td>
-<td width="143" style="text-align: center;">
-<p>WA3 (15%)</p>
-</td>
-<td width="143" style="text-align: center;">
-<p>EYE (55%)</p>
-</td>
-</tr>
-<tr>
-<td width="142" style="text-align: center;">
-<p>Sec4N</p>
-</td>
-<td width="143" style="text-align: center;">
-<p>WA1&nbsp;(100%)</p>
-</td>
-<td width="143" style="text-align: center;">
-<p>WA2&nbsp;(100%)</p>
-</td>
-<td width="143" style="text-align: center;">
-<p>Prelim (100%)</p>
-</td>
-<td width="143" style="text-align: center;">
-<p>-</p>
-</td>
-</tr>
-<tr>
-<td width="142" style="text-align: center;">
-<p>Sec 4E5N</p>
-</td>
-<td width="143" style="text-align: center;">
-<p>WA1&nbsp;(100%)</p>
-</td>
-<td width="143" style="text-align: center;">
-<p>WA2&nbsp;(100%)</p>
-</td>
-<td width="143" style="text-align: center;">
-<p>Prelim (100%)</p>
-</td>
-<td width="143" style="text-align: center;">
-<p>-</p>
-</td>
-</tr>
-</tbody>
-</table>
