@@ -170,7 +170,7 @@ third_nav_title: Students
 <table>
 <tbody>
 <tr>
-<th><img src="/images/03peicai atheletes in national school games 2023.png" style="width: 100%;"><br>	
+<th><img src="/images/05schools debating championship (sssdc).png" style="width: 100%;"><br>	
 </th>
 </tr>
 </tbody>
