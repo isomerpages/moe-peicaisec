@@ -179,7 +179,7 @@ description: ""
 <p>Express</p>
 </td>
 <td style="width: 542.844px;">
-Pass in English Language and a pass percentage in the average of all subjects<p></p>
+<p>Pass in English Language and a pass percentage in the average of all subjects</p>
 </td>
 </tr>
 <tr>
@@ -187,10 +187,10 @@ Pass in English Language and a pass percentage in the average of all subjects<p>
 <p>Normal Academic</p>
 </td>
 <td style="width: 542.844px;">
-Grade 5 or better in
-a) English Language and 2 other subjects or
+<p>Grade 5 or better in,<br>
+	a) English Language and 2 other subjects or<br>
 b) 4 subjects
-<p></p>
+</p>
 </td>
 </tr>
 <tr>
@@ -198,7 +198,7 @@ b) 4 subjects
 <p>Normal Technical</p>
 </td>
 <td style="width: 542.844px;">
-Grade D or better in 2 subjects, one of which should be English Language or Mathematics<p></p>
+<p>Grade D or better in 2 subjects, one of which should be English Language or Mathematics</p>
 </td>
 </tr>
 </tbody>
@@ -228,10 +228,10 @@ Pass in English Language and a pass percentage in the average of all subjects<p>
 <p>Normal Academic</p>
 </td>
 <td style="width: 542.844px;">
-Grade 5 or better in
-a) English Language and 2 other subjects or
+<p>Grade 5 or better in,<br>
+a) English Language and 2 other subjects or<br>
 b) 4 subjects
-<p></p>
+</p>
 </td>
 </tr>
 <tr>
@@ -239,7 +239,48 @@ b) 4 subjects
 <p>Normal Technical</p>
 </td>
 <td style="width: 542.844px;">
-Grade D or better in 2 subjects, one of which should be English Language or Mathematics<p></p>
+<p>Grade D or better in 2 subjects, one of which should be English Language or Mathematics</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<h4><strong>To be promoted to Secondary 4, the criteria for the respective courses are as follows: </strong></h4>
+<table>
+<tbody>	
+<tr>
+<th style="width: 128.156px; text-align: center;">
+<p>Course &amp; Level (Secondary 3)</p>
+</th>
+<th style="width: 542.844px; text-align: center;">
+<p>Promotion Criteria</p>
+</th>
+</tr>
+<tr>
+<td style="text-align: center; width: 128.156px;">
+<p>Express</p>
+</td>
+<td style="width: 542.844px;">
+<p>Pass in English Language and two other subjects</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center; width: 128.156px;">
+<p>Normal Academic</p>
+</td>
+<td style="width: 542.844px;">
+<p>Grade 5 or better in,<br>
+	a) English Language and 2 other subjects or<br>
+b) 4 subjects
+</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center; width: 128.156px;">
+<p>Normal Technical</p>
+</td>
+<td style="width: 542.844px;">
+<p>Grade D or better in 2 subjects, one of which should be English Language or Mathematics</p>
 </td>
 </tr>
 </tbody>
