@@ -60,6 +60,7 @@ description: ""
 </td></tr>
 </tbody>
 </table>
+
 <table>
 <tbody>
 <tr>
@@ -69,6 +70,32 @@ description: ""
 </tbody>
 </table>
 
+<table>
+<tbody>
+<tr>
+<th><img src="/images/pcss 2023 overseas student exchange and local work attachment programme 2023 05.JPG" style="width: 100%;"><br>	
+</th><td><img src="/images/pcss 2023 overseas student exchange and local work attachment programme 2023 06.JPG" style="width: 100%;"><br>
+</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr>
+<th><img src="/images/pcss 2023 overseas student exchange and local work attachment programme 2023 07.JPG" style="width: 100%;"><br>	
+</th><td><img src="/images/pcss 2023 overseas student exchange and local work attachment programme 2023 08.JPG" style="width: 100%;"><br>
+</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr>
+<th><img src="/images/pcss 2023 overseas student exchange and local work attachment programme 2023 09.JPG" style="width: 100%;"><br>	
+</th><td><img src="/images/pcss 2023 overseas student exchange and local work attachment programme 2023 10.JPG" style="width: 100%;"><br>
+</td></tr>
+</tbody>
+</table>
 
 <b>Bus Captain Appreciation by Sec 3 Cohort</b><br><br>
 <img style="width: %;" src="/images/Bus Captain Appreciation by Sec 3 Cohort.jpg"><br>
