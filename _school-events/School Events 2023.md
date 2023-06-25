@@ -51,7 +51,7 @@ description: ""
 </table>
 <hr>
 
-<b>CCA Appreciation Day</b><br>
+<b>CCA PCSS 2023 Overseas Student Exchange and Local Work Attachment Programme 2023</b><br>
 <table>
 <tbody>
 <tr>
