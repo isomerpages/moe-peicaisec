@@ -31,6 +31,24 @@ description: ""
 </table>
 <hr>
 
+<b>CCA Appreciation Day</b><br>
+<table>
+<tbody>
+<tr>
+<th><img src="/images/cca appreciation day01.JPG" style="width: 100%;"><br>	
+</th><td><img src="/images/cca appreciation day02.JPG" style="width: 100%;"><br>
+</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr>
+<th><img src="/images/cca appreciation day03.JPG" style="width: 100%;"><br>	
+</th><td><img src="/images/cca appreciation day04.JPG" style="width: 100%;"><br>
+</td></tr>
+</tbody>
+</table>
 
 
 <b>Bus Captain Appreciation by Sec 3 Cohort</b><br><br>
