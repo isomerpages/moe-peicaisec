@@ -3,8 +3,7 @@ title: Staff Email Addresses 2023
 permalink: /our-peicai-family/staff-email-addresses-2023/
 description: ""
 ---
-       
-<p><table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="611" style="width:458.6pt;border-collapse:collapse;border:none;mso-border-alt:solid #EAEAEA .75pt;
+<p><table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="611" style="width:458pt;border-collapse:collapse;border:none;mso-border-alt:solid #EAEAEA .75pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0in 0in 0in 0in"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="145" style="width:108.95pt;border:solid black 1.0pt;mso-border-alt:
   solid black .75pt;padding:5.25pt 5.25pt 5.25pt 5.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
   line-height:16.8pt"><b><span style="font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
