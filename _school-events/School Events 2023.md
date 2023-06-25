@@ -3,7 +3,7 @@ title: School Events 2023
 permalink: /schoolevents/schoolevents2023/
 description: ""
 ---
-<p></p><h2>PCSS Sports Day 2023</h2><p></p>
+<b>PCSS Sports Day 2023</b><br>
 <table>
 <tbody>
 <tr>
