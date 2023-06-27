@@ -193,11 +193,11 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;" width="208">
-<p><a href="/files/English%20Language_3EXP_Sem1%202023.pdf">English Language</a>
+<p><a href="/files/English%20Language_3EXP_Sem1%202023.pdf">English Language</a><br>
 <a href="/files/3exp lit subject overview sem 2_v3.pdf">English Literature</a>
 </p></td>
 <td style="text-align: center;" width="208">
-<p><a href="/files/English%20Language_3NA_Sem1%202023.pdf">English Language</a></p>
+<p><a href="/files/English%20Language_3NA_Sem1%202023.pdf">English Language</a><br><a href="/files/3na lit subject overview sem 2_v3.pdf">English Literature</a></p>
 </td>
 <td style="text-align: center;" width="208">
 <p><a href="/files/English%20Language_3NT_Sem1%202023.pdf">English Language</a></p>
@@ -282,7 +282,6 @@ description: ""
 <tr>
 <td style="text-align: center;" width="208">
 <p><a href="/files/English%20Language_4E5N_Sem1%202023.pdf">English Language</a><br>
-<a href="/files/3na lit subject overview sem 2_v3.pdf">English Literature</a>
 </p></td>
 <td style="text-align: center;" width="208">
 <p><a href="/files/English%20Language_4NA_Sem1%202023.pdf">English Language</a></p>
