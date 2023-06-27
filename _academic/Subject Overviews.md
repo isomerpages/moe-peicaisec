@@ -25,7 +25,7 @@ description: ""
 <p><a href="/files/1exp el subject overview sem 2_v3.pdf">English Language</a><br><a href="/files/Literature_1EXP%20Subject%20Overview.pdf">English Literature</a></p>
 </td>
 <td style="text-align: center;" width="208">
-<p><a href="/files/1na el subject overview sem 2_v3.pdf">English Language</a><br><a href="/files/1NA Lit Subject Overview Sem 2_v3.pdf">English Literature</a></p>
+<p><a href="/files/1na el subject overview sem 2_v3.pdf">English Language</a><br><a href="/files/1na lit subject overview sem 2_v3.pdf">English Literature</a></p>
 </td>
 <td style="text-align: center;" width="208">
 <p><a href="/files/English%20Language_1NT_Sem1%202023.pdf">English Language</a></p>
