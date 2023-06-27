@@ -69,7 +69,7 @@ description: ""
 <p><a href="/files/geography_1ex_sem22023_v3.pdf">Geography</a><br><a href="/files/history_1e_sem 22023_v3.pdf">History</a></p>
 </td>
 <td style="text-align: center;" width="208">
-<p><a href="/files/geography_1na_sem22023_v3.pdf">Geography</a><br><a href="/files/History_1NA_%20Sem12023.pdf">History</a></p>
+<p><a href="/files/geography_1na_sem22023_v3.pdf">Geography</a><br><a href="/files/history_1na_sem 22023_v3.pdf">History</a></p>
 </td>
 <td style="text-align: center;" width="208"><p><a href="/files/SS_1NT_Sem12023.pdf">Social Studies</a></p></td>
 </tr>
