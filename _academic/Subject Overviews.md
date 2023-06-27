@@ -266,7 +266,7 @@ description: ""
 </tbody>
 </table>
 <h4 style="text-align: center;"><strong>Secondary Four and Five</strong></h4>
-<table>
+<p></p><table>
 <tbody>
 <tr>
 <td style="text-align: center;" width="208">
@@ -281,9 +281,9 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;" width="208">
-<p><a href="/files/English%20Language_4E5N_Sem1%202023.pdf">English Language</a></p>
+<p><a href="/files/English%20Language_4E5N_Sem1%202023.pdf">English Language</a><br>
 <a href="/files/3na lit subject overview sem 2_v3.pdf">English Literature</a>
-</td>
+</p></td>
 <td style="text-align: center;" width="208">
 <p><a href="/files/English%20Language_4NA_Sem1%202023.pdf">English Language</a></p>
 </td>
