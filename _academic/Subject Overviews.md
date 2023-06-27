@@ -238,7 +238,7 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;" width="208">
-<p><a href="/files/SS_3EX_Sem12023.pdf">Social Studies</a><br><a href="/files/geography_3ex_sem22023_v3.pdf">Elective Geography</a><br><a href="/files/Elective%20History_3EX_Sem12023.pdf">Elective History</a><br><a href="/files/Literature_3EXP%20Subject%20Overview.pdf">Elective Literature</a><br><a href="/files/Pure_Geog_3EX_Sem12023.pdf">Pure Geography</a><br><a href="/files/Pure%20History_3EX_Sem12023.pdf">Pure History</a><br><a href="/files/POA_3EX_Sem12023.pdf">Principles of Accounts</a></p>
+<p><a href="/files/SS_3EX_Sem12023.pdf">Social Studies</a><br><a href="/files/geography_3ex_sem22023_v3.pdf">Elective Geography</a><br><a href="/files/Elective%20History_3EX_Sem12023.pdf">Elective History</a><br><a href="/files/Literature_3EXP%20Subject%20Overview.pdf">Elective Literature</a><br><a href="/files/pure geography_3ex_sem 22023_v3.pdf">Pure Geography</a><br><a href="/files/Pure%20History_3EX_Sem12023.pdf">Pure History</a><br><a href="/files/POA_3EX_Sem12023.pdf">Principles of Accounts</a></p>
 </td>
 <td style="text-align: center;" width="208">
 <p><a href="/files/SS_3NA_Sem12023.pdf">Social Studies</a><br><a href="/files/geography_3na_sem2 2023_v3.pdf">Elective Geography</a><br><a href="/files/Elective%20History_3NA_Sem12023.pdf">Elective History</a><br><a href="/files/Literature_3NA%20Subject%20Overview.pdf">Elective Literature</a><br><a href="/files/POA_3NA_Sem12023.pdf">Principles of Accounts</a>&nbsp;</p>
@@ -325,9 +325,9 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;" width="208">
-<p><a href="/files/Humanities/SS_4EX_Sem12023.pdf">Social Studies 4E</a><br><a href="/files/Humanities/SS_5NA_Sem12023.pdf">Social Studies 5N</a><br><a href="/files/Humanities/Pure_Geog_4EX_Sem2023.pdf">Pure Geography</a><br><a href="/files/Literature_4EXP%20Pure%20Subject%20Overview_Macbeth.pdf">Pure Literature (Macbeth)</a><br><a href="/files/Elective_Geography_4EX_Sem12023.pdf">Elective Geography 4E</a><br><a href="/files/Elective_Geography_5NA_Sem12023.pdf">Elective Geography 5N</a><br><a href="/files/Elective%20History_4EX5NA_Sem12023.pdf">Elective History</a><br><a href="/files/Literature_4EXP%20Elective%20Subject%20Overview_F451.pdf">Elective Literature </a><br><a href="/files/POA_4EX_Sem12023.pdf">Principles of Accounts</a></p></td>
+<p><a href="/files/Humanities/SS_4EX_Sem12023.pdf">Social Studies 4E</a><br><a href="/files/Humanities/SS_5NA_Sem12023.pdf">Social Studies 5N</a><br><a href="/files/Humanities/Pure_Geog_4EX_Sem2023.pdf">Pure Geography</a><br><a href="/files/Literature_4EXP%20Pure%20Subject%20Overview_Macbeth.pdf">Pure Literature (Macbeth)</a><br><a href="/files/geography_4ex_sem22023_v3.pdf">Elective Geography 4E</a><br><a href="/files/geography_5n_sem22023_v3.pdf">Elective Geography 5N</a><br><a href="/files/Elective%20History_4EX5NA_Sem12023.pdf">Elective History</a><br><a href="/files/Literature_4EXP%20Elective%20Subject%20Overview_F451.pdf">Elective Literature </a><br><a href="/files/POA_4EX_Sem12023.pdf">Principles of Accounts</a></p></td>
 <td style="text-align: center;" width="208">
-	<p><a href="/files/SS_4NA_Sem12023.pdf">Social Studies</a><br><a href="/files/Elective_Geography_4NA_Sem12023.pdf">Elective Geography</a><br><a href="/files/Elective%20History_4NA_2023.pdf">Elective History</a><br><a href="/files/POA_4NA_Sem12023.pdf">Principles of Accounts</a></p>
+	<p><a href="/files/SS_4NA_Sem12023.pdf">Social Studies</a><br><a href="/files/geography_4na_sem22023_v3.pdf">Elective Geography</a><br><a href="/files/Elective%20History_4NA_2023.pdf">Elective History</a><br><a href="/files/POA_4NA_Sem12023.pdf">Principles of Accounts</a></p>
 </td>
 <td style="text-align: center;" width="208"><p><a href="/files/SS_4NT_Sem2023.pdf">Social Studies</a></p></td>
 </tr>
