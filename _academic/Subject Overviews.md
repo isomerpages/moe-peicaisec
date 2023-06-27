@@ -248,7 +248,7 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;" width="208">
-<p><a href="/files/art subject overview_ sec 3exp_sem22023_v3.pdf">Art</a><br><a href="/files/D&amp;T_3E_v1.pdf">Design and Technology</a><br><a href="/files/NFS_3Exp_v1.pdf">Nutrition and Food Science</a></p>
+<p><a href="/files/art subject overview_ sec 3exp_sem22023_v3.pdf">Art</a><br><a href="/files/D&amp;T_3E_v1.pdf">Design and Technology</a><br><a href="/files/2023 sem 2 subject overview_3exp_nfs_v3.pdf">Nutrition and Food Science</a></p>
 </td>
 <td style="text-align: center;" width="208">
 <p><a href="/files/art subject overview_ sec 3na_sem22023_v3.pdf">Art</a><br><a href="/files/D&amp;T_3NA_v1.pdf">Design and Technology</a><br><a href="/files/NFS_3NA_v1.pdf">Nutrition and Food Science</a></p>
