@@ -44,7 +44,7 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;" width="208">
-<p><a href="/files/Maths_1EXP_Sem12023.pdf">Mathematics</a></p>
+<p><a href="/files/math_1exp_sem2 2023_v3.pdf">Mathematics</a></p>
 </td>
 <td style="text-align: center;" width="208">
 <p><a href="/files/Maths_1NA_Sem v12023.pdf">Mathematics</a></p>
