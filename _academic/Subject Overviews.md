@@ -146,7 +146,7 @@ description: ""
 <p><a href="/files/science2na lss 2023 sem 2_v3.pdf">Science</a></p>
 </td>
 <td style="text-align: center;" width="208">
-<p><a href="/files/science2nt science 2023 semester 2_v3.pdf">Science</a></p>
+<p><a href="/files/science2nt science 2023 semester 2_v3_.pdf">Science</a></p>
 </td>
 </tr>
 <tr>
