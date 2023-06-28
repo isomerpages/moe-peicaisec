@@ -172,7 +172,7 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;" colspan="3">
-<p><strong>Physical Education<br></strong><a href="/files/PE_2A1_2C1_Sem12023.pdf">2A1/2C1</a> <a href="/files/PE_2A2_2B2_2C4_Sem12023.pdf">2A2/2B2/2C4</a> <a href="/files/PE_2B1_Sem12023.pdf">2B1</a> <a href="/files/PE_2B3_Sem12023.pdf">2B3</a> <a href="/files/PE_2C2_Sem12023.pdf">2C2</a> <a href="/files/PE_2C3_Sem12023.pdf">2C3</a></p>
+<p><strong>Physical Education<br></strong><a href="/files/pe_2a1_2b2_2c1_sem22023_v3.pdf">2A1/2B2/2C1</a>-<a href="/files/pe_2b1_sem22023_v3.pdf">2B1</a>- <a href="/files/pe_2b3_sem22023_v3.pdf">2B3</a>- <a href="/files/pe_2c2_2a2_sem22023_v3.pdf">2C2/2A2</a>- <a href="/files/pe_2c3_2c4_sem22023_v3.pdf">2C3/2C4</a></p>
 </td>
 </tr>
 </tbody>
