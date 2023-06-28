@@ -314,13 +314,13 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;" width="208">
-<p><a href="/files/science4e biology 2023-sem 2_v3.pdf">Biology</a><br><a href="/files/Chemistry_4EXP_Sem12023_v1.pdf">Chemistry</a><br><a href="/files/Physics_4EXP_Sem12023.pdf">Physics</a><br><a href="/files/ScienceBiology_4EXP_Sem12023.pdf">Science Biology 4E</a><br><a href="/files/ScienceBiology_5NA_Sem12023.pdf">Science Biology 5N</a><br><a href="/files/Science(Chemistry)_4EXP_Sem12023_v2.pdf">Science Chemistry 4E</a><br><a href="/files/Science(Chemistry)_5NA_Sem12023_v2.pdf">Science Chemistry 5N</a><br><a href="/files/ciencePhysics_4EXP_Sem12023.pdf">Science Physics 4E</a><br><a href="/files/SciencePhysics_5NA_Sem12023.pdf">Science Physics 5N</a></p>
+<p><a href="/files/science4e biology 2023-sem 2_v3.pdf">Biology</a><br><a href="/files/science4e chemistry 2023-sem 2_v3.pdf">Chemistry</a><br><a href="/files/science4e physics 2023-sem 2_v3.pdf">Physics</a><br><a href="/files/science4e sc(bio) 2023 semester 2_v3.pdf">Science Biology 4E</a><br><a href="/files/science5na sc(bio) 2023 sem 2_v3.pdf">Science Biology 5N</a><br><a href="/files/Science(Chemistry)_4EXP_Sem12023_v2.pdf">Science Chemistry 4E</a><br><a href="/files/science5na sc(chem) 2023 semester 2_v3.pdf">Science Chemistry 5N</a><br><a href="/files/SciencePhysics_4EXP_Sem12023.pdf">Science Physics 4E</a><br><a href="/files/science5na sc(phy) 2023 semester 2_v3.pdf">Science Physics 5N</a></p>
 </td>
 <td style="text-align: center;" width="208">
-<p><a href="/files/ScienceBiology_4NA_Sem12023.pdf">Science Biology</a><br><a href="/files/Science(Chemistry)_4NA_Sem12023_v1.pdf">Science Chemistry</a><br><a href="/files/SciencePhysics_4NA_Sem12023.pdf">Science Physics</a></p>
+<p><a href="/files/science4na sc(bio) 2023 sem 2_v3.pdf">Science Biology</a><br><a href="/files/Science(Chemistry)_4NA_Sem12023_v1.pdf">Science Chemistry</a><br><a href="/files/science4na sc(phy) 2023 semester 2_v3.pdf">Science Physics</a></p>
 </td>
 <td style="text-align: center;" width="208">
-<p><a href="/files/Science_4NT_Sem12023.pdf">Science</a></p>
+<p><a href="/files/science4nt science 2023 semester 2_v3.pdf">Science</a></p>
 </td>
 </tr>
 <tr>
