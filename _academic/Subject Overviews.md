@@ -303,13 +303,13 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;" width="208">
-<p><a href="/files/add math_4exp_sem2_2023_v3.pdf">Additional Mathematics 4E</a><br><a href="/files/add math_5na_sem2_2023_v3.pdf">Additional Mathematics 5N</a><br><a href="/files/Math_4EXP_Sem12023.pdf">Mathematics 4E</a><br><a href="/files/Math_5NA_Sem12023.pdf">Mathematics 5N</a></p>
+<p><a href="/files/add math_4exp_sem2_2023_v3.pdf">Additional Mathematics 4E</a><br><a href="/files/add math_5na_sem2_2023_v3.pdf">Additional Mathematics 5N</a><br><a href="/files/add math_4exp_sem2_2023_v3.pdf">Mathematics 4E</a><br><a href="/files/Math_5NA_Sem12023.pdf">Mathematics 5N</a></p>
 </td>
 <td style="text-align: center;" width="208">
-<p><a href="/files/add math_4na_sem2_2023_v3.pdf">Additional Mathematics</a><br><a href="/files/Math_4NA_Sem12023.pdf">Mathematics</a></p>
+<p><a href="/files/add math_4na_sem2_2023_v3.pdf">Additional Mathematics</a><br><a href="/files/math_4na_sem2_2023_v3.pdf">Mathematics</a></p>
 </td>
 <td style="text-align: center;" width="208">
-<p><a href="/files/4nt_cpa_sem 2_subject overview_v3.pdf">Computer Applications</a><br><a href="/files/Mathmatics/Math_4NT_Sem12023.pdf">Mathematics</a></p>
+<p><a href="/files/4nt_cpa_sem 2_subject overview_v3.pdf">Computer Applications</a><br><a href="/files/math_4nt_sem2_2023_v3.pdf">Mathematics</a></p>
 </td>
 </tr>
 <tr>
