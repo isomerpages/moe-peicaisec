@@ -140,13 +140,13 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;" width="208">
-<p><a href="/files/Science_2EXP_Sem12023_v1.pdf">Science</a></p>
+<p><a href="/files/science2e lss 2023 sem 2_v3.pdf">Science</a></p>
 </td>
 <td style="text-align: center;" width="208">
-<p><a href="/files/Science_2NA_Sem12023.pdf">Science</a></p>
+<p><a href="/files/science2na lss 2023 sem 2_v3.pdf">Science</a></p>
 </td>
 <td style="text-align: center;" width="208">
-<p><a href="/files/Science_2NT_Sem12023.pdf">Science</a></p>
+<p><a href="/files/science2nt science 2023 semester 2_v3.pdf">Science</a></p>
 </td>
 </tr>
 <tr>
