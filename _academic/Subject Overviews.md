@@ -129,7 +129,7 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;" width="208">
-<p><a href="/files/Math_2EXP_Sem12023.pdf">Mathematics</a></p>
+<p><a href="/files/math_2exp_sem2_2023_v3.pdf">Mathematics</a></p>
 </td>
 <td style="text-align: center;" width="208">
 <p><a href="/files/Math_2NA_Sem12023.pdf">Mathematics</a></p>
