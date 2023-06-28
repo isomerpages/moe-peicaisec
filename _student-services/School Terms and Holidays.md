@@ -132,7 +132,7 @@ description: ""
 <p>Youth Day</p>
 </td>
 <td>
-<p>Sunday 2 July<br><em>(The following Monday, 4 Jul 2023 will be a scheduled school holiday)</em></p>
+<p>Sunday 2 July<br><em>(The following Monday, 3 Jul 2023 will be a scheduled school holiday)</em></p>
 </td>
 </tr>
 <tr>
