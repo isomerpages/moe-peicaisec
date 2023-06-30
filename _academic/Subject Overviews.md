@@ -205,13 +205,13 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;" width="208">
-<p><a href="/files/Chinese Language_3Exp_Sem12023v1.pdf">Chinese</a><br><a href="/files/Chinese Language_3CLB_Sem12023v1.pdf">Chinese Syllabus B</a><br><a href="/files/Chinese Language_3HCL_Sem12023v1.pdf">Higher Chinese</a><br><a href="/files/Malay Language_3EXP_Sem 12023v1.pdf">Malay</a></p>
+<p><a href="/files/3cl_exp_subject overview 2023 sem 2_v3.pdf">Chinese</a><br><a href="/files/3cl_nt_subject overview 2023 sem 2_v3.pdf">Chinese Syllabus B</a><br><a href="/files/3hcl_subject overview 2023 sem 2_v3.pdf">Higher Chinese</a><br><a href="/files/Malay Language_3EXP_Sem 12023v1.pdf">Malay</a></p>
 </td>
 <td style="text-align: center;" width="208">
-<p><a href="/files/Chinese Language_3NA_Sem12023v1.pdf">Chinese</a><br><a href="/files/Chinese%20Language_3CLB_Sem12023.pdf">Chinese Syllabus B</a><br><a href="/files/Malay Language_3NA_Sem12023v1.pdf">Malay</a></p>
+<p><a href="/files/3cl_na_subject overview 2023 sem 2_v3.pdf">Chinese</a><br><a href="/files/Chinese%20Language_3CLB_Sem12023.pdf">Chinese Syllabus B</a><br><a href="/files/Malay Language_3NA_Sem12023v1.pdf">Malay</a></p>
 </td>
 <td style="text-align: center;" width="208">
-<p><a href="/files/Chinese Language_3NT_Sem12023v1.pdf">Basic Chinese</a><br><a href="/files/Malay Language_3NT_Sem12023v1.pdf">Basic Malay</a></p>
+<p><a href="/files/3cl_nt_subject overview 2023 sem 2_v3.pdf">Basic Chinese</a><br><a href="/files/Malay Language_3NT_Sem12023v1.pdf">Basic Malay</a></p>
 </td>
 </tr>
 <tr>
