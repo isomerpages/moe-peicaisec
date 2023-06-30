@@ -241,7 +241,7 @@ description: ""
 <p><a href="/files/ss_3ex_sem22023_v3.pdf">Social Studies</a><br><a href="/files/geography_3ex_sem22023_v3.pdf">Elective Geography</a><br><a href="/files/elective history_3ex_sem22023_v3.pdf">Elective History</a><br><a href="/files/full history_3e_sem 22023_v3.pdf">Full History</a><br><a href="/files/Literature_3EXP%20Subject%20Overview.pdf">Elective Literature</a><br><a href="/files/pure geography_3ex_sem 22023_v3.pdf">Pure Geography</a><br><a href="/files/Pure%20History_3EX_Sem12023.pdf">Pure History</a><br><a href="/files/poa_3ex_sem22023_v3.pdf">Principles of Accounts</a></p>
 </td>
 <td style="text-align: center;" width="208">
-<p><a href="/files/ss_3na_sem22023_v3.pdf">Social Studies</a><br><a href="/files/geography_3na_sem2 2023_v3.pdf">Elective Geography</a><br><a href="/files/elective history_3na_sem2 2023_v3.pdf">Elective History</a><br><a href="/files/Literature_3NA%20Subject%20Overview.pdf">Elective Literature</a><br><a href="/files/POA_3NA_Sem22023_v3.pdf">Principles of Accounts</a>&nbsp;</p>
+<p><a href="/files/ss_3na_sem22023_v3.pdf">Social Studies</a><br><a href="/files/geography_3na_sem2 2023_v3.pdf">Elective Geography</a><br><a href="/files/elective history_3na_sem2 2023_v3.pdf">Elective History</a><br><a href="/files/Literature_3NA%20Subject%20Overview.pdf">Elective Literature</a><br><a href="/files/poa_3na_sem22023_v3.pdf">Principles of Accounts</a>&nbsp;</p>
 </td>
 <td style="text-align: center;" width="208"><br>
 <p><a href="/files/SS_3NT_Sem12023.pdf">Social Studies</a></p>
