@@ -110,10 +110,10 @@ description: ""
 <p><a href="/files/2exp el subject overview sem 2_v3.pdf">English Language</a><br>
 <a href="/files/2exp lit subject overview sem 2_v3.pdf">English Literature</a>
 </p></td><td style="text-align: center;" width="208">
-<p><a href="/files/English%20Language_2NA_Sem1%202023.pdf">English Language</a><br><a href="/files/Literature_2NA Subject Overview_v1.pdf">English Literature</a></p>
+<p><a href="/files/2na el subject overview sem 2_v3.pdf">English Language</a><br><a href="/files/Literature_2NA Subject Overview_v1.pdf">English Literature</a></p>
 </td>
 <td style="text-align: center;" width="208">
-<p><a href="/files/English%20Language_2NT_Sem1%202023.pdf">English Language</a></p>
+<p><a href="/files/2nt el subject overview sem 2_v3.pdf">English Language</a></p>
 </td>
 </tr>
 <tr>
