@@ -298,7 +298,7 @@ description: ""
 <p><a href="/files/4cl_na_subject overview 2023 sem 2_v3.pdf">Chinese</a><br><a href="/files/Chinese Language_4CLB_Sem12023v1.pdf">Chinese Syllabus B</a><br><a href="/files/s4ml_na_subject overview 2023 sem 2_v3.pdf">Malay</a></p>
 </td>
 <td style="text-align: center;" width="208">
-<p><a href="/files/4cl_nt_subject overview 2023 sem 2_v3.pdf">Basic Chinese</a><br><a href="/files/Malay Language_4NT_Sem12023v1.pdf">Basic Malay</a></p>
+<p><a href="/files/4cl_nt_subject overview 2023 sem 2_v3.pdf">Basic Chinese</a><br><a href="/files/s4ml_nt_subject overview 2023 sem 2_v3.pdf">Basic Malay</a></p>
 </td>
 </tr>
 <tr>
