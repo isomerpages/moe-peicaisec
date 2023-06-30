@@ -118,10 +118,10 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;" width="208">
-<p><a href="/files/2cl_exp_subject overview 2023 sem 2_v3.pdf">Chinese</a><br><a href="/files/Malay Language_2EXP_Sem 12023v1.pdf">Malay</a></p>
+<p><a href="/files/2cl_exp_subject overview 2023 sem 2_v3.pdf">Chinese</a><br><a href="/files/s2ml_exp_subject overview 2023 sem 2_v3.pdf">Malay</a></p>
 </td>
 <td style="text-align: center;" width="208">
-<p><a href="/files/2cl_na_subject overview 2023 sem 2_v3.pdf">Chinese</a><br><a href="/files/Malay Language_2NA_Sem12023v1.pdf">Malay</a></p>
+<p><a href="/files/2cl_na_subject overview 2023 sem 2_v3.pdf">Chinese</a><br><a href="/files/s2ml_na_subject overview 2023 sem 2_v3.pdf">Malay</a></p>
 </td>
 <td style="text-align: center;" width="208">
 <p><a href="/files/2cl_nt_subject overview 2023 sem 2_v3.pdf">Basic Chinese</a><br><a href="/files/Malay Language_2NT_Sem12023v1.pdf">Basic Malay</a></p>
