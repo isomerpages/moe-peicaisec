@@ -76,17 +76,17 @@ description: ""
 <tr>
 <td style="text-align: center;" width="208">
 <p><a href="/files/art subject overview_ sec 1_sem22023_v3.pdf">Art</a><br>
-
+-
 <br><a href="/files/2023 subject overview sec 1 ena_fce_v3_1.pdf">Food &amp; Consumer Education</a><br></p>
 </td>
 <td style="text-align: center;" width="208">
 <p><a href="/files/art subject overview_ sec 1_sem22023_v3.pdf">Art</a><br>
-	
+-	
 <br><a href="/files/2023 subject overview sec 1 ena_fce_v3_1.pdf">Food &amp; Consumer Education</a><br></p>
 </td>
 <td style="text-align: center;" width="208">
 <p><a href="/files/art subject overview_ sec 1_sem22023_v3.pdf">Art</a><br>
-	
+	-
 <br><a href="/files/2023 subject overview sec 1 nt)_fce_v3_1.pdf">Food &amp; Consumer Education</a><br></p>
 </td>
 </tr>
@@ -170,10 +170,10 @@ description: ""
 	<a href="/files/subject overview_d&amp;t_sec 2_2023_v3.pdf">Design &amp; Technology</a><br><a href="/files/fce_2exp_v2.pdf">Food and Consumer Education</a><br></p>
 </td>
 <td style="text-align: center;" width="208">
-<p><a href="/files/art_subject overview_sec 2_sem22023_v3.pdf">Art</a><br>                                                                        <br></p>
+<p><a href="/files/art_subject overview_sec 2_sem22023_v3.pdf">Art</a><br>     -                                                                   <br></p>
 </td>
 <td style="text-align: center;" width="208">
-<p><a href="/files/art_subject overview_sec 2_sem22023_v3.pdf">Art</a><br>                                                                      <br></p>
+<p><a href="/files/art_subject overview_sec 2_sem22023_v3.pdf">Art</a><br>    -                                                                  <br></p>
 </td>
 </tr>
 <tr>
@@ -214,7 +214,7 @@ description: ""
 <p><a href="/files/3cl_exp_subject overview 2023 sem 2_v3.pdf">Chinese</a><br><a href="/files/3cl_nt_subject overview 2023 sem 2_v3.pdf">Chinese Syllabus B</a><br><a href="/files/3hcl_subject overview 2023 sem 2_v3.pdf">Higher Chinese</a><br><a href="/files/s3ml_exp_subject overview 2023 sem 2_v3.pdf">Malay</a></p>
 </td>
 <td style="text-align: center;" width="208">
-<p><a href="/files/3cl_na_subject overview 2023 sem 2_v3.pdf">Chinese</a><br>
+<p><a href="/files/3cl_na_subject overview 2023 sem 2_v3.pdf">Chinese</a><br>-
 <br><a href="/files/s3ml_na _subject overview 2023 sem 2_v3.pdf">Malay</a></p>
 </td>
 <td style="text-align: center;" width="208">
