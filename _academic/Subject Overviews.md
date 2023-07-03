@@ -247,10 +247,10 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;" width="208">
-<p><a href="/files/ss_3ex_sem22023_v3.pdf">Social Studies</a><br><a href="/files/geography_3ex_sem22023_v3.pdf">Elective Geography</a><br><a href="/files/elective history_3ex_sem22023_v3.pdf">Elective History</a><br><a href="/files/full history_3e_sem 22023_v3.pdf">Full History</a><br><a href="/files/Literature_3EXP%20Subject%20Overview.pdf">Elective Literature</a><br><a href="/files/pure geography_3ex_sem 22023_v3.pdf">Pure Geography</a><br><a href="/files/Pure%20History_3EX_Sem12023.pdf">Pure History</a><br><a href="/files/poa_3ex_sem22023_v3.pdf">Principles of Accounts</a></p>
+<p><a href="/files/ss_3ex_sem22023_v3.pdf">Social Studies</a><br><a href="/files/geography_3ex_sem22023_v3.pdf">Elective Geography</a><br><a href="/files/elective history_3ex_sem22023_v3.pdf">Elective History</a><br><a href="/files/full history_3e_sem 22023_v3.pdf">Full History</a><br>- <br><a href="/files/pure geography_3ex_sem 22023_v3.pdf">Pure Geography</a><br><a href="/files/Pure%20History_3EX_Sem12023.pdf">Pure History</a><br><a href="/files/poa_3ex_sem22023_v3.pdf">Principles of Accounts</a></p>
 </td>
 <td style="text-align: center;" width="208">
-<p><a href="/files/ss_3na_sem22023_v3.pdf">Social Studies</a><br><a href="/files/geography_3na_sem2 2023_v3.pdf">Elective Geography</a><br><a href="/files/elective history_3na_sem2 2023_v3.pdf">Elective History</a><br><a href="/files/Literature_3NA%20Subject%20Overview.pdf">Elective Literature</a><br><a href="/files/poa_3na_sem22023_v3.pdf">Principles of Accounts</a>&nbsp;</p>
+<p><a href="/files/ss_3na_sem22023_v3.pdf">Social Studies</a><br><a href="/files/geography_3na_sem2 2023_v3.pdf">Elective Geography</a><br><a href="/files/elective history_3na_sem2 2023_v3.pdf">Elective History</a><br>-  <br><a href="/files/poa_3na_sem22023_v3.pdf">Principles of Accounts</a>&nbsp;</p>
 </td>
 <td style="text-align: center;" width="208"><br>
 <p>-</p>
@@ -269,7 +269,7 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;" colspan="3" width="623">
-<p><strong>Physical Education<br></strong><a href="/files/pe_3a1_3b2_sem22023_v3.pdf">3A1/3B2</a>- <a href="/files/pe_3a2_3b1_sem22023_v3.pdf">3A2/3B1</a>- <a href="/files/2022_Subject%20Overview_PE%20Sem%202_3B2.pdf">3B2</a>- <a href="/files/PE_3B3_3C2_3C3_Sem12023.pdf">3B3/3C2/3C3</a>- <a href="/files/PE_3C1_3C5_Sem12023.pdf">3C1/3C5</a>- <a href="/files/pe_3c4_sem22023_v3.pdf">3C4</a></p>
+<p><strong>Physical Education<br></strong><a href="/files/pe_3a1_3b2_sem22023_v3.pdf">3A1/3B2</a>- <a href="/files/pe_3a2_3b1_sem22023_v3.pdf">3A2/3B1</a>- <a href="/files/2022_Subject%20Overview_PE%20Sem%202_3B2.pdf">3B2</a>- - - <a href="/files/PE_3C1_3C5_Sem12023.pdf">3C1/3C5</a>- <a href="/files/pe_3c4_sem22023_v3.pdf">3C4</a></p>
 </td>
 </tr>
 </tbody>
