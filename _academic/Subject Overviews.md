@@ -173,7 +173,7 @@ description: ""
 <p><a href="/files/art_subject overview_sec 2_sem22023_v3.pdf">Art</a><br>                                                                        <br></p>
 </td>
 <td style="text-align: center;" width="208">
-<p><a href="/files/art_subject overview_sec 2_sem22023_v3.pdf">Art</a><br><a href="/files/fce_2nt_v2.pdf">Food and Consumer Education</a><br></p>
+<p><a href="/files/art_subject overview_sec 2_sem22023_v3.pdf">Art</a><br>                                                                      <br></p>
 </td>
 </tr>
 <tr>
