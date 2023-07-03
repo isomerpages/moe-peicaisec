@@ -237,7 +237,8 @@ description: ""
 <p><a href="/files/science3e biology semester 2 2023_v3.pdf">Biology</a><br><a href="/files/science3e chemistry 2023-sem 2_v3.pdf">Chemistry</a><br><a href="/files/Physics_3EXP_Sem12023.pdf">Physics</a><br><a href="/files/science3e combine science biology 2023_v3.pdf">Science Biology</a><br><a href="/files/science3e sc(chem)_sem22023_v3.pdf">Science Chemistry</a><br><a href="/files/science - 3e sc(phy) sem 2 2023_v3.pdf">Science Physics</a></p>
 </td>
 <td style="text-align: center;" width="208">
-<p><a href="/files/science3na sc(bio) sem 2 2023_v3.pdf">Science Biology</a><br><a href="/files/science(chemistry)_3na_sem12023_v2_.pdf">Science Chemistry</a><br><a href="/files/science3na physics semester 2 2023_v3_.pdf">Science Physics</a></p>
+<p><a href="/files/science3na sc(bio) sem 2 2023_v3.pdf">Science Biology</a><br>-
+<br><a href="/files/science3na physics semester 2 2023_v3_.pdf">Science Physics</a></p>
 </td>
 <td style="text-align: center;" width="208">
 <p><a href="/files/science3nt science 2023 sem2_v3.pdf">Science</a><br><a href="/files/EBS_3NT_Sem12023.pdf">Elements of Business Skills</a></p>
