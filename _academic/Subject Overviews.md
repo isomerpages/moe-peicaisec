@@ -50,7 +50,8 @@ description: ""
 <p><a href="/files/math_1na_sem2 2023_v3.pdf">Mathematics</a></p>
 </td>
 <td style="text-align: center;" width="208">
-<p><a href="/files/math_1nt_sem 2 2023_v3.pdf">Mathematics</a><br><a href="/files/1nt_cpa_sem 2_subject overview_v3.pdf">Computer Applications</a></p>
+<p><a href="/files/math_1nt_sem 2 2023_v3.pdf">Mathematics</a><br>
+<a href="/files/1nt_cpa_sem 2_subject overview_v3.pdf">Computer Applications</a></p>
 </td>
 </tr>
 <tr>
