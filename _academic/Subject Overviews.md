@@ -326,7 +326,7 @@ description: ""
 <p><a href="/files/science4e biology 2023-sem 2_v3.pdf">Biology</a><br><a href="/files/science4e chemistry 2023-sem 2_v3.pdf">Chemistry</a><br><a href="/files/science4e physics 2023-sem 2_v3.pdf">Physics</a><br><a href="/files/science4e sc(bio) 2023 semester 2_v3.pdf">Science Biology 4E</a><br><a href="/files/science5na sc(bio) 2023 sem 2_v3.pdf">Science Biology 5N</a><br><a href="/files/science4e sc(chem) 2023 sem 2_v3.pdf">Science Chemistry 4E</a><br><a href="/files/science5na sc(chem) 2023 semester 2_v3.pdf">Science Chemistry 5N</a><br><a href="/files/science4e sc(phy) 2023 semester 2_v3.pdf">Science Physics 4E</a><br><a href="/files/science5na sc(phy) 2023 semester 2_v3.pdf">Science Physics 5N</a></p>
 </td>
 <td style="text-align: center;" width="208">
-<p><a href="/files/science4na sc(bio) 2023 sem 2_v3.pdf">Science Biology</a><br><a href="/files/Science(Chemistry)_4NA_Sem12023_v1.pdf">Science Chemistry</a><br><a href="/files/science4na sc(phy) 2023 semester 2_v3.pdf">Science Physics</a></p>
+<p><a href="/files/science4na sc(bio) 2023 sem 2_v3.pdf">Science Biology</a><br>-<br><a href="/files/science4na sc(phy) 2023 semester 2_v3.pdf">Science Physics</a></p>
 </td>
 <td style="text-align: center;" width="208">
 <p><a href="/files/science4nt science 2023 semester 2_v3.pdf">Science</a></p>
@@ -338,7 +338,7 @@ description: ""
 <td style="text-align: center;" width="208">
 	<p><a href="/files/ss_4na_sem22023_v3.pdf">Social Studies</a><br><a href="/files/geography_4na_sem22023_v3.pdf">Elective Geography</a><br><a href="/files/history_4na_sem22023_v3.pdf">Elective History</a><br><a href="/files/5na elective history_subject overview_v3.pdf">Elective History 5N</a><br><a href="/files/poa_4na_sem22023_v3.pdf">Principles of Accounts</a></p>
 </td>
-<td style="text-align: center;" width="208"><p><a href="/files/SS_4NT_Sem2023.pdf">Social Studies</a></p></td>
+<td style="text-align: center;" width="208"><p>-</p></td>
 </tr>
 <tr>
 <td style="text-align: center;" width="208">
