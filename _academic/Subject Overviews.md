@@ -242,7 +242,7 @@ description: ""
 <br><a href="/files/science3na physics semester 2 2023_v3_.pdf">Science Physics</a></p>
 </td>
 <td style="text-align: center;" width="208">
-<p><a href="/files/science3nt science 2023 sem2_v3.pdf">Science</a><br><a href="/files/EBS_3NT_Sem12023.pdf">Elements of Business Skills</a></p>
+<p><a href="/files/science3nt science 2023 sem2_v3.pdf">Science</a><br>-</p>
 </td>
 </tr>
 <tr>
@@ -253,7 +253,7 @@ description: ""
 <p><a href="/files/ss_3na_sem22023_v3.pdf">Social Studies</a><br><a href="/files/geography_3na_sem2 2023_v3.pdf">Elective Geography</a><br><a href="/files/elective history_3na_sem2 2023_v3.pdf">Elective History</a><br><a href="/files/Literature_3NA%20Subject%20Overview.pdf">Elective Literature</a><br><a href="/files/poa_3na_sem22023_v3.pdf">Principles of Accounts</a>&nbsp;</p>
 </td>
 <td style="text-align: center;" width="208"><br>
-<p><a href="/files/SS_3NT_Sem12023.pdf">Social Studies</a></p>
+<p>-</p>
 </td>
 </tr>
 <tr>
