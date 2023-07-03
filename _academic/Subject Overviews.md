@@ -71,17 +71,23 @@ description: ""
 <td style="text-align: center;" width="208">
 <p><a href="/files/geography_1na_sem22023_v3.pdf">Geography</a><br><a href="/files/history_1na_sem 22023_v3.pdf">History</a></p>
 </td>
-<td style="text-align: center;" width="208"><p><a href="/files/SS_1NT_Sem12023.pdf">Social Studies</a></p></td>
+<td style="text-align: center;" width="208"><p>  </p></td>
 </tr>
 <tr>
 <td style="text-align: center;" width="208">
-<p><a href="/files/art subject overview_ sec 1_sem22023_v3.pdf">Art</a><br><a href="/files/D&amp;T_1E_v1.pdf">Design and Technology</a><br><a href="/files/2023 subject overview sec 1 ena_fce_v3_1.pdf">Food &amp; Consumer Education</a><br></p>
+<p><a href="/files/art subject overview_ sec 1_sem22023_v3.pdf">Art</a><br>
+
+<br><a href="/files/2023 subject overview sec 1 ena_fce_v3_1.pdf">Food &amp; Consumer Education</a><br></p>
 </td>
 <td style="text-align: center;" width="208">
-<p><a href="/files/art subject overview_ sec 1_sem22023_v3.pdf">Art</a><br><a href="/files/D&amp;T_1NA_v1.pdf">Design and Technology</a><br><a href="/files/2023 subject overview sec 1 ena_fce_v3_1.pdf">Food &amp; Consumer Education</a><br></p>
+<p><a href="/files/art subject overview_ sec 1_sem22023_v3.pdf">Art</a><br>
+	
+<br><a href="/files/2023 subject overview sec 1 ena_fce_v3_1.pdf">Food &amp; Consumer Education</a><br></p>
 </td>
 <td style="text-align: center;" width="208">
-<p><a href="/files/art subject overview_ sec 1_sem22023_v3.pdf">Art</a><br><a href="/files/D&amp;T_1NT_v1.pdf">Design and Technology</a><br><a href="/files/2023 subject overview sec 1 nt)_fce_v3_1.pdf">Food &amp; Consumer Education</a><br></p>
+<p><a href="/files/art subject overview_ sec 1_sem22023_v3.pdf">Art</a><br>
+	
+<br><a href="/files/2023 subject overview sec 1 nt)_fce_v3_1.pdf">Food &amp; Consumer Education</a><br></p>
 </td>
 </tr>
 <tr>
