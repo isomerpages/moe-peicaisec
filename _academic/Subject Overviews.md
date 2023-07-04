@@ -93,7 +93,7 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;" colspan="3">
-<p><strong>Physical Education<br></strong><a href="/files/pe_1in_sem22023_v3.pdf">1Innovation</a>- <a href="/files/pe_1ee_1pn_sem22203_v3.pdf">1Excellence/1Passion</a>- <a href="/files/pe_1cn_sem22023_v3.pdf">1Collaboration</a>- <a href="/files/PE_1-5_Sem12023.pdf">1Care</a> <a href="/files/pe_1re_sem22023_v3.pdf">1Resilience&nbsp;</a>- <a href="/files/pe_1cy_1ce_sem22023_v3.pdf">1Creativity</a></p>
+<p><strong>Physical Education<br></strong><a href="/files/pe_1in_sem22023_v3.pdf">1Innovation</a>- <a href="/files/pe_1ee_1pn_sem22203_v3.pdf">1Excellence/1Passion</a>- <a href="/files/pe_1cn_sem22023_v3.pdf">1Collaboration</a>- <a href="/files/pe_1cy_1ce_sem22023_v3.pdf">1Care</a>-<a href="/files/pe_1re_sem22023_v3.pdf">1Resilience&nbsp;</a>- <a href="/files/pe_1cy_1ce_sem22023_v3.pdf">1Creativity</a></p>
 </td>
 </tr>
 </tbody>
