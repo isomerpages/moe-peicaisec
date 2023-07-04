@@ -334,7 +334,7 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;" width="208">
-<p><a href="/files/ss_4ex_sem22023_v3.pdf">Social Studies 4E</a><br><a href="/files/ss_5na_sem22023_v3.pdf">Social Studies 5N</a><br><a href="/files/pure geography_4ex_sem 22023_v3.pdf">Pure Geogrpahy </a><br><a href="/files/plit_4exp_sem22023_v3.pdf">Pure Literature (Macbeth)  </a> <br><a href="/files/geography_4ex_sem22023_v3.pdf">Elective Geography 4E</a><br><a href="/files/geography_5n_sem22023_v3.pdf">Elective Geography 5N</a><br><a href="/files/elective history_4ex5na_sem12023_v3.pdf">Elective History</a><br>-<br><a href="/files/poa 4ex_sem22023_v3.pdf">Principles of Accounts</a></p></td>
+<p><a href="/files/ss_4ex_sem22023_v3.pdf">Social Studies 4E</a><br><a href="/files/ss_5na_sem22023_v3.pdf">Social Studies 5N</a><br><a href="/files/pure geography_4ex_sem 22023_v3.pdf">Pure Geogrpahy</a><br><a href="/files/plit_4exp_sem22023_v3.pdf">Pure Literature (Macbeth)</a> <br><a href="/files/geography_4ex_sem22023_v3.pdf">Elective Geography 4E</a><br><a href="/files/geography_5n_sem22023_v3.pdf">Elective Geography 5N</a><br><a href="/files/elective history_4ex5na_sem12023_v3.pdf">Elective History</a><br><a href="/files/elit_4exp_sem22023_v3.pdf">Elective Literature </a><br><a href="/files/poa 4ex_sem22023_v3.pdf">Principles of Accounts</a></p></td>
 <td style="text-align: center;" width="208">
 	<p><a href="/files/ss_4na_sem22023_v3.pdf">Social Studies</a><br><a href="/files/geography_4na_sem22023_v3.pdf">Elective Geography</a><br><a href="/files/history_4na_sem22023_v3.pdf">Elective History</a><br><a href="/files/5na elective history_subject overview_v3.pdf">Elective History 5N</a><br><a href="/files/poa_4na_sem22023_v3.pdf">Principles of Accounts</a></p>
 </td>
