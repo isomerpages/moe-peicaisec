@@ -244,7 +244,7 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;" width="208">
-<p><a href="/files/ss_3ex_sem22023_v3.pdf">Social Studies</a><br><a href="/files/geography_3ex_sem22023_v3.pdf">Elective Geography</a><br><a href="/files/elective history_3ex_sem22023_v3.pdf">Elective History</a><br><a href="/files/full history_3e_sem 22023_v3.pdf">Full History</a><br><a href="/files/3exp lit subject overview 2023 sem 2_v3.pdf">Elective Literature </a><br><a href="/files/pure geography_3ex_sem 22023_v3.pdf">Pure Geography</a><br><a href="/files/Pure%20History_3EX_Sem12023.pdf">Pure History</a><br><a href="/files/poa_3ex_sem22023_v3.pdf">Principles of Accounts</a></p>
+<p><a href="/files/ss_3ex_sem22023_v3.pdf">Social Studies</a><br><a href="/files/geography_3ex_sem22023_v3.pdf">Elective Geography</a><br><a href="/files/elective history_3ex_sem22023_v3.pdf">Elective History</a><br><a href="/files/full history_3e_sem 22023_v3.pdf">Full History</a><br><a href="/files/3exp lit subject overview 2023 sem 2_v3.pdf">Elective Literature </a><br><a href="/files/pure geography_3ex_sem 22023_v3.pdf">Pure Geography</a><br><a href="/files/poa_3ex_sem22023_v3.pdf">Principles of Accounts</a></p>
 </td>
 <td style="text-align: center;" width="208">
 <p><a href="/files/ss_3na_sem22023_v3.pdf">Social Studies</a><br><a href="/files/geography_3na_sem2 2023_v3.pdf">Elective Geography</a><br><a href="/files/elective history_3na_sem2 2023_v3.pdf">Elective History</a><br><a href="/files/3na lit subject overview 2023 sem 2_v3.pdf">Elective Literature</a><br><a href="/files/poa_3na_sem22023_v3.pdf">Principles of Accounts</a>&nbsp;</p>
