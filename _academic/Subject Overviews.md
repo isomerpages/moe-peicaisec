@@ -163,7 +163,7 @@ description: ""
 <td style="text-align: center;" width="208">
 <p><a href="/files/geography_2na_sem22023_v3.pdf">Geography</a><br><a href="/files/history_2na_sem22023_v3.pdf">History</a></p>
 </td>
-<td style="text-align: center;" width="208"><p><a href="/files/SS_2NT_Sem12023.pdf">Social Studies</a></p></td>
+<td style="text-align: center;" width="208"><p><a href="/files/ss_2nt_sem22023_v3.pdf">Social Studies</a></p></td>
 </tr>
 <tr>
 <td style="text-align: center;" width="208">
