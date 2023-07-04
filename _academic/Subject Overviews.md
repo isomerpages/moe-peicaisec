@@ -77,17 +77,14 @@ description: ""
 <tr>
 <td style="text-align: center;" width="208">
 <p><a href="/files/art subject overview_ sec 1_sem22023_v3.pdf">Art</a><br>
--
+<br><a href="/files/2023 subject overview sec 1 ena_fce_v3_1.pdf">Food &amp; Consumer Education</a><br></p>
+</td>
+<td style="text-align: center;" width="208">
+<p><a href="/files/art subject overview_ sec 1_sem22023_v3.pdf">Art</a><br>	
 <br><a href="/files/2023 subject overview sec 1 ena_fce_v3_1.pdf">Food &amp; Consumer Education</a><br></p>
 </td>
 <td style="text-align: center;" width="208">
 <p><a href="/files/art subject overview_ sec 1_sem22023_v3.pdf">Art</a><br>
--	
-<br><a href="/files/2023 subject overview sec 1 ena_fce_v3_1.pdf">Food &amp; Consumer Education</a><br></p>
-</td>
-<td style="text-align: center;" width="208">
-<p><a href="/files/art subject overview_ sec 1_sem22023_v3.pdf">Art</a><br>
-	-
 <br><a href="/files/2023 subject overview sec 1 nt)_fce_v3_1.pdf">Food &amp; Consumer Education</a><br></p>
 </td>
 </tr>
@@ -171,10 +168,10 @@ description: ""
 	<a href="/files/subject overview_d&amp;t_sec 2_2023_v3.pdf">Design &amp; Technology</a><br><a href="/files/fce_2exp_v2.pdf">Food and Consumer Education</a><br></p>
 </td>
 <td style="text-align: center;" width="208">
-<p><a href="/files/art_subject overview_sec 2_sem22023_v3.pdf">Art</a><br>     -                                                                   <br></p>
+<p><a href="/files/art_subject overview_sec 2_sem22023_v3.pdf">Art</a><br>   <br></p>
 </td>
 <td style="text-align: center;" width="208">
-<p><a href="/files/art_subject overview_sec 2_sem22023_v3.pdf">Art</a><br>    -                                                                  <br></p>
+<p><a href="/files/art_subject overview_sec 2_sem22023_v3.pdf">Art</a><br>   <br></p>
 </td>
 </tr>
 <tr>
@@ -250,10 +247,10 @@ description: ""
 <p><a href="/files/ss_3ex_sem22023_v3.pdf">Social Studies</a><br><a href="/files/geography_3ex_sem22023_v3.pdf">Elective Geography</a><br><a href="/files/elective history_3ex_sem22023_v3.pdf">Elective History</a><br><a href="/files/full history_3e_sem 22023_v3.pdf">Full History</a><br><a href="/files/3exp lit subject overview 2023 sem 2_v3.pdf">Elective Literature </a><br><a href="/files/pure geography_3ex_sem 22023_v3.pdf">Pure Geography</a><br><a href="/files/Pure%20History_3EX_Sem12023.pdf">Pure History</a><br><a href="/files/poa_3ex_sem22023_v3.pdf">Principles of Accounts</a></p>
 </td>
 <td style="text-align: center;" width="208">
-<p><a href="/files/ss_3na_sem22023_v3.pdf">Social Studies</a><br><a href="/files/geography_3na_sem2 2023_v3.pdf">Elective Geography</a><br><a href="/files/elective history_3na_sem2 2023_v3.pdf">Elective History</a><br><a href="/files/3na lit subject overview 2023 sem 2_v3.pdf">Elective Literature  </a><br><a href="/files/poa_3na_sem22023_v3.pdf">Principles of Accounts</a>&nbsp;</p>
+<p><a href="/files/ss_3na_sem22023_v3.pdf">Social Studies</a><br><a href="/files/geography_3na_sem2 2023_v3.pdf">Elective Geography</a><br><a href="/files/elective history_3na_sem2 2023_v3.pdf">Elective History</a><br><a href="/files/3na lit subject overview 2023 sem 2_v3.pdf">Elective Literature</a><br><a href="/files/poa_3na_sem22023_v3.pdf">Principles of Accounts</a>&nbsp;</p>
 </td>
 <td style="text-align: center;" width="208"><br>
-<p>-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -338,7 +335,7 @@ description: ""
 <td style="text-align: center;" width="208">
 	<p><a href="/files/ss_4na_sem22023_v3.pdf">Social Studies</a><br><a href="/files/geography_4na_sem22023_v3.pdf">Elective Geography</a><br><a href="/files/history_4na_sem22023_v3.pdf">Elective History</a><br><a href="/files/5na elective history_subject overview_v3.pdf">Elective History 5N</a><br><a href="/files/poa_4na_sem22023_v3.pdf">Principles of Accounts</a></p>
 </td>
-<td style="text-align: center;" width="208"><p>-</p></td>
+<td style="text-align: center;" width="208"><p></p></td>
 </tr>
 <tr>
 <td style="text-align: center;" width="208">
