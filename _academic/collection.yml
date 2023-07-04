@@ -2,7 +2,6 @@ collections:
   academic:
     output: true
     order:
-      - DISTINCTIVE EDGE/.keep
       - Subjects offered.md
       - Assessment and Promotion Criteria.md
       - Full Subject Based Banding (FSBB).md
