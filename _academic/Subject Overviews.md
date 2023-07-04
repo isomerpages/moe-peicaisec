@@ -269,7 +269,7 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;" colspan="3" width="623">
-<p><strong>Physical Education<br></strong><a href="/files/pe_3a1_3b2_sem22023_v3.pdf">3A1/3B2</a>- <a href="/files/pe_3a2_3b1_sem22023_v3.pdf">3A2/3B1</a>- <a href="/files/2022_Subject%20Overview_PE%20Sem%202_3B2.pdf">3B2</a>- - - - - <a href="/files/pe_3c4_sem22023_v3.pdf">3C4</a></p>
+<p><strong>Physical Education<br></strong><a href="/files/pe_3a1_3b2_sem22023_v3.pdf">3A1/3B2</a>- <a href="/files/pe_3a2_3b1_sem22023_v3.pdf">3A2/3B1</a>- <a href="/files/2022_Subject%20Overview_PE%20Sem%202_3B2.pdf">3B2</a>- <a href="/files/pe_3c2_3c3_3b3_sem22023_v3.pdf">3B3/3C2/3C3</a> - - <a href="/files/pe_3c4_sem22023_v3.pdf">3C4</a></p>
 </td>
 </tr>
 </tbody>
