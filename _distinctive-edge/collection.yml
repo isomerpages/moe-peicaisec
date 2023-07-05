@@ -2,7 +2,7 @@ collections:
   distinctive-edge:
     output: true
     order:
-      - Overseas Trip.md
-      - Work Attachment.md
       - ALP (applied learning programme).md
       - Pinacle.md
+      - Work Attachment.md
+      - Overseas Trip.md
