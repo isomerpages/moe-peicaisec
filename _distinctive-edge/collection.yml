@@ -2,5 +2,6 @@ collections:
   distinctive-edge:
     output: true
     order:
+      - Work Attachment.md
       - ALP (applied learning programme).md
       - Pinacle.md
