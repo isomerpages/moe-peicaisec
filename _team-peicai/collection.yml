@@ -1,5 +1,5 @@
 collections:
-  our-peicai-family:
+  team-peicai:
     output: true
     order:
       - School Advisory Committee (SAC).md
