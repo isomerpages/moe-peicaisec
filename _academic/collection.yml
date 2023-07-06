@@ -2,11 +2,11 @@ collections:
   academic:
     output: true
     order:
-      - Class Timetable.md
       - Subjects offered.md
       - Assessment and Promotion Criteria.md
       - Full Subject Based Banding (FSBB).md
       - Subject Overviews.md
+      - Class Timetable.md
       - Blended Learning/.keep
       - Blended Learning/Blended Learning.md
       - Blended Learning/For Students.md
