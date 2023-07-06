@@ -2,8 +2,8 @@ collections:
   team-peicai:
     output: true
     order:
-      - School Advisory Committee (SAC).md
       - Team Peicai.md
+      - School Advisory Committee (SAC).md
       - Students/.keep
       - Students/Model Peicaian.md
       - Partners.md
