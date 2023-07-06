@@ -4,6 +4,7 @@ permalink: /about-us/our-peicai-family/school-advisory-committee-sac/
 description: ""
 ---
 <ul>
+<li><strong><a href="/about-us/team-peicai">Team Peicai</a></strong></li>
 <li><strong><a href="/about-us/our-peicai-family/school-advisory-committee-sac">School Advisory Committee (SAC)</a></strong></li>
 <li><strong><a href="/about-us/our-peicai-family/students/model-peicaian">Students</a></strong></li>
 <li><strong><a href="/about-us/our-peicai-family/partners">Partners</a></strong></li>
