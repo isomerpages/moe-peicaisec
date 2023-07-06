@@ -17,6 +17,8 @@ links:
         url: /schoolevents
       - title: Contact Us
         url: /about-us/contact-us
+      - title: Team Peicai
+        url: /about-us/team-peicai/team-peicai/
   - title: Academic
     url: /academic/subjects-offered
     sublinks:
