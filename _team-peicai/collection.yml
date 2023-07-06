@@ -2,6 +2,7 @@ collections:
   team-peicai:
     output: true
     order:
+      - Parent Support Group (PSG).md
       - Team Peicai.md
       - School Advisory Committee (SAC).md
       - Students/.keep
