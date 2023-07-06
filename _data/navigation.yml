@@ -44,6 +44,8 @@ links:
         url: /academic/physical-education
       - title: Science
         url: /academic/science
+      - title: Class Timetable
+        url: /academic/class-timetable
   - title: Student Development
     url: /student-development/character-n-citizenship-education
     sublinks:
