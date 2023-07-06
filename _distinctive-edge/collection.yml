@@ -1,0 +1,9 @@
+collections:
+  distinctive-edge:
+    output: true
+    order:
+      - ALP (Applied Learning Programme).md
+      - LLP (Learning for Life Programme).md
+      - PiNNacle @peicai.md
+      - Work Attachment.md
+      - OSEP(Overseas Student Exchange).md

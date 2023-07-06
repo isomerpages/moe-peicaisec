@@ -1,8 +1,11 @@
 collections:
-  our-peicai-family:
+  team-peicai:
     output: true
     order:
+      - Team Peicai.md
       - School Advisory Committee (SAC).md
+      - Parent Support Group (PSG).md
+      - Alumni.md
       - Students/.keep
       - Students/Model Peicaian.md
       - Partners.md
