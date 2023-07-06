@@ -2,8 +2,8 @@ collections:
   restore-pages:
     output: true
     order:
-      - Subject Overviews 1.md
       - Assessment and Promotion Criteria.md
+      - Subject Overviews 1.md
       - Code of Conduct2.md
       - Principal’s Message1.md
       - Letters to Parents.md
