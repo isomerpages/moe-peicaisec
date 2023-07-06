@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Team Peicai.md
-      - School Advisory Committee (SAC).md
       - Parent Support Group (PSG).md
       - Alumni.md
       - Students/.keep
