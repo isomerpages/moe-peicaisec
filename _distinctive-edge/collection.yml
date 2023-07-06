@@ -2,8 +2,8 @@ collections:
   distinctive-edge:
     output: true
     order:
-      - LLP (Learning for Life Programme).md
       - ALP (Applied Learning Programme).md
+      - LLP (Learning for Life Programme).md
       - Pinacle.md
       - Work Attachment.md
       - Overseas Trip.md
