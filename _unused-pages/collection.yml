@@ -2,7 +2,7 @@ collections:
   unused-pages:
     output: true
     order:
-      - School Advisory Committee (SAC).md
+      - School Advisory Committee (SAC) 1.md
       - Subject Areas.md
       - Mental and Emotional Wellbeing & Support.md
       - (ECG).md
