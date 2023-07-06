@@ -28,6 +28,8 @@ links:
         url: /academic/full-subject-based-banding-fsbb
       - title: Subject Overviews
         url: /academic/subject-overviews
+      - title: Class Timetable
+        url: /academic/class-timetable
       - title: Blended Learning
         url: /academic/blended-learning
       - title: Craft & Technology
@@ -44,8 +46,6 @@ links:
         url: /academic/physical-education
       - title: Science
         url: /academic/science
-      - title: Class Timetable
-        url: /academic/class-timetable
   - title: Student Development
     url: /student-development/character-n-citizenship-education
     sublinks:
