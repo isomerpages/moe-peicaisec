@@ -2,6 +2,7 @@ collections:
   restore-pages-1:
     output: true
     order:
+      - Student iCON.md
       - School Assessments.md
       - Letters to Parents.md
       - Principal’s Message1.md
