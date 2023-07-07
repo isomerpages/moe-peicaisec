@@ -2,5 +2,6 @@ collections:
   restore-pages-1:
     output: true
     order:
+      - Code of Conduct2.md
       - Staff Email Addresses 2023.md
       - Subject Overviews A.md
