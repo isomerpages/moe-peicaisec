@@ -2,4 +2,5 @@ collections:
   restore-pages-1:
     output: true
     order:
+      - Staff Email Addresses 2023.md
       - Subject Overviews A.md
