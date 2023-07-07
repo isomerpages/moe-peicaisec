@@ -2,6 +2,7 @@ collections:
   restore-pages-1:
     output: true
     order:
+      - Subject Overviews A.md
       - Sexuality Education.md
       - CCA.md
       - Student iCON.md
@@ -10,4 +11,3 @@ collections:
       - Principal’s Message1.md
       - Code of Conduct2.md
       - Staff Email Addresses 2023.md
-      - Subject Overviews A.md
