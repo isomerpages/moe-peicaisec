@@ -10,3 +10,5 @@ description: ""
 .JPG" style="width: 100%;"><br><hr>
 <img src="/images/03student development team
 .JPG" style="width: 100%;"><br><hr>
+<img src="/images/04mathematics department
+.JPG" style="width: 100%;"><br><hr>
