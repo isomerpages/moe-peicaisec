@@ -14,3 +14,7 @@ description: ""
 .JPG" style="width: 100%;"><br><hr>
 <img src="/images/05english &amp; literature department
 .JPG" style="width: 100%;"><br><hr>
+<img src="/images/06science department
+.JPG" style="width: 100%;"><br><hr>
+<img src="/images/07humanities department
+.JPG" style="width: 100%;"><br><hr>
