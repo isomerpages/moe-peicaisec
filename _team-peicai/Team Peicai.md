@@ -12,7 +12,7 @@ description: ""
 .JPG" style="width: 100%;"></p><hr>
 <p><img src="/images/04mathematics department
 .JPG" style="width: 100%;"></p><hr>
-<p><img src="/images/05english &amp; literature department.JPG" style="width: 100%;"></p><hr>
+<p><img src="/images/05english &amp; literature department_v1.jpg" style="width: 100%;"></p><hr>
 <p><img src="/images/06science department
 .JPG" style="width: 100%;"></p><hr>
 <p><img src="/images/07humanities department
