@@ -1,6 +1,6 @@
 ---
-title: Subject Overviews 1
-permalink: /unused-pages/permalink/
+title: Subject Overviews A
+permalink: /unused-pages/subject-overviews-a/
 description: ""
 ---
 <h4><strong>Semester Two 2023</strong></h4>

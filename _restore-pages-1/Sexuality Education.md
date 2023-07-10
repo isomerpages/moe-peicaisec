@@ -3,7 +3,6 @@ title: Sexuality Education
 permalink: /student-development/character-n-citizenship-education/sexuality-education/
 description: ""
 ---
-
 <table>
 <tbody>
 <tr>
@@ -73,7 +72,7 @@ description: ""
 </tr>
 <tr>
 <td>&nbsp;b.</td>
-<td>Character and Citizenship Education (CCE)&nbsp;<br /><br /></td>
+<td>Character and Citizenship Education (CCE)&nbsp;<br><br></td>
 </tr>
 </tbody>
 </table>
@@ -83,7 +82,7 @@ description: ""
 <tbody>
 <tr>
 <td>6.</td>
-<td>The values and attitudes of our youth towards sexuality are increasingly shaped by their peers, exposure to the media, popular culture and the internet. Adolescence is a complex stage in life as the adolescent attempts to find his/her own identity and often struggles with new social relationships. The period of middle adolescence (generally from 15 &ndash; 17 years old) can be a turbulent period for adolescents. The gap between physical and emotional/cognitive maturity may result in a tendency to act on impulse, experiment with various activities (including sexual activities), sometimes without understanding the unpleasant consequences that may arise from such experimentation. The need for peer acceptance can be overwhelmingly strong, and hinder one&rsquo;s ability to act responsibly. Given the pressures faced by the middle adolescent from within themselves and from peers, it is important to build a strong sense of self-worth, personal conviction and an understanding of the possible consequences of sexual behaviour</td>
+<td>The values and attitudes of our youth towards sexuality are increasingly shaped by their peers, exposure to the media, popular culture and the internet. Adolescence is a complex stage in life as the adolescent attempts to find his/her own identity and often struggles with new social relationships. The period of middle adolescence (generally from 15 – 17 years old) can be a turbulent period for adolescents. The gap between physical and emotional/cognitive maturity may result in a tendency to act on impulse, experiment with various activities (including sexual activities), sometimes without understanding the unpleasant consequences that may arise from such experimentation. The need for peer acceptance can be overwhelmingly strong, and hinder one’s ability to act responsibly. Given the pressures faced by the middle adolescent from within themselves and from peers, it is important to build a strong sense of self-worth, personal conviction and an understanding of the possible consequences of sexual behaviour</td>
 </tr>
 <tr>
 <td>7.</td>
@@ -93,8 +92,8 @@ description: ""
 </table>
 <p><strong>At Peicai Secondary School, the following lessons from the Sexuality Education Programme will be taught in&nbsp;<u>2022&nbsp;</u>:</strong></p>
 <p><strong>Secondary 1</strong></p>
-	<td style="width: 125px;">&nbsp;iv.</td>
-<table width="0">
+	</td><td style="width: 125px;">&nbsp;iv.</td>
+</tr></tbody></table><p><strong>Secondary 2</strong></p><table width="0">
 <thead>
 <tr>
 <td width="112">
@@ -124,8 +123,8 @@ description: ""
 <li><font size="3">Recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles</font></li>
 <li><font size="3">Recognise that there are different forms of love (e.g. familial, platonic, romantic love)</font></li>
 <li><font size="3">Recognise the importance and understand what builds healthy and supportive relationships, both online and offline
-<li><font size="3">&nbsp;Understand what dating is, and recognise that the readiness and interest in dating vary among individuals</font>
-<td width="165">
+</font></li><li><font size="3"><font size="3">&nbsp;Understand what dating is, and recognise that the readiness and interest in dating vary among individuals</font>
+</font></li></ul></td><td width="165">
 	<p><font size="3">Term 3 Week 6</font></p>
 </td>
 </tr>
@@ -158,8 +157,8 @@ description: ""
 <p>Term 3 Week 10</p>
 </td>
 
-<p><strong>Secondary 2</strong></p>
-<table width="0">
+
+</tr></tbody></table><table width="0">
 <thead>
 <tr>
 <td width="112">
@@ -259,7 +258,7 @@ description: ""
 <li>&nbsp;Know that self-perception and identity have an impact on our self-esteem and how we interact with others and the choices we make, both online and offline.</li>
 </ul>
 <ul>
-<li>Understand that expectations of oneself and others may differ and can affect one&rsquo;s emotions, thoughts and behaviours.</li>
+<li>Understand that expectations of oneself and others may differ and can affect one’s emotions, thoughts and behaviours.</li>
 </ul>
 <ul>
 <li>Recognise what healthy dating relationships involve and know that readiness is important when entering into a dating relationship.&nbsp;</li>
@@ -331,14 +330,14 @@ description: ""
 </td>
 <td width="483">
 <ul>
-<li>&nbsp;Understand that the value of a person is not tied to one&rsquo;s gender and not conforming to gender stereotypes does not negate one&rsquo;s gender identity.</li>
+<li>&nbsp;Understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity.</li>
 </ul>
 <ul>
-<li>Understand that expectations of oneself and others may differ and can affect one&rsquo;s emotions, thoughts and behaviours.</li>
+<li>Understand that expectations of oneself and others may differ and can affect one’s emotions, thoughts and behaviours.</li>
 </ul>
 <ul>
 <li>Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations.</li>
-<li>Know that imposing gender stereotypes on oneself and others can limit one&rsquo;s experiences, cause harm to the self-esteem of oneself and others and should be avoided.</li>
+<li>Know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided.</li>
 </ul>
 </td>
 <td width="160">
@@ -385,7 +384,7 @@ description: ""
 <li>Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs.</li>
 </ul>
 </td>
-<td>Term 2 Week 9<br /><br /></td>
+<td>Term 2 Week 9<br><br></td>
 </tr>
 </tbody>
 </table>
@@ -417,9 +416,9 @@ description: ""
 </td>
 <td width="483">
 <ul>
-<li>Understand that the value of a person is not tied to one&rsquo;s gender and not conforming to gender stereotypes does not negate one&rsquo;s gender identity.</li>
+<li>Understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity.</li>
 <li>Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations.</li>
-<li>Know that imposing gender stereotypes on oneself and others can limit one&rsquo;s experiences, cause harm to the self-esteem of oneself and others and should be avoided.</li>
+<li>Know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided.</li>
 </ul>
 </td>
 <td width="160">
@@ -428,17 +427,17 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p><em>*CCE2021 Secondary 5 lessons will be implemented in 2023. Secondary 5 students in 2022 will use CCE2021 Secondary 4 Lesson 1, &ldquo;Levelling the Ground&rdquo; from the unit, &ldquo;Respectful Relationship and Safety&rdquo;.</em></p>
+<p><em>*CCE2021 Secondary 5 lessons will be implemented in 2023. Secondary 5 students in 2022 will use CCE2021 Secondary 4 Lesson 1, “Levelling the Ground” from the unit, “Respectful Relationship and Safety”.</em></p>
 <p><strong> eTeens Programme</strong></p>
 <table>
 <tbody>
 <tr>
 <td>8.</td>
-<td><em>eTeens</em>&nbsp;is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective.&nbsp;<em>eTeens</em>&nbsp;is conducted in two segments &ndash; a mass talk segment and a classroom-based programme.</td>
+<td><em>eTeens</em>&nbsp;is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective.&nbsp;<em>eTeens</em>&nbsp;is conducted in two segments – a mass talk segment and a classroom-based programme.</td>
 </tr>
 <tr>
 <td>9.</td>
-<td>Students are taught skills such as decision-making, assertiveness and negotiation to say &ldquo;no&rdquo; to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages.&nbsp;The desired outcome of the&nbsp;<em>eTeens</em>&nbsp;programme is that students are empowered to make wise, informed and sensible decisions.</td>
+<td>Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages.&nbsp;The desired outcome of the&nbsp;<em>eTeens</em>&nbsp;programme is that students are empowered to make wise, informed and sensible decisions.</td>
 </tr>
 </tbody>
 </table>
@@ -512,7 +511,7 @@ description: ""
 </tr>
 <tr>
 <td>&nbsp;13.</td>
-<td>Parents can contact the school at&nbsp;at 62884159 or via e-mail at&nbsp;<a href="mailto:peicai_ss@moe.edu.sg?subject=[Attn:%20HOD/CCE%5d%20Enquiry%20on%20Sexuality%20Education%20Programmes"><strong>peicai_ss@moe.edu.sg</strong></a>&nbsp;for discussion or to seek clarification about the school&rsquo;s sexuality education programme.</td>
+<td>Parents can contact the school at&nbsp;at 62884159 or via e-mail at&nbsp;<a href="mailto:peicai_ss@moe.edu.sg?subject=[Attn:%20HOD/CCE%5d%20Enquiry%20on%20Sexuality%20Education%20Programmes"><strong>peicai_ss@moe.edu.sg</strong></a>&nbsp;for discussion or to seek clarification about the school’s sexuality education programme.</td>
 </tr>
 <tr>
 <td>14.&nbsp;</td>
