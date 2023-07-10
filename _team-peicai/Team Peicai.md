@@ -18,3 +18,5 @@ description: ""
 .JPG" style="width: 100%;"><br><hr>
 <img src="/images/07humanities department
 .JPG" style="width: 100%;"><br><hr>
+<img src="/images/08craft &amp; technology
+.JPG" style="width: 100%;"><br><hr>
