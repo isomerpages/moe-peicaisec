@@ -21,5 +21,5 @@ description: ""
 .JPG" style="width: 100%;"></p><hr>
 <p><img src="/images/10pe &amp; cca department
 .JPG" style="width: 100%;"></p><hr>
-<p><img src="/images/11ict department
-.JPG" style="width: 100%;"></p><hr>
+<p><img src="/images/11ict department_v1
+.jpg" style="width: 100%;"></p><hr>
