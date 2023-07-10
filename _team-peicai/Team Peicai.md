@@ -18,5 +18,9 @@ description: ""
 .JPG" style="width: 100%;"><br><hr>
 <img src="/images/07humanities department
 .JPG" style="width: 100%;"><br><hr>
-<img src="/images/08craft &amp; technology
+<img src="/images/09mother tongue department
 .JPG" style="width: 100%;"><br><hr>
+<img src="/images/10pe &amp; cca department
+.JPG" style="width: 100%;"><br><hr>
+<img src="/images/11ict department
+.JPG" style="width: 100%;"><br><hr><p></p>
