@@ -20,6 +20,12 @@ description: ""
 <li>Students can now reset their own MIMS password by performing a one-time set-up of answers to 3-security challenge questions. Please follow the instructions found here to do so. If you are unable to perform the set-up or your MIMS account is locked, please contact your Form-teacher(s) or IT personnel at E3-02.</li>
 <li>For students who need help to reset password or account in students' iCON email or SLS can click&nbsp;<a href="https://www.form.gov.sg/610c7f6b22cd6800125e3a6a" target=""><u>here</u></a>&nbsp;to submit the form.</li>
 </ol>
+<a href="/files/posters_mims_sspr_guide.pdf"><font size="3">1. Student iCON/ MIMS account Password Self-Reset Instructions</font></a><br>
+<a href="/files/Student%20iCON%20-%20Student%20EDM%20Onboarding%20%20Introducing%20Student%20iCON_Poster.pdf"><font size="3">2. Student iCON - Student EDM Onboarding Introducing Student iCON_Poster</font></a><br><a href="/files/Student%20iCON%20Onboarding%20Guide_Sec%20Schs.pdf"><font size="3">3.Student iCON Onboarding Guide_Sec Schs</font></a><p></p>
+
+
+
+
 <table style="margin-left: auto; margin-right: auto;">
 <tbody>
 <tr>
