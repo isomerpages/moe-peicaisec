@@ -21,7 +21,7 @@ description: ""
 <li>For students who need help to reset password or account in students' iCON email or SLS can click&nbsp;<a href="https://www.form.gov.sg/610c7f6b22cd6800125e3a6a" target=""><u>here</u></a>&nbsp;to submit the form.</li>
 </ol>
 <a href="/files/posters_mims_sspr_guide.pdf"><font size="3">1. Student iCON/ MIMS account Password Self-Reset Instructions</font></a><br>
-<a href="/files/student edm onboarding  introducing student icon.pdf"><font size="3">2. Student iCON - Student EDM Onboarding Introducing Student iCON_Poster</font></a><br><a href="/files/student icon onboarding guide_sec school.pdf"><font size="3">3.Student iCON Onboarding Guide_Sec Schs</font></a>
+<a href="/files/student edm onboarding  introducing student icon.pdf"><font size="3">2. Student iCON - Student EDM Onboarding Introducing Student iCON_Poster</font></a><br><a href="/files/student_icon_onboarding_guide_sec_school.pdf"><font size="3">3.Student iCON Onboarding Guide_Sec Schs</font></a>
 
 <table style="margin-left: auto; margin-right: auto;">
 <tbody>
