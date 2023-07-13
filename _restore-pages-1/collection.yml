@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Subject Overviews A.md
-      - Sexuality Education.md
       - CCA.md
       - School Assessments.md
       - Letters to Parents.md
