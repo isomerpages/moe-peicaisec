@@ -40,11 +40,10 @@ description: ""
 </tbody>
 </table>
 
-<table>
+<br><table>
 <tbody>
 <tr>
-<th><img src="/images/pcss 2023 overseas student exchange and local work attachment programme 2023 09.JPG" style="width: 100%;"><br>	
-</th><td><img src="/images/pcss 2023 overseas student exchange and local work attachment programme 2023 10.JPG" style="width: 100%;"><br>
-</td></tr>
+
+</tr>
 </tbody>
 </table>
