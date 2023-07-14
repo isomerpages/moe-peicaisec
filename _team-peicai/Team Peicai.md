@@ -13,10 +13,10 @@ description: ""
 <p><img src="/images/04mathematics department_v3
 .JPG" style="width: 100%;"></p><hr>
 <p><img src="/images/05english &amp; literature department_v3.JPG" style="width: 100%;"></p><hr>
-<p><img src="/images/06science department_v3
-.JPG" style="width: 100%;"></p><hr>
-<p><img src="/images/07humanities department_v3
-.JPG" style="width: 100%;"></p><hr>
+<p><img src="/images/06science department_v4
+.jpg" style="width: 100%;"></p><hr>
+<p><img src="/images/07humanities department_v4
+.jpg" style="width: 100%;"></p><hr>
 <p><img src="/images/08craft &amp; technology_v4
 .JPG" style="width: 100%;"></p><hr>
 <p><img src="/images/09mother tongue department_v3
