@@ -27,49 +27,49 @@ description: ""
 <tbody>
 <tr>
 <th style="text-align: center;"><strong>STUDENTS</strong></th>
-<th colspan="2" style="text-align: center;"><strong>TEACHERS</strong></th>
+<th style="text-align: center;" colspan="2"><strong>TEACHERS</strong></th>
 <th style="text-align: center;"><strong>PARENTS</strong></th>
 </tr>
 <tr style="text-align: center;">
-<td><img src="/images/studenticon.png" style="width: 100%;"><a href="https://workspace.google.com/dashboard">Student iCON</a></td>
-<td><img src="/images/mimsportal.png" style="width: 100%;"><a rel="noopener" target="_blank" href="https://mims.moe.gov.sg/">MIMS Portal</a><br><br></td>
-<td><img src="/images/AST.png" style="width: 100%;"><a rel="noopener" target="_blank" href="https://www.opal2.moe.edu.sg/app/index.html">AST (OPAL Login)</a>&nbsp;</td>
-<td><img src="/images/MOE.png" style="width: 80%;"><a rel="noopener" target="_blank" href="https://www.moe.gov.sg/">MOE Website</a>&nbsp;</td>
+<td><img style="width: 100%;" src="/images/studenticon.png"><a href="https://workspace.google.com/dashboard">Student iCON</a></td>
+<td><img style="width: 100%;" src="/images/mimsportal.png"><a href="https://mims.moe.gov.sg/" target="_blank" rel="noopener">MIMS Portal</a><br><br></td>
+<td><img style="width: 100%;" src="/images/AST.png"><a href="https://www.opal2.moe.edu.sg/app/index.html" target="_blank" rel="noopener">AST (OPAL Login)</a>&nbsp;</td>
+<td><img style="width: 80%;" src="/images/MOE.png"><a href="https://www.moe.gov.sg/" target="_blank" rel="noopener">MOE Website</a>&nbsp;</td>
 </tr>
 <tr style="text-align: center;">
-<td><img src="/images/SLS.png" style="width: 100%;"><a rel="noopener" target="_blank" href="https://vle.learning.moe.edu.sg/login">Student Learning Space</a>&nbsp;</td>
-<td><img src="/images/SLS.png" style="width: 100%;"><a rel="noopener" target="_blank" href="https://vle.learning.moe.edu.sg/login">Student Learning Space</a></td>
-<td><img src="/images/PACGOV.png" style="width: 100%;"><a rel="noopener" target="_blank" href="https://pacgov.agd.gov.sg/ipac/portal/jsp/login/index1.jsp">PaC@Gov</a></td>
-<td><img src="/images/SEAB.png" style="width: 80%;"><a rel="noopener" target="_blank" href="https://www.seab.gov.sg/">Singapore Examinations<br>&amp; Assessment Board</a><br><br></td>
+<td><img style="width: 100%;" src="/images/SLS.png"><a href="https://vle.learning.moe.edu.sg/login" target="_blank" rel="noopener">Student Learning Space</a>&nbsp;</td>
+<td><img style="width: 100%;" src="/images/SLS.png"><a href="https://vle.learning.moe.edu.sg/login" target="_blank" rel="noopener">Student Learning Space</a></td>
+<td><img style="width: 100%;" src="/images/PACGOV.png"><a href="https://pacgov.agd.gov.sg/ipac/portal/jsp/login/index1.jsp" target="_blank" rel="noopener">PaC@Gov</a></td>
+<td><img style="width: 80%;" src="/images/SEAB.png"><a href="https://www.seab.gov.sg/" target="_blank" rel="noopener">Singapore Examinations<br>&amp; Assessment Board</a><br><br></td>
 </tr>
 <tr style="text-align: center;">
-<td><img src="/images/IMTL.png" style="width: 100%;"><a rel="noopener" target="_blank" href="https://imtl.moe.edu.sg/cos/o.x?c=/ca7_imtl/user&amp;func=login">iMTL Portal</a></td>
-<td><img src="/images/cockpit.png" style="width: 80%;"><a rel="noopener" target="_blank" href="https://schoolcockpit.moe.gov.sg/">School Cockpit+</a></td>
-<td><img src="/images/rbs.png" style="width: 100%;"><a rel="noopener" target="_blank" href="https://rbs.avero-tech.com/">Resource Booking Service (RBS)</a></td>
-<td><img src="/images/pg.jpg" style="width: 80%;"><br><a rel="noopener" target="_blank" href="https://pg.moe.edu.sg/faq">Information on<br>Parents Gateway</a><br><br><br></td>
+<td><img style="width: 100%;" src="/images/IMTL.png"><a href="https://imtl.moe.edu.sg/cos/o.x?c=/ca7_imtl/user&amp;func=login" target="_blank" rel="noopener">iMTL Portal</a></td>
+<td><img style="width: 80%;" src="/images/cockpit.png"><a href="https://schoolcockpit.moe.gov.sg/" target="_blank" rel="noopener">School Cockpit+</a></td>
+<td><img style="width: 100%;" src="/images/rbs.png"><a href="https://rbs.avero-tech.com/" target="_blank" rel="noopener">Resource Booking Service (RBS)</a></td>
+<td><img style="width: 80%;" src="/images/pg.jpg"><br><a href="https://pg.moe.edu.sg/faq" target="_blank" rel="noopener">Information on<br>Parents Gateway</a><br><br><br></td>
 </tr>
 <tr style="text-align: center;">
-<td><img src="/images/ace.png" style="width: 100%;"><a rel="noopener" target="_blank" href="https://www.ace-learning.com/login">Math Portal</a></td>
-<td><img src="/images/scmobile.png" style="width: 100%;"><a rel="noopener" target="_blank" href="https://scmobile.moe.edu.sg/login">SC Mobile<br>(Attendance and Temperature)</a></td>
-<td><img src="/images/sen.png" style="width: 100%;"><a rel="noopener" target="_blank" href="https://intranet.moe.gov.sg/send/Pages/SEN_Resource_Portal.aspx">SEN Resource Portal</a></td>
-<td><img src="/images/moh.jpg" style="width: 100%;">Updates on Singapore's<br>COVID-19 Situation<br><br></td>
+<td><img style="width: 100%;" src="/images/ace.png"><a href="https://www.ace-learning.com/login" target="_blank" rel="noopener">Math Portal</a></td>
+<td><img style="width: 100%;" src="/images/scmobile.png"><a href="https://scmobile.moe.edu.sg/login" target="_blank" rel="noopener">SC Mobile<br>(Attendance and Temperature)</a></td>
+<td><img style="width: 100%;" src="/images/sen.png"><a href="https://intranet.moe.gov.sg/send/Pages/SEN_Resource_Portal.aspx" target="_blank" rel="noopener">SEN Resource Portal</a></td>
+<td><img style="width: 100%;" src="/images/moh.jpg">Updates on Singapore's<br>COVID-19 Situation<br><br></td>
 </tr>
 <tr style="text-align: center;">
-<td><img src="/images/MOE.png" style="width: 80%;"><a rel="noopener" target="_blank" href="https://www.moe.gov.sg/">MOE Website</a></td>
-<td><br><img src="/images/admin.png" style="width: 100%;"><a rel="noopener" target="_blank" href="https://peicaisec.adminbreeze.com/">Admin Breeze</a></td>
-<td><img src="/images/IMTL.png" style="width: 100%;"><a rel="noopener" target="_blank" href="https://imtl.moe.edu.sg/cos/o.x?c=/ca7_imtl/user&amp;func=login">iMTL Portal</a></td>
-<td><img src="/images/faq.png" style="width: 100%;"><br><a rel="noopener" target="_blank" href="https://www.moe.gov.sg/faqs-covid-19-infection">FAQs:<br>COVID-19 related matters</a><br><br></td>
+<td><img style="width: 80%;" src="/images/MOE.png"><a href="https://www.moe.gov.sg/" target="_blank" rel="noopener">MOE Website</a></td>
+<td><br><img style="width: 100%;" src="/images/admin.png"><a href="https://peicaisec.adminbreeze.com/" target="_blank" rel="noopener">Admin Breeze</a></td>
+<td><img style="width: 100%;" src="/images/IMTL.png"><a href="https://imtl.moe.edu.sg/cos/o.x?c=/ca7_imtl/user&amp;func=login" target="_blank" rel="noopener">iMTL Portal</a></td>
+<td><img style="width: 100%;" src="/images/faq.png"><br><a href="https://www.moe.gov.sg/faqs-covid-19-infection" target="_blank" rel="noopener">FAQs:<br>COVID-19 related matters</a><br><br></td>
 </tr>
 <tr style="text-align: center;">
-<td><img src="/images/ECAREERS.png" style="width: 100%;">ecareers.com</td>
-<td><img src="/images/ixeams.jpg" style="width: 70%;">&nbsp;<a rel="noopener" target="_blank" href="https://iexams.seab.gov.sg/login">iEXAMS2</a></td>
-<td><img src="/images/ssw.png" style="width: 60%;"><a rel="noopener" target="_blank" href="https://intranet.moe.gov.sg/schoolsafety/Pages/SSHB.aspx">School Safety Website</a></td>
+<td><img style="width: 100%;" src="/images/ECAREERS.png">ecareers.com</td>
+<td><img style="width: 70%;" src="/images/ixeams.jpg">&nbsp;<a href="https://iexams.seab.gov.sg/login" target="_blank" rel="noopener">iEXAMS2</a></td>
+<td><img style="width: 60%;" src="/images/ssw.png"><a href="https://intranet.moe.gov.sg/schoolsafety/Pages/SSHB.aspx" target="_blank" rel="noopener">School Safety Website</a></td>
 <td><br><br><br><br><br><br><br></td>
 </tr>
 <tr style="text-align: center;">
-<td>&nbsp;<img src="/images/msf.png" style="width: 100%;"><a rel="noopener" target="_blank" href="https://www.myskillsfuture.sg/content/student/en/secondary.html">My Skills Future</a></td>
-<td><img src="/images/ICON.png" style="width: 100%;"><a rel="noopener" target="_blank" href="https://workspace.google.com/dashboard">ICONnect</a></td>
-<td><img src="/images/intra.jpg" style="width: 100%;"><a rel="noopener" target="_blank" href="https://intranet.moe.gov.sg/">MOE Intranet</a></td>
+<td>&nbsp;<img style="width: 100%;" src="/images/msf.png"><a href="https://www.myskillsfuture.sg/content/student/en/secondary.html" target="_blank" rel="noopener">My Skills Future</a></td>
+<td><img style="width: 100%;" src="/images/ICON.png"><a href="https://workspace.google.com/dashboard" target="_blank" rel="noopener">ICONnect</a></td>
+<td><img style="width: 100%;" src="/images/intra.jpg"><a href="https://intranet.moe.gov.sg/" target="_blank" rel="noopener">MOE Intranet</a></td>
 <td></td>
 </tr>
 </tbody>
