@@ -40,7 +40,7 @@ description: ""
 <td><img style="width: 100%;" src="/images/SLS.png"><a href="https://vle.learning.moe.edu.sg/login" target="_blank" rel="noopener">Student Learning Space</a>&nbsp;</td>
 <td><img style="width: 100%;" src="/images/SLS.png"><a href="https://vle.learning.moe.edu.sg/login" target="_blank" rel="noopener">Student Learning Space</a></td>
 <td><img style="width: 100%;" src="/images/PACGOV.png"><a href="https://pacgov.agd.gov.sg/ipac/portal/jsp/login/index1.jsp" target="_blank" rel="noopener">PaC@Gov</a></td>
-<td><br><img style="width: 80%;" src="/images/SEAB.png"><a href="https://www.seab.gov.sg/" target="_blank" rel="noopener">Singapore Examinations<br>&amp; Assessment Board</a><br><br></td>
+<td><img style="width: 80%;" src="/images/SEAB.png"><a href="https://www.seab.gov.sg/" target="_blank" rel="noopener">Singapore Examinations<br>&amp; Assessment Board</a><br><br></td>
 </tr>
 <tr style="text-align: center;">
 <td><img style="width: 100%;" src="/images/IMTL.png"><a href="https://imtl.moe.edu.sg/cos/o.x?c=/ca7_imtl/user&amp;func=login" target="_blank" rel="noopener">iMTL Portal</a></td>
@@ -70,7 +70,7 @@ description: ""
 <td>&nbsp;<img style="width: 100%;" src="/images/msf.png"><a href="https://www.myskillsfuture.sg/content/student/en/secondary.html" target="_blank" rel="noopener">My Skills Future</a></td>
 <td><img style="width: 100%;" src="/images/ICON.png"><a href="https://workspace.google.com/dashboard" target="_blank" rel="noopener">ICONnect</a></td>
 <td><img style="width: 100%;" src="/images/intra.jpg"><a href="https://intranet.moe.gov.sg/" target="_blank" rel="noopener">MOE Intranet</a></td>
-<td><br><br><br><br><br></td>
+<td></td>
 </tr>
 </tbody>
 </table>
