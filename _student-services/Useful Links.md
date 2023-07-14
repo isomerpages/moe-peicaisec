@@ -45,19 +45,19 @@ description: ""
 <td><p align="center"><img style="width: 100%;" src="/images/IMTL.png"><a href="https://imtl.moe.edu.sg/cos/o.x?c=/ca7_imtl/user&amp;func=login" target="_blank" rel="noopener">iMTL Portal</a></p></td>
 <td><p align="center"><img style="width: 80%;" src="/images/cockpit.png"><a href="https://schoolcockpit.moe.gov.sg/" target="_blank" rel="noopener">School Cockpit+</a></p></td>
 <td><p align="center"><img style="width: 100%;" src="/images/rbs.png"><a href="https://rbs.avero-tech.com/" target="_blank" rel="noopener">Resource Booking Service (RBS)</a></p></td>
-<td><p align="center"><img style="width: 80%;" src="/images/pg.jpg"><br><a href="https://pg.moe.edu.sg/faq" target="_blank" rel="noopener">Information on<br>Parents Gateway</a><br><br><br></p></td>
+<td><p align="center"><img style="width: 80%;" src="/images/pg.jpg"><br><a href="https://pg.moe.edu.sg/faq" target="_blank" rel="noopener">Information on<br>Parents Gateway</a><br></p></td>
 </tr>
 <tr style="text-align: center;">
 <td><p align="center"><img style="width: 100%;" src="/images/ace.png"><a href="https://www.ace-learning.com/login" target="_blank" rel="noopener">Math Portal</a></p></td>
 <td><p align="center"><img style="width: 100%;" src="/images/scmobile.png"><a href="https://scmobile.moe.edu.sg/login" target="_blank" rel="noopener">SC Mobile<br>(Attendance and Temperature)</a></p></td>
 <td><p align="center"><img style="width: 100%;" src="/images/sen.png"><a href="https://intranet.moe.gov.sg/send/Pages/SEN_Resource_Portal.aspx" target="_blank" rel="noopener">SEN Resource Portal</a></p></td>
-<td><p align="center"><img style="width: 100%;" src="/images/moh.jpg">Updates on Singapore's<br>COVID-19 Situation<br><br></p></td>
+<td><p align="center"><img style="width: 100%;" src="/images/moh.jpg">Updates on Singapore's<br>COVID-19 Situation<br></p></td>
 </tr>
 <tr style="text-align: center;">
 <td><p align="center"><img style="width: 80%;" src="/images/MOE.png"><a href="https://www.moe.gov.sg/" target="_blank" rel="noopener">MOE Website</a></p></td>
 <td><p align="center"><br><img style="width: 100%;" src="/images/admin.png"><a href="https://peicaisec.adminbreeze.com/" target="_blank" rel="noopener">Admin Breeze</a></p></td>
 <td><p align="center"><img style="width: 100%;" src="/images/IMTL.png"><a href="https://imtl.moe.edu.sg/cos/o.x?c=/ca7_imtl/user&amp;func=login" target="_blank" rel="noopener">iMTL Portal</a></p></td>
-<td><p align="center"><img style="width: 100%;" src="/images/faq.png"><br><a href="https://www.moe.gov.sg/faqs-covid-19-infection" target="_blank" rel="noopener">FAQs:<br>COVID-19 related matters</a><br><br></p></td>
+<td><p align="center"><img style="width: 100%;" src="/images/faq.png"><br><a href="https://www.moe.gov.sg/faqs-covid-19-infection" target="_blank" rel="noopener">FAQs:<br>COVID-19 related matters</a><br></p></td>
 </tr>
 <tr style="text-align: center;">
 <td><p align="center"><img style="width: 100%;" src="/images/ECAREERS.png">ecareers.com</p></td>
