@@ -32,7 +32,7 @@ description: ""
 </tr>
 <tr style="text-align: center;">
 <td><img style="width: 100%;" src="/images/studenticon.png"><a href="https://workspace.google.com/dashboard">Student iCON</a></td>
-<td><img style="width: 100%;" src="/images/mimsportal.png"><a href="https://mims.moe.gov.sg/" target="_blank" rel="noopener">MIMS Portal</a><br><br></td>
+<td><p align="center"><img style="width: 100%;" src="/images/mimsportal.png"><a href="https://mims.moe.gov.sg/" target="_blank" rel="noopener">MIMS Portal</a><br><br></p></td>
 <td><img style="width: 100%;" src="/images/AST.png"><a href="https://www.opal2.moe.edu.sg/app/index.html" target="_blank" rel="noopener">AST (OPAL Login)</a>&nbsp;</td>
 <td><img style="width: 80%;" src="/images/MOE.png"><a href="https://www.moe.gov.sg/" target="_blank" rel="noopener">MOE Website</a>&nbsp;</td>
 </tr>
