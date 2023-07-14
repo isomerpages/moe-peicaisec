@@ -39,7 +39,7 @@ description: ""
 <td><p align="center"><img style="width: 100%;" src="/images/SLS.png"><a href="https://vle.learning.moe.edu.sg/login" target="_blank" rel="noopener">Student Learning Space</a>&nbsp;</p></td>
 <td><p align="center"><img style="width: 100%;" src="/images/SLS.png"><a href="https://vle.learning.moe.edu.sg/login" target="_blank" rel="noopener">Student Learning Space</a></p></td>
 <td><p align="center"><img style="width: 100%;" src="/images/PACGOV.png"><a href="https://pacgov.agd.gov.sg/ipac/portal/jsp/login/index1.jsp" target="_blank" rel="noopener">PaC@Gov</a></p></td>
-<td><p align="center"><img style="width: 80%;" src="/images/SEAB.png"><a href="https://www.seab.gov.sg/" target="_blank" rel="noopener">Singapore Examinations<br>&amp; Assessment Board</a><br><br></p></td>
+<td><p align="center"><img style="width: 80%;" src="/images/SEAB.png"><a href="https://www.seab.gov.sg/" target="_blank" rel="noopener">Singapore Examinations<br>&amp; Assessment Board</a><br></p></td>
 </tr>
 <tr style="text-align: center;">
 <td><p align="center"><img style="width: 100%;" src="/images/IMTL.png"><a href="https://imtl.moe.edu.sg/cos/o.x?c=/ca7_imtl/user&amp;func=login" target="_blank" rel="noopener">iMTL Portal</a></p></td>
