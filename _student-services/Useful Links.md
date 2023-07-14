@@ -22,7 +22,7 @@ description: ""
 <a href="/files/posters_mims_sspr_guide.pdf"><font size="3">1. Student iCON/ MIMS account Password Self-Reset Instructions</font></a><br>
 <a href="/files/student edm_onboarding_introducing_student_icon.pdf"><font size="3">2. Student iCON - Student EDM Onboarding Introducing Student iCON_Poster</font></a><br><a href="/files/student_icon_onboarding_guide_sec_school.pdf"><font size="3">3.Student iCON Onboarding Guide_Sec Schs</font></a>
 
-<table style="margin-left: auto; margin-right: auto;">
+<hr><table style="margin-left: auto; margin-right: auto;">
 <tbody>
 <tr>
 <th style="text-align: center;"><strong>STUDENTS</strong></th>
