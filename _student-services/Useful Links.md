@@ -19,7 +19,6 @@ description: ""
 <li>Please remember to log out from SWN at <a href="http://portal.swn.moe.edu.sg/"><u>http://portal.swn.moe.edu.sg&nbsp;</u></a>&nbsp;when you have finished using the connection.</li>
 <li>Students can now reset their own MIMS password by performing a one-time set-up of answers to 3-security challenge questions. Please follow the instructions found here to do so. If you are unable to perform the set-up or your MIMS account is locked, please contact your Form-teacher(s) or IT personnel at E3-02.</li>
 </ol>
-
 <a href="/files/posters_mims_sspr_guide.pdf"><font size="3">1. Student iCON/ MIMS account Password Self-Reset Instructions</font></a><br>
 <a href="/files/student edm_onboarding_introducing_student_icon.pdf"><font size="3">2. Student iCON - Student EDM Onboarding Introducing Student iCON_Poster</font></a><br><a href="/files/student_icon_onboarding_guide_sec_school.pdf"><font size="3">3.Student iCON Onboarding Guide_Sec Schs</font></a>
 
