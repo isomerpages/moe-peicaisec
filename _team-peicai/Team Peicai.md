@@ -17,7 +17,7 @@ description: ""
 .JPG" style="width: 100%;"></p><hr>
 <p><img src="/images/07humanities department_v3
 .JPG" style="width: 100%;"></p><hr>
-<p><img src="/images/08craft &amp; technology_v3
+<p><img src="/images/08craft &amp; technology_v4
 .JPG" style="width: 100%;"></p><hr>
 <p><img src="/images/09mother tongue department_v3
 .JPG" style="width: 100%;"></p><hr>
