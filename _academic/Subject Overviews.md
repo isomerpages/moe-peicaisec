@@ -236,7 +236,7 @@ description: ""
 </td>
 <td style="text-align: center;" width="208">
 <p><a href="/files/science3na sc(bio) sem 2 2023_v3.pdf">Science Biology</a><br><a href="/files/science - 3na sc(chem) 2023-sem 2_v3.pdf">Science  Chemistry</a>
-<br><a href="/files/science3na physics semester 2 2023_v3_.pdf">Science Physics</a></p>
+<br><a href="/files/science - 3na physics sem2_v4.pdf">Science Physics</a></p>
 </td>
 <td style="text-align: center;" width="208">
 <p><a href="/files/science3nt science 2023 sem2_v3.pdf">Science</a><br><a href="/files/ebs_3nt_sem22023_v3.pdf">Elements of Business Skills </a></p>
