@@ -1,5 +1,4 @@
 collections:
   school-events:
     output: true
-    order:
-      - School Events 2023.md
+    order: []
