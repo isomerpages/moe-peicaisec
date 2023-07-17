@@ -2,6 +2,7 @@ collections:
   unused-pages:
     output: true
     order:
+      - School Events 2022.md
       - School Advisory Committee (SAC)A.md
       - Subject Areas.md
       - Mental and Emotional Wellbeing & Support.md
