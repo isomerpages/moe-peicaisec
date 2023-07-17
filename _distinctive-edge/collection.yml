@@ -2,10 +2,10 @@ collections:
   distinctive-edge:
     output: true
     order:
-      - Signature Community Outreach.md
       - Student Mentorship Programme.md
       - Applied Learning Programme(ALP).md
       - Learn for Life Programme(LLP).md
       - PinnaCle(Talent development).md
       - Student Work Attachment Programme(SWAP).md
       - Overseas Student Exchange(OSEP).md
+      - Signature Community Outreach.md
