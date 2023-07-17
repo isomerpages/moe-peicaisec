@@ -839,9 +839,9 @@ description: ""
   border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
   solid black .75pt;mso-border-left-alt:solid black .75pt;mso-border-alt:solid black .75pt;
   padding:5.25pt 5.25pt 5.25pt 5.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
-  line-height:16.8pt"><span class="MsoHyperlink"><span style="mso-bidi-font-family:
-  Calibri;mso-bidi-theme-font:minor-latin;color:#4067AE"><a href="mailto:teo_lai_huat@moe.edu.sg"><span style="font-size:10.5pt;
-  font-family:&quot;Lato&quot;,sans-serif;color:#4067AE">teo_lai_huat@moe.edu.sg</span></a></span></span></p></td></tr><tr style="mso-yfti-irow:44"><td width="196" valign="top" style="width:147.1pt;border:solid black 1.0pt;
+  line-height:16.8pt"><a href="mailto:teo_lai_huat@moe.edu.sg"><span style="font-size:10.5pt;font-family:&quot;Lato&quot;,sans-serif;mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin;color:#4067AE">teo_lai_huat@moe.edu.sg</span></a><span class="MsoHyperlink"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin;color:#4067AE"></span></span></p></td></tr><tr style="mso-yfti-irow:44"><td width="196" valign="top" style="width:147.1pt;border:solid black 1.0pt;
   border-top:none;mso-border-top-alt:solid black .75pt;mso-border-alt:solid black .75pt;
   padding:5.25pt 5.25pt 5.25pt 5.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
   line-height:16.8pt"><span style="font-size:10.5pt;font-family:&quot;Lato&quot;,sans-serif">Poonam Pathak (Ms)</span></p></td><td width="174" valign="top" style="width:130.3pt;border-top:none;border-left:
@@ -1003,8 +1003,10 @@ description: ""
   border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
   solid black .75pt;mso-border-left-alt:solid black .75pt;mso-border-alt:solid black .75pt;
   padding:5.25pt 5.25pt 5.25pt 5.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
-  line-height:16.8pt"><span class="MsoHyperlink"><span style="mso-bidi-font-family:
-  Calibri;mso-bidi-theme-font:minor-latin;color:#4067AE">zachary_andrew_branson@moe.edu.sg</span></span><span style="font-size:10.5pt;font-family:&quot;Lato&quot;,sans-serif"></span></p></td></tr><tr style="mso-yfti-irow:55"><td width="196" style="width:147.1pt;border:solid black 1.0pt;border-top:none;
+  line-height:16.8pt"><span class="MsoHyperlink"><span style="font-size:10.5pt;
+  font-family:&quot;Lato&quot;,sans-serif;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin;color:#4067AE"><a href="mailto:zachary_andrew_branson@moe.edu.sg"><span style="color:#4067AE">zachary_andrew_branson@moe.edu.sg</span></a></span></span><span class="MsoHyperlink"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin;color:#4067AE"></span></span></p></td></tr><tr style="mso-yfti-irow:55"><td width="196" style="width:147.1pt;border:solid black 1.0pt;border-top:none;
   mso-border-top-alt:solid black .75pt;mso-border-alt:solid black .75pt;
   padding:5.25pt 5.25pt 5.25pt 5.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
   line-height:16.8pt"><b><span style="font-size:10.5pt;font-family:&quot;Lato&quot;,sans-serif;
@@ -1581,9 +1583,10 @@ description: ""
   border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
   solid black .75pt;mso-border-left-alt:solid black .75pt;mso-border-alt:solid black .75pt;
   padding:5.25pt 5.25pt 5.25pt 5.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
-  line-height:16.8pt"><u><span style="font-size:10.5pt;font-family:&quot;Lato&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin;color:#4067AE"><a href="mailto:seoh_soon_peng@moe.edu.sg"><span style="color:#4067AE">seoh_soon_peng@moe.edu.sg</span></a></span></u><span style="font-size:10.5pt;font-family:&quot;Lato&quot;,sans-serif"></span></p></td></tr><tr style="mso-yfti-irow:84"><td width="196" style="width:147.1pt;border:solid black 1.0pt;border-top:none;
+  line-height:16.8pt"><a href="mailto:seoh_soon_peng@moe.edu.sg"><span style="font-size:10.5pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
+  color:#4067AE">seoh_soon_peng@moe.edu.sg</span></a><span style="font-size:
+  10.5pt;font-family:&quot;Lato&quot;,sans-serif"></span></p></td></tr><tr style="mso-yfti-irow:84"><td width="196" style="width:147.1pt;border:solid black 1.0pt;border-top:none;
   mso-border-top-alt:solid black .75pt;mso-border-alt:solid black .75pt;
   padding:5.25pt 5.25pt 5.25pt 5.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
   line-height:16.8pt"><span style="font-size:10.5pt;font-family:&quot;Lato&quot;,sans-serif;
