@@ -2,6 +2,7 @@ collections:
   unused-pages:
     output: true
     order:
+      - Rotary Club of Changi.md
       - Lions Club.md
       - Partners.md
       - Alumni 1.md
