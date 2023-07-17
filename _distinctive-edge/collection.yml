@@ -2,6 +2,7 @@ collections:
   distinctive-edge:
     output: true
     order:
+      - Student Mentorship Programme.md
       - Applied Learning Programme(ALP).md
       - Learn for Life Programme(LLP).md
       - PinnaCle(Talent development).md
