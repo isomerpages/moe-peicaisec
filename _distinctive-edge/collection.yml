@@ -2,7 +2,7 @@ collections:
   distinctive-edge:
     output: true
     order:
-      - ALP (Applied Learning Programme).md
+      - Applied Learning Programme(ALP).md
       - LLP (Learning for Life Programme).md
       - PiNNacle @peicai.md
       - Work Attachment.md
