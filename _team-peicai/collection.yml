@@ -2,6 +2,7 @@ collections:
   team-peicai:
     output: true
     order:
+      - List of Partners.md
       - Team Peicai.md
       - Alumni.md
       - School Advisory Committee (SAC).md
