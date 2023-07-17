@@ -6,8 +6,8 @@ description: ""
 <p></p><h4><strong>Team Peicai</strong></h4><p></p>
 <p><img src="/images/01school leaders
 .JPG" style="width: 100%;"></p><hr>
-<p><img src="/images/02student development team_v5
-.JPG" style="width: 100%;"></p><hr>
+<p><img src="/images/02smc_v7
+.jpg" style="width: 100%;"></p><hr>
 <p><img src="/images/03mathematics department_v5
 .JPG" style="width: 100%;"></p><hr>
 <p><img src="/images/04english &amp; literature department_v5
