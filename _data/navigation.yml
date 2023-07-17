@@ -72,6 +72,8 @@ links:
         url: /cca/cca-schedule
       - title: CCAs
         url: /cca/ccas
+  - title: Distinctively PCSS
+    collection: distinctive-edge
   - title: Achievements
     url: /achievements/students
     sublinks:
@@ -94,5 +96,3 @@ links:
         url: /parents/resources-for-parents
       - title: Useful Links
         url: /parents/useful-links
-  - title: Distinctively PCSS
-    collection: distinctive-edge
