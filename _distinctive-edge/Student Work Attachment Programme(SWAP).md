@@ -49,7 +49,6 @@ Ms Mabel Ang (speaker) + 2 other speakers.
  <br>
 Students found the visit to PWC’s CBD office to be an eye-opening experience that provided them with a deeper insight into what an accounting job entails (e.g., not just accounting but also assurance, risk assessment and management, etc.). Some developed a higher interest in accounting after the visit. They appreciated the interactive and engaging format of the visit, which gave them the opportunity to pose questions and the patience shown by the speaker in providing clear explanations to their questions. They are thankful for the warm hospitality shown.
 </p>
-
 <p></p><hr><hr>
 <p></p>
 <p>
