@@ -45,3 +45,34 @@ for eg, In times of emergencies, when one student  did not have sufficient balan
 </tbody>
 </table><p></p><hr><hr>
 <p></p>
+
+<table border="0" style="border-collapse: collapse; width: 100%;">
+<tbody>
+<tr>
+<td style="width: 100%;"><img src="/images/04 signature outreach.JPG"></td>
+</tr>
+<tr>
+<td style="width: 50%;"><p align="justify">Last Friday. 11 of our student leaders together with Prinicpal Mr Michael, Ms Lim and Mr Koh paid a visit to Serangoon Bus Interchange.
+Our Principal Mr Michael presented the crane installation to Mr Bernard Goh , Head of Operations of SBS transit.
+Yakun Kaya Toast was very supportive of our effort and sponsored 100 sets of kaya toast and drinks for our Bus Caps. Our gesture of appreciation to the bus caps resonated with Yakun CEO Mr Tanaka. He paid us a surprise visit that day at the interchange (photo bottom right)
+
+As we presented the toast and drinks to the bus captains, we felt heartened that we were able to do our part for the community as students and as part of Peicai Secondary.
+That really made us feel very proud!
+</p></td>
+</tr>
+</tbody>
+</table><p></p><hr><hr>
+<p></p>
+
+<table border="0" style="border-collapse: collapse; width: 100%;">
+<tbody>
+<tr>
+<td style="width: 100%;"><img src="/images/05 signature outreach.JPG"></td>
+</tr>
+<tr>
+<td style="width: 50%;"><p align="justify">We would like to take this opportunity to thank Mr Michael for his support to this project and all our form teachers who guided us in this appreciation project. The art installation would be featured at Serangoon bus interchange Passenger Service Office. We hope more of you can stand up and initiate meaningful projects for our community!
+</p></td>
+</tr>
+</tbody>
+</table><p></p><hr>
+<p></p>
