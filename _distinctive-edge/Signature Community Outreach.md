@@ -17,6 +17,7 @@ description: ""
 </table></p><hr><hr>
 <p></p>
 <p>
+	
 <table border="0" style="border-collapse: collapse; width: 100%;">
 <tbody>
 <tr>
@@ -29,4 +30,18 @@ A big thank you to the sec 3s and please give yourself a great round of applause
 </tr>
 </tbody>
 </table></p><hr><hr>
+<p></p>
+
+<table border="0" style="border-collapse: collapse; width: 100%;">
+<tbody>
+<tr>
+<td style="width: 100%;"><img src="/images/03 signature outreach.JPG"></td>
+</tr>
+<tr>
+<td style="width: 50%;"><p align="justify">The notes contained Wonderful memories of how bus uncles and aunties greeted us every morning with warm smiles!
+for eg, In times of emergencies, when one student  did not have sufficient balance in his ex link card, the bus cap allowed him to continue his journey to school! The notes were presented as a booklet to SBS transit.
+</p></td>
+</tr>
+</tbody>
+</table><p></p><hr><hr>
 <p></p>
