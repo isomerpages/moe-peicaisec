@@ -2,6 +2,7 @@ collections:
   unused-pages:
     output: true
     order:
+      - Applied Learning Programme (ALP).md
       - Talent Development Programme (PinnaCle@Peicai).md
       - Rotary Club of Changi.md
       - Lions Club.md
