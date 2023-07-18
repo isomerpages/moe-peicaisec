@@ -25,8 +25,6 @@ description: ""
 
 
 <img src="/images/work attachment opportunities-peicai 05.JPG">
-
-
 <p align="justify"><b>Mr Josephus Tan,
 Mr Josiah Zee ,
 	Mr Russell.</b> <br>
