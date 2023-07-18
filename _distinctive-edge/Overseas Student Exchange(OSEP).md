@@ -3,7 +3,7 @@ title: Overseas Student Exchange(OSEP)
 permalink: /distinctive-edge/osep-overseas-student-exchange/
 description: ""
 ---
-<b>CCA PCSS 2023 Overseas Student Exchange and Local Work Attachment Programme 2023</b><br>
+<b>PCSS 2023 Overseas Student Exchange</b><br>
 <table>
 <tbody>
 <tr>
