@@ -6,7 +6,7 @@ description: ""
 <p></p><h4><strong>Team Peicai</strong></h4><p></p>
 <p><img src="/images/01school leaders
 .JPG" style="width: 100%;"></p><hr>
-<p><img src="/images/02smc_v7a
+<p><img src="/images/02smc_v7b
 .jpg" style="width: 100%;"></p><hr>
 <p><img src="/images/03mathematics department _v7
 .JPG" style="width: 100%;"></p><hr>
