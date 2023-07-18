@@ -39,11 +39,3 @@ description: ""
 </td></tr>
 </tbody>
 </table>
-
-<br><table>
-<tbody>
-<tr>
-
-</tr>
-</tbody>
-</table>
