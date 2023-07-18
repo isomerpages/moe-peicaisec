@@ -28,9 +28,9 @@ description: ""
 <td style="width: 100%;"><img src="/images/work attachment opportunities-peicai 05.JPG"></td>
 </tr>
 <tr>
-<td style="width: 50%;"><p align="justify">Mr Josephus Tan,
+<td style="width: 50%;"><p align="justify"><b>Mr Josephus Tan,
 Mr Josiah Zee ,
-Mr Russell. <br>
+	Mr Russell.</b> <br>
 Students enjoyed the novel experience of visiting the court with Mr Josiah and Mr Russell, and sitting in the consultations. Most of the things they did during the week-long attachment were new things that they enjoyed exploring. They found Mr Josephus Tan’s sharing to be very authentic and inspiring. They also appreciated the patience shown to them by their mentors. 
 </p></td>
 </tr>
@@ -44,9 +44,9 @@ Students enjoyed the novel experience of visiting the court with Mr Josiah and M
 <img src="/images/work attachment opportunities-peicai 06.JPG">
 
 
-</p><p align="justify">Ms Hazel,
+</p><p align="justify"><b>Ms Hazel,
 Ms Mabel Ang (speaker) + 2 other speakers.
- <br>
+	</b> <br>
 Students found the visit to PWC’s CBD office to be an eye-opening experience that provided them with a deeper insight into what an accounting job entails (e.g., not just accounting but also assurance, risk assessment and management, etc.). Some developed a higher interest in accounting after the visit. They appreciated the interactive and engaging format of the visit, which gave them the opportunity to pose questions and the patience shown by the speaker in providing clear explanations to their questions. They are thankful for the warm hospitality shown.
 </p>
 <p></p><hr><hr>
