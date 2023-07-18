@@ -14,5 +14,5 @@ description: ""
 </p></td>
 </tr>
 </tbody>
-</table>
-</p>
+</table></p><hr>
+<p></p>
