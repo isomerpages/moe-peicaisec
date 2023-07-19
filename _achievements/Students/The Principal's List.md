@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Students
 ---
 <h4 style="text-align: center;"><strong><u>2023</u></strong></h4>
-<p><img src="/images/teachers promotion 01
+<p><img src="/images/teachers promotion 0
 .JPG" style="width: 100%;"></p><hr>
 
 
