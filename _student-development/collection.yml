@@ -2,7 +2,6 @@ collections:
   student-development:
     output: true
     order:
-      - Physical and mental health.md
       - Character & Citizenship Education.md
       - Cyber Wellness @ Peicai.md
       - Education and Career Guidance (ECG).md
@@ -16,3 +15,4 @@ collections:
       - Student Leadership (SL)/Student Council.md
       - Student Leadership (SL)/Class Leadership.md
       - Student Leadership (SL)/CCA Leadership.md
+      - Physical and mental health.md
