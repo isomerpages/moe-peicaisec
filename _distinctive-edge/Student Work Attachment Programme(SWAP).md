@@ -37,14 +37,8 @@ Students found the visit to PWC’s CBD office to be an eye-opening experience t
 <p></p><hr>
 <p></p>
 
-<br><table>
-<tbody>
-<tr>
-<th><img src="/images/work attachment opportunities-peicai 07.JPG" style="width: 100%;"><br>	
-</th>
-</tr>
-</tbody>
-</table><p></p><hr>
+<img src="/images/work attachment opportunities-peicai 07.JPG" style="width: 100%;"><br>	
+<p></p><hr>
 
 <img src="/images/work attachment opportunities-peicai 08.JPG">
 <p></p><p align="justify">
