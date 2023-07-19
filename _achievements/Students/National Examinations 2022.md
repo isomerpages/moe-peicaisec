@@ -10,7 +10,7 @@ third_nav_title: Students
 <p><img src="/images/gce cambridge o 2022 02
 .JPG" style="width: 100%;"></p><hr>
 <p><img src="/images/gce cambridge o 2022 03
-.JPG" style="width: 100%;"></p><hr><hr>
+.JPG" style="width: 100%;"></p><hr>
 <p><img src="/images/gce cambridge o 2022 04
 .jpg" style="width: 100%;"></p><hr><hr>
 
