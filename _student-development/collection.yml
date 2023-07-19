@@ -2,11 +2,11 @@ collections:
   student-development:
     output: true
     order:
-      - Peer Support.md
       - Character & Citizenship Education.md
       - Cyber Wellness @ Peicai.md
       - Education and Career Guidance (ECG).md
       - Sexuality Education.md
+      - Peer Support.md
       - Student Leadership (SL).md
       - CCE/.keep
       - CCE/Cyber Wellness Tips for Parents.md
