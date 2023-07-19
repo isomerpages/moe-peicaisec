@@ -6,9 +6,7 @@ description: ""
 <b>Work Attachment Opportunities@Peicai</b><br>
 
 <img src="/images/work attachment opportunities-peicai 02.JPG">
-<p align="justify"><b>Mr Leslie Sim,</b> <br>
-Students found the exposure to the different teams in Gain City useful. They gained knowledge relevant to the field (e.g., how to buy ads from different platforms)
-</p>
+
 <p></p><hr>
 
 <table>
