@@ -12,11 +12,6 @@ third_nav_title: Students
 <p><img src="/images/gce cambridge o 2022 03
 .JPG" style="width: 100%;"></p><hr><hr>
 
-
-
-
-
-
 <img src="/images/ne1.png">
 <img src="/images/ne2.png">
 <img src="/images/ne3.png">
