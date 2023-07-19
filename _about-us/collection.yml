@@ -3,8 +3,10 @@ collections:
     output: true
     order:
       - Principal’s Message.md
-      - Peicai's History.md
+      - History.md
       - School Crest and Song.md
       - Mission, Vision and Values.md
+      - Corporate Video.md
+      - School Events 2023.md
       - Team Peicai.md
       - Contact Us.md

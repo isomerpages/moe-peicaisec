@@ -5,16 +5,18 @@ links:
     sublinks:
       - title: Principal's Message
         url: /about-us/principal-s-message
-      - title: Peicai's History
+      - title: History
         url: /about-us/peicais-history
       - title: School Crest and Song
         url: /about-us/school-crest-and-song
       - title: Mission, Vision and Values
         url: /about-us/mission-vision-and-values
+      - title: Corporate Video
+        url: /about-us/corporate-video
+      - title: School events 2023
+        url: /schoolevents/schoolevents2023/
       - title: Team Peicai
         url: /about-us/our-peicai-family/team-peicai
-      - title: School Events
-        url: /schoolevents
       - title: Contact Us
         url: /about-us/contact-us
   - title: Academic
@@ -30,6 +32,8 @@ links:
         url: /academic/subject-overviews
       - title: Class Timetable
         url: /academic/class-timetable
+      - title: Supplementary Lesson
+        url: /academic/supplementary-lesson
       - title: Blended Learning
         url: /academic/blended-learning
       - title: Craft & Technology
@@ -49,20 +53,24 @@ links:
   - title: Student Development
     url: /student-development/character-n-citizenship-education
     sublinks:
-      - title: CCE
+      - title: Character & Citizenship Ed
         url: /student-development/character-n-citizenship-education
+      - title: Cyber Wellness
+        url: /student-development/character-n-citizenship-education/cyber-wellness
+      - title: Education&Career Guidance(ECG)
+        url: /student-development/character-n-citizenship-education/education-and-career-guidance-ecg
+      - title: Sexuality Education
+        url: /student-development/character-n-citizenship-education/sexuality-education
+      - title: Peer Support
+        url: /student-development/peer-support
+      - title: Student Leadership (SL)
+        url: /student-development/student-leadership-sl
       - title: Student Management
         url: /student-development/student-management
-      - title: Gear Up
-        url: /student-development/gear-up
-      - title: Talent Development Programme
-        url: /student-development/talent-development-programme-pinnacle-at-peicai
-      - title: Applied Learning Programme
-        url: /student-development/applied-learning-programme-alp
-      - title: Learning for Life
-        url: /student-development/learning-for-life-llp
-      - title: Student Leadership
-        url: /student-development/student-leadership-sl
+      - title: Physical and Mental Health
+        url: /student-development/physical-and-mental-health
+      - title: Aesthetics
+        url: /student-development/aesthetics
   - title: CCA
     url: /cca/cca-schedule
     sublinks:
@@ -70,6 +78,8 @@ links:
         url: /cca/cca-schedule
       - title: CCAs
         url: /cca/ccas
+  - title: Distinctively PCSS
+    collection: distinctive-edge
   - title: Achievements
     url: /achievements/students
     sublinks:
@@ -92,5 +102,3 @@ links:
         url: /parents/resources-for-parents
       - title: Useful Links
         url: /parents/useful-links
-  - title: Distinctively PCSS
-    collection: distinctive-edge

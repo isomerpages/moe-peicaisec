@@ -3,6 +3,28 @@ title: Staff
 permalink: /achievements/staff/
 description: ""
 ---
+<h4 style="text-align: center;"><strong><u>2023</u></strong></h4>
+<p><img src="/images/teachers promotion 01
+.JPG" style="width: 100%;"></p><hr>
+<p><img src="/images/teachers promotion 02
+.JPG" style="width: 100%;"></p><hr>
+<p><img src="/images/teachers promotion 03
+.JPG" style="width: 100%;"></p><hr>
+<p><img src="/images/teachers promotion 04
+.JPG" style="width: 100%;"></p><hr>
+<p><img src="/images/teachers promotion 05
+.JPG" style="width: 100%;"></p><hr>
+
+
+
+
+
+
+
+
+
+
+
 <h4 style="text-align: center;"><strong><u>2022</u></strong></h4>
 <p style="text-align: center;"><strong><u>National Day Awards</u></strong></p>
 <p style="text-align: center;">The Singapore National Day Awards are a means of recognising various forms of merit and service to Singapore. Congratulations to the following staff on their awards!</p>
@@ -94,14 +116,14 @@ description: ""
 <td style="width: 33.3333%;"><img src="/images/stf17.jpeg"></td>
 </tr>
 <tr>
-<td style="width: 33.3333%; text-align: center;">Lim Bee Bee (Ms) &ndash; Security Officer</td>
-<td style="width: 33.3333%; text-align: center;">Lim Buay Hock John (Mr) &ndash; Operations Support Officer (OSO)</td>
-<td style="width: 33.3333%; text-align: center;">Tan Hui San Annie (Ms) &ndash; Corporate Support Officer (CSO)</td>
+<td style="width: 33.3333%; text-align: center;">Lim Bee Bee (Ms) – Security Officer</td>
+<td style="width: 33.3333%; text-align: center;">Lim Buay Hock John (Mr) – Operations Support Officer (OSO)</td>
+<td style="width: 33.3333%; text-align: center;">Tan Hui San Annie (Ms) – Corporate Support Officer (CSO)</td>
 </tr>
 </tbody>
 </table>
 <p style="text-align: center;"><strong><u>MOE Service Excellence Awards</u></strong></p>
-<p style="text-align: center;">The MOE Service Excellence Award (MSEA) recognises MOE staff who are passionate in service delivery, consistent in serving customers with C.A.R.E. ( Courtesy, Accessibility, Responsiveness and Effectiveness) and inspire colleagues to do likewise.<br />Congratulations to the following staff who were recipients of the award!&nbsp;</p>
+<p style="text-align: center;">The MOE Service Excellence Award (MSEA) recognises MOE staff who are passionate in service delivery, consistent in serving customers with C.A.R.E. ( Courtesy, Accessibility, Responsiveness and Effectiveness) and inspire colleagues to do likewise.<br>Congratulations to the following staff who were recipients of the award!&nbsp;</p>
 <table style="border-collapse: collapse; width: 80%; margin-left: auto; margin-right: auto;" border="1">
 <tbody>
 <tr>
@@ -184,7 +206,7 @@ description: ""
 </tbody>
 </table>
 <p style="text-align: center;"><strong><u>MOE Service Excellence Awards</u></strong></p>
-<p style="text-align: center;">The MOE Service Excellence Award (MSEA) recognises MOE staff who are passionate in service delivery, consistent in serving customers with C.A.R.E. ( Courtesy, Accessibility, Responsiveness and Effectiveness) and inspire colleagues to do likewise.<br />Congratulations to the following staff who were recipients of the award!</p>
+<p style="text-align: center;">The MOE Service Excellence Award (MSEA) recognises MOE staff who are passionate in service delivery, consistent in serving customers with C.A.R.E. ( Courtesy, Accessibility, Responsiveness and Effectiveness) and inspire colleagues to do likewise.<br>Congratulations to the following staff who were recipients of the award!</p>
 <table style="border-collapse: collapse; width: 75%; margin-left: auto; margin-right: auto;" border="1">
 <tbody>
 <tr>

@@ -2,6 +2,18 @@ collections:
   unused-pages:
     output: true
     order:
+      - National Education (NE).md
+      - Cyber Wellness Tips for Parents.md
+      - Gear Up.md
+      - Learning for Life (LLP).md
+      - Applied Learning Programme (ALP).md
+      - Talent Development Programme (PinnaCle@Peicai).md
+      - Rotary Club of Changi.md
+      - Lions Club.md
+      - Partners.md
+      - Alumni 1.md
+      - Model Peicaian.md
+      - School Events 2022.md
       - School Advisory Committee (SAC)A.md
       - Subject Areas.md
       - Mental and Emotional Wellbeing & Support.md
