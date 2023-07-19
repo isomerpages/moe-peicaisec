@@ -2,6 +2,7 @@ collections:
   unused-pages:
     output: true
     order:
+      - Cyber Wellness Tips for Parents.md
       - Gear Up.md
       - Learning for Life (LLP).md
       - Applied Learning Programme (ALP).md
