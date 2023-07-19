@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - CCE/.keep
-      - CCE/Character & Citizenship Education.md
       - CCE/Cyber Wellness @ Peicai.md
       - CCE/Cyber Wellness Tips for Parents.md
       - CCE/Education and Career Guidance (ECG).md
