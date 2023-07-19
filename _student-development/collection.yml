@@ -2,6 +2,7 @@ collections:
   student-development:
     output: true
     order:
+      - Education and Career Guidance (ECG).md
       - Cyber Wellness @ Peicai.md
       - Character & Citizenship Education.md
       - CCE/.keep
