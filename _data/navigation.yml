@@ -53,6 +53,8 @@ links:
   - title: Student Development
     url: /student-development/character-n-citizenship-education
     sublinks:
+      - title: Character & Citizenship
+        url: /student-development/character-n-citizenship-education
       - title: CCE
         url: /student-development/character-n-citizenship-education
       - title: Student Management
