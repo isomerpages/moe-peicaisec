@@ -2,7 +2,6 @@
 title: Individual Student Achievements
 permalink: /achievements/students/individual-student-achievements/
 description: ""
-third_nav_title: Students
 ---
 <p style="text-align: center;"><strong><u>Year 2022</u></strong></p>
 <img src="/images/ias1.png">
