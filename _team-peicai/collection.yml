@@ -2,7 +2,6 @@ collections:
   team-peicai:
     output: true
     order:
-      - List of Partners.md
       - School Advisory Committee (SAC).md
       - Parent Support Group (PSG).md
       - Staff Email Addresses 2023.md
