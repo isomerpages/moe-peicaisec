@@ -1,5 +1,4 @@
 collections:
   team-peicai:
     output: true
-    order:
-      - Staff Email Addresses 2023.md
+    order: []
