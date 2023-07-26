@@ -2,6 +2,5 @@ collections:
   team-peicai:
     output: true
     order:
-      - School Advisory Committee (SAC).md
       - Parent Support Group (PSG).md
       - Staff Email Addresses 2023.md
