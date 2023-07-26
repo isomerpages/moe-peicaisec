@@ -2,5 +2,4 @@ collections:
   team-peicai:
     output: true
     order:
-      - Parent Support Group (PSG).md
       - Staff Email Addresses 2023.md
