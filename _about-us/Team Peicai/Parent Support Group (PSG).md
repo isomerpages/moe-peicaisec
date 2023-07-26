@@ -2,6 +2,7 @@
 title: Parent Support Group (PSG)
 permalink: /team-peicai/parent-support-group-psg/
 description: ""
+third_nav_title: Team Peicai
 ---
 <p>In PCSS, we believe that a strong home-school partnership is a key enabler to develop our students to their full potential and enable them to fulfill their aspirations.</p>
 <p>The Peicai Parent Support Group (PSG) works in very close partnership with the school to support the school in providing a dynamic and vibrant holistic education as well as environment for students to develop and excel.</p>

@@ -1,6 +1,6 @@
 ---
 title: Team Peicai
-permalink: /about-us/our-peicai-family/team-peicai/
+permalink: /about-us/our-peicai-family/team-peicai1/
 description: ""
 ---
 <ul>
