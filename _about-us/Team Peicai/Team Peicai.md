@@ -16,8 +16,8 @@ third_nav_title: Team Peicai
 <p><img src="/images/05science department _v8.JPG" style="width: 100%;"></p><hr>
 <p><img src="/images/06humanities department_v7
 .JPG" style="width: 100%;"></p><hr>
-<p><img src="/images/07craft &amp; technology_v8
-.JPG" style="width: 100%;"></p><hr>
+<p><img src="/images/07craft &amp; technology_v9
+.jpg" style="width: 100%;"></p><hr>
 <p><img src="/images/08mother tongue department_v7
 .JPG" style="width: 100%;"></p><hr>
 <p><img src="/images/09pe &amp; cca department_v8
