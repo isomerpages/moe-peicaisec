@@ -22,39 +22,43 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;">Ms Alvina Loganathan</td>
-<td style="text-align: center;">Subject Head (CCE) &amp; Sexuality Education Coordinator</td>
+<td style="text-align: center;">Subject Head (CCE) </td>
 </tr>
 <tr>
 <td style="text-align: center;">Ms Daphne Lim</td>
-<td style="text-align: center;">Year Head (Upper Secondary) &amp; ECG Coordinator</td>
+<td style="text-align: center;">Year Head (Upper Secondary) </td>
+</tr>
+<tr>
+<td style="text-align: center;">Ms Kavitha Vythilingam</td>
+<td style="text-align: center;">Subject Head (Aesthetics) </td>
 </tr>
 <tr>
 <td style="text-align: center;">Ms Lee Ching Yi</td>
 <td style="text-align: center;">Specialised CCE Teacher &amp; ECG Team&nbsp;</td>
 </tr>
 <tr>
-<td style="text-align: center;">Mr Prem S/O Pirapala Chandran</td>
-<td style="text-align: center;">ECG Team&nbsp;</td>
-</tr>
-<tr>
-<td style="text-align: center;">Mr Keith Teo</td>
-<td style="text-align: center;">Level Head (EL)(int) &amp; NE Coordinator&nbsp;</td>
-</tr>
-<tr>
-<td style="text-align: center;">Ms Nyr Syirain Binte Hamzah&nbsp;</td>
-<td style="text-align: center;">Specialised CCE Teacher &amp; NE Team&nbsp;</td>
-</tr>
-<tr>
-<td style="text-align: center;">Ms Talisa Kaur Dhaliwal</td>
-<td style="text-align: center;">NE Team&nbsp;</td>
-</tr>
-<tr>
-<td style="text-align: center;">Mdm Chia Lay San</td>
-<td style="text-align: center;">Cyber Wellness &amp; Voices and Vision Coordinator&nbsp;</td>
-</tr>
-<tr>
 <td style="text-align: center;">Ms Mok Wei Chi</td>
-<td style="text-align: center;">Specialised CCE Teacher &amp; Cyber Wellness Team&nbsp;</td>
+<td style="text-align: center;">Specialised CCE Teacher, Environment &amp; Cyber Wellness Team </td>
+</tr>
+<tr>
+<td style="text-align: center;">Ms Nyr Syirain Binte Hamzah </td>
+<td style="text-align: center;">Specialised CCE Teacher &amp; NE Team </td>
+</tr>
+<tr>
+<td style="text-align: center;">Ms Nurazilah Mohamed Shukor </td>
+<td style="text-align: center;">Specialised CCE Teacher </td>
+</tr>
+<tr>
+<td style="text-align: center;">Mr Vincent Siew Wei Jian</td>
+<td style="text-align: center;">Aesthetics and NE Team</td>
+</tr>
+<tr>
+<td style="text-align: center;">Ms Melissa Koh Shihui</td>
+<td style="text-align: center;">Sexuality Education &amp; LLP Coordinator</td>
+</tr>
+<tr>
+<td style="text-align: center;">Ms Leng Su Yee</td>
+<td style="text-align: center;">Environment &amp; Cyber Wellness Team</td>
 </tr>
 </tbody>
 </table>
