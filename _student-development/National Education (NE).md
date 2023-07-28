@@ -17,13 +17,11 @@ description: ""
 <tbody>
 <tr>
 <td style="width: 50%;"><img src="/images/ne.jpg"></td>
-<td style="width: 50%;"><img src="/images/picture1 ne.jpg"></td>
+<td style="width: 38%;"><img src="/images/picture1 ne.jpg"></td>
 </tr>
 </tbody>
 </table>
 <p></p><p align="justify">To ensure rich learning of the students, these NE events are commemorated through not just CCE lessons, but also fringe activities tailored for the learning needs of each level.</p>
-<h4><strong>Team</strong></h4>
-<p><span style="text-decoration: underline;"><strong>NE Committee 2022<br></strong></span>Mr Keith Teo (NE Coordinator)<br>Ms Nur Syirain Bte Hamzah<br>Ms Talisa Kaur</p>
 <h4><strong>Activities / Events</strong></h4>
 <p><span style="text-decoration: underline;"><strong>Total Defence Day 2022</strong></span></p>
 <p></p><p align="justify">Student commemorated Total Defence Day this year, through various level fringe activities stated below:</p>
