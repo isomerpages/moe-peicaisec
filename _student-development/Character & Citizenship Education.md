@@ -62,11 +62,4 @@ description: ""
 <td style="text-align: center;">Environment &amp; Cyber Wellness Team</td>
 </tr>
 </tbody>
-</table>
-<h4><strong>Activities / Events</strong></h4>
-<p></p><p align="justify">The enactment of CCE involves a holistic approach where multiple learning platforms are tapped on to help students internalise values, social-emotional competencies and citizenship dispositions. These platforms include CCE lessons, key Student Development Experiences (such as CCA and VIA) and school-based initiatives (such as H2H and V&amp;V).&nbsp;</p>
-<p></p><p align="justify">Dedicated CCE lessons each week are used to discuss a variety of values-based issues, including&nbsp;<em>Cyberwellness (CW), Education &amp; Career Guidance (ECG), National Education (NE), Sexuality Education (SEd), Family Education (FE) and Mental Health (MH)</em>. These discussions are led by the students’ Form Teacher(s) who also serve as their Character Coach in school who strive to equip students with the knowledge and skills to better understand real-world contexts.&nbsp;</p>
-<p></p><p align="justify">Apart from CCE lessons, Form Teachers also build strong, positive teacher-student relationships (TSR) with their students through Heart-to-Heart Conversations carried out 3 days a week during the Silent Reading Programme.</p>
-<img style="width: 50%;" src="/images/cce2.jpg">
-<p></p><p align="justify">Classroom-based CCE lessons are supplemented with meaningful and engaging level or whole-school assembly programmes provided by school personnel or external organizations.<br>Voices &amp; Visions (V&amp;V) is a unique feature of the CCE experience in the school. During these Friday morning sessions, staff or students share their reflections on a wide range of themes. For students, V&amp;V is an excellent opportunity for them to embrace the challenge of public speaking while working together with their classmates to put together a creative and engaging sharing.</p>
-<img style="width: 60%;" src="/images/cce3.jpg"></li></ol>
+</table></li></ol>
