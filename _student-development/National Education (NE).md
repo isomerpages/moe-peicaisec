@@ -13,7 +13,14 @@ description: ""
 </p><h4><strong>Curriculum</strong></h4>
 <p></p><p align="justify">Considering the current local and global context, it is recognised that NE has to be empowering and aspirational, allowing for individual sense-making so as to nurture active and engaged citizens, who are socially aware, skilled in critical thinking, and informed about local, regional, and global issues.</p>
 <p></p><p align="justify">As such, the key Dispositions of National Education are integrated and aligned through the various NE Commemorative Events, namely: Total Defence Day, International Friendship Day, Racial Harmony Day as well as National Day.</p>
-<img style="width: 65%;" src="/images/ne.jpg">
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="/images/ne.jpg"></td>
+<td style="width: 50%;"><img src="/images/picture1 ne.jpg"></td>
+</tr>
+</tbody>
+</table>
 <p></p><p align="justify">To ensure rich learning of the students, these NE events are commemorated through not just CCE lessons, but also fringe activities tailored for the learning needs of each level.</p>
 <h4><strong>Team</strong></h4>
 <p><span style="text-decoration: underline;"><strong>NE Committee 2022<br></strong></span>Mr Keith Teo (NE Coordinator)<br>Ms Nur Syirain Bte Hamzah<br>Ms Talisa Kaur</p>
