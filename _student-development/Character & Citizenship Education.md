@@ -12,7 +12,8 @@ description: ""
 </p></li><li><strong>Future Readiness<br></strong><p align="justify">Enable students to have a sense of purpose in life, develop the dispositions of adaptability and lifelong learning so as to be able to navigate education and career pathways purposefully and take on the challenges of the future, including the world of work.
 </p><h4><strong>Curriculum</strong></h4>
 <p></p><p align="justify">Character &amp; Citizenship Education (CCE) forms an integral part of every student’s school experience. At the heart of CCE is the teaching of core values and social-emotional competencies with a focus on developing a sense of purpose in our students as they prepare to take on the challenges of a fast-evolving world beyond the school.</p>
-<img style="width: 65%;" src="/images/cce.png">
+<img style="width: 65%;" src="/images/cce.png"><br>
+	<img style="width: 100%;" src="/images/character citizenship education img.jpg">
 <h4><strong>Team</strong></h4>
 <table>
 <tbody>
