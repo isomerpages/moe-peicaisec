@@ -90,7 +90,7 @@ third_nav_title: Student Leadership (SL)
 </td></tr>
 </tbody>
 </table>
-<h4><strong>2022 Student Council Executive Committee</strong></h4>
+<h4><strong>2023 Student Council Executive Committee</strong></h4>
 <table style="margin-left: auto; margin-right: auto;" width="439">
 <tbody>
 <tr>
@@ -99,55 +99,43 @@ third_nav_title: Student Leadership (SL)
 </tr>
 <tr>
 <td width="219">President</td>
-<td width="219">NUR NATASHA BINTE JAMALUDDIN</td>
+<td width="219">FARISHA SYAKIRA BINTI SHAHDALY</td>
 </tr>
 <tr>
 <td width="219">Vice-President</td>
-<td width="219">CHIN YIH ADELIA</td>
+<td width="219">SHAZREEN RAI</td>
 </tr>
 <tr>
 <td width="219">Vice-President</td>
-<td width="219">HANI'A WIDAD RAHAH BINTE BURHANUDEEN</td>
+<td width="219">TAY ZI QI DOROTHY</td>
 </tr>
 <tr>
 <td width="219">Head of Information</td>
-<td width="219">DZYA HAZYQAH BINTE NOOR HAIROLZ</td>
+<td width="219">SHAREL CHEW</td>
 </tr>
 <tr>
 <td width="219">Head of Information</td>
-<td width="219">TAN EN RAE</td>
+<td width="219">RADA TRISHIA JOANNE OLBE</td>
 </tr>
 <tr>
 <td width="219">Head of Logistics</td>
-<td width="219">IANNA LEE XIN EN</td>
+<td width="219">ZENITH LIM (LIN WEI'EN)</td>
 </tr>
 <tr>
 <td width="219">Head of Logistics</td>
-<td width="219">TAN WENXING</td>
+<td width="219">TANG YU XUAN, EUNICE</td>
 </tr>
 <tr>
 <td width="219">Head of Media</td>
-<td width="219">ALIYAH DIYANAH BINTE ADZIL SUBARTY</td>
+<td width="219">TANEDO MARIEL YSABEL LLAGAS</td>
 </tr>
 <tr>
 <td width="219">Head of Media</td>
-<td width="219">NUR FARHANA BINTE FAIRUZ</td>
+<td width="219">CHOO JEWEL</td>
 </tr>
 <tr>
 <td width="219">Head of Council Level</td>
-<td width="219">PANDION RYAN DANIEL AZROY</td>
-</tr>
-<tr>
-<td width="219">Head of Council Level</td>
-<td width="219">MAKAYLA ZHANG JIE MORENO</td>
-</tr>
-<tr>
-<td width="219">Head of Council Level</td>
-<td width="219">SRI YULIANI BINTE SALIM</td>
-</tr>
-	<tr>
-<td width="219">Head of Council Level</td>
-<td width="219">TUNSTALL JASMINE ALIZA</td>
+<td width="219">MOE WENDY TINT</td>
 </tr>
 </tbody>
 </table>

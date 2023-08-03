@@ -1,7 +1,8 @@
 ---
 title: Student Leadership (SL)
-permalink: /student-development/student-leadership-sl/
+permalink: /student-development/student-leadership/
 description: ""
+third_nav_title: Student Leadership (SL)
 ---
 <table>
 <tbody>
@@ -21,27 +22,23 @@ description: ""
 <td width="219"><strong>Designation</strong></td>
 </tr>
 <tr>
-<td width="219">Tan Sheng Ting Heidi</td>
+<td width="219">Tan Sheng Ting Heidi (Ms)</td>
 <td width="219">Subject Head (Student Leadership) – internal</td>
-</tr>
-<tr>
-<td width="219">Alvin Yeo (Mr)</td>
-<td width="219">Subject Head (PE/CCA)</td>
-</tr>
-<tr>
-<td width="219">Arista Pang (Ms)</td>
-<td width="219">Teacher-in-Charge</td>
 </tr>
 <tr>
 <td width="219">Jonas Choo (Mr)</td>
 <td width="219">Teacher-in-Charge</td>
 </tr>
 <tr>
-<td width="219">Leong Yong Lee Kelvin (Mr)</td>
+<td width="219">Lee Min Hui Grace (Ms)</td>
 <td width="219">Teacher-in-Charge</td>
 </tr>
 <tr>
-<td width="219">Leong Yong Lee Kelvin</td>
+<td width="219">Lee Yu Hui (Ms)</td>
+<td width="219">Teacher-in-Charge</td>
+</tr>
+<tr>
+<td width="219">Leong Yong Lee Kelvin (Mr)</td>
 <td width="219">Teacher-in-Charge</td>
 </tr>
 <tr>
