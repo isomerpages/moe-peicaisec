@@ -4,7 +4,6 @@ permalink: /student-development/student-leadership-sl/
 description: ""
 third_nav_title: Student Leadership (SL)
 ---
-<p><img src="/images/class committe.jpg" style="width: 100%;"></p>
 <table>
 <tbody>
 <tr>
