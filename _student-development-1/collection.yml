@@ -2,6 +2,7 @@ collections:
   student-development-1:
     output: true
     order:
+      - Student Leadership (SL)/.keep
       - Character & Citizenship Education.md
       - Cyber Wellness @ Peicai.md
       - National Education (NE).md
