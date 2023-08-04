@@ -1148,7 +1148,7 @@ are the key messages. The desired outcome of the eTeens programme is that studen
   line-height:16.8pt" align="center" class="MsoNormal"><span style="font-family:&quot;Calibri Light&quot;,sans-serif;
   mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
   major-latin;mso-ansi-language:EN-GB" lang="EN-GB">Term 3 Week 9</span></p></td></tr></tbody></table><br>
-	<b>Information for Parents</b><br><p></p>
+	<b>Information for Parents</b><br>
 10.  Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers.<br><br>
 11.  Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable here.<br><br>
 12.  Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable here. <br><br>
