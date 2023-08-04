@@ -1,5 +1,5 @@
 collections:
-  student-development1:
+  student-development:
     output: true
     order:
       - Character & Citizenship Education.md
