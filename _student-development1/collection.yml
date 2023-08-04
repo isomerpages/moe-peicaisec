@@ -2,7 +2,6 @@ collections:
   student-development1:
     output: true
     order:
-      - Physical and Mental Health.md
       - Character & Citizenship Education.md
       - Cyber Wellness @ Peicai.md
       - National Education (NE).md
@@ -14,6 +13,7 @@ collections:
       - Student Leadership (SL)/Class Leadership.md
       - Student Leadership (SL)/Student Council.md
       - Student Leadership (SL)/Student Leadership (SL).md
+      - Student Management/.keep
       - Student Management/Code of Conduct.md
       - Student Management/Student Management.md
-      - Student Management/.keep
+      - Physical and Mental Health.md
