@@ -2,6 +2,5 @@ collections:
   student-development:
     output: true
     order:
-      - Student Management/.keep
       - Physical and Mental Health.md
       - Aesthetics.md
