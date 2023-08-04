@@ -2,7 +2,6 @@ collections:
   student-development1:
     output: true
     order:
-      - Aesthetics.md
       - Character & Citizenship Education.md
       - Cyber Wellness @ Peicai.md
       - National Education (NE).md
@@ -18,3 +17,4 @@ collections:
       - Student Management/Code of Conduct.md
       - Student Management/Student Management.md
       - Physical and Mental Health.md
+      - Aesthetics.md
