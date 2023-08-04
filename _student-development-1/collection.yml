@@ -2,8 +2,8 @@ collections:
   student-development-1:
     output: true
     order:
-      - Sexuality Education.md
       - Character & Citizenship Education.md
       - Cyber Wellness @ Peicai.md
       - National Education (NE).md
       - Education and Career Guidance (ECG).md
+      - Sexuality Education.md
