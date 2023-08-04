@@ -2,7 +2,6 @@ collections:
   student-development:
     output: true
     order:
-      - Character & Citizenship Education.md
       - Cyber Wellness @ Peicai.md
       - National Education (NE).md
       - Education and Career Guidance (ECG).md
