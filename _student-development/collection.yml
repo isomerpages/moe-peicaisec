@@ -2,7 +2,6 @@ collections:
   student-development:
     output: true
     order:
-      - Peer Support.md
       - Student Leadership (SL)/.keep
       - Student Leadership (SL)/Student Leadership (SL).md
       - Student Leadership (SL)/Student Council.md
