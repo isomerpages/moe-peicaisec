@@ -2,4 +2,5 @@ collections:
   student-development-1:
     output: true
     order:
+      - Cyber Wellness @ Peicai.md
       - Character & Citizenship Education.md
