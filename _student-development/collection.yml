@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Student Management/.keep
-      - Student Management/Code of Conduct.md
       - Physical and Mental Health.md
       - Aesthetics.md
