@@ -1,6 +1,6 @@
 ---
 title: National Education (NE)
-permalink: /student-development/character-n-citizenship-education/national-education-ne/
+permalink: /student-development/national-education-ne/
 description: ""
 ---
 <h4><strong>Approach</strong></h4>

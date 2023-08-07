@@ -1,6 +1,6 @@
 ---
 title: Education and Career Guidance (ECG)
-permalink: /student-development/character-n-citizenship-education/education-and-career-guidance-ecg/
+permalink: /student-development/education-and-career-guidance-ecg/
 description: ""
 ---
 <h4><strong>Approach</strong></h4>

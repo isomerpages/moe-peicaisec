@@ -22,8 +22,8 @@ third_nav_title: Team Peicai
 .JPG" style="width: 100%;"></p><hr>
 <p><img src="/images/09pe &amp; cca department_v8
 .JPG" style="width: 100%;"></p><hr>
-<p><img src="/images/10ict department_v7
-.JPG" style="width: 100%;"></p><hr>
+<p><img src="/images/10ict department_v9
+.jpg" style="width: 100%;"></p><hr>
 <p><img src="/images/11student development team_v7
 .JPG" style="width: 100%;"></p><hr>
 <p><img src="/images/12executive &amp; admin support_v7

@@ -1,6 +1,6 @@
 ---
 title: Cyber Wellness @ Peicai
-permalink: /student-development/character-n-citizenship-education/cyber-wellness/
+permalink: /student-development/cyber-wellness/
 description: ""
 ---
 <p></p><p align="justify">The aim of the Cyber Wellness programme is to develop Peicaians into discerning and responsible ICT users who are able to protect themselves and be responsible for their well-being in cyberspace.</p>

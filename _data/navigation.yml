@@ -49,28 +49,7 @@ links:
       - title: Science
         url: /academic/science
   - title: Student Development
-    url: /student-development/character-n-citizenship-education
-    sublinks:
-      - title: Character & Citizenship Ed
-        url: /student-development/character-n-citizenship-education
-      - title: Cyber Wellness
-        url: /student-development/character-n-citizenship-education/cyber-wellness
-      - title: National Education (NE)
-        url: /student-development/character-n-citizenship-education/national-education-ne
-      - title: Education&Career Guidance(ECG)
-        url: /student-development/character-n-citizenship-education/education-and-career-guidance-ecg
-      - title: Sexuality Education
-        url: /student-development/character-n-citizenship-education/sexuality-education
-      - title: Peer Support
-        url: /student-development/peer-support
-      - title: Student Leadership (SL)
-        url: /student-development/student-leadership
-      - title: Student Management
-        url: /student-development/student-management
-      - title: Physical and Mental Health
-        url: /student-development/physical-and-mental-health
-      - title: Aesthetics
-        url: /student-development/aesthetics
+    collection: student-development
   - title: CCA
     url: /cca/cca-schedule
     sublinks:
