@@ -1851,28 +1851,7 @@ third_nav_title: Team Peicai
   padding:5.25pt 5.25pt 5.25pt 5.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
   line-height:16.8pt"><a href="mailto:serasozapandian_k@moe.edu.sg"><span style="font-size:10.5pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
-  color:#4067AE">serasozapandian_k@moe.edu.sg</span></a><u><span style="font-size:10.5pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
-  color:#4067AE"></span></u></p></td></tr><tr style="mso-yfti-irow:97"><td width="196" style="width:147.1pt;border:solid black 1.0pt;border-top:none;
-  mso-border-top-alt:solid black .75pt;mso-border-alt:solid black .75pt;
-  padding:5.25pt 5.25pt 5.25pt 5.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
-  line-height:16.8pt"><span style="font-size:10.5pt;font-family:&quot;Lato&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin;color:#222222">Chin Yin Chen Charlotte (Ms)</span><span style="font-size:10.5pt;font-family:&quot;Lato&quot;,sans-serif;mso-bidi-font-family:
-  Calibri;mso-bidi-theme-font:minor-latin;color:#222222"></span></p></td><td width="174" style="width:130.3pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black .75pt;mso-border-left-alt:solid black .75pt;mso-border-alt:solid black .75pt;
-  padding:5.25pt 5.25pt 5.25pt 5.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
-  line-height:16.8pt"><span style="font-size:10.5pt;font-family:&quot;Lato&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin;color:#222222">Information-Communication<br>Technology Associate</span><span style="font-size:10.5pt;font-family:&quot;Lato&quot;,sans-serif;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:#222222"></span></p></td><td width="302" style="width:226.2pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
-  solid black .75pt;mso-border-left-alt:solid black .75pt;mso-border-alt:solid black .75pt;
-  padding:5.25pt 5.25pt 5.25pt 5.25pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
-  line-height:16.8pt"><a href="mailto:charlotte_chin@moe.edu.sg"><span style="font-size:10.5pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
-  color:#4067AE">charlotte_chin@moe.edu.sg</span></a><u><span style="font-size:
+  color:#4067AE">serasozapandian_k@moe.edu.sg</span></a><u><span style="font-size:
   10.5pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
   mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:#4067AE"></span></u></p></td></tr><tr style="mso-yfti-irow:98"><td width="196" style="width:147.1pt;border:solid black 1.0pt;border-top:none;
   mso-border-top-alt:solid black .75pt;mso-border-alt:solid black .75pt;
