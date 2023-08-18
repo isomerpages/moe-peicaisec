@@ -33,13 +33,13 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;" width="208">
-<p><a href="/files/1cl_exp_subject overview 2023 sem 2_v3.pdf">Chinese</a><br><a href="/files/1clb_subject overview 2023 sem 2_v3.pdf">Chinese Syllabus B</a><br><a href="/files/1hcl_subject overview 2023 sem 2_v3.pdf">Higher Chinese</a><br><a href="/files/s1ml_exp_subject overview 2023 sem 2_v3.pdf">Malay</a></p>
+<p><a href="/files/1cl_exp_sem 2 17-08-23.pdf">Chinese</a><br><a href="/files/1exp clb_sem 2 17-08-23.pdf">Chinese Syllabus B</a><br><a href="/files/1hcl_subject overview 2023 sem 2_v3.pdf">Higher Chinese</a><br><a href="/files/s1ml_exp_subject overview 2023 sem 2_v3.pdf">Malay</a></p>
 </td>
 <td style="text-align: center;" width="208">
-<p><a href="/files/1cl_na_subject overview 2023 sem 2_v3.pdf">Chinese</a><br><a href="/files/1clb_subject overview 2023 sem 2_v3.pdf">Chinese Syllabus B</a><br><a href="/files/s1ml_na_subject overview 2023 sem 2_v3.pdf">Malay</a></p>
+<p><a href="/files/1cl_na_sem 2 17-08-23.pdf">Chinese</a><br><a href="/files/1na clb_sem 2 17-08-23.pdf">Chinese Syllabus B</a><br><a href="/files/s1ml_na_subject overview 2023 sem 2_v3.pdf">Malay</a></p>
 </td>
 <td style="text-align: center;" width="208">
-<p><a href="/files/1cl_nt_subject overview 2023 sem 2_v3.pdf">Basic Chinese</a><br><a href="/files/s1ml_nt_subject overview 2023 sem 2_v3.pdf">Basic Malay</a></p>
+<p><a href="/files/1cl_nt_sem 2 17-08-23.pdf">Basic Chinese</a><br><a href="/files/s1ml_nt_subject overview 2023 sem 2_v3.pdf">Basic Malay</a></p>
 </td>
 </tr>
 <tr>
@@ -122,10 +122,10 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;" width="208">
-<p><a href="/files/2cl_exp_subject overview 2023 sem 2_v3.pdf">Chinese</a><br><a href="/files/s2ml_exp_subject overview 2023 sem 2_v3.pdf">Malay</a></p>
+<p><a href="/files/2cl_exp_subject overview 2023 sem 2_v3.pdf">Chinese</a><br><a href="/files/s2ml_exp_sem 2 17-08-23.pdf">Malay</a></p>
 </td>
 <td style="text-align: center;" width="208">
-<p><a href="/files/2cl_na_subject overview 2023 sem 2_v3.pdf">Chinese</a><br><a href="/files/s2ml_na_subject overview 2023 sem 2_v3.pdf">Malay</a></p>
+<p><a href="/files/2cl_na_sem 2 17-08-23.pdf">Chinese</a><br><a href="/files/s2ml_na_subject overview 2023 sem 2_v3.pdf">Malay</a></p>
 </td>
 <td style="text-align: center;" width="208">
 <p><a href="/files/2cl_nt_subject overview 2023 sem 2_v3.pdf">Basic Chinese</a><br><a href="/files/s2ml_nt_subject overview 2023 sem 2_v3.pdf">Basic Malay</a></p>
@@ -209,11 +209,11 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;" width="208">
-<p><a href="/files/3cl_exp_subject overview 2023 sem 2_v3.pdf">Chinese</a><br><a href="/files/3cl_nt_subject overview 2023 sem 2_v3.pdf">Chinese Syllabus B</a><br><a href="/files/3hcl_subject overview 2023 sem 2_v3.pdf">Higher Chinese</a><br><a href="/files/s3ml_exp_subject overview 2023 sem 2_v3.pdf">Malay</a></p>
+<p><a href="/files/3cl_exp_sem 2 17-08-23.pdf">Chinese</a><br><a href="/files/3exp clb_sem 2 17-08-23.pdf">Chinese Syllabus B</a><br><a href="/files/3hcl_subject overview 2023 sem 2_v3.pdf">Higher Chinese</a><br><a href="/files/s3ml_exp_sem 2 17-08-23.pdf">Malay</a></p>
 </td>
 <td style="text-align: center;" width="208">
-<p><a href="/files/3cl_na_subject overview 2023 sem 2_v3.pdf">Chinese</a><br><a href="/files/3na_clb_subject overview 2023 sem 2_v3.pdf">Chinese Syllabus B</a>
-<br><a href="/files/s3ml_na _subject overview 2023 sem 2_v3.pdf">Malay</a></p>
+<p><a href="/files/3cl_na_sem 2 17-08-23.pdf">Chinese</a><br><a href="/files/3na clb_sem 2 17-08-23.pdf">Chinese Syllabus B</a>
+<br><a href="/files/s3ml_na _sem 2 17-08-23.pdf">Malay</a></p>
 </td>
 <td style="text-align: center;" width="208">
 <p><a href="/files/3cl_nt_subject overview 2023 sem 2_v3.pdf">Basic Chinese</a><br><a href="/files/s3ml_nt_subject overview 2023 sem 2_v3.pdf">Basic Malay</a></p>
@@ -232,7 +232,7 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;" width="208">
-<p><a href="/files/science3e biology semester 2 2023_v3.pdf">Biology</a><br><a href="/files/science3e chemistry 2023-sem 2_v3.pdf">Chemistry</a><br><a href="/files/science - 3e physics 2023_v3.pdf">Physics</a><br><a href="/files/science3e combine science biology 2023_v3.pdf">Science Biology</a><br><a href="/files/science3e sc(chem)_sem22023_v3.pdf">Science Chemistry</a><br><a href="/files/subject overview science - 3e sc(phy) sem 2 2023_v3.pdf">Science Physics</a></p>
+<p><a href="/files/science - 3e biology semester 2 2023_ 14 aug 2023.pdf">Biology</a><br><a href="/files/science3e chemistry 2023-sem 2_v3.pdf">Chemistry</a><br><a href="/files/science - 3e physics 2023_v3.pdf">Physics</a><br><a href="/files/science3e combine science biology 2023_v3.pdf">Science Biology</a><br><a href="/files/science3e sc(chem)_sem22023_v3.pdf">Science Chemistry</a><br><a href="/files/subject overview science - 3e sc(phy) sem 2 2023_v3.pdf">Science Physics</a></p>
 </td>
 <td style="text-align: center;" width="208">
 <p><a href="/files/science3na sc(bio) sem 2 2023_v3.pdf">Science Biology</a><br><a href="/files/science - 3na sc(chem) 2023-sem 2_v3.pdf">Science  Chemistry</a>
