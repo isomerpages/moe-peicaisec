@@ -39,7 +39,7 @@ description: ""
 <p><a href="/files/1cl_na_sem 2 17-08-23.pdf">Chinese</a><br><a href="/files/1clb_subject overview 2023 sem 2_v3.pdf">Chinese Syllabus B</a><br><a href="/files/s1ml_na_subject overview 2023 sem 2_v3.pdf">Malay</a></p>
 </td>
 <td style="text-align: center;" width="208">
-<p><a href="/files/1cl_nt_subject overview 2023 sem 2_v3.pdf">Basic Chinese</a><br><a href="/files/s1ml_nt_subject overview 2023 sem 2_v3.pdf">Basic Malay</a></p>
+<p><a href="/files/1cl_nt_sem 2 17-08-23.pdf">Basic Chinese</a><br><a href="/files/s1ml_nt_subject overview 2023 sem 2_v3.pdf">Basic Malay</a></p>
 </td>
 </tr>
 <tr>
