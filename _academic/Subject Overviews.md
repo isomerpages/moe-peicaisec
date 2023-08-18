@@ -122,7 +122,7 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;" width="208">
-<p><a href="/files/2cl_exp_subject overview 2023 sem 2_v3.pdf">Chinese</a><br><a href="/files/s2ml_exp_subject overview 2023 sem 2_v3.pdf">Malay</a></p>
+<p><a href="/files/2cl_exp_subject overview 2023 sem 2_v3.pdf">Chinese</a><br><a href="/files/s2ml_exp_sem 2 17-08-23.pdf">Malay</a></p>
 </td>
 <td style="text-align: center;" width="208">
 <p><a href="/files/2cl_na_sem 2 17-08-23.pdf">Chinese</a><br><a href="/files/s2ml_na_subject overview 2023 sem 2_v3.pdf">Malay</a></p>
@@ -209,11 +209,11 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;" width="208">
-<p><a href="/files/3cl_exp_sem 2 17-08-23.pdf">Chinese</a><br><a href="/files/3exp clb_sem 2 17-08-23.pdf">Chinese Syllabus B</a><br><a href="/files/3hcl_subject overview 2023 sem 2_v3.pdf">Higher Chinese</a><br><a href="/files/s3ml_exp_subject overview 2023 sem 2_v3.pdf">Malay</a></p>
+<p><a href="/files/3cl_exp_sem 2 17-08-23.pdf">Chinese</a><br><a href="/files/3exp clb_sem 2 17-08-23.pdf">Chinese Syllabus B</a><br><a href="/files/3hcl_subject overview 2023 sem 2_v3.pdf">Higher Chinese</a><br><a href="/files/s3ml_exp_sem 2 17-08-23.pdf">Malay</a></p>
 </td>
 <td style="text-align: center;" width="208">
 <p><a href="/files/3cl_na_sem 2 17-08-23.pdf">Chinese</a><br><a href="/files/3na clb_sem 2 17-08-23.pdf">Chinese Syllabus B</a>
-<br><a href="/files/s3ml_na _subject overview 2023 sem 2_v3.pdf">Malay</a></p>
+<br><a href="/files/s3ml_na _sem 2 17-08-23.pdf">Malay</a></p>
 </td>
 <td style="text-align: center;" width="208">
 <p><a href="/files/3cl_nt_subject overview 2023 sem 2_v3.pdf">Basic Chinese</a><br><a href="/files/s3ml_nt_subject overview 2023 sem 2_v3.pdf">Basic Malay</a></p>
