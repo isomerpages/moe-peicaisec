@@ -21,4 +21,4 @@ National Goalball Athlete, Ms Joan Hung, giving our students an assembly talk on
 	<img style="width: 70%;" src="/images/outward bound school.jpg">
 Our Secondary 3 students at Outward Bound School – definitely a test of physical and mental strength.<br><br>
 <img style="width: 70%;" src="/images/sports challenge.jpg">
-Sports Challenge for our Secondary 3 students.<hr>
+<p style="text-align: center;">Sports Challenge for our Secondary 3 students.</p><hr>
