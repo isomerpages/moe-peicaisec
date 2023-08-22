@@ -19,6 +19,6 @@ For example, students learn to differentiate normal stress from distress and men
 	<img style="width: 70%;" src="/images/national goalball.jpg">
 National Goalball Athlete, Ms Joan Hung, giving our students an assembly talk on resilience.<br><br>
 	<img style="width: 70%;" src="/images/outward bound school.jpg">
-Our Secondary 3 students at Outward Bound School – definitely a test of physical and mental strength.<br><br>
+<p style="text-align: center;">Our Secondary 3 students at Outward Bound School – definitely a test of physical and mental strength.<br><br>
 <img style="width: 70%;" src="/images/sports challenge.jpg">
-<p style="text-align: center;">Sports Challenge for our Secondary 3 students.</p><hr>
+</p><p style="text-align: center;">Sports Challenge for our Secondary 3 students.</p><hr>
