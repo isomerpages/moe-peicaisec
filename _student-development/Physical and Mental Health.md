@@ -10,5 +10,5 @@ In Peicai, we aim to develop in our students a holistic approach to supporting t
 <ul><li> 
 We strengthen students’ mental health through lessons on Character and Citizenship, Form Teacher Time and Physical Education. </li>
 <li>We build character in students through experiential learning platforms such as Co-Curricular Activities, Values-in-Action programme and outdoor education.
-</li><li>We teach students social and emotional competencies such as relationship management, stress management and help-seeking skills, which are then put into practice when students engage in various school activities.</li></ul> 
-
+</li><li>We teach students social and emotional competencies such as relationship management, stress management and help-seeking skills, which are then put into practice when students engage in various school activities.</li></ul>
+Teachers monitor the well-being of students and work closely with parents and school counsellors to render additional support to those who need it. Schools also work with partners such as the Ministry of Social and Family Development (MSF), mental health professionals and Family Service Centres to support students and their families within the community.
