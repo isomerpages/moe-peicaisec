@@ -15,4 +15,7 @@ Teachers monitor the well-being of students and work closely with parents and sc
 <p><b>Character and Citizenship Education 2021</b></p>
 The refreshed Character and Citizenship Education (CCE) curriculum has been progressively implemented in schools since 2021. <br><br>
 Mental Health Education is one of the key features of the CCE curriculum. Through these lessons, students are equipped with knowledge and skills to build their resilience, strengthen their mental well-being and resolve their challenges.<br><br>
-For example, students learn to differentiate normal stress from distress and mental illness. They learn to break negative thinking patterns, overcome social emotional problems and seek help when they need to. Students are also taught to stand up against stigma around mental health issues.
+For example, students learn to differentiate normal stress from distress and mental illness. They learn to break negative thinking patterns, overcome social emotional problems and seek help when they need to. Students are also taught to stand up against stigma around mental health issues.<br><br>
+	<img style="width: 100%;" src="/images/national goalball.jpg">
+	National Goalball Athlete, Ms Joan Hung, giving our students an assembly talk on resilience.<br>
+	
