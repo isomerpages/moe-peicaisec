@@ -7,5 +7,5 @@ description: ""
 	The celebration commenced with a ceremonial parade led by our uniformed groups. We were honoured to have Mr Tang Chye Huat, Chairman of our School Advisory Committee, as our Guest-of-Honour. <br><br>
 	We welcome our seniors from the Lions Befrienders to join us for a day of celebration and joy. <br><br>
 	For the second half of the celebration, Peicaians put together a special segment with celebratory items. One performance that stood out during the celebration was the spectacular flag fly past by our Aeromodelling students. The concert segment featured the popular Peicai’s Got Talent and Modern Dance performances. As a school, we ended the celebrations with one heartbeat – community singing of our favourite National Day songs.  We felt heartened to see Peicaians enjoy the unique celebration and the togetherness, echoing this year’s National Day theme, “Onward as One!” Happy Birthday, Singapore!
-<img src="/images/national day s1.JPG" style="width: 100%;">
-<img src="/images/national day s2.JPG" style="width: 100%;"></p>
+<img src="/images/national day s1.JPG" style="width: 100%;"></p><hr>
+<img src="/images/national day s2.JPG" style="width: 100%;">
