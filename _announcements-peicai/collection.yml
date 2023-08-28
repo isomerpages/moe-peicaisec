@@ -1,0 +1,5 @@
+collections:
+  announcements-peicai:
+    output: true
+    order:
+      - National Day 2023.md
