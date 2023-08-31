@@ -180,6 +180,15 @@ third_nav_title: Students
 6.	Outstanding Junior Contributor of the Year<br>
 7.	Outstanding Junior Leader of the Year</p>
 <hr>
+<table>
+<tbody>
+<tr>
+<th><img src="/images/congratulations to our science olympians.jpg" style="width: 100%;"><br>	
+</th>
+</tr>
+</tbody>
+</table><hr>
+
 <p style="text-align: center;"><strong><u></u></strong></p>
 <p align="center"><b></b>
 <table>
