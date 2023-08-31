@@ -2,4 +2,5 @@ collections:
   announcements-peicai:
     output: true
     order:
+      - Teacher's Day.md
       - National Day 2023.md
