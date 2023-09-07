@@ -8,7 +8,7 @@ description: ""
 <table>
 <tbody>
 <tr>
-<th><img src="/images/achieved his goals.jpg" style="width: 100%;"><br>	
+<th><img src="/images/achieved his goals1.jpg" style="width: 100%;"><br>	
 </th>
 </tr>
 </tbody>
