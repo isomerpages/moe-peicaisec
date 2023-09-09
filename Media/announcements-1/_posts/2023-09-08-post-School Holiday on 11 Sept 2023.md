@@ -1,13 +1,15 @@
 ---
-title: "2023"
+title: School Holiday on 11 Sept 2023
 permalink: /media/announcements/permalink/
-date: 2023-09-03
+date: 2023-09-08
 layout: post
 description: ""
 image: ""
 ---
 <ul>
-<li><a rel="noopener" target="_blank" href="/files/letter to parents regarding the change in grade.pdf">
+	<li><a rel="noopener" target="_blank" href="https://www.moe.gov.sg/news/press-releases/20230811-presidential-election-2023-changes-to-teachers-day-holiday-and-gce-n-level-exams/">School holiday on 11 September 2023 Monday</a>
+	
+</li><li><a rel="noopener" target="_blank" href="/files/letter to parents regarding the change in grade.pdf">
  Revised Last Grade Nomenclature Across Subject Levels </a></li>
 	
 <li><a rel="noopener" target="_blank" href="/announcements-peicai/national-day-2023/">National Day 2023</a></li></ul>
