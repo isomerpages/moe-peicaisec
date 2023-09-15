@@ -17,4 +17,14 @@ description: ""
 <img style="width: 75%;" src="/images/alp2.jpg"><br>
 <img style="width: 70%;" src="/images/alp3.png">
 <p></p><p align="justify">In the next tier of programme, students from select project groups will pitch their prototypes to the community, and partner with organizations to explore implementing their solutions to meet existing as well as future needs.</p>
+
+<h4><strong>Make a Difference in Design Education - Support Peicai's ALP Team!</strong></h4>
+<img src="/images/vote for peicai x sutd.jpeg" style="width: 100%;"><br>
+Click on link to vote:  <a rel="noopener" target="_blank" href="/https://go.gov.sg/vote4peicaixsutd">
+https://go.gov.sg/vote4peicaixsutd </a>
+
+
+
+
+
 <p>For more information on&nbsp;<strong><em>Seek. Make. Advocate</em></strong>, you may write to us at&nbsp;<a href="mailto:peicai_ss@moe.edu.sg">peicai_ss@moe.edu.sg</a>.</p>
