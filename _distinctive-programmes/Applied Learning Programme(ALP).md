@@ -20,7 +20,7 @@ description: ""
 
 <h4><strong>Make a Difference in Design Education - Support Peicai's ALP Team!</strong></h4>
 <img src="/images/vote for peicai x sutd.jpeg" style="width: 100%;"><br>
-Click on link to vote:  <a rel="noopener" target="_blank" href="/https://go.gov.sg/vote4peicaixsutd">
+Click on link to vote:  <a rel="noopener" target="_blank" href="https://go.gov.sg/vote4peicaixsutd">
 https://go.gov.sg/vote4peicaixsutd </a>
 
 
