@@ -24,10 +24,12 @@ Click on link to vote:  <a rel="noopener" target="_blank" href="https://go.gov.s
 https://go.gov.sg/vote4peicaixsutd </a>
 <p><b>Exciting News!</b> We are thrilled to share that Peicai’s Applied Learning Programme (ALP) Team has secured a spot among the top 4 DesignSingapore (DSg) projects vying for a chance to present at the Design Education Summit 2023. The Summit will be attended by the Minister for Education, Mr. Chan Chun Seng, along with an audience of MOE educators, policymakers, and representatives from IHLs. Parents and school leaders will also be in the audience.<br>
 </p><p>Our project now open for public voting and we would like to garner your votes for us.</p>
-<p><b> Project Synopsis.</b> With our unique, research-backed “Design as a force for change” program, the Design Innovation team at SUTD empowered the education community at Peicai Secondary School with Design mindsets and STEAM skills. The programme was conceptualised as a fun-filled voyage in which J-DIs (Junior Design Innovators, i.e., students) and their advisors, the Council members (educators) took charge to tackle real world, society-based design challenges involving community partners.
+<p><b> Project Synopsis.</b> With our unique, research-backed “Design as a force for change” program, the Design Innovation team at SUTD empowered the education community at Peicai Secondary School with Design mindsets and STEAM skills. The programme was conceptualised as a fun-filled voyage in which J-DIs (Junior Design Innovators, i.e., students) and their advisors, the Council members (educators) took charge to tackle real world, society-based design challenges involving community partners.</p>
+<p><b>Call for votes!</b> Let's come together as a community to showcase the potential of Peicai Secondary School on a grand stage. This is our opportunity to represent our school and make our voices heard in the realm of design education at a national level!</p>
+Click on link to vote:  <a rel="noopener" target="_blank" href="https://go.gov.sg/vote4peicaixsutd">
+https://go.gov.sg/vote4peicaixsutd </a>
 
 
 
 
-
-</p><p>For more information on&nbsp;<strong><em>Seek. Make. Advocate</em></strong>, you may write to us at&nbsp;<a href="mailto:peicai_ss@moe.edu.sg">peicai_ss@moe.edu.sg</a>.</p>
+<p>For more information on&nbsp;<strong><em>Seek. Make. Advocate</em></strong>, you may write to us at&nbsp;<a href="mailto:peicai_ss@moe.edu.sg">peicai_ss@moe.edu.sg</a>.</p>
