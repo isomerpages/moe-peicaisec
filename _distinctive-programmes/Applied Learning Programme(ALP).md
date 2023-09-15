@@ -22,9 +22,10 @@ description: ""
 <img src="/images/vote for peicai x sutd.jpeg" style="width: 100%;"><br>
 Click on link to vote:  <a rel="noopener" target="_blank" href="https://go.gov.sg/vote4peicaixsutd">
 https://go.gov.sg/vote4peicaixsutd </a>
+<p><b>Exciting News!</b> We are thrilled to share that Peicai’s Applied Learning Programme (ALP) Team has secured a spot among the top 4 DesignSingapore (DSg) projects vying for a chance to present at the Design Education Summit 2023. The Summit will be attended by the Minister for Education, Mr. Chan Chun Seng, along with an audience of MOE educators, policymakers, and representatives from IHLs. Parents and school leaders will also be in the audience.
 
 
 
 
 
-<p>For more information on&nbsp;<strong><em>Seek. Make. Advocate</em></strong>, you may write to us at&nbsp;<a href="mailto:peicai_ss@moe.edu.sg">peicai_ss@moe.edu.sg</a>.</p>
+</p><p>For more information on&nbsp;<strong><em>Seek. Make. Advocate</em></strong>, you may write to us at&nbsp;<a href="mailto:peicai_ss@moe.edu.sg">peicai_ss@moe.edu.sg</a>.</p>
