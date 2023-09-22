@@ -15,4 +15,4 @@ description: ""
 <a rel="noopener" target="_blank" href="/files/rebut peluang belajar bahasa jerman melalui program perintis.pdf"><br>Rebut Peluang Belajar Bahasa Jerman Melalui Program Perintis, Berita Setempat - Beritaharian.sg.</a></li></ul><br>
 
 <ul>
-<li><a rel="noopener" target="_blank" href="https://www.zaobao.com.sg/realtime/singapore/story20230830-1428692">Zaobao : https://www.zaobao.com.sg/realtime/singapore/story20230830-1428692</a></li></ul>
+<li><a rel="noopener" target="_blank" href="https://www.zaobao.com.sg/realtime/singapore/story20230830-1428692">Zaobao : https://www.zaobao.com.sg/realtime/singapore/story20230830-1428692</a><a rel="noopener" target="_blank" href="/files/120名学生完成首批单元式第三语文试点课程 _ 早报_1.pdf">120名学生完成首批单元式第三语文试点课程 _ 早报</a></li></ul><br>
