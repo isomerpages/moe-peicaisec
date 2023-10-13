@@ -3,3 +3,170 @@ title: Announcements Backup page
 permalink: /unused-pages/permalink/
 description: ""
 ---
+<p></p><p><b>2024 President Award for Teachers (PAT) &amp; 2024 Outstanding Youth in Education Award (OYEA) </b></p>
+<table>
+<tbody>
+<tr>
+<th><img style="width: 100%;" src="/images/2024 president award for teachers (pat) &amp; 2024 outstanding youth in education award (oyea).jpg">
+</th>
+</tr>
+</tbody>
+</table>
+Click on link to submit a form :  
+<ul>
+<li><a href="/files/2024 president award for teachers (pat).pdf" target="_blank" rel="noopener">
+ 2024 President Award for Teachers (PAT) </a></li>
+<li><a href="/files/2024 outstanding youth in education award (oyea).pdf" target="_blank" rel="noopener">
+2024 Outstanding Youth in Education Award (OYEA)</a></li>
+	
+	
+
+<p></p><p><b>Make a Difference in Design Education - Support Peicai's ALP Team!  </b></p>
+<table>
+<tbody>
+<tr>
+<th><img style="width: 100%;" src="/images/vote for peicai x sutd.jpeg">
+</th>
+</tr>
+</tbody>
+</table>
+Click on link to vote:  <a rel="noopener" target="_blank" href="https://go.gov.sg/vote4peicaixsutd">
+https://go.gov.sg/vote4peicaixsutd </a><br>
+<hr>
+<ul>
+<li><a href="/files/letter to parents regarding the change in grade.pdf" target="_blank" rel="noopener">
+ Revised Last Grade Nomenclature Across Subject Levels </a></li>
+	
+<li><a href="/announcements-peicai/national-day-2023/" target="_blank" rel="noopener">National Day 2023</a></li></ul>
+
+<p></p><p><b>            </b></p>
+<table>
+<tbody>
+<tr>
+<th><img style="width: 100%;" src="/images/achieved his goals1.jpg"><br>	
+</th>
+</tr>
+</tbody>
+</table><hr>
+
+<p></p><p><b>Congratulations to our Science Olympians</b></p>
+<table>
+<tbody>
+<tr>
+<th><img style="width: 100%;" src="/images/congratulations to our science olympians.jpg"><br>	
+</th>
+</tr>
+</tbody>
+</table><hr>
+
+<p></p><p><b>Congratulations on the winners of the 3 mathematics competitions</b></p>
+<table>
+<tbody>
+<tr>
+<th><img style="width: 100%;" src="/images/math competitions 2023_01.JPG"><br>	
+</th><td><img style="width: 100%;" src="/images/math competitions 2023_02.JPG"><br>
+</td></tr><tr>
+<th><img style="width: 100%;" src="/images/math competitions 2023_03.JPG"><br>	
+</th><td><img style="width: 100%;" src="/images/math competitions 2023_04.JPG"><br>
+</td></tr><tr>
+<th><img style="width: 100%;" src="/images/math competitions 2023_05.JPG"><br>	
+</th><td><img style="width: 100%;" src="/images/math competitions 2023_06.JPG"><br>	
+</td></tr>
+</tbody>
+</table><hr>
+
+<table>
+<tbody>
+<tr>
+<th><img style="width: 100%;" src="/images/to our dear alumni.jpg"><br>	
+</th>
+</tr>
+</tbody>
+</table><hr>
+<b>Work Attachment Opportunities@Peicai</b><br>
+<table>
+<tbody>
+<tr>
+<th><img style="width: 100%;" src="/images/work attachment opportunities-peicai 01.JPG"><br>	
+</th><td><img style="width: 100%;" src="/images/work attachment opportunities-peicai 02.JPG"><br>
+</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr>
+<th><img style="width: 100%;" src="/images/work attachment opportunities-peicai 03.JPG"><br>	
+</th><td><img style="width: 100%;" src="/images/work attachment opportunities-peicai 04.JPG"><br>
+</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr>
+<th><img style="width: 100%;" src="/images/work attachment opportunities-peicai 05.JPG"><br>	
+</th><td><img style="width: 100%;" src="/images/work attachment opportunities-peicai 06.JPG"><br>
+</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr>
+<th><img style="width: 100%;" src="/images/work attachment opportunities-peicai 07.JPG"><br>	
+</th><td><img style="width: 100%;" src="/images/work attachment opportunities-peicai 08.JPG"><br>
+</td></tr>
+</tbody>
+</table><hr>
+
+<p align="center"><b>SGC Collection for 2022 Sec 4NA</b><br>
+<a href="/files/4b1 sgc collection.pdf" target="_blank" rel="noopener">4B1 SGC Collection</a><br>
+<a href="/files/4b2 sgc collection.pdf" target="_blank" rel="noopener">4B2 SGC Collection</a><br>
+<a href="/files/4b3 sgc collection.pdf" target="_blank" rel="noopener">4B3 SGC Collection</a><br>
+<a href="/files/authorisation letter.pdf" target="_blank" rel="noopener">Authorisation letter</a><br>
+To Book Alternative Slot, click here:	<br><a href="https://docs.google.com/forms/d/e/1FAIpQLSf30HhoPsCMq1RTcsKuMk5O2zyfjjJqO9xLUY08kEkrg_JXvQ/viewform" target="_blank" rel="noopener">2022 SGC Collection (Sec 4/5 Cohort) </a>
+</p><hr>
+
+
+<p align="center"><b>Distinguished Chinese Language Teachers Awards 2023</b>
+
+<style>
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
+img:hover {
+  box-shadow: 0 0 2px 1px rgba(43, 36, 36, 1);
+}
+</style>
+<table>
+<tbody>
+<tr>
+<th><a rel="noreferrer noopener" target="_blank" href="/images/distinguished cl teachers awards poster 2023.jpg"><img src="/images/distinguished cl teachers awards poster 2023.jpg" style="width:50%;"></a><br></th>
+</tr></tbody>
+</table>
+</p><hr>
+
+<p align="center"><b>3v3 mBot Football Challenge</b></p>
+
+<style>
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
+img:hover {
+  box-shadow: 0 0 2px 1px rgba(43, 36, 36, 1);
+}
+</style>
+<table>
+<tbody>
+<tr>
+<th><a rel="noreferrer noopener" target="_blank" href="/images/3v3 mbot football challenge.png"><img src="/images/3v3 mbot football challenge.png" style="width:80%;"></a><br></th>
+<td><a rel="noreferrer noopener" target="_blank" href="/images/mbot 3v3 poster1.jpg"><img src="/images/mbot 3v3 poster1.jpg" style="width: 80%;"></a><br></td>
+</tr></tbody>
+</table></ul>
