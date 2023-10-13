@@ -1,10 +1,7 @@
 ---
-title: "2023"
-permalink: /media/announcements/permalink/
-date: 2023-09-08
-layout: post
+title: Announcements Backup page
+permalink: /unused-pages/permalink/
 description: ""
-image: ""
 ---
 <p></p><p><b>2024 President Award for Teachers (PAT) &amp; 2024 Outstanding Youth in Education Award (OYEA) </b></p>
 <table>
@@ -132,9 +129,28 @@ To Book Alternative Slot, click here:	<br><a href="https://docs.google.com/forms
 </p><hr>
 
 
-<p align="center"><b>   </b>
+<p align="center"><b>Distinguished Chinese Language Teachers Awards 2023</b>
 
-</p><p align="center"><b>3v3 mBot Football Challenge</b></p>
+<style>
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
+img:hover {
+  box-shadow: 0 0 2px 1px rgba(43, 36, 36, 1);
+}
+</style>
+<table>
+<tbody>
+<tr>
+<th><a rel="noreferrer noopener" target="_blank" href="/images/distinguished cl teachers awards poster 2023.jpg"><img src="/images/distinguished cl teachers awards poster 2023.jpg" style="width:50%;"></a><br></th>
+</tr></tbody>
+</table>
+</p><hr>
+
+<p align="center"><b>3v3 mBot Football Challenge</b></p>
 
 <style>
 img {
