@@ -7,7 +7,7 @@ description: ""
 <ol>
 <li><p align="justify">The MOE Financial Assistance Scheme (FAS) is open fo application for Year 2024.
 </p><p>Eligibility Criteria and Benefits</p>
-</li><li><p align="justify">Please refer to this <a href="/files/MOE%20FAS%20pamphlet%20EL%20for%20schools.pdf" target="">Pamphlet</a> for the eligibility criteria and MOE FAS benefits.
+</li><li><p align="justify">Please refer to this <a href="/files/moe fas 2024 pamphlet on income criterion and benefits.pdf" target="">Pamphlet</a> for the eligibility criteria and MOE FAS benefits.
 </p><p>Application Procedures</p>
 </li><li><p align="justify">Parents can choose to apply for MOE FAS either through (i) Hardcopy Form or (ii) e-FAS.
 </p><ol style="list-style-type: lower-roman;">
