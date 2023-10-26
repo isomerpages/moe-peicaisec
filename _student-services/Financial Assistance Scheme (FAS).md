@@ -3,7 +3,7 @@ title: Financial Assistance Scheme (FAS)
 permalink: /student-services/financial-support/financial-assistance-scheme-fas/
 description: ""
 ---
-<p><span style="text-decoration: underline;"><strong>MOE FINANCIAL ASSISTANCE SCHEME (MOE FAS) 2023</strong></span></p>
+<p><span style="text-decoration: underline;"><strong>MOE FINANCIAL ASSISTANCE SCHEME (MOE FAS) 2024</strong></span></p>
 <ol>
 <li><p align="justify">The MOE Financial Assistance Scheme (FAS) is open fo application for Year 2024.
 </p><p>Eligibility Criteria and Benefits</p>
