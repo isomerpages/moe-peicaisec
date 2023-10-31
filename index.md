@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Banner 3.jpg
+      background: /images/open house 2023 peicai a.jpg
   - resources:
       title: Announcements
       subtitle: PEICAI SECONDARY SCHOOL
