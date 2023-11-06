@@ -7,7 +7,7 @@ variant: markdown
 <table>
 <tbody>
 <tr>
-<th><img style="width: 100%;" src="/images/press release 2 josephus tan.jpg">
+<th><img style="width: 100%;" src="/images/press release 3 josephus tan.jpg">
 </th>
 </tr>
 </tbody>
