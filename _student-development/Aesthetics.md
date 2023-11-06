@@ -15,4 +15,20 @@ In Peicai, we aim to:
 <p align="justify">Aesthetics curriculum in Peicai provides students with the opportunities to explore various Art forms – visual, performative, and musical to communicate their thoughts and ideas. Students are exposed to a range of learning experiences. We strive to spark curiosity and creativity in students, developing and enhancing their artistic skills through our diverse Arts programmes. Students cultivate artistic discipline which strengthens their character and holistic development.</p>
 <img style="width: 70%;" src="/images/aesthesics.jpg">
 <p style="text-align: center;"><br>
-</p>
+	</p><p><span style="text-decoration: underline;"><strong></strong></span></p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="/images/aesthesics1.jpg">Showcasing Artistic Abilities during Peicai's Got Talent</td>
+<td style="width: 50%;"><img src="/images/aesthesics2.jpg">Learning Journey to the Singapore Biennale</td>
+</tr>
+<tr>
+<td style="width: 50%;"><img src="/images/aesthesics4.jpg">Broadening perspective on Visual Art through museum visit</td>
+<td style="width: 50%;"><img src="/images/aesthesics5.jpg">Students and teachers participating enthusiastically during RHD assembly dance programme</td>
+</tr>
+<tr>
+<td style="width: 50%;"><img src="/images/aesthesics6.jpg">  Dancers in Action during PassionArts Festival at Tampines Hub </td>
+<td style="width: 50%;"><img src="/images/aesthesics7.jpg">Students learning drum percussion during Post Exam activities</td>
+</tr>
+</tbody>
+</table>
