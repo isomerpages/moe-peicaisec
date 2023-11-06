@@ -2,19 +2,20 @@
 title: Science
 permalink: /academic/science/
 description: ""
+variant: markdown
 ---
 <h4><strong>Learning Outcomes</strong></h4>
 <ol>
 <p>In Peicai, the aims of Secondary Science are to:</p><li>
-<p><p align="justify">cultivate students&rsquo; appreciation of Science as a collective human endeavor to understand the natural world, and as a way of thinking rather than just a body of facts.</p>
-<li><p><p align="justify">inspire students to make informed decisions and take responsible actions in science-related issues that concern their lives, the society and the environment.</p>
-<li><p><p align="justify">help students to develop fundamentals that are integral to scientific inquiry and innovation, including problem-seeking and problem-solving.</p>
-<p>We support these endeavours through&hellip;</p>
-<p><p align="justify">The Peicai Science Department anchors its Teaching and Learning on the nation-wide Science Curriculum framework &lsquo;Science for Life and Society&rsquo;. Through this framework, we want our students to be scientifically literate, so that they can make informed decisions and take responsible actions in their daily lives. On top of that, we also want to enable students to thrive and achieve success at work in our innovation-driven future economy.</p>
-<img style="width: 35%;" src="/images/sci1.jpg" />
-<p><p align="justify">Across all the levels and streams, Peicai Science Teachers plan Science lessons revolving around practical and experimentation, as our sole belief is that students learn and understand scientific concepts better through the hands-on approach. Students work in groups in the Science laboratories, classrooms and even outdoor areas to solve real life problems. Teachers play the important role of facilitators in such activities, ensuring that students ask questions and engage in meaningful scientific dialogue.&nbsp;</p>
+<p></p><p align="justify">cultivate students’ appreciation of Science as a collective human endeavor to understand the natural world, and as a way of thinking rather than just a body of facts.</p>
+</li><li><p></p><p align="justify">inspire students to make informed decisions and take responsible actions in science-related issues that concern their lives, the society and the environment.</p>
+</li><li><p></p><p align="justify">help students to develop fundamentals that are integral to scientific inquiry and innovation, including problem-seeking and problem-solving.</p>
+<p>We support these endeavours through…</p>
+<p></p><p align="justify">The Peicai Science Department anchors its Teaching and Learning on the nation-wide Science Curriculum framework ‘Science for Life and Society’. Through this framework, we want our students to be scientifically literate, so that they can make informed decisions and take responsible actions in their daily lives. On top of that, we also want to enable students to thrive and achieve success at work in our innovation-driven future economy.</p>
+<img style="width: 35%;" src="/images/sci1.jpg">
+<p></p><p align="justify">Across all the levels and streams, Peicai Science Teachers plan Science lessons revolving around practical and experimentation, as our sole belief is that students learn and understand scientific concepts better through the hands-on approach. Students work in groups in the Science laboratories, classrooms and even outdoor areas to solve real life problems. Teachers play the important role of facilitators in such activities, ensuring that students ask questions and engage in meaningful scientific dialogue.&nbsp;</p>
 <h4><strong>Programmes</strong></h4>
-<p><p align="justify">Students are exposed to learning in a variety of online and physical group configurations. Collaboratively, they work on learning activities that promote a spirit of inquiry and innovation.</p>
+<p></p><p align="justify">Students are exposed to learning in a variety of online and physical group configurations. Collaboratively, they work on learning activities that promote a spirit of inquiry and innovation.</p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
@@ -23,7 +24,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p><p align="justify">(Sec 2: students sharing their investigation and findings from their pill coating project)</p>
+<p></p><p align="justify">(Sec 2: students sharing their investigation and findings from their pill coating project)</p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
@@ -32,9 +33,9 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p><p align="justify">(LSS NT: Balloon powered car activity to demonstrate forces, conservation of energy and measurement of physical quantities)</p>
+<p></p><p align="justify">(LSS NT: Balloon powered car activity to demonstrate forces, conservation of energy and measurement of physical quantities)</p>
 <p><u>Enrichment Programme</u></p>
-<p><p align="justify">Over the 4 to 5 years of Science education in Peicai, relevant science enrichment programmes are also planned for all Peicai students according to the level appropriate focus shown below:</p>
+<p></p><p align="justify">Over the 4 to 5 years of Science education in Peicai, relevant science enrichment programmes are also planned for all Peicai students according to the level appropriate focus shown below:</p>
 <table width="802">
 <tbody>
 <tr>
@@ -91,7 +92,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p><p align="justify">(DNA and Life Programme for our Lower Secondary Science Students)</p>
+<p></p><p align="justify">(DNA and Life Programme for our Lower Secondary Science Students)</p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
@@ -100,8 +101,8 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p><p align="justify">(Award recipients of the 42rd International C.B. Paul (ICBP) Science Quiz 2021)</p>
-<h4><strong>Subjects Offered</strong></h4>
+<p></p><p align="justify">(Award recipients of the 42rd International C.B. Paul (ICBP) Science Quiz 2021)</p>
+<h4><strong>Syllabus</strong></h4>
 <table width="623">
 <tbody>
 <tr>
@@ -135,4 +136,4 @@ description: ""
 </td>
 </tr>
 </tbody>
-</table>
+</table></li></ol>
