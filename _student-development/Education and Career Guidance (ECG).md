@@ -2,6 +2,7 @@
 title: Education and Career Guidance (ECG)
 permalink: /student-development/education-and-career-guidance-ecg/
 description: ""
+variant: markdown
 ---
 <h4><strong>Approach</strong></h4>
 <p>In Peicai, we aim to<br></p><p align="justify">1) enable students to <strong>explore</strong> viable education and career <strong>options</strong> through the provision of accurate and comprehensive <strong>information; </strong>(Knowledge)<br>2) nurture student's <strong>self-awareness, self-directedness </strong>and <strong>life skills </strong>for continual learning and training; (Skills)<br>3) inculcate an <strong>appreciation </strong>for the <strong>value of all occupations</strong> and how they contribute to the well-functioning of society; (Mindset)<br>4) equip students with <strong>skills and means to positively engage </strong>gtheir parents and other <strong>career influencers. </strong>(Engaging the community)</p>
@@ -17,8 +18,7 @@ description: ""
 <li dir="ltr" aria-level="1">Students will further clarify their career self-concept and hone their research and decision-making skills.</li>
 </ul>
 <p dir="ltr"><strong>Goal: To enable students to synthesise information gathered from relevant sources to make sound educational and career decisions.</strong></p>
-<h4><strong>Team</strong></h4>
-<p>ECG Counsellor: Ms Catherine Ng<br>ECG Coordinator: Ms Daphne Lim</p>
+
 <h4><strong>Programmes / Activities</strong></h4>
 <p><strong>1) Workshops conducted by ECG Counsellor to prepare students for Early Admissions Exercise (EAE)</strong></p>
 <img style="width: 50%;" src="/images/ecg3.jpg">
