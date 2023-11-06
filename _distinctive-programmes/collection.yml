@@ -2,6 +2,7 @@ collections:
   distinctive-programmes:
     output: true
     order:
+      - List of Partners.md
       - Applied Learning Programme(ALP).md
       - Learn for Life Programme(LLP).md
       - PinnaCle(Talent development).md
