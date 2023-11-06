@@ -20,7 +20,7 @@ In Peicai, we aim to:
 <tbody>
 <tr>
 <td style="width: 50%;"><img src="/images/aesthesics1.jpg">Showcasing Artistic Abilities during Peicai's Got Talent</td>
-<td style="width: 50%;"><img src="/images/aesthesics2.jpg">Learning Journey to the Singapore Biennale</td>
+<td style="width: 40%;"><img src="/images/aesthesics2.jpg">Learning Journey to the Singapore Biennale</td>
 </tr>
 <tr>
 <td style="width: 50%;"><img src="/images/aesthesics4.jpg">Broadening perspective on Visual Art through museum visit</td>
