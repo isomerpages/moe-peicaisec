@@ -31,6 +31,7 @@ In Peicai, we aim to:
 <td style="width: 50%;"><img src="/images/aesthesics7.jpg">Students learning drum percussion during Post Exam activities</td>
 </tr><tr>
 <td style="width: 50%;"><img src="/images/aesthesics8.jpg">Career Talk for our upper sec students by Mike Tan, Radio Presenter from Power 98FM</td>
+<td style="width: 50%;"><img src="/images/aesthesics3.jpg">Career Talk for our upper sec students by Mike Tan, Radio Presenter from Power 98FM</td>
 </tr>
 </tbody>
 </table>
