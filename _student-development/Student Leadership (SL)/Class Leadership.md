@@ -3,6 +3,7 @@ title: Class Leadership
 permalink: /student-development/student-leadership-sl/class-leadership/
 description: ""
 third_nav_title: Student Leadership (SL)
+variant: markdown
 ---
 <h4><strong>Class Leadership</strong></h4>
 <p><img src="/images/class committe.jpg" style="width: 100%;"></p>
