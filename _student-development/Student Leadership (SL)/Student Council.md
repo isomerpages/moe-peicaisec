@@ -3,6 +3,7 @@ title: Student Council
 permalink: /student-development/student-leadership-sl/student-council/
 description: ""
 third_nav_title: Student Leadership (SL)
+variant: markdown
 ---
 <h4><strong>Student Council</strong></h4>
 <table style="margin-left: auto; margin-right: auto;" width="75%">
@@ -90,55 +91,7 @@ third_nav_title: Student Leadership (SL)
 </td></tr>
 </tbody>
 </table>
-<h4><strong>2023 Student Council Executive Committee</strong></h4>
-<table style="margin-left: auto; margin-right: auto;" width="439">
-<tbody>
-<tr>
-<td width="219"><strong>Appointment</strong></td>
-<td width="219"><strong>Name of Student</strong></td>
-</tr>
-<tr>
-<td width="219">President</td>
-<td width="219">FARISHA SYAKIRA BINTI SHAHDALY</td>
-</tr>
-<tr>
-<td width="219">Vice-President</td>
-<td width="219">SHAZREEN RAI</td>
-</tr>
-<tr>
-<td width="219">Vice-President</td>
-<td width="219">TAY ZI QI DOROTHY</td>
-</tr>
-<tr>
-<td width="219">Head of Information</td>
-<td width="219">SHAREL CHEW</td>
-</tr>
-<tr>
-<td width="219">Head of Information</td>
-<td width="219">RADA TRISHIA JOANNE OLBE</td>
-</tr>
-<tr>
-<td width="219">Head of Logistics</td>
-<td width="219">ZENITH LIM (LIN WEI'EN)</td>
-</tr>
-<tr>
-<td width="219">Head of Logistics</td>
-<td width="219">TANG YU XUAN, EUNICE</td>
-</tr>
-<tr>
-<td width="219">Head of Media</td>
-<td width="219">TANEDO MARIEL YSABEL LLAGAS</td>
-</tr>
-<tr>
-<td width="219">Head of Media</td>
-<td width="219">CHOO JEWEL</td>
-</tr>
-<tr>
-<td width="219">Head of Council Level</td>
-<td width="219">MOE WENDY TINT</td>
-</tr>
-</tbody>
-</table>
+
 <h4><strong>Student Councillors in Action</strong></h4>
 <img style="width: 90%;" src="/images/sc1.jpg"><br>
 <img style="width: 90%;" src="/images/sc2.jpg"><br>
