@@ -2,6 +2,7 @@
 title: Mother Tongue Languages
 permalink: /academic/mother-tongue-languages/
 description: ""
+variant: markdown
 ---
 <h4><strong>Learning Outcomes</strong></h4>
 <p></p><p align="justify">The MTL curriculum aims to develop proficient language users who can communicate confidently and effectively in various real-life contexts; and to expose students to cultures and values through MTL lessons.</p>
@@ -118,7 +119,7 @@ description: ""
 </tbody>
 </table>
 <p></p><p align="justify">Sec 3 Journalism Programme (NewsMaker) Malay Language</p>
-<p>MTL Archive link</p>
+<p>MTL Archive link</p><h4><strong>Syllabus</strong></h4>
 <p><a href="https://express.adobe.com/page/yyrWK7WrsN4f2">https://express.adobe.com/page/yyrWK7WrsN4f2</a></p>
 <table style="border-collapse: collapse; width: 100%;" border="0">
 </table><table width="588">
