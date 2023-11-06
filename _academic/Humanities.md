@@ -2,17 +2,18 @@
 title: Humanities
 permalink: /academic/humanities/
 description: ""
+variant: markdown
 ---
 <p>In Peicai, we aim to develop students to become</p>
 <ol>
 <li><p align="justify">a confident person who has a strong sense of right and wrong, is adaptable and resilient, knows himself, is discerning in judgement, thinks independently and critically, and communicates effectively;
-<li><p align="justify">a self-directed learner who can work effectively in teams and takes responsibility for his own learning, who questions, reflects and perseveres in the pursuit of learning; and
-<li><p align="justify">a concerned citizen rooted in Singapore, has a strong civic consciousness, is informed, and takes an active role in bettering the lives of others around him.
+</p></li><li><p align="justify">a self-directed learner who can work effectively in teams and takes responsibility for his own learning, who questions, reflects and perseveres in the pursuit of learning; and
+</p></li><li><p align="justify">a concerned citizen rooted in Singapore, has a strong civic consciousness, is informed, and takes an active role in bettering the lives of others around him.
 
-<p>We support these endeavours through</p>
-<p><p align="justify">1) Inquiry Process as part of pedagogy for Social Studies, Geography and History. This approach empowers students in their own learning and stimulate an interest in the subject. It begins with sparking curiosity using stimulus materials to challenge students&rsquo; assumptions and allow them to pose their questions. Through the inquiry process, students will be challenged to examine their own thinking and become self- directed and reflective thinkers.&nbsp;</p>
-<p><p align="justify">2) Real-life scenario-based problems as part of our programme. The aim is for students to be confident and has a strong sense of right and wrong, who are adaptable and resilient, and discerning in judgement.&nbsp;s an established approach used across disciplines where students apply their knowledge to real-world scenarios, promoting higher levels of cognition. In CBL classrooms, students typically work in groups on case studies, or stories involving one or more characters and/or scenarios. The cases present a disciplinary problem or problems for which students devise solutions under the guidance of the instructor.</p>
-<p><p align="justify">3) Differentiated Instructions as part as our Lower Secondary Geography lessons.&nbsp;Differentiated instruction presupposes that students learn in different ways and at different paces. Teachers using this instructional model cultivate and facilitate diverse educational experiences designed to advance each student's learning, regardless of their learning style and background.</p>
+</p><p>We support these endeavours through</p>
+<p></p><p align="justify">1) Inquiry Process as part of pedagogy for Social Studies, Geography and History. This approach empowers students in their own learning and stimulate an interest in the subject. It begins with sparking curiosity using stimulus materials to challenge students’ assumptions and allow them to pose their questions. Through the inquiry process, students will be challenged to examine their own thinking and become self- directed and reflective thinkers.&nbsp;</p>
+<p></p><p align="justify">2) Real-life scenario-based problems as part of our programme. The aim is for students to be confident and has a strong sense of right and wrong, who are adaptable and resilient, and discerning in judgement.&nbsp;s an established approach used across disciplines where students apply their knowledge to real-world scenarios, promoting higher levels of cognition. In CBL classrooms, students typically work in groups on case studies, or stories involving one or more characters and/or scenarios. The cases present a disciplinary problem or problems for which students devise solutions under the guidance of the instructor.</p>
+<p></p><p align="justify">3) Differentiated Instructions as part as our Lower Secondary Geography lessons.&nbsp;Differentiated instruction presupposes that students learn in different ways and at different paces. Teachers using this instructional model cultivate and facilitate diverse educational experiences designed to advance each student's learning, regardless of their learning style and background.</p>
 <table>
 <tbody>
 <tr>
@@ -38,20 +39,20 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p><p align="justify">The Humanities Department believes that Peicaians should be experience to different activities in their everyday lessons. Here are some of the activities that were conducted.</p>
-<img style="width: 50%;" src="/images/human1.jpg" />
-<p style="text-align: center;"><p align="justify">Students conducting water testing conducted during Sec 1 Geographical Investigation</p>
-<img style="width: 50%;" src="/images/human2.jpg" />
-<p style="text-align: center;"><p align="justify">Students interviewing Serangoon resident for Geographical Investigation on Housing.</p>
-<img style="width: 70%;" src="/images/human3.jpg" />
-<p style="text-align: center;"><p align="justify">Students doing their Historical Investigation at the National Museum of Singapore.</p>
-<img style="width: 100%;" src="/images/human4.jpg" />
-<p style="text-align: center;"><p align="justify">Visiting the War Remnants Museum at Ho Chi Minh City during the Cultural Immersion Fieldtrip to Vietnam.</p>
-<h4><strong>Subjects Offered</strong></h4>
+<p></p><p align="justify">The Humanities Department believes that Peicaians should be experience to different activities in their everyday lessons. Here are some of the activities that were conducted.</p>
+<img style="width: 50%;" src="/images/human1.jpg">
+<p style="text-align: center;"></p><p align="justify">Students conducting water testing conducted during Sec 1 Geographical Investigation</p>
+<img style="width: 50%;" src="/images/human2.jpg">
+<p style="text-align: center;"></p><p align="justify">Students interviewing Serangoon resident for Geographical Investigation on Housing.</p>
+<img style="width: 70%;" src="/images/human3.jpg">
+<p style="text-align: center;"></p><p align="justify">Students doing their Historical Investigation at the National Museum of Singapore.</p>
+<img style="width: 100%;" src="/images/human4.jpg">
+<p style="text-align: center;"></p><p align="justify">Visiting the War Remnants Museum at Ho Chi Minh City during the Cultural Immersion Fieldtrip to Vietnam.</p>
+<h4><strong>Syllabus</strong></h4>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<table width="623">
+</tr></tbody></table><table width="623">
 <tbody>
 <tr>
 <td width="312">
@@ -92,4 +93,4 @@ description: ""
 </td>
 </tr>
 </tbody>
-</table>
+</table></li></ol>
