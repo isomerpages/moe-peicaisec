@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: Craft & Technology
 ---
-<h4><strong>Music</strong></h4>
+<h4><strong>MUSIC</strong></h4>
 <p></p><p align="justify">In Peicai Secondary School, we aim to develop in students the competencies that will enable them to:</p>
 <ol>
 <li><p align="justify">Express themselves through various genres to help them appreciate the music around them.
