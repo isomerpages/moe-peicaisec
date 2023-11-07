@@ -33,3 +33,4 @@ third_nav_title: Craft & Technology
 </tr>
 </tbody>
 </table></li></ol></li></ol>
+<h4><strong>Syllabus</strong></h4>
