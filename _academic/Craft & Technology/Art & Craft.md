@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Craft & Technology
 ---
 <p></p><p align="justify">The Craft &amp; Technology Department in Peicai comprises four academic disciplines: Art, Design &amp; Technology (D&amp;T), Music and the Nutrition &amp; Food Science (NFS) Unit. Three of the subjects, Art, Design &amp; Technology (D&amp;T) and Food &amp; Nutrition (F&amp;N), are offered to the upper secondary students. A component of these subjects are coursework based.&nbsp;</p>
-<h4><strong>Art</strong></h4>
+<h4><strong>ART</strong></h4>
 <p></p><p align="justify">In Peicai, we aim&nbsp;to develop our students’ artistic sensibilities that will enable them to.</p>
 <ol>
 <li><p align="justify">Make connections between visual expressions and personal experiences and view the world around them in new ways.&nbsp;
