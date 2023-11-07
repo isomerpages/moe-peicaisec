@@ -34,3 +34,12 @@ third_nav_title: Craft & Technology
 </tbody>
 </table></li></ol></li></ol>
 <h4><strong>Syllabus</strong></h4>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td width="141"><strong><u>Music</u></strong></td>
+</tr>
+<tr>
+<td width="141"><a href="https://www.moe.gov.sg/-/media/files/primary/2015musicteachingandlearningsyllabusprimaryandlowersecondary.ashx?la=en&amp;hash=41025D7E02879592E04790C645AF026FD33D64E9">Lower Secondary Music</a></td>
+<td width="141">&nbsp;</td>
+</tr></tbody></table>
