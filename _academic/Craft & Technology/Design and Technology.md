@@ -26,3 +26,20 @@ third_nav_title: Craft & Technology
 </tbody>
 </table></li></ul></li></ol>
 <h4><strong>Syllabus</strong></h4>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td width="170"><strong><u>Design and Technology</u></strong></td>
+</tr><tr>
+<td width="60"><strong>N Level</strong></td>
+<td width="141">
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2022syllabus/7055_y22_sy.pdf">7055 N(A)</a></p>
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2022syllabus/7062_y22_sy.pdf">7062 N(T)</a></p>
+</td></tr>
+<tr>
+<td width="60"><strong>O Level</strong></td>
+<td width="141"><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2022syllabus/7059_y22_sy.pdf"><p>7059</p></a></td>
+<td width="141">&nbsp;</td>
+</tr>
+</tbody>
+</table>
