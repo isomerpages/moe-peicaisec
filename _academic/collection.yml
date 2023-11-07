@@ -2,7 +2,6 @@ collections:
   academic:
     output: true
     order:
-      - Craft & Technology/.keep
       - Subjects offered.md
       - Assessment and Promotion Criteria.md
       - Full Subject Based Banding (FSBB).md
@@ -14,6 +13,7 @@ collections:
       - Blended Learning/For Parents.md
       - Blended Learning/Technical Support.md
       - Craft & Technology.md
+      - Craft & Technology/.keep
       - English Language & Literature.md
       - Humanities.md
       - Mathematics.md
