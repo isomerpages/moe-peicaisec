@@ -44,3 +44,22 @@ third_nav_title: Craft & Technology
 </table>
 </li></ol></li></ol>
 <h4><strong>Syllabus</strong></h4>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td width="141"><strong><u>Art</u></strong></td>
+<td width="141"><a>
+</a></td></tr><tr>
+<td width="60"><strong>N Level</strong></td>
+<td width="141">
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2022syllabus/6128_y22_sy.pdf">6128 N(T) Level</a></p>
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2022syllabus/6128_y22_sy.pdf">Art</a><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2021syllabus/6125_y21_sy.pdf">6125 N(A) Level Art</a></p>
+</td>
+</tr>
+<tr>
+<td width="60"><strong>O Level</strong></td>
+<td width="141"><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2022syllabus/6123_y22_sy.pdf"><p>6123 O Level Art</p></a></td>
+<td width="141">&nbsp;</td>
+</tr>
+</tbody>
+</table>
