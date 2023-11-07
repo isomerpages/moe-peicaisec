@@ -61,22 +61,4 @@ third_nav_title: Craft & Technology
 <td style="width: 33.3333%;">&nbsp;Tuna and chickpea burger</td>
 </tr>
 </tbody>
-</table>
-<h4><strong>Syllabus</strong></h4></li></ol>
-<strong><u>Nutrition and Food Science</u></strong><table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-
-</tr>
-<tr>
-<td width="50"><strong>N Level</strong></td>
-<td width="220">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2022syllabus/6079_y22_sy.pdf">6079 Food Studies</a></p>
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2022syllabus/6073_y22_sy.pdf">6073 Nutrition and Food Science</a></p>
-</td>
-</tr><tr>
-<td width="60"><strong>O Level</strong></td>
-<td width="160"><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2022syllabus/6097_y22_sy.pdf"><p>6097 Nutrition and Food Science</p></a></td>
-</tr>
-</tbody>
-</table>
+</table></li></ol>
