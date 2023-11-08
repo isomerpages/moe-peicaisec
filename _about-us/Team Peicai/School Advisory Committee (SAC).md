@@ -24,7 +24,7 @@ variant: markdown
 </tr>
 <tr>
 <td>Members</td>
-<td>Ms Evangeline Tan-Yeow<br>Ms Amy Teo<br>Mr Yeo Boon Thiam, Steven&nbsp;<br>Mr Chia Dingli Stanley</td>
+<td>Ms Evangeline Tan-Yeow<br>Ms Amy Teo<br>Mr Yeo Boon Thiam, Steven&nbsp;<br>Mr Chia Dingli Stanley<br>Ms Teo</td>
 </tr>
 </tbody>
 </table>
