@@ -5,6 +5,14 @@ variant: markdown
 description: ""
 third_nav_title: Students
 ---
-<h4 style="text-align: center;"><strong><u>2023</u></strong></h4>
-<p><img src="/images/p list 01
-.JPG" style="width: 100%;"></p><hr>
+<h4 style="text-align: center;"><strong><u>IMPROVEMENT LIST</u></strong></h4>
+<table style="border-collapse: collapse; width: 100%;" border="2">
+<tbody>
+<tr>
+<td style="width: 50%; text-align: center;"><img style="width: 100%;" src="/images/improvement list 1.JPG"><strong></strong></td>
+</tr>
+<tr>
+<td style="width: 50%; text-align: center;"><img style="width: 100%;" src="/images/improvement list 2.JPG"><strong></strong></td>
+</tr>
+</tbody>
+</table>
