@@ -3,8 +3,9 @@ title: The Principal's List
 permalink: /achievements/students/the-principals-list/
 description: ""
 third_nav_title: Students
+variant: markdown
 ---
-<h4 style="text-align: center;"><strong><u>2023</u></strong></h4>
+<h4 style="text-align: center;"><strong><u>Principal's List 2023</u></strong></h4>
 <p><img src="/images/p list 01
 .JPG" style="width: 100%;"></p><hr>
 <p><img src="/images/p list 02
