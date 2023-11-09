@@ -14,7 +14,7 @@ description: ""
 <td style="width: 50%; text-align: center;"><img style="width: 100%;" src="/images/josephus 2.JPG"><strong></strong></td>
 </tr>
 <tr>
-<td style="width: 50%; text-align: center;"><img style="width: 100%;" src="/images/josephus 3.JPG"><strong></strong></td>
+<td style="width: 50%; text-align: center;"><img style="width: 100%;" src="/images/josephus 4.jpg"><strong></strong></td>
 </tr>
 </tbody>
 </table>
