@@ -2,9 +2,10 @@
 title: Subject Overviews A
 permalink: /unused-pages/subject-overviews-a/
 description: ""
+variant: markdown
 ---
-<h4><strong>Semester Two 2023</strong></h4>
-<p>Please click on each link to access the subject overview of each subject for Semester Two 2023.</p>
+<h4><strong>Semester Two 2024</strong></h4>
+<p>Please click on each link to access the subject overview of each subject for Semester Two 2024.</p>
 Do note that the subject overviews are tentative and subject to changes.<br>
 <p><b><u>Secondary One</u></b><br>
 <a rel="noopener" target="_blank" href="https://drive.google.com/drive/folders/1sE2e5iSq-YjM08NlzSU4PHPukjOXDGEa?usp=sharing">Express</a><br>

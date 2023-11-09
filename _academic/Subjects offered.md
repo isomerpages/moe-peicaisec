@@ -2,6 +2,7 @@
 title: Subjects offered
 permalink: /academic/subjects-offered/
 description: ""
+variant: markdown
 ---
 <p>Note:<br></p><p align="justify">• The subjects below are offered to the current student cohort. They may change for subsequent intakes.<br></p><p align="justify">• Students taking Tamil Language will have to attend lessons at the nearest Tamil Language Centre after school. See the&nbsp;<a href="https://www.moe.gov.sg/secondary/courses/express/electives?term=Language&amp;subterm=Tamil%20Language" target="_blank" rel="noopener noreferrer">list of designated centres</a></p>
 <table style="height: 398px; margin-left: auto; margin-right: auto;">
@@ -46,4 +47,4 @@ description: ""
 <p>&nbsp;Biology (Pure)<br>Chemistry&nbsp;(Pure)<br>Physics&nbsp;(Pure)<br>Science (Chemistry, Biology)<br>Science (Physics, Chemistry)</p>
 </td>
 </tr><tr style="height: 18px;">
-<td style="height: 18px; width: 203.359px; text-align: center;"><strong>&nbsp;Physical Education</strong></td></tr></tbody></table>
+<td style="height: 18px; width: 203.359px; text-align: center;"><strong></strong></td></tr></tbody></table>

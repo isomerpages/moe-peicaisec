@@ -1,7 +1,8 @@
 ---
 title: Assessment and Promotion Criteria
-permalink: /academic/assessment-and-promotion-criteria/
+permalink: /academic/assessment-and-promotion-criteria1/
 description: ""
+variant: tiptap
 ---
 <h4><strong>Assessment &amp; Subject Weighting</strong></h4>
 <p></p><p align="justify">Promotion to the next level is dependent on student's performance in both Weighted Assessment (WA) and End-of-Year 	Examinations (EYE).</p>

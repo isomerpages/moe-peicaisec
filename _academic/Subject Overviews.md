@@ -2,7 +2,9 @@
 title: Subject Overviews
 permalink: /academic/subject-overviews/
 description: ""
+variant: markdown
 ---
+<p>To be updated in January 2024</p>
 <h4><strong>Semester Two 2023</strong></h4>
 <p>Please click on each link to access the subject overview of each subject for Semester Two 2023.</p>
 <p>Do note that the subject overviews are tentative and subject to changes.</p>

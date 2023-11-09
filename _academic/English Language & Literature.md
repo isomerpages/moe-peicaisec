@@ -2,6 +2,7 @@
 title: English Language & Literature
 permalink: /academic/english-language-n-literature/
 description: ""
+variant: markdown
 ---
 <h4><strong>Learning Outcomes</strong></h4>
 <p dir="ltr">In Peicai Secondary School, we aim to develop in students the competencies that will enable them to be:</p>
@@ -47,11 +48,11 @@ description: ""
 </tr>
 </tbody>
 </table>
-	<p dir="ltr"><span style="text-decoration: underline;"><strong>English Week</strong></span><br />Students participate in various activities aimed at developing an appreciation for the language. Competitions are held where students demonstrate their understanding of the language through skits and performances. In 2021, students participated in a slew of activities, including the Secondary One students exercising their creative chops in creating a 55 word story.</p>
+	<p dir="ltr"><span style="text-decoration: underline;"><strong>English Week</strong></span><br>Students participate in various activities aimed at developing an appreciation for the language. Competitions are held where students demonstrate their understanding of the language through skits and performances. In 2021, students participated in a slew of activities, including the Secondary One students exercising their creative chops in creating a 55 word story.</p>
 <img src="/images/ell4.png">
-	<p dir="ltr"><strong><u>Drama Appreciation<br /></u></strong>Upper Secondary Literature students are given the opportunity to attend musicals and plays. Over the years, students have attended staging of Phantom of the Opera, The Curious Incident of the Dog in the Nighttime, The Sound of Music and many more.&nbsp;</p>
-<p dir="ltr"><strong><u>National Schools Literature Festival<br /></u></strong>Selected students represent the school in various competitions organised during the National Schools Literature Festival, including Set Text Debate and Book Parade.&nbsp;</p>
-<h4><strong>Subjects Offered</strong></h4>
+	<p dir="ltr"><strong><u>Drama Appreciation<br></u></strong>Upper Secondary Literature students are given the opportunity to attend musicals and plays. Over the years, students have attended staging of Phantom of the Opera, The Curious Incident of the Dog in the Nighttime, The Sound of Music and many more.&nbsp;</p>
+<p dir="ltr"><strong><u>National Schools Literature Festival<br></u></strong>Selected students represent the school in various competitions organised during the National Schools Literature Festival, including Set Text Debate and Book Parade.&nbsp;</p>
+<h4><strong>Syllabus</strong></h4>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
@@ -65,4 +66,4 @@ description: ""
 <td style="width: 33.3333%;">&nbsp;</td>
 </tr>
 </tbody>
-</table>
+</table></div>

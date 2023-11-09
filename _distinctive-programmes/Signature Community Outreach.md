@@ -2,6 +2,7 @@
 title: Signature Community Outreach
 permalink: /distinctive-edge/signature-community-outreach/
 description: ""
+variant: markdown
 ---
 <p>
 <table border="0" style="border-collapse: collapse; width: 100%;">
@@ -38,7 +39,7 @@ A big thank you to the sec 3s and please give yourself a great round of applause
 <td style="width: 100%;"><img src="/images/03 signature outreach.JPG"></td>
 </tr>
 <tr>
-<td style="width: 50%;"><p align="justify">The notes contained Wonderful memories of how bus uncles and aunties greeted us every morning with warm smiles!
+<td style="width: 50%;"><p align="justify">The notes contained Wonderful memories of how Bus Captains greeted us every morning with warm smiles!
 for eg, In times of emergencies, when one student  did not have sufficient balance in his ex link card, the bus cap allowed him to continue his journey to school! The notes were presented as a booklet to SBS transit.
 </p></td>
 </tr>

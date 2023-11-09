@@ -2,6 +2,7 @@
 title: Character & Citizenship Education
 permalink: /student-development/character-n-citizenship-education/
 description: ""
+variant: markdown
 ---
 <h4><strong>Approach</strong></h4>
 <p>In Peicai, we aim to develop in our students</p>
@@ -14,52 +15,4 @@ description: ""
 <p></p><p align="justify">Character &amp; Citizenship Education (CCE) forms an integral part of every student’s school experience. At the heart of CCE is the teaching of core values and social-emotional competencies with a focus on developing a sense of purpose in our students as they prepare to take on the challenges of a fast-evolving world beyond the school.</p>
 <img style="width: 65%;" src="/images/cce.png"><br>
 	<img style="width: 100%;" src="/images/character citizenship education img.jpg">
-<h4><strong>Team</strong></h4>
-<table>
-<tbody>
-<tr>
-<th style="text-align: center;">Name</th>
-<th style="text-align: center;">Designation / Roles</th>
-</tr>
-<tr>
-<td style="text-align: center;">Ms Alvina Loganathan</td>
-<td style="text-align: center;">Subject Head (CCE) </td>
-</tr>
-<tr>
-<td style="text-align: center;">Ms Daphne Lim</td>
-<td style="text-align: center;">Year Head (Upper Secondary) </td>
-</tr>
-<tr>
-<td style="text-align: center;">Ms Kavitha Vythilingam</td>
-<td style="text-align: center;">Subject Head (Aesthetics) </td>
-</tr>
-<tr>
-<td style="text-align: center;">Ms Lee Ching Yi</td>
-<td style="text-align: center;">Specialised CCE Teacher &amp; ECG Team&nbsp;</td>
-</tr>
-<tr>
-<td style="text-align: center;">Ms Mok Wei Chi</td>
-<td style="text-align: center;">Specialised CCE Teacher, Environment &amp; Cyber Wellness Team </td>
-</tr>
-<tr>
-<td style="text-align: center;">Ms Nyr Syirain Binte Hamzah </td>
-<td style="text-align: center;">Specialised CCE Teacher &amp; NE Team </td>
-</tr>
-<tr>
-<td style="text-align: center;">Ms Nurazilah Mohamed Shukor </td>
-<td style="text-align: center;">Specialised CCE Teacher </td>
-</tr>
-<tr>
-<td style="text-align: center;">Mr Vincent Siew Wei Jian</td>
-<td style="text-align: center;">Aesthetics and NE Team</td>
-</tr>
-<tr>
-<td style="text-align: center;">Ms Melissa Koh Shihui</td>
-<td style="text-align: center;">Sexuality Education &amp; LLP Coordinator</td>
-</tr>
-<tr>
-<td style="text-align: center;">Ms Leng Su Yee</td>
-<td style="text-align: center;">Environment &amp; Cyber Wellness Team</td>
-</tr>
-</tbody>
-</table></li></ol>
+</li></ol>

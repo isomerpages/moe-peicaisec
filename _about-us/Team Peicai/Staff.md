@@ -1,8 +1,9 @@
 ---
-title: Team Peicai
-permalink: /about-us/our-peicai-family/team-peicai/
+title: Staff
+permalink: /about-us/our-peicai-family/staff/
 description: ""
 third_nav_title: Team Peicai
+variant: tiptap
 ---
 <p></p><h4><strong>Team Peicai</strong></h4><p></p>
 <p><img src="/images/01school leaders

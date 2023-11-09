@@ -2,6 +2,7 @@
 title: Learn for Life Programme(LLP)
 permalink: /distinctive-edge/llp-learning-for-life-programme/
 description: ""
+variant: markdown
 ---
 <p>In Peicai, we aim to develop in our students</p>
 <ul>
@@ -18,5 +19,3 @@ description: ""
 <p></p><p align="justify">For the Secondary Three students, they are also involved in the Pass-It-On project in which they have to be advocates for the cause that they have selected. Upon completion of their VIA projects, they will visit primary schools and create awareness of their selected cause in the primary school students.</p>
 <img style="width: 65%;" src="/images/llp13.jpg">
 <p></p><p align="justify">After the completion of the LLP journey, every Peicaian is envisioned to become persons for others.&nbsp;</p>
-<h4><strong>The Team</strong></h4>
-<p>Ms Celine Peh (Advisor)<br>Mdm Ngern Yen Lee (Sec 3 Coordinator)<br>Ms Ang Yue Hua (LLP Coordinator &amp; Sec 2 Coordinator)<br>Ms Tsoi Wai Yee (Sec 1 Coordinator)</p>

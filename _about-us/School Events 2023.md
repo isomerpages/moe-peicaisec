@@ -2,7 +2,28 @@
 title: School Events 2023
 permalink: /schoolevents/schoolevents2023/
 description: ""
+variant: markdown
 ---
+<img style="width: %;" src="/images/school events 6.JPG"><br>
+<hr>
+<img style="width: %;" src="/images/school events 3.JPG"><br>
+<hr>
+<img style="width: %;" src="/images/school events 4.JPG"><br>
+<hr>
+<img style="width: %;" src="/images/school events 10.JPG"><br>
+<hr>
+<img style="width: %;" src="/images/school events 9.JPG"><br>
+<hr>
+<img style="width: %;" src="/images/school events 7.JPG"><br>
+<hr>
+<img style="width: %;" src="/images/school events 1.JPG"><br>
+<hr>
+<img style="width: %;" src="/images/school events 5.JPG"><br>
+<hr>
+<img style="width: %;" src="/images/school events 2.JPG"><br>
+<hr>
+<img style="width: %;" src="/images/school events 8.JPG"><br>
+<hr>
 <b>Work Attachment Opportunities@Peicai</b><br>
 <table>
 <tbody>
@@ -124,21 +145,10 @@ description: ""
 </td></tr>
 </tbody>
 </table>
-
-<table>
-<tbody>
-<tr>
-<th><img src="/images/pcss 2023 overseas student exchange and local work attachment programme 2023 09.JPG" style="width: 100%;"><br>	
-</th><td><img src="/images/pcss 2023 overseas student exchange and local work attachment programme 2023 10.JPG" style="width: 100%;"><br>
-</td></tr>
-</tbody>
-</table>
 <hr>
-
 <b>Bus Captain Appreciation by Sec 3 Cohort</b><br><br>
 <img style="width: %;" src="/images/Bus Captain Appreciation by Sec 3 Cohort.jpg"><br>
-<table>
-<tbody>
-<tr>
-</tr></tbody></table>
+<hr>
+<b>Secondary One Orientation</b><br><br>
+<img style="width: %;" src="/images/sec1 orientation.JPG"><br>
 <hr>

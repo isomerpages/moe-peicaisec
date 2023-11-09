@@ -2,13 +2,14 @@
 title: Alumni
 permalink: /achievements/alumni/
 description: ""
+variant: markdown
 ---
 <h4><strong>Recent Alumni Achievements</strong></h4>
 <p></p><p><b>            </b></p>
 <table>
 <tbody>
 <tr>
-<th><img src="/images/achieved his goals1.jpg" style="width: 100%;"><br>	
+<th><img src="/images/achieved his goals2.jpg" style="width: 100%;"><br>	
 </th>
 </tr>
 </tbody>
