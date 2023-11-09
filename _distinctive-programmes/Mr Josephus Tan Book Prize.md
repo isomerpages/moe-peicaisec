@@ -4,7 +4,7 @@ permalink: /distinctive-programmes/mr-josephus-tan-book-prize/
 variant: markdown
 description: ""
 ---
-<h4 style="text-align: center;"><strong><u>Improvement List</u></strong></h4>
+<h4 style="text-align: center;"><strong><u>Mr Josephus Tan Book Prize</u></strong></h4>
 <table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
