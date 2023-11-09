@@ -2,8 +2,22 @@
 title: Staff
 permalink: /achievements/staff/
 description: ""
+variant: markdown
 ---
 <h4 style="text-align: center;"><strong><u>2023</u></strong></h4>
+<table style="border-collapse: collapse; width: 100%;" border="0">
+<tbody>
+<tr>
+<td style="width: 50%; text-align: center;"><img style="width: 100%;" src="/images/teachers achievement 1.JPG"><strong></strong></td>
+</tr>
+<tr>
+<td style="width: 50%; text-align: center;"><img style="width: 100%;" src="/images/teachers achievement 2.JPG"><strong></strong></td>
+</tr>
+<tr>
+<td style="width: 50%; text-align: center;"><img style="width: 100%;" src="/images/teachers achievement 3.JPG"><strong></strong></td>
+</tr>
+</tbody>
+</table>
 <p><img src="/images/teachers promotion 01
 .JPG" style="width: 100%;"></p><hr>
 <p><img src="/images/teachers promotion 02
@@ -14,16 +28,6 @@ description: ""
 .JPG" style="width: 100%;"></p><hr>
 <p><img src="/images/teachers promotion 05
 .JPG" style="width: 100%;"></p><hr>
-
-
-
-
-
-
-
-
-
-
 
 <h4 style="text-align: center;"><strong><u>2022</u></strong></h4>
 <p style="text-align: center;"><strong><u>National Day Awards</u></strong></p>
