@@ -2,6 +2,7 @@
 title: School Events 2023
 permalink: /schoolevents/schoolevents2023/
 description: ""
+variant: markdown
 ---
 <b>Work Attachment Opportunities@Peicai</b><br>
 <table>
@@ -121,15 +122,6 @@ description: ""
 <tr>
 <th><img src="/images/pcss 2023 overseas student exchange and local work attachment programme 2023 07.JPG" style="width: 100%;"><br>	
 </th><td><img src="/images/pcss 2023 overseas student exchange and local work attachment programme 2023 08.JPG" style="width: 100%;"><br>
-</td></tr>
-</tbody>
-</table>
-
-<table>
-<tbody>
-<tr>
-<th><img src="/images/pcss 2023 overseas student exchange and local work attachment programme 2023 09.JPG" style="width: 100%;"><br>	
-</th><td><img src="/images/pcss 2023 overseas student exchange and local work attachment programme 2023 10.JPG" style="width: 100%;"><br>
 </td></tr>
 </tbody>
 </table>
