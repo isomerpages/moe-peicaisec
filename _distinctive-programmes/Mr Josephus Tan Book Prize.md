@@ -8,13 +8,13 @@ description: ""
 <table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
-<td style="width: 50%; text-align: center;"><img style="width: 100%;" src="/images/teachers achievement 1.JPG"><strong></strong></td>
+<td style="width: 50%; text-align: center;"><img style="width: 100%;" src="/images/Josephus 1.JPG"><strong></strong></td>
 </tr>
 <tr>
-<td style="width: 50%; text-align: center;"><img style="width: 100%;" src="/images/teachers achievement 2.JPG"><strong></strong></td>
+<td style="width: 50%; text-align: center;"><img style="width: 100%;" src="/images/Josephus 2.JPG"><strong></strong></td>
 </tr>
 <tr>
-<td style="width: 50%; text-align: center;"><img style="width: 100%;" src="/images/teachers achievement 3.JPG"><strong></strong></td>
+<td style="width: 50%; text-align: center;"><img style="width: 100%;" src="/images/Josephus 3.JPG"><strong></strong></td>
 </tr>
 </tbody>
 </table>
