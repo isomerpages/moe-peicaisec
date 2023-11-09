@@ -51,7 +51,7 @@ third_nav_title: Craft & Technology
 <td width="141"><a>
 </a></td></tr><tr>
 <td width="60"><strong>N Level</strong></td>
-<td width="141">
+<td width="180">
 <p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2022syllabus/6128_y22_sy.pdf">6128 N(T) Level</a></p>
 <p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2022syllabus/6128_y22_sy.pdf">Art</a><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2021syllabus/6125_y21_sy.pdf">6125 N(A) Level Art</a></p>
 </td>
