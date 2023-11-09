@@ -2,6 +2,7 @@
 title: Applied Learning Programme(ALP)
 permalink: /distinctive-edge/alp-applied-learning-programme/
 description: ""
+variant: markdown
 ---
 <h4><strong>Applied Learning Programme (ALP)</strong></h4>
 <p><strong>Applied Learning Programme (Seek. Make. Advocate)</strong></p>
@@ -18,7 +19,7 @@ description: ""
 <img style="width: 70%;" src="/images/alp3.png">
 <p></p><p align="justify">In the next tier of programme, students from select project groups will pitch their prototypes to the community, and partner with organizations to explore implementing their solutions to meet existing as well as future needs.</p>
 
-<h4><strong>Make a Difference in Design Education - Support Peicai's ALP Team!</strong></h4>
+<h4><strong>Emerged Champion for Design Education Summit 2023</strong></h4>
 <img src="/images/vote for peicai x sutd.jpeg" style="width: 100%;"><br>
 Click on link to vote:  <a rel="noopener" target="_blank" href="https://go.gov.sg/vote4peicaixsutd">
 https://go.gov.sg/vote4peicaixsutd </a>
