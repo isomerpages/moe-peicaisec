@@ -126,11 +126,6 @@ variant: markdown
 </tbody>
 </table>
 <hr>
-
 <b>Bus Captain Appreciation by Sec 3 Cohort</b><br><br>
 <img style="width: %;" src="/images/Bus Captain Appreciation by Sec 3 Cohort.jpg"><br>
-<table>
-<tbody>
-<tr>
-</tr></tbody></table>
 <hr>
