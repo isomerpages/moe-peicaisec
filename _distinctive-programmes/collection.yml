@@ -2,7 +2,6 @@ collections:
   distinctive-programmes:
     output: true
     order:
-      - Mr Josephus Tan Book Prize.md
       - Applied Learning Programme(ALP).md
       - Learn for Life Programme(LLP).md
       - PinnaCle(Talent development).md
@@ -11,3 +10,4 @@ collections:
       - Student Mentorship Programme.md
       - Signature Community Outreach.md
       - List of Partners.md
+      - Mr Josephus Tan Book Prize.md
