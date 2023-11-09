@@ -129,3 +129,6 @@ variant: markdown
 <b>Bus Captain Appreciation by Sec 3 Cohort</b><br><br>
 <img style="width: %;" src="/images/Bus Captain Appreciation by Sec 3 Cohort.jpg"><br>
 <hr>
+<b>Bus Captain Appreciation by Sec 3 Cohort</b><br><br>
+<img style="width: %;" src="/images/sec1 orientation.JPG"><br>
+<hr>
