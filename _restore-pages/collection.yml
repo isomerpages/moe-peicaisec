@@ -1,5 +1,4 @@
 collections:
   restore-pages:
     output: true
-    order:
-      - Assessment and Promotion Criteria.md
+    order: []
