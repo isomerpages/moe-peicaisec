@@ -9,4 +9,3 @@ variant: markdown
 .jpg" style="width: 100%;"></p><hr>
 <p><img src="/images/our partners 2
 .JPG" style="width: 100%;"></p><hr>
-
