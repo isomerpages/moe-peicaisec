@@ -12,17 +12,17 @@ variant: markdown
 <hr>
 <img style="width: %;" src="/images/school events 10.JPG"><br>
 <hr>
-<img style="width: %;" src="/images/school events 5.JPG"><br>
-<hr>
-<img style="width: %;" src="/images/school events 1.JPG"><br>
+<img style="width: %;" src="/images/school events 9.JPG"><br>
 <hr>
 <img style="width: %;" src="/images/school events 7.JPG"><br>
 <hr>
-<img style="width: %;" src="/images/school events 8.JPG"><br>
+<img style="width: %;" src="/images/school events 1.JPG"><br>
 <hr>
-<img style="width: %;" src="/images/school events 9.JPG"><br>
+<img style="width: %;" src="/images/school events 5.JPG"><br>
 <hr>
 <img style="width: %;" src="/images/school events 2.JPG"><br>
+<hr>
+<img style="width: %;" src="/images/school events 8.JPG"><br>
 <hr>
 <b>Work Attachment Opportunities@Peicai</b><br>
 <table>
