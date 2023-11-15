@@ -86,14 +86,14 @@ at the upper secondary level.</p>
 <tr>
 <td width="141"><strong>N Level</strong></td>
 <td width="400">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2022syllabus/6128_y22_sy.pdf">6128 GCE N(T) Level</a></p>
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2021syllabus/6125_y21_sy.pdf">6125 GCE N(A) Level </a></p>
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/6128_y24_sy.pdf">6128 GCE N(T) Level</a></p>
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/6125_y24_sy.pdf">6125 GCE N(A) Level </a></p>
 </td>
 </tr>
 <tr>
 <td width="141"><strong>O Level</strong></td>
 <td width="400">
-<a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2022syllabus/6123_y22_sy.pdf">6123 GCE O-Level</a></td>
+<a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/6123_y24_sy.pdf">6123 GCE O-Level</a></td>
 <td width="141">&nbsp;</td>
 </tr>
 </tbody>
