@@ -75,7 +75,7 @@ at the upper secondary level.
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td width="300"><strong><u>Design and Technology</u></strong></td>
+<td width="250"><strong><u>Design and Technology</u></strong></td>
 <td width="400"><a>
 </a></td></tr>
 <tr>
