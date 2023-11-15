@@ -58,7 +58,19 @@ at the upper secondary level.
 </tr>
 </tbody>
 </table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/dnt_department_programme_01.jpg"></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;"><p style="text-align: center;">Peicaians presenting at the Innovation, Design, Engineering and Exchange[IDEX] Exhibition.  </p></td>
 
+</tr>
+<tr>
+</tr>
+</tbody>
+</table>
 
 
 
