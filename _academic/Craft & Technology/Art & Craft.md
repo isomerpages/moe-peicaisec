@@ -51,7 +51,7 @@ at the upper secondary level.</p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 33.3333%;"><img style="width: 60%;" src="/images/visual_express_art_achieve_v7.jpg"></td>
+<td style="width: 33.3333%;"><img style="width: 40%;" src="/images/visual_express_art_achieve_v7.jpg"></td>
 </tr>
 <tr>
 <td style="width: 33.3333%;"><p style="text-align: center;">Moe Wendy Tint <br> Shortlisted finalist for SYF goesOnline! 2022 </p></td>
