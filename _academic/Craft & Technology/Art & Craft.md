@@ -65,40 +65,42 @@ at the upper secondary level.</p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/visual_express_art_v4.jpg"></td>
-<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/visual_express_art_v5.jpg"></td>
-<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/visual_express_art_v6.jpg"></td>
+<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/visual_express_art_v7.jpg"></td>
+<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/visual_express_art_v8.jpg"></td>
+<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/visual_express_art_v9.jpg"></td>
 </tr>
 <tr>
-<td style="width: 33.3333%;"><p style="text-align: center;">Fostering collaboration spirit through group projects in problem based solving  </p></td>
-<td style="width: 33.3333%;"><p style="text-align: center;">Honing communication and presentation skills during sharing of artworks</p></td>
-<td style="width: 33.3333%;"><p style="text-align: center;">Developing students craft by learning to use tools, learning artist conventions, and learning to create by hand</p></td>
+<td style="width: 33.3333%;"><p style="text-align: center;"></p></td>
+<td style="width: 33.3333%;"><p style="text-align: center;"></p></td>
+<td style="width: 33.3333%;"><p style="text-align: center;"></p></td>
+</tr>
+<tr>
+</tr>
+</tbody>
+</table>
+<h4><strong>Syllabus</strong></h4>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/visual_express_art_v7.jpg"></td>
+<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/visual_express_art_v8.jpg"></td>
+<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/visual_express_art_v9.jpg"></td>
 </tr>
 <tr>
 </tr>
 </tbody>
 </table>
 
-
-
-
-
-
-
-
-
-
-
-
 <h4><strong>Syllabus</strong></h4>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
 <td width="141"><strong><u>Art</u></strong></td>
-<td width="141"><a>
-</a></td></tr><tr>
-<td width="60"><strong>N Level</strong></td>
-<td width="180">
+<td width="400"><a>
+</a></td></tr>
+<tr>
+<td width="141"><strong>N Level</strong></td>
+<td width="400">
 <p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2022syllabus/6128_y22_sy.pdf">6128 N(T) Level</a></p>
 <p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2022syllabus/6128_y22_sy.pdf">Art</a><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2021syllabus/6125_y21_sy.pdf">6125 N(A) Level Art</a></p>
 </td>
