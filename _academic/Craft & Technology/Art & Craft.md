@@ -95,7 +95,8 @@ at the upper secondary level.</p>
 <td width="400">
 <a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2022syllabus/6123_y22_sy.pdf">6123 GCE O-Level</a>
 </td>
-<td width="200">&nbsp;</td>
+<td width="141">&nbsp;</td>
+<td width="141">&nbsp;</td>
 </tr>
 </tbody>
 </table>
