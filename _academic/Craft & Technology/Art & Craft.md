@@ -14,7 +14,7 @@ third_nav_title: Craft & Technology
 <tr>
 <td style="width: 33.3333%;"><img style="width: 100%;" src="/images/visual_express_art_v1.jpg"></td>
 <td style="width: 33.3333%;"><img style="width: 100%;" src="/images/visual_express_art_v2.jpg"></td>
-<td style="width: 33.3333%;"><img style="width: 85%;" src="/images/visual_express_art_v3.jpg"></td>
+<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/visual_express_art_v3.jpg"></td>
 </tr>
 <tr>
 <td style="width: 33.3333%;"><p style="text-align: center;">Make connections between visual expressions and personal experiences and view the world around them in new ways </p></td>
