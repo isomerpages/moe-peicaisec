@@ -26,7 +26,38 @@ third_nav_title: Craft & Technology
 </tr>
 </tbody>
 </table>
+<h4><strong>Department Programme/Highlights/ Student Outcomes</strong></h4>
+<p><b>Curricular Programme:</b></p>
+<p>D&amp;T is a compulsory common curriculum subject taken at the lower secondary level.
+Peicai students with an interest and aptitude for the subject will be able to take D&amp;T as an elective,
+at the upper secondary level.
+</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/dnt_department_programme_.jpg"></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;"><p style="text-align: center;">Students participate in collaborative discussions to cultivate creative thinking and innovation  </p></td>
 
+</tr>
+<tr>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/dnt_department_programme_01.jpg"></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;"><p style="text-align: center;">Students applying knowledge of design, electronics and mechanism to create artefacts such as key chain, lighted handphone stand and photo frame.  </p></td>
+
+</tr>
+<tr>
+</tr>
+</tbody>
+</table>
 
 
 
