@@ -34,9 +34,9 @@ at the upper secondary level.</p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/visual_express_art_v4.jpg"></td>
-<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/visual_express_art_v5.jpg"></td>
-<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/visual_express_art_v6.jpg"></td>
+<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/visual_express_4_art.jpg"></td>
+<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/visual_express_5_art.jpg"></td>
+<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/visual_express_6_art.jpg"></td>
 </tr>
 <tr>
 <td style="width: 33.3333%;"><p style="text-align: center;">Fostering collaboration spirit through group projects in problem based solving  </p></td>
