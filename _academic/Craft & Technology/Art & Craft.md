@@ -51,10 +51,28 @@ at the upper secondary level.</p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 33.3333%;"><img style="width: 80%;" src="/images/visual_express_art_achieve_v7.jpg"></td>
+<td style="width: 33.3333%;"><img style="width: 60%;" src="/images/visual_express_art_achieve_v7.jpg"></td>
 </tr>
 <tr>
 <td style="width: 33.3333%;"><p style="text-align: center;">Moe Wendy Tint <br> Shortlisted finalist for SYF goesOnline! 2022 </p></td>
+</tr>
+<tr>
+</tr>
+</tbody>
+</table>
+<h4><strong>Learning Journey</strong></h4>
+<p>Learning Journey to Biennale Art Exhibition @ Singapore Art Museum.</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/visual_express_art_v4.jpg"></td>
+<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/visual_express_art_v5.jpg"></td>
+<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/visual_express_art_v6.jpg"></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;"><p style="text-align: center;">Fostering collaboration spirit through group projects in problem based solving  </p></td>
+<td style="width: 33.3333%;"><p style="text-align: center;">Honing communication and presentation skills during sharing of artworks</p></td>
+<td style="width: 33.3333%;"><p style="text-align: center;">Developing students craft by learning to use tools, learning artist conventions, and learning to create by hand</p></td>
 </tr>
 <tr>
 </tr>
