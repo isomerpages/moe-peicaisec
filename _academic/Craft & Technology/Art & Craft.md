@@ -26,7 +26,27 @@ third_nav_title: Craft & Technology
 </tbody>
 </table>
 
-
+<h4><strong>Department Programme/Highlights/ Student Outcomes</strong></h4>
+<p><b>Curricular Programme:</b></p>
+<p>Art is a compulsory common curriculum subject taken at the lower secondary level.
+Peicai students with an interest and aptitude for the subject will be able to take Art as an elective,
+at the upper secondary level.</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/visual_express_art_v1.jpg"></td>
+<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/visual_express_art_v2.jpg"></td>
+<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/visual_express_art_v3.jpg"></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;"><p style="text-align: center;">Fostering collaboration spirit through group projects in problem based solving  </p></td>
+<td style="width: 33.3333%;"><p style="text-align: center;">Honing communication and presentation skills during sharing of artworks</p></td>
+<td style="width: 33.3333%;"><p style="text-align: center;">Developing students craft by learning to use tools, learning artist conventions, and learning to create by hand</p></td>
+</tr>
+<tr>
+</tr>
+</tbody>
+</table>
 
 <h4><strong>Syllabus</strong></h4>
 <table style="border-collapse: collapse; width: 100%;" border="1">
