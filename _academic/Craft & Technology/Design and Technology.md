@@ -86,8 +86,8 @@ at the upper secondary level.
 </td>
 </tr>
 <tr>
-<td width="60"><strong>O Level</strong></td>
-<td width="141">
+<td width="141"><strong>O Level</strong></td>
+<td width="400">
 <p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/7059_y24_sy.pdf">7059 GCE O-Level</a></p>
 </td>
 </tr>
