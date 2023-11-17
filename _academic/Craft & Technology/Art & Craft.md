@@ -91,13 +91,13 @@ at the upper secondary level.</p>
 </td>
 </tr>
 <tr>
-<td width="60"><strong>O Level</strong></td>
-<td width="141">
+<td width="141"><strong>O Level</strong></td>
+<td width="400">
 <p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/6123_y24_sy.pdf">6123 GCE O-Level</a></p>
 </td>
 </tr>
 <tr>
-<td width="141">&nbsp;</td>
+<td width="400">&nbsp;</td>
 </tr>
 </tbody>
 </table>
