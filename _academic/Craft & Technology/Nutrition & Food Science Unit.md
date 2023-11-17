@@ -14,7 +14,7 @@ third_nav_title: Craft & Technology
 <tr>
 <td style="width: 25%;"><img style="width: 100%;" src="/images/NFS_1v1.jpg"></td>
 <td style="width: 25%;"><img style="width: 100%;" src="/images/NFS_2v1.jpg"></td>
-<td style="width: 25%;"><img style="width: 100%;" src="/images/NFS_3v11.jpg"></td>
+<td style="width: 25%;"><img style="width: 100%;" src="/images/NFS_3v1.jpg"></td>
 </tr>
 <tr>
 <td style="width: 25%;"><p style="text-align: center;">Advocate sustainable food consumption by planning and making appropriate food choices</p></td>
