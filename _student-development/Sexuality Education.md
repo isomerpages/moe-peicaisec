@@ -1155,3 +1155,108 @@ are the key messages. The desired outcome of the eTeens programme is that studen
  <br><br>
 12.  Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable <a rel="noopener" target="_blank" href="/files/Annex B eTeens Parents Opt-out Form Sec 2022.pdf">here</a><br>The completed form is to be submitted by 27/01/2023. 
 13.  Parents can contact the school peicai_ss@moe.edu.sg or 62884159 for discussion or to seek clarification about the school’s Sexuality Education programme.<br><br>
+
+| 
+**Unit**
+
+ | 
+
+**Lesson Title / Duration**
+
+ | 
+
+**Lesson Overview**
+
+ | 
+
+**Lesson Objectives**
+
+At the end of the lesson, students will be able to:
+
+ | 
+
+**Time Period**
+
+**(e.g.Term 1 Week 2)**
+
+ |
+| --- | --- | --- | --- | --- |
+| 
+
+Respectful Relationships &amp; Safety
+
+ | 
+
+Steady or Not
+
+Lesson 1
+
+(60 mins)
+
+ | 
+
+This lesson helps students understand more about relationship building and the different types of love (e.g. familial, platonic, romantic). They will have the opportunity to better understand the considerations involved in making responsible decisions towards dating and romantic relationships and understand how to build healthy and supportive relationships, both online and offline.
+
+ | 
+
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles
+
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recognise that there are different forms of love (e.g. familial, platonic, romantic love)
+
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recognise the importance and understand what builds healthy and supportive relationships, both online and offline
+
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand what dating is, and recognise that the readiness and interest in dating vary among individuals
+
+ | 
+
+Term 3 Week 1
+
+ |
+| 
+
+Being Aware, Being Safe
+
+Lesson 2
+
+(60 mins)
+
+ | 
+
+This lesson focuses on helping students to be safe from the dangers of sexual grooming and on respecting one’s right to safety. Students will also learn about the legal provisions against sexual abuse, and the impact of sexual abuse on victims, including the psychological impact on the sense of self.&nbsp;
+
+This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.
+
+ | 
+
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person’s self-concept
+
+ | 
+
+Term 3 Week 3
+
+ |
+| 
+
+More than Meets the Eye
+
+Lesson 3
+
+(60 mins)
+
+ | 
+
+This lesson touches on two areas relevant to an adolescent’s curiosity on matters related to sexuality – masturbation and pornography. Students will gain awareness of the health, legal and moral issues related to viewing, downloading and/or distributing pornography. While students may perceive watching pornography as a private issue without consequences to bear, they will learn that it could lead to addiction and/or other risky sexual behaviours.
+
+This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.
+
+ | 
+
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences
+
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.)
+
+ | 
+
+Term 3 Week 5
+
+ |
