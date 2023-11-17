@@ -78,14 +78,14 @@ third_nav_title: Craft & Technology
 <tr>
 <td width="141"><strong>N Level</strong></td>
 <td width="400">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/7062_y24_sy.pdf">7062 GCE N(T) Level</a></p>
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/7055_y24_sy.pdf">7055 GCE N(A) Level </a></p>
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/5979_y24_sy.pdf">5979 GCE N(T) Level</a></p>
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/6073_y24_sy.pdf">6073 GCE N(A) Level </a></p>
 </td>
 </tr>
 <tr>
 <td width="141"><strong>O Level</strong></td>
 <td width="400">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/7059_y24_sy.pdf">7059 GCE O-Level</a></p>
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2023syllabus/6097_y23_sy.pdf">6097 GCE O-Level</a></p>
 </td>
 </tr>
 <tr>
