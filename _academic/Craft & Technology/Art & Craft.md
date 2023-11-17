@@ -97,7 +97,7 @@ at the upper secondary level.</p>
 </td>
 </tr>
 <tr>
-<td width="300">&nbsp;</td>
+<td width="270">&nbsp;</td>
 </tr>
 </tbody>
 </table>
