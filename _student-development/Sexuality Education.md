@@ -1155,4 +1155,3 @@ are the key messages. The desired outcome of the eTeens programme is that studen
  <br><br>
 12.  Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable <a rel="noopener" target="_blank" href="/files/Annex B eTeens Parents Opt-out Form Sec 2022.pdf">here</a><br>The completed form is to be submitted by 27/01/2023. 
 13.  Parents can contact the school peicai_ss@moe.edu.sg or 62884159 for discussion or to seek clarification about the school’s Sexuality Education programme.<br><br>
-
