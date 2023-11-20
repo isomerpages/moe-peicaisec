@@ -37,6 +37,14 @@ and an understanding of the possible consequences of sexual behaviour.<br> 7. Th
 character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.<br>
 <b>At Peicai Secondary School, the following Sexuality Education lessons will be taught in 2023:</b><br>
 2023 Sexuality Education Lessons in CCE 2021<br>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 100%;"><img src="/images/SE_Sec_1v_page.jpg">1. Developing Cross-cultural Literacy through Ethnic Interactive Performances .<br></td>
+</tr>
+</tbody>
+</table>
+
 
 
 <table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" align="left" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
