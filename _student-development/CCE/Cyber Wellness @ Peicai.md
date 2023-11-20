@@ -19,8 +19,19 @@ In Peicai, we aim to:
 	<b>Topics covered : </b>
 	<p><b>Cyber Use</b> maintain a healthy balance of their online and offline activities (i.e. excessive use of technology)<br>
 		<b>Cyber Identity</b> develop a healthy online identity express oneself online appropriately to be authentic and achieve congruence between online and offline identity<br>
+	<b>Cyber Relationships</b> develop safe, respectful, and meaningful online relationships (e.g. address cyber bullying, build positive relationships)<br>
 <b>Cyber Citizenship</b> understand the cyber world and make informed choices about participation in online activities (e.g. accessing online content with malicious intent/inappropriate websites with content that is violent, sexual or harmful in nature) recognise and protect oneself and others from online risks associated with people who may have malicious intent (e.g. hackers, scammers, online predators) have a positive presence in the cyber community and be a positive influence<br>
 	<b>Cyber Ethics </b> create and share online content in a responsible manner (e.g. not sharing content from questionable sources and not propagating deliberate online falsehoods) respect copyright.<br>
+</p><p><b>Esports: Campus Legend Secondary School Season 5 (Mobile Legends: Bang Bang)</b></p>
+Our students had participated in the Campus Legend Secondary School Season 5 (Mobile Legends: Bang Bang), organized by the Singapore Cybersports and Online Gaming Association (SCOGA). Campus Legend is an initiative that engages, educates and empowers youth to excel through esports. Students competed with other like-minded youth from participating schools in the battle of Mobile Legends. This platform allowed students to develop technical competencies that help them build viable careers in esports, not just as professional gamers, but also in various professional roles in the esports and gaming industry.
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="/images/esports.jpg"></td>
+</tr>
+</tbody>
+</table>
+Students Eagerly Participating in an Esports Competition
 
 
 
@@ -32,9 +43,7 @@ In Peicai, we aim to:
 
 
 
-
-
-</p><p></p><p align="justify">The aim of the Cyber Wellness programme is to develop Peicaians into discerning and responsible ICT users who are able to protect themselves and be responsible for their well-being in cyberspace.</p>
+<p></p><p align="justify">The aim of the Cyber Wellness programme is to develop Peicaians into discerning and responsible ICT users who are able to protect themselves and be responsible for their well-being in cyberspace.</p>
 <p></p><p align="justify">The school adopts MOE’s Cyber Wellness Framework in educating our students on Cyber Wellness. This framework focuses on three key processes: <em>Sense, Think</em>&nbsp;and&nbsp;<em>Act</em>.</p>
 <img src="/images/CyberWellness.png">
 <h4><strong>MOE's Cyber Wellness Framework</strong></h4>
