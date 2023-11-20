@@ -19,5 +19,5 @@ third_nav_title: CCE
 	<p><b>The CCE 2021 Curriculum Frame spells out the three key elements of CCE</b></p>
 	<img style="width: 100%;" src="/images/curriculum_frame.jpg">
 	<p></p><h4>DEVELOPING STRENGTH OF CHARACTER</h4><p></p>
-	<img style="width: 100%;" src="/images/character citizenship education img.jpg">
+	<img style="width: 100%;" src="/images/strength_of_character.jpg">
 </li></ol>
