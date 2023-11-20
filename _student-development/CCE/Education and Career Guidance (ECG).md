@@ -22,8 +22,9 @@ third_nav_title: CCE
 <h4><strong>Key Programme</strong></h4>
 <p><strong>1)	Applied Learning Module@ ITE </strong></p>
 <img style="width: 100%;" src="/images/applied_learning_ecg.jpg">Providing Our Students with Applied Learning Opportunities – Learning That Involves Doing And Applying, Learning About The Real World, And Learning For Life.
-<p><strong>2) ECG Parent Engagement Session by Polytechnic, ITE and Junior College lecturers.</strong></p>
-<img style="width: 50%;" src="/images/ecg4.jpg">
+<p><strong>2) Polytechnic Open Houses</strong></p>
+<img style="width: 100%;" src="/images/Polytechnic_Open_Houses_3.jpg">
+1. Providing Our Students with More Insights On The Various Courses Available In Polytechnic<br>2.Getting A Glimpse of Polytechnic School Life 
 <p><strong>3) Secondary 3 Career Day - Speakers from different industries engage our students virtually</strong></p>
 <img style="width: 50%;" src="/images/ecg5.jpg">
 <p><strong>4) Polytechnic/ITE and JC Open Houses</strong></p>
