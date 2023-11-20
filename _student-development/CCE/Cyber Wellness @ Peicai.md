@@ -11,8 +11,8 @@ In Peicai, we aim to:
 <p></p><p align="justify">1)	Enable our students to be discerning and responsible ICT users who are able to protect themselves and be responsible for their well-being in cyberspace.</p>
 <p><b>Curriculum</b></p>
 <p>The school adopts MOE’s Cyber Wellness Framework in educating our students on Cyber Wellness. This framework focuses on three key processes: Sense, Think and Act.</p><br>
-	<p><img src="/images/CyberWellness.png"><br>
-	In order for the students to ‘sense’ and ‘think’, students are provided opportunities to analyze, evaluate and reflect on Cyber Wellness issues. Platforms are also provided to allow students to translate their understanding into actions that will keep them safe while online. These platforms aim to let students take on the role as advocates to share the messages of Cyber Wellness with their peers, family and public.</p>
+<img src="/images/CyberWellness.png"><br>
+In order for the students to ‘sense’ and ‘think’, students are provided opportunities to analyze, evaluate and reflect on Cyber Wellness issues. Platforms are also provided to allow students to translate their understanding into actions that will keep them safe while online. These platforms aim to let students take on the role as advocates to share the messages of Cyber Wellness with their peers, family and public.
 <b><h4>Key Programmes:</h4></b>
 	<b>Curriculum</b>
 	<p>Cyber Wellness in CCE involves an understanding of the norms of responsible behaviour regarding technology use as well as knowledge, skills, values, and attitudes on how to protect oneself and other users in the cyber world.</p>
