@@ -19,8 +19,8 @@ variant: markdown
 <td>Dr Edmond Tan</td>
 </tr>
 <tr>
-<td>Honorary Treasurer&nbsp;</td>
-<td>Mr Ramesh S/O Sreedharan Nair</td>
+<td>Honorary Secretary&nbsp;</td>
+<td>Mr Michael Muhunthan</td>
 </tr>
 <tr>
 <td>Members</td>
