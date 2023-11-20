@@ -21,10 +21,12 @@ variant: markdown
 <li>Uniformed Groups</li>
 <li>Visual and Performing Arts</li>
 </ul>
-<p><a rel="noopener" target="_blank" href="https://www.moe.gov.sg/education-in-sg/our-programmes/cca/overview">Source</a>
+<p><a rel="noopener" target="_blank" href="https://www.moe.gov.sg/education-in-sg/our-programmes/cca/overview">Source : www.moe.gov.sg/education-in-sg/our-programmes/cca/overview</a>
+</p><h4>LEAPS 2.0 for Secondary School</h4>
+<p></p><p align="justify">To provide students with a holistic and well-rounded experience in the co-curriculum, we have introduced the LEAPS 2.0 framework in secondary schools since 2014. LEAPS 2.0 is designed to encourage students’ holistic development in life skills, competencies and values.</p>
 
 
 
 
-</p><h4><strong>CCA Weekly Schedule 2023</strong></h4>
+<h4><strong>CCA Weekly Schedule 2023</strong></h4>
 <img src="/images/CCA Schedule 2023.jpeg" style="width: 60%;">
