@@ -2,9 +2,11 @@
 title: Physical and Mental Health
 permalink: /student-development/physical-and-mental-health/
 description: ""
+variant: markdown
+third_nav_title: CCE
 ---
 <p><b>Physical and Mental Health</b></p>
-<p><b>Approach</b></p>
+<p><b>Objectives</b></p>
 In Peicai, we aim to develop in our students a holistic approach to supporting their well-being, covering physical health, social and emotional development and psychological support when necessary.<br>
 <p><b>Curriculum</b></p>
 <ul><li> 

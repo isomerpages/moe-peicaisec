@@ -18,19 +18,4 @@ variant: markdown
 <img style="width: 75%;" src="/images/alp2.jpg"><br>
 <img style="width: 70%;" src="/images/alp3.png">
 <p></p><p align="justify">In the next tier of programme, students from select project groups will pitch their prototypes to the community, and partner with organizations to explore implementing their solutions to meet existing as well as future needs.</p>
-
-<h4><strong>Emerged Champion for Design Education Summit 2023</strong></h4>
-<img src="/images/vote for peicai x sutd.jpeg" style="width: 100%;"><br>
-Click on link to vote:  <a rel="noopener" target="_blank" href="https://go.gov.sg/vote4peicaixsutd">
-https://go.gov.sg/vote4peicaixsutd </a>
-<p><b></b></p><p style="text-align: justify;"><b>Exciting News!</b> We are thrilled to share that Peicai’s Applied Learning Programme (ALP) Team has secured a spot among the top 4 DesignSingapore (DSg) projects vying for a chance to present at the Design Education Summit 2023. The Summit will be attended by the Minister for Education, Mr. Chan Chun Seng, along with an audience of MOE educators, policymakers, and representatives from IHLs. Parents and school leaders will also be in the audience.<br>
-</p><p>Our project now open for public voting and we would like to garner your votes for us.</p>
-<p><b></b></p><p style="text-align: justify;"><b> Project Synopsis.</b> With our unique, research-backed “Design as a force for change” program, the Design Innovation team at SUTD empowered the education community at Peicai Secondary School with Design mindsets and STEAM skills. The programme was conceptualised as a fun-filled voyage in which J-DIs (Junior Design Innovators, i.e., students) and their advisors, the Council members (educators) took charge to tackle real world, society-based design challenges involving community partners.</p>
-<p><b></b></p><p style="text-align: justify;"><b>Call for votes!</b> Let's come together as a community to showcase the potential of Peicai Secondary School on a grand stage. This is our opportunity to represent our school and make our voices heard in the realm of design education at a national level!</p>
-Click on link to vote:  <a rel="noopener" target="_blank" href="https://go.gov.sg/vote4peicaixsutd">
-https://go.gov.sg/vote4peicaixsutd </a>
-
-
-
-
 <p>For more information on&nbsp;<strong><em>Seek. Make. Advocate</em></strong>, you may write to us at&nbsp;<a href="mailto:peicai_ss@moe.edu.sg">peicai_ss@moe.edu.sg</a>.</p>
