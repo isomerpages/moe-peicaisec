@@ -32,12 +32,12 @@ third_nav_title: CCE
 
 <h4><strong>ECG Resources</strong></h4>
 <ul>
-<li aria-level="1"><strong>ECG Website (<a href="http://www.moe.gov.sg/ECG">www.moe.gov.sg/ECG</a>)</strong></li>
-<li aria-level="1"><strong>ECG Parent Guide – Journeying with Our Children, Achieving their Aspirations (<a href="http://www.moe.gov.sg/ECG-parent-guide">www.moe.gov.sg/ECG-parent-guide</a>)</strong></li>
-<li aria-level="1"><strong>Post-secondary options (<a href="http://www.moe.gov.sg/post-sec">www.moe.gov.sg/post-sec</a>)</strong></li>
-<li aria-level="1"><strong>Post-secondary school brochure (<a href="http://www.moe.gov.post-sec-brochure/">www.moe.gov.post-sec-brochure</a>)</strong></li>
-<li aria-level="1"><strong>Early Admissions Exercise (Polytechnics) (<a href="http://www.moe.gov.sg/early-admission-exercise">www.moe.gov.sg/early-admission-exercise</a>)</strong></li>
-<li aria-level="1"><strong>Polytechnic Foundation Programme (<a href="https://pfp.polytechnic.edu.sg/PFP/index.html">https://pfp.polytechnic.edu.sg/PFP/index.html</a>)</strong></li>
-<li aria-level="1"><strong>Joint Admissions Exercise (<a href="http://www.moe.gov.sg/JAE">www.moe.gov.sg/JAE</a>)</strong></li>
-<li aria-level="1"><strong>What’s Next (After ‘N’ and ‘O’ Level) (<a href="http://www.moe.gov.sg/whats-next">www.moe.gov.sg/whats-next</a>)</strong></li>
+<li aria-level="1">ECG Website (<a href="http://www.moe.gov.sg/ECG">www.moe.gov.sg/ECG</a>)</li>
+<li aria-level="1">ECG Parent Guide – Journeying with Our Children, Achieving their Aspirations (<a href="http://www.moe.gov.sg/ECG-parent-guide">www.moe.gov.sg/ECG-parent-guide</a>)</li>
+<li aria-level="1">Post-secondary options (<a href="http://www.moe.gov.sg/post-sec">www.moe.gov.sg/post-sec</a>)</li>
+<li aria-level="1">Post-secondary school brochure (<a href="http://www.moe.gov.post-sec-brochure/">www.moe.gov.post-sec-brochure</a>)</li>
+<li aria-level="1">Early Admissions Exercise (Polytechnics) (<a href="http://www.moe.gov.sg/early-admission-exercise">www.moe.gov.sg/early-admission-exercise</a>)</li>
+<li aria-level="1">Polytechnic Foundation Programme (<a href="https://pfp.polytechnic.edu.sg/PFP/index.html">https://pfp.polytechnic.edu.sg/PFP/index.html</a>)</li>
+<li aria-level="1">Joint Admissions Exercise (<a href="http://www.moe.gov.sg/JAE">www.moe.gov.sg/JAE</a>)</li>
+<li aria-level="1">What’s Next (After ‘N’ and ‘O’ Level) (<a href="http://www.moe.gov.sg/whats-next">www.moe.gov.sg/whats-next</a>)</li>
 </ul>
