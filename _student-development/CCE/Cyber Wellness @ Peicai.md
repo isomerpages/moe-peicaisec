@@ -8,7 +8,7 @@ variant: markdown
 <p><b>Cyber Wellness </b></p>
 <p><b>Objectives</b></p>
 In Peicai, we aim to:
-<p></p><p align="justify">1)	Enable our students to be discerning and responsible ICT users who are able to protect themselves and be responsible for their well-being in cyberspace. </p>
+<p></p><p align="justify">1)	Enable our students to be discerning and responsible ICT users who are able to protect themselves and be responsible for their well-being in cyberspace.</p>
 <p><b>Curriculum</b></p>
 <p>The school adopts MOE’s Cyber Wellness Framework in educating our students on Cyber Wellness. This framework focuses on three key processes: Sense, Think and Act.</p><br>
 	<p><img src="/images/CyberWellness.png"><br>
