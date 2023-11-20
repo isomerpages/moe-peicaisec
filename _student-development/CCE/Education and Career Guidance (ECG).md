@@ -25,10 +25,11 @@ third_nav_title: CCE
 <p><strong>2) Polytechnic Open Houses</strong></p>
 <img style="width: 100%;" src="/images/Polytechnic_Open_Houses_3.jpg">
 1. Providing Our Students with More Insights On The Various Courses Available In Polytechnic<br>2.Getting A Glimpse of Polytechnic School Life 
-<p><strong>3) Secondary 3 Career Day - Speakers from different industries engage our students virtually</strong></p>
-<img style="width: 50%;" src="/images/ecg5.jpg">
-<p><strong>4) Polytechnic/ITE and JC Open Houses</strong></p>
-<img style="width: 50%;" src="/images/ecg6.jpg">
+<p><strong>3) Student Work Attachment Programme (SWAP)</strong></p>
+<img style="width: 100%;" src="/images/Swap.jpg">
+1. Allowing Students to Discover Their Interests And Strengths Through Work Attachment Opportunities @ Peicai Secondary School<br>
+2. Exposing our Students to Possible Career Paths.
+
 <h4><strong>ECG Resources</strong></h4>
 <ul>
 <li aria-level="1"><strong>ECG Website (<a href="http://www.moe.gov.sg/ECG">www.moe.gov.sg/ECG</a>)</strong></li>
