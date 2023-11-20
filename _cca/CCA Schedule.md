@@ -47,4 +47,4 @@ variant: markdown
 </table>
 <p>Learn more about the different domains of the LEAPS 2.0 Framework via  : <a rel="noopener" target="_blank" href="https://www.moe.gov.sg/-/media/files/programmes/leaps-2-framework.pdf"> https://www.moe.gov.sg/-/media/files/programmes/leaps-2-framework.pdf</a></p>
 <h4><strong>Peicai Sec CCA Schedule 2024   </strong></h4>
-<img src="/images/CCA_image_4.jpg" style="width: 70%;">
+<img src="/images/CCA_image_4.jpg" style="width: 60%;">
