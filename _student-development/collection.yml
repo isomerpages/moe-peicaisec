@@ -2,6 +2,7 @@ collections:
   student-development:
     output: true
     order:
+      - CCE/Cyber Wellness @ Peicai.md
       - CCE/Character & Citizenship Education.md
       - CCE/.keep
       - National Education (NE).md
