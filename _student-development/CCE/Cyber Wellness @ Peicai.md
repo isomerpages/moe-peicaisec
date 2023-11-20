@@ -32,3 +32,13 @@ Our students had participated in the Campus Legend Secondary School Season 5 (Mo
 </tbody>
 </table>
 <p style="text-align: center;">Students Eagerly Participating in an Esports Competition2 </p>
+<p><b>National Cyber Wellness Advocacy Challenge (NCAC) Enrichment Module</b><br>
+Our Secondary 3 students had participated in the National Cyber Wellness Advocacy Challenge Enrichment Module which aims to sensitise students to the presence of fake photos, videos and news. They are taught to ask the right questions to evaluate information critically and to compare different news sources to get broad and balanced perspectives.</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 60%;"><img style="width: 100%;" src="/images/ncac.jpg"></td>
+</tr>
+</tbody>
+</table>
+Students Actively Learning about Fake News and How to Verify Information from Multiple Sources.
