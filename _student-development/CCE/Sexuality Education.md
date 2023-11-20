@@ -40,7 +40,35 @@ character, and expand their understanding and repertoire of skills to deal with 
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 100%;"><img src="/images/SE_Sec_1v_page.jpg">1. Developing Cross-cultural Literacy through Ethnic Interactive Performances .<br></td>
+<td style="width: 100%;"><img src="/images/SE_Sec_1v_page.jpg"> <br></td>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 100%;"><img src="/images/SE_Sec_2_page.jpg"><br></td>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 100%;"><img src="/images/SE_Sec_3_page.jpg"> <br></td>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 100%;"><img src="/images/SE_Sec_4_page.jpg"><br></td>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 100%;"><img src="/images/SE_Sec_5_page.jpg"><br></td>
 </tr>
 </tbody>
 </table>
