@@ -29,7 +29,7 @@ variant: markdown
 <tbody>
 <tr>
 <td style="width: 50%;"><img style="width: 100%;" src="/images/pls1.jpg"><strong>Secondary One</strong></td>
-<td style="width: 50%; text-align: center;"><img style="width: 100%;" src="/images/pls2.jpg"><strong>Secondary Two</strong></td>
+<td style="width: 50%;"><img style="width: 100%;" src="/images/pls2.jpg"><strong>Secondary Two</strong></td>
 </tr>
 <tr>
 <td style="width: 50%; text-align: center;"><img style="width: 100%;" src="/images/pls3.png"><strong>Secondary Three</strong></td>
