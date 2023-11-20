@@ -5,23 +5,22 @@ description: ""
 variant: markdown
 third_nav_title: CCE
 ---
-<h4><strong>Approach</strong></h4>
-<p>In Peicai, we aim to<br></p><p align="justify">1) enable students to <strong>explore</strong> viable education and career <strong>options</strong> through the provision of accurate and comprehensive <strong>information; </strong>(Knowledge)<br>2) nurture student's <strong>self-awareness, self-directedness </strong>and <strong>life skills </strong>for continual learning and training; (Skills)<br>3) inculcate an <strong>appreciation </strong>for the <strong>value of all occupations</strong> and how they contribute to the well-functioning of society; (Mindset)<br>4) equip students with <strong>skills and means to positively engage </strong>gtheir parents and other <strong>career influencers. </strong>(Engaging the community)</p>
-<h4><strong>ECG Outcomes for Secondary Students</strong></h4>
+<h4><strong>Education and Career Guidance (ECG)</strong></h4>
+<p><b>Objectives</b></p>
+<p>In Peicai, we aim to:<br></p><p align="justify">1) enable students to <strong>explore</strong> viable education and career <strong>options</strong> through the provision of accurate and comprehensive <strong>information; </strong>(Knowledge)<br>2) nurture student's <strong>self-awareness, self-directedness </strong>and <strong>life skills </strong>for continual learning and training; (Skills)<br>3) inculcate an <strong>appreciation </strong>for the <strong>value of all occupations</strong> and how they contribute to the well-functioning of society; (Mindset)<br>4) equip students with <strong>skills and means to positively engage </strong>gtheir parents and other <strong>career influencers. </strong>(Engaging the community)</p>
+<p><b>Curriculum</b></p>
+<h4>ECG Outcomes for Secondary Students</h4>
 <p dir="ltr"><strong>1) Lower Secondary School Emphasis: Career Exploration</strong></p>
 <ul>
 <li dir="ltr" aria-level="1">Students will know more about the world of work.</li>
 <li dir="ltr" aria-level="1">Students will gain an awareness of their own strengths, interests and work values, and relevant courses of study.</li>
 </ul>
-<p dir="ltr"><strong>Goal: To deepen students' understanding of self and relate schooling to the different education and career pathways.</strong></p>
 <p dir="ltr"><strong>2) Upper/Post Secondary Emphasis: Career Planning</strong></p>
 <ul>
 <li dir="ltr" aria-level="1">Students will further clarify their career self-concept and hone their research and decision-making skills.</li>
 </ul>
-<p dir="ltr"><strong>Goal: To enable students to synthesise information gathered from relevant sources to make sound educational and career decisions.</strong></p>
-
-<h4><strong>Programmes / Activities</strong></h4>
-<p><strong>1) Workshops conducted by ECG Counsellor to prepare students for Early Admissions Exercise (EAE)</strong></p>
+<h4><strong>Key Programme</strong></h4>
+<p><strong>1)	Applied Learning Module@ ITE </strong></p>
 <img style="width: 50%;" src="/images/ecg3.jpg">
 <p><strong>2) ECG Parent Engagement Session by Polytechnic, ITE and Junior College lecturers.</strong></p>
 <img style="width: 50%;" src="/images/ecg4.jpg">
