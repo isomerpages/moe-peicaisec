@@ -16,12 +16,6 @@ variant: markdown
 <p></p><p align="justify">At the end of each semester, students who achieve outstanding results and demonstrate exemplary conduct will be placed on the Principal's List and be awarded a Certificate of Commendation by the school. In addition to motivating the students, it is our hope that the students on the Principal's List would also be an inspiration to the student body that nothing is impossible with discipline and hard work.</p>
 <h4 style="text-align: center;"><strong><u>Semester Two 2022</u></strong></h4>
 <img style="width: 75%;" src="/images/pl1.png"><p style="text-align: center;"><strong>Secondary One</strong></p><img style="width: 75%;" src="/images/pl2.png"><p style="text-align: center;"><strong>Secondary Two</strong></p><img style="width: 75%;" src="/images/pl3.png"><p style="text-align: center;"><strong>Secondary Three</strong></p><table style="border-collapse: collapse; width: 100%;" border="1">
-
-
-
-
-
-
 </table>
 <hr>
 <h4 style="text-align: center;"><strong><u>Semester One 2022</u></strong></h4>
@@ -33,7 +27,7 @@ variant: markdown
 </tr>
 <tr>
 <td style="width: 50%; text-align: center;"><img style="width: 100%;" src="/images/pls3.png"><strong>Secondary Three</strong></td>
-<td style="width: 50%; text-align: center;"><img style="width: 100%;" src="/images/pls4.png"><strong>Secondary Four</strong></td>
+<td style="width: 50%;"><img style="width: 100%;" src="/images/pls4.png"><strong>Secondary Four</strong></td>
 </tr>
 </tbody>
 </table>
