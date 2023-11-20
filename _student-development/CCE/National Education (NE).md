@@ -23,31 +23,21 @@ variant: markdown
 <p><b>International Friendship Day 2023</b></p>
 <p></p><p align="justify">This year’s International Friendship Day theme is “Singapore in Asia”. Students learnt how Singapore plays a crucial role in facilitating and promoting closer economic, political, social, and cultural cooperation within ASEAN and the broader Asian region. By recognising the importance of connectedness between our neighbouring countries, our students learnt how our youth can play an active role in fostering people-to-people ties, thus celebrating the region’s diversity and vibrancy and promoting the spirit of friendship and collaboration. Students were engaged in discussions to gain a deeper understanding about ASEAN member countries and its people. </p><hr>
 <p><b>Racial Harmony Day 2023</b></p>
-<p></p><p align="justify">Students were engaged through a multi-cultural dance performance titled ‘Synergy in Cultures’ which featured the three main ethnic dances of Singapore by Apsara Asia. Lower secondary students also learnt about the significance behind wearing ethnic attires while upper secondary students engaged in a scenario-based discussions where they reflected on how they can be more respectful and sensitive in their interactions with one another. </p><hr>
+<p></p><p align="justify">Students were engaged through a multi-cultural dance performance titled ‘Synergy in Cultures’ which featured the three main ethnic dances of Singapore by Apsara Asia. Lower secondary students also learnt about the significance behind wearing ethnic attires while upper secondary students engaged in a scenario-based discussions where they reflected on how they can be more respectful and sensitive in their interactions with one another. </p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
 <td style="width: 100%;"><img src="/images/Cross_cultural_Literacy.jpg">1. Developing Cross-cultural Literacy through Ethnic Interactive Performances .<br>2. Fostering Students’ Understanding of Racial Diversity through Class Bonding</td>
 </tr>
 </tbody>
-</table>
-<h4><strong>Activities / Events</strong></h4>
-<p><span style="text-decoration: underline;"><strong>Total Defence Day 2022</strong></span></p>
-<p></p><p align="justify">Student commemorated Total Defence Day this year, through various level fringe activities stated below:</p>
-<p></p><p align="justify">Secondary 1: Through an interactive “choose your adventure style” video, students got to understand how their choices and actions could create a greater impact in the larger national context.</p>
-<p></p><p align="justify">Secondary 2: Students got to design a piece of digital art based on what Total Defence mean to them. They also articulated what their wishes for Total Defence are as a citizen and as a student.</p>
-<p></p><p align="justify">Secondary 3: Students got to design a piece of digital art based on what Total Defence means to them. They also articulated how they can contribute to Total Defence as a citizen and as a student.</p>
-<p></p><p align="justify">Secondary 4: Students attended an assembly programme conducted through ZOOM by Singapore Discovery Centre in collaboration with SAF. LTC (RET) Tan Swee Kee is a SAF veteran who is passionate about imparting core values to the younger generation through personal stories of their struggles, experiences, and successes in the face of adversity.</p>
-<p><span style="text-decoration: underline;"><strong>Winning entries for Digital Art Contest 2022</strong></span></p>
+</table><hr>
+<p><b>National Day 2023</b></p>
+<p></p><p align="justify">This year’s National Day theme is “Onward As One”, which calls upon Singaporeans to look forward confidently and move onward together in building our shared future as one united people.</p>
+<p></p><p align="justify">Students participated in fringe activities tailored to the learning needs of the different levels. Students from the lower secondary designed a National Day poster while the upper secondary created a video with well wishes for Singapore. Our school celebration then started with the parade formation by students from the Uniformed Groups such as NPCC, NCC (Sea) and Girl Guides. After the parade, students were entertained with the concert in the hall, with Peicai’s Got Talent as the main highlight of the show.</p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 50%;"><img src="/images/nee1.png"></td>
-<td style="width: 50%;"><img src="/images/nee2.png"></td>
-</tr>
-<tr>
-<td style="width: 50%;"><img src="/images/nee3.jpg"></td>
-<td style="width: 50%;"><img src="/images/nee4.jpg"></td>
+<td style="width: 100%;"><img src="/images/National_Day_2023.jpg"></td>
 </tr>
 </tbody>
 </table></li></ol>
