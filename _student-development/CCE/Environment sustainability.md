@@ -50,4 +50,13 @@ third_nav_title: CCE
 <td style="width: 100%;"><img src="/images/Enviroment_P2.jpg"></td>
 </tr>
 </tbody>
-</table></ol>
+</table>
+<p>Here are some of our school-wide recycling projects for “SembEnviro Plastic Recycling League” where we collected a pure stream of plastic waste for proper recycling, and the “Pass-it-On Bazaar” where students can donate their old textbooks to their juniors to use the following year, with the leftover books being donated to “NTUC Share-A-Textbook Drive”.</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 100%;"><img src="/images/SembEnviro.jpg"></td>
+</tr>
+</tbody>
+</table>
+</ol>
