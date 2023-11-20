@@ -24,7 +24,7 @@ third_nav_title: CCE
 <img style="width: 100%;" src="/images/applied_learning_ecg.jpg">Providing Our Students with Applied Learning Opportunities – Learning That Involves Doing And Applying, Learning About The Real World, And Learning For Life.
 <p><strong>2) Polytechnic Open Houses</strong></p>
 <img style="width: 100%;" src="/images/Polytechnic_Open_Houses_3.jpg">
-1. Providing Our Students with More Insights On The Various Courses Available In Polytechnic<br>2.Getting A Glimpse of Polytechnic School Life 
+1. Providing Our Students with More Insights On The Various Courses Available In Polytechnic<br>2. Getting A Glimpse of Polytechnic School Life 
 <p><strong>3) Student Work Attachment Programme (SWAP)</strong></p>
 <img style="width: 100%;" src="/images/Swap.jpg">
 1. Allowing Students to Discover Their Interests And Strengths Through Work Attachment Opportunities @ Peicai Secondary School<br>
