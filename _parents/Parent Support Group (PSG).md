@@ -28,8 +28,7 @@ variant: markdown
 <p></p><p align="justify">Volunteer time to participate in the school’s events and programmes which will help parents experience first hand what their children do in school</p>
 </td>
 <td style="text-align: center;" width="208">
-<p></p><p align="justify">Share knowledge, expertise, networks with the school to add value to the school’s programmes.</p>
-<p>These could be for students, staff or other parents.</p>
+<p></p><p align="justify">Share knowledge, expertise, networks with the school to add value to the school’s programmes.<br>These could be for students, staff or other parents.</p>
 </td>
 <td style="text-align: center;" width="208">
 <p></p><p align="justify">Attend PSG Meetings and Breakfast Sessions with the Principal and School Management to share feedback and ideas on policies, processes and programmes that could further enrich the holistic education for all students in the school</p>
