@@ -47,7 +47,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td width="100">&nbsp;</td>
+<td width="400">&nbsp;</td>
 </tr>
 </tbody>
 </table>
