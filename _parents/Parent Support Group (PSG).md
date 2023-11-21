@@ -105,5 +105,5 @@ variant: markdown
 <p><strong>Join us a member of PSG</strong></p>
 <p></p><p align="justify">We encourage all parents to be a member of the school’s PSG as it would instantly connect you with a number of parents with whom you would be able to interact and share ideas on how you could further support your child in his/her journey as a teenager.</p>
 <p></p><p align="justify">If you would like to be a member of Peicai’s PSG, please register via the QR Code or link provided below and the PSG Teacher Advisors would be in touch with you.</p>
-<img style="width: 40%;" src="/images/PSGQR.jpg">
+<img style="width: 35%;" src="/images/PSGQR.jpg">
 <p style="text-align: center;"><a href="https://form.gov.sg/654c828d9c7f400011de2a9f">https://go.gov.sg/pc-psg2023-24</a></p>
