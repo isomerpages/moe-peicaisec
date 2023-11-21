@@ -76,10 +76,10 @@ variant: markdown
 <td width="400"><a>
 </a></td></tr>
 <tr>
-<td width="141"><strong>N Level</strong></td>
+<td width="141"><strong>Normal (Technical) / G1 Science</strong></td>
 <td width="400">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/6128_y24_sy.pdf">6128 GCE N(T) Level</a></p>
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/6125_y24_sy.pdf">6125 GCE N(A) Level </a></p>
+<p><a href="https://www.moe.gov.sg/-/media/files/secondary/syllabuses-nt/science/2021-science-syllabus-lower-secondary-nt.pdf">Normal (Technical) / G1 Science</a></p>
+<p><a href="https://www.moe.gov.sg/-/media/files/secondary/syllabuses/science/2021-science-syllabus-lower-secondary.pdf">Normal (Academic) / G2 Science </a></p>
 </td>
 </tr>
 <tr>
