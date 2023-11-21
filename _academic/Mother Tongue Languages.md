@@ -53,6 +53,13 @@ variant: markdown
 <tbody>
 <tr>
 <td style="width: 50%;"><img src="/images/MTL11.JPG"></td>
+</tr>
+</tbody>
+</table>
+<p>Exposure / Competition</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
 <td style="width: 50%;"><img src="/images/MTL12.JPG"></td>
 </tr>
 </tbody>
