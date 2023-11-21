@@ -38,8 +38,11 @@ variant: markdown
 </tbody>
 </table>
 <p><strong>Key Highlights of PSG Activities and Programmes in 2023</strong></p>
-<img src="/images/psg31.jpg"><br>
-<img src="/images/psg41.jpg">
+<img src="/images/PSG1.JPG"><br>
+<img src="/images/PSG2.JPG"><br>
+<img src="/images/PSG3.JPG"><br>
+<img src="/images/PSG4.JPG"><br>
+<img src="/images/PSG5.JPG"><br>
 <p>Parenting Talks 2022</p>
 <table width="624">
 <tbody>
