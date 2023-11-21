@@ -2,6 +2,7 @@ collections:
   academic:
     output: true
     order:
+      - Computer Applications (CPA).md
       - Subjects offered.md
       - Assessment and Promotion Criteria.md
       - Full Subject Based Banding (FSBB).md
