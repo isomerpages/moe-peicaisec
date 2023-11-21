@@ -41,7 +41,7 @@ description: ""
 <td width="400"><a>
 </a></td></tr>
 <tr>
-<td width="141"><strong>CPA</strong></td>
+<td width="200"><strong>CPA</strong></td>
 <td width="900">
 <p><a href="www.moe.gov.sg/-/media/files/secondary/syllabuses-nt/science/2019-computer-applications-syllabus.pdf">7018 Computer Applications </a></p>
 </td>
