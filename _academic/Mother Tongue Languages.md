@@ -86,30 +86,18 @@ variant: markdown
 </tbody>
 </table>
 
-
-
-<p style="text-align: center;">Sec 3 Journalism Programme (NewsMaker) Chinese Language</p>
 <p><span style="text-decoration: underline;"><strong>Malay Language and Culture</strong></span></p>
 <p><strong>Malay Language</strong></p>
-<p></p><p align="justify">To achieve our Mother Tongue department mission, we embark on several programmes to enhance our students’ language skills. These programmes include ‘Class Library Programme’, the ‘MTL Intensive Programme for our Graduating Classes’ as well as the ‘Conversational Chinese and Malay Programme’ for our Secondary One student’s.&nbsp;</p>
+<p></p><p align="justify">To achieve our Mother Tongue department mission, we embark on several programmes to enhance our students’ language skills. These programmes include ‘Class Library Programme’, the ‘MTL Intensive Programme for our Graduating Classes’ as well as the ‘Conversational Chinese and Malay Programme’ for our Secondary One student’s. </p>
 <p><strong>Malay Culture</strong></p>
 <p></p><p align="justify">In addition to our commitment to nurture students to be proficient users of the Malay language, we have also included enrichment activities to enhance our students’ knowledge about the Malay culture. These activities are as follows:</p>
-<p><u>MT Fortnight Cultural activities for our students</u></p><p></p><p align="justify">The department has organized workshops such as Seni Khat, Dikir Barat, Malay Dance and Kompang as well as Acting (Opera Theatre, Bangsawan) for our students. These workshops are conducted to enhance students’ interest and appreciation of Malay culture.&nbsp;</p><table style="border-collapse: collapse; width: 100%;" border="1">
+<p><u>MT Fortnight Cultural activities for our students</u></p><p></p><p align="justify">The department has organized workshops such as Seni Khat, Dikir Barat, Malay Dance and Kompang as well as Acting (Opera Theatre, Bangsawan) for our students. These workshops are conducted to enhance students’ interest and appreciation of Malay culture.&nbsp;</p>
+<p><u>Hari Raya Celebration</u></p><p></p>
+<p></p><p align="justify">During the celebration, students and staff were presented with numerous segments of joyous get-together, such as silat performance, dikir barat, Malay dance, teacher’s singing along and samping tying contest.</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 50%;">
-<p><u>Festive Celebrations – Lunar New Year</u></p>
-<p></p><p align="justify">Our students are given the opportunity to showcase their performing talents in Dikir Barat and Tarian Melayu. The concert items are solely organized and planned by students. Malay Dance Performers for 2022 CNY Celebrations
-</p></td><td style="width: 50%;"><img src="/images/mtl9.jpg"></td>
-	
-
-
-</tr></tbody></table><table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 36%;"><img src="/images/mtl10.jpg"></td>
-<td style="width: 36%;"><img src="/images/mtl11.jpg"></td>
-<td style="width: 28%;"><img src="/images/mtl12.jpg"></td>
+<td style="width: 36%;"><img src="/images/MTL17.JPG"></td>
 </tr>
 </tbody>
 </table>
