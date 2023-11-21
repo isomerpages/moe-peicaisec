@@ -68,6 +68,48 @@ variant: markdown
 </tr>
 </tbody>
 </table>
+<h4><strong>Students’ Achievements</strong></h4>
+<p>International C.B Paul Science Quiz</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+	<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/Science_7.jpg"></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;"><p style="text-align: center;"></p>Achievements from 2021 to 2023</td>
+</tr>
+</tbody>
+</table>
+<p>Singapore Junior Science Olympiad</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+	<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/Science_8.jpg"></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;"><p style="text-align: center;"></p>Achievements from 2021 to 2023</td>
+</tr>
+</tbody>
+</table>
+<p>ignITE Skills Challenge</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+	<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/Science_9.jpg"></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;"><p style="text-align: center;"></p>1st Prize: Decarbonisation At Home</td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
+
+
+
 <h4><strong>Syllabus</strong></h4>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
