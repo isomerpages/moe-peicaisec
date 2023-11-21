@@ -52,7 +52,8 @@ variant: markdown
 <table style="border-collapse: collapse; width: 70%;" border="1">
 <tbody>
 <tr>
-<td style="width: 45%;"><img src="/images/MTL11.JPG"></td>
+<td style="width: 50%;"><img src="/images/MTL11.JPG"></td>
+	<td style="width: 50%;"><img src="/images/MTL12.JPG"></td>
 </tr>
 </tbody>
 </table>
