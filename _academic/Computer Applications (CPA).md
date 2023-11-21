@@ -22,6 +22,9 @@ description: ""
 	<li>provide a platform to showcase students’ work</li>
 		<li>develop students’ interest in media design; and</li>
 		<li>hone students’ communication and presentation skills.</li>
+	</ul>
+	<p align="justify">This competition is held in conjunction with the school-based course projects for the CPA subject at Secondary 2 and Secondary 3 levels. Students will develop an animation or game based on the respective theme provided for the course projects. Upon completion of the projects, CPA subject teachers will select the best piece of work to be submitted for the competition.</p>
+	
 
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
@@ -114,4 +117,4 @@ at the upper secondary level.</p>
 <td width="270">&nbsp;</td>
 </tr>
 </tbody>
-</table></ul>
+</table>
