@@ -54,6 +54,26 @@ Students take a journey on a math trail and explored the school through numbers 
 </tr>
 </tbody>
 </table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/Math_5.jpg"></td>
+<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/Math_6.jpg"></td>
+<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/Math_7.jpg"></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;"><p style="text-align: center;">Learning Journey to Gardens by the Bay
+</p></td>
+<td style="width: 33.3333%;"><p style="text-align: center;">Students exploring Math’s Natural Wonders at Gardens by the Bay and solve real world problems in this botanical wonderland.
+</p></td>
+<td style="width: 33.3333%;"><p style="text-align: center;">Learning through a tasty lens:
+Students compare the sizes and costs of bubble teacups, delving into the realms of geometry, measurements and even budgeting.
+</p></td>
+</tr>
+<tr>
+</tr>
+</tbody>
+</table>
 <h4><strong>Syllabus</strong></h4>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
@@ -64,14 +84,16 @@ Students take a journey on a math trail and explored the school through numbers 
 <tr>
 <td width="141"><strong>N Level</strong></td>
 <td width="400">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/6128_y24_sy.pdf">6128 GCE N(T) Level</a></p>
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/6125_y24_sy.pdf">6125 GCE N(A) Level </a></p>
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2021syllabus/4046_y21_sy.pdf">4046 N(T) Level Mathematics</a></p>
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2021syllabus/4045_y21_sy.pdf">4045 N(A) Level Mathematics </a></p>
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2021syllabus/4051_y21_sy.pdf">4051 N(A) Level Additional Mathematics </a></p>
 </td>
 </tr>
 <tr>
 <td width="141"><strong>O Level</strong></td>
 <td width="400">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/6123_y24_sy.pdf">6123 GCE O-Level</a></p>
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2023syllabus/4052_y23_sy.pdf">4052 O Level Mathematics</a></p>
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2022syllabus/4049_y22_sy.pdf">4049 O Level Additional Mathematics</a></p>
 </td>
 </tr>
 <tr>
