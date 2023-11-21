@@ -29,7 +29,13 @@ variant: markdown
 <p></p><p align="justify">To inspire the students’ love for their culture, and to seize every opportunity to teach our students values, we organise the following activities for our students each year:</p>
 <p><u>Chinese New Year Concert </u></p>
 <p></p><p align="justify">On the Chinese New Year celebration concert, students were engaged in a festive mood by the mere presence of the God of Fortune and the Lion Dance Troupe.  This year, we had the privilege of our alumni, Glenn Yong to join us in the celebration.  He sang a few songs including singing along Chinese New Year songs to liven up the mood.</p>
-<img src="/images/Chinese_New_Year_Concert.JPG">
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 40%;"><img src="/images/Chinese_New_Year_Concert.JPG"></td>
+</tr>
+</tbody>
+</table>	
 <p><u>MT Fortnight Cultural activities for our students</u></p>
 <p></p><p align="justify">In order to expose our students to different cultural activities, we organise various activities for our students during the Mother Tongue fortnight, such as traditional costume, bamboo slip, paper folding, tea appreciation and shadow puppet.  One key highlight for this year is the sharing by students during Morning Assembly.</p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
