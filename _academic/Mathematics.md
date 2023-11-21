@@ -36,7 +36,24 @@ Students collaborate in groups to apply calculations to design and construct bri
 </tr>
 </tbody>
 </table>
-
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/Math_3.jpg"></td>
+<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/Math_4.jpg"></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;"><p style="text-align: center;">Building the future with Code and Creativity:
+Students use Stick’em to bring their coding creations to life. 
+</p></td>
+<td style="width: 33.3333%;"><p style="text-align: center;">Discovering Math All Around Us:
+Students take a journey on a math trail and explored the school through numbers and equations.
+</p></td>
+</tr>
+<tr>
+</tr>
+</tbody>
+</table>
 <h4><strong>Syllabus</strong></h4>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
