@@ -83,9 +83,16 @@ variant: markdown
 </td>
 </tr>
 <tr>
-<td width="141"><strong>O Level</strong></td>
+<td width="141"><strong>GCE N(T)-Level / G1 Upper Secondary Science:</strong></td>
 <td width="400">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/6123_y24_sy.pdf">6123 GCE O-Level</a></p>
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/5148_y24_sy.pdf">5148 Science Syllabus T (Revised)</a></p>
+</td>
+</tr>
+	<tr>
+<td width="141"><strong>GCE N(A)-Level / G2 Upper Secondary Science:</strong></td>
+<td width="400">
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/5105_y24_sy.pdf">5105 Science (Physics, Chemistry)</a></p>
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/5107_y24_sy.pdf">5107 Science (Chemistry, Biology) </a></p>
 </td>
 </tr>
 <tr>
