@@ -15,6 +15,7 @@ In Peicai, we aim to:
 	<li>Ignite creativity and pursuit for excellence</li></ul>
 <p><b>Curriculum</b></p>
 <p align="justify">The Aesthetics curriculum in Peicai provides students with the opportunities to explore various Art forms – visual, performative, and musical, to communicate their thoughts and ideas. Students are exposed to a range of learning experiences. We strive to spark curiosity and creativity in students, developing and enhancing their artistic skills through our diverse Arts programmes. Students cultivate artistic discipline which strengthens their character and holistic development.</p>
+<h4><strong>Key Programmes</strong></h4>
 <img style="width: 70%;" src="/images/aesthesics.jpg">
 <p style="text-align: center;">
 </p><p><span style="text-decoration: underline;"><strong></strong></span></p>
