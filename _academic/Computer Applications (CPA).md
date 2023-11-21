@@ -16,15 +16,13 @@ description: ""
 </ul>
 <p align="justify">From 2024 onwards, Computer Applications (CPA) which is currently only available for the Normal Technical (NT) stream will be gradually phased out. It will be replaced with G1, G2 and G3 Computing from 2026, and available as an elective subject to all Upper Secondary students. This strategic shift is part of a national initiative to enhance technological proficiency across the student body. To lay the foundation, Lower Secondary students will acquire basic digital skills through integrated tasks within various subjects and programme. The tiered G1/G2/G3 Computing are designed to foster a deeper interest and higher competency in computing disciplines among those who wish to pursue them.</p>
 <h4><strong>Department Programme/Highlights</strong></h4>
-<p align="justify">The Animation and Game Making (AGM) Competition is an annual competition, for Secondary school students offering the CPA subject, organised by the Computer Education Unit of Curriculum Planning and Development Division (CPDD).</p>
+<p></p><p align="justify">The Animation and Game Making (AGM) Competition is an annual competition, for Secondary school students offering the CPA subject, organised by the Computer Education Unit of Curriculum Planning and Development Division (CPDD).</p>
 <p>The objectives of the AGM Competition are to</p>
 <ul>
-	<li>provide a platform to showcase students’ work</li>
-		<li>develop students’ interest in media design; and</li>
-		<li>hone students’ communication and presentation skills.</li>
-	</ul>
-	<p align="justify">This competition is held in conjunction with the school-based course projects for the CPA subject at Secondary 2 and Secondary 3 levels. Students will develop an animation or game based on the respective theme provided for the course projects. Upon completion of the projects, CPA subject teachers will select the best piece of work to be submitted for the competition.</p>
-	
+<li>provide a platform to showcase students’ work</li>
+<li>develop students’ interest in media design; and</li>
+<li>hone students’ communication and presentation skills.</li></ul>
+<p></p><p align="justify">This competition is held in conjunction with the school-based course projects for the CPA subject at Secondary 2 and Secondary 3 levels. Students will develop an animation or game based on the respective theme provided for the course projects. Upon completion of the projects, CPA subject teachers will select the best piece of work to be submitted for the competition.</p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
