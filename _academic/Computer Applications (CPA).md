@@ -37,13 +37,13 @@ description: ""
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td width="141"><strong><u>CPA</u></strong></td>
+
 <td width="400"><a>
 </a></td></tr>
 <tr>
-<td width="141"><strong></strong></td>
-<td width="300">
-<p><a media="" href="<a href=">7018 Computer Applications </a></p>
+<td width="141"><strong>CPA</strong></td>
+<td width="900">
+<p><a href="www.moe.gov.sg/-/media/files/secondary/syllabuses-nt/science/2019-computer-applications-syllabus.pdf">7018 Computer Applications </a></p>
 </td>
 </tr>
 <tr>
