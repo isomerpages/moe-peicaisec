@@ -2,7 +2,6 @@ collections:
   academic:
     output: true
     order:
-      - Computer Applications (CPA).md
       - Subjects offered.md
       - Assessment and Promotion Criteria.md
       - Full Subject Based Banding (FSBB).md
@@ -18,6 +17,7 @@ collections:
       - Craft & Technology/Design and Technology.md
       - Craft & Technology/Music.md
       - Craft & Technology/Nutrition & Food Science Unit.md
+      - Computer Applications (CPA).md
       - English Language & Literature.md
       - Humanities.md
       - Mathematics.md
