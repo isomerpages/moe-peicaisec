@@ -50,6 +50,13 @@ variant: markdown
 </tr>
 </tbody>
 </table>
+	
+	
+	
+	
+	
+	
+	
 <p><u>Exposure / Competition</u></p>
 <img style="width: 60%;" src="/images/mtl5.jpg">
 <p style="text-align: center;">2022 National Bilingual Debate Competition</p>
