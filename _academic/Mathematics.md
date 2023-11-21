@@ -4,67 +4,100 @@ permalink: /academic/mathematics/
 description: ""
 variant: markdown
 ---
+<h4><strong>Mathematics</strong></h4>
+
 <h4><strong>Learning Outcomes</strong></h4>
-<p><strong><u>Mathematics:<br></u></strong></p><p align="justify">Mathematics underpins many aspects of our daily life, from making sense of information to making informed decisions. It contributes to the developments and understanding in multiple disciplines and provides the foundation for many of today’s innovations and tomorrow’s solutions. Mathematics education plays an important role in equipping students with the necessary knowledge and skills and the capacities to think logically, critically, and analytically to participate and strive in the future workplace.</p>
-<p></p><p align="justify">At Peicai Secondary school, we aim to develop in our students an inquiring mind and a passion for learning Mathematics. We also give attention to developing students’ metacognition by promoting self-directed learning and reflection.</p>
-<p><strong><u>Computer Applications:<br></u></strong></p><p align="justify">The invention and advancement of computers has revolutionized the way we live, work and learn. Having the knowledge and skills to tap on the power of computers makes a person more efficient.</p>
-<p></p><p align="justify">At Peicai Secondary school, we aim to develop in our students’ skills in using a variety of computer application software and hardware to accomplish tasks and communicate ideas. We also give attention to developing students’ basic computational thinking and problem-solving skills.</p>
-<p><strong><u>Mathematics<br></u></strong></p><p align="justify">We support these endeavours through quality instruction and programmes. Peicai Mathematics department adopts a spiral approach in teaching where each skill is reviewed and revisited repeatedly over months and across levels. Each time the material is revisited, more depth is added, linking new concepts to prior learning. Spiralling helps students to make connections over time, which creates more robust pathways for recalling information and produces deeper, more conceptual learning.</p>
-<p></p><p align="justify">To help students to become more proficient in mathematics, we are explicit about using instructional routines that focus on student engagement in activities that support reasoning, communication with and about mathematical ideas, building procedural fluency from conceptual understanding and productive struggle. We also teach our students mathematical routines to help students derive an approach to analysing and solving questions comfortably. These routines level up students’ confidence, competence and motivation in learning mathematics.</p>
-<p><strong><u>Computer Applications<br></u></strong></p><p align="justify">We support these endeavours through quality instruction and programmes. Peicai Computer Applications lessons are hands-on and interactive. The CPA unit also ensured that students learn basic computational thinking skills such as algorithmic thinking and decomposition through creating animations and games.</p>
-<h4><strong>Programmes</strong></h4>
-<p></p><p align="justify">Maths enrichment at Peicai harnesses the talents of our students, inspires and empowers them through learning, mentorship and leadership opportunities. Students strengthen their mathematical knowledge, develop computational thinking skills and broaden their perspectives through competitions and experiential learning. There are also opportunities for students to lead, plan and implement events to nurture them to be leaders in the field and to develop passion and deep subject mastery.</p>
-<ul>
-<li>ICAS competition</li>
-<li>All Singapore Secondary Mathematics Competition for Normal Course Students</li>
-<li>Marshall Cavendish Education Online Competition</li>
-<li>Maths Modelling</li>
-<li>Board Gamification</li>
-<li>Mathematics week</li>
-<li>Math Trail</li>
-<li>Coding with Swift</li>
-</ul>
-<p><strong><u>CPA Competition</u></strong><br>Animation and Game-making (AGM) Competition (CPA)</p>
-<h4><strong>Syllabus</strong></h4>
+<p></p><p align="justify">At Peicai, we provide a comprehensive and engaging mathematics education that equips our students with the knowledge, skills, and dispositions needed to excel both academically and professionally.  Our mathematics curriculum is designed to foster a deep understanding of mathematical concepts and their real-world applications.</p>
+<p></p><p align="justify">1. Problem Solving and Critical Thinking: We empower students to cultivate robust strong problem-solving skills and critical thinking abilities, enabling them to confidently tackle a wide spectrum of challenges. </p>
+<p></p><p align="justify">2. Conceptual Mastery: Our students achieve a profound understanding of fundamental mathematical concepts, empowering them to apply these principles across a broad range of topics; from algebra to calculus. </p>
+<p></p><p align="justify">3. Real-World Relevance: We place strong emphasis on demonstrating the practical applicability of mathematics. By showing students how mathematics is intertwined with other disciplines, we inspire a genuine appreciation for the subject and foster the capability to apply mathematical concepts in everyday life.</p>
+<h4><strong>Department Programme/Highlights/ Student Outcomes</strong></h4>
+<p><b>Math Competitions</b></p>
+<p></p><p align="justify">We offer opportunities for students with a strong passion and aptitude for Mathematics to participate in a variety of mathematics competitions and events.  These include the Singapore Mathematical Olympiad (SMO), Singapore and Asian Mathematics Olympiad (SASMO) and Singapore Math Kangaroo Contest (SMKC).</p>
+<p><b>Math Modelling</b></p>
+<p></p><p align="justify">Through the integration of various engaging activities, technology, and real-world problem-solving scenarios, students are given the support they need to learn math in a creative and less rigid environment.</p>
+<p><b>Computational Thinking</b></p>
+<p></p><p align="justify">Students actively participate in coding activities and are encouraged to create algorithms to solve problems. This helps them enhance their analytical and algorithmic thinking skills, which are highly transferable to various fields and careers.</p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
-</table><table width="623">
 <tbody>
 <tr>
-<td width="312">
-<p><strong><u>N Level</u></strong></p>
-</td>
-<td width="312">
-<p><strong><u>O Level</u></strong></p>
-</td>
+<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/Math_1.jpg"></td>
+<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/Math_2.jpg"></td>
 </tr>
 <tr>
-<td width="312">
+<td style="width: 33.3333%;"><p style="text-align: center;">Zhou Xiaoya 3C4
+Gold Award Recipient of the Singapore &amp; Asian Schools Math Olympiad (SASMO) 2023
+</p></td>
+<td style="width: 33.3333%;"><p style="text-align: center;">Bridging Math and Reality: 
+Students collaborate in groups to apply calculations to design and construct bridge models from materials such as ice-cream sticks, straws and more.
+</p></td>
+</tr>
+<tr>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/Math_3.jpg"></td>
+<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/Math_4.jpg"></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;"><p style="text-align: center;">Building the future with Code and Creativity:
+Students use Stick’em to bring their coding creations to life. 
+</p></td>
+<td style="width: 33.3333%;"><p style="text-align: center;">Discovering Math All Around Us:
+Students take a journey on a math trail and explored the school through numbers and equations.
+</p></td>
+</tr>
+<tr>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/Math_5.jpg"></td>
+<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/Math_6.jpg"></td>
+<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/Math_7.jpg"></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;"><p style="text-align: center;">Learning Journey to Gardens by the Bay
+</p></td>
+<td style="width: 33.3333%;"><p style="text-align: center;">Students exploring Math’s Natural Wonders at Gardens by the Bay and solve real world problems in this botanical wonderland.
+</p></td>
+<td style="width: 33.3333%;"><p style="text-align: center;">Learning through a tasty lens:
+Students compare the sizes and costs of bubble teacups, delving into the realms of geometry, measurements and even budgeting.
+</p></td>
+</tr>
+<tr>
+</tr>
+</tbody>
+</table>
+<h4><strong>Syllabus</strong></h4>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td width="141"><strong><u>Mathematics</u></strong></td>
+<td width="400"><a>
+</a></td></tr>
+<tr>
+<td width="141"><strong>N Level</strong></td>
+<td width="400">
 <p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2021syllabus/4046_y21_sy.pdf">4046 N(T) Level Mathematics</a></p>
-</td>
-<td width="312">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2022syllabus/4048_y22_sy.pdf">4048 O Level Mathematics</a></p>
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2021syllabus/4045_y21_sy.pdf">4045 N(A) Level Mathematics </a></p>
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2021syllabus/4051_y21_sy.pdf">4051 N(A) Level Additional Mathematics </a></p>
 </td>
 </tr>
 <tr>
-<td width="312">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2021syllabus/4045_y21_sy.pdf">4045 N(A) Level Mathematics</a></p>
-</td>
-<td width="312">
+<td width="141"><strong>O Level</strong></td>
+<td width="400">
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2023syllabus/4052_y23_sy.pdf">4052 O Level Mathematics</a></p>
 <p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2022syllabus/4049_y22_sy.pdf">4049 O Level Additional Mathematics</a></p>
 </td>
 </tr>
 <tr>
-<td width="312">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2021syllabus/4051_y21_sy.pdf">4051 N(A) Level Additional Mathematics</a></p>
-</td>
-<td width="312">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td width="312">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2022syllabus/7018_y22_sy.pdf">7018 N(T) Level Computer Applications</a></p>
-</td>
+<td width="270">&nbsp;</td>
 </tr>
 </tbody>
 </table>

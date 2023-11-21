@@ -19,7 +19,7 @@ third_nav_title: CCE
 <ul>
 <li dir="ltr" aria-level="1">Students will further clarify their career self-concept and hone their research and decision-making skills.</li>
 </ul>
-<h4><strong>Key Programme</strong></h4>
+<h4><strong>Key Programmes</strong></h4>
 <p><strong>1)	Applied Learning Module@ ITE </strong></p>
 <img style="width: 100%;" src="/images/applied_learning_ecg.jpg">Providing Our Students with Applied Learning Opportunities – Learning That Involves Doing And Applying, Learning About The Real World, And Learning For Life.
 <p><strong>2) Polytechnic Open Houses</strong></p>

@@ -27,98 +27,104 @@ variant: markdown
 <p></p><p align="justify">To achieve our Mother Tongue department mission, we embark on several programmes to enhance our students’ language skills. These programmes aimed at enhancing the necessary language skills, i.e speaking, listening, reading and writing. Our key programmes include ‘Class Library Programme’, the ‘MTL Intensive Programme for our Graduating Classes’ as well as the ‘Conversational Chinese and Malay Programme’ for our Secondary One student’s.</p>
 <p><strong>Chinese Culture</strong></p>
 <p></p><p align="justify">To inspire the students’ love for their culture, and to seize every opportunity to teach our students values, we organise the following activities for our students each year:</p>
-<p><u>Chinese New Year concert and Hamper Wrapping for Lion’s Home for the Aged</u></p>
-<p></p><p align="justify">On the eve of Chinese New Year, a joyous occasion, we want our students to not only enjoy but to remember the less privileged old folks. Together with the VIA coordinator, we organise a hamper wrapping competition. All hampers made by the students would be given to the old folks from Lions’ Home. The old folks are also invited to enjoy the multi-racial concert celebration we have in school.</p>
-<img src="/images/mtl1.png">
+<p><u>Chinese New Year Concert </u></p>
+<p></p><p align="justify">On the Chinese New Year celebration concert, students were engaged in a festive mood by the mere presence of the God of Fortune and the Lion Dance Troupe.  This year, we had the privilege of our alumni, Glenn Yong to join us in the celebration.  He sang a few songs including singing along Chinese New Year songs to liven up the mood.</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 40%;"><img src="/images/Chinese_New_Year_Concert.JPG"></td>
+</tr>
+</tbody>
+</table>	
 <p><u>MT Fortnight Cultural activities for our students</u></p>
-<p></p><p align="justify">In order to expose our students to different cultural activities, we organise various activities for our students during the Mother Tongue fortnight, such as Lion Dance, cultural musical instrument appreciation, clay sculpture, and bamboo books.&nbsp;</p>
-<img src="/images/mtl2.jpg">
+<p></p><p align="justify">In order to expose our students to different cultural activities, we organise various activities for our students during the Mother Tongue fortnight, such as traditional costume, bamboo slip, paper folding, tea appreciation and shadow puppet.  One key highlight for this year is the sharing by students during Morning Assembly.</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 30%;"><img src="/images/MTL_2A.jpg"></td>
+<td style="width: 30%;"><img src="/images/MTL9.JPG"></td>
+<td style="width: 30%;"><img src="/images/MTL10.jpg"></td>
+</tr>
+</tbody>
+</table>
 <p><u>Mid-Autumn Festival (September)</u></p>
-<p>Information Board &amp; Lantern Making with Procession</p>
+<p>MTL Department collaboration with SWB</p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 45%;"><img src="/images/mtl3.jpg"></td>
-<td style="width: 33%;"><img src="/images/mtl4.jpg"></td>
-<td style="width: 22%;">&nbsp;</td>
+<td style="width: 50%;"><img src="/images/MTL11.JPG"></td>
 </tr>
 </tbody>
 </table>
-<p><u>Exposure / Competition</u></p>
-<img style="width: 60%;" src="/images/mtl5.jpg">
-<p style="text-align: center;">2022 National Bilingual Debate Competition</p>
-<img style="width: 60%;" src="/images/mtl6.jpg">
-<p style="text-align: center;">Peicai Reading Programme (Poster Design Competition)</p>
+<p>Exposure / Competition</p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 50%;"><img src="/images/mtl7.jpg"></td>
-<td style="width: 50%;"><img src="/images/mtl8.jpg"></td>
+<td style="width: 50%;"><img src="/images/MTL12.JPG"></td>
 </tr>
 </tbody>
 </table>
-<p style="text-align: center;">Sec 3 Journalism Programme (NewsMaker) Chinese Language</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 100%;"><img src="/images/MTL13.JPG"></td>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 100%;"><img src="/images/MTL14.JPG"></td>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 100%;"><img src="/images/MTL15A.JPG"></td>
+</tr>
+</tbody>
+</table>
+
 <p><span style="text-decoration: underline;"><strong>Malay Language and Culture</strong></span></p>
 <p><strong>Malay Language</strong></p>
-<p></p><p align="justify">To achieve our Mother Tongue department mission, we embark on several programmes to enhance our students’ language skills. These programmes include ‘Class Library Programme’, the ‘MTL Intensive Programme for our Graduating Classes’ as well as the ‘Conversational Chinese and Malay Programme’ for our Secondary One student’s.&nbsp;</p>
+<p></p><p align="justify">To achieve our Mother Tongue department mission, we embark on several programmes to enhance our students’ language skills. These programmes include ‘Class Library Programme’, the ‘MTL Intensive Programme for our Graduating Classes’ as well as the ‘Conversational Chinese and Malay Programme’ for our Secondary One student’s. </p>
 <p><strong>Malay Culture</strong></p>
 <p></p><p align="justify">In addition to our commitment to nurture students to be proficient users of the Malay language, we have also included enrichment activities to enhance our students’ knowledge about the Malay culture. These activities are as follows:</p>
-<p><u>MT Fortnight Cultural activities for our students</u></p><p></p><p align="justify">The department has organized workshops such as Seni Khat, Dikir Barat, Malay Dance and Kompang as well as Acting (Opera Theatre, Bangsawan) for our students. These workshops are conducted to enhance students’ interest and appreciation of Malay culture.&nbsp;</p><table style="border-collapse: collapse; width: 100%;" border="1">
+<p><u>MT Fortnight Cultural activities for our students</u></p><p></p><p align="justify">The department has organized workshops such as Seni Khat, Dikir Barat, Malay Dance and Kompang as well as Acting (Opera Theatre, Bangsawan) for our students. These workshops are conducted to enhance students’ interest and appreciation of Malay culture.&nbsp;</p>
+<p><u>Hari Raya Celebration</u></p><p></p>
+<p></p><p align="justify">During the celebration, students and staff were presented with numerous segments of joyous get-together, such as silat performance, dikir barat, Malay dance, teacher’s singing along and samping tying contest.</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 50%;">
-<p><u>Festive Celebrations – Lunar New Year</u></p>
-<p></p><p align="justify">Our students are given the opportunity to showcase their performing talents in Dikir Barat and Tarian Melayu. The concert items are solely organized and planned by students. Malay Dance Performers for 2022 CNY Celebrations
-</p></td><td style="width: 50%;"><img src="/images/mtl9.jpg"></td>
-	
-
-
-</tr></tbody></table><table style="border-collapse: collapse; width: 100%;" border="1">
+<td style="width: 36%;"><img src="/images/MTL17.JPG"></td>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 36%;"><img src="/images/mtl10.jpg"></td>
-<td style="width: 36%;"><img src="/images/mtl11.jpg"></td>
-<td style="width: 28%;"><img src="/images/mtl12.jpg"></td>
+<td style="width: 36%;"><img src="/images/MTL18.JPG"></td>
 </tr>
 </tbody>
 </table>
 <p><u>External Exposure / Competition</u></p>
-<p></p><p align="justify">Malay Language Student Ambassador organised by Malay Language Council of Singapore in conjunction to National Malay Language Month Movement</p>
-<table style="border-collapse: collapse; width: 100%;" border="0">
+<table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 40%;"><img src="/images/mtl13.jpg"></td>
-<td style="width: 30%;">&nbsp;</td>
+<td style="width: 50%;"><img src="/images/MTL19.jpg"></td>
+<td style="width: 50%;"><img src="/images/MTL20.jpg"></td>
 </tr>
 </tbody>
 </table>
-<p>Rakan Bahasa 2022 &amp; 2021</p>
-<p><u>Language Competition</u></p>
-<p>Pena Emas (Essay writing competition by EDN)</p>
-<table style="border-collapse: collapse; width: 100%;" border="0">
+<table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 31%;"><img src="/images/mtl14.png"></td>
-<td style="width: 28%;"><img src="/images/mtl15.jpg"></td>
-<td style="width: 41%;">&nbsp;</td>
-</tr>
-<tr>
-<td style="width: 31%;">Giovanna (3C4)</td>
-<td style="width: 28%;">Nur Syaqirah (3C3)</td>
-<td style="width: 41%;">&nbsp;</td>
+<td style="width: 50%;"><img src="/images/MTL21.jpg"></td>
+<td style="width: 50%;"><img src="/images/MTL22.jpg"></td>
 </tr>
 </tbody>
 </table>
-<p></p><p align="justify">National ML Essay Writing Top 10 (Winner)&nbsp;National ML Essay Writing Competition (Gold Award)</p>
-<table style="border-collapse: collapse; width: 100%;" border="0">
-<tbody>
-<tr>
-<td style="width: 60%;"><img src="/images/mtl17.jpg"></td>
-<td style="width: 40%;">&nbsp;</td>
-</tr>
-</tbody>
-</table>
-<p></p><p align="justify">Sec 3 Journalism Programme (NewsMaker) Malay Language</p>
 <p>MTL Archive link</p><h4><strong>Syllabus</strong></h4>
 <p><a href="https://express.adobe.com/page/yyrWK7WrsN4f2">https://express.adobe.com/page/yyrWK7WrsN4f2</a></p>
 <table style="border-collapse: collapse; width: 100%;" border="0">
