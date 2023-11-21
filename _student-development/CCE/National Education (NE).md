@@ -27,7 +27,7 @@ variant: markdown
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 100%;"><img src="/images/Cross_cultural_Literacy.jpg">1. Developing Cross-cultural Literacy through Ethnic Interactive Performances .<br>2. Fostering Students’ Understanding of Racial Diversity through Class Bonding</td>
+<td style="width: 100%;"><img src="/images/Cross_cultural_Literacy_v1.jpg"></td>
 </tr>
 </tbody>
 </table><hr>
