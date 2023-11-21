@@ -16,9 +16,9 @@ third_nav_title: CCE
 <p></p><p align="justify">Character &amp; Citizenship Education (CCE) forms an integral part of every student’s school experience. CCE is central to the Framework for 21st Century Competencies and Student Outcomes. At the heart of CCE is the teaching of core values and social-emotional competencies with a focus on developing a sense of purpose in our students as they prepare to take on the challenges of a fast-evolving world beyond the school. </p>
 	<p><b>Framework for 21st Century Competencies and Student Outcomes</b></p>
 <img style="width: 100%;" src="/images/framework.jpg">
-	<p><b>The CCE 2021 Curriculum Frame spells out the three key elements of CCE</b></p>
-	<img style="width: 100%;" src="/images/curriculum_frame.jpg">
-	<p><b>Key Programmes:</b><br>The wide variety of exciting Character and Citizenship Education (CCE) opportunities in PCSS nurture critical 21st Century Competencies (21CC) such as collaboration and communication skills as well as develop values for the future.</p>
-	<p></p><h4>DEVELOPING STRENGTH OF CHARACTER</h4><p></p>
-	<img style="width: 100%;" src="/images/strength_of_character.jpg">
+<p><b>The CCE 2021 Curriculum Frame spells out the three key elements of CCE</b></p>
+<img style="width: 100%;" src="/images/curriculum_frame.jpg">
+<p></p><h4>DEVELOPING STRENGTH OF CHARACTER</h4><p></p>
+<p><b>Key Programmes:</b><br>The wide variety of exciting Character and Citizenship Education (CCE) opportunities in PCSS nurture critical 21st Century Competencies (21CC) such as collaboration and communication skills as well as develop values for the future.</p>
+<img style="width: 100%;" src="/images/strength_of_character.jpg">
 </li></ol>
