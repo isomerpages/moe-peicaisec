@@ -98,11 +98,11 @@ variant: markdown
 <tr>
 <td width="141"><strong>GCE O-Level / G3 Upper Secondary Science:</strong></td>
 <td width="400">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/5105_y24_sy.pdf">6091 Physics</a></p>
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/5107_y24_sy.pdf">5086 Science (Physics, Chemistry) </a></p>
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/5105_y24_sy.pdf">6092 Chemistry</a></p>
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/5107_y24_sy.pdf">5088 Science (Chemistry, Biology) </a></p>
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/5105_y24_sy.pdf">6093 Biology</a></p>
+<p><a href="www-seab-gov-sg-admin.cwp.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/6091_y24_sy.pdf">6091 Physics</a></p>
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/5086_y24_sy.pdf">5086 Science (Physics, Chemistry) </a></p>
+<p><a href="https://www-seab-gov-sg-admin.cwp.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/6092_y24_sy.pdf">6092 Chemistry</a></p>
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/5088_y24_sy.pdf">5088 Science (Chemistry, Biology) </a></p>
+<p><a href="https://www-seab-gov-sg-admin.cwp.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/6093_y24_sy.pdf">6093 Biology</a></p>
 </td>
 </tr>
 <tr>
