@@ -2,11 +2,12 @@
 title: Parent Support Group (PSG)
 permalink: /parents/parent-support-group-psg/
 description: ""
+variant: markdown
 ---
 <p>In PCSS, we believe that a strong home-school partnership is a key enabler to develop our students to their full potential and enable them to fulfill their aspirations.</p>
 <p>The Peicai Parent Support Group (PSG) works in very close partnership with the school to support the school in providing a dynamic and vibrant holistic education as well as environment for students to develop and excel.</p>
 <p><strong>Roles of the PSG</strong></p>
-<img style="width: 90%;" src="/images/psg1.png" />
+<img style="width: 90%;" src="/images/psg1.png">
 <p><strong>Partnering the School</strong></p>
 <p>Parents can support and work in close partnership with the school via the&nbsp;<strong>3 Ts</strong>.</p>
 <table>
@@ -24,10 +25,10 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;" width="208">
-<p>Volunteer time to participate in the school&rsquo;s events and programmes which will help parents experience first hand what their children do in school</p>
+<p>Volunteer time to participate in the school’s events and programmes which will help parents experience first hand what their children do in school</p>
 </td>
 <td style="text-align: center;" width="208">
-<p>Share knowledge, expertise, networks with the school to add value to the school&rsquo;s programmes.</p>
+<p>Share knowledge, expertise, networks with the school to add value to the school’s programmes.</p>
 <p>These could be for students, staff or other parents.</p>
 </td>
 <td style="text-align: center;" width="208">
@@ -36,7 +37,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p><strong>Key Highlights of PSG Activities and Programmes in 2022</strong></p>
+<p><strong>Key Highlights of PSG Activities and Programmes in 2023</strong></p>
 <img src="/images/psg31.jpg"><br>
 <img src="/images/psg41.jpg">
 <p>Parenting Talks 2022</p>
@@ -133,8 +134,8 @@ description: ""
 </tbody>
 </table>
 <p><strong>Join us a member of PSG</strong></p>
-<p>We encourage all parents to be a member of the school&rsquo;s PSG as it would instantly connect you with a number of parents with whom you would be able to interact and share ideas as well as thoughts on how you could further support your child in his/her journey as a teenager.</p>
-<p>If you would like to be a member of Peicai&rsquo;s PSG, please register via the QR Code or link provided below and one of the PSG Teacher Advisors (<em>Mr James Koh, Year Head/Upper Sec</em>&nbsp;or&nbsp;<em>Mrs Merlinda Joseph, Year Head/Lower Secondary</em>) would be in touch with you.&nbsp;</p>
-<img style="width: 25%;" src="/images/psg61.png" />
+<p>We encourage all parents to be a member of the school’s PSG as it would instantly connect you with a number of parents with whom you would be able to interact and share ideas as well as thoughts on how you could further support your child in his/her journey as a teenager.</p>
+<p>If you would like to be a member of Peicai’s PSG, please register via the QR Code or link provided below and one of the PSG Teacher Advisors (<em>Mr James Koh, Year Head/Upper Sec</em>&nbsp;or&nbsp;<em>Mrs Merlinda Joseph, Year Head/Lower Secondary</em>) would be in touch with you.&nbsp;</p>
+<img style="width: 25%;" src="/images/psg61.png">
 <p style="text-align: center;"><a href="https://go.gov.sg/pc-psg2022">https://go.gov.sg/pc-psg2022</a></p>
 <p>Should you like to find out more about PSG@Peicai, you may write to us at <a href="mailto:peicai_ss@moe.edu.sg">peicai_ss@moe.edu.sg</a>.</p>
