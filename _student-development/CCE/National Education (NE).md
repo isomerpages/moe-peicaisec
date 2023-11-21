@@ -37,7 +37,7 @@ variant: markdown
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 100%;"><img src="/images/National_Day_2023.jpg"></td>
+<td style="width: 100%;"><img src="/images/National_Day_2023v.jpg"></td>
 </tr>
 </tbody>
 </table></li></ol>
