@@ -102,14 +102,6 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-
-
-
-
-
-
-
-
 <h4><strong>Syllabus</strong></h4>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
