@@ -31,8 +31,8 @@ variant: markdown
 <p></p><p align="justify">On the Chinese New Year celebration concert, students were engaged in a festive mood by the mere presence of the God of Fortune and the Lion Dance Troupe.  This year, we had the privilege of our alumni, Glenn Yong to join us in the celebration.  He sang a few songs including singing along Chinese New Year songs to liven up the mood.</p>
 <img src="/images/Chinese_New_Year_Concert.JPG">
 <p><u>MT Fortnight Cultural activities for our students</u></p>
-<p></p><p align="justify">In order to expose our students to different cultural activities, we organise various activities for our students during the Mother Tongue fortnight, such as Lion Dance, cultural musical instrument appreciation, clay sculpture, and bamboo books.&nbsp;</p>
-<img src="/images/mtl2.jpg">
+<p></p><p align="justify">In order to expose our students to different cultural activities, we organise various activities for our students during the Mother Tongue fortnight, such as traditional costume, bamboo slip, paper folding, tea appreciation and shadow puppet.  One key highlight for this year is the sharing by students during Morning Assembly.</p>
+<img src="/images/MTL_2A.jpg">
 <p><u>Mid-Autumn Festival (September)</u></p>
 <p>Information Board &amp; Lantern Making with Procession</p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
