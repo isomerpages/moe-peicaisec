@@ -27,9 +27,9 @@ variant: markdown
 <p></p><p align="justify">To achieve our Mother Tongue department mission, we embark on several programmes to enhance our students’ language skills. These programmes aimed at enhancing the necessary language skills, i.e speaking, listening, reading and writing. Our key programmes include ‘Class Library Programme’, the ‘MTL Intensive Programme for our Graduating Classes’ as well as the ‘Conversational Chinese and Malay Programme’ for our Secondary One student’s.</p>
 <p><strong>Chinese Culture</strong></p>
 <p></p><p align="justify">To inspire the students’ love for their culture, and to seize every opportunity to teach our students values, we organise the following activities for our students each year:</p>
-<p><u>Chinese New Year concert and Hamper Wrapping for Lion’s Home for the Aged</u></p>
-<p></p><p align="justify">On the eve of Chinese New Year, a joyous occasion, we want our students to not only enjoy but to remember the less privileged old folks. Together with the VIA coordinator, we organise a hamper wrapping competition. All hampers made by the students would be given to the old folks from Lions’ Home. The old folks are also invited to enjoy the multi-racial concert celebration we have in school.</p>
-<img src="/images/mtl1.png">
+<p><u>Chinese New Year Concert </u></p>
+<p></p><p align="justify">On the Chinese New Year celebration concert, students were engaged in a festive mood by the mere presence of the God of Fortune and the Lion Dance Troupe.  This year, we had the privilege of our alumni, Glenn Yong to join us in the celebration.  He sang a few songs including singing along Chinese New Year songs to liven up the mood.</p>
+<img src="/images/Chinese_New_Year_Concert.JPG">
 <p><u>MT Fortnight Cultural activities for our students</u></p>
 <p></p><p align="justify">In order to expose our students to different cultural activities, we organise various activities for our students during the Mother Tongue fortnight, such as Lion Dance, cultural musical instrument appreciation, clay sculpture, and bamboo books.&nbsp;</p>
 <img src="/images/mtl2.jpg">
