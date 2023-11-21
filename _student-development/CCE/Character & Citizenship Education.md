@@ -6,7 +6,7 @@ variant: markdown
 third_nav_title: CCE
 ---
 <h4><strong>Objectives</strong></h4>
-<p>In Peicai, we aim to develop in our students</p>
+<p>In Peicai, we aim to inculcate in our students:</p>
 <ol>
 <li><strong>Good Character<br></strong><p align="justify">Students are enabled to have a sound moral compass, a strong sense of right and wrong, think critically and ethically, be discerning in judgement, take responsibility for choices and actions, be caring towards others and strive for excellence.
 </p></li><li><strong>Resilience and Social-Emotional Well-Being</strong><br><p align="justify">Students are enabled to have a balanced sense of self, form healthy relationships, be resilient when faced with challenges, find meaning in life and have a sense of gratitude and appreciation.
@@ -18,6 +18,7 @@ third_nav_title: CCE
 <img style="width: 100%;" src="/images/framework.jpg">
 	<p><b>The CCE 2021 Curriculum Frame spells out the three key elements of CCE</b></p>
 	<img style="width: 100%;" src="/images/curriculum_frame.jpg">
+	<p><b>Key Programmes:</b><br>The wide variety of exciting Character and Citizenship Education (CCE) opportunities in PCSS nurture critical 21st Century Competencies (21CC) such as collaboration and communication skills as well as develop values for the future.</p>
 	<p></p><h4>DEVELOPING STRENGTH OF CHARACTER</h4><p></p>
 	<img style="width: 100%;" src="/images/strength_of_character.jpg">
 </li></ol>
