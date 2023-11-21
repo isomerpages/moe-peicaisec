@@ -125,34 +125,6 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-
-<p>Rakan Bahasa 2022 &amp; 2021</p>
-<p><u>Language Competition</u></p>
-<p>Pena Emas (Essay writing competition by EDN)</p>
-<table style="border-collapse: collapse; width: 100%;" border="0">
-<tbody>
-<tr>
-<td style="width: 31%;"><img src="/images/mtl14.png"></td>
-<td style="width: 28%;"><img src="/images/mtl15.jpg"></td>
-<td style="width: 41%;">&nbsp;</td>
-</tr>
-<tr>
-<td style="width: 31%;">Giovanna (3C4)</td>
-<td style="width: 28%;">Nur Syaqirah (3C3)</td>
-<td style="width: 41%;">&nbsp;</td>
-</tr>
-</tbody>
-</table>
-<p></p><p align="justify">National ML Essay Writing Top 10 (Winner)&nbsp;National ML Essay Writing Competition (Gold Award)</p>
-<table style="border-collapse: collapse; width: 100%;" border="0">
-<tbody>
-<tr>
-<td style="width: 60%;"><img src="/images/mtl17.jpg"></td>
-<td style="width: 40%;">&nbsp;</td>
-</tr>
-</tbody>
-</table>
-<p></p><p align="justify">Sec 3 Journalism Programme (NewsMaker) Malay Language</p>
 <p>MTL Archive link</p><h4><strong>Syllabus</strong></h4>
 <p><a href="https://express.adobe.com/page/yyrWK7WrsN4f2">https://express.adobe.com/page/yyrWK7WrsN4f2</a></p>
 <table style="border-collapse: collapse; width: 100%;" border="0">
