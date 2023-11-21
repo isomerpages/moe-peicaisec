@@ -112,16 +112,16 @@ variant: markdown
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 50%;"><img src="/images/MTL19.JPG"></td>
-<td style="width: 50%;"><img src="/images/MTL20.JPG"></td>
+<td style="width: 50%;"><img src="/images/MTL19.jpg"></td>
+<td style="width: 50%;"><img src="/images/MTL20.jpg"></td>
 </tr>
 </tbody>
 </table>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 50%;"><img src="/images/MTL21.JPG"></td>
-<td style="width: 50%;"><img src="/images/MTL22.JPG"></td>
+<td style="width: 50%;"><img src="/images/MTL21.jpg"></td>
+<td style="width: 50%;"><img src="/images/MTL22.jpg"></td>
 </tr>
 </tbody>
 </table>
