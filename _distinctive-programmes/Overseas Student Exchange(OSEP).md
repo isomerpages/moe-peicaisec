@@ -2,12 +2,13 @@
 title: Overseas Student Exchange(OSEP)
 permalink: /distinctive-edge/osep-overseas-student-exchange/
 description: ""
+variant: markdown
 ---
 <p></p><h4><strong>PCSS 2023 Overseas Student Exchange</strong></h4><p></p>
 <table>
 <tbody>
 <tr>
-<th><img src="/images/01 osep.JPG" style="width: 100%;"><br>	
+<th><img src="/images/OSEP_Open_House_Poster_2023v1.jpg" style="width: 100%;"><br>	
 </th>
 </tr></tbody>
 </table>
