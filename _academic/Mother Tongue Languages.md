@@ -109,15 +109,23 @@ variant: markdown
 </tbody>
 </table>
 <p><u>External Exposure / Competition</u></p>
-<p></p><p align="justify">Malay Language Student Ambassador organised by Malay Language Council of Singapore in conjunction to National Malay Language Month Movement</p>
-<table style="border-collapse: collapse; width: 100%;" border="0">
+<table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 40%;"><img src="/images/mtl13.jpg"></td>
-<td style="width: 30%;">&nbsp;</td>
+<td style="width: 50%;"><img src="/images/MTL19.JPG"></td>
+<td style="width: 50%;"><img src="/images/MTL20.JPG"></td>
 </tr>
 </tbody>
 </table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="/images/MTL21.JPG"></td>
+<td style="width: 50%;"><img src="/images/MTL22.JPG"></td>
+</tr>
+</tbody>
+</table>
+
 <p>Rakan Bahasa 2022 &amp; 2021</p>
 <p><u>Language Competition</u></p>
 <p>Pena Emas (Essay writing competition by EDN)</p>
