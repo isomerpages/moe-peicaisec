@@ -43,7 +43,7 @@ description: ""
 <tr>
 <td width="141"><strong></strong></td>
 <td width="300">
-<p><a href="www.moe.gov.sg/-/media/files/secondary/syllabuses-nt/science/2019-computer-applications-syllabus.pdf">7018 Computer Applications </a></p>
+<p><a media="" href="<a href=">7018 Computer Applications </a></p>
 </td>
 </tr>
 <tr>
