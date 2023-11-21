@@ -64,13 +64,6 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-<table style="border-collapse: collapse; width: 70%;" border="1">
-<tbody>
-<tr>
-<td style="width: 40%;"><img src="/images/MTL12.JPG"></td>
-</tr>
-</tbody>
-</table>
 
 
 <p><u>Exposure / Competition</u></p>
