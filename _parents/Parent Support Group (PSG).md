@@ -4,8 +4,8 @@ permalink: /parents/parent-support-group-psg/
 description: ""
 variant: markdown
 ---
-<p>In PCSS, we believe that a strong home-school partnership is a key enabler to develop our students to their full potential and enable them to fulfill their aspirations.</p>
-<p>The Peicai Parent Support Group (PSG) works in very close partnership with the school to support the school in providing a dynamic and vibrant holistic education as well as environment for students to develop and excel.</p>
+<p></p><p align="justify">In PCSS, we believe that a strong home-school partnership is a key enabler to develop our students to their full potential and enable them to fulfill their aspirations.</p>
+<p></p><p align="justify">The Peicai Parent Support Group (PSG) works in very close partnership with the school to support the school in providing a dynamic and vibrant holistic education as well as environment for students to develop and excel.</p>
 <p><strong>Roles of the PSG</strong></p>
 <img style="width: 90%;" src="/images/psg1.png">
 <p><strong>Partnering the School</strong></p>
@@ -25,14 +25,14 @@ variant: markdown
 </tr>
 <tr>
 <td style="text-align: center;" width="208">
-<p>Volunteer time to participate in the school’s events and programmes which will help parents experience first hand what their children do in school</p>
+<p></p><p align="justify">Volunteer time to participate in the school’s events and programmes which will help parents experience first hand what their children do in school</p>
 </td>
 <td style="text-align: center;" width="208">
-<p>Share knowledge, expertise, networks with the school to add value to the school’s programmes.</p>
+<p></p><p align="justify">Share knowledge, expertise, networks with the school to add value to the school’s programmes.</p>
 <p>These could be for students, staff or other parents.</p>
 </td>
 <td style="text-align: center;" width="208">
-<p>Attend PSG Meetings and Breakfast Sessions with the Principal and School Management to share feedback and ideas on policies, processes and programmes that could further enrich the holistic education for all students in the school</p>
+<p></p><p align="justify">Attend PSG Meetings and Breakfast Sessions with the Principal and School Management to share feedback and ideas on policies, processes and programmes that could further enrich the holistic education for all students in the school</p>
 </td>
 </tr>
 </tbody>
@@ -104,7 +104,7 @@ variant: markdown
 </tbody>
 </table>
 <p><strong>Join us a member of PSG</strong></p>
-<p>We encourage all parents to be a member of the school’s PSG as it would instantly connect you with a number of parents with whom you would be able to interact and share ideas on how you could further support your child in his/her journey as a teenager.</p>
-<p>If you would like to be a member of Peicai’s PSG, please register via the QR Code or link provided below and the PSG Teacher Advisors would be in touch with you.</p>
+<p></p><p align="justify">We encourage all parents to be a member of the school’s PSG as it would instantly connect you with a number of parents with whom you would be able to interact and share ideas on how you could further support your child in his/her journey as a teenager.</p>
+<p></p><p align="justify">If you would like to be a member of Peicai’s PSG, please register via the QR Code or link provided below and the PSG Teacher Advisors would be in touch with you.</p>
 <img style="width: 40%;" src="/images/PSGQR.jpg">
 <p style="text-align: center;"><a href="https://form.gov.sg/654c828d9c7f400011de2a9f">https://go.gov.sg/pc-psg2023-24</a></p>
