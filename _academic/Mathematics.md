@@ -14,26 +14,23 @@ variant: markdown
 <h4><strong>Department Programme/Highlights/ Student Outcomes</strong></h4>
 <p><b>Math Competitions</b></p>
 <p></p><p align="justify">We offer opportunities for students with a strong passion and aptitude for Mathematics to participate in a variety of mathematics competitions and events.  These include the Singapore Mathematical Olympiad (SMO), Singapore and Asian Mathematics Olympiad (SASMO) and Singapore Math Kangaroo Contest (SMKC).</p>
-
-
-
-
-
-
-<p>Art is a compulsory common curriculum subject taken at the lower secondary level.
-Peicai students with an interest and aptitude for the subject will be able to take Art as an elective,
-at the upper secondary level.</p>
+<p><b>Math Modelling</b></p>
+<p></p><p align="justify">Through the integration of various engaging activities, technology, and real-world problem-solving scenarios, students are given the support they need to learn math in a creative and less rigid environment.</p>
+<p><b>Computational Thinking</b></p>
+<p></p><p align="justify">Students actively participate in coding activities and are encouraged to create algorithms to solve problems. This helps them enhance their analytical and algorithmic thinking skills, which are highly transferable to various fields and careers.</p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/visual_express_art_v4.jpg"></td>
-<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/visual_express_art_v5.jpg"></td>
-<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/visual_express_art_v6.jpg"></td>
+<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/Math_1.jpg"></td>
+<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/Math_2.jpg"></td>
 </tr>
 <tr>
-<td style="width: 33.3333%;"><p style="text-align: center;">Fostering collaboration spirit through group projects in problem based solving  </p></td>
-<td style="width: 33.3333%;"><p style="text-align: center;">Honing communication and presentation skills during sharing of artworks</p></td>
-<td style="width: 33.3333%;"><p style="text-align: center;">Developing students craft by learning to use tools, learning artist conventions, and learning to create by hand</p></td>
+<td style="width: 33.3333%;"><p style="text-align: center;">Zhou Xiaoya 3C4
+Gold Award Recipient of the Singapore &amp; Asian Schools Math Olympiad (SASMO) 2023
+</p></td>
+<td style="width: 33.3333%;"><p style="text-align: center;">Bridging Math and Reality: 
+Students collaborate in groups to apply calculations to design and construct bridge models from materials such as ice-cream sticks, straws and more.
+</p></td>
 </tr>
 <tr>
 </tr>
