@@ -32,15 +32,21 @@ variant: markdown
 <img src="/images/Chinese_New_Year_Concert.JPG">
 <p><u>MT Fortnight Cultural activities for our students</u></p>
 <p></p><p align="justify">In order to expose our students to different cultural activities, we organise various activities for our students during the Mother Tongue fortnight, such as traditional costume, bamboo slip, paper folding, tea appreciation and shadow puppet.  One key highlight for this year is the sharing by students during Morning Assembly.</p>
-<img src="/images/MTL_2A.jpg">
-<p><u>Mid-Autumn Festival (September)</u></p>
-<p>Information Board &amp; Lantern Making with Procession</p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 45%;"><img src="/images/mtl3.jpg"></td>
-<td style="width: 33%;"><img src="/images/mtl4.jpg"></td>
-<td style="width: 22%;">&nbsp;</td>
+<td style="width: 30%;"><img src="/images/MTL_2A.jpg"></td>
+<td style="width: 30%;"><img src="/images/MTL9.JPG"></td>
+<td style="width: 30%;"><img src="/images/MTL10.jpg"></td>
+</tr>
+</tbody>
+</table>
+<p><u>Mid-Autumn Festival (September)</u></p>
+<p>MTL Department collaboration with SWB</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 45%;"><img src="/images/MTL11.JPG"></td>
 </tr>
 </tbody>
 </table>
