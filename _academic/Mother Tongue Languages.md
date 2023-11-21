@@ -53,7 +53,14 @@ variant: markdown
 <tbody>
 <tr>
 <td style="width: 50%;"><img src="/images/MTL11.JPG"></td>
-	<td style="width: 50%;"><img src="/images/MTL12.JPG"></td>
+<td style="width: 50%;"><img src="/images/MTL12.JPG"></td>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 100%;"><img src="/images/MTL13.JPG"></td>
 </tr>
 </tbody>
 </table>
@@ -64,6 +71,7 @@ variant: markdown
 </tr>
 </tbody>
 </table>
+
 
 <p><u>Exposure / Competition</u></p>
 <img style="width: 60%;" src="/images/mtl5.jpg">
