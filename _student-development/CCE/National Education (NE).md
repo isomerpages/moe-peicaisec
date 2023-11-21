@@ -7,7 +7,7 @@ variant: markdown
 ---
 <h4><strong>National Education (NE)</strong></h4>
 <p><b>Objectives:</b></p>
-<p>In Peicai, we aim to develop in students:</p>
+<p>In Peicai, we aim to inculcate in our students:</p>
 <ol>
 <li><strong>A Sense of Belonging;</strong><p align="justify">where students develop a deeper understanding of who they are as Singaporeans, and a shared understanding of the values that are important to us as a nation.
 </p></li><li><strong>A Sense of Reality;</strong><p align="justify"> where students are aware of contemporary realities — including Singapore’s constraints and vulnerabilities — which affect us as a nation amidst the backdrop of a less predictable world.
