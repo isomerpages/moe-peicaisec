@@ -19,6 +19,6 @@ third_nav_title: CCE
 <p><b>The CCE 2021 Curriculum Frame spells out the three key elements of CCE</b></p>
 <img style="width: 100%;" src="/images/curriculum_frame.jpg">
 <p></p><h4>DEVELOPING STRENGTH OF CHARACTER</h4><p></p>
-<p><b>Key Programmes:</b><br>The wide variety of exciting Character and Citizenship Education (CCE) opportunities in PCSS nurture critical 21st Century Competencies (21CC) such as collaboration and communication skills as well as develop values for the future.</p>
+<p></p><h4><strong>Key Programmes</strong></h4><br>The wide variety of exciting Character and Citizenship Education (CCE) opportunities in PCSS nurture critical 21st Century Competencies (21CC) such as collaboration and communication skills as well as develop values for the future.<p></p>
 <img style="width: 100%;" src="/images/strength_of_character.jpg">
 </li></ol>
