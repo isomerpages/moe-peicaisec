@@ -43,14 +43,14 @@ variant: markdown
 </table>
 <p><u>Mid-Autumn Festival (September)</u></p>
 <p>MTL Department collaboration with SWB</p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 70%;" border="1">
 <tbody>
 <tr>
 <td style="width: 45%;"><img src="/images/MTL11.JPG"></td>
 </tr>
 </tbody>
 </table>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 70%;" border="1">
 <tbody>
 <tr>
 <td style="width: 40%;"><img src="/images/MTL12.JPG"></td>
@@ -58,13 +58,6 @@ variant: markdown
 </tbody>
 </table>
 
-	
-	
-	
-	
-	
-	
-	
 <p><u>Exposure / Competition</u></p>
 <img style="width: 60%;" src="/images/mtl5.jpg">
 <p style="text-align: center;">2022 National Bilingual Debate Competition</p>
