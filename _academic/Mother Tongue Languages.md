@@ -71,21 +71,23 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-
-
-<p><u>Exposure / Competition</u></p>
-<img style="width: 60%;" src="/images/mtl5.jpg">
-<p style="text-align: center;">2022 National Bilingual Debate Competition</p>
-<img style="width: 60%;" src="/images/mtl6.jpg">
-<p style="text-align: center;">Peicai Reading Programme (Poster Design Competition)</p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 50%;"><img src="/images/mtl7.jpg"></td>
-<td style="width: 50%;"><img src="/images/mtl8.jpg"></td>
+<td style="width: 100%;"><img src="/images/MTL14.JPG"></td>
 </tr>
 </tbody>
 </table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 100%;"><img src="/images/MTL15A.JPG"></td>
+</tr>
+</tbody>
+</table>
+
+
+
 <p style="text-align: center;">Sec 3 Journalism Programme (NewsMaker) Chinese Language</p>
 <p><span style="text-decoration: underline;"><strong>Malay Language and Culture</strong></span></p>
 <p><strong>Malay Language</strong></p>
