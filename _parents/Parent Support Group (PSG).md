@@ -42,7 +42,7 @@ variant: markdown
 <img src="/images/PSG2.JPG"><br>
 <img src="/images/PSG3.JPG"><br>
 <img src="/images/PSG4.JPG"><br>
-<img src="/images/PSG5.JPG"><br>
+<img src="/images/PSG5.JPG">
 <p>Parenting Talks 2022</p>
 <table width="624">
 <tbody>
@@ -101,7 +101,6 @@ variant: markdown
 <p>29 Sept</p>
 </td>
 </tr>
-
 </tbody>
 </table>
 <p><strong>Join us a member of PSG</strong></p>
