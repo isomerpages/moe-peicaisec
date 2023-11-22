@@ -49,8 +49,8 @@ variant: markdown
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 50%;"><img style="width: 50%;" src="/images/English_Dept_9.jpg"></td>
-<td style="width: 50%;"><img style="width: 50%;" src="/images/English_Dept_10.jpg"></td>
+<td style="width: 50%;"><img style="width: 100%;" src="/images/English_Dept_9.jpg"></td>
+<td style="width: 50%;"><img style="width: 100%;" src="/images/English_Dept_10.jpg"></td>
 </tr>
 <tr>
 <td style="width: 50%;"><p style="text-align: center;">Empowering tomorrow's speakers: A student's enthusiastic leap during our Public Speaking workshop, captivating his audience with confidence.</p></td>
@@ -87,7 +87,41 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-<p dir="ltr"><strong><u>Drama Appreciation<br></u></strong>Upper Secondary Literature students are given the opportunity to attend musicals and plays. Over the years, students have attended staging of Phantom of the Opera, The Curious Incident of the Dog in the Nighttime, The Sound of Music and many more.&nbsp;</p>
+<p></p><p align="justify"><b><u>Debating Programme &amp; Championship<br></u></b>All Secondary Three students participate in debating workshops led by experienced debaters. These workshops provide a platform for students to practice skills like argument development and persuasive speech delivery. Through these experiences, students not only build confidence but also sharpen their critical thinking abilities. They then get the chance to showcase their skills in the Secondary Three Inter-class Debating Championship, where they can put their abilities to the test in friendly competition with their fellow students.</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img style="width: 100%;" src="/images/English_Dept_13.jpg"></td>
+<td style="width: 50%;"><img style="width: 100%;" src="/images/English_Dept_14.jpg"></td>
+</tr>
+<tr>
+<td style="width: 50%;"><p style="text-align: center;">Debating builds confidence: Empowering first-time debaters.</p>
+</td><td style="width: 50%;"><p style="text-align: center;">Engaging minds: Inter-class debates in action.</p>
+</td>
+</tr>
+<tr>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img style="width: 100%;" src="/images/English_Dept_15v.jpg"></td>
+<td style="width: 50%;"><img style="width: 70%;" src="/images/English_Dept_1.jpg"></td>
+</tr>
+<tr>
+<td style="width: 50%;"><p style="text-align: center;">Fueling thoughtful discourse: The Interclass Debating Championship ignites students' passion for thoughtful conversation.</p>
+</td><td style="width: 50%;"><p style="text-align: center;">On the verge of victory: A debater’s fierce rhetoric at the Interclass Debating Championship.</p>
+</td>
+</tr>
+<tr>
+</tr>
+</tbody>
+</table>
+
+
+
+
 <p dir="ltr"><strong><u>National Schools Literature Festival<br></u></strong>Selected students represent the school in various competitions organised during the National Schools Literature Festival, including Set Text Debate and Book Parade.&nbsp;</p>
 <h4><strong>Syllabus</strong></h4>
 <table style="border-collapse: collapse; width: 100%;" border="1">
