@@ -16,8 +16,7 @@ variant: markdown
 <tr>
 <td style="width: 33.3333%;"><p style="text-align: center;"></p></td>
 </tr>
-<tr>
-</tr>
 </tbody>
 </table>
-<p></p><h4><strong>Learning Outcomes</strong></h4>
+<p></p><h4><strong>Peicai PE Programmes</strong></h4>
+
