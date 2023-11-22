@@ -7,6 +7,7 @@ variant: markdown
 ---
 <h4 style="text-align: center;"><strong><u>Principal's List 2023</u></strong></h4>
 <h4 style="text-align: center;"><strong><u>End of Year Examination</u></strong></h4>
+<p style="text-align: center;">Semester Two</p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
