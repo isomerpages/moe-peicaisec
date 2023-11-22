@@ -60,7 +60,20 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-<p dir="ltr"><span style="text-decoration: underline;"><strong>English Week</strong></span><br>Students participate in various activities aimed at developing an appreciation for the language. Competitions are held where students demonstrate their understanding of the language through skits and performances. In 2021, students participated in a slew of activities, including the Secondary One students exercising their creative chops in creating a 55 word story.</p>
+<p></p><p align="justify"><span style="text-decoration: underline;"><strong>Creative Writing Programme</strong></span><br>Secondary Two students engage in an enriching programme led by renowned local writers, unlocking their creativity and imagination. They delve into diverse genres of writing, refining their skills and embracing experimentation. Encouraged to take risks and learn collaboratively, students develop their critical thinking skills, build confidence in their writing abilities and discover their creative potential, and in turn, enhance their ability to craft compelling essays.</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img style="width: 50%;" src="/images/English_Dept_11.jpg"></td>
+</tr>
+<tr>
+<td style="width: 50%;"><p style="text-align: center;">Empowering tomorrow's speakers: A student's enthusiastic leap during our Public Speaking workshop, captivating his audience with confidence.</p>
+</td>
+</tr>
+<tr>
+</tr>
+</tbody>
+</table>
 <img src="/images/ell4.png">
 	<p dir="ltr"><strong><u>Drama Appreciation<br></u></strong>Upper Secondary Literature students are given the opportunity to attend musicals and plays. Over the years, students have attended staging of Phantom of the Opera, The Curious Incident of the Dog in the Nighttime, The Sound of Music and many more.&nbsp;</p>
 <p dir="ltr"><strong><u>National Schools Literature Festival<br></u></strong>Selected students represent the school in various competitions organised during the National Schools Literature Festival, including Set Text Debate and Book Parade.&nbsp;</p>
