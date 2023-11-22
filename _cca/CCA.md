@@ -4,7 +4,7 @@ permalink: /cca/cca/
 description: ""
 variant: markdown
 ---
-<h4><strong>Co-Curricular Activities (CCA)</strong></h4>
+<h4><strong>Co-Curricular Activities (CCAs)- Aims &amp; LEAPS 2.0</strong></h4>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
