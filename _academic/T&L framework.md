@@ -32,7 +32,7 @@ description: ""
 	<li><b>Civic, Global Awareness and Cross-Cultural Literacy:</b>Understanding one's role and responsibilities in society, and appreciating global perspectives and navigating diverse cultures.</li>
 	<li><b>Critical, Adaptive and Inventive Thinking:</b>  Approaching challenges adaptively with creativity and a problem-solving mindset.</li>
 	<li><b>Communication, Collaboration, and Information Skills:</b>Effectively interacting, working in teams, and harnessing information in the digital age.</li></ul>
-	<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
 <td style="width: 100%;"><img style="width: 100%;" src="/images/T_and_L_3.jpg"></td>
