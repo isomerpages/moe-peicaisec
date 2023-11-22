@@ -5,37 +5,44 @@ description: ""
 variant: markdown
 ---
 <h4><strong>Learning Outcomes</strong></h4>
-<p dir="ltr">In Peicai Secondary School, we aim to develop in students the competencies that will enable them to be:</p>
-<ol>
-<li dir="ltr"><strong>Empathetic communicators</strong> who possess the values, dispositions and skills to listen actively to different perspectives; communicate confidently, effectively and sensitively while collaborating with others to work towards shared goals; and balance an appreciation of the Singapore spirit with multi-ethnic and multicultural sensitivities.&nbsp;</li>
-<li dir="ltr"><strong>Discerning Readers</strong> who possess broad worldviews by staying well informed and self-directed in the use of information, and are able to distinguish fact from falsehood by processing and evaluating information closely, critically and with discernment according to purpose, audience, context and culture.&nbsp;</li>
-<li dir="ltr"><strong>Creative Inquirers</strong> who explore and evaluate real-world issues and multiple perspectives as well as gather and synthesise information from diverse print, non-print and digital networked sources, so as to cocreate knowledge and solutions in familiar or new contexts</li>
-</ol>
+<p dir="ltr">At Peicai Secondary School, our goal is to help students develop the skills to become:</p>
 
-<div>
-<p dir="ltr">We support these endeavours through:</p>
-<ol>
-<li dir="ltr">Student-centric instruction, focusing on Metacognition, Multiliteracies and Inquiry through Dialogue</li>
-<li dir="ltr">Infusing Technology into lessons, so as to support self-directed learning</li>
-<li dir="ltr">Engaging in rich discussions, to empower students in finding their voice</li>
-<li dir="ltr">Exposure to current affairs and general knowledge, so as to enrich students' experiences and knowledge</li>
-</ol>
-<h4><strong>English Literature</strong></h4>
-<p dir="ltr">In Peicai Secondary School, we aim to develop in students the competencies that will enable them to be:</p>
+<p></p><p align="justify"><b>Empathetic communicators</b> who actively listen to various perspectives; communicate confidently and sensitively, collaborate effectively, and embrace Singapore’s multicultural ethos. </p>
+<p></p><p align="justify"><strong>Discerning Readers</strong> with a global outlook, adept at information processing and critical evaluation to distinguish fact from fiction, considering purpose, audience, context, and culture.
+</p><p></p><p align="justify"><b>Creative Inquirers</b> who delve into real-world issues, explore multiple viewpoints, gather and synthesise information from diverse sources, and co-create knowledge and solutions in familiar or novel contexts.
+
+</p><p>Learning Outcomes are supported through:</p>
+
+<p></p><p align="justify">1. Rich Discussions to empower students in finding their voices
+</p><p></p><p align="justify">2. Ed-Technology Enhanced Lessons to support self-directed learning
+</p><p></p><p align="justify">3. Exposure to Current Affairs and General Knowledge to enrich students' experiences and knowledge
+</p><p></p><p align="justify">4. Inquiry Through Dialogue and Process Thinking to make thinking visible
+</p><p></p><p align="justify">5. Student-Centric Instruction to develop metacognition and multiliteracies
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/English_Dept_4.jpg"></td>
+<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/English_Dept_5.jpg"></td>
+<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/English_Dept_6.jpg"></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;"><p style="text-align: center;">Rich discussions: Students find their voices through meaningful conversation.</p></td>
+<td style="width: 33.3333%;"><p style="text-align: center;">Exposure to current affairs: Students discuss and evaluate current issues to enrich their knowledge and critical thinking</p></td>
+<td style="width: 33.3333%;"><p style="text-align: center;">Student-centric instruction: Metacognition and multiliteracies are developed through instruction tailored to students' needs.</p></td>
+</tr>
+<tr>
+</tr>
+</tbody>
+</table>	
+</p><h4><strong>English Literature</strong></h4>
+<p dir="ltr">At Peicai Secondary School, our goal is to help students develop the skills to become:</p>
 <img src="/images/ell1.png">
-<p dir="ltr">We support these endeavours through:</p>
-<ol>
-<li dir="ltr">Student-centric instruction, focusing on active meaning making</li>
-<li dir="ltr">Making students' thought process visible through <em>responding through dialogue and writing</em></li>
-<li dir="ltr">Allowing students to <em>experience story, appreciate writer's style and interpret themes</em></li>
-<li dir="ltr">Having rich discussions to enable students to <em>make connections between the text and their own lives, the world, other readers and other texts. </em></li>
-</ol>
-<p dir="ltr">This is done through the Literary Response framework as shown below:</p>
+<p dir="ltr">In Literature classes, Learning Outcomes are supported through the Literary Response framework as shown below:</p>
 <img src="/images/ell2.png">
-	<p dir="ltr">This Literary Response Framework represents how teachers will design learning experiences that encourage students to respond to texts in a holistic manner. The Framework is shaped like an eye to emphasise how responding to Literature empowers students to read texts and the world in different ways and with discernment.</p>
-<h4><strong>Department Programmes</strong></h4>
-<p dir="ltr"><span style="text-decoration: underline;"><strong>Public Speaking Programme</strong></span></p>
-<p dir="ltr">In the English classroom, students are given ample opportunity to develop their confidence in public speaking through Show and Tell and the Speech of the Day, where students are given time to share about a given topic. Students are also trained in public speaking skills and creating videos on language skills.</p>
+<p></p><p align="justify">This Literary Response Framework embodies our approach to designing learning experiences that inspire students to engage with texts comprehensively. Shaped like an eye, the Framework underscores how responding to literature empowers students to interpret texts and the world from diverse perspectives, fostering greater discernment and insight.</p>
+<h4><strong>Department Programmes/Highlights</strong></h4>
+<p dir="ltr"><span style="text-decoration: underline;"><strong>Public Speaking Workshops</strong></span></p>
+<p></p><p align="justify">At Peicai Secondary School, we recognize the importance of effective communication. To nurture this skill, we bring in public speaking experts to train our Secondary One students, equipping them with the confidence and knowledge needed to communicate effectively. Our students learn the art of engaging their audience through both verbal and non-verbal communication. </p>
 <p dir="ltr">Representatives are identified and trained for the Plain English Speaking Award organised by YMCA.</p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
@@ -66,4 +73,4 @@ variant: markdown
 <td style="width: 33.3333%;">&nbsp;</td>
 </tr>
 </tbody>
-</table></div>
+</table>
