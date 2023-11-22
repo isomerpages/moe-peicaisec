@@ -24,6 +24,8 @@ links:
   - title: Academic
     url: /academic/subjects-offered
     sublinks:
+      - title: T&L framework
+        url: /academic/t-l-framework
       - title: Subjects offered
         url: /academic/subjects-offered
       - title: Assessment and Promotion
