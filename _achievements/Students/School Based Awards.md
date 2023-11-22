@@ -7,7 +7,7 @@ variant: markdown
 ---
 <p><strong><u>School Colours Award</u></strong></p>
 <p>These awards are awarded to students in recognition of their passion, achievements and dedication to their respective CCAs and the school.</p>
-<h4 style="text-align: center;"><strong><u>CCAs Award 2023</u></strong></h4>
+<h4 style="text-align: center;"><strong><u>CCa Award 2023</u></strong></h4>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
