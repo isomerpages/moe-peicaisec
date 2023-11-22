@@ -67,15 +67,27 @@ variant: markdown
 <td style="width: 50%;"><img style="width: 50%;" src="/images/English_Dept_11.jpg"></td>
 </tr>
 <tr>
-<td style="width: 50%;"><p style="text-align: center;">Empowering tomorrow's speakers: A student's enthusiastic leap during our Public Speaking workshop, captivating his audience with confidence.</p>
+<td style="width: 50%;"><p style="text-align: center;">Unlocking imagination: Students forge creative paths together.</p>
 </td>
 </tr>
 <tr>
 </tr>
 </tbody>
 </table>
-<img src="/images/ell4.png">
-	<p dir="ltr"><strong><u>Drama Appreciation<br></u></strong>Upper Secondary Literature students are given the opportunity to attend musicals and plays. Over the years, students have attended staging of Phantom of the Opera, The Curious Incident of the Dog in the Nighttime, The Sound of Music and many more.&nbsp;</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img style="width: 100%;" src="/images/ell4.png"></td>
+</tr>
+<tr>
+<td style="width: 50%;"><p style="text-align: center;">Student creativity: A gallery of inspired works.</p>
+</td>
+</tr>
+<tr>
+</tr>
+</tbody>
+</table>
+<p dir="ltr"><strong><u>Drama Appreciation<br></u></strong>Upper Secondary Literature students are given the opportunity to attend musicals and plays. Over the years, students have attended staging of Phantom of the Opera, The Curious Incident of the Dog in the Nighttime, The Sound of Music and many more.&nbsp;</p>
 <p dir="ltr"><strong><u>National Schools Literature Festival<br></u></strong>Selected students represent the school in various competitions organised during the National Schools Literature Festival, including Set Text Debate and Book Parade.&nbsp;</p>
 <h4><strong>Syllabus</strong></h4>
 <table style="border-collapse: collapse; width: 100%;" border="1">
