@@ -50,3 +50,13 @@ variant: markdown
 </tr>
 </tbody>
 </table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/Physical_Education_5.jpg"></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;"><p style="text-align: center;"></p><b>Outdoor Activity Learning Highlight: Secondary 2 Outdoor Adventure Learning (OAL) Camp</b><br><p></p><p align="justify">Our Sec 2 OAL camp provides valuable learning opportunities for students, offering an unfamiliar yet authentic environment that fosters in students self-awareness, cultivates creative capital and problem-solving skills. It brings together students in the class from diverse backgrounds for insights from various perspectives in an outdoor environment that encourages collaborative play, work, and learning.</p></td>
+</tr>
+</tbody>
+</table>
