@@ -49,20 +49,10 @@ variant: markdown
 
 
 
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 30%;"><img src="/images/ell3.jpg"></td>
-<td style="width: 70%;">
-<p><span style="text-decoration: underline;"><strong>Reading Programme</strong></span><br>Students are exposed to a wide range of texts types through magazines and library visits. In class, time is spent on discussing contemporary issues raised in the magazines, and students develop good reading habits.</p>
-<p>Lower Secondary classes also work on presentations of issues that interest them, and share with their classmates in the form on student led discussions.</p>
-</td>
-</tr>
-</tbody>
-</table>
-	<p dir="ltr"><span style="text-decoration: underline;"><strong>English Week</strong></span><br>Students participate in various activities aimed at developing an appreciation for the language. Competitions are held where students demonstrate their understanding of the language through skits and performances. In 2021, students participated in a slew of activities, including the Secondary One students exercising their creative chops in creating a 55 word story.</p>
+
+<p dir="ltr"><span style="text-decoration: underline;"><strong>English Week</strong></span><br>Students participate in various activities aimed at developing an appreciation for the language. Competitions are held where students demonstrate their understanding of the language through skits and performances. In 2021, students participated in a slew of activities, including the Secondary One students exercising their creative chops in creating a 55 word story.</p>
 <img src="/images/ell4.png">
-	<p dir="ltr"><strong><u>Drama Appreciation<br></u></strong>Upper Secondary Literature students are given the opportunity to attend musicals and plays. Over the years, students have attended staging of Phantom of the Opera, The Curious Incident of the Dog in the Nighttime, The Sound of Music and many more.&nbsp;</p>
+<p dir="ltr"><strong><u>Drama Appreciation<br></u></strong>Upper Secondary Literature students are given the opportunity to attend musicals and plays. Over the years, students have attended staging of Phantom of the Opera, The Curious Incident of the Dog in the Nighttime, The Sound of Music and many more.&nbsp;</p>
 <p dir="ltr"><strong><u>National Schools Literature Festival<br></u></strong>Selected students represent the school in various competitions organised during the National Schools Literature Festival, including Set Text Debate and Book Parade.&nbsp;</p>
 <h4><strong>Syllabus</strong></h4>
 <table style="border-collapse: collapse; width: 100%;" border="1">
