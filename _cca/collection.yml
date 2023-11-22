@@ -2,7 +2,7 @@ collections:
   cca:
     output: true
     order:
-      - CCA.md
+      - CCAs and LEAPS.md
       - CCAs.md
       - Clubs & Societies/.keep
       - Clubs & Societies/InfoComm Club.md
