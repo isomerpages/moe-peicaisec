@@ -13,6 +13,9 @@ third_nav_title: Students
 <td style="width: 50%; text-align: center;"><img style="width: 100%;" src="/images/improvement list 1.JPG"><strong></strong></td>
 </tr>
 <tr>
+<td style="width: 50%; text-align: center;"><img style="width: 100%;" src="/images/Improvement_List_3.jpg"><strong></strong></td>
+</tr>
+<tr>
 <td style="width: 50%; text-align: center;"><img style="width: 100%;" src="/images/improvement list 2.JPG"><strong></strong></td>
 </tr>
 </tbody>
