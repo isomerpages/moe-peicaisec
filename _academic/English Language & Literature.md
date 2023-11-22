@@ -46,13 +46,23 @@ variant: markdown
 <p></p><p align="justify">Representatives are identified and trained for the Plain English Speaking Award organised by YMCA.</p>
 <p></p><p align="justify">In the English classroom, they have numerous opportunities to practice and enhance these skills through engaging activities, mock debates, and class presentations.</p>
 <p></p><p align="justify">Additionally, we identify and prepare representatives to participate in the Plain English Speaking Award organized by YMCA, further honing their public speaking abilities.</p>
-
-
-
-
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img style="width: 50%;" src="/images/English_Dept_9.jpg"></td>
+<td style="width: 50%;"><img style="width: 50%;" src="/images/English_Dept_10.jpg"></td>
+</tr>
+<tr>
+<td style="width: 50%;"><p style="text-align: center;">Empowering tomorrow's speakers: A student's enthusiastic leap during our Public Speaking workshop, captivating his audience with confidence.</p></td>
+<td style="width: 50%;"><p style="text-align: center;">Fostering engaging speakers: Building confidence through public speaking activities. </p></td>
+</tr>
+<tr>
+</tr>
+</tbody>
+</table>
 <p dir="ltr"><span style="text-decoration: underline;"><strong>English Week</strong></span><br>Students participate in various activities aimed at developing an appreciation for the language. Competitions are held where students demonstrate their understanding of the language through skits and performances. In 2021, students participated in a slew of activities, including the Secondary One students exercising their creative chops in creating a 55 word story.</p>
 <img src="/images/ell4.png">
-<p dir="ltr"><strong><u>Drama Appreciation<br></u></strong>Upper Secondary Literature students are given the opportunity to attend musicals and plays. Over the years, students have attended staging of Phantom of the Opera, The Curious Incident of the Dog in the Nighttime, The Sound of Music and many more.&nbsp;</p>
+	<p dir="ltr"><strong><u>Drama Appreciation<br></u></strong>Upper Secondary Literature students are given the opportunity to attend musicals and plays. Over the years, students have attended staging of Phantom of the Opera, The Curious Incident of the Dog in the Nighttime, The Sound of Music and many more.&nbsp;</p>
 <p dir="ltr"><strong><u>National Schools Literature Festival<br></u></strong>Selected students represent the school in various competitions organised during the National Schools Literature Festival, including Set Text Debate and Book Parade.&nbsp;</p>
 <h4><strong>Syllabus</strong></h4>
 <table style="border-collapse: collapse; width: 100%;" border="1">
