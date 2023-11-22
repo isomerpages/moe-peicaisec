@@ -22,7 +22,7 @@ Singapore on sexuality issues.<br>
     (b)	  Build positive relationships based on love and respect (which are the foundation for strong families);<br>
     (c)	  Make responsible decisions for yourself, your family and society; and<br>
     (d)      Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.</p><br>You may <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education" target="_blank" rel="noopener">Click Here</a> for more information on MOE Sexuality Education.<br><br><b>Overview of Peicai Secondary School’s Sexuality Education Programme for 2023</b><br><br>
-	4.       Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and Culture, Society and Law. <br>You may <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach" target="_blank" rel="noopener">Click Here</a> for more information on the scope of Sexuality Education in the school curriculum.<br><br>5. The subjects that incorporate topics on sexuality include:<br>a. Science<br>b.Character and Citizenship Education (CCE)<br>
+	4.       Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and Culture, Society and Law. <br>You may <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach" target="_blank" rel="noopener">Click Here</a> for more information on the scope of Sexuality Education in the school curriculum.<br><br>5. The subjects that incorporate topics on sexuality include:<br><br>a. Science<br>b.Character and Citizenship Education (CCE)<br>
 
 <b>Sexuality Education Lessons:</b><br>
 
@@ -33,9 +33,9 @@ The gap between physical and emotional/cognitive maturity may result in a tenden
 (including sexual activities), sometimes without understanding the unpleasant consequences that may arise from such experimentation. 
 The need for peer acceptance can be overwhelmingly strong, and hinder one’s ability to act responsibly.  Given the pressures faced by 
 the middle adolescent from within themselves and from peers, it is important to build a strong sense of self-worth, personal conviction 
-and an understanding of the possible consequences of sexual behaviour.<br> 7. Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their 
-character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.<br>
-<b>At Peicai Secondary School, the following Sexuality Education lessons will be taught in 2023:</b><br>
+and an understanding of the possible consequences of sexual behaviour.<br><br> 7. Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their 
+character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.<br><br>
+<b>At Peicai Secondary School, the following Sexuality Education lessons will be taught in 2023:</b><br><br>
 2023 Sexuality Education Lessons in CCE 2021<br>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
@@ -74,13 +74,13 @@ character, and expand their understanding and repertoire of skills to deal with 
 </table>
 
 <b>eTeens Programme:</b>
-<p></p>eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3
+<p></p>8. eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3
  students with accurate information  on STIs, HIV and protection from a health perspective. eTeens is conducted in two segments – a mass talk 
-segment and a classroom-based programme.<br>
+segment and a classroom-based programme.<br><br>
 9.       Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. 
 They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values 
-are the key messages. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.<br> 
-<b>At Peicai Secondary School, the eTeens programme will be implemented as follows in 2023:</b><br>
+are the key messages. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.<br><br> 
+<b>At Peicai Secondary School, the eTeens programme will be implemented as follows in 2023:</b><br><br>
 
 <table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:33.25pt"><td style="width:185.2pt;border:solid windowtext 1.0pt;mso-border-alt:
