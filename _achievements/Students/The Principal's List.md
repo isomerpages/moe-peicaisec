@@ -43,19 +43,7 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 30%;"><img style="width: 100%;" src="/images/p list 02
-.JPG"></td>
-</tr>
-<tr>
-<td style="width: 30%;"><p style="text-align: center;">Semester One </p></td>
-</tr>
-<tr>
-</tr>
-</tbody>
-</table>
+<p align="center">Semester One</p>
 <p><img src="/images/p list 02
 .JPG" style="width: 100%;"></p><hr>
 <p><img src="/images/p list 03
