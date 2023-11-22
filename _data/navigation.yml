@@ -55,7 +55,7 @@ links:
   - title: Student Development
     collection: student-development
   - title: CCA
-    url: /cca/cca
+    url: /cca/cca-schedule
     sublinks:
       - title: CCA Schedule
         url: /cca/cca-schedule
