@@ -12,7 +12,7 @@ variant: markdown
 <tbody>
 <tr>
 <td>Chairman</td>
-<td>Mrs Teo-Chiam Bee Ling PBM</td>
+<td>Mr Tang Chye Huat PBM</td>
 </tr>
 <tr>
 <td>Vice-Chairman&nbsp;</td>
