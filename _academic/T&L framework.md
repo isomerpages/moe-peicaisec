@@ -29,5 +29,5 @@ description: ""
 </table>
 <p><b>WHAT (Outcomes)</b></p>
 <p align="justify"><b>Preparing for the Future:</b> At Peicai Secondary School, our ultimate goal is to shape students into individuals who are well-prepared for the challenges and opportunities of the future. Rooted in a strong national identity, they will be equipped with the skills and knowledge to navigate an ever-globalising world. Through our educational approach, we aim to empower them to lead fulfilling lives, actively contribute to society, and fervently pursue their aspirations and dreams.</p>
-
+<p align="justify"><b>21st Century Competencies (21CC):</b> An integral part of our curriculum focuses on MOE’s 21CC. These competencies are not just academic in nature but are foundational values and skills critical for holistic growth. We emphasise core values such as <b>respect, responsibility, resilience, integrity, care, and harmony </b>— pillars that form the bedrock of our societal and national ethos. Furthermore, we ensure that every Peicaian acquires pivotal socio-emotional skills tailored for today's interconnected world. These include:</p>
 	
