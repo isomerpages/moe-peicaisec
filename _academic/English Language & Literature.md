@@ -118,11 +118,6 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-
-
-
-
-<p dir="ltr"><strong><u>National Schools Literature Festival<br></u></strong>Selected students represent the school in various competitions organised during the National Schools Literature Festival, including Set Text Debate and Book Parade.&nbsp;</p>
 <h4><strong>Syllabus</strong></h4>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
