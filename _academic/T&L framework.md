@@ -8,7 +8,7 @@ description: ""
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 100%;"><img style="width: 100%;" src="/images/T_and_L_1.jpg"></td>
+<td style="width: 100%;"><img style="width: 70%;" src="/images/T_and_L_1.jpg"></td>
 </tr>
 </tbody>
 </table>
@@ -22,7 +22,7 @@ description: ""
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 100%;"><img style="width: 100%;" src="/images/T_and_L_2.jpg"></td>
+<td style="width: 100%;"><img style="width: 70%;" src="/images/T_and_L_2.jpg"></td>
 </tr>
 </tbody>
 </table>
@@ -43,7 +43,3 @@ description: ""
 <p align="justify">Our conviction is firm: every Peicaian possesses a zeal to learn and has the potential to make significant contributions and excel in various avenues. This philosophy aligns with the Ministry of Education (MOE)’s initiative to cultivate a multitude of talents and to offer diverse pathways, ensuring every child has the opportunity to thrive and succeed, irrespective of their background or starting point.</p>
 <p align="justify">At Peicai, we are committed to delivering enriching and dynamic learning experiences. These experiences aim to instill a profound sense of purpose and to unlock the fullest potential in every Peicaian. In doing so, we echo our school’s mission: enabling students to Discover their unique purpose in learning and life, Develop holistically in academic prowess and character, and Excel in areas where their strengths, passions, and interests converge.</p>
 <p align="justify">All these core tenets culminate in the "Peicai Experience" – an educational journey where each student is not merely a passive receiver but an enthusiastic contributor to their learning journey.</p>
-
-
-	
-	
