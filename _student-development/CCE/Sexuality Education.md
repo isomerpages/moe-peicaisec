@@ -21,12 +21,12 @@ Singapore on sexuality issues.<br>
     (a)	  Love and respect yourself as you love and respect others;<br>
     (b)	  Build positive relationships based on love and respect (which are the foundation for strong families);<br>
     (c)	  Make responsible decisions for yourself, your family and society; and<br>
-    (d)      Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.</p><br>You may <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education" target="_blank" rel="noopener">Click Here</a> for more information on MOE Sexuality Education.<br><br><b>Overview of Peicai Secondary School’s Sexuality Education Programme for 2023</b><br><br>
-	4.       Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and Culture, Society and Law. <br>You may <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach" target="_blank" rel="noopener">Click Here</a> for more information on the scope of Sexuality Education in the school curriculum.<br><br>5. The subjects that incorporate topics on sexuality include:<br><br>a. Science<br>b.Character and Citizenship Education (CCE)<br>
+    (d)      Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.</p><br>You may <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education" target="_blank" rel="noopener">Click Here</a> for more information on MOE Sexuality Education.<br><br><b>Overview of Peicai Secondary School’s Sexuality Education Programme for 2023</b><br>
+<p></p><p align="justify">4.       Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and Culture, Society and Law. <br>You may <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach" target="_blank" rel="noopener">Click Here</a> for more information on the scope of Sexuality Education in the school curriculum.<br><br>5. The subjects that incorporate topics on sexuality include:<br><br>a. Science<br>b.Character and Citizenship Education (CCE)<br>
 
 <b>Sexuality Education Lessons:</b><br>
 
-<p></p>6. The values and attitudes of our youth towards sexuality are increasingly shaped by their peers, exposure to the media, popular culture 
+</p><p></p><p align="justify">6. The values and attitudes of our youth towards sexuality are increasingly shaped by their peers, exposure to the media, popular culture 
 and the internet. Adolescence is a complex stage in life as the adolescent attempts to find his/her own identity and often struggles with new 
 social relationships. The period of middle adolescence (generally from 15 – 17 years old) can be a turbulent period for adolescents. 
 The gap between physical and emotional/cognitive maturity may result in a tendency to act on impulse, experiment with various activities 
@@ -74,7 +74,7 @@ character, and expand their understanding and repertoire of skills to deal with 
 </table>
 
 <b>eTeens Programme:</b>
-<p></p>8. eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3
+</p><p></p><p align="justify">8. eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3
  students with accurate information  on STIs, HIV and protection from a health perspective. eTeens is conducted in two segments – a mass talk 
 segment and a classroom-based programme.<br><br>
 9.       Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. 
@@ -147,8 +147,8 @@ are the key messages. The desired outcome of the eTeens programme is that studen
   mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
   major-latin;mso-ansi-language:EN-GB" lang="EN-GB">Term 3 Week 9</span></p></td></tr></tbody></table><br>
 	<b>Information for Parents</b><br><br>
-10.  Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers.<br><br>
+</p><p></p><p align="justify">10.  Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers.<br><br>
 11.  Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable<a rel="noopener" target="_blank" href="/files/Annex_A__Growing_Years.pdf"> here</a><br>The completed form is to be submitted by 27/01/2023. 
  <br><br>
 12.  Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable <a rel="noopener" target="_blank" href="/files/Annex B eTeens Parents Opt-out Form Sec 2022.pdf">here</a><br>The completed form is to be submitted by 27/01/2023.<br><br> 
-13.  Parents can contact the school peicai_ss@moe.edu.sg or 62884159 for discussion or to seek clarification about the school’s Sexuality Education programme.<br><br>
+13.  Parents can contact the school peicai_ss@moe.edu.sg or 62884159 for discussion or to seek clarification about the school’s Sexuality Education programme.<br><br></p>
