@@ -71,3 +71,14 @@ variant: markdown
 </tbody>
 </table>
 <p><b>PE Programme-related links</b></p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 33.3333%;"><a href="https://www.nyc.gov.sg/obs/programmes/moe-obs-challenge-programme" target="_blank" rel="noopener">MOE-OBS Challenge Programme</a></td>
+<td style="width: 33.3333%;"><a href="https://www.moe.gov.sg/-/media/files/secondary/syllabuses/pe/physical_education_syllabus_2014.pdf" target="_blank" rel="noopener">MOE – PE Syllabus</a></td>
+<td style="width: 33.3333%;"><a href="https://www.moe.gov.sg/faq?categoryid=9DB054E97C364732865169337F0BD1F6&amp;faqid=82C93B505547425F87B4CC0C17A085B2" target="_blank" rel="noopener">MOE- NAPFA Test</a></td>
+</tr>
+<tr><td style="width: 33.3333%;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
