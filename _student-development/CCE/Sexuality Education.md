@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 third_nav_title: CCE
 ---
-&gt;<h4><strong>Sexuality Education</strong></h4>
+<h4><strong>Sexuality Education</strong></h4>
 <b>MOE Sexuality Education in Schools</b><br>
 <p align="justify">1.	Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they 
 experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and
