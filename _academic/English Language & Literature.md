@@ -43,7 +43,12 @@ variant: markdown
 <h4><strong>Department Programmes/Highlights</strong></h4>
 <p dir="ltr"><span style="text-decoration: underline;"><strong>Public Speaking Workshops</strong></span></p>
 <p></p><p align="justify">At Peicai Secondary School, we recognize the importance of effective communication. To nurture this skill, we bring in public speaking experts to train our Secondary One students, equipping them with the confidence and knowledge needed to communicate effectively. Our students learn the art of engaging their audience through both verbal and non-verbal communication. </p>
-<p dir="ltr">Representatives are identified and trained for the Plain English Speaking Award organised by YMCA.</p>
+<p></p><p align="justify">Representatives are identified and trained for the Plain English Speaking Award organised by YMCA.</p>
+<p></p><p align="justify">In the English classroom, they have numerous opportunities to practice and enhance these skills through engaging activities, mock debates, and class presentations.</p>
+<p></p><p align="justify">Additionally, we identify and prepare representatives to participate in the Plain English Speaking Award organized by YMCA, further honing their public speaking abilities.</p>
+
+
+
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
