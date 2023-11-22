@@ -19,4 +19,34 @@ variant: markdown
 </tbody>
 </table>
 <p></p><h4><strong>Peicai PE Programmes</strong></h4>
-
+<p></p><p align="justify">Peicaians will be exposed to a wide spectrum of sports modules, physical health and fitness elements for students to gradually develop competence through learning in movement, through movement and about movement.</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/Physical_Education_2.JPG"></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;"><p style="text-align: center;"></p></td>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/Physical_Education_3.jpg"></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;"><p style="text-align: center;"></p><b>Programme Highlight: Peicai Sports Day</b><br><p></p><p align="justify">Through a myriad of track events and inter-class telematches, our Annual Sports Day enables our students to foster a strong cameraderie amongst classmates through the spirit of competition. It is also a chance for students to apply what they have learnt through the Athletics module in their daily PE lessons.</p></td>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/Physical_Education_4.jpg"></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;"><p style="text-align: center;"></p><b>Programme Highlight: Cohort Sports Challenge</b><br><p></p><p align="justify">The knowledge, skills and attributes upon the competion of the sports curriculum will culminate in their participation at the inter-class tournament that serves as a platform for them to test their acquired skills in a competition setting, and encourages them to focus. These inter-class challenges are anchored on core values (respect, responsibility, resilience, integrity, care and harmony)</p></td>
+</tr>
+</tbody>
+</table>
