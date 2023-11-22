@@ -122,13 +122,13 @@ variant: markdown
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 33.3333%;"><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2022syllabus/1128_y22_sy.pdf" target="_blank" rel="noopener">1128 O Level English</a></td>
-<td style="width: 33.3333%;"><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2022syllabus/1190_y22_sy.pdf" target="_blank" rel="noopener">1190 N(A) Level English</a></td>
-<td style="width: 33.3333%;"><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2022syllabus/1195_y22_sy.pdf" target="_blank" rel="noopener">1195 N(T) Level English</a></td>
+<td style="width: 33.3333%;"><a href="https://www-seab-gov-sg-admin.cwp.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/1184_y24_sy.pdf" target="_blank" rel="noopener">1184 ‘O’ Level English</a></td>
+<td style="width: 33.3333%;"><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/1190_y24_sy.pdf" target="_blank" rel="noopener">1190 ‘N(A)’ Level English</a></td>
+<td style="width: 33.3333%;"><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/1195_y24_sy.pdf" target="_blank" rel="noopener">1195 ‘N(T)’ Level English</a></td>
 </tr>
 <tr>
-<td style="width: 33.3333%;"><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2023syllabus/2274_y23_sy.pdf" target="_blank" rel="noopener">2274 Humanities (Social Studies, Literature in English)</a></td>
-<td style="width: 33.3333%;"><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2021syllabus/2065_y21_sy.pdf" target="_blank" rel="noopener">2065 Literature in English</a></td>
+<td style="width: 33.3333%;"><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/2262_y24_sy.pdf" target="_blank" rel="noopener">2262 ‘O’ Level Humanities (Social Studies, Literature in English)</a></td>
+<td style="width: 33.3333%;"><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/2127_y24_sy.pdf" target="_blank" rel="noopener">2127 ‘N(A)’ Level Humanities (Social Studies, Literature in English)</a></td>
 <td style="width: 33.3333%;">&nbsp;</td>
 </tr>
 </tbody>
