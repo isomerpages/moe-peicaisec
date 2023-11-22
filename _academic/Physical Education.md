@@ -60,3 +60,14 @@ variant: markdown
 </tr>
 </tbody>
 </table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/Physical_Education_6.jpg"></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;"><p style="text-align: center;"></p><b>Outdoor Activity Learning Highlight: Secondary 3 MOE-OBS Challenge Programme</b><br><p></p><p align="justify">The signature programme by Outward Bound Singapore for the Sec 3 cohort is a 5-day, 4-night residential programme that aims to effectively develop students to have resilience and to be confident through self-guded education in the outdoors, and impactful decision-making during the customised activities.  Students will be exposed to a wider scope of utdoor elements, and they will also learn how to work with their teammates from different schools to overcome challenges together.</p></td>
+</tr>
+</tbody>
+</table>
+<p><b>PE Programme-related links</b></p>
