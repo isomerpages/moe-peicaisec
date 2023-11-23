@@ -22,7 +22,8 @@ Build students' adaptability and resilience to embrace the need for lifelong lea
 <p><img src="/images/ecg2v.JPG"></p>
 <h4><strong>Key Programmes</strong></h4>
 <p></p><h4><b>ECG-Based Lessons During CCE periods</b></h4><p></p>
-
+<p></p><p align="justify">As part of CCE lessons, all students have lessons focusing on Education and Career Guidance. During the lessons, the following areas are covered:</p>
+<p>Discovering who you are<br>• Self-Awareness and Personal Management<br><br>Making informed career decisions<br>•Exploring and Understanding the Education Landscape<br>• Exploration of Occupational Clusters <br>• Identification of Relational Support and Decision Influencers <br>Continual learning <br>• Adoption of Growth Mindset and Developing Enduring Dispositions</p>
 	
 
 
