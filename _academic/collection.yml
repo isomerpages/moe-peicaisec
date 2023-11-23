@@ -2,7 +2,6 @@ collections:
   academic:
     output: true
     order:
-      - Principles of Accounts.md
       - T&L framework.md
       - Subjects offered.md
       - Assessment and Promotion Criteria.md
@@ -22,6 +21,7 @@ collections:
       - Computer Applications (CPA).md
       - English Language & Literature.md
       - Humanities.md
+      - Principles of Accounts.md
       - Mathematics.md
       - Mother Tongue Languages.md
       - Physical Education.md
