@@ -210,8 +210,8 @@ Build students' adaptability and resilience to embrace the need for lifelong lea
 
 <h4><strong>ECG Resources</strong></h4>
 <ul>
-<li aria-level="1">ECG Overview: <br> (<a href="http://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/overview</a>)</li>
-<li aria-level=">https://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/overview</a></li>
+<li aria-level="1">ECG Overview: <br> <a href="http://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/overview</a>)</li>
+<li aria-level=">www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/overview</a></li>
 
 <li aria-level="1">ECG Tips for Parents:  <br> (<a href="http://www.moe.gov.sg/-/media/files/programmes/ecg/ecg-tips-for-parents.ashx</a>)</li>
 <li aria-level=">www.moe.gov.sg/-/media/files/programmes/ecg/ecg-tips-for-parents.ashx</a></li><a href="http://www.moe.gov.sg/-/media/files/programmes/ecg/ecg-tips-for-parents.ashx</a>)</li>
