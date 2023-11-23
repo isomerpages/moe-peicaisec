@@ -79,59 +79,43 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-
-
-
-
-
-
-
-
-
-
 <h4><strong>Syllabus</strong></h4>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-</tr></tbody></table><table width="623">
-<tbody>
+<td width="141"><strong><u>Lower Secondary Humanities:</u></strong></td>
+<td width="400"><a>
+</a></td></tr>
 <tr>
-<td width="312">
-<p><strong><u>N Level</u></strong></p>
-</td>
-<td width="312">
-<p><strong><u>O Level</u></strong></p>
+<td width="141"><strong></strong></td>
+<td width="400">
+<p><a href="https://www.moe.gov.sg/-/media/files/secondary/syllabuses-nt/science/2021-science-syllabus-lower-secondary-nt.pdf">Lower Sec Geography</a></p>
+<p><a href="https://www.moe.gov.sg/-/media/files/secondary/syllabuses/science/2021-science-syllabus-lower-secondary.pdf">Lower Sec History </a></p>
 </td>
 </tr>
 <tr>
-<td width="312">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2022syllabus/2175_y22_sy.pdf">Humanities 2175 (Social Studies, Geography)</a></p>
-</td>
-<td width="312">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2022syllabus/2272_y22_sy.pdf">Humanities 2272 (Social Studies, Geography)</a></p>
-</td>
-</tr>
-<tr>
-<td width="312">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2022syllabus/2176_y22_sy.pdf">Humanities 2176 (Social Studies, History)</a></p>
-</td>
-<td width="312">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2022syllabus/2273_y22_sy.pdf">Humanities 2273 (Social Studies, History)</a></p>
+<td width="141"><strong>GCE N(A)-Level Upper Secondary Humanities:</strong></td>
+<td width="400">
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/5148_y24_sy.pdf">Humanities (Social Studies, Geography) 
+
+</a></p>
+	<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/5148_y24_sy.pdf">Humanities (Social Studies, History)</a></p>
 </td>
 </tr>
 <tr>
-<td width="312">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2022syllabus/7086_y22_sy.pdf">7086 Principles of Accounts</a></p>
-</td>
-<td width="312">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2022syllabus/2273_y22_sy.pdf">2236 Geography</a></p>
+<td width="141"><strong>GCE O-Level Upper Secondary Humanities:</strong></td>
+<td width="400">
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/5105_y24_sy.pdf">Humanities (Social Studies, Geography)
+</a></p>
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/5107_y24_sy.pdf">Geography </a></p>
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/5107_y24_sy.pdf">Humanities (Social Studies, History) </a></p>
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/5107_y24_sy.pdf">History</a></p>
 </td>
 </tr>
+
+
 <tr>
-<td width="312">&nbsp;</td>
-<td width="312">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2022syllabus/2273_y22_sy.pdf">7087 Principles of Accounts</a></p>
-</td>
+<td width="270">&nbsp;</td>
 </tr>
 </tbody>
 </table>
