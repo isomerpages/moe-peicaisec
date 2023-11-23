@@ -82,8 +82,21 @@ That really made us feel very proud!
 <td style="width: 100%;"><img src="/images/Lions_1v.jpg"></td>
 </tr>
 <tr>
-<td style="width: 50%;"><p align="justify">We would like to take this opportunity to thank Mr Michael for his support to this project and all our form teachers who guided us in this appreciation project. The art installation would be featured at Serangoon bus interchange Passenger Service Office. We hope more of you can stand up and initiate meaningful projects for our community!
+<td style="width: 50%;"><p align="justify">On National day, Peicai invited seniors from Lions Befrienders to join us for our celebrations and to watch our school concert. Selected student leaders also hosted the seniors to a Yakun-sponsored breakfast. This is part of Peicai’s contribution in giving back to the community and spreading some love and joy to the seniors in our community.
 </p></td>
+</tr>
+</tbody>
+</table><p></p><hr>
+<p></p>
+<table border="0" style="border-collapse: collapse; width: 100%;">
+<tbody>
+<tr>
+<td style="width: 100%;"><img src="/images/CDAC_1v.jpg"></td>
+</tr>
+<tr>
+<td style="width: 50%;"><p align="justify">Working together, our students embarked on an impactful VIA project in collaboration with CDAC and prepared two lessons to teach primary school students from CDAC how to hand-make a xylophone and panflute using recycled materials.<br><br>Throughout this transformative journey, our students honed essential E21CC skills, including effective communication and collaborative teamwork. Their unwavering dedication not only enriched the lives of these young children but also left a lasting, positive impact on the broader community.
+</p>
+</td>
 </tr>
 </tbody>
 </table><p></p><hr>
