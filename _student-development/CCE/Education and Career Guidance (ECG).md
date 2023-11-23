@@ -12,7 +12,18 @@ third_nav_title: CCE
 <p><b>ECG Outcomes for Secondary Students</b></p>
 <p></p><p align="justify">1) Our ECG programmes are planned and conducted for students at various levels in alignment with the ECG Development Model by the Ministry of Education.</p>
 <p><img src="/images/ecg1v.jpg"></p>
+<p>The goals of ECG are to support students in:<br>•<b> Discovering purpose</b> - Who am I?
+Nurture students' self-awareness to support them in discovering how they can meaningfully play a part in their community.<br>•<b>Exploring opportunities</b> - Where do I want to go?
+Develop students' self-directedness and confidence to explore and leverage education and career opportunities while respecting the value of all occupations.<br><b>•	Staying relevant</b> - How do I get there?
+Build students' adaptability and resilience to embrace the need for lifelong learning.</p>
+<p></p><h4><b>ECG Experiences @ PCSS</b></h4><p></p>
+<p>Through the ECG Experiences, we seek to guide our students to:<br>•become more aware of their own strengths and interests<br>•	understand the relevant courses of study at post-secondary institutions<br>•	explore different industries and careers</p>
+<p>The wide variety of ECG experiences in PCSS aim to enable our students to make informed choices about post-secondary education and possible careers.</p>
+<p><img src="/images/ecg2v.JPG"></p>
+<h4><strong>Key Programmes</strong></h4>
+<p></p><h4><b>ECG-Based Lessons During CCE periods</b></h4><p></p>
 
+	
 
 
 
