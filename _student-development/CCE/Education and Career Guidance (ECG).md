@@ -88,6 +88,126 @@ Build students' adaptability and resilience to embrace the need for lifelong lea
 </tr>
 </tbody>
 </table>
+<h4><strong>Interaction with Post-Secondary Institutions &amp; Alumni on Higher Education and Career Options</strong></h4>
+<p></p><p align="justify">Talks by Invited Junior Colleges and Polytechnics during Parent Engagement Sessions</p><table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr></tr>
+<tr>
+<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/ecg8v.jpg"></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;"><p style="text-align: center;">Lecturer from Temasek Polytechnic sharing on the various courses offered in the Polytechnic</p></td>
+</tr>
+<tr>
+</tr>
+</tbody>
+</table>
+<p></p><p align="justify">Engagement by Junior Colleges and Polytechnics during the Start Smart Programme</p><table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr></tr>
+<tr>
+<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/ecg9v.jpg"></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;"><p style="text-align: center;">ECG Talks on Choosing Suitable Post Secondary Pathways</p></td>
+</tr>
+<tr>
+</tr>
+</tbody>
+</table>
+<p></p><p align="justify">Education and Career Guidance (ECG) Fair by Institutes of Higher Learning (IHLs) and  Talks by Alumni</p><table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr></tr>
+<tr>
+<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/ecg10v.jpg"></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;"><p style="text-align: center;">Students browsing brochures and interacting with representatives from different post-secondary institutions</p></td>
+</tr>
+<tr>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr></tr>
+<tr>
+<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/ecg11v.jpg"></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;"><p style="text-align: center;">Students visiting the various post-secondary institutions booths from the Junior Colleges, Polytechnics and ITEs</p></td>
+</tr>
+<tr>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr></tr>
+<tr>
+<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/ecg12v.jpg"></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;"><p style="text-align: center;">Alumni sharing about his career choice with the SAF with our Secondary 3 students</p></td>
+</tr>
+<tr>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr></tr>
+<tr>
+<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/ecg13v.jpg"></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;"><p style="text-align: center;">Alumni engaging students in a Q&amp;A after sharing about their careers in the Airforce, Business, Media and Nursing</p></td>
+</tr>
+<tr>
+</tr>
+</tbody>
+</table>
+<p></p><p align="justify">Visits to Post-Secondary Institutions</p><table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr></tr>
+<tr>
+<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/ecg14v.jpg"></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;"><p style="text-align: center;">Providing students deeper insights into the various courses </p></td>
+</tr>
+<tr>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr></tr>
+<tr>
+<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/ecg15v.jpg"></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;"><p style="text-align: center;">Getting A Glimpse into a student’s life in the Polytechnic </p></td>
+</tr>
+<tr>
+</tr>
+</tbody>
+</table>
+<p></p><p align="justify">Direct Schools Admission (DSA-JC) / Early Admission Exercise Workshops</p><table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr></tr>
+<tr>
+<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/ecg16v.jpg"></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;"><p style="text-align: center;">Workshops on Portfolio Building and Interview Skills to guide students in their application for DSA(JC), EAE (Poly) and EAE (ITE)</p></td>
+</tr>
+<tr>
+</tr>
+</tbody>
+</table>
+<p><b>Education and Career Guidance (ECG) Counsellor</b></p>
+
 
 
 
