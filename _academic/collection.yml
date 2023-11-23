@@ -2,6 +2,7 @@ collections:
   academic:
     output: true
     order:
+      - Elements of Business.md
       - T&L framework.md
       - Subjects offered.md
       - Assessment and Promotion Criteria.md
