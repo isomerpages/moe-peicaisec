@@ -31,10 +31,23 @@ Build students' adaptability and resilience to embrace the need for lifelong lea
 <p><a rel="noopener" target="_blank" href="https://www.peicaisec.moe.edu.sg/distinctive-edge/work-attachment/">Click</a> here to find out more about the Student Work Attachment Programme at PCSS.</p>
 <p>Our Partners providing work attachment opportunities for our students include the following:</p>
 <p><img src="/images/our partners
-.jpg" style="width: 100%;"></p><hr>
+.jpg" style="width: 100%;"></p>
 <p><img src="/images/our partners 2
-.JPG" style="width: 100%;"></p><hr>
-
+.JPG" style="width: 100%;"></p>
+<h4><strong>Applied Learning Modules (ApLM)</strong></h4>
+<p></p><p align="justify">Applied Learning Modules@ Temasek Poly<br>Applied Learning Modules@ Polytechnic (ApLM@Poly) are 3-day modules designed to complement the Express and Normal Academic curricula through their focus on the practical application of knowledge. ApLM@Poly provide our students with applied learning opportunities – learning that involves doing and applying, learning about the real world, and learning for life. ApLM@Poly also allow our students to discover their interests and strengths and make informed education and career choices.</p><table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr></tr>
+<tr>
+<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/ecg4v.jpg"></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;"><p style="text-align: center;">Students presenting their interactive dashboards to the rest of the ApLM@Poly participants.</p></td>
+</tr>
+<tr>
+</tr>
+</tbody>
+</table>
 
 
 
