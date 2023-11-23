@@ -211,11 +211,15 @@ Build students' adaptability and resilience to embrace the need for lifelong lea
 <h4><strong>ECG Resources</strong></h4>
 <ul>
 <li aria-level="1">ECG Overview: <br> (<a href="http://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/overview</a>)</li>
-<li aria-level=">https://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/overview (</a><a href="http://www.moe.gov.sg/ECG-parent-guide">www.moe.gov.sg/ECG-parent-guide</a>)</li>
-<li aria-level="1">ECG Tips for Parents:  (<a href="http://www.moe.gov.sg/-/media/files/programmes/ecg/ecg-tips-for-parents.ashx</a>)</li>
-<li aria-level=">www.moe.gov.sg/-/media/files/programmes/ecg/ecg-tips-for-parents.ashx (</a><a href="http://www.moe.gov.post-sec-brochure/">www.moe.gov.post-sec-brochure</a>)</li>
-<li aria-level="1">Early Admissions Exercise (Polytechnics) (<a href="http://www.moe.gov.sg/early-admission-exercise">www.moe.gov.sg/early-admission-exercise</a>)</li>
-<li aria-level="1">Polytechnic Foundation Programme (<a href="https://pfp.polytechnic.edu.sg/PFP/index.html">https://pfp.polytechnic.edu.sg/PFP/index.html</a>)</li>
-<li aria-level="1">Joint Admissions Exercise (<a href="http://www.moe.gov.sg/JAE">www.moe.gov.sg/JAE</a>)</li>
-<li aria-level="1">What’s Next (After ‘N’ and ‘O’ Level) (<a href="http://www.moe.gov.sg/whats-next">www.moe.gov.sg/whats-next</a>)</li>
-</ul>
+<li aria-level=">https://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/overview</a></li>
+
+<li aria-level="1">ECG Tips for Parents:  <br> (<a href="http://www.moe.gov.sg/-/media/files/programmes/ecg/ecg-tips-for-parents.ashx</a>)</li>
+<li aria-level=">www.moe.gov.sg/-/media/files/programmes/ecg/ecg-tips-for-parents.ashx</a></li><a href="http://www.moe.gov.sg/-/media/files/programmes/ecg/ecg-tips-for-parents.ashx</a>)</li>
+<li aria-level=">
+	
+
+	
+	
+	
+	
+	</a></ul>
