@@ -60,8 +60,6 @@ description: ""
 <td style="width: 33.3333%;"><p style="text-align: center;"></p></td>
 <td style="width: 33.3333%;"><p style="text-align: center;"></p></td>
 </tr>
-<tr>
-</tr>
 </tbody>
 </table>
 
