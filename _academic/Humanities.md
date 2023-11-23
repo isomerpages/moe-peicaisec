@@ -6,6 +6,11 @@ variant: markdown
 ---
 <h4><strong>Humanities</strong></h4>
 <h4><strong>Learning Outcomes</strong></h4>
+<p>In Peicai, we aim to develop each student to become </p>
+<p></p><p align="justify">1.	A confident person who is adaptable and resilient, knows himself/ herself, is discerning in judgement, thinks independently and critically, and communicates effectively;</p>
+<p></p><p align="justify">2.	a self-directed learner who can work effectively in teams and takes responsibility for his/ her own learning, who questions, reflects and perseveres in the pursuit of learning; and</p>
+<p></p><p align="justify">3.	a concerned citizen rooted in Singapore, has a strong civic consciousness, is informed, and takes an active role in bettering the lives of others around him/ her.</p>
+
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
