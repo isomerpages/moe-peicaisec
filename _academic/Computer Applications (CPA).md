@@ -4,7 +4,7 @@ permalink: /academic/permalink/computer-applications/
 variant: markdown
 description: ""
 ---
-<h4><strong>CPA</strong></h4>
+<h4><strong></strong></h4>
 
 <h4><strong>Learning Outcomes</strong></h4>
 <p>In Peicai Secondary School, we aim to achieve the following through the Computer Applications (CPA) subject:</p>
