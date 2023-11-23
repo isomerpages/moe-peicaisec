@@ -74,31 +74,27 @@ Build students' adaptability and resilience to embrace the need for lifelong lea
 </tr>
 </tbody>
 </table>
+<h4><strong>Applied Learning Module@ ITE </strong></h4>
+<p></p><p align="justify">ITE’s Applied Learning Modules (ApLM@ITE), formerly known as Category A Elective Modules (CAT A EM) are short courses developed to broaden the learning experiences of MOE students. The 22.5-hour programme will introduce students to ITE’s full-time Nitec and Higher Nitec courses, as well as expose them to possible educational progression and career pathways, thereby enabling them to make more informed choices upon graduation from secondary schools. Through the hands-on practical sessions, students will have the opportunity to discover how the knowledge and skills learnt can be applied to related industries.</p><table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr></tr>
+<tr>
+<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/ecg7v.jpg"></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;"><p style="text-align: center;">Our students putting the skills they learnt through the elective modules into practice</p></td>
+</tr>
+<tr>
+</tr>
+</tbody>
+</table>
 
 
 
 
 
 
-<p dir="ltr"><strong>1) Lower Secondary School Emphasis: Career Exploration</strong></p>
-<ul>
-<li dir="ltr" aria-level="1">Students will know more about the world of work.</li>
-<li dir="ltr" aria-level="1">Students will gain an awareness of their own strengths, interests and work values, and relevant courses of study.</li>
-</ul>
-<p dir="ltr"><strong>2) Upper/Post Secondary Emphasis: Career Planning</strong></p>
-<ul>
-<li dir="ltr" aria-level="1">Students will further clarify their career self-concept and hone their research and decision-making skills.</li>
-</ul>
-<h4><strong>Key Programmes</strong></h4>
-<p><strong>1)	Applied Learning Module@ ITE </strong></p>
-<img style="width: 100%;" src="/images/applied_learning_ecg.jpg">Providing Our Students with Applied Learning Opportunities – Learning That Involves Doing And Applying, Learning About The Real World, And Learning For Life.
-<p><strong>2) Polytechnic Open Houses</strong></p>
-<img style="width: 100%;" src="/images/Polytechnic_Open_Houses_3.jpg">
-1. Providing Our Students with More Insights On The Various Courses Available In Polytechnic<br>2. Getting A Glimpse of Polytechnic School Life 
-<p><strong>3) Student Work Attachment Programme (SWAP)</strong></p>
-<img style="width: 100%;" src="/images/Swap.jpg">
-1. Allowing Students to Discover Their Interests And Strengths Through Work Attachment Opportunities @ Peicai Secondary School<br>
-2. Exposing our Students to Possible Career Paths.
+
 
 <h4><strong>ECG Resources</strong></h4>
 <ul>
