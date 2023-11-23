@@ -54,11 +54,6 @@ Build students' adaptability and resilience to embrace the need for lifelong lea
 
 
 
-
-
-
-
-
 <p dir="ltr"><strong>1) Lower Secondary School Emphasis: Career Exploration</strong></p>
 <ul>
 <li dir="ltr" aria-level="1">Students will know more about the world of work.</li>
