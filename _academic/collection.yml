@@ -2,7 +2,7 @@ collections:
   academic:
     output: true
     order:
-      - T&L framework.md
+      - T&L Framework.md
       - Subjects offered.md
       - Assessment and Promotion Criteria.md
       - Full Subject Based Banding (FSBB).md
