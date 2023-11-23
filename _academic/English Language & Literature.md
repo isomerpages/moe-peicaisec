@@ -5,65 +5,131 @@ description: ""
 variant: markdown
 ---
 <h4><strong>Learning Outcomes</strong></h4>
-<p dir="ltr">In Peicai Secondary School, we aim to develop in students the competencies that will enable them to be:</p>
-<ol>
-<li dir="ltr"><strong>Empathetic communicators</strong> who possess the values, dispositions and skills to listen actively to different perspectives; communicate confidently, effectively and sensitively while collaborating with others to work towards shared goals; and balance an appreciation of the Singapore spirit with multi-ethnic and multicultural sensitivities.&nbsp;</li>
-<li dir="ltr"><strong>Discerning Readers</strong> who possess broad worldviews by staying well informed and self-directed in the use of information, and are able to distinguish fact from falsehood by processing and evaluating information closely, critically and with discernment according to purpose, audience, context and culture.&nbsp;</li>
-<li dir="ltr"><strong>Creative Inquirers</strong> who explore and evaluate real-world issues and multiple perspectives as well as gather and synthesise information from diverse print, non-print and digital networked sources, so as to cocreate knowledge and solutions in familiar or new contexts</li>
-</ol>
+<p dir="ltr">At Peicai Secondary School, our goal is to help students develop the skills to become:</p>
 
-<div>
-<p dir="ltr">We support these endeavours through:</p>
-<ol>
-<li dir="ltr">Student-centric instruction, focusing on Metacognition, Multiliteracies and Inquiry through Dialogue</li>
-<li dir="ltr">Infusing Technology into lessons, so as to support self-directed learning</li>
-<li dir="ltr">Engaging in rich discussions, to empower students in finding their voice</li>
-<li dir="ltr">Exposure to current affairs and general knowledge, so as to enrich students' experiences and knowledge</li>
-</ol>
-<h4><strong>English Literature</strong></h4>
-<p dir="ltr">In Peicai Secondary School, we aim to develop in students the competencies that will enable them to be:</p>
-<img src="/images/ell1.png">
-<p dir="ltr">We support these endeavours through:</p>
-<ol>
-<li dir="ltr">Student-centric instruction, focusing on active meaning making</li>
-<li dir="ltr">Making students' thought process visible through <em>responding through dialogue and writing</em></li>
-<li dir="ltr">Allowing students to <em>experience story, appreciate writer's style and interpret themes</em></li>
-<li dir="ltr">Having rich discussions to enable students to <em>make connections between the text and their own lives, the world, other readers and other texts. </em></li>
-</ol>
-<p dir="ltr">This is done through the Literary Response framework as shown below:</p>
-<img src="/images/ell2.png">
-	<p dir="ltr">This Literary Response Framework represents how teachers will design learning experiences that encourage students to respond to texts in a holistic manner. The Framework is shaped like an eye to emphasise how responding to Literature empowers students to read texts and the world in different ways and with discernment.</p>
-<h4><strong>Department Programmes</strong></h4>
-<p dir="ltr"><span style="text-decoration: underline;"><strong>Public Speaking Programme</strong></span></p>
-<p dir="ltr">In the English classroom, students are given ample opportunity to develop their confidence in public speaking through Show and Tell and the Speech of the Day, where students are given time to share about a given topic. Students are also trained in public speaking skills and creating videos on language skills.</p>
-<p dir="ltr">Representatives are identified and trained for the Plain English Speaking Award organised by YMCA.</p>
+<p></p><p align="justify"><b>Empathetic communicators</b> who actively listen to various perspectives; communicate confidently and sensitively, collaborate effectively, and embrace Singapore’s multicultural ethos. </p>
+<p></p><p align="justify"><strong>Discerning Readers</strong> with a global outlook, adept at information processing and critical evaluation to distinguish fact from fiction, considering purpose, audience, context, and culture.
+</p><p></p><p align="justify"><b>Creative Inquirers</b> who delve into real-world issues, explore multiple viewpoints, gather and synthesise information from diverse sources, and co-create knowledge and solutions in familiar or novel contexts.
+
+</p><p>Learning Outcomes are supported through:</p>
+
+<p></p><p align="justify">1. Rich Discussions to empower students in finding their voices
+</p><p></p><p align="justify">2. Ed-Technology Enhanced Lessons to support self-directed learning
+</p><p></p><p align="justify">3. Exposure to Current Affairs and General Knowledge to enrich students' experiences and knowledge
+</p><p></p><p align="justify">4. Inquiry Through Dialogue and Process Thinking to make thinking visible
+</p><p></p><p align="justify">5. Student-Centric Instruction to develop metacognition and multiliteracies
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 30%;"><img src="/images/ell3.jpg"></td>
-<td style="width: 70%;">
-<p><span style="text-decoration: underline;"><strong>Reading Programme</strong></span><br>Students are exposed to a wide range of texts types through magazines and library visits. In class, time is spent on discussing contemporary issues raised in the magazines, and students develop good reading habits.</p>
-<p>Lower Secondary classes also work on presentations of issues that interest them, and share with their classmates in the form on student led discussions.</p>
-</td>
+<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/English_Dept_4.jpg"></td>
+<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/English_Dept_5.jpg"></td>
+<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/English_Dept_6.jpg"></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;"><p style="text-align: center;">Rich discussions: Students find their voices through meaningful conversation.</p></td>
+<td style="width: 33.3333%;"><p style="text-align: center;">Exposure to current affairs: Students discuss and evaluate current issues to enrich their knowledge and critical thinking</p></td>
+<td style="width: 33.3333%;"><p style="text-align: center;">Student-centric instruction: Metacognition and multiliteracies are developed through instruction tailored to students' needs.</p></td>
+</tr>
+<tr>
+</tr>
+</tbody>
+</table>	
+</p><h4><strong>English Literature</strong></h4>
+<p dir="ltr">At Peicai Secondary School, our goal is to help students develop the skills to become:</p>
+<img src="/images/ell1.png">
+<p dir="ltr">In Literature classes, Learning Outcomes are supported through the Literary Response framework as shown below:</p>
+<img src="/images/ell2.png">
+<p></p><p align="justify">This Literary Response Framework embodies our approach to designing learning experiences that inspire students to engage with texts comprehensively. Shaped like an eye, the Framework underscores how responding to literature empowers students to interpret texts and the world from diverse perspectives, fostering greater discernment and insight.</p>
+<h4><strong>Department Programmes/Highlights</strong></h4>
+<p dir="ltr"><span style="text-decoration: underline;"><strong>Public Speaking Workshops</strong></span></p>
+<p></p><p align="justify">At Peicai Secondary School, we recognize the importance of effective communication. To nurture this skill, we bring in public speaking experts to train our Secondary One students, equipping them with the confidence and knowledge needed to communicate effectively. Our students learn the art of engaging their audience through both verbal and non-verbal communication. </p>
+<p></p><p align="justify">Representatives are identified and trained for the Plain English Speaking Award organised by YMCA.</p>
+<p></p><p align="justify">In the English classroom, they have numerous opportunities to practice and enhance these skills through engaging activities, mock debates, and class presentations.</p>
+<p></p><p align="justify">Additionally, we identify and prepare representatives to participate in the Plain English Speaking Award organized by YMCA, further honing their public speaking abilities.</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img style="width: 100%;" src="/images/English_Dept_9.jpg"></td>
+<td style="width: 50%;"><img style="width: 100%;" src="/images/English_Dept_10.jpg"></td>
+</tr>
+<tr>
+<td style="width: 50%;"><p style="text-align: center;">Empowering tomorrow's speakers: A student's enthusiastic leap during our Public Speaking workshop, captivating his audience with confidence.</p></td>
+<td style="width: 50%;"><p style="text-align: center;">Fostering engaging speakers: Building confidence through public speaking activities. </p></td>
+</tr>
+<tr>
 </tr>
 </tbody>
 </table>
-	<p dir="ltr"><span style="text-decoration: underline;"><strong>English Week</strong></span><br>Students participate in various activities aimed at developing an appreciation for the language. Competitions are held where students demonstrate their understanding of the language through skits and performances. In 2021, students participated in a slew of activities, including the Secondary One students exercising their creative chops in creating a 55 word story.</p>
-<img src="/images/ell4.png">
-	<p dir="ltr"><strong><u>Drama Appreciation<br></u></strong>Upper Secondary Literature students are given the opportunity to attend musicals and plays. Over the years, students have attended staging of Phantom of the Opera, The Curious Incident of the Dog in the Nighttime, The Sound of Music and many more.&nbsp;</p>
-<p dir="ltr"><strong><u>National Schools Literature Festival<br></u></strong>Selected students represent the school in various competitions organised during the National Schools Literature Festival, including Set Text Debate and Book Parade.&nbsp;</p>
+<p></p><p align="justify"><span style="text-decoration: underline;"><strong>Creative Writing Programme</strong></span><br>Secondary Two students engage in an enriching programme led by renowned local writers, unlocking their creativity and imagination. They delve into diverse genres of writing, refining their skills and embracing experimentation. Encouraged to take risks and learn collaboratively, students develop their critical thinking skills, build confidence in their writing abilities and discover their creative potential, and in turn, enhance their ability to craft compelling essays.</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img style="width: 50%;" src="/images/English_Dept_11.jpg"></td>
+</tr>
+<tr>
+<td style="width: 50%;"><p style="text-align: center;">Unlocking imagination: Students forge creative paths together.</p>
+</td>
+</tr>
+<tr>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img style="width: 100%;" src="/images/ell4.png"></td>
+</tr>
+<tr>
+<td style="width: 50%;"><p style="text-align: center;">Student creativity: A gallery of inspired works.</p>
+</td>
+</tr>
+<tr>
+</tr>
+</tbody>
+</table>
+<p></p><p align="justify"><b><u>Debating Programme &amp; Championship<br></u></b>All Secondary Three students participate in debating workshops led by experienced debaters. These workshops provide a platform for students to practice skills like argument development and persuasive speech delivery. Through these experiences, students not only build confidence but also sharpen their critical thinking abilities. They then get the chance to showcase their skills in the Secondary Three Inter-class Debating Championship, where they can put their abilities to the test in friendly competition with their fellow students.</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img style="width: 100%;" src="/images/English_Dept_13.jpg"></td>
+<td style="width: 50%;"><img style="width: 100%;" src="/images/English_Dept_14.jpg"></td>
+</tr>
+<tr>
+<td style="width: 50%;"><p style="text-align: center;">Debating builds confidence: Empowering first-time debaters.</p>
+</td><td style="width: 50%;"><p style="text-align: center;">Engaging minds: Inter-class debates in action.</p>
+</td>
+</tr>
+<tr>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img style="width: 100%;" src="/images/English_Dept_15v.jpg"></td>
+<td style="width: 50%;"><img style="width: 70%;" src="/images/English_Dept_1.jpg"></td>
+</tr>
+<tr>
+<td style="width: 50%;"><p style="text-align: center;">Fueling thoughtful discourse: The Interclass Debating Championship ignites students' passion for thoughtful conversation.</p>
+</td><td style="width: 50%;"><p style="text-align: center;">On the verge of victory: A debater’s fierce rhetoric at the Interclass Debating Championship.</p>
+</td>
+</tr>
+<tr>
+</tr>
+</tbody>
+</table>
 <h4><strong>Syllabus</strong></h4>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 33.3333%;"><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2022syllabus/1128_y22_sy.pdf" target="_blank" rel="noopener">1128 O Level English</a></td>
-<td style="width: 33.3333%;"><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2022syllabus/1190_y22_sy.pdf" target="_blank" rel="noopener">1190 N(A) Level English</a></td>
-<td style="width: 33.3333%;"><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2022syllabus/1195_y22_sy.pdf" target="_blank" rel="noopener">1195 N(T) Level English</a></td>
+<td style="width: 33.3333%;"><a href="https://www-seab-gov-sg-admin.cwp.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/1184_y24_sy.pdf" target="_blank" rel="noopener">1184 ‘O’ Level English</a></td>
+<td style="width: 33.3333%;"><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/1190_y24_sy.pdf" target="_blank" rel="noopener">1190 ‘N(A)’ Level English</a></td>
+<td style="width: 33.3333%;"><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/1195_y24_sy.pdf" target="_blank" rel="noopener">1195 ‘N(T)’ Level English</a></td>
 </tr>
 <tr>
-<td style="width: 33.3333%;"><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2023syllabus/2274_y23_sy.pdf" target="_blank" rel="noopener">2274 Humanities (Social Studies, Literature in English)</a></td>
-<td style="width: 33.3333%;"><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2021syllabus/2065_y21_sy.pdf" target="_blank" rel="noopener">2065 Literature in English</a></td>
+<td style="width: 33.3333%;"><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/2262_y24_sy.pdf" target="_blank" rel="noopener">2262 ‘O’ Level Humanities (Social Studies, Literature in English)</a></td>
+<td style="width: 33.3333%;"><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/2127_y24_sy.pdf" target="_blank" rel="noopener">2127 ‘N(A)’ Level Humanities (Social Studies, Literature in English)</a></td>
 <td style="width: 33.3333%;">&nbsp;</td>
 </tr>
 </tbody>
-</table></div>
+</table>

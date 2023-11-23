@@ -5,7 +5,6 @@ description: ""
 variant: markdown
 ---
 <h4><strong>SCIENCE</strong></h4>
-
 <h4><strong>Learning Outcomes</strong></h4>
 <p>In Peicai, our students learn to: </p>
 <table style="border-collapse: collapse; width: 100%;" border="1">

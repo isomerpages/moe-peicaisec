@@ -6,7 +6,6 @@ description: ""
 third_nav_title: Craft & Technology
 ---
 <h4><strong>NUTRITION &amp; FOOD SCIENCE UNIT</strong></h4>
-<h4><strong>DESIGN &amp; TECHNOLOGY</strong></h4>
 <h4><strong>Learning Outcomes</strong></h4>
 <p>In Peicai, our students learn to: </p>
 <table style="border-collapse: collapse; width: 100%;" border="1">

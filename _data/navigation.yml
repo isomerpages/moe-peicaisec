@@ -24,7 +24,9 @@ links:
   - title: Academic
     url: /academic/subjects-offered
     sublinks:
-      - title: Subjects offered
+      - title: T&L Framework
+        url: /academic/t-l-framework
+      - title: Subjects Offered
         url: /academic/subjects-offered
       - title: Assessment and Promotion
         url: /academic/assessment-and-promotion-criteria
@@ -44,6 +46,10 @@ links:
         url: /academic/english-language-n-literature
       - title: Humanities
         url: /academic/humanities
+      - title: Principles of Accounts
+        url: /academic/principles-of-accounts
+      - title: Elements of Business
+        url: /academic/elements-of-business
       - title: Mathematics
         url: /academic/mathematics
       - title: Mother Tongue Languages
@@ -55,10 +61,10 @@ links:
   - title: Student Development
     collection: student-development
   - title: CCA
-    url: /cca/cca-schedule
+    url: /cca/ccas-and-leaps
     sublinks:
-      - title: CCA Schedule
-        url: /cca/cca-schedule
+      - title: CCAs & LEAPS 2.0
+        url: /cca/ccas-and-leaps
       - title: CCAs
         url: /cca/ccas
   - title: Distinctive Programmes

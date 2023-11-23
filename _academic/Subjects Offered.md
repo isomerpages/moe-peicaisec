@@ -1,5 +1,5 @@
 ---
-title: Subjects offered
+title: Subjects Offered
 permalink: /academic/subjects-offered/
 description: ""
 variant: markdown

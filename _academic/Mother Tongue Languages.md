@@ -49,7 +49,7 @@ variant: markdown
 </table>
 <p><u>Mid-Autumn Festival (September)</u></p>
 <p>MTL Department collaboration with SWB</p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 70%;" border="1">
 <tbody>
 <tr>
 <td style="width: 50%;"><img src="/images/MTL11.JPG"></td>
@@ -57,35 +57,34 @@ variant: markdown
 </tbody>
 </table>
 <p>Exposure / Competition</p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 70%;" border="1">
 <tbody>
 <tr>
 <td style="width: 50%;"><img src="/images/MTL12.JPG"></td>
 </tr>
 </tbody>
 </table>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 80%;" border="1">
 <tbody>
 <tr>
 <td style="width: 100%;"><img src="/images/MTL13.JPG"></td>
 </tr>
 </tbody>
 </table>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 80%;" border="1">
 <tbody>
 <tr>
 <td style="width: 100%;"><img src="/images/MTL14.JPG"></td>
 </tr>
 </tbody>
 </table>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 80%;" border="1">
 <tbody>
 <tr>
 <td style="width: 100%;"><img src="/images/MTL15A.JPG"></td>
 </tr>
 </tbody>
 </table>
-
 <p><span style="text-decoration: underline;"><strong>Malay Language and Culture</strong></span></p>
 <p><strong>Malay Language</strong></p>
 <p></p><p align="justify">To achieve our Mother Tongue department mission, we embark on several programmes to enhance our students’ language skills. These programmes include ‘Class Library Programme’, the ‘MTL Intensive Programme for our Graduating Classes’ as well as the ‘Conversational Chinese and Malay Programme’ for our Secondary One student’s. </p>

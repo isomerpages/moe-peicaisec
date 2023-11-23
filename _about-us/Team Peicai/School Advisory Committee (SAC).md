@@ -12,7 +12,7 @@ variant: markdown
 <tbody>
 <tr>
 <td>Chairman</td>
-<td>Mr Tang Chye Huat, PBM</td>
+<td>Mr Tang Chye Huat  PBM</td>
 </tr>
 <tr>
 <td>Vice-Chairman&nbsp;</td>
@@ -24,7 +24,7 @@ variant: markdown
 </tr>
 <tr>
 <td>Members</td>
-<td>Ms Evangeline Tan-Yeow<br>Ms Amy Teo<br>Mr Yeo Boon Thiam, Steven&nbsp;<br>Mr Chia Dingli Stanley<br>Mrs Teo-Chiam Bee Ling</td>
+<td>Ms Evangeline Tan-Yeow<br>Ms Amy Teo<br>Mr Yeo Boon Thiam, Steven&nbsp;<br>Mr Chia Dingli Stanley<br>Mrs Teo-Chiam Bee Ling  PBM</td>
 </tr>
 </tbody>
 </table>

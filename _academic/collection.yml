@@ -2,7 +2,8 @@ collections:
   academic:
     output: true
     order:
-      - Subjects offered.md
+      - T&L Framework.md
+      - Subjects Offered.md
       - Assessment and Promotion Criteria.md
       - Full Subject Based Banding (FSBB).md
       - Subject Overviews.md
@@ -20,6 +21,8 @@ collections:
       - Computer Applications (CPA).md
       - English Language & Literature.md
       - Humanities.md
+      - Principles of Accounts.md
+      - Elements of Business.md
       - Mathematics.md
       - Mother Tongue Languages.md
       - Physical Education.md

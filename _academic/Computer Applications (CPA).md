@@ -4,7 +4,7 @@ permalink: /academic/permalink/computer-applications/
 variant: markdown
 description: ""
 ---
-<h4><strong>CPA</strong></h4>
+<h4><strong></strong></h4>
 
 <h4><strong>Learning Outcomes</strong></h4>
 <p>In Peicai Secondary School, we aim to achieve the following through the Computer Applications (CPA) subject:</p>
@@ -23,16 +23,46 @@ description: ""
 <li>develop students’ interest in media design; and</li>
 <li>hone students’ communication and presentation skills.</li></ul>
 <p></p><p align="justify">This competition is held in conjunction with the school-based course projects for the CPA subject at Secondary 2 and Secondary 3 levels. Students will develop an animation or game based on the respective theme provided for the course projects. Upon completion of the projects, CPA subject teachers will select the best piece of work to be submitted for the competition.</p>
+
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/CPA1.JPG"></td>
+<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/Cpa_game1.jpg"></td>
+<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/Cpa_game3.jpg"></td>
 </tr>
 <tr>
+<td style="width: 33.3333%;"><p style="text-align: center;">Animation creation  </p></td>
+<td style="width: 33.3333%;"><p style="text-align: center;"></p></td>
+</tr>
+<tr>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 33.3333%;"><img style="width: 60%;" src="/images/Cpa_game2.jpg"></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;"><p style="text-align: center;">Sample Student Work </p></td>
+</tr>
+<tr>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/Cpa_game4.jpg"></td>
+<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/Cpa_game5.jpg"></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;"><p style="text-align: center;"></p></td>
 <td style="width: 33.3333%;"><p style="text-align: center;"></p></td>
 </tr>
 </tbody>
 </table>
+
 <h4><strong>Syllabus</strong></h4>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
