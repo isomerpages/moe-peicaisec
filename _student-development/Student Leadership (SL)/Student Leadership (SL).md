@@ -37,3 +37,13 @@ variant: markdown
 </th></tr>
 </tbody>
 </table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/Student_Mentorship_Programme_v1.jpg"></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;"><p style="text-align: center;"></p></td>
+</tr>
+</tbody>
+</table>
