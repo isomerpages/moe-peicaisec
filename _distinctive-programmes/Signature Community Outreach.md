@@ -64,11 +64,22 @@ That really made us feel very proud!
 </tbody>
 </table><p></p><hr><hr>
 <p></p>
-
 <table border="0" style="border-collapse: collapse; width: 100%;">
 <tbody>
 <tr>
 <td style="width: 100%;"><img src="/images/05 signature outreach.JPG"></td>
+</tr>
+<tr>
+<td style="width: 50%;"><p align="justify">We would like to take this opportunity to thank Mr Michael for his support to this project and all our form teachers who guided us in this appreciation project. The art installation would be featured at Serangoon bus interchange Passenger Service Office. We hope more of you can stand up and initiate meaningful projects for our community!
+</p></td>
+</tr>
+</tbody>
+</table><p></p><hr>
+<p></p>
+<table border="0" style="border-collapse: collapse; width: 100%;">
+<tbody>
+<tr>
+<td style="width: 100%;"><img src="/images/Lions_1v.jpg"></td>
 </tr>
 <tr>
 <td style="width: 50%;"><p align="justify">We would like to take this opportunity to thank Mr Michael for his support to this project and all our form teachers who guided us in this appreciation project. The art installation would be featured at Serangoon bus interchange Passenger Service Office. We hope more of you can stand up and initiate meaningful projects for our community!
