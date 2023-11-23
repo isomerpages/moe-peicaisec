@@ -22,6 +22,15 @@ variant: markdown
 <img src="/images/tdp7.jpg"><br>
 <img src="/images/tdp8.jpg"><br>
 <p><b><u>Entry Criteria</u></b></p>
+<p>Students have several opportunities to join the PinnaCle@Peicai Programme at key entry points:<br>(a)	Direct Entry After PSLE: <br>•	At least AL4 or better in PSLE for the subject<br>(b)	Secondary 1 Mid-Year<br></p>•	Pass promotion criteria for Sem 1<br>
+•	Overall marks % must be at least 80% for the subject<br>
+•	At least a Good conduct grade<br>
+•	Subject teacher's recommendation<br><br>(c)	Secondary 1 &amp; Secondary 2 End-Year<br>•	Pass promotion criteria of the previous academic year<br>
+•	Overall marks % must be at least 75% for the subject (EL/MA/Sci).<br>
+•	Conduct grade must be at least a good<br>
+•	Subject teacher's recommendation<br> 
+
+
 
 
 
