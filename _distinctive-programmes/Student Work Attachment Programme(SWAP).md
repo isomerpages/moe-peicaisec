@@ -8,8 +8,8 @@ variant: markdown
 
 <img src="/images/work attachment opportunities-peicai 02.JPG"><hr>
 <p></p>
-<img src="/images/School_Advisory_Meeting_21_Nov.jpg"><p></p><p align="justify">
-As the school’s flagship Education Career Guidance (ECG) programme, Peicai’s SWAP provides opportunities for students to gain knowledge and valuable insights into the world of work via attachment to different companies and organisations. Sectors involved include Law, Finance, Business, Design and Science amongst many others.</p>
+<img src="/images/School_Advisory_Meeting_21_Nov.jpg">
+<p></p><p align="justify">As the school’s flagship Education Career Guidance (ECG) programme, Peicai’s SWAP provides opportunities for students to gain knowledge and valuable insights into the world of work via attachment to different companies and organisations. Sectors involved include Law, Finance, Business, Design and Science amongst many others.</p>
 
 
 
