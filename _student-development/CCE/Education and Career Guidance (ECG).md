@@ -48,6 +48,32 @@ Build students' adaptability and resilience to embrace the need for lifelong lea
 </tr>
 </tbody>
 </table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr></tr>
+<tr>
+<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/ecg5v.jpg"></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;"><p style="text-align: center;">Students using analytics tools to make sense of their data.</p></td>
+</tr>
+<tr>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr></tr>
+<tr>
+<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/ecg6v.jpg"></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;"><p style="text-align: center;">Providing Students with Applied Learning Opportunities – Learning That Involves Doing And Applying, Learning About The Real World, And Learning For Life.</p></td>
+</tr>
+<tr>
+</tr>
+</tbody>
+</table>
 
 
 
