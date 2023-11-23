@@ -24,7 +24,14 @@ Build students' adaptability and resilience to embrace the need for lifelong lea
 <p></p><h4><b>ECG-Based Lessons During CCE periods</b></h4><p></p>
 <p></p><p align="justify">As part of CCE lessons, all students have lessons focusing on Education and Career Guidance. During the lessons, the following areas are covered:</p>
 <p>Discovering who you are<br>• Self-Awareness and Personal Management<br><br>Making informed career decisions<br>•Exploring and Understanding the Education Landscape<br>• Exploration of Occupational Clusters <br>• Identification of Relational Support and Decision Influencers <br>Continual learning <br>• Adoption of Growth Mindset and Developing Enduring Dispositions</p>
-	
+<p></p><h4><b>Student Work Attachment Programme (SWAP)</b></h4><p></p>
+<p>The Student Work Attachment Programme (SWAP) is designed to enable Peicaians to:</p>
+<p><img src="/images/ecg3v.JPG"></p>
+<p>The work attachment opportunities are open to students at the upper secondary levels. Students are invited to apply for the available work attachment opportunities and are selected to go for the work attachments based on criteria which includes passion for the work area and industry.</p>
+<p><a rel="noopener" target="_blank" href="https://www.peicaisec.moe.edu.sg/distinctive-edge/work-attachment/">Click</a> here to find out more about the Student Work Attachment Programme at PCSS.</p>
+
+
+
 
 
 
