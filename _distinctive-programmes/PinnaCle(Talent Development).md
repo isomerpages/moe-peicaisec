@@ -28,13 +28,9 @@ variant: markdown
 •	Subject teacher's recommendation<br><br>(c)	Secondary 1 &amp; Secondary 2 End-Year<br>•	Pass promotion criteria of the previous academic year<br>
 •	Overall marks % must be at least 75% for the subject (EL/MA/Sci).<br>
 •	Conduct grade must be at least a good<br>
-•	Subject teacher's recommendation<br> 
-
-
-
-
-
-
+•	Subject teacher's recommendation<br><p></p>
+<p><b><u>Recognition</u></b></p>
+<p></p><p align="justify">Outstanding students who demonstrate a passion for and excel in the respective disciplines of English, Maths, Science or Sports, can also look forward to being awarded the Mr Josephus Tan PinnaCle Book Prize.</p>
 
 <h4>PinnaCle Challenge by PinnaCle@Peicai</h4>
 <p></p><p align="justify">The PinnaCle Challenge, an inaugural competition organised by Peicai Secondary School's Talent Development Programme (PinnaCle@Peicai), took place on 23 October 2023. It brought together approximately 120 Primary 6 pupils from different schools to collaborate, experiment, and compete in the development of innovative and critical solutions or approaches to address global issues.</p>
