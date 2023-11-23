@@ -17,3 +17,23 @@ variant: markdown
 </td></tr>
 </tbody>
 </table>
+<table>
+<tbody>
+<tr>
+<th><img src="/images/Student_Leadership_Open_House_Poster_1.jpg" style="width: 100%;"><br>	
+</th></tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<th><img src="/images/Student_Leadership_Open_House_Poster_2.jpg" style="width: 100%;"><br>	
+</th></tr>
+</tbody>
+</table><table>
+<tbody>
+<tr>
+<th><img src="/images/Student_Leadership_Open_House_Poster_3.jpg" style="width: 100%;"><br>	
+</th></tr>
+</tbody>
+</table>
