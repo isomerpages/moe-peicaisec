@@ -7,9 +7,21 @@ third_nav_title: CCE
 ---
 <h4><strong>Education and Career Guidance (ECG)</strong></h4>
 <p><b>Objectives</b></p>
-<p>In Peicai, we aim to:<br></p><p align="justify">1) enable students to <strong>explore</strong> viable education and career <strong>options</strong> through the provision of accurate and comprehensive <strong>information; </strong>(Knowledge)<br>2) nurture student's <strong>self-awareness, self-directedness </strong>and <strong>life skills </strong>for continual learning and training; (Skills)<br>3) inculcate an <strong>appreciation </strong>for the <strong>value of all occupations</strong> and how they contribute to the well-functioning of society; (Mindset)<br>4) equip students with <strong>skills and means to positively engage </strong>gtheir parents and other <strong>career influencers. </strong>(Engaging the community)</p>
-<p><b>Curriculum</b></p>
-<h4>ECG Outcomes for Secondary Students</h4>
+<p>In Peicai, we aim to:<br></p><p align="justify">1) enable students to <strong>explore</strong> viable education and career <strong>options</strong> through the provision of accurate and comprehensive <strong>information; </strong>(Knowledge)<br>2) nurture student's <strong>self-awareness, self-directedness </strong>and <strong>life skills </strong>for continual learning and training; (Skills)<br>3) inculcate an <strong>appreciation </strong>for the <strong>value of all occupations</strong> and how they contribute to the well-functioning of society; (Mindset)<br>4) equip students with <strong>skills and means to positively engage </strong>their parents and other <strong>career influencers. </strong>(Engaging the community)</p>
+<p><b></b></p><h4><b>Curriculum</b></h4><p></p>
+<p><b>ECG Outcomes for Secondary Students</b></p>
+<p></p><p align="justify">1) Our ECG programmes are planned and conducted for students at various levels in alignment with the ECG Development Model by the Ministry of Education.</p>
+<p><img src="/images/ecg1v.jpg"></p>
+
+
+
+
+
+
+
+
+
+
 <p dir="ltr"><strong>1) Lower Secondary School Emphasis: Career Exploration</strong></p>
 <ul>
 <li dir="ltr" aria-level="1">Students will know more about the world of work.</li>
