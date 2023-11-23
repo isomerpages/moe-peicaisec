@@ -28,4 +28,4 @@ variant: markdown
 <p></p><p align="justify">Working in teams of four, the Primary 6 participants, under the mentorship of the PinnaCle Student Mentors, engaged in the challenge tasks within a set timeframe. As the culmination of the process, they then presented their deliverables to a panel of judges. The pupils put up a persuasive showcase to convince the judges of their innovative and viable sustainability actions.</p>
 <p><b>PinnaCle@Peicai Programme</b></p>
 <img src="/images/Pinnacle_challenge.jpg"><br>
-<img src="/images/Pinnacle_Josephus.jpg"><hr>
+<img src="/images/Pinnacle_Josephus.jpg">
