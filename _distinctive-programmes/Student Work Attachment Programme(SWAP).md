@@ -9,16 +9,15 @@ variant: markdown
 <img src="/images/work attachment opportunities-peicai 02.JPG"><hr>
 <p></p>
 <img src="/images/School_Advisory_Meeting_21_Nov.jpg"><p></p><p align="justify">
-As the school’s flagship Education Career Guidance (ECG) programme, Peicai’s SWAP provides opportunities for students to gain knowledge and valuable insights into the world of work via attachment to different companies and organisations. Sectors involved include Law, Finance, Business, Design and Science amongst many others.
-</p><p></p><hr><p></p><table>
-<tbody>
-<tr>
-</tr><tr>
-<th><img src="/images/work attachment opportunities-peicai 03.JPG" style="width: 100%;"><br>	
-</th><td><img src="/images/work attachment opportunities-peicai 05.JPG" style="width: 100%;"><br>
-</td></tr>
-</tbody>
-</table>
+As the school’s flagship Education Career Guidance (ECG) programme, Peicai’s SWAP provides opportunities for students to gain knowledge and valuable insights into the world of work via attachment to different companies and organisations. Sectors involved include Law, Finance, Business, Design and Science amongst many others.</p>
+
+
+
+<img src="/images/work attachment opportunities-peicai 03.JPG" style="width: 100%;"><br>	
+<img src="/images/work attachment opportunities-peicai 05.JPG" style="width: 100%;"><br>
+
+
+
 <p align="justify"><b>Mentors :Mr Josephus Tan ( Founder),
 Mr Josiah Zee ,
 Mr Russell.</b> <br>
