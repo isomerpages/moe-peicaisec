@@ -2,7 +2,6 @@ collections:
   academic:
     output: true
     order:
-      - Elements of Business.md
       - T&L framework.md
       - Subjects offered.md
       - Assessment and Promotion Criteria.md
@@ -23,6 +22,7 @@ collections:
       - English Language & Literature.md
       - Humanities.md
       - Principles of Accounts.md
+      - Elements of Business.md
       - Mathematics.md
       - Mother Tongue Languages.md
       - Physical Education.md
