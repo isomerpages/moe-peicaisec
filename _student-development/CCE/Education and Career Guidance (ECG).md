@@ -209,9 +209,9 @@ Build students' adaptability and resilience to embrace the need for lifelong lea
 <p><b>Education and Career Guidance (ECG) Counsellor</b><br>The school also has an in-house ECG Counsellor who provides the following to students:<br>• up-to-date information and resources on post-secondary education<br>•individual and/or group counselling and guidance sessions with the aim of helping students make well-informed decisions or manage issues related to education and career choices<br>•work closely with the school to support the planning and delivery of ECG strategies that are customised to the school’s needs, profile or areas of priority<br><br>Students may proactively make appointments to meet up with the ECG Counsellor in school through their Form Teachers</p>
 
 <h4><strong>ECG Resources</strong></h4>
-<ul>
-<li aria-level="1">ECG Overview: <br> <a href="http://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/overview</a>)</li>
-<li aria-level=">www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/overview</a></li>
+
+<p>ECG Overview: <br> <a href="http://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/overview</a>)</li>
+<li aria-level=">www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/overview</a></p>
 
 <li aria-level="1">ECG Tips for Parents:  <br> (<a href="http://www.moe.gov.sg/-/media/files/programmes/ecg/ecg-tips-for-parents.ashx</a>)</li>
 <li aria-level=">www.moe.gov.sg/-/media/files/programmes/ecg/ecg-tips-for-parents.ashx</a></li><a href="http://www.moe.gov.sg/-/media/files/programmes/ecg/ecg-tips-for-parents.ashx</a>)</li>
@@ -222,4 +222,4 @@ Build students' adaptability and resilience to embrace the need for lifelong lea
 	
 	
 	
-	</a></ul>
+	</a>
