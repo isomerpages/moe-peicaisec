@@ -6,6 +6,7 @@ third_nav_title: Sports
 variant: markdown
 ---
 <h4><strong>VOLLEYBALL</strong></h4>
+<p><b>Boys &amp; Girls</b></p><p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
@@ -13,7 +14,7 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-<p><b>Goals &amp; Objectives </b></p>
+</p><p><b>Goals &amp; Objectives </b></p>
 <p></p><p align="justify">1.	In Volleyball, we aim to develop Passion for the sport of Volleyball Skills &amp; Gameplay competencies. Sportsmanship, teamwork and values.<br>
 2.	Beside learning important volleyball skills, students also learn the rules, formations and strategies of the game. Through weekly trainings, students grow into individuals who possess strong sense of sportsmanship, unwavering resilience and high level of discipline.
 </p><br>
