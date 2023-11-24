@@ -5,8 +5,8 @@ description: ""
 third_nav_title: Sports
 variant: markdown
 ---
-<h4><strong>SOFTBALL</strong></h4>
-<p><b>Boys &amp; Girls</b></p><p>
+<h4><strong>SOFTBALL Boys &amp; Girls</strong></h4>
+
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
@@ -14,7 +14,7 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-</p><p><b>Goals &amp; Objectives </b></p>
+<p></p><p><b>Goals &amp; Objectives </b></p>
 <p></p><p align="justify">1. We train with diligence and discipline to ensure that we are prepared to put up a strong challenge at the national level.<br> 
 2.	We cherish the values of teamwork, respect and integrity that help keep us going amidst adversities.
 
