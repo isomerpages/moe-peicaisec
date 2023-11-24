@@ -3,128 +3,53 @@ title: Floorball Boys & Girls
 permalink: /cca/ccas/sports/floorball-boys-n-girls/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
-<h4><strong>Floorball Boys & Girls</strong></h4>
-<p>In Floorball, we aim to develop students holistically through character building and instilling values through the medium of sports. Students will be equipped with the necessary floorball skills to compete to the best of their abilities. In their time with the CCA, students would develop and strengthen the values of</p>
-<ol>
-<li>Discipline</li>
-<li>Perseverance</li>
-<li>Teamwork</li>
-</ol>
-<h4><strong>Teachers-In-Charge</strong></h4>
-<table width="439">
+<h4><strong>FLOORBALL Boys &amp; Girls</strong></h4>
+<table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="text-align: center;" width="219">
-<p><strong>Name</strong></p>
-</td>
-<td style="text-align: center;" width="219">
-<p><strong>Designation</strong></p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="219">
-<p><em>Amal Luqman</em></p>
-</td>
-<td style="text-align: center;" width="219">
-<p><em>Overall-in-Charge</em></p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="219">
-<p><em>Sharon Tan</em></p>
-</td>
-<td style="text-align: center;" width="219">
-<p><em>Teacher-in-Charge</em></p>
-</td>
+<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/Floorball_1.jpg"></td>
 </tr>
 </tbody>
 </table>
-<h4><strong>Training Schedule</strong></h4>
-<table width="439">
+<p></p><p><b>Goals &amp; Objectives </b></p>
+<p></p><p align="justify">1.	The Peicai Floorball Team A team of passionate student athletes who share the same desire to excel. As a young team, you will be a part of an exciting prospect, where you will get to write your own history and shape your own sporting legacy.<br>
+2.	The Peicai Floorball Experience: Trainings are dynamic and exciting, with focus on building fitness, levelling up individual skills and strengthening players’ understanding of gameplay.. At the end of the day, Peicai floorballers will develop a strong passion for the game and an immense desire to do well.
+
+</p><p><b>CCA Achievements </b></p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="text-align: center;" width="146">
-<p><strong>Day</strong></p>
-</td>
-<td style="text-align: center;" width="146">
-<p><strong>Time</strong></p>
-</td>
-<td style="text-align: center;" width="146">
-<p><strong>Venue</strong></p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="146">
-<p><em>Monday</em></p>
-</td>
-<td style="text-align: center;" width="146">
-<p><em>3.40pm &ndash; 6.20pm</em></p>
-</td>
-<td style="text-align: center;" width="146">
-<p><em>Multi-Purpose Hall</em></p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="146">
-<p><em>Tuesday</em></p>
-</td>
-<td style="text-align: center;" width="146">
-<p><em>3.40pm &ndash; 6.20pm</em></p>
-</td>
-<td style="text-align: center;" width="146">
-<p><em>Multi-Purpose Hall</em></p>
-</td>
+<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/Floorball_2.jpg"></td>
+	<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/Floorball_3.jpg"></td>
 </tr>
 </tbody>
 </table>
-<h4><strong>Student EXCO</strong></h4>
-<table width="439">
+<p></p>
+<p></p><p align="justify">1.	Key Milestones of Peicai Floorball Club National School Games Floorball Championships B’ and C’ Division ActiveSG Year-end Floorball Smash, SG Floorball Open Competition<br>
+2.	We also take part in frequent friendlies to build camaraderie within the community and also share and learn from more experienced teams<br>
+3.	2023 Cheng San-Seletar CSN Floorball Competition - Boys<br>
+4.	2022 ActiveSG Year-End Floorball Smash Girls - 2nd Runner-Up<br>
+5.	2022 ActiveSG Year-End Floorball Smash Boys</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="text-align: center;" width="219">
-<p><strong>Appointment</strong></p>
-</td>
-<td style="text-align: center;" width="219">
-<p><strong>Name of Student</strong></p>
-</td>
+<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/Floorball_4.jpg"></td>
 </tr>
 <tr>
-<td style="text-align: center;" width="219">
-<p><em>Level I/C</em></p>
-</td>
-<td style="text-align: center;" width="219">
-<p><em>Ariana Sheralynn Binte Mohammad Azim (1B2)</em></p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="219">
-<p><em>Level I/C</em></p>
-</td>
-<td style="text-align: center;" width="219">
-<p><em>Shi Yongxin (1C1)</em></p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="219">
-<p><em>Level I/C</em></p>
-</td>
-<td style="text-align: center;" width="219">
-<p><em>Danish Al Qays Bin Mohammed Asy&rsquo;ari (1C1)</em></p>
-</td>
+<td style="width: 33.3333%;"><p style="text-align: center;"></p></td>
 </tr>
 </tbody>
 </table>
-<h4><strong>Programmes / Activities</strong></h4>
-<p><strong>Training:</strong></p>
-<ul>
-<li>Fundamental skills</li>
-<li>Gameplay</li>
-<li>Teambuilding</li>
-<li>Physical Training</li>
-</ul>
-<p><strong>National School Games<br /></strong>National Floorball Championship, &lsquo;B&rsquo; and &lsquo;C&rsquo; Divisions</p>
-<h4><strong>Achievements</strong></h4>
-<p>Peicai Floorball was founded in 2022 and has not participated in any competitions.</p>
-<h4><strong>Photos</strong></h4>
-<p>(to be uploaded soon!)</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/Floorball_5.jpg"></td>
+	<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/Floorball_6.jpg"></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;"><p style="text-align: center;"></p></td>
+</tr>
+</tbody>
+</table>

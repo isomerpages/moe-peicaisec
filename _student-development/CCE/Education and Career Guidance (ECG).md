@@ -209,13 +209,17 @@ Build students' adaptability and resilience to embrace the need for lifelong lea
 <p><b>Education and Career Guidance (ECG) Counsellor</b><br>The school also has an in-house ECG Counsellor who provides the following to students:<br>• up-to-date information and resources on post-secondary education<br>•individual and/or group counselling and guidance sessions with the aim of helping students make well-informed decisions or manage issues related to education and career choices<br>•work closely with the school to support the planning and delivery of ECG strategies that are customised to the school’s needs, profile or areas of priority<br><br>Students may proactively make appointments to meet up with the ECG Counsellor in school through their Form Teachers</p>
 
 <h4><strong>ECG Resources</strong></h4>
-<ul>
-<li aria-level="1">ECG Website (<a href="http://www.moe.gov.sg/ECG">www.moe.gov.sg/ECG</a>)</li>
-<li aria-level="1">ECG Parent Guide – Journeying with Our Children, Achieving their Aspirations (<a href="http://www.moe.gov.sg/ECG-parent-guide">www.moe.gov.sg/ECG-parent-guide</a>)</li>
-<li aria-level="1">Post-secondary options (<a href="http://www.moe.gov.sg/post-sec">www.moe.gov.sg/post-sec</a>)</li>
-<li aria-level="1">Post-secondary school brochure (<a href="http://www.moe.gov.post-sec-brochure/">www.moe.gov.post-sec-brochure</a>)</li>
-<li aria-level="1">Early Admissions Exercise (Polytechnics) (<a href="http://www.moe.gov.sg/early-admission-exercise">www.moe.gov.sg/early-admission-exercise</a>)</li>
-<li aria-level="1">Polytechnic Foundation Programme (<a href="https://pfp.polytechnic.edu.sg/PFP/index.html">https://pfp.polytechnic.edu.sg/PFP/index.html</a>)</li>
-<li aria-level="1">Joint Admissions Exercise (<a href="http://www.moe.gov.sg/JAE">www.moe.gov.sg/JAE</a>)</li>
-<li aria-level="1">What’s Next (After ‘N’ and ‘O’ Level) (<a href="http://www.moe.gov.sg/whats-next">www.moe.gov.sg/whats-next</a>)</li>
-</ul>
+
+<p>ECG Overview: <br><a rel="noopener" target="_blank" href="https://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/overview">www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/overview</a></p>
+
+<p>ECG Tips for Parents:  <br><a rel="noopener" target="_blank" href="https://www.moe.gov.sg/-/media/files/programmes/ecg/ecg-tips-for-parents.ashx">www.moe.gov.sg/-/media/files/programmes/ecg/ecg-tips-for-parents.ashx</a></p>
+
+<p>Post-secondary Options:  <br><a rel="noopener" target="_blank" href="https://www.moe.gov.sg/post-secondary">www.moe.gov.sg/post-secondary</a></p>
+
+<p>Post-Secondary Education Institutions: <br><a rel="noopener" target="_blank" href="https://www.moe.gov.sg/post-secondary/overview/">www.moe.gov.sg/post-secondary/overview/</a></p>
+
+<p>Early Admissions Exercise (Polytechnics):  <br><a rel="noopener" target="_blank" href="https://www.moe.gov.sg/post-secondary/admissions/poly-eae">www.moe.gov.sg/post-secondary/admissions/poly-eae</a></p>
+
+<p>Polytechnic Foundation Programme: <br><a rel="noopener" target="_blank" href="https://pfp.polytechnic.edu.sg/PFP/index.html">https://pfp.polytechnic.edu.sg/PFP/index.html</a></p>
+
+<p>Joint Admissions Exercise : <br><a rel="noopener" target="_blank" href="https://www.moe.gov.sg/post-secondary/admissions/jae">www.moe.gov.sg/post-secondary/admissions/jae</a></p>

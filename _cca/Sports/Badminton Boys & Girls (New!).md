@@ -3,95 +3,66 @@ title: Badminton Boys & Girls (New!)
 permalink: /cca/ccas/sports/badminton-boys-n-girls-new/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
-
-<h4><strong>Introduction</strong></h4>
-<p>Peicai Badminton Club&rsquo;s Mission: Nurture Peicaians to be champions l who embodies the spirit of&nbsp;<strong>H.E.R.O.E.S</strong>&nbsp;(<strong>H</strong>ardworking,&nbsp;<strong>E</strong>mpathetic,&nbsp;<strong>R</strong>esilient,&nbsp;<strong>O</strong>utstanding,&nbsp;<strong>E</strong>xemplary and&nbsp;<strong>S</strong>ensible)</p>
-<p>Objectives:</p>
-<ol>
-<li>Inculcate interest and passion in students for the game of Badminton through the teaching of the fundamentals of the game</li>
-<li>Build camaraderie in the team through eamwork and communication</li>
-<li>Develop students into proficient athletes of outstanding character.</li>
-<li>Unleash the potential of Peicaians and shine in national competitions</li>
-</ol>
-<p>We also aim to:</p>
-<ol>
-<li>equip students with the skillsets and knowledge to play the sport on a competitive and leisure basis.&nbsp;</li>
-<li>exemplify school values through engagement in the sport.</li>
-<li>provide a holistic experience to create a overall positive school experience that balances academic and character development.</li>
-</ol>
-<h4><strong>Teachers-In-Charge</strong></h4>
-<table width="439">
+<h4><strong>BADMINTON </strong></h4>
+<table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td width="219">
-<p><strong>Name</strong></p>
-</td>
-<td width="219">
-<p><strong>Designation</strong></p>
-</td>
-</tr>
-<tr>
-<td width="219">
-<p><em>Mr Daniel Hussain</em></p>
-</td>
-<td width="219">
-<p><em>OIC</em></p>
-</td>
-</tr>
-<tr>
-<td width="219">
-<p><em>Ms Soo Sio Koon</em></p>
-</td>
-<td width="219">
-<p><em>Second I/C</em></p>
-</td>
-</tr>
-<tr>
-<td width="219">
-<p><em>Mr Tan Yi Quan</em></p>
-</td>
-<td width="219">
-<p><em>Third I/C</em></p>
-</td>
+<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/Badminton_1.jpg"></td>
 </tr>
 </tbody>
 </table>
-<h4><strong>Training Schedule</strong></h4>
-<table width="439">
+<p><b>Goals &amp; Objectives </b></p>
+<p></p><p align="justify">1.	To nurture Peicaians who embodies the spirit of H.E.R.O.E.S (Hardworking, Empathetic, Resilient, Outstanding, Exemplary and Sensible)<br>
+2.	Inculcate interest and passion in students for the game of badminton Build camaraderies in the badminton team<br> 
+3.	Develop students into proficient athletes of oustanding character. <br>
+4.	Unleash the potential of Peicaians in national competitions Exemplify school values through badminton <br>
+5.	Provide a holistic experience to create an overall positive school experience
+</p><br>
+<table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td width="146">
-<p><strong>Day</strong></p>
-</td>
-<td width="146">
-<p><strong>Time</strong></p>
-</td>
-<td width="146">
-<p><strong>Venue</strong></p>
-</td>
+<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/Badminton_2.jpg"></td>
 </tr>
 <tr>
-<td width="146">
-<p><em>Tuesday</em></p>
-</td>
-<td width="146">
-<p><em>3.50pm &ndash; 6.20pm</em></p>
-</td>
-<td width="146">
-<p><em>MPH</em></p>
-</td>
+<td style="width: 33.3333%;"><p style="text-align: center;"></p></td>
+</tr>
+</tbody>
+</table>
+<p><b>CCA Achievements </b></p>
+<p></p><p align="justify">1. Badminton National Schools Games C-Division 2023 (Boys and Girls) Captain of C-Division, Jeremy Miracle Williams selected for trials with Singapore Schools Team for the 13th ASEAN School Games (Vietnam)<br>
+2.	Representaton in Bravesword competition, Alpha Age Competition and Chinese Swimming Club Competition 2023 by Jeremy Miracle Williams<br>
+3.	Representation at Smash Competition by Jiong Xian and Samuel 
+</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/Badminton_3.jpg"></td>
+<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/Badminton_4.jpg"></td>
 </tr>
 <tr>
-<td width="146">
-<p><em>Thursday</em></p>
-</td>
-<td width="146">
-<p><em>3.50pm &ndash; 6.20pm</em></p>
-</td>
-<td width="146">
-<p><em>MPH</em></p>
-</td>
+<td style="width: 33.3333%;"><p style="text-align: center;"></p></td>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/Badminton_5.jpg"></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;"><p style="text-align: center;"></p></td>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/Badminton_6.jpg"></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;"><p style="text-align: center;"></p></td>
 </tr>
 </tbody>
 </table>

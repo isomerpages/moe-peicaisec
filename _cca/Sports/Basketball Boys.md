@@ -3,9 +3,32 @@ title: Basketball Boys
 permalink: /cca/ccas/sports/basketball-boys/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
-<h4><strong>Basketball Boys</strong></h4>
-<p><p align="justify">The Peicai Basketball Team (PCSS) has evolved over the years. Currently we have started a recreational team to complement the school team. This is to cater to the needs of students who wish to join Basketball not just for competition but to keep fit, and also for those who like to have a second CCA.&nbsp;</p>
-<p><p align="justify">Through the training programme, we inculcate positive school values, fair play and sportsmanship to develop Peicaians of Character. We are happy that in 2016, our Peicai Basketball Team won the Fair Play Award in the South Zone competitions for showing respect to our opponents and committing the least number of fouls in the competition.</p>
-<p><p align="justify">Other than our usual trainings, we also take part in friendly matches with other schools and other external competitions to keep students active and engaged.&nbsp;</p>
-<img src="/images/bb1.jpg">
+<h4><strong>BASKETBALL (BOYS)</strong></h4>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/Basketball_1.jpg"></td>
+</tr>
+</tbody>
+</table>
+<p></p><p><b>Goals &amp; Objectives </b></p>
+<p></p><p align="justify">1.	To enhance the basketball skills of the players which include teaching fundamental skills like dribbling, shooting, passing and defense, as well as more advanced techniques as players progress.<br>
+2.	To emphasize the importance of working together as a team, fostering camaraderie and teaching good sportsmanship; including respect for opponents, officials and fellow teammates.<br>
+3.	To develop leadership skills in players that will help them take on roles such as team captain or mentor; helping them develop leadership qualities that extend beyond the court<br>
+4.	To develop character of the players by teaching values such as discipline, perseverance, and responsibility.
+
+</p><p><b>CCA Achievements </b></p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/Basketball_2.jpg"></td>
+	<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/Basketball_3.jpg"></td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p><p align="justify">1.	Progression to 2nd Round of National School Games Competition (C-Division - South Zone)<br>
+2.	National School Games Sportsmanship Award 2023 Winners B Div and C Div 
+</p>
