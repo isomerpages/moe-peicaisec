@@ -213,6 +213,16 @@ Build students' adaptability and resilience to embrace the need for lifelong lea
 <p>ECG Overview: <br><a rel="noopener" target="_blank" href="https://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/overview">www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/overview</a></p>
 
 <p>ECG Tips for Parents:  <br><a rel="noopener" target="_blank" href="https://www.moe.gov.sg/-/media/files/programmes/ecg/ecg-tips-for-parents.ashx">www.moe.gov.sg/-/media/files/programmes/ecg/ecg-tips-for-parents.ashx</a></p>
+
+<p>Post-secondary Options:  <br><a rel="noopener" target="_blank" href="https://www.moe.gov.sg/post-secondary">www.moe.gov.sg/post-secondary</a></p>
+
+<p>Post-Secondary Education Institutions: <br><a rel="noopener" target="_blank" href="https://www.moe.gov.sg/post-secondary/overview/">www.moe.gov.sg/post-secondary/overview/</a></p>
+
+<p>Early Admissions Exercise (Polytechnics):  <br><a rel="noopener" target="_blank" href="https://www.moe.gov.sg/post-secondary/admissions/poly-eae">www.moe.gov.sg/post-secondary/admissions/poly-eae</a></p>
+
+<p>Polytechnic Foundation Programme: <br><a rel="noopener" target="_blank" href="https://https://pfp.polytechnic.edu.sg/PFP/index.html">https://pfp.polytechnic.edu.sg/PFP/index.html</a></p>
+
+<p>Joint Admissions Exercise : <br><a rel="noopener" target="_blank" href="https://www.moe.gov.sg/post-secondary/admissions/jae">www.moe.gov.sg/post-secondary/admissions/jae</a></p>
 	
 
 	
