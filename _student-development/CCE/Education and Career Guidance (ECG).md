@@ -220,13 +220,6 @@ Build students' adaptability and resilience to embrace the need for lifelong lea
 
 <p>Early Admissions Exercise (Polytechnics):  <br><a rel="noopener" target="_blank" href="https://www.moe.gov.sg/post-secondary/admissions/poly-eae">www.moe.gov.sg/post-secondary/admissions/poly-eae</a></p>
 
-<p>Polytechnic Foundation Programme: <br><a rel="noopener" target="_blank" href="https://https://pfp.polytechnic.edu.sg/PFP/index.html">https://pfp.polytechnic.edu.sg/PFP/index.html</a></p>
+<p>Polytechnic Foundation Programme: <br><a rel="noopener" target="_blank" href="https://pfp.polytechnic.edu.sg/PFP/index.html">https://pfp.polytechnic.edu.sg/PFP/index.html</a></p>
 
 <p>Joint Admissions Exercise : <br><a rel="noopener" target="_blank" href="https://www.moe.gov.sg/post-secondary/admissions/jae">www.moe.gov.sg/post-secondary/admissions/jae</a></p>
-	
-
-	
-	
-	
-	
-	
