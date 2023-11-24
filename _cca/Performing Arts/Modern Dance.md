@@ -26,7 +26,7 @@ variant: markdown
 </tbody>
 </table>
 <p></p><p align="justify">PCSS Modern Dance Club seeks to develop the passion for dancing by providing our dancers with opportunities to showcase their talents through external competitions  as well as in-house performances culminating to the bi-annual Singapore Youth Festival Arts Presentation.<br><br>PCSS Modern Dance Club specialises in contemporary dance which incorporates elements from many styles of dance such as classical, ballet and jazz. During dance trainings, we focus on mastering strong and controlled legwork of ballet, floor work, fall and recovery and other techniques.
-</p><br>
+</p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
