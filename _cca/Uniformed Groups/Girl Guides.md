@@ -59,6 +59,4 @@ The motto of Girl Guides is “Be Prepared”. We aim to prepare girls for life 
 •	Gold (since 2013)<br>
 <b>National</b><br>
 •	World Thinking Day 2023:<br>
-•	Wide Game Plogathon (3rd place)
-
-</p>
+•	Wide Game Plogathon (3rd place)</p>
