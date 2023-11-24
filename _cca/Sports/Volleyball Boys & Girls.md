@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Sports
 variant: markdown
 ---
-<h4><strong>VOLLEYBALL BOYS &amp; Girls</strong></h4>
+<h4><strong>VOLLEYBALL Boys &amp; Girls</strong></h4>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
