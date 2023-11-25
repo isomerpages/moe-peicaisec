@@ -51,7 +51,7 @@ variant: markdown
 <tbody>
 <tr>
 <td style="width: 33.3333%;"><a href="/cca/ccas/performing-arts/concert-band"><img style="width: 100%;" src="/images/cca7.jpg"></a></td>
-<td style="width: 33.3333%;"><a href="/cca/ccas/performing-arts/modern-dance"><img style="width: 100%;" src="/images/cca8.jpg"></a></td>
+<td style="width: 33.3333%;"><a href="/co-curricular-activities/ccas/performing-arts/modern-dance"><img style="width: 100%;" src="/images/cca8.jpg"></a></td>
 <td style="width: 33.3333%;"><a href="/cca/ccas/performing-arts/drama-club"><img style="width: 100%;" src="/images/cca9.jpg"></a></td>
 </tr>
 <tr>
