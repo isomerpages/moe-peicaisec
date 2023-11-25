@@ -35,9 +35,9 @@ variant: markdown
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 33.3333%;"><a href="/cca/ccas/uniformed-groups/npcc"><img style="width: 100%;" src="/images/cca4.jpg"></a></td>
+<td style="width: 33.3333%;"><a href="/co-curricular-activities/ccas/uniformed-groups/npcc"><img style="width: 100%;" src="/images/cca4.jpg"></a></td>
 <td style="width: 33.3333%;"><a href="/cca/ccas/uniformed-groups/ncc-sea"><img style="width: 100%;" src="/images/cca5.jpg"></a></td>
-<td style="width: 33.3333%;"><a href="/cca/ccas/uniformed-groups/girl-guides"><img style="width: 100%;" src="/images/cca6.jpg"></a></td>
+<td style="width: 33.3333%;"><a href="/co-curricular-activities/ccas/uniformed-groups/girl-guides"><img style="width: 100%;" src="/images/cca6.jpg"></a></td>
 </tr>
 <tr>
 <td style="width: 33.3333%;"><p style="text-align: center;">NPCC</p></td>
