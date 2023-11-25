@@ -11,7 +11,7 @@ variant: markdown
 <tbody>
 <tr>
 <td style="width: 33.3333%;"><a href="/cca/ccas/sports/basketball-boys"><img style="width: 100%;" src="/images/cca1.jpg"></a></td>
-<td style="width: 33.3333%;"><a href="/cca/ccas/sports/cca/ccas/sports/softball-boys-n-girls"><img style="width: 100%;" src="/images/cca2.jpg"></a></td>
+<td style="width: 33.3333%;"><a href="/cca/ccas/sports/softball-boys-n-girls"><img style="width: 100%;" src="/images/cca2.jpg"></a></td>
 <td style="width: 33.3333%;"><a href="/cca/ccas/sports/volleyball/boys-n-girls"><img style="width: 85%;" src="/images/cca13.jpg"></a></td>
 </tr>
 <tr>
