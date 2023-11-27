@@ -1,4 +1,5 @@
 collections:
   school-canteen-advertisement:
     output: true
-    order: []
+    order:
+      - School canteen advertisement.md
