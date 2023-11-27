@@ -1,5 +1,5 @@
 collections:
-  school-canteen-advertisement:
+  school-canteen:
     output: true
     order:
       - School canteen advertisement.md
