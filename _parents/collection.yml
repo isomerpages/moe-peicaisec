@@ -1,0 +1,9 @@
+collections:
+  parents:
+    output: true
+    order:
+      - Parents.md
+      - Parent Support Group (PSG).md
+      - Parents Gateway.md
+      - Resources for Parents.md
+      - Useful Links.md

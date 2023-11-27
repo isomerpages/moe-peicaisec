@@ -1,0 +1,5 @@
+collections:
+  school-canteen:
+    output: true
+    order:
+      - School canteen advertisement.md

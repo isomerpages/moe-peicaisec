@@ -1,0 +1,14 @@
+collections:
+  distinctive-programmes:
+    output: true
+    order:
+      - Applied Learning Programme(ALP).md
+      - Design Education Summit 2023.md
+      - Learn for Life Programme(LLP).md
+      - PinnaCle(Talent Development).md
+      - Student Work Attachment Programme(SWAP).md
+      - Overseas Student Exchange(OSEP).md
+      - Student Mentorship Programme.md
+      - Signature Community Outreach.md
+      - List of Partners.md
+      - Mr Josephus Tan Book Prize.md

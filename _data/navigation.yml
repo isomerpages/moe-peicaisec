@@ -1,0 +1,93 @@
+logo: /images/logo.jpg
+links:
+  - title: About Us
+    url: /about-us/principal-s-message
+    sublinks:
+      - title: Principal's Message
+        url: /about-us/principal-s-message
+      - title: History
+        url: /about-us/peicais-history
+      - title: School Crest and Song
+        url: /about-us/school-crest-and-song
+      - title: Mission, Vision and Values
+        url: /about-us/mission-vision-and-values
+      - title: Corporate Video
+        url: /about-us/corporate-video
+      - title: School events 2023
+        url: /schoolevents/schoolevents2023/
+      - title: Media/Press Release
+        url: /about-us/media-press-release
+      - title: Team Peicai
+        url: /about-us/our-peicai-family/staff
+      - title: Contact Us
+        url: /about-us/contact-us
+  - title: Academic
+    url: /academic/subjects-offered
+    sublinks:
+      - title: T&L Framework
+        url: /academic/t-l-framework
+      - title: Subjects Offered
+        url: /academic/subjects-offered
+      - title: Assessment and Promotion
+        url: /academic/assessment-and-promotion-criteria
+      - title: Full Subject Based Banding
+        url: /academic/full-subject-based-banding-fsbb
+      - title: Subject Overviews
+        url: /academic/subject-overviews
+      - title: Class Timetable
+        url: /academic/class-timetable
+      - title: Blended Learning
+        url: /academic/blended-learning
+      - title: Craft & Technology
+        url: /academic/craft-and-technology/art-craft
+      - title: Computer Applications (CPA)
+        url: /academic/permalink/computer-applications
+      - title: English Language & Literature
+        url: /academic/english-language-n-literature
+      - title: Humanities
+        url: /academic/humanities
+      - title: Principles of Accounts
+        url: /academic/principles-of-accounts
+      - title: Elements of Business
+        url: /academic/elements-of-business
+      - title: Mathematics
+        url: /academic/mathematics
+      - title: Mother Tongue Languages
+        url: /academic/mother-tongue-languages
+      - title: Physical Education
+        url: /academic/physical-education
+      - title: Science
+        url: /academic/science
+  - title: Student Development
+    collection: student-development
+  - title: CCA
+    url: /cca/ccas-and-leaps
+    sublinks:
+      - title: CCAs & LEAPS 2.0
+        url: /cca/ccas-and-leaps
+      - title: CCAs
+        url: /cca/ccas
+  - title: Distinctive Programmes
+    collection: distinctive-programmes
+  - title: Achievements
+    url: /achievements/students
+    sublinks:
+      - title: Students
+        url: /achievements/students
+      - title: Staff
+        url: /achievements/staff
+      - title: Alumni
+        url: /achievements/alumni
+  - title: Student Services
+    collection: student-services
+  - title: Parents
+    url: /parents
+    sublinks:
+      - title: Parent Support Group (PSG)
+        url: /parents/parent-support-group-psg
+      - title: Parents Gateway
+        url: /parents/parents-gateway
+      - title: Resources for Parents
+        url: /parents/resources-for-parents
+      - title: Useful Links
+        url: /parents/useful-links

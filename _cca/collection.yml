@@ -1,0 +1,25 @@
+collections:
+  cca:
+    output: true
+    order:
+      - CCAs and LEAPS.md
+      - CCAs.md
+      - Clubs & Societies/.keep
+      - Clubs & Societies/InfoComm Club.md
+      - Clubs & Societies/Art Club.md
+      - Clubs & Societies/Aero–Modelling Club.md
+      - Performing Arts/.keep
+      - Performing Arts/Modern Dance.md
+      - Performing Arts/Drama Club.md
+      - Performing Arts/Concert Band.md
+      - Sports/.keep
+      - Sports/Badminton Boys & Girls (New!).md
+      - Sports/Volleyball Boys & Girls.md
+      - Sports/Softball Boys & Girls.md
+      - Sports/Floorball Boys & Girls.md
+      - Sports/Basketball Boys.md
+      - Sports/Soccer (Interest Group).md
+      - Uniformed Groups/NPCC.md
+      - Uniformed Groups/NCC (Sea).md
+      - Uniformed Groups/Girl Guides.md
+      - Uniformed Groups/.keep
