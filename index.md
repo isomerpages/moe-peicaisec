@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Banner/main banner main 1b2.jpg
+      background: /images/Main_Banner_Main_1B3.jpg
   - resources:
       title: Announcements
       subtitle: PEICAI SECONDARY SCHOOL
