@@ -2,11 +2,11 @@ collections:
   sec-one-registration-2023:
     output: true
     order:
-      - Form Class Allocation/Secondary One Registration Form (Submit by 23
-        Dec).md
-      - Form Class Allocation/.keep
       - Welcome Letter by Principal.md
       - Purchase of Books and Uniform.md
+      - Form Class Allocation/.keep
+      - Form Class Allocation/Secondary One Registration Form (Submit by 23
+        Dec).md
       - Personal Learning Device (PLD).md
       - Eligibility for Higher Mother Tongue Language (HTML).md
       - Subject–Based Banding (SBB) (For eligible NA & NT students only).md
