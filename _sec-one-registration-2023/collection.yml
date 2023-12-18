@@ -2,6 +2,7 @@ collections:
   sec-one-registration-2023:
     output: true
     order:
+      - Form Class Allocation/.keep
       - Welcome Letter by Principal.md
       - Secondary One Registration Form (Submit by 23 Dec).md
       - Purchase of Books and Uniform.md
