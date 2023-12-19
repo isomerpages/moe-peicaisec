@@ -2,9 +2,9 @@ collections:
   sec-one-registration-2024:
     output: true
     order:
-      - Form Class Allocation Based on Social Causes.md
       - Welcome Letter by Principal.md
       - Secondary One Registration Form (Submit by 22 Dec 2023 5pm).md
+      - Form Class Allocation Based on Social Causes.md
       - Purchase of Books and Uniform.md
       - Form Class Allocation/.keep
       - Personal Learning Device (PLD).md
