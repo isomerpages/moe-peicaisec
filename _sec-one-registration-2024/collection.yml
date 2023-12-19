@@ -2,8 +2,8 @@ collections:
   sec-one-registration-2024:
     output: true
     order:
-      - Secondary One Registration Form (Submit by 23 Dec).md
       - Welcome Letter by Principal.md
+      - Secondary One Registration Form (Submit by 23 Dec).md
       - Purchase of Books and Uniform.md
       - Form Class Allocation/.keep
       - Personal Learning Device (PLD).md
