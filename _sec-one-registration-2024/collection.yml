@@ -2,7 +2,6 @@ collections:
   sec-one-registration-2024:
     output: true
     order:
-      - Group Personal Accident (GPA) Insurance Plan for Students.md
       - Welcome Letter by Principal.md
       - Secondary One Registration Form (Submit by 22 Dec 2023 5pm).md
       - Form Class Allocation Based on Social Causes.md
@@ -19,6 +18,7 @@ collections:
       - MOE Financial Assistance.md
       - School Smart Card.md
       - School Safety and Security.md
+      - Group Personal Accident (GPA) Insurance Plan for Students.md
       - Medical Appeal Exercise (MAE) by MOE.md
       - Appeals for Transfer in.md
       - Frequently Asked Questions.md
