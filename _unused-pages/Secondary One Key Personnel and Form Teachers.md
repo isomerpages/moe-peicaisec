@@ -1,7 +1,8 @@
 ---
 title: Secondary One Key Personnel and Form Teachers
-permalink: /sec-one-registration-2023/secondary-one-key-personnel-and-form-teachers/
+permalink: /sec-one-registration-2024/secondary-one-key-personnel-and-form-teachers/
 description: ""
+variant: tiptap
 ---
 <table class="iveo_table ives_tab_1">
 <tbody class="">
@@ -50,7 +51,7 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;" width="118">
-<p>Sec 1 &ndash; 1</p>
+<p>Sec 1 – 1</p>
 </td>
 <td style="text-align: center;" width="248">
 <p>&nbsp;Ms Kalpana Prakash</p>
@@ -61,7 +62,7 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;" width="118">
-<p>Sec 1 &ndash; 2</p>
+<p>Sec 1 – 2</p>
 </td>
 <td style="text-align: center;" width="248">
 <p>Mr Chee Khuen Woei Andy</p>
@@ -72,7 +73,7 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;" width="118">
-<p>Sec 1 &ndash; 3</p>
+<p>Sec 1 – 3</p>
 </td>
 <td style="text-align: center;" width="248">
 <p>Ms Chow May Yen</p>
@@ -83,7 +84,7 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;" width="118">
-<p>Sec 1 &ndash; 4</p>
+<p>Sec 1 – 4</p>
 </td>
 <td style="text-align: center;" width="248">
 <p>Mr Low Ching Kai</p>
@@ -96,7 +97,7 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;" width="118">
-<p>Sec 1 &ndash; 5</p>
+<p>Sec 1 – 5</p>
 </td>
 <td style="text-align: center;" width="248">
 <p>Ms Zhou Wensi Eileen</p>
@@ -109,7 +110,7 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;" width="118">
-<p>Sec 1 &ndash; 6</p>
+<p>Sec 1 – 6</p>
 </td>
 <td style="text-align: center;" width="248">
 <p>Mr Wong Jiun Ching</p>
@@ -122,7 +123,7 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;" width="118">
-<p>Sec 1 &ndash; 7</p>
+<p>Sec 1 – 7</p>
 </td>
 <td style="text-align: center;" width="248">
 <p>Mr&nbsp;Mohamad Sharizan Bin Abu Bakar</p>
