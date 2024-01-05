@@ -2,6 +2,7 @@ collections:
   unused-pages:
     output: true
     order:
+      - Assessment an promotion.md
       - Secondary One Key Personnel and Form Teachers.md
       - Volleyball Boys.md
       - Craft & Technology.md
