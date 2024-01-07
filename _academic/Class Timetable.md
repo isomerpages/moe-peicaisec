@@ -4,4 +4,4 @@ permalink: /academic/class-timetable/
 description: ""
 variant: tiptap
 ---
-<p><strong><u>2024</u></strong></p><p>Click on the link below for the 2024 Sem 1 Class timetable.</p><p><a href="2024_Sem_1_Timetable" rel="noopener noreferrer nofollow" target="_blank">2024 Sem 1 Timetable</a><br></p><hr><p></p>
+<p><strong><u>2024</u></strong></p><p>Click on the link below for the 2024 Sem 1 Class timetable.</p><p><a href="2024_Sem_1_Timetable" rel="noopener noreferrer nofollow" target="_blank">2024 Sem 1 Timetable</a></p><p><a href="2024_Sem_1_Timetable" rel="noopener noreferrer nofollow" target="_blank">2024 Sem1 Timetable</a><br></p><hr><p></p>
