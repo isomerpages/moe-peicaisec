@@ -18,7 +18,7 @@ variant: tiptap
                 <p>Term 1</p>
             </td>
             <td rowspan="1" colspan="1">
-                <p>Tuesday 3 Jan to Friday 10 March</p>
+                <p>Tue 2 Jan to Fri 8 Mar</p>
             </td>
         </tr>
         <tr>
@@ -26,7 +26,7 @@ variant: tiptap
                 <p>Term 2</p>
             </td>
             <td rowspan="1" colspan="1">
-                <p>Monday 20 March to Friday 26 May</p>
+                <p>Mon 18 Mar to Fri 24 May</p>
             </td>
         </tr>
     </tbody>
@@ -43,7 +43,7 @@ variant: tiptap
                 <p>Term 3</p>
             </td>
             <td rowspan="1" colspan="1">
-                <p>Monday 26 June to Friday 1 September</p>
+                <p>Mon 24 Jun to Fri 30 Aug</p>
             </td>
         </tr>
         <tr>
@@ -51,14 +51,13 @@ variant: tiptap
                 <p>Term 4</p>
             </td>
             <td rowspan="1" colspan="1">
-                <p>Monday 11 September to *Friday 17 November</p>
+                <p>Mon 9 Sep to Fri 15 Nov2</p>
             </td>
         </tr>
     </tbody>
 </table>
-<p>*The last day of the final school term for schools which will be used
-    as venues for the GCE O Level written examinations will be Friday, 27 October
-    2023.</p>
+<p>*<em>The last day of the final school term for schools which will be used as venues for the GCE O-Level written examinations, will be Friday, 25 October 2024.</em>
+</p>
 <h4><strong>School Holidays for 2023</strong></h4>
 <table>
     <tbody>
