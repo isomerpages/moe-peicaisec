@@ -2,6 +2,5 @@ collections:
   announcements-peicai:
     output: true
     order:
-      - Updates on CCA (Information for Sec One Parents).md
       - Teacher's Day.md
       - National Day 2023.md
