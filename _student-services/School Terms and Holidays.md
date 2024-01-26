@@ -4,7 +4,7 @@ permalink: /student-services/school-terms-and-holidays/
 description: ""
 variant: tiptap
 ---
-<h4><strong>School Terms for 2023</strong></h4>
+<h4><strong>School Terms for 2024</strong></h4>
 <table>
     <tbody>
         <tr>
@@ -58,7 +58,7 @@ variant: tiptap
 </table>
 <p>*<em>The last day of the final school term for schools which will be used as venues for the GCE O-Level written examinations, will be Friday, 25 October 2024.</em>
 </p>
-<h4><strong>School Holidays for 2023</strong></h4>
+<h4><strong>School Holidays for 2024</strong></h4>
 <table>
     <tbody>
         <tr>
@@ -72,7 +72,7 @@ variant: tiptap
                 <p>Between Terms 1 and 2</p>
             </td>
             <td rowspan="1" colspan="1">
-                <p>Saturday 11 March to Sunday 19 March</p>
+                <p>Sat 9 Mar to Sun 17 Mar</p>
             </td>
         </tr>
         <tr>
@@ -80,7 +80,7 @@ variant: tiptap
                 <p>Between Semesters 1 &amp; 2</p>
             </td>
             <td rowspan="1" colspan="1">
-                <p>Saturday 27 May to Sunday 25 June</p>
+                <p>Sat 25 May to Sun 23 Jun</p>
             </td>
         </tr>
     </tbody>
@@ -98,7 +98,7 @@ variant: tiptap
                 <p>Between Terms 3 &amp; 4</p>
             </td>
             <td rowspan="1" colspan="1">
-                <p>Saturday 2 September to Sunday 10 September</p>
+                <p>Sat 31 Aug to Sun 8 Sep</p>
             </td>
         </tr>
         <tr>
@@ -106,12 +106,12 @@ variant: tiptap
                 <p>At End of School Year</p>
             </td>
             <td rowspan="1" colspan="1">
-                <p>Saturday 18 November to Sunday 31 December</p>
+                <p>Sat 16 Nov to Tue 31 Dec</p>
             </td>
         </tr>
     </tbody>
 </table>
-<h4><strong>Scheduled School Holidays for 2023</strong></h4>
+<h4><strong>Scheduled School Holidays for 2024</strong></h4>
 <table>
     <tbody>
         <tr>
@@ -129,17 +129,9 @@ variant: tiptap
                 <p>Youth Day</p>
             </td>
             <td rowspan="1" colspan="1">
-                <p>Sunday 2 July
-                    <br><em>(The following Monday, 3 Jul 2023 will be a scheduled school holiday)</em>
+                <p>*Sun 30 Jun</p>
+                <p><em>(ThefollowingMon1 Julwillbe aschoolholiday)</em>
                 </p>
-            </td>
-        </tr>
-        <tr>
-            <td rowspan="1" colspan="1">
-                <p>Day after National Day</p>
-            </td>
-            <td rowspan="1" colspan="1">
-                <p>Thursday 10 August</p>
             </td>
         </tr>
         <tr>
@@ -147,7 +139,7 @@ variant: tiptap
                 <p>Teachers’ Day</p>
             </td>
             <td rowspan="1" colspan="1">
-                <p>Friday 1 September</p>
+                <p>Fri 30 Aug</p>
             </td>
         </tr>
         <tr>
@@ -157,30 +149,25 @@ variant: tiptap
                 </p>
             </td>
             <td rowspan="1" colspan="1">
-                <p>Friday 6 October</p>
+                <p>Fri 4 Oct</p>
             </td>
         </tr>
     </tbody>
 </table>
-<h4><strong>Public Holidays for 2023</strong></h4>
+<h4><strong>Public Holidays for 2024</strong></h4>
 <table>
     <tbody>
         <tr>
-            <td rowspan="1" colspan="1">
-                <p><strong>Holiday</strong>
+            <td rowspan="3" colspan="1">
+                <p><strong>&nbsp;</strong>
                 </p>
+                <p>Term 1</p>
             </td>
-            <td rowspan="1" colspan="1">
-                <p><strong>Date</strong>
-                </p>
-            </td>
-        </tr>
-        <tr>
             <td rowspan="1" colspan="1">
                 <p>New Year’s Day</p>
             </td>
             <td rowspan="1" colspan="1">
-                <p>*Sunday 1 January</p>
+                <p>Mon 1 Jan</p>
             </td>
         </tr>
         <tr>
@@ -188,20 +175,25 @@ variant: tiptap
                 <p>Chinese New Year</p>
             </td>
             <td rowspan="1" colspan="1">
-                <p>**Sunday 22 January</p>
+                <p>Sat 10 Feb</p>
             </td>
         </tr>
         <tr>
             <td rowspan="1" colspan="1">
-                <p>Monday 23 January</p>
+                <p>Sun 11 Feb3</p>
             </td>
         </tr>
         <tr>
+            <td rowspan="4" colspan="1">
+                <p><strong>&nbsp;</strong>
+                </p>
+                <p>Term 2</p>
+            </td>
             <td rowspan="1" colspan="1">
                 <p>Good Friday</p>
             </td>
             <td rowspan="1" colspan="1">
-                <p>Friday 7 April</p>
+                <p>Fri 29 Mar</p>
             </td>
         </tr>
         <tr>
@@ -209,7 +201,7 @@ variant: tiptap
                 <p>Hari Raya Puasa</p>
             </td>
             <td rowspan="1" colspan="1">
-                <p>***Saturday 22 April</p>
+                <p>Wed 10 Apr</p>
             </td>
         </tr>
         <tr>
@@ -217,7 +209,7 @@ variant: tiptap
                 <p>Labour Day</p>
             </td>
             <td rowspan="1" colspan="1">
-                <p>Monday 1 May</p>
+                <p>Wed 1 May</p>
             </td>
         </tr>
         <tr>
@@ -225,15 +217,18 @@ variant: tiptap
                 <p>Vesak Day</p>
             </td>
             <td rowspan="1" colspan="1">
-                <p>Friday 2 June</p>
+                <p>Wed 22 May</p>
             </td>
         </tr>
         <tr>
+            <td rowspan="2" colspan="1">
+                <p>Term 3</p>
+            </td>
             <td rowspan="1" colspan="1">
                 <p>Hari Raya Haji</p>
             </td>
             <td rowspan="1" colspan="1">
-                <p>Thursday 29 June</p>
+                <p>Mon 17 Jun</p>
             </td>
         </tr>
         <tr>
@@ -241,15 +236,18 @@ variant: tiptap
                 <p>National Day</p>
             </td>
             <td rowspan="1" colspan="1">
-                <p>Wednesday 9 August</p>
+                <p>Fri 9 Aug</p>
             </td>
         </tr>
         <tr>
+            <td rowspan="2" colspan="1">
+                <p>Term 4</p>
+            </td>
             <td rowspan="1" colspan="1">
                 <p>Deepavali</p>
             </td>
             <td rowspan="1" colspan="1">
-                <p>****Sunday 12 November</p>
+                <p>Thu 31 Oct</p>
             </td>
         </tr>
         <tr>
@@ -257,12 +255,12 @@ variant: tiptap
                 <p>Christmas Day</p>
             </td>
             <td rowspan="1" colspan="1">
-                <p>Monday 25 December</p>
+                <p>Wed 25 Dec</p>
             </td>
         </tr>
         <tr>
-            <td rowspan="1" colspan="2">
-                <p><em>*Monday, 2 Jan will be a public holiday.<br>**Tuesday, 24 Jan will be a public holiday.<br>***Monday, 24 Apr will be a school holiday and a designated day off-in-lieu, schools are closed including the General Office, Student Care Centre/Kindergarten Care (KCare) Centres.<br>****Monday, 13 Nov will be a public holiday.<br></em>
+            <td rowspan="1" colspan="3">
+                <p><em>3 Mon, 12 Feb will be a public holiday and Tue, 13 Feb will be a school holiday and a designated day off-in-lieu. Schools will be closed, including the General Office, Student Care Centres and Kindergarten Care (KCare) Centres.</em>
                 </p>
             </td>
         </tr>
