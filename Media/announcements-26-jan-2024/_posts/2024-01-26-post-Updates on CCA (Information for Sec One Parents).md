@@ -7,3 +7,8 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_01_26_at_17_10_21.jpeg">
+</div>
+<p></p>
