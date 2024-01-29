@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Students
 variant: tiptap
 ---
-<p></p>
 <h4>School-based Student Achievements in Semester 1</h4>
 <p></p>
 <p>As part of recognising students for their holistic achievements, 185 school-based
@@ -140,9 +139,6 @@ awards:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" src="/images/01congratulations uniform groups.png">
 </div>
-<p>
-<br>
-</p>
 </th>
 </tr>
 </tbody>
@@ -155,9 +151,6 @@ awards:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" src="/images/02congratulationsperforming arts.png">
 </div>
-<p>
-<br>
-</p>
 </th>
 </tr>
 </tbody>
@@ -170,9 +163,6 @@ awards:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" src="/images/03peicai atheletes in national school games 2023.png">
 </div>
-<p>
-<br>
-</p>
 </th>
 </tr>
 </tbody>
