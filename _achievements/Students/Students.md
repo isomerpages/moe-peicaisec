@@ -261,16 +261,10 @@ awards:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" src="/images/04special mention -  national school games 2023.png">
 </div>
-<p>
-<br>
-</p>
 </th>
 </tr>
 </tbody>
 </table>
-<p></p>
-<hr>
-<p></p>
 <table>
 <tbody>
 <tr>
@@ -285,9 +279,6 @@ awards:</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<hr>
-<p></p>
 <table>
 <tbody>
 <tr>
@@ -302,9 +293,6 @@ awards:</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<hr>
-<p></p>
 <table>
 <tbody>
 <tr>
@@ -319,9 +307,6 @@ awards:</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<hr>
-<p></p>
 <table>
 <tbody>
 <tr>
@@ -354,8 +339,6 @@ awards:</p>
 </tbody>
 </table>
 <p></p>
-<hr>
-<p></p>
 <table>
 <tbody>
 <tr>
@@ -363,16 +346,12 @@ awards:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" src="/images/10pcss distinctive series.png">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 </th>
 </tr>
 </tbody>
 </table>
-<p></p>
 <hr>
-<p></p>
 <table>
 <tbody>
 <tr>
@@ -380,14 +359,10 @@ awards:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" src="/images/11bus captain appreciatio.png">
 </div>
-<p>
-<br>
-</p>
 </th>
 </tr>
 </tbody>
 </table>
-<p></p>
 <hr>
 <p><strong><u>2022</u></strong>
 </p>
