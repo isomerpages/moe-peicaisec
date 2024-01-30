@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Students
 variant: tiptap
 ---
-<p></p>
 <h4>School-based Student Achievements in Semester 1</h4>
 <p></p>
 <p>As part of recognising students for their holistic achievements, 185 school-based
@@ -132,82 +131,6 @@ awards:</p>
 <br>5. Outstanding Junior Performer of the Year (Male &amp; Female)
 <br>6. Outstanding Junior Contributor of the Year
 <br>7. Outstanding Junior Leader of the Year</p>
-<table>
-<tbody>
-<tr>
-<th rowspan="3" colspan="3">
-<p>2023 O-level Results</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2023 O level Results" src="/images/Achievements/2023_O_level_Results_Release_Publicity_v1.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2023 O level Results" src="/images/Achievements/2023_O_level_Results_Release_Publicity_2.JPG">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2023 O level Results" src="/images/Achievements/2023_O_level_Results_Release_Publicity_3.JPG">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2023 O level Results" src="/images/Achievements/2023_O_level_Results_Release_Publicity_4.JPG">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2023 O level Results" src="/images/Achievements/2023_O_level_Results_Release_Publicity_5.JPG">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2023 O level Results" src="/images/Achievements/2023_O_level_Results_Release_Publicity_6.JPG">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2023 O level Results" src="/images/Achievements/2023_O_level_Results_Release_Publicity_7.JPG">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2023 O level Results" src="/images/Achievements/2023_O_level_Results_Release_Publicity_8.JPG">
-</div>
-<p></p>
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="N Level 1" src="/images/Achievements/N_Level_V1.JPG">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="N Level 2" src="/images/Achievements/N_Level_V2.JPG">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-</th>
-</tr>
-<tr></tr>
-<tr></tr>
-</tbody>
-</table>
 <hr>
 <table>
 <tbody>
@@ -216,9 +139,6 @@ awards:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" src="/images/01congratulations uniform groups.png">
 </div>
-<p>
-<br>
-</p>
 </th>
 </tr>
 </tbody>
@@ -231,9 +151,6 @@ awards:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" src="/images/02congratulationsperforming arts.png">
 </div>
-<p>
-<br>
-</p>
 </th>
 </tr>
 </tbody>
@@ -246,9 +163,6 @@ awards:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" src="/images/03peicai atheletes in national school games 2023.png">
 </div>
-<p>
-<br>
-</p>
 </th>
 </tr>
 </tbody>
