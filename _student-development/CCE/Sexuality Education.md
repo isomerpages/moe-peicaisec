@@ -6,7 +6,7 @@ variant: tiptap
 third_nav_title: CCE
 ---
 <h4><strong>Sexuality Education</strong></h4>
-<p><strong>MOE Sexuality Education in Schools</strong>
+<p><strong>MOE Sexuality Education in Schools</strong> 
 <br>
 </p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education
@@ -81,7 +81,7 @@ the opportunity to develop a positive self-esteem, develop their character,
 and expand their understanding and repertoire of skills to deal with various
 issues related to sexuality, which are of prime concern at this age.
 <br>
-<br><strong>At PEICAI Secondary School, the following Sexuality Education lessons will be taught in <u>2024</u>:</strong>
+<br><strong>At PEICAI Secondary School, the following Sexuality Education lessons will be taught in <u>2024</u>:</strong> 
 <br>
 <br>2024 Sexuality Education Lessons in CCE 2021</p>
 <table>
