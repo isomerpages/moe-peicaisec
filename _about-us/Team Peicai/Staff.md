@@ -21,7 +21,7 @@ variant: tiptap
 </div>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="English Dept v2" src="/images/Aboutus/04_V2_English_Department.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="English Dept" src="/images/Aboutus/04_V2_English_Department_02.JPG">
 </div>
 <hr>
 <div class="isomer-image-wrapper">
