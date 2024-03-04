@@ -29,6 +29,14 @@ description: ""
 <p></p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4><u>Secondary One Orientation</u></h4>
@@ -102,6 +110,14 @@ description: ""
 <p></p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4><u>CCA Openhouse</u></h4>
@@ -117,6 +133,14 @@ description: ""
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 </tbody>
 </table>
@@ -156,6 +180,14 @@ description: ""
 <p></p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4><u>Total Defence Day</u></h4>
@@ -172,6 +204,14 @@ description: ""
 <p></p>
 </th>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4><u>Chingay Parade</u></h4>
@@ -187,6 +227,14 @@ description: ""
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 </tbody>
 </table>
