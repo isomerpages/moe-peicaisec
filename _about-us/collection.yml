@@ -2,12 +2,12 @@ collections:
   about-us:
     output: true
     order:
-      - School Events 2024.md
       - Principal’s Message.md
       - History.md
       - School Crest and Song.md
       - Mission, Vision and Values.md
       - Corporate Video.md
+      - School Events 2024.md
       - School Events 2023.md
       - Media Press Release.md
       - Team Peicai/.keep
