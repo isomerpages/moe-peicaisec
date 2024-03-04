@@ -158,7 +158,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<h4>Total Defence Day.</h4>
+<h4>Total Defence Day</h4>
 <table>
 <tbody>
 <tr>
