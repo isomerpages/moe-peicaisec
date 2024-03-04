@@ -158,4 +158,36 @@ description: ""
 </tr>
 </tbody>
 </table>
+<h4>Total Defence Day.</h4>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Total Defence Day" src="/images/Aboutus/Total_Defence_Day.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+</tbody>
+</table>
+<h4>Chingay Parade</h4>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Chingay parade" src="/images/Aboutus/Chingay_Parade.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+</tbody>
+</table>
 <p></p>
