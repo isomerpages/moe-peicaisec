@@ -4,7 +4,7 @@ permalink: /about-us/school-events-2024/
 variant: tiptap
 description: ""
 ---
-<h4>Start Smart Programme</h4>
+<h4><u>Start Smart Programme</u></h4>
 <table>
 <tbody>
 <tr>
@@ -31,7 +31,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<h4>Secondary One Orientation</h4>
+<h4><u>Secondary One Orientation</u></h4>
 <table>
 <tbody>
 <tr>
@@ -55,7 +55,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<h4>Secondary Two Cohort Camp</h4>
+<h4><u>Secondary Two Cohort Camp</u></h4>
 <table>
 <tbody>
 <tr>
@@ -104,7 +104,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<h4>CCA Openhouse</h4>
+<h4><u>CCA Openhouse</u></h4>
 <table>
 <tbody>
 <tr>
@@ -120,7 +120,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<h4>Peicai’s CNY 2024 Celebrations</h4>
+<h4><u>Peicai’s CNY 2024 Celebrations</u></h4>
 <table>
 <tbody>
 <tr>
@@ -158,7 +158,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<h4>Total Defence Day</h4>
+<h4><u>Total Defence Day</u></h4>
 <table>
 <tbody>
 <tr>
@@ -174,7 +174,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<h4>Chingay Parade</h4>
+<h4><u>Chingay Parade</u></h4>
 <table>
 <tbody>
 <tr>
