@@ -10,7 +10,7 @@ description: ""
 this programme which open doors to the Aviation Industry in Singapore.
 They had the once in a lifetime opportunity to be in a Boeing 737 Flight
 Simulator accompanied and guided by commercial pilots. A wonderful start
-to the March holidays</p>
+to the March holidays.</p>
 <table>
 <tbody>
 <tr>
