@@ -4,6 +4,55 @@ permalink: /about-us/school-events-2024/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<h4>Flight Experience Singapore</h4>
+<p>Description: 26 of our upper sec students were selected to take part in
+this programme which open doors to the Aviation Industry in Singapore.
+They had the once in a lifetime opportunity to be in a Boeing 737 Flight
+Simulator accompanied and guided by commercial pilots. A wonderful start
+to the March holidays.</p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Flight Experience Singapore 1" src="/images/Aboutus/Flight_Experience_Singapore_1.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Flight Experience Singapore 2" src="/images/Aboutus/Flight_Experience_Singapore_2.jpg">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <h4><u>Chingay Parade</u></h4>
 <table>
 <tbody>
