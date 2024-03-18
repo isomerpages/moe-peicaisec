@@ -45,7 +45,7 @@ variant: tiptap
 </div>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ICT Dept v2" src="/images/Aboutus/010_V2_ICT_Department.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="ICT Dept v1" src="/images/Aboutus/010_V2_ICT_Department_V1.jpg">
 </div>
 <hr>
 <div class="isomer-image-wrapper">
