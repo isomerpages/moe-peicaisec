@@ -6,5 +6,5 @@ variant: tiptap
 ---
 <p>Click on the link below&nbsp;to download the 2024 School Calendar for
 Students.</p>
-<p><a href="https://drive.google.com/file/d/13X6mbwrXt-4lFD4-g7QN1BmRpsVyEKb1/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Semester One 2024 (Feb 28)</a>
+<p><a href="https://drive.google.com/file/d/1H5Pl3xoH-xOa8ix1FJ1IP-tO_0qowGCj/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Semester One 2024 (cca 18032024)</a>
 </p>
