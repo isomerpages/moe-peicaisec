@@ -2,7 +2,6 @@ collections:
   restore-pages-1:
     output: true
     order:
-      - Assessment and Promotion Criteria.md
       - School Assessments.md
       - Letters to Parents.md
       - Principal’s Message1.md
