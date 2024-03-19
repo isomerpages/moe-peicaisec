@@ -1,7 +1,0 @@
----
-title: Subject Overviews A
-permalink: /unused-pages/subject-overviews-a/
-description: ""
-variant: tiptap
----
-<h4><strong>Semester Two 2024</strong></h4><p>Please click on each link to access the subject overview of each subject for Semester Two 2024.</p><p>Do note that the subject overviews are tentative and subject to changes.<br></p><p><strong><u>Secondary One</u></strong><br><a href="https://drive.google.com/drive/folders/1sE2e5iSq-YjM08NlzSU4PHPukjOXDGEa?usp=sharing" rel="noopener" target="_blank">Express</a><br><a href="https://drive.google.com/drive/folders/1kdbVlHZPtE7LNsY7kDF3OUF-W_UaLrk9?usp=sharing" rel="noopener" target="_blank">Normal (Academic)</a><br><a href="https://drive.google.com/drive/folders/11BqZi3qTlm5nebFKH37pUVV6hoxAK8XG?usp=sharing" rel="noopener" target="_blank">Normal (Technical)</a><br><a href="https://drive.google.com/drive/folders/1Z0mIIs7Cs05rrNA-4Lf4NXfxPHPP5WiD?usp=sharing" rel="noopener" target="_blank">Physical Education</a><br></p><p><strong><u>Secondary Two</u></strong><br>Express<br>Normal (Academic)<br>Normal (Technical)<br>Physical Education<br></p><p><strong><u>Secondary Three</u></strong><br>Express<br>Normal (Academic)<br>Normal (Technical)<br>Physical Education<br></p><p><strong><u>Secondary Four &amp; Five</u></strong><br>Express<br>Normal (Academic)<br>Normal (Technical)<br>Physical Education<br></p>

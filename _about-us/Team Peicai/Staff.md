@@ -21,7 +21,7 @@ variant: tiptap
 </div>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="English Dept" src="/images/Aboutus/04_V2_English_Department_02.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="English Dept v3" src="/images/Aboutus/04_V2_English_Department_03.jpg">
 </div>
 <hr>
 <div class="isomer-image-wrapper">
@@ -45,11 +45,11 @@ variant: tiptap
 </div>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ICT Dept v2" src="/images/Aboutus/010_V2_ICT_Department.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="ICT Dept v1" src="/images/Aboutus/010_V2_ICT_Department_V1.jpg">
 </div>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SD Dept v2" src="/images/Aboutus/011_V2_Student_Development.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="Student Development Team v1" src="/images/Aboutus/011_V2_Student_Development_V1.jpg">
 </div>
 <hr>
 <div class="isomer-image-wrapper">
