@@ -49,7 +49,7 @@ variant: tiptap
 </div>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SD Dept v2" src="/images/Aboutus/011_V2_Student_Development.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="Student Development Team v1" src="/images/Aboutus/011_V2_Student_Development_V1.jpg">
 </div>
 <hr>
 <div class="isomer-image-wrapper">
