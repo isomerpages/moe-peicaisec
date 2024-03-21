@@ -229,6 +229,119 @@ Weighted Assessment (WA) and End-of-Year Examinations (EYE).</p>
 </tbody>
 </table>
 <p>*Grades marked with asterisks are fail grades.</p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Marks</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>75 &amp; above</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>70 - 74</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>65 - 69</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>60 - 64</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>55 - 59</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>50 - 54</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>45 - 49</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>40 - 44</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>39 &amp; below</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Express &amp;</p>
+<p>Sec 5 Normal (Academic)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>A1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>A2&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B3&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B4&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;C5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>C6&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>*D7&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>*E8&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>*F9&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Normal (Academic)&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;4</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>&nbsp;&nbsp;&nbsp;&nbsp; 5&nbsp; &nbsp;</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>6&nbsp; &nbsp; &nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Normal (Technical)&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>A</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>C</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>D</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>E</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>*Grades marked with asterisks are fail grades.</p>
 <p></p>
 <h5>Secondary 1</h5>
 <p><strong>To be updated</strong>
