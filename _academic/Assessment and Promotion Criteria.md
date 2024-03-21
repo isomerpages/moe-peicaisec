@@ -180,7 +180,7 @@ Weighted Assessment (WA) and End-of-Year Examinations (EYE).</p>
 <p>*E8&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>*F9&nbsp;</p>
+<p>*9&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -200,30 +200,30 @@ Weighted Assessment (WA) and End-of-Year Examinations (EYE).</p>
 <p>&nbsp;4</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>&nbsp;&nbsp;&nbsp;&nbsp; 5&nbsp; &nbsp;</p>
+<p>5&nbsp; &nbsp;</p>
 </td>
 <td rowspan="1" colspan="3">
-<p>6&nbsp; &nbsp; &nbsp;</p>
+<p>*6&nbsp; &nbsp; &nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Normal (Technical)&nbsp;</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;B &nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;C</p>
+<p>B</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>&nbsp; &nbsp;D</p>
+<p>C</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>D</p>
 </td>
 <td rowspan="1" colspan="3">
-<p>&nbsp;E&nbsp; &nbsp;</p>
+<p>*E</p>
 </td>
 </tr>
 </tbody>
