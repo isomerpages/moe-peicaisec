@@ -293,7 +293,7 @@ Weighted Assessment (WA) and End-of-Year Examinations (EYE).</p>
 <p>*E8&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>*F9&nbsp;</p>
+<p>*9&nbsp;</p>
 </td>
 </tr>
 <tr>
