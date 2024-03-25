@@ -16,7 +16,7 @@ MRT</p>
 <iframe height="450" width="600" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.6954361768435!2d103.86829741410237!3d1.3593732990085698!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1655ac19cd27%3A0xe02914da8bc43449!2sPeicai+Secondary+School!5e0!3m2!1sen!2ssg!4v1538291013916"></iframe>
 </div>
 <p>
-<br><strong><u>Visitors to School</u></strong>
+<br><strong><u>Visitors to School</u></strong> 
 <br>
 </p>
 <p>All visitors will need to report to the security guard post for registration
