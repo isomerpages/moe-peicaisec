@@ -8,7 +8,6 @@ description: ""
 <p></p>
 <p></p>
 <h4>CCA Appreciation Ceremony</h4>
-<p></p>
 <table>
 <tbody>
 <tr>
