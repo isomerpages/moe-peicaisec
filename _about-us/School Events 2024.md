@@ -5,6 +5,33 @@ variant: tiptap
 description: ""
 ---
 <p></p>
+<p></p>
+<p></p>
+<h4>CCA Appreciation Ceremony</h4>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CCA Appreciation Ceremony 2024" src="/images/Aboutus/CCA_Appreciation_Ceremony_2024.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h4>Flight Experience Singapore</h4>
 <p>Description: 26 of our upper sec students were selected to take part in
 this programme which open doors to the Aviation Industry in Singapore.
