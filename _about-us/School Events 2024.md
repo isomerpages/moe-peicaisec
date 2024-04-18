@@ -65,23 +65,24 @@ description: ""
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Flight Experience Singapore 2" src="/images/Aboutus/Flight_Experience_Singapore_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Flight Experience Singapore 1" src="/images/Aboutus/Flight_Experience_Singapore_1.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Flight Experience Singapore 2" src="/images/Aboutus/Flight_Experience_Singapore_2.jpg">
-</div>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
