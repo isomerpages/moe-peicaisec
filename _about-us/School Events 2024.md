@@ -34,7 +34,6 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p></p>
 <h4>CCA Appreciation Ceremony</h4>
 <table>
 <tbody>
@@ -60,11 +59,6 @@ description: ""
 </tbody>
 </table>
 <h4>Flight Experience Singapore</h4>
-<p>Description: 26 of our upper sec students were selected to take part in
-this programme which open doors to the Aviation Industry in Singapore.
-They had the once in a lifetime opportunity to be in a Boeing 737 Flight
-Simulator accompanied and guided by commercial pilots. A wonderful start
-to the March holidays.</p>
 <table>
 <tbody>
 <tr>
