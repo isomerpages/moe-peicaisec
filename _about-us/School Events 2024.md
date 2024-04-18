@@ -4,9 +4,36 @@ permalink: /about-us/school-events-2024/
 variant: tiptap
 description: ""
 ---
+<h4>Students Leaders’ Investiture 2024</h4>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Students Leaders’ Investiture 2024" src="/images/Aboutus/Student_Leaders_Investiture_2024.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
 <p></p>
+</th>
+<th rowspan="1" colspan="1">
 <p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>CCA Appreciation Ceremony</h4>
 <table>
 <tbody>
@@ -31,36 +58,31 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p></p>
 <h4>Flight Experience Singapore</h4>
-<p>Description: 26 of our upper sec students were selected to take part in
-this programme which open doors to the Aviation Industry in Singapore.
-They had the once in a lifetime opportunity to be in a Boeing 737 Flight
-Simulator accompanied and guided by commercial pilots. A wonderful start
-to the March holidays.</p>
 <table>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Flight Experience Singapore 2" src="/images/Aboutus/Flight_Experience_Singapore_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Flight Experience Singapore 1" src="/images/Aboutus/Flight_Experience_Singapore_1.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Flight Experience Singapore 2" src="/images/Aboutus/Flight_Experience_Singapore_2.jpg">
-</div>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -72,15 +94,7 @@ to the March holidays.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<h4><u>Chingay Parade</u></h4>
+<h4>Chingay Parade</h4>
 <table>
 <tbody>
 <tr>
@@ -104,7 +118,7 @@ to the March holidays.</p>
 </tr>
 </tbody>
 </table>
-<h4><u>Total Defence Day</u></h4>
+<h4>Total Defence Day</h4>
 <table>
 <tbody>
 <tr>
@@ -128,7 +142,7 @@ to the March holidays.</p>
 </tr>
 </tbody>
 </table>
-<h4><u>Peicai’s CNY 2024 Celebrations</u></h4>
+<h4>Peicai’s CNY 2024 Celebrations</h4>
 <table>
 <tbody>
 <tr>
@@ -158,7 +172,7 @@ to the March holidays.</p>
 </tr>
 </tbody>
 </table>
-<h4><u>CCA Openhouse</u></h4>
+<h4>CCA Openhouse</h4>
 <table>
 <tbody>
 <tr>
@@ -182,7 +196,7 @@ to the March holidays.</p>
 </tr>
 </tbody>
 </table>
-<h4><u>Secondary Two Cohort Camp</u></h4>
+<h4>Secondary Two Cohort Camp</h4>
 <table>
 <tbody>
 <tr>
@@ -215,7 +229,7 @@ to the March holidays.</p>
 </tr>
 </tbody>
 </table>
-<h4><u>Secondary One Orientation</u></h4>
+<h4>Secondary One Orientation</h4>
 <table>
 <tbody>
 <tr>
@@ -239,7 +253,7 @@ to the March holidays.</p>
 </tr>
 </tbody>
 </table>
-<h4><u>Start Smart Programme</u></h4>
+<h4>Start Smart Programme</h4>
 <table>
 <tbody>
 <tr>
