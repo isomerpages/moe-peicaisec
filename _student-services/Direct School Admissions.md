@@ -8,7 +8,7 @@ variant: tiptap
 <h4><strong>Introduction</strong></h4>
 <p></p>
 <p>Peicai Secondary School (PCSS) welcomes eligible Primary Six students
-for Secondary One admission in 2024 with talents in various areas to apply
+for Secondary One admission in 2025 with talents in various areas to apply
 for Direct School Admission to Secondary One.</p>
 <h4><strong>WHY APPLY FOR DSA TO PCSS</strong></h4>
 <p>In PCSS, we focus on the holistic development of our students. We strongly
@@ -62,6 +62,12 @@ areas:</p>
 <p>Our Sports and Games have been making steady progress with the most recent
 achievement being the school’s Volleyball Boys achieving South Zone Top
 4 Placing in 2023.</p>
+<p></p>
+<p>Our Basketball C Division Boys team have also qualified for the second
+round of the South Zone National Schools Games 2023 tournament.</p>
+<p></p>
+<p>Our Softball Boys and Girls C Division teams are ranked 6th and 8th at
+the respectively at the national rounds of National Schools Games 2023.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students applying should have relevant experience which could include
@@ -108,6 +114,8 @@ Inter-Primary School Championship</p>
 </p>
 <p><strong>• English Drama</strong>
 </p>
+<p><strong>• Modern Dance</strong>
+</p>
 </td>
 </tr>
 </tbody>
@@ -119,8 +127,11 @@ Inter-Primary School Championship</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Our English Drama CCA has been doing well at the Singapore Youth Festival
-(SYF) Presentations with the team achieving the Distinction award this
-year.</p>
+(SYF) 2023 Presentations with the team achieving the Distinction award.</p>
+<p></p>
+<p>Our Modern Dance CCA has been doing well at the Singapore Youth Festival
+(SYF) 2023 Presentations with the team achieving the Distinction award,
+as well as representing the school at Chingay Parade 2024.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students applying should have relevant experience which could include
@@ -166,6 +177,8 @@ in performances</p>
 </p>
 <p><strong>• National Police Cadet Corps</strong>
 </p>
+<p><strong>• Girl Guides</strong>
+</p>
 </td>
 </tr>
 </tbody>
@@ -177,8 +190,10 @@ in performances</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Our Uniformed Groups (UGs) have been performing very well over the past
-years. Our NCC and NPCC units have been consistently achieving the Distinction
-Awards in the unit competitions for 6 and 5 years respectively.</p>
+years. As of 2024, our Girl Guides, NCC and NPCC units have been consistently
+achieving the Distinction Awards in the unit competitions for 7and 6 years
+respectively.</p>
+<p></p>
 <p>The UGs develop our students’ leadership potential in various ways. Our
 UG students are regularly given opportunities to lead, which in turn developing
 them into independent and confident leaders of character.</p>
@@ -242,6 +257,7 @@ or project</p>
 with a daring spirit and a passion to lead and serve. The Student Leadership
 Programme in PCSS offers a wide range of platforms for students to take
 on leadership roles in the school.</p>
+<p></p>
 <p>Applicants admitted to the school via DSA (Leadership) can expect to be
 appointed as a Student Councillor in Secondary 1 where they will lead and
 serve the student body while acquiring key leadership competencies.</p>
@@ -270,6 +286,9 @@ level</p>
 </tr>
 </tbody>
 </table>
+<p>The selection criteria and process for the talent areas will be updated
+from early-May. For more information on DSA-Sec, please refer to the MOE
+website at <a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>.</p>
 <h4><strong>APPLICATION PROCEDURE</strong></h4>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
 The application will be from 4 May 2023, 11am to 31 May 2023, 3pm. For
@@ -281,18 +300,18 @@ arts) between 26 June 2023 and 11 September 2023. Please note that the
 meeting of specified criteria does not guarantee the student will be shortlisted
 or given an offer.</p>
 <p>1) Applicants will be assessed based on the following criteria:
-<br><strong>Sports &amp; Games</strong>
+<br><strong>Sports &amp; Games</strong> 
 <br>• knowledge of game rules
 <br>• in-game decision-making skills
 <br>• passion, commitment and interest in game
-<br><strong>Performing Arts</strong>
+<br><strong>Performing Arts</strong> 
 <br>• knowledge in performing arts
 <br>• specific arts-related skills
 <br>• passion, commitment and interest in performing arts
-<br><strong>Leadership</strong>
+<br><strong>Leadership</strong> 
 <br>• understanding of leadership,
 <br>• reflection of their past leadership experiences.
-<br><strong>Uniformed Groups</strong>
+<br><strong>Uniformed Groups</strong> 
 <br>• understanding of being in uniformed groups,
 <br>• passion, commitment and interest in the uniformed groups.
 <br>
