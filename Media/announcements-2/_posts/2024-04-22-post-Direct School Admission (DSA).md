@@ -1,11 +1,12 @@
 ---
 title: Direct School Admission (DSA)
 permalink: /student-services/prospective-students/direct-school-admission-dsa/
-date: 2023-05-09
+date: 2024-04-22
 layout: post
 description: ""
 image: /images/congratulations peicai sec! qualified for semi finals of national
   school games track and field.jpg
+variant: tiptap
 ---
 <p align="center"><b>Congratulations Peicai Secondary National Second for Finals of 800 m National School Games Track and Field </b>
 <table>
