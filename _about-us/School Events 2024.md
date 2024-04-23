@@ -71,11 +71,6 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <h4>CCA Appreciation Ceremony</h4>
 <table>
 <tbody>
