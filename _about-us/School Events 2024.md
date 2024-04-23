@@ -34,6 +34,48 @@ description: ""
 </tr>
 </tbody>
 </table>
+<h4>Inter-class Debating Championship 2024</h4>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Inter-class Debating Championship 2024" src="/images/Achievements/Inter_class_Debating_Championship_2024_A.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Inter-class Debating Championship 2024" src="/images/Achievements/Inter_class_Debating_Championship_2024_B.jpg">
+</div>
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <h4>CCA Appreciation Ceremony</h4>
 <table>
 <tbody>
