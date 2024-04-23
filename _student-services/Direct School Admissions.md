@@ -31,8 +31,7 @@ areas:</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Criteria</strong>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -70,23 +69,7 @@ round of the South Zone National Schools Games 2023 tournament.</p>
 the respectively at the national rounds of National Schools Games 2023.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Students applying should have relevant experience which could include
-the following:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>represented primary school in National Schools Games (Zonal or National)
-Inter-Primary School Championship</p>
-</li>
-<li>
-<p>represented National Sports Association or Club in local or overseas competition</p>
-</li>
-<li>
-<p>participated in MOE’s Junior Sports Academy (JSA) Programme</p>
-</li>
-<li>
-<p>participated in external training programmes</p>
-</li>
-</ul>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -134,20 +117,7 @@ Inter-Primary School Championship</p>
 as well as representing the school at Chingay Parade 2024.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Students applying should have relevant experience which could include
-the following:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>represented at school or national level or relevant external organisations
-in performances</p>
-</li>
-<li>
-<p>participated in SYF (Drama) Arts Presentation</p>
-</li>
-<li>
-<p>attended drama-related enrichment classes</p>
-</li>
-</ul>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -199,23 +169,7 @@ UG students are regularly given opportunities to lead, which in turn developing
 them into independent and confident leaders of character.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Students applying should have:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>attained a minimum conduct grade of “Very Good”</p>
-</li>
-<li>
-<p>participated in SYF (Drama) Arts Presentation</p>
-</li>
-<li>
-<p>attained a proven and sustained record of playing key leadership roles
-in their respective CCAs in primary school</p>
-</li>
-<li>
-<p>active involvement in school level projects or community level programmes
-or project</p>
-</li>
-</ul>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -263,25 +217,7 @@ appointed as a Student Councillor in Secondary 1 where they will lead and
 serve the student body while acquiring key leadership competencies.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Students applying should have:</p>
-<ul>
-<li>
-<p>attained a minimum conduct grade of “Very Good”</p>
-</li>
-<li>
-<p>And should satisfy at least two of the following:</p>
-</li>
-<li>
-<p>currently holding a leadership position at the class, CCA and/or school
-level</p>
-</li>
-<li>
-<p>active involvement in community or school level programmes</p>
-</li>
-<li>
-<p>a keen interest in leading and serving the student body and the community</p>
-</li>
-</ul>
+<p></p>
 </td>
 </tr>
 </tbody>
