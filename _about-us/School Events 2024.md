@@ -11,7 +11,7 @@ description: ""
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Hari Raya 2024" src="/images/Aboutus/Hari_Raya_2024.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="Hari Raya 2024" src="/images/Aboutus/Hari_Raya_2024.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
