@@ -50,11 +50,11 @@ Competencies.</p>
 <td rowspan="1" colspan="1">
 <p><strong><u>Sports</u></strong>
 </p>
-<p>§ <strong>Basketball (Boys)</strong>
+<p>·&nbsp; <strong>Basketball (Boys)</strong>
 </p>
-<p>§ <strong>Softball (Boys and Girls)</strong>
+<p>·&nbsp; <strong>Softball (Boys and Girls)</strong>
 </p>
-<p>§ <strong>Volleyball (Boys and Girls)</strong>
+<p>·&nbsp; <strong>Volleyball (Boys and Girls)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -88,7 +88,7 @@ training programmes</p>
 <td rowspan="1" colspan="1">
 <p><strong><u>Performing Arts</u></strong>
 </p>
-<p>§ <strong>English Drama</strong>
+<p>·&nbsp; <strong>English Drama</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -112,7 +112,7 @@ enrichment classes</p>
 <td rowspan="1" colspan="1">
 <p><strong><u>Performing Arts</u></strong>
 </p>
-<p>§ <strong>Modern Dance</strong>
+<p>·&nbsp; <strong>Modern Dance</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -138,11 +138,11 @@ enrichment classes/courses</p>
 <td rowspan="1" colspan="1">
 <p><strong><u>Uniformed Groups</u></strong>
 </p>
-<p>§ <strong>National Cadet Corps (Sea)</strong>
+<p>·&nbsp; <strong>National Cadet Corps (Sea)</strong>
 </p>
-<p>§ <strong>National Police Cadet Corps</strong>
+<p>·&nbsp; <strong>National Police Cadet Corps</strong>
 </p>
-<p>§ <strong>Girl Guides</strong>
+<p>·&nbsp; <strong>Girl Guides</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -170,7 +170,7 @@ school level projects or community level programmes or project</p>
 <td rowspan="1" colspan="1">
 <p><strong><u>Leadership</u></strong>
 </p>
-<p>§&nbsp; <strong>Student Council</strong>
+<p>·&nbsp;&nbsp; <strong>Student Council</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
