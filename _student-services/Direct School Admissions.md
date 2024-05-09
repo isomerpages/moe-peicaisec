@@ -71,17 +71,13 @@ Games 2023&nbsp;</p>
 <td rowspan="1" colspan="1">
 <p>Students applying should have the relevant experience which could include
 the following:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; attained a minimum conduct
-grade of “Good”</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; represented primary
-school in National Schools Games (Zonal or National) Inter-Primary School
-Championship</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; represented National
-Sports Association or Club in local or overseas competition/s</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; participated in MOE’s
-Junior Sports Academy (JSA) Programme</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; participated in external
-training programmes</p>
+<p>·&nbsp;attained a minimum conduct grade of “Good”</p>
+<p>·&nbsp;represented primary school in National Schools Games (Zonal or
+National) Inter-Primary School Championship</p>
+<p>·&nbsp;represented National Sports Association or Club in local or overseas
+competition/s</p>
+<p>·&nbsp;participated in MOE’s Junior Sports Academy (JSA) Programme</p>
+<p>·&nbsp;participated in external training programmes</p>
 </td>
 </tr>
 <tr>
@@ -98,14 +94,11 @@ training programmes</p>
 <td rowspan="1" colspan="1">
 <p>Students applying should have the relevant experience which could include
 the following:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; attained a minimum conduct
-grade of “Good”</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; represented at school
-or national level or relevant external organisations in performances</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; participated in SYF
-(Drama) Arts Presentation</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; attended drama-related
-enrichment classes</p>
+<p>·&nbsp;attained a minimum conduct grade of “Good”</p>
+<p>·&nbsp;represented at school or national level or relevant external organisations
+in performances</p>
+<p>·&nbsp;participated in SYF (Drama) Arts Presentation</p>
+<p>·&nbsp;attended drama-related enrichment classes</p>
 </td>
 </tr>
 <tr>
@@ -123,14 +116,11 @@ as well as representing the school at Chingay Parade 2024.</p>
 <td rowspan="1" colspan="1">
 <p>Students applying should have the relevant experience which could include
 the following:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; attained a minimum conduct
-grade of “Good”</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; represented at school
-or national level or relevant external organisations in performances</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; participated in SYF
-(Modern Dance) Arts Presentation</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; attended dance-related
-enrichment classes/courses</p>
+<p>·&nbsp;attained a minimum conduct grade of “Good”</p>
+<p>·&nbsp;represented at school or national level or relevant external organisations
+in performances</p>
+<p>·&nbsp;participated in SYF (Modern Dance) Arts Presentation</p>
+<p>·&nbsp;attended dance-related enrichment classes/courses</p>
 <p>&nbsp;</p>
 </td>
 </tr>
@@ -156,13 +146,11 @@ them into independent and confident leaders of character.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students applying should have:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; attained a minimum conduct
-grade of “Good”</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; attained a proven and
-sustained record of playing key leadership roles in their respective CCAs
-in primary school.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; active involvement in
-school level projects or community level programmes or project</p>
+<p>·&nbsp;attained a minimum conduct grade of “Good”</p>
+<p>·&nbsp;attained a proven and sustained record of playing key leadership
+roles in their respective CCAs in primary school.</p>
+<p>·&nbsp;active involvement in school level projects or community level
+programmes or project</p>
 <p></p>
 </td>
 </tr>
@@ -187,8 +175,7 @@ on leadership roles in the school.</p>
 <p>attained a minimum conduct grade of “Good”</p>
 </li>
 </ul>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And should satisfy <strong>at least two</strong> of
-the following:</p>
+<p>·&nbsp;And should satisfy <strong>at least two</strong> of the following:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>currently holding a leadership position at the class, CCA and/or school
