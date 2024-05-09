@@ -299,4 +299,4 @@ a CCA.</p>
 <p><strong><u>ENQUIRIES</u></strong>
 </p>
 <p>If you would like further details or require any clarifications, you may
-contact Mr Alvin Yeo, Subject Head for PE &amp; CCA at 6288 4159 or <a rel="noopener noreferrer nofollow" target="_blank">alvin_yeo@moe.edu.sg</a>.</p>
+contact Mr Alvin Yeo, Subject Head for PE &amp; CCA at 6288 4159 or <a href="mailto:alvin_yeo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">alvin_yeo@moe.edu.sg</a>.</p>
