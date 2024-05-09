@@ -1,7 +1,7 @@
 ---
 title: Direct School Admission (DSA)
 permalink: /student-services/prospective-students/direct-school-admission-dsa/
-date: 2024-04-22
+date: 2024-05-08
 layout: post
 description: ""
 image: /images/congratulations peicai sec! qualified for semi finals of national
