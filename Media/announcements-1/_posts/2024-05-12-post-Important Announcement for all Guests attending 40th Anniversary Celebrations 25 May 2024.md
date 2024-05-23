@@ -8,10 +8,53 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<h4>Important Announcement for all Guests attending 40th Anniversary Celebrations 25 May 2024</h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Important Announcement for all Guests attending 40th Anniversary Celebrations 25 May 2024" src="/images/Announcement/Important_Announcement_for_all_Guests_attending_40th_Anniversary_Celebrations_25_May_2024.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <h4>Flight Experience Singapore</h4>
 <p></p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
@@ -47,7 +90,12 @@ to the March holidays.</p>
 </tbody>
 </table>
 <p></p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -85,12 +133,21 @@ to the March holidays.</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
 <p></p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -227,7 +284,11 @@ view the briefing slides.</p>
 </table>
 <p><strong>Release of 2023 Singapore-Cambridge GCE O-Level Examination Results and 2024 Joint Admissions Exercise</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -258,7 +319,11 @@ view the briefing slides.</p>
 </p>
 <p><strong>Peicai Sec E-brochure</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -281,7 +346,10 @@ view
 <hr>
 <p><strong>2024 President Award for Teachers (PAT) &amp; 2024 Outstanding Youth in Education Award (OYEA)</strong>
 </p>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -305,7 +373,10 @@ view
 <p></p>
 <p><strong>Make a Difference in Design Education - Support Peicai's ALP Team!</strong>
 </p>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -332,7 +403,10 @@ view
 </ul>
 <p></p>
 <p></p>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -350,7 +424,10 @@ view
 <p></p>
 <p><strong>Congratulations to our Science Olympians</strong>
 </p>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -368,7 +445,11 @@ view
 <p></p>
 <p><strong>Congratulations on the winners of the 3 mathematics competitions</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -427,7 +508,10 @@ view
 </tbody>
 </table>
 <hr>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -445,7 +529,11 @@ view
 <p><strong>Work Attachment Opportunities@Peicai</strong> 
 <br>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -467,7 +555,11 @@ view
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -489,7 +581,11 @@ view
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -511,7 +607,11 @@ view
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -546,7 +646,11 @@ view
 <p></p>
 <p><strong>3v3 mBot Football Challenge</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
