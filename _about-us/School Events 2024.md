@@ -4,7 +4,7 @@ permalink: /about-us/school-events-2024/
 variant: tiptap
 description: ""
 ---
-<p></p>
+<h4>40<sup>th </sup>Anniversary Celebration</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -43,9 +43,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
-<p></p>
+<h4>Hari Raya 2024</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
