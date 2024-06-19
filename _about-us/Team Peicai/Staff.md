@@ -12,10 +12,10 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="School Leaders v2" src="/images/Aboutus/01_V2_SCHOOL_LEADERS.JPG">
 </div>
 <hr>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SMC v2" src="/images/Aboutus/02_V2_SCHOOL_MANAGEMENT_COMMITTEE.JPG">
-</div>
 <hr>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SMC v2" src="/images/Aboutus/02_School_Management_V2.jpg">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Math Dept" src="/images/Aboutus/03_V2_Mathematics_Department_02.JPG">
 </div>
@@ -48,12 +48,12 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="ICT Dept v1" src="/images/Aboutus/010_V2_ICT_Department_V1.jpg">
 </div>
 <hr>
+<hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Student Development Team v1" src="/images/Aboutus/011_V2_Student_Development_V1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Student Development Team v1" src="/images/Aboutus/011_V2_Student_Development_V2.jpg">
 </div>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Executive Dept v2" src="/images/Aboutus/012_V2_Executive___Admin_Support.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="Executive Dept v2" src="/images/Aboutus/012_Executive___Admin_Support_v2.jpg">
 </div>
-<hr>
 <p></p>
