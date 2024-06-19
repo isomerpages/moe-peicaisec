@@ -4,8 +4,52 @@ permalink: /about-us/school-events-2024/
 variant: tiptap
 description: ""
 ---
+<h4>40<sup>th </sup>Anniversary Celebration</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
-<table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Peicai Secondary School 40th Anniversary 1" src="/images/Aboutus/Peicai_Secondary_School_40th_Anniversary_1.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Peicai Secondary School 40th Anniversary 2" src="/images/Aboutus/Peicai_Secondary_School_40th_Anniversary_2.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>Hari Raya 2024</h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -35,7 +79,12 @@ description: ""
 </tbody>
 </table>
 <h4>Students Leaders’ Investiture 2024</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -65,7 +114,12 @@ description: ""
 </tbody>
 </table>
 <h4>Inter-class Debating Championship 2024</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -102,7 +156,11 @@ description: ""
 </tbody>
 </table>
 <h4>CCA Appreciation Ceremony</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -126,7 +184,11 @@ description: ""
 </tbody>
 </table>
 <h4>Flight Experience Singapore</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -162,7 +224,11 @@ description: ""
 </tbody>
 </table>
 <h4>Chingay Parade</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -186,7 +252,11 @@ description: ""
 </tbody>
 </table>
 <h4>Total Defence Day</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -210,7 +280,11 @@ description: ""
 </tbody>
 </table>
 <h4>Peicai’s CNY 2024 Celebrations</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -240,7 +314,11 @@ description: ""
 </tbody>
 </table>
 <h4>CCA Openhouse</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -264,7 +342,11 @@ description: ""
 </tbody>
 </table>
 <h4>Secondary Two Cohort Camp</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -297,7 +379,11 @@ description: ""
 </tbody>
 </table>
 <h4>Secondary One Orientation</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -321,7 +407,11 @@ description: ""
 </tbody>
 </table>
 <h4>Start Smart Programme</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
