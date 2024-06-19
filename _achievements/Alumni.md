@@ -5,6 +5,8 @@ description: ""
 variant: tiptap
 ---
 <h4><strong>Recent Alumni Achievements</strong></h4>
+<p></p>
+<h4><strong>2024 </strong>CELEBRATION &amp; RECOGNITION DAY</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -14,57 +16,99 @@ variant: tiptap
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pcss Alumni 2" src="/images/Achievements/PCSS_ALUMNI__2_.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pcss Alumni 3" src="/images/Achievements/PCSS_ALUMNI__3_.jpg">
+</div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pcss Alumni 4" src="/images/Achievements/PCSS_ALUMNI__4_.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pcss Alumni 5" src="/images/Achievements/PCSS_ALUMNI__5_.jpg">
+</div>
 <p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pcss Alumni 6" src="/images/Achievements/PCSS_ALUMNI__6_.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pcss Alumni 7" src="/images/Achievements/PCSS_ALUMNI__7_.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pcss Alumni 8" src="/images/Achievements/PCSS_ALUMNI__8_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pcss Alumni 9" src="/images/Achievements/PCSS_ALUMNI__9_.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pcss Alumni 10" src="/images/Achievements/PCSS_ALUMNI__10_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pcss Alumni 11" src="/images/Achievements/PCSS_ALUMNI__11_.jpg">
+</div>
 <p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pcss Alumni 12" src="/images/Achievements/PCSS_ALUMNI__12_.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pcss Alumni 13" src="/images/Achievements/PCSS_ALUMNI__13_.jpg">
+</div>
 <p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pcss Alumni 14" src="/images/Achievements/PCSS_ALUMNI__14_.jpg">
+</div>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pcss Alumni 15" src="/images/Achievements/PCSS_ALUMNI__15_.jpg">
+</div>
 </td>
 </tr>
 <tr>
