@@ -8,8 +8,15 @@ variant: tiptap
 <p></p>
 <p>Promotion to the next level is dependent on student's performance in both
 Weighted Assessment (WA) and End-of-Year Examinations (EYE).</p>
-<h4><strong>Weighted Assessments for 2023</strong></h4>
-<table>
+<h4><strong>Weighted Assessments for 2024</strong></h4>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -116,7 +123,19 @@ Weighted Assessment (WA) and End-of-Year Examinations (EYE).</p>
 </tbody>
 </table>
 <h4><strong>The Grading System</strong></h4>
-<table>
+<table style="minWidth: 250px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -239,7 +258,11 @@ Weighted Assessment (WA) and End-of-Year Examinations (EYE).</p>
 <h5>Secondary 2</h5>
 <p><strong>To be promoted to Secondary 3, the criteria for the respective courses are as follows:</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -282,7 +305,11 @@ or Mathematics</p>
 <h5>Secondary 3</h5>
 <p><strong>To be promoted to Secondary 4, the criteria for the respective courses are as follows:</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
