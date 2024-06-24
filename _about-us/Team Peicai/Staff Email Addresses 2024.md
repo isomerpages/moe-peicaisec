@@ -121,7 +121,8 @@ variant: tiptap
 <p>Assistant Year Head/Upper Sec (Internal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nur_syirain_hamzah@moe.edu.sg</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">nur_syirain_hamzah@moe.edu.sg</a>
+</p>
 <p>&nbsp;</p>
 </td>
 </tr>
@@ -194,7 +195,8 @@ variant: tiptap
 <br>Co-curricular Activities</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Alvin_Yeo@moe.edu.sg</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">Alvin_Yeo@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -266,7 +268,8 @@ variant: tiptap
 <p>Subject Head/ Computer Applications</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teng_Lip_Koon@moe.edu.sg</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">Teng_Lip_Koon@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -942,7 +945,8 @@ variant: tiptap
 <p>Special Educational Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>shamira_ramzan_ali@moe.edu.sg</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">shamira_ramzan_ali@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -953,7 +957,8 @@ variant: tiptap
 <p>Special Educational Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>jonathan_chu_ming_zhong@moe.edu.sg</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">jonathan_chu_ming_zhong@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -988,7 +993,8 @@ variant: tiptap
 <p>Administration Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>kew_seow_juin@moe.edu.sg</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">kew_seow_juin@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1071,7 +1077,8 @@ variant: tiptap
 <p>ICT Associate</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ong_jun_qi_victor_a@moe.edu.sg</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">ong_jun_qi_victor_a@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
