@@ -1079,7 +1079,7 @@ variant: tiptap
 <p>ICT Associate</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ong_jun_qi_victor@moe.edu.sg</p>
+<p>ong_jun_qi_victor_a@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
