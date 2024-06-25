@@ -694,8 +694,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Syirain Bte Hamzah</p>
-<p>Ms Yeap Yixuan</p>
+<p>Nur Syirain Bte Hamzah (Ms)</p>
+<p>Yeap Yixuan (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3C2</p>
@@ -724,7 +724,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Nur Zamir Bin Md Yatim</p>
+<p>Nur Zamir Bin Md Yatim (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3C4</p>
@@ -1061,7 +1061,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Freddy Loke</p>
+<p>Freddy Loke (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ICT Admin Executive</p>
@@ -1073,7 +1073,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ong Jun Qi Victor</p>
+<p>Ong Jun Qi Victor (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ICT Associate</p>
