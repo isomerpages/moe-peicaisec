@@ -2,6 +2,7 @@ collections:
   academic:
     output: true
     order:
+      - Assessment and Examination Schedule.md
       - T&L Framework.md
       - Subjects Offered.md
       - Assessment and Promotion Criteria.md
