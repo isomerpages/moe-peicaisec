@@ -111,22 +111,3 @@ description: ""
 </tbody>
 </table>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p>Sec 1 EYE - <a href="https://file.go.gov.sg/pcss-eye-schedule-s1.pdf" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pcss-eye-schedule-s1</a>
-</p>
-<p>Sec 2 EYE - <a href="https://file.go.gov.sg/pcss-eye-schedule-s2.pdf" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pcss-eye-schedule-s2</a>
-</p>
-<p>Sec 3 EYE - <a href="https://file.go.gov.sg/pcss-eye-schedule-s3.pdf" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pcss-eye-schedule-s3</a>
-</p>
-<p>Sec 1 WA3 - <a href="https://file.go.gov.sg/pcss-wa3-schedule-s1.pdf" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pcss-wa3-schedule-s1</a>
-</p>
-<p>Sec 2 WA3 - <a href="https://file.go.gov.sg/pcss-wa3-schedule-s2.pdf" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pcss-wa3-schedule-s2</a>
-</p>
-<p>Sec 3 WA3 - <a href="https://file.go.gov.sg/pcss-wa3-schedule-s3.pdf" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pcss-wa3-schedule-s3</a>
-</p>
-<p></p>
