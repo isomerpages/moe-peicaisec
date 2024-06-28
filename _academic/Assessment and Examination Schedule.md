@@ -9,9 +9,9 @@ description: ""
 </p>
 <p>Sec 4N N Prelim - <a href="https://file.go.gov.sg/pcss-n-prelim-schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pcss-n-prelim-schedule</a>
 </p>
-<p>Sec 1 EYE – <a href="https://file.go.gov.sg/pcss-eye-schedule-s1.pdf" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pcss-eye-schedule-s1</a>
+<p>Sec 1 EYE - <a href="https://file.go.gov.sg/pcss-eye-schedule-s1.pdf" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pcss-eye-schedule-s1</a>
 </p>
-<p>Sec 2 EYE – <a href="https://file.go.gov.sg/pcss-eye-schedule-s2.pdf" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pcss-eye-schedule-s2</a>
+<p>Sec 2 EYE - <a href="https://file.go.gov.sg/pcss-eye-schedule-s2.pdf" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pcss-eye-schedule-s2</a>
 </p>
 <p>Sec 3 EYE - <a href="https://file.go.gov.sg/pcss-eye-schedule-s3.pdf" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pcss-eye-schedule-s3</a>
 </p>
