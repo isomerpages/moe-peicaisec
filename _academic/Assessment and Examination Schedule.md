@@ -5,10 +5,90 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>Hyperlinks to WA/Prelim/EYE Schedules</strong></h4>
-<p>Sec 4E/5N O Prelim - <a href="https://file.go.gov.sg/pcss-o-prelim-schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pcss-o-prelim-schedule</a>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 4E/5N O Prelim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/pcss-o-prelim-schedule" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pcss-o-prelim-schedule</a>
 </p>
-<p>Sec 4N N Prelim - <a href="https://file.go.gov.sg/pcss-n-prelim-schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pcss-n-prelim-schedule</a>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 4N N Prelim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/pcss-n-prelim-schedule" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pcss-n-prelim-schedule</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p>Sec 1 EYE - <a href="https://file.go.gov.sg/pcss-eye-schedule-s1.pdf" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pcss-eye-schedule-s1</a>
 </p>
 <p>Sec 2 EYE - <a href="https://file.go.gov.sg/pcss-eye-schedule-s2.pdf" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pcss-eye-schedule-s2</a>
