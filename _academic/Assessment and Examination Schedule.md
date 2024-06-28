@@ -38,21 +38,11 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Sec 1 EYE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://go.gov.sg/pcss-eye-schedule-s1" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pcss-eye-schedule-s1</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -60,10 +50,11 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Sec 2 EYE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://go.gov.sg/pcss-eye-schedule-s2" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pcss-eye-schedule-s2</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -71,10 +62,47 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Sec 3 EYE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/pcss-eye-schedule-s3" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pcss-eye-schedule-s3</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 1 WA3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/pcss-wa3-schedule-s1" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pcss-wa3-schedule-s1</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 2 WA3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/pcss-wa3-schedule-s2" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pcss-wa3-schedule-s2</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 3 WA3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/pcss-wa3-schedule-s3" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pcss-wa3-schedule-s3</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
