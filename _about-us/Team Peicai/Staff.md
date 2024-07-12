@@ -8,52 +8,57 @@ variant: tiptap
 <p></p>
 <h4><strong>Team Peicai</strong></h4>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="School Leaders v2" src="/images/Aboutus/01_V2_SCHOOL_LEADERS.JPG">
-</div>
-<hr>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SMC v2" src="/images/Aboutus/02_School_Management_V2.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Math Dept" src="/images/Aboutus/03_V2_Mathematics_Department_02.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="SCHOOL LEADERS" src="/images/Aboutus/001_SCHOOL_LEADERS_v2024.jpg">
 </div>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="English Dept v3" src="/images/Aboutus/04_V2_English_Department_03.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="SCHOOL MANAGEMENT COMMITTEE" src="/images/Aboutus/002_SCHOOL_MANAGEMENT_COMMITTEE_v2024.jpg">
 </div>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Science Dept v2" src="/images/Aboutus/05_V2_Science_Department.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="English and Literature Department" src="/images/Aboutus/003_English_Literature_Department_v2024.jpg">
 </div>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Humanities Dept" src="/images/Aboutus/06_V2_Humanities_Department.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="Mother Tongue Department" src="/images/Aboutus/004_Mother_Tongue_Department_v2024.jpg">
 </div>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Craft Dept v2" src="/images/Aboutus/07_V2_Craft___Technology.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="Science Department" src="/images/Aboutus/005_Science_Department_v2024.jpg">
 </div>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mther Tongue Dept v2" src="/images/Aboutus/08_V2_Mother_Tongue_Department.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="Mathematics Department" src="/images/Aboutus/006_Mathematics_Department_v2024.jpg">
 </div>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="PE Dept v2" src="/images/Aboutus/09_V2_PE___CCA_Department.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="Humanities Department" src="/images/Aboutus/007_Humanities_Department_v2024.jpg">
 </div>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ICT Dept v1" src="/images/Aboutus/010_V2_ICT_Department_V1.jpg">
-</div>
-<hr>
-<hr>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Student Development Team v1" src="/images/Aboutus/011_V2_Student_Development_V2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Craft and Technology" src="/images/Aboutus/008_Craft_Technology_v2024.jpg">
 </div>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Executive Dept v2" src="/images/Aboutus/012_Executive___Admin_Support_v2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="PE and CCA Department" src="/images/Aboutus/009_PE_CCA_Department_v2024.jpg">
 </div>
+<hr>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ICT Department" src="/images/Aboutus/010_ICT_Department_v2024.jpg">
+</div>
+<hr>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Student Development Team" src="/images/Aboutus/011_Student_Development_Team_v2024.jpg">
+</div>
+<hr>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="School Administration" src="/images/Aboutus/012_School_Administration_v2024.jpg">
+</div>
+<hr>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="School Operations" src="/images/Aboutus/013_School_Operations_v2024.jpg">
+</div>
+<p></p>
 <p></p>
