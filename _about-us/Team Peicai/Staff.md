@@ -42,23 +42,22 @@ variant: tiptap
 </div>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="PE and CCA Department" src="/images/Aboutus/009_PE_CCA_Department_v2024.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="009_PE_CCA_Department_v2024_2" src="/images/Aboutus/009_PE_CCA_Department_v2024_2.jpg">
 </div>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ICT Department" src="/images/Aboutus/010_ICT_Department_v2024.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="010_ICT_Department_v2024" src="/images/Aboutus/010_ICT_Department_v2024.jpg">
 </div>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Student Development Team" src="/images/Aboutus/011_Student_Development_Team_v2024.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="011_Student_Development_Team_v2024" src="/images/Aboutus/011_Student_Development_Team_v2024.jpg">
 </div>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="School Administration" src="/images/Aboutus/012_School_Administration_v2024.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="012_School_Administration_v2024" src="/images/Aboutus/012_School_Administration_v2024.jpg">
 </div>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="School Operations" src="/images/Aboutus/013_School_Operations_v2024.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="013_School_Operations_v2024" src="/images/Aboutus/013_School_Operations_v2024.jpg">
 </div>
-<p></p>
 <p></p>
