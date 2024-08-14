@@ -4,7 +4,7 @@ permalink: /about-us/school-events-2024/
 variant: tiptap
 description: ""
 ---
-<h4>Racial Harmony Day Celebrations 2024National Day Celebration 2024</h4>
+<h4>National Day Celebration 2024</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
