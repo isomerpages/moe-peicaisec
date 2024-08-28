@@ -1,13 +1,42 @@
 ---
-title: Important Announcement for all Guests attending 40th Anniversary
-  Celebrations 25 May 2024
+title: Returning Alumni for Teachers’ Day Celebrations 29 August 2024 from 9 am
+  to 11 am
 permalink: /media/announcements/permalink/
-date: 2024-05-12
+date: 2024-08-27
 layout: post
 description: ""
 image: ""
 variant: tiptap
 ---
+<h4>Alumni 2024</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Alumni 2024" src="/images/Announcement/ALUMNI_2024.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h4>Important Announcement for all Guests attending 40th Anniversary Celebrations 25 May 2024</h4>
 <table style="minWidth: 75px">
 <colgroup>
