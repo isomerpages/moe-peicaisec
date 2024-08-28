@@ -8,6 +8,35 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<h4>Alumni 2024</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Alumni 2024" src="/images/Announcement/ALUMNI_2024.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h4>Important Announcement for all Guests attending 40th Anniversary Celebrations 25 May 2024</h4>
 <table style="minWidth: 75px">
 <colgroup>
