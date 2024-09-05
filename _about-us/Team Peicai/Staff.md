@@ -53,10 +53,10 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="011_Student_Development_Team_v2024" src="/images/Aboutus/011_Student_Development_Team_v2024.jpg">
 </div>
 <hr>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="012_School_Administration_v2024" src="/images/Aboutus/012_School_Administration_v2024.jpg">
-</div>
 <hr>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="School Admin01" src="/images/Aboutus/School_Admin01.jpg">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="013_School_Operations_v2024" src="/images/Aboutus/013_School_Operations_v2024.jpg">
 </div>
