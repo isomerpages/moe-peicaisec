@@ -15,7 +15,7 @@ description: ""
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Teachers Day 2024" src="/images/Aboutus/Teachers_Day_2024.png">
+<img style="width: 80%;" height="auto" width="100%" alt="Teachers Day 2024" src="/images/Aboutus/Teachers_Day_2024.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
