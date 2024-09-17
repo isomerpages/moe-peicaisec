@@ -21,10 +21,10 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="003_English_Literature_Department_v2024" src="/images/Aboutus/003_English_Literature_Department_v2024.jpg">
 </div>
 <hr>
+<hr>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="004_Mother_Tongue_Department_v2024" src="/images/Aboutus/004_Mother_Tongue_Department_v2024.jpg">
 </div>
-<hr>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="005_Science_Department_v2024" src="/images/Aboutus/005_Science_Department_v2024.jpg">
 </div>
