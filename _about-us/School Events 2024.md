@@ -32,15 +32,6 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <h4>Teacher’s Day Celebration 2024</h4>
 <table style="minWidth: 50px">
 <colgroup>
