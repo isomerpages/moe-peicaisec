@@ -736,5 +736,5 @@ contact Income Insurance or visit the GIA/LIA or SDIC websites (<a href="http://
 <p>Information is correct as of May 2024.</p>
 <p><strong>Frequently Asked Questions</strong>
 </p>
-<p>MOE Travel Insurance for Students <a href="/files/MOE_travel_insurance_FAQ_for_parents_WEF_1_Nov_2023__30_Jan_2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">click Here</a>
+<p>MOE Travel Insurance for Students <a href="/files/MOE_travel_insurance_FAQ_for_parents_WEF_1_Nov_2023__30_Jan_2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">click here</a>
 </p>
