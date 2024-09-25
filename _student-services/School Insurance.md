@@ -734,3 +734,7 @@ under the scheme as well as the limits of coverage, where applicable, please
 contact Income Insurance or visit the GIA/LIA or SDIC websites (<a href="http://www.gia.org.sg" rel="noopener noreferrer nofollow" target="_blank">www.gia.org.sg</a> or
 <a href="http://www.lia.org.sg" rel="noopener noreferrer nofollow" target="_blank">www.lia.org.sg</a>or <a href="http://www.sdic.org.sg" rel="noopener noreferrer nofollow" target="_blank">www.sdic.org.sg</a>).</p>
 <p>Information is correct as of May 2024.</p>
+<p><strong>Frequently Asked Questions</strong>
+</p>
+<p>MOE Travel Insurance for Students click <a href="/files/MOE_travel_insurance_FAQ_for_parents_WEF_1_Nov_2023__30_Jan_2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">Here</a>
+</p>
