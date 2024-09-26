@@ -23,7 +23,7 @@ of challenges.</p>
 <p>Our students achieve a profound understanding of fundamental mathematical
 concepts, empowering them to apply these principles across a broad range
 of topics, from algebra to calculus.</p>
-<p><strong>3. Real-World Relevance </strong>
+<p><strong>3. Real-World Relevance</strong>
 </p>
 <p>We place a strong emphasis on demonstrating the practical applicability
 of mathematics. By showing students how mathematics is intertwined with
@@ -69,8 +69,131 @@ math in a creative and less rigid environment.</p>
 to create algorithms to solve problems. This helps them enhance their analytical
 and algorithmic thinking skills, which are highly transferable to various
 fields and careers.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 95%;" height="auto" width="100%" alt="International Math" src="/images/Academic/International_Math_img1.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="Bridging Math and Reality" src="/images/Academic/Bridging_Math_and_Reality_img2.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Team that participated in the International Math Modelling Challenge (IMMC)
+2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bridging Math and Reality: Students collaborate in groups to apply calculations
+to design and construct bridge models from materials such as ice-cream
+sticks, straws and more.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Students use Sticki" src="/images/Academic/Students_use_Stickimg3.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Discovering Math All  img4" src="/images/Academic/Discovering_Math_All__img4.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Building the future with Code and Creativity: Students use Stick’em to
+bring their coding creations to life.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Discovering Math All Around Us: Students take a journey on a math trail
+and explored the school through numbers and equations.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Asian Mathematics Olympiad" src="/images/Academic/Asian_Mathematics_Olympiad_img5.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="Learning through a tasty lens" src="/images/Academic/Learning_through_a_tasty_lens_img6.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Winners of 2024 Singapore and Asian Mathematics Olympiad (SASMO)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Learning through a tasty lens: Students compare the sizes and costs of
+bubble teacups, delving into the realms of geometry, measurements and even
+budgeting.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Winners of 2024 Singapore Math Kangaroo Contest (SMKC)" src="/images/Academic/Winners_of_2024_Singapore_Math_Kangaroo_Contest_img7.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Winners of 2024 Singapore Math Kangaroo Contest (SMKC)</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p></p>
 <p></p>
