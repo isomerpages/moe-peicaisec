@@ -7,7 +7,6 @@ description: ""
 <h4><strong>Principles of Accounts (POA) Department</strong></h4>
 <h4><strong>Learning Outcomes</strong></h4>
 <p>At Peicai, we aim to develop each student to:</p>
-<p></p>
 <p><strong>Understand Financial Performance</strong>
 <br>Grasp how businesses measure and communicate their financial performance.</p>
 <p><strong>Utilize Information for Decision-Making</strong>
@@ -46,13 +45,63 @@ of accounting principles through role play.</p>
 opportunities within the accounting profession.</p>
 </li>
 </ul>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Acctraordinary 2024 img 8" src="/images/Academic/Acctraordinary_2024_img_8.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
 <p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ACCTRAORDINARY 2024</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="National Financial Literacy Challenge 2024" src="/images/Academic/National_Financial_Literacy_Challenge_img9.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
 <p></p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="NUMBERSPLAN Interschool Competition" src="/images/Academic/NUMBERSPLAN_Interschool_Competition_imp10.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Financial Literacy Challenge 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NUMBERSPLAN Interschool Competition</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>Syllabus</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
