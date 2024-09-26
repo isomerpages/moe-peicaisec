@@ -194,12 +194,6 @@ budgeting.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <h4><strong>Syllabus</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -222,11 +216,11 @@ budgeting.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2021syllabus/4046_y21_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">4046 N(T) Level Mathematics</a>
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/4046_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">4046 N(T) Level Mathematics</a>
 </p>
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2021syllabus/4045_y21_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">4045 N(A) Level Mathematics</a>
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/4045_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">4045 N(A) Level Mathematics</a>
 </p>
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2021syllabus/4051_y21_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">4051 N(A) Level Additional Mathematics</a>
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/4051_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">4051 N(A) Level Additional Mathematics</a>
 </p>
 </td>
 </tr>
@@ -236,9 +230,9 @@ budgeting.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2023syllabus/4052_y23_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">4052 O Level Mathematics</a>
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/4052_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">4052 O Level Mathematics</a>
 </p>
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2022syllabus/4049_y22_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">4049 O Level Additional Mathematics</a>
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/4049_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">4049 O Level Additional Mathematics</a>
 </p>
 </td>
 </tr>
