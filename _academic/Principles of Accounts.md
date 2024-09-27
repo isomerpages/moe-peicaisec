@@ -1,56 +1,141 @@
 ---
 title: Principles of Accounts
 permalink: /academic/principles-of-accounts/
-variant: markdown
+variant: tiptap
 description: ""
 ---
-<h4><strong>Principles of Accounts</strong></h4>
+<h4><strong>Principles of Accounts (POA) Department</strong></h4>
 <h4><strong>Learning Outcomes</strong></h4>
-<p>In Peicai, we aim to develop each student to:</p>
-<p></p><p align="justify">1.	understand how businesses measure and communicate their financial performance; </p>
-<p></p><p align="justify">2.	know how to make use of both accounting and non-accounting information related to businesses to make decisions; and</p>
-<p></p><p align="justify">3.	be able to use skills such as organising and analysing information to make decisions, with emphasis on ethics and values.</p>
-<h4><strong>Department Programme/Highlights</strong></h4>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<p>At Peicai, we aim to develop each student to:</p>
+<p><strong>Understand Financial Performance</strong>
+<br>Grasp how businesses measure and communicate their financial performance.</p>
+<p><strong>Utilize Information for Decision-Making</strong>
+<br>Learn to make informed decisions using both accounting and non-accounting
+information related to businesses.</p>
+<p><strong>Develop Analytical Skills</strong>
+<br>Acquire skills such as organizing and analyzing information to make decisions,
+with an emphasis on ethics and values.</p>
+<h4><strong>Department Programmes and Highlights</strong></h4>
+<p>We provide opportunities for students with a strong passion and aptitude
+in Principles of Accounting (POA) to enhance their skills by participating
+in a variety of competitions and related events. These platforms allow
+students to apply their accounting knowledge in broader problem-solving
+contexts, fostering critical thinking and analytical skills.</p>
+<p><strong>Key Competitions and Events:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>National Financial Literacy Challenge 2024</strong>
+<br>A competition aimed at enhancing students' understanding of financial
+concepts and practices.</p>
+</li>
+<li>
+<p><strong>POA Quest 2024</strong>
+<br>An engaging event where students explore the joy of learning in POA through
+gamified experiences.</p>
+</li>
+<li>
+<p><strong>The NUMBERSPLAN Interschool Competition</strong>
+<br>A collaborative competition that encourages teamwork and practical application
+of accounting principles through role play.</p>
+</li>
+<li>
+<p><strong>ACCTraordinary</strong>
+<br>An outreach programme organized to connect aspiring accountants and showcase
+opportunities within the accounting profession.</p>
+</li>
+</ul>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/Principles_of_Accounts_1.jpg"></td>
-<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/Principles_of_Accounts_2.jpg"></td>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Acctraordinary 2024 img 8" src="/images/Academic/Acctraordinary_2024_img_8.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
 </tr>
 <tr>
-<td style="width: 33.3333%;"><p style="text-align: center;">Engagement Talk by Chartered Accountant from Ernst &amp; Young LLP</p></td>
-<td style="width: 33.3333%;"><p style="text-align: center;">POA National Accounting Challenge</p></td>
-</tr>
-<tr>
+<td rowspan="1" colspan="1">
+<p>ACCTRAORDINARY 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 </tbody>
 </table>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/Principles_of_Accounts_3.jpg"></td>
-<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/Principles_of_Accounts_4.jpg"></td>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="National Financial Literacy Challenge 2024" src="/images/Academic/National_Financial_Literacy_Challenge_img9.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="NUMBERSPLAN Interschool Competition" src="/images/Academic/NUMBERSPLAN_Interschool_Competition_imp10.jpg">
+</div>
+</th>
 </tr>
 <tr>
-<td style="width: 33.3333%;"><p style="text-align: center;">POAce Amazing Race</p></td>
-<td style="width: 33.3333%;"><p style="text-align: center;">POAce Amazing Race</p></td>
-</tr>
-<tr>
+<td rowspan="1" colspan="1">
+<p>National Financial Literacy Challenge 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NUMBERSPLAN Interschool Competition</p>
+</td>
 </tr>
 </tbody>
 </table>
 <h4><strong>Syllabus</strong></h4>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td width="141"><strong><u>Principles of Account:</u></strong></td>
-<td width="400"><a>
-</a></td></tr>
-<tr>
-<td style="width: 33.3333%;"><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/7086_y24_sy.pdf" target="_blank" rel="noopener">N Level syllabus</a></td>
-<td style="width: 33.3333%;"><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/7087_y24_sy.pdf" target="_blank" rel="noopener">O Level syllabus</a></td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Principles of Account:</u></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
-<tr><td style="width: 33.3333%;">&nbsp;</td>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/7086_y24_sy.pdf" rel="noopener" target="_blank">N Level syllabus</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/7087_y24_sy.pdf" rel="noopener" target="_blank">O Level syllabus</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 </tbody>
 </table>
+<p></p>
