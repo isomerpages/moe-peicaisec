@@ -91,7 +91,7 @@ documents in softcopy prior to doing the submission.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="FAS QR CODE" src="/images/Student Services/QR_code_MOE_FAS.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="FAS QR CODE" src="/images/Student Services/QR_code_MOE_FAS.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
