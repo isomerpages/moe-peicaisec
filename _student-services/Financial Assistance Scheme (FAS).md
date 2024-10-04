@@ -89,27 +89,17 @@ documents in softcopy prior to doing the submission.</p>
 <th rowspan="1" colspan="1">
 <p><a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efas</a>
 </p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="MOE FAS QR code" src="/images/Student Services/QR_code_MOE_FAS.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="FAS QR CODE" src="/images/Student Services/QR_code_MOE_FAS.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
+</th>
+<th rowspan="1" colspan="1">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
+</th>
+<th rowspan="1" colspan="1">
 <p></p>
-</td>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
