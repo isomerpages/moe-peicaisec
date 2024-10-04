@@ -8,8 +8,8 @@ variant: tiptap
 </p>
 <ol>
 <li>
-<p>The MOE Financial Assistance Scheme (FAS) is open fo application for Year
-2025.</p>
+<p>The MOE Financial Assistance Scheme (FAS) is open for application for
+Year 2025.</p>
 <p>Eligibility Criteria and Benefits</p>
 </li>
 <li>
