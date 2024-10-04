@@ -4,7 +4,6 @@ permalink: /team-peicai/list-of-partners/
 description: ""
 variant: tiptap
 ---
-<p></p>
 <h4><strong>Our Partners Supporting Us In Holistic Education</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
