@@ -25,10 +25,6 @@ description: ""
 </tbody>
 </table>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <h4>Mid-Autumn Festival Celebration 2024</h4>
 <table style="minWidth: 50px">
 <colgroup>
