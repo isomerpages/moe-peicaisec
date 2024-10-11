@@ -51,6 +51,7 @@ IT personnel at E3-02.</p>
 <br><a href="/files/student edm_onboarding_introducing_student_icon.pdf" rel="noopener noreferrer nofollow" target="_blank">2. Student iCON - Student EDM Onboarding Introducing Student iCON_Poster</a>
 <br><a href="/files/student_icon_onboarding_guide_sec_school.pdf" rel="noopener noreferrer nofollow" target="_blank">3.Student iCON Onboarding Guide_Sec Schs</a>
 </p>
+<hr>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
