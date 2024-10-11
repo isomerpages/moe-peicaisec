@@ -31,7 +31,12 @@ experiences and knowledge</p>
 <p>4. Inquiry Through Dialogue and Process Thinking to make thinking visible</p>
 <p></p>
 <p>5. Student-Centric Instruction to develop metacognition and multiliteracies</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -114,7 +119,11 @@ class presentations.</p>
 <p>Additionally, we identify and prepare representatives to participate in
 the Plain English Speaking Award organized by YMCA, further honing their
 public speaking abilities.</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -157,7 +166,10 @@ Encouraged to take risks and learn collaboratively, students develop their
 critical thinking skills, build confidence in their writing abilities and
 discover their creative potential, and in turn, enhance their ability to
 craft compelling essays.</p>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -178,7 +190,10 @@ craft compelling essays.</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -208,7 +223,12 @@ students not only build confidence but also sharpen their critical thinking
 abilities. They then get the chance to showcase their skills in the Secondary
 Three Inter-class Debating Championship, where they can put their abilities
 to the test in friendly competition with their fellow students.</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -252,7 +272,11 @@ to the test in friendly competition with their fellow students.</p>
 </tbody>
 </table>
 <p></p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -284,7 +308,11 @@ to the test in friendly competition with their fellow students.</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -319,12 +347,16 @@ Debating Championship.</p>
 </tbody>
 </table>
 <h4><strong>Syllabus</strong></h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www-seab-gov-sg-admin.cwp.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/1184_y24_sy.pdf" rel="noopener" target="_blank">1184 ‘O’ Level English</a>
-</p>
+<p>&nbsp;1184"O" Level English</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/1190_y24_sy.pdf" rel="noopener" target="_blank">1190 ‘N(A)’ Level English</a>
@@ -345,7 +377,7 @@ Debating Championship.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p></p>
 </td>
 </tr>
 </tbody>

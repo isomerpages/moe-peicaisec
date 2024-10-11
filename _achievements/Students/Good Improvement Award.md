@@ -1,26 +1,83 @@
 ---
 title: Good Improvement Award
 permalink: /achievements/students/good-improvement-award/
-variant: markdown
+variant: tiptap
 description: ""
 third_nav_title: Students
 ---
-<p align="justify">The Good Improvement Award is given to students who have demonstrated outstanding progress in their academics. These awards are a symbol of their resilience , determination and positive impact they have made for themselves.</p>
-<h4 style="text-align: center;"><strong><u>Good Improvement Award 2023</u></strong></h4>
-<table style="border-collapse: collapse; width: 100%;" border="0">
+<p>The Good Improvement Award is given to students who have demonstrated
+outstanding progress in their academics. These awards are a symbol of their
+resilience , determination and positive impact they have made for themselves.</p>
+<h4><strong><u>Good Improvement Award 2024</u></strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td style="width: 50%; text-align: center;"><img style="width: 100%;" src="/images/improvement list 1.JPG"><strong></strong></td>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
 </tr>
 <tr>
-<td style="width: 50%; text-align: center;"><img style="width: 100%;" src="/images/Improvement_List_3.jpg"><strong></strong></td>
-</tr>
-<tr>
-<td style="width: 50%; text-align: center;"><img style="width: 100%;" src="/images/improvement list 2.JPG"><strong></strong></td>
-</tr>
-<tr><td style="width: 50%; text-align: center;"><img style="width: 100%;" src="/images/Improvement_List_4v.JPG"><strong></strong></td>
-	</tr>
-<tr><td style="width: 50%; text-align: center;"><img style="width: 100%;" src="/images/Improvement_List_5v.JPG"><strong></strong></td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Good improvement award 2024 A" src="/images/Achievements/Good_improvement_award_2024_A.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 </tbody>
 </table>
+<p></p>
+<h4><strong><u>Good Improvement Award 2023</u></strong></h4>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" src="/images/improvement list 1.JPG">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" src="/images/Improvement_List_3.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" src="/images/improvement list 2.JPG">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" src="/images/Improvement_List_4v.JPG">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" src="/images/Improvement_List_5v.JPG">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
