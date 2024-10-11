@@ -125,6 +125,9 @@ IT personnel at E3-02.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="my skills future" src="/images/Student Services/my_skills_future.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
