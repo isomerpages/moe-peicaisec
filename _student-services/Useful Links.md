@@ -66,7 +66,7 @@ IT personnel at E3-02.</p>
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p><a href="https://idp.mims.moe.gov.sg/nidp/app/login" rel="noopener noreferrer nofollow" target="_blank">https://idp.mims.moe.gov.sg</a>
+<p><a href="https://idp.mims.moe.gov.sg/nidp/app/login" rel="noopener noreferrer nofollow" target="_blank">Students iCON</a>
 </p>
 </th>
 <th rowspan="1" colspan="1">
@@ -84,7 +84,7 @@ IT personnel at E3-02.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://www.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/</a></strong>
+<p><strong><a href="https://www.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">MOE Website</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -99,8 +99,30 @@ IT personnel at E3-02.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">https://vle.learning.moe.edu.sg/login</a></strong>
+<p><strong><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space</a></strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
