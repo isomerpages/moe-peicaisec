@@ -18,7 +18,6 @@ efforts to upgrade
 <p>The nomination period for the Inspiring Teacher of English Award 2022
 has been extended to
 <br>18 April 2022.</p>
-<p>Download your <a href="https://www.languagecouncils.sg/goodenglish/-/media/sgem/document/itea-nomination-forms/2022/2022_teaching_nomination-form.ashx?la=en" rel="noopener noreferrer nofollow" target="">nomination form</a>&nbsp;and
-submit the completed form to the General Office (hard
+<p>Download and submit the completed form to the General Office (hard
 <br>copy) or email (soft copy) to&nbsp;<a href="mailto:peicai_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="">peicai_ss@moe.edu.sg</a>.</p>
 <p></p>
