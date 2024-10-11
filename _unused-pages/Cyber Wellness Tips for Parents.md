@@ -41,8 +41,7 @@ when connecting to public Wi-Fi, so how do you stay safe on public Wi-Fi?
 </p>
 <p>Here are some tips on how you can stay safe while you surf the internet
 on public Wi-Fi.</p>
-<p><strong>Link: </strong><a href="https://www.csa.gov.sg/gosafeonline/go-safe-for-me/homeinternetusers/how-to-stay-safe-on-public-wi-fi" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.csa.gov.sg/gosafeonline/go-safe-for-me/homeinternetusers/how-to-stay-safe-on-public-wi-fi</u></a>
-</p>
+<p></p>
 <p><strong>6) Parents Should Be More Mindful Of Their Own Media Use</strong>
 </p>
 <p></p>
