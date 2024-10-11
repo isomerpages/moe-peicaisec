@@ -18,9 +18,6 @@ resilience , determination and positive impact they have made for themselves.</p
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Good improvement 2024" src="/images/Achievements/Good_improvement_award_2024.jpg">
-</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -29,6 +26,9 @@ resilience , determination and positive impact they have made for themselves.</p
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Good improvement award 2024 A" src="/images/Achievements/Good_improvement_award_2024_A.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -36,9 +36,6 @@ resilience , determination and positive impact they have made for themselves.</p
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
-<p></p>
 <p></p>
 <h4><strong><u>Good Improvement Award 2023</u></strong></h4>
 <table style="minWidth: 25px">
