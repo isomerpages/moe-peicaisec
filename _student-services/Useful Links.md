@@ -52,20 +52,6 @@ IT personnel at E3-02.</p>
 <br><a href="/files/student_icon_onboarding_guide_sec_school.pdf" rel="noopener noreferrer nofollow" target="_blank">3.Student iCON Onboarding Guide_Sec Schs</a>
 </p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://idp.mims.moe.gov.sg/nidp/app/login" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="icon logo" src="/images/Student Services/icon_2.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Students icon</div><div class="isomer-card-link">https://idp.mims.moe.gov.sg/nidp/app/login</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-</div>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -99,7 +85,7 @@ IT personnel at E3-02.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://www.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">MOE Website</a></strong>
+<p><a href="https://www.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">MOE Website</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -114,7 +100,7 @@ IT personnel at E3-02.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space</a></strong>
+<p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -124,9 +110,13 @@ IT personnel at E3-02.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ACE learning" src="/images/Student Services/ACE.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.ace-learning.com/login" rel="noopener noreferrer nofollow" target="_blank">Math Portal</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
