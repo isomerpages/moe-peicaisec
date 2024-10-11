@@ -84,7 +84,7 @@ IT personnel at E3-02.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/</a>
+<p><strong><a href="https://www.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -94,9 +94,13 @@ IT personnel at E3-02.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Sls" src="/images/Student Services/Sls_students.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">https://vle.learning.moe.edu.sg/login</a></strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
