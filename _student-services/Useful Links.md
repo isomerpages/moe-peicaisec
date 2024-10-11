@@ -130,6 +130,18 @@ IT personnel at E3-02.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="https://www.myskillsfuture.gov.sg/content/portal/en/index.html" rel="noopener noreferrer nofollow" target="_blank">My Skills Future</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
