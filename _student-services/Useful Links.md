@@ -66,7 +66,7 @@ IT personnel at E3-02.</p>
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://idp.mims.moe.gov.sg</a>
+<p><a href="https://idp.mims.moe.gov.sg/nidp/app/login" rel="noopener noreferrer nofollow" target="_blank">https://idp.mims.moe.gov.sg</a>
 </p>
 </th>
 <th rowspan="1" colspan="1">
@@ -79,9 +79,13 @@ IT personnel at E3-02.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="moe logo" src="/images/Student Services/MOE_logo.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
