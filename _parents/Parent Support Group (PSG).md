@@ -44,7 +44,7 @@ the&nbsp;<strong>3 Ts</strong>.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <p>Volunteer time to participate in the school’s events and programmes which
-will help parents experience first hand what their children do in school</p>
+will help parents experience first-hand what their children do in school</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -62,6 +62,321 @@ school</p>
 </tr>
 </tbody>
 </table>
+<p><strong>Introducing our Parent Support Group Executive Committee Members</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Role</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Advisor</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Michael, Principal</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>VP IC</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Jesmine Chung, Vice Principal 2</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Chairperson</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Irmah Ayub</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Vice Chairperson</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Valerie Cheng</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Finance Head</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Charissa Chua</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Publicity Head</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ashley Tay</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Welfare Head</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Sam Ho</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Level IC (Sec 1)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Gina Chow</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Level IC (Sec 2)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Rubaa Letchumanan</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Level IC (Sec 3)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Selviana Tshing Chen Lixia</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Key Highlights of PSG Activities and Programmes in 2024</strong>
+</p>
+<p><strong>Breakfast with Principal (17 February 2024)</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Breakfast with P'" src="/images/Parents/Picture1.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Breakfast with P'" src="/images/Parents/Picture2.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Mental Wellness Workshop (11 May 2024)</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="Mental Wellness Workshop" src="/images/Parents/Picture3.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>40<sup>th</sup> Anniversary Celebration (25 May 2024)</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="40th Anniversary Celebration" src="/images/Parents/Picture4.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Teacher’s Day Celebration (29 August 2024)</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Teacher’s Day Celebration" src="/images/Parents/Picture5.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Teacher’s Day Celebration" src="/images/Parents/Picture6.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Mid-Autumn Festival Celebration (13 September 2024)</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mid-Autumn Festival Celebration" src="/images/Parents/Picture7.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mid-Autumn Festival Celebration" src="/images/Parents/Picture8.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mid-Autumn Festival Celebration" src="/images/Parents/Picture9.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p><strong>Key Highlights of PSG Activities and Programmes in 2023</strong>
 </p>
 <div class="isomer-image-wrapper">
