@@ -265,7 +265,7 @@ school</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="40th Anniversary Celebration" src="/images/Parents/Picture4.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="40th Anniversary Celebration" src="/images/Parents/Picture4.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
