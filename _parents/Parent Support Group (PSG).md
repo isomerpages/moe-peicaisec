@@ -12,7 +12,6 @@ with the school to support the school in providing a dynamic and vibrant
 holistic education as well as environment for students to develop and excel.</p>
 <p><strong>Roles of the PSG</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Roles of the PSG 1" src="/images/Parents/Roles_of_the_PSG_1.jpg">
 </div>
