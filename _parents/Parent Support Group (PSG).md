@@ -422,5 +422,3 @@ touch with you.</p>
 <img style="width: 50%;" height="auto" width="100%" alt="Pc QR" src="/images/Parents/pc_psg2024_25.jpeg">
 </div>
 <p></p>
-<p></p>
-<p></p>
