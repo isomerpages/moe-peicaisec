@@ -369,52 +369,51 @@ school</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p><strong>Key Highlights of PSG Activities and Programmes in 2023</strong>
+<p><strong>PSG Family Day (BBQ) (11 October 2024)</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/PSG1v.JPG">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/PSG2.JPG">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/PSG3.JPG">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/PSG4.JPG">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/PSG5.JPG">
-</div>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="PSG Family Day (BBQ)" src="/images/Parents/Picture10.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="PSG Family Day (BBQ)" src="/images/Parents/Picture11.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>Join us a member of PSG</strong>
 </p>
-<p></p>
 <p>We encourage all parents to be a member of the school’s PSG as it would
 instantly connect you with a number of parents with whom you would be able
 to interact and share ideas on how you could further support your child
 in his/her journey as a teenager.</p>
-<p></p>
 <p>If you would like to be a member of Peicai’s PSG, please register <a href="https://go.gov.sg/parentconsentform24" rel="noopener noreferrer nofollow" target="_blank">here</a> or
 scan the QR Code provided below and the PSG Teacher Advisors would be in
 touch with you.</p>
