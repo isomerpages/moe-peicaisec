@@ -113,36 +113,6 @@ IT personnel at E3-02.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ACE learning" src="/images/Student Services/ACE.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.ace-learning.com/login" rel="noopener noreferrer nofollow" target="_blank">Math Portal</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="my skills future" src="/images/Student Services/my_skills_future.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.myskillsfuture.gov.sg/content/portal/en/index.html" rel="noopener noreferrer nofollow" target="_blank">My Skills Future</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
