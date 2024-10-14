@@ -82,110 +82,89 @@ school</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Advisor</strong>
-</p>
+<p>Advisor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Michael, Principal</strong>
-</p>
+<p>Mr Michael, Principal</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>VP IC</strong>
-</p>
+<p>VP IC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Jesmine Chung, Vice Principal 2</strong>
-</p>
+<p>Ms Jesmine Chung, Vice Principal 2</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Chairperson</strong>
-</p>
+<p>Chairperson</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Irmah Ayub</strong>
-</p>
+<p>Irmah Ayub</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Vice Chairperson</strong>
-</p>
+<p>Vice Chairperson</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Valerie Cheng</strong>
-</p>
+<p>Valerie Cheng</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Finance Head</strong>
-</p>
+<p>Finance Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Charissa Chua</strong>
-</p>
+<p>Charissa Chua</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Publicity Head</strong>
-</p>
+<p>Publicity Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ashley Tay</strong>
-</p>
+<p>Ashley Tay</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Welfare Head</strong>
-</p>
+<p>Welfare Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Sam Ho</strong>
-</p>
+<p>Sam Ho</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Level IC (Sec 1)</strong>
-</p>
+<p>Level IC (Sec 1)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Gina Chow</strong>
-</p>
+<p>Gina Chow</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Level IC (Sec 2)</strong>
-</p>
+<p>Level IC (Sec 2)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Rubaa Letchumanan</strong>
-</p>
+<p>Rubaa Letchumanan</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Level IC (Sec 3)</strong>
-</p>
+<p>Level IC (Sec 3)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Selviana Tshing Chen Lixia</strong>
-</p>
+<p>Selviana Tshing Chen Lixia</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p><strong>Key Highlights of PSG Activities and Programmes in 2024</strong>
 </p>
-<p><strong>Breakfast with Principal (17 February 2024)</strong>
-</p>
+<p>Breakfast with Principal (17 February 2024)</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -216,8 +195,7 @@ school</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Mental Wellness Workshop (11 May 2024)</strong>
-</p>
+<p>Mental Wellness Workshop (11 May 2024)</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -252,8 +230,7 @@ school</p>
 </tr>
 </tbody>
 </table>
-<p><strong>40<sup>th</sup> Anniversary Celebration (25 May 2024)</strong>
-</p>
+<p>40<sup>th</sup> Anniversary Celebration (25 May 2024)</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -288,8 +265,7 @@ school</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Teacher’s Day Celebration (29 August 2024)</strong>
-</p>
+<p>Teacher’s Day Celebration (29 August 2024)</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -327,8 +303,7 @@ school</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Mid-Autumn Festival Celebration (13 September 2024)</strong>
-</p>
+<p>Mid-Autumn Festival Celebration (13 September 2024)</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -369,8 +344,7 @@ school</p>
 </tr>
 </tbody>
 </table>
-<p><strong>PSG Family Day (BBQ) (11 October 2024)</strong>
-</p>
+<p>PSG Family Day (BBQ) (11 October 2024)</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
