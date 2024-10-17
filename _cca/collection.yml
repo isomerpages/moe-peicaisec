@@ -2,9 +2,9 @@ collections:
   cca:
     output: true
     order:
-      - CCA Schedule.md
       - CCAs.md
       - CCAs and LEAPS.md
+      - CCA Schedule.md
       - Clubs & Societies/.keep
       - Clubs & Societies/InfoComm Club.md
       - Clubs & Societies/Art Club.md
