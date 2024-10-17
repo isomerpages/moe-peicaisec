@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - List of Partners.md
       - Principal’s Message.md
       - School History.md
       - School Crest and Song.md
@@ -16,5 +15,6 @@ collections:
       - Corporate Video.md
       - School Events 2024.md
       - School Events 2023.md
+      - List of Partners.md
       - Media Press Releases.md
       - Contact Us.md
