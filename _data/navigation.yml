@@ -78,12 +78,22 @@ links:
   - title: Achievements
     url: /achievements/students
     sublinks:
+      - title: School Based Awards (Overview)
+        url: /achievements/students/school-based-awards/
+      - title: The Principal's List
+        url: /achievements/students/the-principals-list/
+      - title: Good Improvement Award
+        url: /achievements/students/good-improvement-award/
       - title: Students
-        url: /achievements/students
-      - title: Staff
-        url: /achievements/staff
+        url: /achievements/students/
+      - title: Co Curricular Achievements
+        url: /achievements/students/co-curricular-achievements/
+      - title: National Examinations 2023
+        url: /achievements/students/national-examinations-2023/
       - title: Alumni
-        url: /achievements/alumni
+        url: /achievements/alumni/
+      - title: Staff
+        url: /achievements/staff/
   - title: Student Services
     collection: student-services
   - title: Parents
