@@ -97,67 +97,11 @@ school</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Chairperson</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Irmah Ayub</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Vice Chairperson</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Valerie Cheng</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Finance Head</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Charissa Chua</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Publicity Head</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ashley Tay</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Welfare Head</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sam Ho</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Level IC (Sec 1)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Gina Chow</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Level IC (Sec 2)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Rubaa Letchumanan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Level IC (Sec 3)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Selviana Tshing Chen Lixia</p>
+<td rowspan="1" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="PSG Members" src="/images/Parents/PSG_Members_V1.jpg">
+</div>
 </td>
 </tr>
 </tbody>
