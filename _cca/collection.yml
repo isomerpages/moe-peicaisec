@@ -2,8 +2,8 @@ collections:
   cca:
     output: true
     order:
-      - CCAs and LEAPS.md
       - CCAs.md
+      - CCAs and LEAPS.md
       - Clubs & Societies/.keep
       - Clubs & Societies/InfoComm Club.md
       - Clubs & Societies/Art Club.md
@@ -19,7 +19,7 @@ collections:
       - Sports/Floorball Boys & Girls.md
       - Sports/Basketball Boys.md
       - Sports/Soccer (Interest Group).md
+      - Uniformed Groups/.keep
       - Uniformed Groups/NPCC.md
       - Uniformed Groups/NCC (Sea).md
       - Uniformed Groups/Girl Guides.md
-      - Uniformed Groups/.keep
