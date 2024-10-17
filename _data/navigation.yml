@@ -30,38 +30,38 @@ links:
         url: /academic/t-l-framework
       - title: Subjects Offered
         url: /academic/subjects-offered
-      - title: Assessment and Promotion
-        url: /academic/assessment-and-promotion-criteria
-      - title: Full Subject Based Banding
-        url: /academic/full-subject-based-banding-fsbb
       - title: Subject Overviews
         url: /academic/subject-overviews
-      - title: Assessment Schedule
-        url: /assessment-and-examination-schedule
-      - title: Class Timetable
-        url: /academic/class-timetable
-      - title: Blended Learning
-        url: /academic/blended-learning
+      - title: English Language & Literature
+        url: /academic/english-language-n-literature
+      - title: Mathematics
+        url: /academic/mathematics
+      - title: Science
+        url: /academic/science
+      - title: Mother Tongue Languages
+        url: /academic/mother-tongue-languages
+      - title: Humanities
+        url: /academic/humanities
       - title: Craft & Technology
         url: /academic/craft-and-technology/art-craft
       - title: Computer Applications (CPA)
         url: /academic/permalink/computer-applications
-      - title: English Language & Literature
-        url: /academic/english-language-n-literature
-      - title: Humanities
-        url: /academic/humanities
       - title: Principles of Accounts
         url: /academic/principles-of-accounts
       - title: Elements of Business
         url: /academic/elements-of-business
-      - title: Mathematics
-        url: /academic/mathematics
-      - title: Mother Tongue Languages
-        url: /academic/mother-tongue-languages
       - title: Physical Education
         url: /academic/physical-education
-      - title: Science
-        url: /academic/science
+      - title: Assessment Schedule
+        url: /assessment-and-examination-schedule
+      - title: Assessment and Promotion
+        url: /academic/assessment-and-promotion-criteria
+      - title: Full Subject Based Banding
+        url: /academic/full-subject-based-banding-fsbb
+      - title: Blended Learning
+        url: /academic/blended-learning
+      - title: Class Timetable
+        url: /academic/class-timetable
   - title: Student Development
     collection: student-development
   - title: CCA
