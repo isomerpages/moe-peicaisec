@@ -2,7 +2,6 @@
 title: National Examinations 2023
 permalink: /achievements/students/national-examinations-2023/
 description: ""
-third_nav_title: Students
 variant: tiptap
 ---
 <h4><strong>2023 National Examination Results</strong></h4>

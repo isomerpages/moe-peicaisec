@@ -5,22 +5,24 @@ links:
     sublinks:
       - title: Principal's Message
         url: /about-us/principal-s-message
-      - title: History
+      - title: School History
         url: /about-us/peicais-history
       - title: School Crest and Song
         url: /about-us/school-crest-and-song
       - title: Mission, Vision and Values
         url: /about-us/mission-vision-and-values
+      - title: Team Peicai
+        url: /about-us/our-peicai-family/staff
       - title: Corporate Video
         url: /about-us/corporate-video
       - title: School Events 2024
         url: /about-us/school-events-2024
       - title: School Events 2023
         url: /schoolevents/schoolevents2023/
-      - title: Media/Press Release
+      - title: Our Partners
+        url: /team-peicai/list-of-partners/
+      - title: Media/Press Releases
         url: /about-us/media-press-release
-      - title: Team Peicai
-        url: /about-us/our-peicai-family/staff
       - title: Contact Us
         url: /about-us/contact-us
   - title: Academic
@@ -30,58 +32,70 @@ links:
         url: /academic/t-l-framework
       - title: Subjects Offered
         url: /academic/subjects-offered
-      - title: Assessment and Promotion
-        url: /academic/assessment-and-promotion-criteria
-      - title: Full Subject Based Banding
-        url: /academic/full-subject-based-banding-fsbb
       - title: Subject Overviews
         url: /academic/subject-overviews
-      - title: Assessment Schedule
-        url: /assessment-and-examination-schedule
-      - title: Class Timetable
-        url: /academic/class-timetable
-      - title: Blended Learning
-        url: /academic/blended-learning
+      - title: English Language & Literature
+        url: /academic/english-language-n-literature
+      - title: Mathematics
+        url: /academic/mathematics
+      - title: Science
+        url: /academic/science
+      - title: Mother Tongue Languages
+        url: /academic/mother-tongue-languages
+      - title: Humanities
+        url: /academic/humanities
       - title: Craft & Technology
         url: /academic/craft-and-technology/art-craft
       - title: Computer Applications (CPA)
         url: /academic/permalink/computer-applications
-      - title: English Language & Literature
-        url: /academic/english-language-n-literature
-      - title: Humanities
-        url: /academic/humanities
       - title: Principles of Accounts
         url: /academic/principles-of-accounts
       - title: Elements of Business
         url: /academic/elements-of-business
-      - title: Mathematics
-        url: /academic/mathematics
-      - title: Mother Tongue Languages
-        url: /academic/mother-tongue-languages
       - title: Physical Education
         url: /academic/physical-education
-      - title: Science
-        url: /academic/science
+      - title: Assessment Schedule
+        url: /assessment-and-examination-schedule
+      - title: Assessment and Promotion
+        url: /academic/assessment-and-promotion-criteria
+      - title: Full Subject Based Banding
+        url: /academic/full-subject-based-banding-fsbb
+      - title: Blended Learning
+        url: /academic/blended-learning
+      - title: Class Timetable
+        url: /academic/class-timetable
   - title: Student Development
     collection: student-development
   - title: CCA
     url: /cca/ccas-and-leaps
     sublinks:
-      - title: CCAs & LEAPS 2.0
-        url: /cca/ccas-and-leaps
       - title: CCAs
         url: /cca/ccas
+      - title: CCAs & LEAPS 2.0
+        url: /cca/ccas-and-leaps
+      - title: CCA Schedule
+        url: /cca-schedule
   - title: Distinctive Programmes
     collection: distinctive-programmes
   - title: Achievements
     url: /achievements/students
     sublinks:
+      - title: School Based Awards (Overview)
+        url: /achievements/students/school-based-awards/
+      - title: The Principal's List
+        url: /achievements/students/the-principals-list/
+      - title: Good Improvement Award
+        url: /achievements/students/good-improvement-award/
       - title: Students
-        url: /achievements/students
-      - title: Staff
-        url: /achievements/staff
+        url: /achievements/students/
+      - title: Co Curricular Achievements
+        url: /achievements/students/co-curricular-achievements/
+      - title: National Examinations 2023
+        url: /achievements/students/national-examinations-2023/
       - title: Alumni
-        url: /achievements/alumni
+        url: /achievements/alumni/
+      - title: Staff
+        url: /achievements/staff/
   - title: Student Services
     collection: student-services
   - title: Parents

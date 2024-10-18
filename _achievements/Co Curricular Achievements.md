@@ -2,7 +2,6 @@
 title: Co Curricular Achievements
 permalink: /achievements/students/co-curricular-achievements/
 description: ""
-third_nav_title: Students
 variant: tiptap
 ---
 <p><strong><u>Year 2024</u></strong>

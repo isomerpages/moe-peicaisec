@@ -1,5 +1,5 @@
 ---
-title: List of Partners
+title: Our Partners
 permalink: /team-peicai/list-of-partners/
 description: ""
 variant: tiptap

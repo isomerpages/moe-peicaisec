@@ -3,7 +3,6 @@ title: Physical and Mental Health
 permalink: /student-development/physical-and-mental-health/
 description: ""
 variant: markdown
-third_nav_title: CCE
 ---
 <p><b>Physical and Mental Health</b></p>
 <p><b>Objectives</b></p>

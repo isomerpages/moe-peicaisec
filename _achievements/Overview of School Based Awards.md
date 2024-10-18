@@ -1,8 +1,7 @@
 ---
-title: School Based Awards
+title: Overview of School Based Awards
 permalink: /achievements/students/school-based-awards/
 description: ""
-third_nav_title: Students
 variant: markdown
 ---
 <p><strong><u>School Colours Award</u></strong></p>

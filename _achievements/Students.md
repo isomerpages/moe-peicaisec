@@ -2,7 +2,6 @@
 title: Students
 permalink: /achievements/students/
 description: ""
-third_nav_title: Students
 variant: tiptap
 ---
 <h4>School-based Student Achievements in Semester 1</h4>

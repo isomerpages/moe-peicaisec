@@ -3,7 +3,6 @@ title: Sexuality Education
 permalink: /student-development/sexuality-education/
 description: ""
 variant: tiptap
-third_nav_title: CCE
 ---
 <h4><strong>Sexuality Education</strong></h4>
 <p><strong>MOE Sexuality Education in Schools</strong> 

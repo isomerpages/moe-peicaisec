@@ -3,7 +3,6 @@ title: Aesthetics
 permalink: /student-development/aesthetics/
 description: ""
 variant: markdown
-third_nav_title: CCE
 ---
 <p><b>Aesthetics</b></p>
 <p><b>Objectives</b></p>

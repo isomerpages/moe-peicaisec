@@ -2,12 +2,12 @@ collections:
   achievements:
     output: true
     order:
-      - Students/.keep
-      - Students/Students.md
-      - Students/The Principal's List.md
-      - Students/Good Improvement Award.md
-      - Students/Co Curricular Achievements.md
-      - Students/School Based Awards.md
-      - Students/National Examinations 2023.md
-      - Staff.md
+      - Overview of School Based Awards.md
+      - The Principal's List.md
+      - Good Improvement Award.md
+      - Students.md
+      - Co Curricular Achievements.md
+      - National Examinations 2023.md
       - Alumni.md
+      - Staff.md
+      - Students(Delete)/.keep

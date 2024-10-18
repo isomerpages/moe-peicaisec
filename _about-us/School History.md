@@ -1,5 +1,5 @@
 ---
-title: History
+title: School History
 permalink: /about-us/peicais-history/
 description: ""
 variant: markdown

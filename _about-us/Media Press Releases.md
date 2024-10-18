@@ -1,5 +1,5 @@
 ---
-title: Media Press Release
+title: Media Press Releases
 permalink: /about-us/media-press-release/
 description: ""
 variant: markdown

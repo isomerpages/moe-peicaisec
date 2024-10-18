@@ -3,7 +3,6 @@ title: Environment sustainability
 permalink: /student-development/cce/environment-sustainability/
 variant: markdown
 description: ""
-third_nav_title: CCE
 ---
 <p></p><h4><strong>Environment</strong></h4><p></p>
 <p><b>Objectives:</b></p>

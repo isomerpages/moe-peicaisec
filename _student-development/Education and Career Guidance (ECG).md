@@ -3,7 +3,6 @@ title: Education and Career Guidance (ECG)
 permalink: /student-development/education-and-career-guidance-ecg/
 description: ""
 variant: markdown
-third_nav_title: CCE
 ---
 <h4><strong>Education and Career Guidance (ECG)</strong></h4>
 <p><b>Objectives</b></p>

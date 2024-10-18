@@ -2,7 +2,6 @@
 title: Cyber Wellness @ Peicai
 permalink: /student-development/cyber-wellness/
 description: ""
-third_nav_title: CCE
 variant: markdown
 ---
 <p><b>Cyber Wellness </b></p>

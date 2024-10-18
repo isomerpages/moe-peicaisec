@@ -3,7 +3,6 @@ title: Good Improvement Award
 permalink: /achievements/students/good-improvement-award/
 variant: tiptap
 description: ""
-third_nav_title: Students
 ---
 <p>The Good Improvement Award is given to students who have demonstrated
 outstanding progress in their academics. These awards are a symbol of their
