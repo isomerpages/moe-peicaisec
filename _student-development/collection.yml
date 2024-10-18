@@ -2,7 +2,6 @@ collections:
   student-development:
     output: true
     order:
-      - Aesthetics.md
       - CCE/.keep
       - CCE/Character & Citizenship Education.md
       - CCE/National Education (NE).md
@@ -19,4 +18,5 @@ collections:
       - Physical and Mental Health.md
       - Cyber Wellness @ Peicai.md
       - Sexuality Education.md
+      - Aesthetics.md
       - Peer Support.md
