@@ -2,7 +2,6 @@ collections:
   student-development:
     output: true
     order:
-      - Cyber Wellness @ Peicai.md
       - CCE/.keep
       - CCE/Character & Citizenship Education.md
       - CCE/National Education (NE).md
@@ -19,4 +18,5 @@ collections:
       - Student Leadership (SL)/CCA Leadership.md
       - Education and Career Guidance (ECG).md
       - Physical and Mental Health.md
+      - Cyber Wellness @ Peicai.md
       - Peer Support.md
