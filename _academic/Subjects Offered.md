@@ -14,7 +14,12 @@ change for subsequent intakes.
 <p>• Students taking Tamil Language will have to attend lessons at the nearest
 Tamil Language Centre after school. See the&nbsp;<a href="https://www.moe.gov.sg/secondary/courses/express/electives?term=Language&amp;subterm=Tamil%20Language" rel="noopener noreferrer" target="_blank">list of designated centres</a>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -92,7 +97,20 @@ Tamil Language Centre after school. See the&nbsp;<a href="https://www.moe.gov.sg
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Computing</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Computer Applications (till 2025)</p>
+<p>Computing (from 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
