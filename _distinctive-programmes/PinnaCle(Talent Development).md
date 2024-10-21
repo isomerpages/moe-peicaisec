@@ -98,26 +98,28 @@ at post-secondary level.</p>
 </table>
 <h4>PinnaCle Challenge by PinnaCle@Peicai</h4>
 <p></p>
-<p>The PinnaCle Challenge, an inaugural competition organised by Peicai Secondary
-School's Talent Development Programme (PinnaCle@Peicai), took place on
-23 October 2023. It brought together approximately 120 Primary 6 pupils
-from different schools to collaborate, experiment, and compete in the development
-of innovative and critical solutions or approaches to address global issues.</p>
-<p></p>
-<p>This year's theme for the Challenge was Sustainability. The aim was to
-elevate consciousness regarding sustainable living and empower our young
-learners to understand their pivotal role in bolstering sustainability
-initiatives, thereby contributing to a greener world. By tackling sustainability
-using knowledge and skills from various domains such as English Language,
-Mathematics, and Science, Peicai hopes to provide a holistic perspective
-of sustainable practices.</p>
-<p></p>
-<p>Working in teams of four, the Primary 6 participants, under the mentorship
-of the PinnaCle Student Mentors, engaged in the challenge tasks within
-a set timeframe. As the culmination of the process, they then presented
-their deliverables to a panel of judges. The pupils put up a persuasive
-showcase to convince the judges of their innovative and viable sustainability
-actions.</p>
+<p><em>The PinnaCle Challenge, an annual competition hosted by the educators and students of Peicai Secondary School's Talent Development Programme (PinnaCle@Peicai), serves as a platform for Primary 6 pupils from different schools to collaborate, experiment, and compete, thereby fostering the development of innovative and critical solutions or approaches to address real world problems.</em>
+</p>
+<p><em>&nbsp;</em>
+</p>
+<p><em>This is our second year holding the challenge after a successful run last year, which saw over 100 Primary Six pupils engaged in a spirited journey of discovery and learning.</em>
+</p>
+<p><em>&nbsp;</em>
+</p>
+<p><em>In line with MOE’s enhanced 21CC Framework and EdTech Masterplan 2030, the objectives of the PinnaCle Challenge are:</em>
+</p>
+<p><em>(a) To enhance pupils’ inventive thinking, communication, and problem-solving skills; and</em>
+</p>
+<p><em>(b) To develop pupils’ digital literacy and technological skills.</em>
+</p>
+<p><em>&nbsp;</em>
+</p>
+<p><em>This competition provides your Primary Six pupils with a platform to learn from their peers across schools, refine their ideas, and actively engage in solving contemporary challenges from four subject disciplines: English, Mathematics, Science, and Sports. Additionally, the event will expose your students to using technologies such as Artificial Intelligence (AI) and Augmented Reality (AR).</em>
+</p>
+<p><em>&nbsp;</em>
+</p>
+<p><em>Working in teams of four, the Primary 6 participants, under the mentorship of the PinnaCle Student Mentors, engaged in the challenge tasks within a set timeframe. As the culmination of the process, they then presented their deliverables to a panel of judges. The pupils put up a persuasive showcase to convince the judges of their innovative and viable solutions.</em>
+</p>
 <p><strong>PinnaCle@Peicai Programme</strong>
 </p>
 <div class="isomer-image-wrapper">
