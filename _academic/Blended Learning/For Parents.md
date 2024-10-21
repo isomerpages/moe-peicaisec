@@ -12,7 +12,7 @@ For more information, visit the&nbsp;<a href="https://pg.moe.edu.sg/" rel="noope
 <h4><strong>MOE Home-Based Learning Resource Kit for Parents</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="/files/HBL%20Resource%20Kit%20for%20Parents.pdf/" rel="noopener noreferrer nofollow" target="_blank">HBL Resource Kit for Parents (Part 1)</a>
+<p><a href="/files/2024/MOE_Resource_Kit___HBL__Part_1_.pdf" rel="noopener noreferrer nofollow" target="_blank">HBL Resource Kit for Parents (Part 1)</a>
 </p>
 </li>
 <li>
