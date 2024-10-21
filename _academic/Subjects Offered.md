@@ -110,7 +110,7 @@ Tamil Language Centre after school. See the&nbsp;<a href="https://www.moe.gov.sg
 <tr>
 <td rowspan="1" colspan="1">
 <p>Computer Applications (till 2025)</p>
-<p>Computing (from 2026</p>
+<p>Computing (from 2026)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -121,4 +121,4 @@ Tamil Language Centre after school. See the&nbsp;<a href="https://www.moe.gov.sg
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>)</p>
