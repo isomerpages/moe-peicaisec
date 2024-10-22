@@ -112,14 +112,29 @@ criteria which includes passion for the work area and industry.</p>
 to find out more about the Student Work Attachment Programme at PCSS.</p>
 <p>Our Partners providing work attachment opportunities for our students
 include the following:</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/our partners
-.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_2024_p1.jpg">
 </div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/our partners 2
-.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_2024_p2.jpg">
 </div>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>Applied Learning Module@ ITE</strong></h4>
 <p>ITE’s Applied Learning Modules (ApLM@ITE), formerly known as Category
 A Elective Modules (CAT A EM) are short courses developed to broaden the
