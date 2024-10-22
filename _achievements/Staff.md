@@ -782,34 +782,6 @@ to do likewise.
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/stf35.png">
-</div>
-<p>Mohamad Kamarudin Bin Abdul Samad</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2021</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Gold</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/stf36.jpg">
-</div>
-<p>Tan Sheng Ting Heidi</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2021</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Gold</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" src="/images/stf37.jpg">
 </div>
 <p>Lee Jia Hao</p>
