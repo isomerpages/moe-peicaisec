@@ -579,9 +579,8 @@ to do likewise.
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 150px">
+<table style="minWidth: 125px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -590,17 +589,12 @@ to do likewise.
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="6">
+<td rowspan="1" colspan="5">
 <p><strong>Silver Award</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/stf25.png">
-</div>
-</td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/stf26.png">
@@ -628,9 +622,6 @@ to do likewise.
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Abu Bakar Bin Abd Hamid (Mr)</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Bharathi d/o Rengasamy (Ms)</p>
 </td>
