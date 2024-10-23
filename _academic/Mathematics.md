@@ -12,24 +12,28 @@ that equips our students with the knowledge, skills, and dispositions needed
 to excel both academically and professionally. Our mathematics curriculum
 is designed to foster a deep understanding of mathematical concepts and
 their real-world applications.</p>
-<p></p>
-<p><strong>1. Problem Solving and Critical Thinking</strong>
-</p>
-<p>We empower students to cultivate robust problem-solving skills and critical
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>Problem Solving and Critical Thinking</strong>
+<br>We empower students to cultivate robust problem-solving skills and critical
 thinking abilities, enabling them to confidently tackle a wide spectrum
 of challenges.</p>
-<p><strong>2. Conceptual Mastery</strong>
-</p>
-<p>Our students achieve a profound understanding of fundamental mathematical
+</li>
+<li>
+<p><strong>Conceptual Mastery</strong>
+<br>Our students achieve a profound understanding of fundamental mathematical
 concepts, empowering them to apply these principles across a broad range
 of topics, from algebra to calculus.</p>
-<p><strong>3. Real-World Relevance</strong>
-</p>
-<p>We place a strong emphasis on demonstrating the practical applicability
+</li>
+<li>
+<p><strong>Real-World Relevance</strong>
+<br>We place a strong emphasis on demonstrating the practical applicability
 of mathematics. By showing students how mathematics is intertwined with
 other disciplines, we inspire a genuine appreciation for the subject and
 foster the capability to apply mathematical concepts in everyday life.</p>
-<h4><strong>Department Programme/Highlights/ Student Outcomes</strong></h4>
+</li>
+</ol>
+<h4><strong>Department Programmes and Highlights</strong></h4>
 <p><strong>Math Competitions</strong>
 </p>
 <p>We offer opportunities for students with a strong passion and aptitude
@@ -216,11 +220,11 @@ budgeting.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/4046_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">4046 N(T) Level Mathematics</a>
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/4046_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_new">4046 N(T) Level Mathematics</a>
 </p>
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/4045_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">4045 N(A) Level Mathematics</a>
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/4045_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_new">4045 N(A) Level Mathematics</a>
 </p>
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/4051_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">4051 N(A) Level Additional Mathematics</a>
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/4051_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_new">4051 N(A) Level Additional Mathematics</a>
 </p>
 </td>
 </tr>
@@ -230,9 +234,9 @@ budgeting.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/4052_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">4052 O Level Mathematics</a>
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/4052_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_new">4052 O Level Mathematics</a>
 </p>
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/4049_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">4049 O Level Additional Mathematics</a>
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/4049_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_new">4049 O Level Additional Mathematics</a>
 </p>
 </td>
 </tr>

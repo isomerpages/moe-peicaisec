@@ -4,57 +4,58 @@ permalink: /academic/subjects-offered/
 description: ""
 variant: tiptap
 ---
-<p>Note:
-<br>
-</p>
+<p>Note:</p>
 <p>• The subjects below are offered to the current student cohort. They may
-change for subsequent intakes.
-<br>
-</p>
+change for subsequent intakes.</p>
 <p>• Students taking Tamil Language will have to attend lessons at the nearest
-Tamil Language Centre after school. See the&nbsp;<a href="https://www.moe.gov.sg/secondary/courses/express/electives?term=Language&amp;subterm=Tamil%20Language" rel="noopener noreferrer" target="_blank">list of designated centres</a>
+Tamil Language Centre after school. See the&nbsp;<a href="https://www.moe.gov.sg/secondary/courses/express/electives?term=Language&amp;subterm=Tamil%20Language" rel="noopener noreferrer nofollow" target="_blank">list of designated centres</a>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Craft &amp; Technology</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>English Language and Literature</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Humanities</p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Art
-<br>Design and Technology
-<br>Food and Consumer Education
-<br>Food Studies
-<br>Food and Nutrition
-<br>Music
-<br>
+<p><strong>Craft and Technology</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>English Language
-<br>Literature&nbsp;(Pure)
-<br>Humanities (SS, Literature)</p>
+<p><strong>English Language and Literature</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Social Studies
-<br>Geography&nbsp;(Pure)
-<br>History&nbsp;(Pure)
-<br>Humanities (SS, Geography)
-<br>Humanities (SS, History)
-<br>Principles of Accounts</p>
+<p><strong>Humanities</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mathematics</strong>
+<p>·&nbsp;&nbsp;&nbsp;Art</p>
+<p>·&nbsp;&nbsp; Design and Technology</p>
+<p>·&nbsp;&nbsp;&nbsp;Food and Consumer Education</p>
+<p>·&nbsp;&nbsp;&nbsp;Food Studies</p>
+<p>·&nbsp;&nbsp;&nbsp;Nutrition and Food Science</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Music</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;English Language</p>
+<p>·&nbsp;&nbsp;Literature&nbsp;in English (Pure)</p>
+<p>·&nbsp;&nbsp;Humanities (Social Studies, Literature in English)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;Social Studies</p>
+<p>·&nbsp;&nbsp;Geography&nbsp;(Pure)</p>
+<p>·&nbsp;&nbsp;History&nbsp;(Pure)</p>
+<p>·&nbsp;&nbsp;Humanities (Social Studies, Geography)</p>
+<p>·&nbsp; Humanities (Social Studies, History)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mathematics and ICT</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -68,39 +69,27 @@ Tamil Language Centre after school. See the&nbsp;<a href="https://www.moe.gov.sg
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Mathematics
-<br>Additional Mathematics
-<br>Computer Applications&nbsp;</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mathematics</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Additional Mathematics</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Principles of Accounts</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Computer Applications&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Chinese
-<br>Malay&nbsp;
-<br>Higher Chinese
-<br>Chinese Syllabus B
-<br>Malay Syllabus B
-<br>Basic Chinese
-<br>Basic Malay
-<br>Higher Malay</p>
+<p>·&nbsp;&nbsp;&nbsp;Higher Chinese</p>
+<p>·&nbsp;&nbsp;&nbsp;Chinese</p>
+<p>·&nbsp;&nbsp;&nbsp;Basic Chinese</p>
+<p>·&nbsp;&nbsp;&nbsp;Higher Malay</p>
+<p>·&nbsp;&nbsp;&nbsp;Malay</p>
+<p>·&nbsp;&nbsp;&nbsp;Basic Malay</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Biology (Pure)
-<br>Chemistry&nbsp;(Pure)
-<br>Physics&nbsp;(Pure)
-<br>Science (Chemistry, Biology)
-<br>Science (Physics, Chemistry)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>·&nbsp;&nbsp;Biology (Pure)</p>
+<p>·&nbsp;&nbsp;Chemistry&nbsp;(Pure)</p>
+<p>·&nbsp;&nbsp;Physics&nbsp;(Pure)</p>
+<p>·&nbsp;&nbsp;Science (Chemistry, Biology)</p>
+<p>·&nbsp;&nbsp;Science (Physics, Chemistry)</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>&nbsp;</p>

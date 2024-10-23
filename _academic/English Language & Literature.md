@@ -7,29 +7,21 @@ variant: tiptap
 <h4><strong>Learning Outcomes</strong></h4>
 <p>At Peicai Secondary School, our goal is to help students develop the skills
 to become:</p>
-<p></p>
-<p><strong>Empathetic communicators</strong> who actively listen to various
-perspectives; communicate confidently and sensitively, collaborate effectively,
-and embrace Singapore’s multicultural ethos.</p>
-<p></p>
-<p><strong>Discerning Readers</strong> with a global outlook, adept at information
-processing and critical evaluation to distinguish fact from fiction, considering
-purpose, audience, context, and culture.</p>
-<p></p>
-<p><strong>Creative Inquirers</strong> who delve into real-world issues, explore
-multiple viewpoints, gather and synthesise information from diverse sources,
-and co-create knowledge and solutions in familiar or novel contexts.</p>
+<p><strong>Empathetic communicators</strong>&nbsp;who actively listen to
+various perspectives; communicate confidently and sensitively, collaborate
+effectively, and embrace Singapore’s multicultural ethos.</p>
+<p><strong>Discerning Readers</strong>&nbsp;with a global outlook, adept
+at information processing and critical evaluation to distinguish fact from
+fiction, considering purpose, audience, context, and culture.</p>
+<p><strong>Creative Inquirers</strong>&nbsp;who delve into real-world issues,
+explore multiple viewpoints, gather and synthesise information from diverse
+sources, and co-create knowledge and solutions in familiar or novel contexts.</p>
 <p>Learning Outcomes are supported through:</p>
-<p></p>
 <p>1. Rich Discussions to empower students in finding their voices</p>
-<p></p>
 <p>2. Ed-Technology Enhanced Lessons to support self-directed learning</p>
-<p></p>
 <p>3. Exposure to Current Affairs and General Knowledge to enrich students'
 experiences and knowledge</p>
-<p></p>
 <p>4. Inquiry Through Dialogue and Process Thinking to make thinking visible</p>
-<p></p>
 <p>5. Student-Centric Instruction to develop metacognition and multiliteracies</p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -40,18 +32,21 @@ experiences and knowledge</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/English_Dept_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/eng_2024_1.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/English_Dept_5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/eng_2024_2.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/English_Dept_6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/eng_2024_3.jpg">
 </div>
 </td>
 </tr>
@@ -85,37 +80,35 @@ through instruction tailored to students' needs.</p>
 <h4><strong>English Literature</strong></h4>
 <p>At Peicai Secondary School, our goal is to help students develop the skills
 to become:</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/ell1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/eng_2024_4.jpg">
 </div>
 <p>In Literature classes, Learning Outcomes are supported through the Literary
 Response framework as shown below:</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/ell2.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/eng_2024_5.jpg">
+</div>
 <p>This Literary Response Framework embodies our approach to designing learning
 experiences that inspire students to engage with texts comprehensively.
 Shaped like an eye, the Framework underscores how responding to literature
 empowers students to interpret texts and the world from diverse perspectives,
 fostering greater discernment and insight.</p>
 <h4><strong>Department Programmes/Highlights</strong></h4>
-<p><strong><u>Public Speaking Workshops</u></strong>
+<p><strong><u>Speech and Drama Workshops</u></strong>
 </p>
-<p></p>
-<p>At Peicai Secondary School, we recognize the importance of effective communication.
-To nurture this skill, we bring in public speaking experts to train our
+<p>At Peicai Secondary School, we recognise the importance of effective communication.
+To nurture this skill, we bring in Speech and Drama experts to train our
 Secondary One students, equipping them with the confidence and knowledge
 needed to communicate effectively. Our students learn the art of engaging
-their audience through both verbal and non-verbal communication.</p>
-<p></p>
-<p>Representatives are identified and trained for the Plain English Speaking
-Award organised by YMCA.</p>
-<p></p>
+their audience through both verbal and non-verbal communication. This in
+turns allow students to develop the necessary skills to speak confidently
+ensuring enunciation, articulation, and vocal projection, with the appropriate
+tone, pitch, and pace.</p>
 <p>In the English classroom, they have numerous opportunities to practice
 and enhance these skills through engaging activities, mock debates, and
 class presentations.</p>
-<p></p>
 <p>Additionally, we identify and prepare representatives to participate in
 the Plain English Speaking Award organized by YMCA, further honing their
 public speaking abilities.</p>
@@ -127,23 +120,25 @@ public speaking abilities.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/English_Dept_9.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/eng_2024_6.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/English_Dept_10.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/eng_2024_7.jpg">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Empowering tomorrow's speakers: A student's enthusiastic leap during our
-Public Speaking workshop, captivating his audience with confidence.</p>
+Speech and Drama workshop, captivating his audience with confidence.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fostering engaging speakers: Building confidence through public speaking
+<p>Fostering engaging speakers: Building confidence through Speech and Drama
 activities.</p>
 </td>
 </tr>
@@ -158,74 +153,94 @@ activities.</p>
 </tbody>
 </table>
 <p></p>
-<p><strong><u>Creative Writing Programme</u></strong>
-<br>Secondary Two students engage in an enriching programme led by renowned
-local writers, unlocking their creativity and imagination. They delve into
-diverse genres of writing, refining their skills and embracing experimentation.
-Encouraged to take risks and learn collaboratively, students develop their
-critical thinking skills, build confidence in their writing abilities and
-discover their creative potential, and in turn, enhance their ability to
-craft compelling essays.</p>
-<table style="minWidth: 25px">
+<p><strong><u>Learning Journey to the National Library Board</u></strong>
+<br>Our Secondary Two students participate in a Learning Journey to the National
+Library Board, engaging in workshops and tours that enhance their information
+literacy skills. This programme aligns with MOE's 21st century competencies
+by fostering critical and inventive thinking as students evaluate AI-generated
+content and explore ethical challenges in technology use. It supports our
+English department's goals of developing critical thinkers and effective
+communicators by empowering students to analyse diverse information sources,
+apply the S.U.R.E. steps, and articulate their ideas in both digital and
+traditional contexts. Through this experience, students cultivate the skills
+necessary to navigate the complexities of the digital age, becoming more
+discerning consumers and creators of information while honing their language
+abilities.</p>
+<table style="minWidth: 50px">
 <colgroup>
+<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/English_Dept_11.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Unlocking imagination: Students forge creative paths together.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/eng_2024_8.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/eng_2024_9.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Traveling back in time: students explore old newspapers using the microfilm
+collection.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Immersed in the world of journalism, students explore the dynamic history
+of news at the News Gallery.</p>
 </td>
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 25px">
+<table style="minWidth: 50px">
 <colgroup>
+<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/ell4.png">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Student creativity: A gallery of inspired works.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/eng_2024_10.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/eng_2024_11.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Uncovering Peicai's rich past through archival documents at the Archives
+Reading Room.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students delve into a world of knowledge at the Central Public Library,
+discovering new resources.</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p><strong><u>Debating Programme &amp; Championship<br></u></strong>All Secondary
-Three students participate in debating workshops led by experienced debaters.
-These workshops provide a platform for students to practice skills like
-argument development and persuasive speech delivery. Through these experiences,
-students not only build confidence but also sharpen their critical thinking
-abilities. They then get the chance to showcase their skills in the Secondary
-Three Inter-class Debating Championship, where they can put their abilities
-to the test in friendly competition with their fellow students.</p>
-<table style="minWidth: 75px">
+<p><strong><u>Debate Workshop &amp; Inter-Class Debating Championship 2024<br></u></strong>All
+Secondary Three students participate in debate workshops led by experienced
+debaters. These workshops provide a platform for students to practice skills
+like argument development and persuasive speech delivery. Through these
+experiences, students not only build confidence but also sharpen their
+critical thinking abilities. They then get the chance to showcase their
+skills in the Secondary Three Inter-class Debating Championship, where
+they can put their abilities to the test in friendly competition with their
+fellow students.</p>
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -238,19 +253,13 @@ to the test in friendly competition with their fellow students.</p>
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Debating Championship 2024" src="/images/Achievements/Debating_Championship_2024_D.jpg">
 </div>
 <p></p>
-</td>
+</th>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -259,9 +268,6 @@ to the test in friendly competition with their fellow students.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -280,13 +286,15 @@ to the test in friendly competition with their fellow students.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/English_Dept_13.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/eng_2024_14.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/English_Dept_14.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/eng_2024_15.jpg">
 </div>
 </td>
 </tr>
@@ -316,24 +324,26 @@ to the test in friendly competition with their fellow students.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/English_Dept_15v.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/eng_2024_16.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" src="/images/English_Dept_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/eng_2024_17.jpg">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Fueling thoughtful discourse: The Interclass Debating Championship ignites
-students' passion for thoughtful conversation.</p>
+<p>Fueling thoughtful discourse: The Debate Workshop ignites students' passion
+for thoughtful conversation.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>On the verge of victory: A debater’s fierce rhetoric at the Interclass
-Debating Championship.</p>
+<p>On the verge of victory: A debater’s fierce rhetoric at the Inter- Class
+Debating Championship Preliminary Round.</p>
 </td>
 </tr>
 <tr>
@@ -356,24 +366,25 @@ Debating Championship.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;1184"O" Level English</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/1190_y24_sy.pdf" rel="noopener" target="_blank">1190 ‘N(A)’ Level English</a>
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/1184_y25_sy.pdf?sfvrsn=6cf6e92f_2" rel="noopener noreferrer nofollow" target="_blank">&nbsp;1184 "O" Level English</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/1195_y24_sy.pdf" rel="noopener" target="_blank">1195 ‘N(T)’ Level English</a>
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/1190_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">1190 ‘N(A)’ Level English</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/1195_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">1195 ‘N(T)’ Level English</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/2262_y24_sy.pdf" rel="noopener" target="_blank">2262 ‘O’ Level Humanities (Social Studies, Literature in English)</a>
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/2262_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">2262 ‘O’ Level Humanities (Social Studies, Literature in English)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/2127_y24_sy.pdf" rel="noopener" target="_blank">2127 ‘N(A)’ Level Humanities (Social Studies, Literature in English)</a>
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/2127_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">2127 ‘N(A)’ Level Humanities (Social Studies, Literature in English)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">

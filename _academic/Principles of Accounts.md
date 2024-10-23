@@ -7,14 +7,22 @@ description: ""
 <h4><strong>Principles of Accounts (POA) Department</strong></h4>
 <h4><strong>Learning Outcomes</strong></h4>
 <p>At Peicai, we aim to develop each student to:</p>
+<ol data-tight="true" class="tight">
+<li>
 <p><strong>Understand Financial Performance</strong>
 <br>Grasp how businesses measure and communicate their financial performance.</p>
+</li>
+<li>
 <p><strong>Utilize Information for Decision-Making</strong>
 <br>Learn to make informed decisions using both accounting and non-accounting
 information related to businesses.</p>
+</li>
+<li>
 <p><strong>Develop Analytical Skills</strong>
 <br>Acquire skills such as organizing and analyzing information to make decisions,
 with an emphasis on ethics and values.</p>
+</li>
+</ol>
 <h4><strong>Department Programmes and Highlights</strong></h4>
 <p>We provide opportunities for students with a strong passion and aptitude
 in Principles of Accounting (POA) to enhance their skills by participating
@@ -120,11 +128,11 @@ opportunities within the accounting profession.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/7086_y24_sy.pdf" rel="noopener" target="_blank">N Level syllabus</a>
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/7086_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">N Level syllabus</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/7087_y24_sy.pdf" rel="noopener" target="_blank">O Level syllabus</a>
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/7087_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">O Level syllabus</a>
 </p>
 </td>
 </tr>

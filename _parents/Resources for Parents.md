@@ -4,4 +4,26 @@ permalink: /parents/resources-for-parents/
 description: ""
 variant: tiptap
 ---
-<p><strong>Supporting your child on HBL days</strong><br>Please <a href="https://drive.google.com/file/d/1txnRihNcYINKnLP_fD5HS2cfn3t6XtGy/view" rel="noopener noreferrer nofollow" target="_blank">HERE</a> for more information. <br><br><strong>Device Management Application (DMA)</strong><br>The Parent Guide for each DMA option is as shown below:<br><a href="/files/DMA Parent Guide for Option A for iPadOS1.pdf" rel="noopener noreferrer nofollow" target="_blank">DMA Parent Guide for Option A for iPadOS</a><br><a href="/files/DMA Parent Guide for Option B for iPadOS1.pdf" rel="noopener noreferrer nofollow" target="_blank">DMA Parent Guide for Option B for iPadOS</a><br><a href="/files/DMA Parent Guide for Default Option for iPadOS1.pdf" rel="noopener noreferrer nofollow" target="_blank">DMA Parent Guide for Default Option for iPadOS</a></p><p>If you wish to change your DMA option or update your new email address for Parents’ portal, please click on the link <a href="https://www.form.gov.sg/606bb606505fae0011bf06f2/" rel="noopener" target="_blank">https://go.gov.sg/pcss-dma-change-request</a> to submit your request. Please note that the changes to DMA options will be effected at the end of each Term.<br><br>If you have any technical issues relating to DMA matters, you may email to<u> </u><a href="mailto:peicai_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>peicai_ss@moe.edu.sg</u></a><u> </u>with the title “DMA Query”.</p><p><strong>Sec 1 Personal Learning Device (PLD) Rollout</strong></p><p>There is an online Zoom briefing for Sec 1 parents on <strong>27 January 2024 (Saturday)</strong>, <strong>9 a.m. to 10 a.m.</strong> Kindly register your interest to attend the briefing at this link: <a href="https://go.gov.sg/pcss24s1pldr" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/pcss24s1pldr</u></a>. The zoom link details will be sent to you upon your registration.</p><p>To learn more about the PLD initiative, you may view the info sheet found <a href="https://drive.google.com/file/d/11ilIhLvzEQbiB3t7_jjYC9cjdmilfGVL/view" rel="noopener noreferrer nofollow" target="_blank">HERE</a><br></p>
+<p><strong>Supporting your child on HBL days</strong>
+<br>Please <a href="https://drive.google.com/file/d/1txnRihNcYINKnLP_fD5HS2cfn3t6XtGy/view" rel="noopener noreferrer nofollow" target="_blank">HERE</a> for
+more information.
+<br>
+<br><strong>New MOE Device Management Application (DMA)</strong>
+<br>Coming in 2025!</p>
+<p></p>
+<p><u>After the new MOE DMA deployment in 2025</u>
+</p>
+<p>If you wish to change your DMA option, please submit your request via
+this link&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pcss-dma-change-request</a>.
+Kindly note that the changes to DMA options will be effected at the end
+of each Term.
+<br>
+<br>If you have any technical issues relating to DMA matters, you may email
+to<u>&nbsp;</u><a rel="noopener noreferrer nofollow" target="_blank">peicai_ss@moe.edu.sg</a><u>&nbsp;</u>with
+the title “DMA Query”.</p>
+<p></p>
+<p><strong>Sec 1 Personal Learning Device (PLD) Rollout</strong>
+</p>
+<p>Coming in 2025!
+<br>
+</p>

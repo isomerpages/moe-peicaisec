@@ -618,15 +618,12 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Tan Yi Quan (Mr)</p>
-<p>Chng Han Khim (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3A2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_yi_quan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yi_quan@moe.edu.sg</a>
-</p>
-<p><a href="mailto:chng_han_khim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chng_han_khim@moe.edu.sg</a>
 </p>
 </td>
 </tr>
