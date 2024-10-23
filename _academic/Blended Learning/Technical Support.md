@@ -17,7 +17,7 @@ of the error message on your screen</p>
 </p>
 <p><em>Email Address:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">peicai_ss@moe.edu.sg</a></em>
 </p>
-<p><em>&nbsp;Students can now reset their own MIMS password by performing a one-time set up of answers to 3-security challenge questions. Please follow the instructions found here (<a href="https://drive.google.com/file/d/1TNbEkhvR9IYNB7CduPucN-xvqQCVL5AV/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">LINK</a>)&nbsp; to do so. If you are unable to perform the set-up or your MIMS account is locked, please contact your Form-teacher(s) or IT personnel at the ICT Office inside The Sphere (Library, Level 3).</em>
+<p><em>Students can now reset their own MIMS password by performing a one-time set up of answers to 3-security challenge questions. Please follow the instructions found here (<a href="https://drive.google.com/file/d/1TNbEkhvR9IYNB7CduPucN-xvqQCVL5AV/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">LINK</a>)&nbsp; to do so. If you are unable to perform the set-up or your MIMS account is locked, please contact your Form-teacher(s) or IT personnel at the ICT Office inside The Sphere (Library, Level 3).</em>
 </p>
 <p><u>Technical Support<br></u>
 </p>
@@ -33,6 +33,3 @@ set up of answers to 3-security challenge questions. Please follow the
 instructions found here to do so. If you are unable to perform the set-up
 or your MIMS account is locked, please contact your Form-teacher(s) or
 IT personnel at E3-02.</p>
-<p>For students who need help to reset password or unlock account for students'
-iCON email or SLS can click&nbsp;<a href="https://www.form.gov.sg/610c7f6b22cd6800125e3a6a" rel="noopener noreferrer nofollow" target="blank"><u>here</u></a>&nbsp;submit
-the form.</p>
