@@ -2,7 +2,6 @@ collections:
   academic:
     output: true
     order:
-      - Computing (from 2026).md
       - T&L Framework.md
       - Subjects Offered.md
       - Subject Overviews.md
