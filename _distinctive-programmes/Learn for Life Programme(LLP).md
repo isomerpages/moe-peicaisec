@@ -62,7 +62,6 @@ the community.</p>
 we aim to cultivate a sense of responsibility and social awareness, shaping
 them into leaders who not only excel in their personal lives but also inspire
 and uplift others around them.</p>
-<p></p>
 <p><strong>Leading Change: Values-In-Action Rooted in Social Causes</strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -184,7 +183,6 @@ into tangible contributions.</p>
 <p>&nbsp;</p>
 <p><strong><u>Secondary 2 VIA Activities – 2024</u></strong>
 </p>
-<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -244,7 +242,6 @@ their cause.</p>
 <p>&nbsp;</p>
 <p><strong><u>Secondary 3 VIA Activities – 2024</u></strong>
 </p>
-<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
