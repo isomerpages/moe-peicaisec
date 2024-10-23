@@ -2,9 +2,9 @@ collections:
   academic:
     output: true
     order:
-      - Computing/.keep
       - T&L Framework.md
       - Subjects Offered.md
+      - Computing/.keep
       - Subject Overviews.md
       - English Language & Literature.md
       - Mathematics.md
