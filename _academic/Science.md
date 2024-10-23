@@ -4,7 +4,7 @@ permalink: /academic/science/
 description: ""
 variant: tiptap
 ---
-<h4><strong>SCIENCE</strong></h4>
+<h4><strong>SCIENCE Department</strong></h4>
 <h4><strong>Learning Outcomes</strong></h4>
 <p>In Peicai, our students learn to:</p>
 <table style="minWidth: 75px">
@@ -68,16 +68,17 @@ the level appropriate focus.</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/Science_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/science_2024_1.jpg">
 </div>
-</td>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sec 1 Learning Journey to the Sustainable Singapore Gallery at Marina
-Barrage</p>
+<p><em>Sec 1 Inter-disciplinary Learning Journey to MacRitchie Reservoir</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -87,25 +88,29 @@ Barrage</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p>Explore: to provide opportunities for students to explore scientific topics
-in depth</p>
+<p>The Secondary One students embarked on an interdisciplinary learning journey
+to MacRitchie Reservoir, where they applied their knowledge of water quality
+testing from Geography and explored separation techniques covered in their
+Science classes.</p>
+<p><u>Explore: to provide opportunities for students to explore scientific topics in depth</u>
+</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/Science_5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/science_2024_2.jpg">
 </div>
-</td>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sec 2 Biodiversity Walk to Sungei Buloh Wetland Reserve &amp; Singapore
-Botanic Gardens</p>
+<p><em>Sec 2 Learning Journey to HDB Hub LIVINGSPACE</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -115,166 +120,400 @@ Botanic Gardens</p>
 </tr>
 </tbody>
 </table>
-<h4></h4>
-<p>Enrich &amp; Experience: to provide opportunities for further exploration
-of scientific concepts for selected students, through competitions and
-attachment programmes to external bodies</p>
+<p>The Secondary Two students embarked on a learning journey to HDB Hub LIVINGSPACE,
+where they explored sustainable initiatives aimed at transforming Singapore
+into a more energy-efficient and eco-friendly city.</p>
+<p><u>Enrich &amp; Experience: to provide opportunities for further exploration of scientific concepts for selected students, through competitions and attachment programmes to external bodies</u>
+</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/Science_6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/science_2024_3.jpg">
 </div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>Sec 3 Learning Journey to Post-Secondary Institutions (Polytechnics) and Industrial Partners</em>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<p>Sec 3 Learning Journey to Post-Secondary Institutions (ITE &amp; Polytechnics)</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h4><strong>Students’ Achievements</strong></h4>
-<p>International C.B Paul Science Quiz</p>
-<table style="minWidth: 25px">
+<p>The Secondary Three students embarked on a learning journey to local polytechnics
+and industrial partners, gaining insights into various further education
+options and career paths in the field of science.</p>
+<p><strong>Department Awards</strong>
+</p>
+<p></p>
+<table style="minWidth: 75px">
 <colgroup>
 <col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/Science_7.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<p>Achievements from 2021 to 2023</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>Singapore Junior Science Olympiad</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/Science_8.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<p>Achievements from 2021 to 2023</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>ignITE Skills Challenge</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/Science_9.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<p>1st Prize: Decarbonisation At Home</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4><strong>Syllabus</strong></h4>
-<table style="minWidth: 50px">
-<colgroup>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong><u>Lower Secondary Science:</u></strong>
+<th rowspan="1" colspan="3">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/science_2024_4.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong><u>International C.B. Paul Science Quiz</u></strong>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2021</strong>
+</p>
+<p>1 Gold, 3 Silver, 3 Bronze, 2 Merit, 2 Honourable Mention</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2022</strong>
+</p>
+<p>2 Silver, 2 Bronze, 5 Merit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2023</strong>
+</p>
+<p>1 Gold, 1 Silver, 2 Bronze, 5 Merit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>Normal (Technical) / G1 Science</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.moe.gov.sg/-/media/files/secondary/syllabuses-nt/science/2021-science-syllabus-lower-secondary-nt.pdf" rel="noopener noreferrer nofollow" target="_blank">Normal (Technical) / G1 Science</a>
-</p>
-<p><a href="https://www.moe.gov.sg/-/media/files/secondary/syllabuses/science/2021-science-syllabus-lower-secondary.pdf" rel="noopener noreferrer nofollow" target="_blank">Normal (Academic) / G2 Science</a>
+<th rowspan="1" colspan="3">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/science_2024_5.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong><u>Singapore Junior Science Olympiad</u></strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>GCE N(T)-Level / G1 Upper Secondary Science:</strong>
+<p><strong><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/5148_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">2021</a></strong>
 </p>
+<p>1 Silver (Chemistry)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/5148_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">5148 Science Syllabus T (Revised)</a>
+<p><strong>2022</strong>
+</p>
+<p>1 Bronze (Biology), 1 Merit (Chemistry)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2023</strong>
+</p>
+<p>1 Honourable Mention (Biology), 1 Merit (Chemistry), 5 Bronze and 11 Honourable
+Mention (Physics)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/science_2024_6.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong><u>24th Singapore Science Engineering Fair</u></strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>GCE N(A)-Level / G2 Upper Secondary Science:</strong>
+<p><strong>2024</strong>
 </p>
+<p>Finalist</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/5105_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">5105 Science (Physics, Chemistry)</a>
-</p>
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/5107_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">5107 Science (Chemistry, Biology)</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>GCE O-Level / G3 Upper Secondary Science:</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6092 Physics</p>
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/5086_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">5086 Science (Physics, Chemistry)</a>
-</p>
-<p><a href="https://www-seab-gov-sg-admin.cwp.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/6092_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">6092 Chemistry</a>
-</p>
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/5088_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">5088 Science (Chemistry, Biology)</a>
-</p>
-<p>6093 Biology</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/science_2024_7.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong><u>25<sup>th</sup> International Elementz Fair</u></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://www-seab-gov-sg-admin.cwp.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/6091_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">2024</a></strong>
+</p>
+<p>Bronze</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/science_2024_8.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong><u>A*STAR-VJC Science Fair 2024</u></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2024</strong>
+</p>
+<p>Silver</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>Syllabus</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong><u>Lower Secondary Science:</u></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.moe.gov.sg/-/media/files/secondary/syllabuses-nt/science/2021-science-syllabus-lower-secondary-nt.pdf" rel="noopener noreferrer nofollow" target="_blank">Normal (Technical) / G1 Science</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.moe.gov.sg/-/media/files/secondary/syllabuses/science/2021-science-syllabus-lower-secondary.pdf" rel="noopener noreferrer nofollow" target="_blank">Normal (Academic) / G2 Science</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.moe.gov.sg/-/media/files/secondary/syllabuses/science/2021-science-syllabus-lower-secondary.pdf" rel="noopener noreferrer nofollow" target="_blank">Express / G3 Science</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong><u>GCE N(T)-Level / G1 Upper Secondary Science:</u></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/5148_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">5148 Science Syllabus T</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong><u>GCE N(A)-Level / G2 Upper Secondary Science:</u></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/5105_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">5105 Science (Physics, Chemistry)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/5107_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">5107 Science (Chemistry, Biology)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong><u>GCE O-Level / G3 Upper Secondary Science:</u></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www-seab-gov-sg-admin.cwp.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/6091_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">6091 Physics</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www-seab-gov-sg-admin.cwp.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/6092_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">6092 Chemistry</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www-seab-gov-sg-admin.cwp.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/6093_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">6093 Biology</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/5086_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">5086 Science (Physics, Chemistry)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/5088_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">5088 Science (Chemistry, Biology)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
 </td>
 </tr>
 </tbody>
