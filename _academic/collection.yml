@@ -2,6 +2,7 @@ collections:
   academic:
     output: true
     order:
+      - Subjects Offered.md
       - Computing/.keep
       - T&L Framework.md
       - Subject Overviews.md
