@@ -1,94 +1,247 @@
 ---
 title: Nutrition & Food Science Unit
 permalink: /academic/craft-and-technology/nutrition-food-science-unit/
-variant: markdown
+variant: tiptap
 description: ""
 third_nav_title: Craft & Technology
 ---
 <h4><strong>NUTRITION &amp; FOOD SCIENCE UNIT</strong></h4>
 <h4><strong>Learning Outcomes</strong></h4>
-<p>In Peicai, our students learn to: </p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<p>In Peicai, our students learn to:</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td style="width: 25%;"><img style="width: 100%;" src="/images/NFS_1v1.jpg"></td>
-<td style="width: 25%;"><img style="width: 100%;" src="/images/NFS_2v1.jpg"></td>
-<td style="width: 25%;"><img style="width: 100%;" src="/images/NFS_3v1.jpg"></td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" src="/images/NFS_1v1.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" src="/images/NFS_2v1.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" src="/images/NFS_3v1.jpg">
+</div>
+</td>
 </tr>
 <tr>
-<td style="width: 25%;"><p style="text-align: center;">Advocate sustainable food consumption by planning and making appropriate food choices</p></td>
-<td style="width: 25%;"><p style="text-align: center;">Apply principles of culinary science creatively in food preparation and cooking</p></td>
-<td style="width: 25%;"><p style="text-align: center;">Lead a healthy lifestyle proactively through proper diet &amp; nutrition</p></td>
-
+<td rowspan="1" colspan="1">
+<p>Advocate sustainable food consumption by planning and making appropriate
+food choices</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apply principles of culinary science creatively in food preparation and
+cooking</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lead a healthy lifestyle proactively through proper diet &amp; nutrition</p>
+</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 </tbody>
 </table>
 <h4><strong>Department Programme/Highlights/ Student Outcomes</strong></h4>
-<p><b>Curricular Programme:</b></p>
-<p><b>Food &amp; Consumer Education:</b> Compulsory common curriculum subject taken at the lower secondary level.<br><b>Nutrition &amp; food science:</b> An elective subject taken at the upper secondary level.
+<p><strong>Curricular Programme:</strong>
 </p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<p><strong>&nbsp;Food &amp; Consumer Education:</strong>&nbsp;Compulsory
+common curriculum subject taken at the lower secondary level.
+<br><strong>Nutrition &amp; food science:</strong>&nbsp;An elective subject
+taken at the upper secondary level.</p>
+<p><strong>Health Ambassador:</strong>&nbsp;Advocate nutrition and health
+for self, family and the community</p>
+<p><strong>Discerning Consumer:</strong> Appreciate how a variety of food
+is used in food management and take into consideration the issue of food
+security, which includes food safety and sustainable food consumption</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/nfs_4v1.jpg"></td>
-</tr>
-<tr>
-<td style="width: 33.3333%;"><p style="text-align: center;">STEM Health &amp; Food Science Challenge: Design healthier dish to solve real world problems  </p></td>
-</tr>
-<tr>
-</tr>
-</tbody>
-</table>
-<p><b>Health Ambassador:</b> Advocate nutrition and health for self, family and the community</p> 
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/nfs_5v1.jpg"></td>
-</tr>
-<tr>
-<td style="width: 33.3333%;"><p style="text-align: center;">Learning Journey to Roof Top Garden @ Tampines </p></td>
-</tr>
-<tr>
-</tr>
-</tbody>
-</table>
-<p>Discerning Consumer: Appreciate how a variety of food is used in food management and take into consideration the issue of food security, which includes food safety and sustainable food consumption
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/nfs_6v1.jpg"></td>
-</tr>
-<tr>
-<td style="width: 33.3333%;"><p style="text-align: center;">Food Innovator: Apply Scientific principles during food preparation and cooking  </p></td>
-</tr>
-<tr>
-</tr>
-</tbody>
-</table>
-</p><h4><strong>Syllabus</strong></h4>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td width="250"><strong><u>Nutrition &amp; Food Science</u></strong></td>
-<td width="400"><a>
-</a></td></tr>
-<tr>
-<td width="141"><strong>N Level</strong></td>
-<td width="400">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/5979_y24_sy.pdf">5979 GCE N(T) Level</a></p>
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/6073_y24_sy.pdf">6073 GCE N(A) Level </a></p>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/nfs_2024_1.jpg">
+</div>
 </td>
 </tr>
 <tr>
-<td width="141"><strong>O Level</strong></td>
-<td width="400">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2023syllabus/6097_y23_sy.pdf">6097 GCE O-Level</a></p>
+<td rowspan="1" colspan="1">
+<p><strong>Food Innovator:</strong> Apply Scientific principles during food
+preparation and cooking</p>
 </td>
 </tr>
 <tr>
-<td width="141">&nbsp;</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 </tbody>
 </table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/nfs_2024_2.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/nfs_2024_3.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Our Peicaians participated in the 2024 Junior Chef Culinary Competition,
+organised by Yishun Secondary School. It was an exciting culinary challenge
+for our young aspiring chefs to showcase their cooking skills, innovative
+recipes, and food presentation techniques as they compete for top honours.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>How to get photos for your event:</strong>
+</p>
+<p>A)If you requested for InfoComm Club support for your event,</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Please contact for access to your event’s photos</p>
+</li>
+</ol>
+<p>B) If you took your own photos, please note the following when selecting:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Please make sure your photos are as high a resolution as possible</p>
+</li>
+<li>
+<p>Photos should allow viewer identify the event and that the school was
+involved in</p>
+</li>
+<li>
+<p>Photos should not be blurry</p>
+</li>
+<li>
+<p>Photos should show staff/students in action</p>
+</li>
+<li>
+<p>If event<strong> has a VIP</strong>, try to ensure:</p>
+</li>
+</ol>
+<ul data-tight="true" class="tight">
+<li>
+<p>There is a group shot of the major event people with VIP</p>
+</li>
+<li>
+<p>There are some flattering shots of the VIP in action (speech, presenting
+award, interacting)</p>
+</li>
+</ul>
+<ol start="6" data-tight="true" class="tight">
+<li>
+<p>If event is with an <strong>external organisation with their own photographer</strong>
+</p>
+</li>
+</ol>
+<ul data-tight="true" class="tight">
+<li>
+<p>Do continue to take your own photos</p>
+</li>
+<li>
+<p>Make arrangements with external organisation to email photos to you</p>
+</li>
+</ul>
+<ol start="7" data-tight="true" class="tight">
+<li>
+<p>If your event<strong> is a trip</strong>:</p>
+</li>
+</ol>
+<ul data-tight="true" class="tight">
+<li>
+<p>Do ensure there are group shots with banner (if any) at all major parts
+of the trip</p>
+</li>
+<li>
+<p>There should be photos of stuff and students involved in different events</p>
+</li>
+<li>
+<p>Try to ensure photo background allows viewer to tell students were overseas
+and at a special location</p>
+</li>
+</ul>
+<p>C) Please remember to email your photos separately and include photo captions
+in the email.</p>
+<h4><strong>Syllabus</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><u>Nutrition &amp; Food Science</u></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>N Level</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/5979_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">5979 GCE N(T) Level</a>
+</p>
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/6073_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">6073 GCE N(A) Level</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>O Level</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2023syllabus/6097_y23_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">6097 GCE O-Level</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
