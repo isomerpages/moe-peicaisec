@@ -20,6 +20,7 @@ the well-being of our students as they navigate cyberspace. Our curriculum
 aims to equip students with the knowledge and skills to harness the power
 of ICT for positive purposes, maintain a positive presence in cyberspace
 and be safe and responsible users of ICT.</p>
+<p></p>
 <p><strong>The 3 Cyber Wellness Key Messages</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -47,25 +48,21 @@ teachable moments during subject lessons, and learning opportunites beyond
 school. It involves understanding what responsible behaviour entails when
 a student is exploring cyberspace as well as the knowledge, skills, values,
 and attitudes one should possess in order to protect oneself online.&nbsp;</p>
-<p>&nbsp;</p>
 <p><strong>Cyber Wellness Framework – Sense, Think and Act</strong>
 </p>
 <p>The school adopts MOE’s Cyber Wellness Framework, which focuses on three
 key processes:&nbsp;<em>Sense, Think</em>&nbsp;and&nbsp;<em>Act</em>.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/cyber_2024_1.jpg">
 </div>
 <p>Authentic case studies and real-world examples are integrated into lessons
 for students to ‘Sense’ &amp; ‘Think’, providing opportunities to reflect
 on how Cyber Wellness relates to their daily routines.</p>
-<p>&nbsp;</p>
 <p>Platforms such as Values-in-action Projects and opportunities to take
 part in community projects provide our students with the ability to take
 on the role as advocates to share the messages of Cyber Wellness with their
-peers, family and public.&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+peers, family and public.</p>
+<p></p>
 <p><strong>Topics covered :</strong>
 </p>
 <table style="minWidth: 50px">
@@ -137,7 +134,7 @@ predators)</p>
 <p>create and share online content in a responsible manner (e.g. not sharing
 content from questionable sources and not propagating deliberate online
 falsehoods)</p>
-<p>&nbsp;</p>
+<p></p>
 <p>respect copyright</p>
 <p><strong>&nbsp;</strong>
 </p>
@@ -146,7 +143,6 @@ falsehoods)</p>
 </tbody>
 </table>
 <h4><strong>Key Programmes:</strong></h4>
-<p></p>
 <p><strong>2024</strong>
 </p>
 <p><strong>Be Cybersafe - Cybersecurity Sharing by Cybersecurity Agency of Singapore (CSA)</strong>
