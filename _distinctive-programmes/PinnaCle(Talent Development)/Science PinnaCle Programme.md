@@ -49,15 +49,89 @@ Fair 2024 (Upper Secondary Open Category) - Silver Award</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="2" colspan="3">
+<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Science Pinnacle Challenge" src="/images/Distinctive Programmes/Science_Pinnacle_Challenge.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Science PinnaCle Programme" src="/images/Distinctive Programmes/Science_PinnaCle_Programme.jpg">
 </div>
 </th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
 </tr>
-<tr></tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Science PinnaCle Programme 2" src="/images/Distinctive Programmes/Science_PinnaCle_Programme__2_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Science PinnaCle Programme 3" src="/images/Distinctive Programmes/Science_PinnaCle_Programme__3_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Science PinnaCle Programme 4" src="/images/Distinctive Programmes/Science_PinnaCle_Programme__4_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Science PinnaCle Programme 5" src="/images/Distinctive Programmes/Science_PinnaCle_Programme__5_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Science PinnaCle Programme 6" src="/images/Distinctive Programmes/Science_PinnaCle_Programme__1_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
-<p></p>
 <p></p>
