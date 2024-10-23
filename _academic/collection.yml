@@ -2,7 +2,6 @@ collections:
   academic:
     output: true
     order:
-      - Computing.md
       - Computer Applications (till 2025).md
       - Computing (from 2026).md
       - T&L Framework.md
