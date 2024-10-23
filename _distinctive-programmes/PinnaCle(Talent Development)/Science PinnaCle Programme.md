@@ -108,7 +108,7 @@ Fair 2024 (Upper Secondary Open Category) - Silver Award</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Science PinnaCle Programme 5" src="/images/Distinctive Programmes/Science_PinnaCle_Programme__5_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Science Pinnacle Challenge 001" src="/images/Distinctive Programmes/Science_Pinnacle_Challenge_001.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
