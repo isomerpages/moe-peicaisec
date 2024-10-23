@@ -6,7 +6,6 @@ description: ""
 ---
 <p></p>
 <h4><strong>Environment</strong></h4>
-<p></p>
 <p><strong>Objectives:</strong>
 </p>
 <table style="minWidth: 25px">
@@ -16,14 +15,23 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>As part of the Singapore Green Plan 2030,<strong> </strong>all MOE schools
-have embarked on the <strong>Eco Stewardship Programme (ESP)</strong> since
-2021. It adopts a whole-school approach to integrating environmental sustainability,
-in nurturing stewards of the environment and aims to reduce carbon emissions
-by two-thirds as a school sector by 2030, with at least 20% of our schools
-to be carbon neutral.</p>
+<p>As part of the Singapore Green Plan 2030, all MOE schools have embarked
+on the Eco Stewardship Programme (ESP) since 2021. It adopts a whole-school
+approach to integrating environmental sustainability, in nurturing stewards
+of the environment and aims to reduce carbon emissions by two-thirds as
+a school sector by 2030, with at least 20% of our schools to be carbon
+neutral.</p>
+<p></p>
 <p>The Eco Stewardship Programme builds on current environmental efforts
 in schools. This will be done holistically through the 4Cs:</p>
+<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Curriculum:</strong> Enhance teaching
 and learning of sustainability in Science and Humanities, and integrate
 campus sustainability features into learning resources to make learning
@@ -33,6 +41,13 @@ with sustainability features like solar panels, energy-efficient LED lights</p>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Culture:</strong> Practise daily
 habits like reducing food waste and energy use, and encourage students
 to champion sound sustainability practices amongst peers</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Community:</strong> Leverage community
+partnerships to offer students more environment-related learning opportunities,
+and better understanding of future “green jobs”</p>
+</td>
+</tr>
+</tbody>
+</table>
 </td>
 </tr>
 </tbody>
@@ -56,10 +71,12 @@ programmes through <strong>Tier 1 experiences </strong>such as the mass
 celebration of environmental days such as World Water Day and Earth Day,
 assembly programmes as well as exhibitions in the foyer. They can also
 participate in school-wide recycling programmes such as “SembEnviro Plastic
-Recycling League” and the “Pass-it-on Bazaar”.&nbsp;</p>
+Recycling League” and the “Pass-it-on Bazaar”.</p>
+<p></p>
 <p>There will also be customised programmes for different levels in <strong>Tier 2 experiences</strong>,
 such as curriculum links and activities on environmental-related topics
 in Geography and Science.</p>
+<p></p>
 <p>For <strong>Tier 3 experiences</strong>, Environment Heads are elected
 as part of the class committee. They would have opportunities to hone their
 leadership skills through leadership training as well as running of schoolwide
@@ -207,7 +224,6 @@ takeaways from the Singapore Youth Water Conference 2024</p>
 <hr>
 <p><strong>Commemorative activities held during World Water Day and Earth Day</strong>
 </p>
-<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
