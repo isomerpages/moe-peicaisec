@@ -239,9 +239,8 @@ critical thinking abilities. They then get the chance to showcase their
 skills in the Secondary Three Inter-class Debating Championship, where
 they can put their abilities to the test in friendly competition with their
 fellow students.</p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -259,9 +258,6 @@ fellow students.</p>
 </div>
 <p></p>
 </th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -270,14 +266,8 @@ fellow students.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
