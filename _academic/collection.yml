@@ -4,9 +4,9 @@ collections:
     order:
       - T&L Framework.md
       - Subjects Offered.md
-      - Subjects Offered/Computing (from 2026).md
-      - Subjects Offered/Computer Applications (till 2025).md
-      - Subjects Offered/.keep
+      - Computing/Computing (from 2026).md
+      - Computing/Computer Applications (till 2025).md
+      - Computing/.keep
       - Subject Overviews.md
       - English Language & Literature.md
       - Mathematics.md
