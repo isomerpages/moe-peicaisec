@@ -123,5 +123,6 @@ IT personnel at E3-02.</p>
 </tbody>
 </table>
 <p></p>
-<p>School Terms and Holidays: <a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/news/press-releases/20240812-school-terms-and-holidays-for-2025</a>
+<p>School Terms and Holidays:</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/news/press-releases/20240812-school-terms-and-holidays-for-2025</a>
 </p>
