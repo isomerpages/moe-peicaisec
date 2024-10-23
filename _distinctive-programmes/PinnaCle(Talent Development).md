@@ -97,7 +97,6 @@ at post-secondary level.</p>
 </tbody>
 </table>
 <h4>PinnaCle Challenge by PinnaCle@Peicai</h4>
-<p></p>
 <p><em>The PinnaCle Challenge, an annual competition hosted by the educators and students of Peicai Secondary School's Talent Development Programme (PinnaCle@Peicai), serves as a platform for Primary 6 pupils from different schools to collaborate, experiment, and compete, thereby fostering the development of innovative and critical solutions or approaches to address real world problems.</em>
 </p>
 <p><em>&nbsp;</em>
