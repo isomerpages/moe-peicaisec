@@ -75,19 +75,19 @@ Tamil Language Centre after school. See the&nbsp;<a href="https://www.moe.gov.sg
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Computer Applications&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Higher Chinese</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chinese</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Basic Chinese</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Higher Malay</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Malay</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Basic Malay</p>
+<p>·&nbsp;&nbsp;&nbsp;Higher Chinese</p>
+<p>·&nbsp;&nbsp;&nbsp;Chinese</p>
+<p>·&nbsp;&nbsp;&nbsp;Basic Chinese</p>
+<p>·&nbsp;&nbsp;&nbsp;Higher Malay</p>
+<p>·&nbsp;&nbsp;&nbsp;Malay</p>
+<p>·&nbsp;&nbsp;&nbsp;Basic Malay</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Biology (Pure)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chemistry&nbsp;(Pure)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Physics&nbsp;(Pure)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Science (Chemistry, Biology)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Science (Physics, Chemistry)</p>
+<p>·&nbsp;&nbsp;Biology (Pure)</p>
+<p>·&nbsp;&nbsp;Chemistry&nbsp;(Pure)</p>
+<p>·&nbsp;&nbsp;Physics&nbsp;(Pure)</p>
+<p>·&nbsp;&nbsp;Science (Chemistry, Biology)</p>
+<p>·&nbsp;&nbsp;Science (Physics, Chemistry)</p>
 </td>
 </tr>
 </tbody>
