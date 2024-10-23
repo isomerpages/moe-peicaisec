@@ -5,7 +5,6 @@ description: ""
 variant: tiptap
 ---
 <h4><strong>Learning Outcomes</strong></h4>
-<p></p>
 <p>The MTL curriculum aims to develop proficient language users who can communicate
 confidently and effectively in various real-life contexts; and to expose
 students to cultures and values through MTL lessons.</p>
@@ -38,35 +37,34 @@ of the real-world context.</p>
 <p>The use of a variety of assessment modes aims to allow for better instructional
 tool to promote students’ learning. Hence, assessment does not only serve
 as an evaluative tool. Some of the assessment modes include:</p>
-<ul data-tight="true" class="tight">
+<ol start="3" data-tight="true" class="tight">
 <li>
 <p>Self, peer and teacher assessment</p>
 </li>
-</ul>
-<ul data-tight="true" class="tight">
 <li>
 <p>Oral Presentation</p>
 </li>
-</ul>
-<ul data-tight="true" class="tight">
 <li>
 <p>Formative and Summative testing</p>
 </li>
-</ul>
-<h4><strong>Programmes</strong></h4>
+</ol>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Programmes</strong>
+</p>
 <p><strong><u>Chinese Language and Culture</u></strong>
 </p>
 <p><strong>Chinese Language</strong>
 </p>
-<p></p>
 <p>To achieve our Mother Tongue department mission, we embark on several
 programmes to enhance our students’ language skills. These programmes aimed
 at enhancing the necessary language skills, i.e speaking, listening, reading
 and writing. Our key programmes include ‘Class Library Programme’ and the
 ‘MTL Intensive Programme for our Graduating Classes’.</p>
+<p><strong>&nbsp;</strong>
+</p>
 <p><strong>Chinese Culture</strong>
 </p>
-<p></p>
 <p>To inspire the students’ love for their culture, and to seize every opportunity
 to teach our students values, we organise the following activities for
 our students each year:</p>
@@ -99,7 +97,6 @@ Dance Troupe.</p>
 </table>
 <p><u>MT Fortnight Cultural activities for our students</u>
 </p>
-<p></p>
 <p>To expose our students to different cultural activities, we organize various
 activities for our students during the Mother Tongue fortnight, such as
 traditional costume, bamboo slip, paper folding, tea appreciation and shadow
@@ -186,8 +183,7 @@ Morning Assembly.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p><strong><u>Mid-Autumn Festival (September)</u></strong>
+<p><u>Mid-Autumn Festival (September)</u>
 </p>
 <p>MTL Department collaboration with SWB</p>
 <table style="minWidth: 50px">
@@ -302,6 +298,11 @@ our students’ knowledge about the Malay culture. These activities are as
 follows:</p>
 <p><u>MT Fortnight Cultural activities for our students</u>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="304" width="241" alt="A child holding a toy
+
+Description automatically generated">
+</div>
 <p>The department has organized workshops such as Jawi Calligraphy, Malay
 Dance, Traditional Games and Acting (Opera Theatre, Bangsawan) for our
 students. These workshops are conducted to enhance students’ interest and
@@ -327,10 +328,7 @@ appreciation of Malay culture.</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Secondary 1 students learning how to play Gasing.</p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Secondary 1 students learning how to play Gasing.</p>
 </td>
 </tr>
