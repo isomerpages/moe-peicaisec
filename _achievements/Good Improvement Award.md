@@ -17,10 +17,35 @@ resilience , determination and positive impact they have made for themselves.</p
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Sec 1 Good improvement Award 2024" src="/images/Achievements/Sec_1_Good_improvement_Award_2024.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Sec 2 Good improvement Award 2024" src="/images/Achievements/Sec_2_Good_improvement_Award_2024.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Sec 3 Good improvement Award 2024" src="/images/Achievements/Sec_3_Good_improvement_Award_2024.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
