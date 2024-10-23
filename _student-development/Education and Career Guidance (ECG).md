@@ -18,12 +18,9 @@ how they contribute to the well-functioning of society; (Mindset)
 <br>4) equip students with&nbsp;<strong>skills and means to positively engage&nbsp;</strong>their
 parents and other&nbsp;<strong>career influencers.&nbsp;</strong>(Engaging
 the community)</p>
-<p></p>
 <h4><strong>Curriculum</strong></h4>
-<p></p>
 <p><strong>ECG Outcomes for Secondary Students</strong>
 </p>
-<p></p>
 <p>1) Our ECG programmes are planned and conducted for students at various
 levels in alignment with the ECG Development Model by the Ministry of Education.</p>
 <div class="isomer-image-wrapper">
@@ -38,9 +35,7 @@ Develop students' self-directedness and confidence to explore and leverage
 education and career opportunities while respecting the value of all occupations.</p>
 <p><strong>• Staying relevant</strong>&nbsp;- How do I get there? Build students'
 adaptability and resilience to embrace the need for lifelong learning.</p>
-<p></p>
 <h4><strong>ECG Experiences @ PCSS</strong></h4>
-<p></p>
 <p>Through the ECG Experiences, we seek to guide our students to:
 <br>•become more aware of their own strengths and interests
 <br>• understand the relevant courses of study at post-secondary institutions
@@ -81,10 +76,7 @@ Institute of Technical Education)</p>
 </tbody>
 </table>
 <h4><strong>Key Programmes</strong></h4>
-<p></p>
 <h4><strong>ECG-Based Lessons During CCE periods</strong></h4>
-<p></p>
-<p></p>
 <p>As part of CCE lessons, all students have lessons focusing on Education
 and Career Guidance. During the lessons, the following areas are covered:</p>
 <p>Discovering who you are
@@ -98,7 +90,6 @@ and Career Guidance. During the lessons, the following areas are covered:</p>
 <br>• Adoption of Growth Mindset and Developing Enduring Dispositions</p>
 <p></p>
 <h4><strong>Student Work Attachment Programme (SWAP)</strong></h4>
-<p></p>
 <p>The Student Work Attachment Programme (SWAP) is designed to enable Peicaians
 to:</p>
 <div class="isomer-image-wrapper">
@@ -210,17 +201,17 @@ industries.</p>
 </table>
 <p><strong>Interaction with Post-Secondary Institutions (ITE)</strong>
 </p>
-<p>&nbsp;</p>
-<p>At Peicai Secondary, we emphasize helping students make informed decisions
-about their educational and career pathways. Events like the ‘Start Smart’
-programme, where lecturers from institutions like Temasek Polytechnic share
-insights into various courses, play a vital role in this process. Similarly,
-engagements with Junior Colleges give our students a broader perspective
-on their post-secondary options. These interactions allow students to explore
-different academic and vocational routes, empowering them to make choices
-that align with their interests and strengths. By exposing our students
-to a range of post-secondary institutions, we ensure they are better equipped
-for their future, helping them plan their educational journey with confidence.</p>
+<p>&nbsp;At Peicai Secondary, we emphasize helping students make informed
+decisions about their educational and career pathways. Events like the
+‘Start Smart’ programme, where lecturers from institutions like Temasek
+Polytechnic share insights into various courses, play a vital role in this
+process. Similarly, engagements with Junior Colleges give our students
+a broader perspective on their post-secondary options. These interactions
+allow students to explore different academic and vocational routes, empowering
+them to make choices that align with their interests and strengths. By
+exposing our students to a range of post-secondary institutions, we ensure
+they are better equipped for their future, helping them plan their educational
+journey with confidence.</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
