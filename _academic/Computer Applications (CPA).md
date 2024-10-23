@@ -185,18 +185,7 @@ will select the best piece of work to be submitted for the competition.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>CPA</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.moe.gov.sg/-/media/files/secondary/syllabuses-nt/science/2019-computer-applications-syllabus.pdf" rel="noopener noreferrer nofollow" target="_blank">7018 Computer Applications</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Computing (from 2026 onwards)</strong>
-</p>
+<p>Computing (from 2026 onwards)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://drive.google.com/file/d/1gJGbJ0sEH1qlWoFuYYEmjSoIhuhs8_6H" rel="noopener noreferrer nofollow" target="_blank">G1 Computing T&amp;L Syllabus K144 (2026)</a>
