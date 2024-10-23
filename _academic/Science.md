@@ -33,7 +33,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Understand and appreciate the scientific phenomenon</p>
+<p>&nbsp;Understand and appreciate the scientific phenomenon</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Advocate for improvement to the world through Science</p>
@@ -55,13 +56,14 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4><strong>Department Programme/Highlights/ Student Outcomes</strong></h4>
-<p><strong>Curricular Programme:</strong>
+<h4><strong>Department Programme/Highlights</strong></h4>
+<p><strong><u>Curricular Programme</u></strong>
 </p>
 <p>Over the 4 to 5 years of Science education in Peicai, relevant science
 enrichment programmes are planned for all Peicai students according to
 the level appropriate focus.</p>
-<p>Engage: to see the relevance of Science in daily lives</p>
+<p><u>Engage: to see the relevance of Science in daily lives</u>
+</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
