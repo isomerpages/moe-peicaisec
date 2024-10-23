@@ -116,33 +116,6 @@ and learning to create by hand</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Achievements</strong>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" src="/images/visual_express_art_achieve_v7.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Moe Wendy Tint
-<br>Shortlisted finalist for SYF goesOnline! 2022</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
 <h4><strong>Learning Journey</strong></h4>
 <p>Learning Journey to Biennale Art Exhibition @ Singapore Art Museum.</p>
 <table style="minWidth: 75px">
@@ -234,8 +207,7 @@ artworks and critically assess art.</p>
 <p>Please contact for access to your event’s photos</p>
 </li>
 </ol>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p></p>
 <p>B) If you took your own photos, please note the following when selecting:</p>
 <ol data-tight="true" class="tight">
 <li>
@@ -255,7 +227,7 @@ involved in</p>
 <p>If event<strong> has a VIP</strong>, try to ensure:</p>
 </li>
 </ol>
-<ol start="5" data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p>There is a group shot of the major event people with VIP</p>
 </li>
@@ -263,27 +235,27 @@ involved in</p>
 <p>There are some flattering shots of the VIP in action (speech, presenting
 award, interacting)</p>
 </li>
-</ol>
+</ul>
 <ol start="6" data-tight="true" class="tight">
 <li>
 <p>If event is with an <strong>external organisation with their own photographer</strong>
 </p>
 </li>
 </ol>
-<ol start="6" data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p>Do continue to take your own photos</p>
 </li>
 <li>
 <p>Make arrangements with external organisation to email photos to you</p>
 </li>
-</ol>
+</ul>
 <ol start="7" data-tight="true" class="tight">
 <li>
 <p>If your event<strong> is a trip</strong>:</p>
 </li>
 </ol>
-<ol start="7" data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p>Do ensure there are group shots with banner (if any) at all major parts
 of the trip</p>
@@ -295,8 +267,8 @@ of the trip</p>
 <p>Try to ensure photo background allows viewer to tell students were overseas
 and at a special location</p>
 </li>
-</ol>
-<p>&nbsp;</p>
+</ul>
+<p></p>
 <p>C) Please remember to email your photos separately and include photo captions
 in the email.</p>
 </td>
