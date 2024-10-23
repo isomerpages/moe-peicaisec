@@ -15,16 +15,15 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>As part of the Singapore Green Plan 2030, all MOE schools have embarked
-on the Eco Stewardship Programme (ESP) since 2021. It adopts a whole-school
-approach to integrating environmental sustainability, in nurturing stewards
-of the environment and aims to reduce carbon emissions by two-thirds as
-a school sector by 2030, with at least 20% of our schools to be carbon
-neutral.</p>
+<p>As part of the Singapore Green Plan 2030,<strong> </strong>all MOE schools
+have embarked on the <strong>Eco Stewardship Programme (ESP)</strong> since
+2021. It adopts a whole-school approach to integrating environmental sustainability,
+in nurturing stewards of the environment and aims to reduce carbon emissions
+by two-thirds as a school sector by 2030, with at least 20% of our schools
+to be carbon neutral.</p>
 <p></p>
 <p>The Eco Stewardship Programme builds on current environmental efforts
 in schools. This will be done holistically through the 4Cs:</p>
-<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -32,18 +31,17 @@ in schools. This will be done holistically through the 4Cs:</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Curriculum:</strong> Enhance teaching
-and learning of sustainability in Science and Humanities, and integrate
-campus sustainability features into learning resources to make learning
-more authentic</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Campus:</strong> Enhance campus
-with sustainability features like solar panels, energy-efficient LED lights</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Culture:</strong> Practise daily
-habits like reducing food waste and energy use, and encourage students
-to champion sound sustainability practices amongst peers</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Community:</strong> Leverage community
-partnerships to offer students more environment-related learning opportunities,
-and better understanding of future “green jobs”</p>
+<p>● <strong>Curriculum:</strong> Enhance teaching and learning of sustainability
+in Science and Humanities, and integrate campus sustainability features
+into learning resources to make learning more authentic</p>
+<p>● <strong>Campus:</strong> Enhance campus with sustainability features like
+solar panels, energy-efficient LED lights</p>
+<p>● <strong>Culture:</strong> Practise daily habits like reducing food waste
+and energy use, and encourage students to champion sound sustainability
+practices amongst peers</p>
+<p>● <strong>Community:</strong> Leverage community partnerships to offer students
+more environment-related learning opportunities, and better understanding
+of future “green jobs”</p>
 </td>
 </tr>
 </tbody>
@@ -114,7 +112,6 @@ that they had found with their class.</p>
 to specific water scarcity issues through their self-produced documentary
 or TED talk. They could also choose to write a shape poem to advocate more
 about the various Innovative Water Solutions.</p>
-<p>&nbsp;</p>
 <p><strong>Earth Day 2024</strong>
 </p>
 <p>Earth Day serves as a reminder to protect our planet and raise awareness
@@ -169,13 +166,19 @@ see the value in reusing materials.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="3">
-<p><strong>Singapore Youth Water Conference 2024</strong>
-</p>
+<td rowspan="1" colspan="1">
+<p>Environment Heads Ashley &amp; Xander raising awareness during assembly
+about microplastic pollution.</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Examples of creative upcycled items done by students in commemoration
+of Earth Day.</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p><strong>Singapore Youth Water Conference 2024</strong>
+</p>
 <p>Peicai Environment Heads participated in the Singapore Youth Water Conference
 2024, organized by Raffles Institution. Titled “Singapore’s Water Future:
 Challenges and Opportunities for the Next Generation,” the forum emphasized
