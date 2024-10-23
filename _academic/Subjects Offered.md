@@ -33,25 +33,24 @@ Tamil Language Centre after school. See the&nbsp;<a href="https://www.moe.gov.sg
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Art</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Design and Technology</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Food and Consumer Education</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Food Studies</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Nutrition and Food Science</p>
+<p>·&nbsp;&nbsp;&nbsp;Art</p>
+<p>·&nbsp;&nbsp; Design and Technology</p>
+<p>·&nbsp;&nbsp;&nbsp;Food and Consumer Education</p>
+<p>·&nbsp;&nbsp;&nbsp;Food Studies</p>
+<p>·&nbsp;&nbsp;&nbsp;Nutrition and Food Science</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Music</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; English Language</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Literature&nbsp;in English (Pure)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Humanities (Social Studies, Literature
-in English)</p>
+<p>·&nbsp;&nbsp;English Language</p>
+<p>·&nbsp;&nbsp;Literature&nbsp;in English (Pure)</p>
+<p>·&nbsp;&nbsp;Humanities (Social Studies, Literature in English)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Social Studies</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Geography&nbsp;(Pure)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; History&nbsp;(Pure)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Humanities (Social Studies, Geography)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Humanities (Social Studies, History)</p>
+<p>·&nbsp;&nbsp;Social Studies</p>
+<p>·&nbsp;&nbsp;Geography&nbsp;(Pure)</p>
+<p>·&nbsp;&nbsp;History&nbsp;(Pure)</p>
+<p>·&nbsp;&nbsp;Humanities (Social Studies, Geography)</p>
+<p>·&nbsp; Humanities (Social Studies, History)</p>
 </td>
 </tr>
 <tr>
