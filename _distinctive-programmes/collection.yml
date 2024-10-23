@@ -2,6 +2,7 @@ collections:
   distinctive-programmes:
     output: true
     order:
+      - PinnaCle(Talent Development)/.keep
       - Applied Learning Programme(ALP).md
       - Design Education Summit 2023.md
       - Learn for Life Programme(LLP).md
