@@ -2,6 +2,7 @@ collections:
   academic:
     output: true
     order:
+      - Computer Applications (till 2025).md
       - Computing.md
       - T&L Framework.md
       - Subjects Offered.md
