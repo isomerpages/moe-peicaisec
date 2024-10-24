@@ -23,12 +23,11 @@ of the Arts</p>
 </li>
 <li>
 <p>Ignite creativity and develop the pursuit for excellence</p>
+<p></p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p><strong>Curriculum</strong>
 </p>
-<p>&nbsp;</p>
 <p>The Aesthetics curriculum in Peicai provides students with opportunities
 to explore various Art forms – visual, performative, and musical, to communicate
 their thoughts and ideas. Students are exposed to a range of learning experiences.
@@ -36,10 +35,8 @@ We strive to spark curiosity and creativity in students, developing and
 enhancing their artistic skills through our diverse Arts programmes. Students
 cultivate an enhanced appreciation for the artistic discipline which strengthens
 their character and holistic development.</p>
-<p>&nbsp;</p>
 <p><strong>Key Programmes</strong>
 </p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -123,8 +120,7 @@ Drumming</p>
 </tr>
 </tbody>
 </table>
-<p><strong>How to get photos for your event:</strong>
-</p>
+<h4><strong>How to get photos for your event:</strong></h4>
 <p>A)If you requested for InfoComm Club support for your event,</p>
 <ol data-tight="true" class="tight">
 <li>
@@ -150,26 +146,46 @@ involved in</p>
 <p>If event<strong> has a VIP</strong>, try to ensure:</p>
 </li>
 </ol>
+<ul data-tight="true" class="tight">
+<li>
 <p>There is a group shot of the major event people with VIP</p>
+</li>
+<li>
 <p>There are some flattering shots of the VIP in action (speech, presenting
 award, interacting)</p>
+</li>
+</ul>
 <ol start="6" data-tight="true" class="tight">
 <li>
 <p>If event is with an <strong>external organisation with their own photographer</strong>
 </p>
 </li>
 </ol>
+<ul data-tight="true" class="tight">
+<li>
 <p>Do continue to take your own photos</p>
+</li>
+<li>
 <p>Make arrangements with external organisation to email photos to you</p>
+</li>
+</ul>
 <ol start="7" data-tight="true" class="tight">
 <li>
 <p>If your event<strong> is a trip</strong>:</p>
 </li>
 </ol>
+<ul data-tight="true" class="tight">
+<li>
 <p>Do ensure there are group shots with banner (if any) at all major parts
 of the trip</p>
+</li>
+<li>
 <p>There should be photos of stuff and students involved in different events</p>
+</li>
+<li>
 <p>Try to ensure photo background allows viewer to tell students were overseas
 and at a special location</p>
+</li>
+</ul>
 <p>C) Please remember to email your photos separately and include photo captions
 in the email.</p>
