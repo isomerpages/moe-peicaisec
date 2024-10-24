@@ -35,12 +35,22 @@ skills, and grow as young scientists ready to contribute to the scientific
 community.</p>
 <p></p>
 <h4>Key Achievements:</h4>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 24th Singapore
-Science and Engineering Fair Competition (SSEF) – Finalist</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 25th International
-Elementz Fair - Bronze Award</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A*STAR-VJC Science
-Fair 2024 (Upper Secondary Open Category) - Silver Award</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>24th Singapore Science and Engineering Fair Competition (SSEF) – Finalist</p>
+</li>
+</ul>
+<ul data-tight="true" class="tight">
+<li>
+<p>25th International Elementz Fair - Bronze Award</p>
+</li>
+</ul>
+<ul data-tight="true" class="tight">
+<li>
+<p>A*STAR-VJC Science Fair 2024 (Upper Secondary Open Category) - Silver
+Award</p>
+</li>
+</ul>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
