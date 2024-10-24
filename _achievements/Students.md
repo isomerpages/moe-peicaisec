@@ -555,8 +555,4 @@ awards:</p>
 </tr>
 </tbody>
 </table>
-<hr>
-<p><strong><u>2021</u></strong>
-</p>
-<p><a href="/achievements/students/national-examinations-2021" rel="noopener noreferrer nofollow" target="">National Examinations 2021</a>
-</p>
+<p></p>
