@@ -125,11 +125,6 @@ recipes, and food presentation techniques as they compete for top honours.</p>
 </tr>
 </tbody>
 </table>
-<ol data-tight="true" class="tight">
-<li>
-<p></p>
-</li>
-</ol>
 <h4><strong>Syllabus</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
