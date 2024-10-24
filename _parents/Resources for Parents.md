@@ -24,4 +24,7 @@ the title “DMA Query”.</p>
 <p></p>
 <p><strong><u>Sec 1 Personal Learning Device (PLD) Rollout</u></strong>
 </p>
-<p>Coming in 2025!</p>
+<p>Coming in 2025!<a href="https://go.gov.sg/pcss-dma-change-request" rel="noopener nofollow" target="_blank">https://go.gov.sg/pcss-dma-change-request</a>
+<a href="mailto:peicai_ss@moe.edu.sg" rel="noopener nofollow" target="_blank">peicai_ss@moe.edu.sg</a><a href="https://go.gov.sg/pcss-dma-change-request" rel="noopener nofollow" target="_blank">https://go.gov.sg/pcss-dma-change-request</a>
+<a href="mailto:peicai_ss@moe.edu.sg" rel="noopener nofollow" target="_blank">peicai_ss@moe.edu.sg</a>
+</p>
