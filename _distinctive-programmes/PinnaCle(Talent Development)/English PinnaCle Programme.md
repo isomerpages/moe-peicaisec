@@ -17,7 +17,7 @@ Debating Championships. The PinnaCle students also embarked on an enriching
 learning journey, to experience a thought-provoking “Animal Farm” theatre
 production. They had the unique opportunity to participate in a Q&amp;A
 session and workshop with the cast.</p>
-<p><strong>Learning Experience</strong>
+<p><strong>Learning Experiences</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
