@@ -62,7 +62,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://go.gov.sg/pat2025" rel="noopener nofollow" target="_blank">https://go.gov.sg/pat2025</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -90,7 +91,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://go.gov.sg/oyea2025" rel="noopener nofollow" target="_blank">https://go.gov.sg/oyea2025</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
