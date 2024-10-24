@@ -14,19 +14,19 @@ is designed to foster a deep understanding of mathematical concepts and
 their real-world applications.</p>
 <ol data-tight="true" class="tight">
 <li>
-<p><strong>Problem Solving and Critical Thinking</strong>
+<p>Problem Solving and Critical Thinking
 <br>We empower students to cultivate robust problem-solving skills and critical
 thinking abilities, enabling them to confidently tackle a wide spectrum
 of challenges.</p>
 </li>
 <li>
-<p><strong>Conceptual Mastery</strong>
+<p>Conceptual Mastery
 <br>Our students achieve a profound understanding of fundamental mathematical
 concepts, empowering them to apply these principles across a broad range
 of topics, from algebra to calculus.</p>
 </li>
 <li>
-<p><strong>Real-World Relevance</strong>
+<p>Real-World Relevance
 <br>We place a strong emphasis on demonstrating the practical applicability
 of mathematics. By showing students how mathematics is intertwined with
 other disciplines, we inspire a genuine appreciation for the subject and

@@ -122,8 +122,7 @@ or in pairs.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>How to get photos for your event:</strong>
-</p>
+<h4><strong>How to get photos for your event:</strong></h4>
 <p>A)If you requested for InfoComm Club support for your event,</p>
 <ol data-tight="true" class="tight">
 <li>

@@ -4,7 +4,6 @@ permalink: /academic/permalink/computer-applications/
 variant: tiptap
 description: ""
 ---
-<h4></h4>
 <h4><strong>Learning Outcomes</strong></h4>
 <p>In Peicai Secondary School, we aim to achieve the following through the
 Computer Applications (CPA) subject:</p>
@@ -16,9 +15,6 @@ by ICT. Students learn to be responsible, confident and creative users
 of technology who can participate and thrive in a digital world.</p>
 </li>
 <li>
-<p></p>
-</li>
-<li>
 <p>Engages students and prepares them for future studies. The hands-on and
 interactive nature of the subject effectively engages students in their
 learning. Through engaged learning, students are equipped with a wide range
@@ -26,24 +22,15 @@ of necessary ICT skills that prepare them to meet the demands of other
 subjects in secondary school and at post-secondary institutes.</p>
 </li>
 <li>
-<p></p>
-</li>
-<li>
 <p>Supports the development of 21st Century Competencies (21CC). Through
 CPA, students acquire skills such as critical thinking, information processing
 and effective communication.</p>
-</li>
-<li>
-<p></p>
 </li>
 <li>
 <p>Develops computational thinking skills. Since 2012, the CPA syllabus has
 included programming where students learn basic computational thinking
 skills such as algorithmic thinking and decomposition through creating
 animations and games.</p>
-</li>
-<li>
-<p></p>
 </li>
 </ul>
 <p>From 2024 onwards, Computer Applications (CPA) which is currently only

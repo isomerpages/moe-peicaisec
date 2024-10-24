@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Craft & Technology
 ---
-<h4><strong>ART</strong></h4>
+<h4><strong>Art Department</strong></h4>
 <h4><strong>Learning Outcomes</strong></h4>
 <p>In Peicai, our students learn to:</p>
 <table style="minWidth: 75px">
@@ -188,8 +188,7 @@ creation.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>CCA Achievements</strong>
-</p>
+<h4><strong>CCA Achievements</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
 <p>Singapore Youth Festival 2024 – Certificate of Recognition (Lower Secondary
@@ -297,8 +296,7 @@ artworks and critically assess art.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>How to get photos for your event:</strong>
-</p>
+<h4><strong>How to get photos for your event:</strong></h4>
 <p>A)If you requested for InfoComm Club support for your event,</p>
 <ol data-tight="true" class="tight">
 <li>

@@ -12,10 +12,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Learn for Life Programme (LLP)</strong>
-</p>
-<p><strong>Values-In-Action (VIA) @ Peicai</strong>
-</p>
+<h4><strong>Values-In-Action (VIA) @ Peicai</strong></h4>
 </td>
 </tr>
 <tr>
@@ -32,7 +29,6 @@ our students by fostering personal mastery and socio-emotional competencies.
 We strive to empower students to make meaningful contributions to society,
 becoming responsible and compassionate individuals who lead by serving
 others.</p>
-<p>&nbsp;</p>
 <p>Through this approach, we encourage the following in our Peicaians:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -48,16 +44,15 @@ a community-oriented mindset.</p>
 <p>Community Engagement: By participating in community projects, students
 learn to lead by example and contribute to causes that benefit others,
 reinforcing the values of responsibility, service, and empathy.</p>
+<p></p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p>The Leadership Through and For the Community programme is designed to
 nurture future-ready leaders who exemplify strong values and a commitment
 to personal growth. Through various experiential learning opportunities,
 students develop key leadership skills, such as resilience, empathy, and
 collaboration, while engaging in projects that make a positive impact on
 the community.</p>
-<p>&nbsp;</p>
 <p>By encouraging students to demonstrate these values in real-world settings,
 we aim to cultivate a sense of responsibility and social awareness, shaping
 them into leaders who not only excel in their personal lives but also inspire
@@ -93,8 +88,7 @@ framework, aligned with social cause-based VIA.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Distinctive Programmes/llp_2024_3.jpg">
 </div>
-<p><strong>Key Programmes:</strong>
-</p>
+<h4><strong>Key Programmes:</strong></h4>
 <p><strong><u>Secondary 1: Learning About Social Causes</u></strong>
 </p>
 <p>In Secondary 1, students begin their leadership journey by choosing a
@@ -103,7 +97,6 @@ and understanding of the issue, encouraging students to delve into the
 needs and challenges related to their selected cause. Through workshops,
 discussions, and guided research, students explore how these social causes
 affect their community and the world at large.</p>
-<p>&nbsp;</p>
 <p><strong>Key Objectives for Secondary 1:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -115,9 +108,9 @@ affect their community and the world at large.</p>
 </li>
 <li>
 <p>Foster socio-emotional competencies like empathy and self-awareness.</p>
+<p></p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p>At this stage, the focus is on developing empathy and building a foundation
 of knowledge. Students also reflect on their personal values and how these
 align with their chosen cause, preparing them for future involvement.</p>
@@ -160,7 +153,6 @@ their classmates to design and implement small-scale projects that address
 the social cause they have chosen. These initiatives may take place within
 the school or extend into the wider community, offering students the chance
 to make a direct impact.</p>
-<p>&nbsp;</p>
 <p><strong>Key Objectives for Secondary 2:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -175,12 +167,10 @@ to make a direct impact.</p>
 settings.</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p>This hands-on approach empowers students to apply leadership, teamwork,
 and problem-solving skills, ensuring they learn the value of action in
 creating positive change. The focus at this level is on turning awareness
 into tangible contributions.</p>
-<p>&nbsp;</p>
 <p><strong><u>Secondary 2 VIA Activities – 2024</u></strong>
 </p>
 <table style="minWidth: 25px">
@@ -200,7 +190,6 @@ into tangible contributions.</p>
 <td rowspan="1" colspan="1">
 <p>In 2024, our Secondary 2 students focused on applying their understanding
 of social causes by planning and executing their own VIA projects.</p>
-<p>&nbsp;</p>
 <p>Some classes engaged their juniors by visiting Secondary 1 classrooms
 to share their knowledge, while others created interactive awareness games.
 One class even designed and set up a recycling bin to promote eco-friendly
@@ -219,7 +208,6 @@ could involve campaigns, public speaking, or creating content to reach
 a wider audience. Additionally, students mentor their juniors by passing
 on the knowledge they’ve gained in previous years, fostering a culture
 of peer-led leadership.</p>
-<p>&nbsp;</p>
 <p><strong>Key Objectives for Secondary 3:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -235,11 +223,9 @@ projects.</p>
 responsibility for community improvement.</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p>The focus in Secondary 3 is on making a lasting impact, not just through
 continued action, but by influencing others and becoming ambassadors for
 their cause.</p>
-<p>&nbsp;</p>
 <p><strong><u>Secondary 3 VIA Activities – 2024</u></strong>
 </p>
 <table style="minWidth: 25px">
@@ -264,15 +250,12 @@ projects aimed at directly benefiting the stakeholders and their communities.
 Following their hands-on efforts, they conducted a level-wide sharing session
 in school, where they advocated for their stakeholders and beneficiaries,
 raising awareness and encouraging further involvement from their peers.</p>
-<p></p>
-<p><strong><u>Overall Impact</u></strong>
-</p>
-<p>Across all levels, students develop essential socio-emotional competencies,
-such as resilience, empathy, and leadership. By engaging deeply with social
-causes, they learn the importance of service to others and develop a sense
-of agency in making the world a better place.</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
+<h4><strong>Overall Impact</strong></h4>
+<p>Across all levels, students develop essential socio-emotional competencies,
+such as resilience, empathy, and leadership. By engaging deeply with social
+causes, they learn the importance of service to others and develop a sense
+of agency in making the world a better place.</p>
