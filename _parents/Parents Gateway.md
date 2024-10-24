@@ -17,12 +17,6 @@ variant: tiptap
 <img style="width: 50%;" height="auto" width="100%" src="/images/PG-SingPass.gif">
 </div>
 <h4>Remember to switch on notifications as well!</h4>
-<h4><strong>User Guide - Parents Gateway</strong></h4>
-<p>Refer to the&nbsp;<a href="https://drive.google.com/file/d/1BvSL6PMGi5W-2BpsO78uFiujIK_t15iR/view?usp=sharing" rel="noopener noreferrer nofollow" target="">User Guide</a> for
-a step-by-step guide on how to do the following:</p>
-<div class="isomer-image-wrapper">
-<img style="width: 85%;" height="auto" width="100%" src="/images/pg1.png">
-</div>
 <h4><strong>Frequently Asked Questions</strong></h4>
 <p>Refer to the&nbsp;<a href="https://pg.moe.edu.sg/faq" rel="noopener noreferrer nofollow" target="">Parents Gateway FAQ page</a>&nbsp;for
 more information.</p>
