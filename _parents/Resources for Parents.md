@@ -14,17 +14,14 @@ more information.
 <p><strong><u>After the new MOE DMA deployment in 2025</u></strong>
 </p>
 <p>If you wish to change your DMA option, please submit your request via
-this link&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pcss-dma-change-request</a>.
+this link&nbsp;<a href="https://go.gov.sg/pcss-dma-change-request" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pcss-dma-change-request</a>.
 Kindly note that the changes to DMA options will be effected at the end
 of each Term.
 <br>
 <br>If you have any technical issues relating to DMA matters, you may email
-to<u>&nbsp;</u><a rel="noopener noreferrer nofollow" target="_blank">peicai_ss@moe.edu.sg</a><u>&nbsp;</u>with
+to<u>&nbsp;</u><a href="mailto:peicai_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">peicai_ss@moe.edu.sg</a><u>&nbsp;</u>with
 the title “DMA Query”.</p>
 <p></p>
 <p><strong><u>Sec 1 Personal Learning Device (PLD) Rollout</u></strong>
 </p>
-<p>Coming in 2025!<a href="https://go.gov.sg/pcss-dma-change-request" rel="noopener nofollow" target="_blank">https://go.gov.sg/pcss-dma-change-request</a>
-<a href="mailto:peicai_ss@moe.edu.sg" rel="noopener nofollow" target="_blank">peicai_ss@moe.edu.sg</a><a href="https://go.gov.sg/pcss-dma-change-request" rel="noopener nofollow" target="_blank">https://go.gov.sg/pcss-dma-change-request</a>
-<a href="mailto:peicai_ss@moe.edu.sg" rel="noopener nofollow" target="_blank">peicai_ss@moe.edu.sg</a>
-</p>
+<p>Coming in 2025!</p>
