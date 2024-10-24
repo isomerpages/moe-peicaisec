@@ -10,7 +10,7 @@ third_nav_title: PinnaCle(Talent Development)
 advanced mathematics through real-life challenges, competitions, and hands-on
 activities. Designed for students with a passion for problem-solving, the
 programme enhances computational thinking and encourages the application
-of math concepts in practical contexts.</p>
+of math concepts in practical contexts</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
