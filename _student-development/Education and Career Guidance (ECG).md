@@ -151,8 +151,8 @@ industries.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em>Our students put the skills they learnt through the elective modules into practice</em>
-</p>
+<p>Our students put the skills they learnt through the elective modules into
+practice</p>
 </td>
 </tr>
 </tbody>
@@ -172,8 +172,9 @@ industries.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em>Students from our school gathered at ITE after completing the Applied Learning Module (ApLM@ITE), where they explored new learning experiences and future career pathways.</em>
-</p>
+<p>Students from our school gathered at ITE after completing the Applied
+Learning Module (ApLM@ITE), where they explored new learning experiences
+and future career pathways.</p>
 </td>
 </tr>
 </tbody>
@@ -193,8 +194,8 @@ industries.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em>Students collaborate in teams at the ITE computer lab, applying their learning in a hands-on environment.</em>
-</p>
+<p>Students collaborate in teams at the ITE computer lab, applying their
+learning in a hands-on environment.</p>
 </td>
 </tr>
 </tbody>
@@ -227,8 +228,8 @@ journey with confidence.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em>Lecturer from Temasek Polytechnic sharing on the various courses offered in the Polytechnic</em>
-</p>
+<p>Lecturer from Temasek Polytechnic sharing on the various courses offered
+in the Polytechnic</p>
 </td>
 </tr>
 </tbody>
@@ -248,8 +249,9 @@ journey with confidence.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em>Peicai students attending an informative talk by Junior College representatives, gaining insights into academic programs and opportunities available at the JC level.</em>
-</p>
+<p>Peicai students attending an informative talk by Junior College representatives,
+gaining insights into academic programs and opportunities available at
+the JC level.</p>
 </td>
 </tr>
 </tbody>
@@ -279,8 +281,8 @@ plan their educational and career trajectories.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em>Students browse brochures and interact with representatives from different post-secondary institutions.</em>
-</p>
+<p>Students browse brochures and interact with representatives from different
+post-secondary institutions.</p>
 </td>
 </tr>
 </tbody>
@@ -300,8 +302,8 @@ plan their educational and career trajectories.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em>Students visiting the various post-secondary institutions booths from the Junior Colleges, Polytechnics and ITEs.</em>
-</p>
+<p>Students visiting the various post-secondary institutions booths from
+the Junior Colleges, Polytechnics and ITEs.</p>
 </td>
 </tr>
 </tbody>
@@ -321,8 +323,9 @@ plan their educational and career trajectories.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em>A Polytechnic student explaining his course to Peicai students during the Education and Career Guidance (ECG) Fair, providing valuable insights into future academic pathways and career options.</em>
-</p>
+<p>A Polytechnic student explaining his course to Peicai students during
+the Education and Career Guidance (ECG) Fair, providing valuable insights
+into future academic pathways and career options.</p>
 </td>
 </tr>
 </tbody>
@@ -343,8 +346,8 @@ plan their educational and career trajectories.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em>Alumni sharing about his career choice with the SAF with our Secondary 3 students.</em>
-</p>
+<p>Alumni sharing about his career choice with the SAF with our Secondary
+3 students.</p>
 </td>
 </tr>
 </tbody>
@@ -365,8 +368,8 @@ plan their educational and career trajectories.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em>Alumni engaging students in a Q&amp;A after sharing about their careers in the Airforce, Business, Media and Nursing</em>
-</p>
+<p>Alumni engaging students in a Q&amp;A after sharing about their careers
+in the Airforce, Business, Media and Nursing</p>
 </td>
 </tr>
 </tbody>
@@ -387,8 +390,9 @@ plan their educational and career trajectories.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em>Four speakers from various professions at the Sec 3 Career Talk shared their unique career experiences and advice, inspiring students to explore diverse pathways.</em>
-</p>
+<p>Four speakers from various professions at the Sec 3 Career Talk shared
+their unique career experiences and advice, inspiring students to explore
+diverse pathways.</p>
 </td>
 </tr>
 </tbody>
@@ -418,8 +422,8 @@ for their educational journeys beyond secondary school.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em>Peicai students at Nanyang Junior College to explore their academic options and future pathways</em>
-</p>
+<p>Peicai students at Nanyang Junior College to explore their academic options
+and future pathways</p>
 </td>
 </tr>
 </tbody>
@@ -439,8 +443,7 @@ for their educational journeys beyond secondary school.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em>Providing students with deeper insights into the various courses.</em>
-</p>
+<p>Providing students with deeper insights into the various courses.</p>
 </td>
 </tr>
 </tbody>
@@ -460,8 +463,8 @@ for their educational journeys beyond secondary school.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em>NYJC students engage with Peicai students, fostering connections and sharing insights about academic opportunities.</em>
-</p>
+<p>NYJC students engage with Peicai students, fostering connections and sharing
+insights about academic opportunities.</p>
 </td>
 </tr>
 </tbody>
@@ -481,8 +484,7 @@ for their educational journeys beyond secondary school.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em>Getting A Glimpse into a student’s life in the Polytechnic</em>
-</p>
+<p>Getting A Glimpse into a student’s life in the Polytechnic</p>
 </td>
 </tr>
 </tbody>
@@ -512,8 +514,7 @@ field.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Students getting a glimpse into the world of STEM</strong>
-</p>
+<p>Students getting a glimpse into the world of STEM</p>
 </td>
 </tr>
 </tbody>
