@@ -7,20 +7,20 @@ third_nav_title: CCE
 ---
 <h4><strong>Objectives</strong></h4>
 <p>In Peicai, we aim to inculcate in our students:</p>
-<p><strong>1)Good Character</strong>
+<p><strong>1) Good Character</strong>
 </p>
 <p>Students are enabled to have a sound moral compass, a strong sense of
 right and wrong, think critically and ethically, be discerning in judgement,
 take&nbsp;responsibility for choices and actions, be caring towards others
 and strive for excellence.</p>
 <p>&nbsp;</p>
-<p><strong>2)Resilience and Social-Emotional Well-Being</strong>
+<p><strong>2) Resilience and Social-Emotional Well-Being</strong>
 </p>
 <p>Students are enabled to have a balanced sense of self, form healthy relationships,
 be resilient when faced with challenges, find meaning in life and have
 a&nbsp;sense of gratitude and appreciation.</p>
 <p>&nbsp;</p>
-<p><strong>3)Active Citizenship</strong>
+<p><strong>3) Active Citizenship</strong>
 </p>
 <p>Students are enabled to develop a strong national identity based on a
 sense of belonging to the nation, a sense of hope in themselves and the
@@ -29,7 +29,7 @@ and constraints, and the will to act on improving the lives of others and
 building a future for&nbsp;our nation.</p>
 <p><strong>&nbsp;</strong>
 </p>
-<p><strong>4)Future Readiness</strong>
+<p><strong>4) Future Readiness</strong>
 </p>
 <p>Students are enabled to have a sense of purpose in life, develop the dispositions
 of adaptability and lifelong learning so as to be able to navigate&nbsp;education
