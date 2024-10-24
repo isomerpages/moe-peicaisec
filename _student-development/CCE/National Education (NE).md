@@ -103,8 +103,7 @@ crises and apply the principles of Total Defence to overcome them.</p>
 <p>Students participating in Exercise SG – no meat sold in canteen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Exercise SG lesson package</p>
-<p>conducted in class</p>
+<p>Exercise SG lesson package conducted in class</p>
 </td>
 </tr>
 <tr>
@@ -117,8 +116,7 @@ crises and apply the principles of Total Defence to overcome them.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p>Students engaged in Guardians of the City</p>
-<p>card game</p>
+<p>Students engaged in Guardians of the City card game</p>
 </td>
 </tr>
 </tbody>
