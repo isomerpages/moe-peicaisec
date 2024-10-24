@@ -404,8 +404,7 @@ Mention (Physics)</p>
 </tbody>
 </table>
 <p></p>
-<p><strong>Syllabus</strong>
-</p>
+<h4><strong>Syllabus</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
