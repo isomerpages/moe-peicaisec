@@ -33,29 +33,63 @@ Tamil Language Centre after school. See the&nbsp;<a href="https://www.moe.gov.sg
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;Art</p>
-<p>·&nbsp;&nbsp; Design and Technology</p>
-<p>·&nbsp;&nbsp;&nbsp;Food and Consumer Education</p>
-<p>·&nbsp;&nbsp;&nbsp;Food Studies</p>
-<p>·&nbsp;&nbsp;&nbsp;Nutrition and Food Science</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Music</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Art</p>
+</li>
+<li>
+<p>Design and Technology</p>
+</li>
+<li>
+<p>Food and Consumer Education</p>
+</li>
+<li>
+<p>Food Studies</p>
+</li>
+<li>
+<p>Nutrition and Food Science</p>
+</li>
+<li>
+<p>Music</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;English Language</p>
-<p>·&nbsp;&nbsp;Literature&nbsp;in English (Pure)</p>
-<p>·&nbsp;&nbsp;Humanities (Social Studies, Literature in English)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>English Language</p>
+</li>
+<li>
+<p>Literature&nbsp;in English (Pure)</p>
+</li>
+<li>
+<p>Humanities (Social Studies, Literature in English)</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;Social Studies</p>
-<p>·&nbsp;&nbsp;Geography&nbsp;(Pure)</p>
-<p>·&nbsp;&nbsp;History&nbsp;(Pure)</p>
-<p>·&nbsp;&nbsp;Humanities (Social Studies, Geography)</p>
-<p>·&nbsp; Humanities (Social Studies, History)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Social Studies</p>
+</li>
+<li>
+<p>Geography&nbsp;(Pure)</p>
+</li>
+<li>
+<p>History&nbsp;(Pure)</p>
+</li>
+<li>
+<p>Humanities (Social Studies, Geography)</p>
+</li>
+<li>
+<p>Humanities (Social Studies, History)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mathematics and ICT</strong>
+<p><strong>Mathematics</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -69,25 +103,91 @@ Tamil Language Centre after school. See the&nbsp;<a href="https://www.moe.gov.sg
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mathematics</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Additional Mathematics</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Principles of Accounts</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Computer Applications&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mathematics</p>
+</li>
+<li>
+<p>Additional Mathematics</p>
+</li>
+<li>
+<p>Principles of Accounts</p>
+</li>
+<li>
+<p>Computer Applications&nbsp;</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;Higher Chinese</p>
-<p>·&nbsp;&nbsp;&nbsp;Chinese</p>
-<p>·&nbsp;&nbsp;&nbsp;Basic Chinese</p>
-<p>·&nbsp;&nbsp;&nbsp;Higher Malay</p>
-<p>·&nbsp;&nbsp;&nbsp;Malay</p>
-<p>·&nbsp;&nbsp;&nbsp;Basic Malay</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Higher Chinese</p>
+</li>
+<li>
+<p>Chinese</p>
+</li>
+<li>
+<p>Basic Chinese</p>
+</li>
+<li>
+<p>Higher Malay</p>
+</li>
+<li>
+<p>Malay</p>
+</li>
+<li>
+<p>Basic Malay</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;Biology (Pure)</p>
-<p>·&nbsp;&nbsp;Chemistry&nbsp;(Pure)</p>
-<p>·&nbsp;&nbsp;Physics&nbsp;(Pure)</p>
-<p>·&nbsp;&nbsp;Science (Chemistry, Biology)</p>
-<p>·&nbsp;&nbsp;Science (Physics, Chemistry)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Biology (Pure)</p>
+</li>
+<li>
+<p>Chemistry&nbsp;(Pure)</p>
+</li>
+<li>
+<p>Physics&nbsp;(Pure)</p>
+</li>
+<li>
+<p>Science (Chemistry, Biology)</p>
+</li>
+<li>
+<p>Science (Physics, Chemistry)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>ICT</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Computer Applications (till 2025)</p>
+</li>
+<li>
+<p>Computing (from 2026)</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
