@@ -83,7 +83,10 @@ issues related to sexuality, which are of prime concern at this age.
 <br><strong>At PEICAI Secondary School, the following Sexuality Education lessons will be taught in <u>2024</u>:</strong> 
 <br>
 <br>2024 Sexuality Education Lessons in CCE 2021</p>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -95,7 +98,10 @@ issues related to sexuality, which are of prime concern at this age.
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -107,7 +113,10 @@ issues related to sexuality, which are of prime concern at this age.
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -119,7 +128,10 @@ issues related to sexuality, which are of prime concern at this age.
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -131,7 +143,10 @@ issues related to sexuality, which are of prime concern at this age.
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -181,9 +196,9 @@ to complete an opt-out form. This form will be communicated to parents
 at the start of the year and is also downloadable <a href="/files/2024/Annex_B__eTeens_Parents_Opt_out_Form__Sec__2024.pdf" rel="noopener noreferrer nofollow" target="_blank">here .</a>The
 completed form is to be submitted by 23/01/2024.
 <br>
-<br>13. Parents can contact the school at school <a rel="noopener noreferrer nofollow" target="_blank">peicai_ss@moe.edu.sg</a> or
-62884159 for discussion or to seek clarification about the school’s Sexuality
-Education program.
+<br>13. Parents can contact the school at school <a href="mailto:peicai_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">peicai_ss@moe.edu.sg</a> or 62884159
+for discussion or to seek clarification about the school’s Sexuality Education
+program.
 <br>
 <br>
 </p>
