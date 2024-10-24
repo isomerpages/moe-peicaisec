@@ -25,4 +25,4 @@ variant: markdown
 <p align="justify">Once students enter secondary school, they will be grouped into mixed form classes comprising students from different Posting Groups and will have opportunities to interact and learn with peers of different backgrounds, strengths, and interests.</p>
 
 <p>For more information on Full SBB, you may visit&nbsp;<a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/secondary-school-experience.html">https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/secondary-school-experience.html</a></p>
-<p></p><p align="justify">For more information of the implementation of Full SBB in Peicai Secondary School, you may write to Mr Edwin Kwek, the Full SBB Coordinator for Peicai Secondary School at <a href="mailto:kwek_swee_hee_edwin@moe.edu.sg.">kwek_swee_hee_edwin@moe.edu.sg </a></p>
+<p></p><p align="justify">For more information of the implementation of Full SBB in Peicai Secondary School, you may write to Mr Edwin Kwek, the Full SBB Coordinator for Peicai Secondary School at <a href="mailto:kwek_swee_hee_edwin@moe.edu.sg">kwek_swee_hee_edwin@moe.edu.sg </a></p>
