@@ -59,10 +59,9 @@ cooking</p>
 </tbody>
 </table>
 <h4><strong>Department Programme/Highlights/ Student Outcomes</strong></h4>
-<p><strong>Curricular Programme:</strong>
-</p>
-<p><strong>&nbsp;Food &amp; Consumer Education:</strong>&nbsp;Compulsory
-common curriculum subject taken at the lower secondary level.
+<h4><strong>Curricular Programme:</strong></h4>
+<p><strong>Food &amp; Consumer Education:</strong>&nbsp;Compulsory common
+curriculum subject taken at the lower secondary level.
 <br><strong>Nutrition &amp; food science:</strong>&nbsp;An elective subject
 taken at the upper secondary level.</p>
 <p><strong>Health Ambassador:</strong>&nbsp;Advocate nutrition and health
@@ -126,9 +125,8 @@ recipes, and food presentation techniques as they compete for top honours.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>How to get photos for your event:</strong>
-</p>
-<p>A)If you requested for InfoComm Club support for your event,</p>
+<h4><strong>How to get photos for your event:</strong></h4>
+<p>A) If you requested for InfoComm Club support for your event,</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Please contact for access to your event’s photos</p>
