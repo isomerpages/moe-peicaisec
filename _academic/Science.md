@@ -424,11 +424,11 @@ Mention (Physics)</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.moe.gov.sg/-/media/files/secondary/syllabuses/science/2021-science-syllabus-lower-secondary.pdf" rel="noopener noreferrer nofollow" target="_blank">Normal (Academic) / G2 Science</a>
+<p><a href="https://www.moe.gov.sg/-/media/files/secondary/fsbb/syllabus/2021-g2g3-lower-secondary-science-syllabus-updated-apr-2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Normal (Academic) / G2 Science</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.moe.gov.sg/-/media/files/secondary/syllabuses/science/2021-science-syllabus-lower-secondary.pdf" rel="noopener noreferrer nofollow" target="_blank">Express / G3 Science</a>
+<p><a href="https://www.moe.gov.sg/-/media/files/secondary/fsbb/syllabus/2021-g2g3-lower-secondary-science-syllabus-updated-apr-2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Express / G3 Science</a>
 </p>
 </td>
 </tr>
@@ -445,7 +445,7 @@ Mention (Physics)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/5148_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">5148 Science Syllabus T</a>
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2025/5148_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">5148 Science Syllabus T</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -468,11 +468,11 @@ Mention (Physics)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/5105_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">5105 Science (Physics, Chemistry)</a>
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2025/5105_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">5105 Science (Physics, Chemistry)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/5107_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">5107 Science (Chemistry, Biology)</a>
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2025/5105_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">5107 Science (Chemistry, Biology)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -492,25 +492,25 @@ Mention (Physics)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www-seab-gov-sg-admin.cwp.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/6091_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">6091 Physics</a>
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/6091_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">6091 Physics</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www-seab-gov-sg-admin.cwp.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/6092_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">6092 Chemistry</a>
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/6092_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">6092 Chemistry</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www-seab-gov-sg-admin.cwp.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/6093_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">6093 Biology</a>
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/6093_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">6093 Biology</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/5086_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">5086 Science (Physics, Chemistry)</a>
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/5086_y25_sy035bebd3-91a5-4e56-ad07-c5869a19c5c3.pdf" rel="noopener noreferrer nofollow" target="_blank">5086 Science (Physics, Chemistry)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/5088_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">5088 Science (Chemistry, Biology)</a>
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/5086_y25_sy035bebd3-91a5-4e56-ad07-c5869a19c5c3.pdf" rel="noopener noreferrer nofollow" target="_blank">5088 Science (Chemistry, Biology)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
