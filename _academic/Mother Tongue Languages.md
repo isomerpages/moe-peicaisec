@@ -32,12 +32,11 @@ and collaborative learning.</p>
 teaching strategies, which are customised to student’s learning needs.</p>
 <p>Experiential Learning is integrated to allow students to make connections
 of the real-world context.</p>
-<p><u>Assessment Framework</u>
-</p>
+<h4><strong><u>Assessment Framework</u></strong></h4>
 <p>The use of a variety of assessment modes aims to allow for better instructional
 tool to promote students’ learning. Hence, assessment does not only serve
 as an evaluative tool. Some of the assessment modes include:</p>
-<ol start="3" data-tight="true" class="tight">
+<ol data-tight="true" class="tight">
 <li>
 <p>Self, peer and teacher assessment</p>
 </li>
@@ -48,12 +47,8 @@ as an evaluative tool. Some of the assessment modes include:</p>
 <p>Formative and Summative testing</p>
 </li>
 </ol>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>Programmes</strong>
-</p>
-<p><strong><u>Chinese Language and Culture</u></strong>
-</p>
+<h4><strong>Programmes</strong></h4>
+<h4><strong><u>Chinese Language and Culture</u></strong></h4>
 <p><strong>Chinese Language</strong>
 </p>
 <p>To achieve our Mother Tongue department mission, we embark on several
@@ -61,14 +56,12 @@ programmes to enhance our students’ language skills. These programmes aimed
 at enhancing the necessary language skills, i.e speaking, listening, reading
 and writing. Our key programmes include ‘Class Library Programme’ and the
 ‘MTL Intensive Programme for our Graduating Classes’.</p>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>Chinese Culture</strong>
 </p>
 <p>To inspire the students’ love for their culture, and to seize every opportunity
 to teach our students values, we organise the following activities for
 our students each year:</p>
-<p><u>Chinese New Year Concert</u>
+<p><strong>Chinese New Year Concert</strong>
 </p>
 <p>On the Chinese New Year celebration concert, students were engaged in
 a festive mood by the mere presence of the God of Fortune and the Dragon
@@ -95,7 +88,7 @@ Dance Troupe.</p>
 </tr>
 </tbody>
 </table>
-<p><u>MT Fortnight Cultural activities for our students</u>
+<p><strong>MT Fortnight Cultural activities for our students</strong>
 </p>
 <p>To expose our students to different cultural activities, we organize various
 activities for our students during the Mother Tongue fortnight, such as
@@ -124,7 +117,8 @@ Morning Assembly.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Secondary 1 students recreating ancient Chinese architects.</p>
+<p><strong>Secondary 1 students recreating ancient Chinese architects.</strong>
+</p>
 </td>
 </tr>
 </tbody>
@@ -151,7 +145,8 @@ Morning Assembly.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Secondary 2 students designing puppets and bamboo scrolls.</p>
+<p><strong>Secondary 2 students designing puppets and bamboo scrolls.</strong>
+</p>
 </td>
 </tr>
 </tbody>
@@ -178,14 +173,15 @@ Morning Assembly.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Secondary 3 students engaging in Tea Appreciation Workshop.</p>
+<p><strong>Secondary 3 students engaging in Tea Appreciation Workshop.</strong>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><u>Mid-Autumn Festival (September)</u>
+<h4><strong><u>Mid-Autumn Festival (September)</u></strong></h4>
+<p><strong>MTL Department collaboration with SWB</strong>
 </p>
-<p>MTL Department collaboration with SWB</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -222,7 +218,7 @@ Morning Assembly.</p>
 </tr>
 </tbody>
 </table>
-<p><strong><u>Exposure / Competition</u></strong>
+<p><strong>Exposure / Competition</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -246,10 +242,12 @@ Morning Assembly.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Students participating in the 50th National Schools Translation Competition.</p>
+<p><strong>Students participating in the 50th National Schools Translation Competition.</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Peicaians taking part in National Chinese Challenge.</p>
+<p><strong>Peicaians taking part in National Chinese Challenge.</strong>
+</p>
 </td>
 </tr>
 </tbody>
@@ -276,14 +274,13 @@ Morning Assembly.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>The 7th National Secondary Schools Chinese Mini-Fiction Creative Writing
-Competition winning entries by Wang Haiqi and Han Zi Qin Evelyn.</p>
+<p><strong>The 7th National Secondary Schools Chinese Mini-Fiction Creative Writing Competition winning entries by Wang Haiqi and Han Zi Qin Evelyn.</strong>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong><u>Malay Language and Culture</u></strong>
-</p>
+<h4><strong><u>Malay Language and Culture</u></strong></h4>
 <p><strong>Malay Language</strong>
 </p>
 <p>To achieve our Mother Tongue department mission, we embark on several
@@ -296,17 +293,9 @@ Classes’.</p>
 of the Malay language, we have also included enrichment activities to enhance
 our students’ knowledge about the Malay culture. These activities are as
 follows:</p>
-<p><u>MT Fortnight Cultural activities for our students</u>
+<p><strong>MT Fortnight Cultural activities for our students</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="304" width="241" alt="A child holding a toy
-
-Description automatically generated">
-</div>
-<p>The department has organized workshops such as Jawi Calligraphy, Malay
-Dance, Traditional Games and Acting (Opera Theatre, Bangsawan) for our
-students. These workshops are conducted to enhance students’ interest and
-appreciation of Malay culture.</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -315,21 +304,25 @@ appreciation of Malay culture.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/mt_2024_17.jpg">
 </div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/mt_2024_18.jpg">
 </div>
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<p>Secondary 1 students learning how to play Gasing.</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
-<p>Secondary 1 students learning how to play Gasing.</p>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -348,7 +341,16 @@ appreciation of Malay culture.</p>
 </div>
 </th>
 <td rowspan="1" colspan="1">
-<p>Secondary 2 students engaging in Malay dance.</p>
+<p><strong>Secondary 2 students engaging in Malay dance.</strong>
+</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -375,13 +377,13 @@ appreciation of Malay culture.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Secondary 3 students learning Jawi Calligraphy.</p>
+<p><strong>Secondary 3 students learning Jawi Calligraphy.</strong>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong><u>Hari Raya Celebration</u></strong>
-</p>
+<h4><strong><u>Hari Raya Celebration</u></strong></h4>
 <p>During the celebration, students and staff were presented with numerous
 segments of joyous get-together, such as Dikir Barat, Singing of Hari Raya
 songs, Malay Dance, MT Fortnight Sharing by Rakan Bahasa Ambassadors 2024
@@ -408,10 +410,12 @@ and Hari Raya Quiz.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Dikir Barat performance</p>
+<p><strong>Dikir Barat performance</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>‘Raya Raya Raya, Selamat Hari Raya!’</p>
+<p><strong>‘Raya Raya Raya, Selamat Hari Raya!’</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -430,15 +434,17 @@ and Hari Raya Quiz.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Malay Dance performance</p>
+<p><strong>Malay Dance performance</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Finale by performers and teachers</p>
+<p><strong>Finale by performers and teachers</strong>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong><u>External Exposure / Competition</u></strong>
+<p><strong>External Exposure / Competition</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -462,9 +468,8 @@ and Hari Raya Quiz.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Rakan Bahasa Ambassadors 2024, Mohamad Aqil Bin Mohamad Rosdin and Nurleen
-Danish Binte Nor Hamizan, are actively involved in school activities to
-promote the Malay language.</p>
+<p><strong>Rakan Bahasa Ambassadors 2024, Mohamad Aqil Bin Mohamad Rosdin and Nurleen Danish Binte Nor Hamizan, are actively involved in school activities to promote the Malay language.</strong>
+</p>
 </td>
 </tr>
 </tbody>
@@ -497,8 +502,8 @@ promote the Malay language.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Our Secondary 3 students immersing themselves in the rich tapestry of
-Malay culture @ Fiesta Kesantunan 2024.</p>
+<p><strong>Our Secondary 3 students immersing themselves in the rich tapestry of Malay culture @ Fiesta Kesantunan 2024.</strong>
+</p>
 </td>
 </tr>
 </tbody>
