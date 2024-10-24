@@ -332,7 +332,7 @@ Mention (Physics)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://www-seab-gov-sg-admin.cwp.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/6091_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">2024</a></strong>
+<p><strong><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/6091_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">2024</a></strong>
 </p>
 <p>Bronze</p>
 </td>
