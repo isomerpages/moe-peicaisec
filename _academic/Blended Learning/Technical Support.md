@@ -32,4 +32,4 @@ of the error message on your screen</p>
 set up of answers to 3-security challenge questions. Please follow the
 instructions found here to do so. If you are unable to perform the set-up
 or your MIMS account is locked, please contact your Form-teacher(s) or
-IT personnel at E3-02.</p>
+IT personnel at ICT Office Library (B3-02) .</p>
