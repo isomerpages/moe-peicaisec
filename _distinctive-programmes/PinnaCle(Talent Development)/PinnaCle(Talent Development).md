@@ -120,10 +120,8 @@ at post-secondary level.</p>
 </p>
 <p><em>Working in teams of four, the Primary 6 participants, under the mentorship of the PinnaCle Student Mentors, engaged in the challenge tasks within a set timeframe. As the culmination of the process, they then presented their deliverables to a panel of judges. The pupils put up a persuasive showcase to convince the judges of their innovative and viable solutions.</em>
 </p>
-<p><strong>PinnaCle@Peicai Programme</strong>
-</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Pinnacle_challenge.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Distinctive Programmes/pinnacle_24Oct2024.png">
 </div>
 <p>
 <br>
