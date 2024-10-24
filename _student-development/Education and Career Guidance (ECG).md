@@ -599,23 +599,23 @@ in school through their Form Teachers</p>
 <p><strong>ECG Resources</strong>
 </p>
 <p>ECG Overview:
-<br><a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/overview</a>
+<br><a href="www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/overview" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/overview</a>
 </p>
 <p>ECG Tips for Parents:
-<br><a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/-/media/files/programmes/ecg/ecg-tips-for-parents.ashx</a>
+<br><a href="www.moe.gov.sg/-/media/files/programmes/ecg/ecg-tips-for-parents.ashx" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/-/media/files/programmes/ecg/ecg-tips-for-parents.ashx</a>
 </p>
 <p>Post-secondary Options:
-<br><a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/post-secondary</a>
+<br><a href="www.moe.gov.sg/post-secondary" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/post-secondary</a>
 </p>
 <p>Post-Secondary Education Institutions:
-<br><a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/post-secondary/overview/</a>
+<br><a href="www.moe.gov.sg/post-secondary/overview/" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/post-secondary/overview/</a>
 </p>
 <p>Early Admissions Exercise (Polytechnics):
-<br><a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/post-secondary/admissions/poly-eae</a>
+<br><a href="www.moe.gov.sg/post-secondary/admissions/poly-eae" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/post-secondary/admissions/poly-eae</a>
 </p>
 <p>Polytechnic Foundation Programme:
-<br><a rel="noopener noreferrer nofollow" target="_blank">https://pfp.polytechnic.edu.sg/PFP/index.html</a>
+<br><a href="https://pfp.polytechnic.edu.sg/PFP/index.html" rel="noopener noreferrer nofollow" target="_blank">https://pfp.polytechnic.edu.sg/PFP/index.html</a>
 </p>
 <p>Joint Admissions Exercise :
-<br><a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/post-secondary/admissions/jae</a>
+<br><a href="www.moe.gov.sg/post-secondary/admissions/jae" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/post-secondary/admissions/jae</a>
 </p>
