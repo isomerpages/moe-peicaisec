@@ -18,9 +18,9 @@ variant: tiptap
 </p>
 <h4><strong>Secondary 4</strong></h4>
 <p><a href="/files/Booklist_2025_Peicai_Sec_4_Express.pdf" rel="noopener noreferrer nofollow" target="">Booklist 2025 Peicai Sec 4 Express</a>
-<br><a href="/files/Booklist_2025_Peicai_Sec_4_NA.pdf" rel="noopener noreferrer nofollow" target="">Booklist 2025 Peicai Sec 4 NA.pdf</a>
-<br><a href="/files/Booklist_2025_Peicai_Sec_4_NT.pdf" rel="noopener noreferrer nofollow" target="">Booklist 2025 Peicai Sec 4 NT.pdf</a>
+<br><a href="/files/Booklist_2025_Peicai_Sec_4_NA.pdf" rel="noopener noreferrer nofollow" target="">Booklist 2025 Peicai Sec 4 NA</a>
+<br><a href="/files/Booklist_2025_Peicai_Sec_4_NT.pdf" rel="noopener noreferrer nofollow" target="">Booklist 2025 Peicai Sec 4 NT</a>
 </p>
 <h4><strong>Secondary 5</strong></h4>
-<p><a href="/files/Booklist_2025_Peicai_Sec_5_NA.pdf" rel="noopener noreferrer nofollow" target="">Booklist 2025 Peicai Sec 5 NA.pdf</a>
+<p><a href="/files/Booklist_2025_Peicai_Sec_5_NA.pdf" rel="noopener noreferrer nofollow" target="">Booklist 2025 Peicai Sec 5 NA</a>
 </p>
