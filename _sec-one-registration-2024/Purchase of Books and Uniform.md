@@ -33,7 +33,7 @@ Scheme (MOE FAS) 2024 should refer to Table (C).</p>
 </p>
 <p>BL Marketing Pte Ltd</p>
 <p>Tel: 62848785</p>
-<p>Email: &nbsp;<a rel="noopener noreferrer nofollow" target="_blank">sales@blmarketing.sg</a>
+<p>Email: &nbsp;<a href="mailto:sales@blmarketing.sg" rel="noopener noreferrer nofollow" target="_blank">sales@blmarketing.sg</a>
 </p>
 <p>Operational from Monday – Friday, 9.00am to 3.00pm.</p>
 <p>Closed on Saturday, Sunday and Public Holidays.</p>
