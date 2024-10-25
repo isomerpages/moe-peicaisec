@@ -281,7 +281,7 @@ options and career paths in the field of science.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/5148_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">2021</a></strong>
+<p><strong>2021</strong>
 </p>
 <p>1 Silver (Chemistry)</p>
 </td>
@@ -380,7 +380,7 @@ Mention (Physics)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://www-seab-gov-sg-admin.cwp.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/6091_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">2024</a></strong>
+<p><strong>2024</strong>
 </p>
 <p>Bronze</p>
 </td>
@@ -468,15 +468,15 @@ Mention (Physics)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.moe.gov.sg/-/media/files/secondary/syllabuses-nt/science/2021-science-syllabus-lower-secondary-nt.pdf" rel="noopener noreferrer nofollow" target="_blank">Normal (Technical) / G1 Science</a>
+<p><a href="https://www.moe.gov.sg/-/media/files/secondary/fsbb/syllabus/2021-g1-lower-secondary-science-syllabus-updated-apr-2024.pdf" rel="noopener noreferrer nofollow" target="_blank">G1 Science</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.moe.gov.sg/-/media/files/secondary/fsbb/syllabus/2021-g2g3-lower-secondary-science-syllabus-updated-apr-2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Normal (Academic) / G2 Science</a>
+<p><a href="https://www.moe.gov.sg/-/media/files/secondary/fsbb/syllabus/2021-g2g3-lower-secondary-science-syllabus-updated-apr-2024.pdf" rel="noopener noreferrer nofollow" target="_blank">G2 Science</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.moe.gov.sg/-/media/files/secondary/fsbb/syllabus/2021-g2g3-lower-secondary-science-syllabus-updated-apr-2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Express / G3 Science</a>
+<p><a href="https://www.moe.gov.sg/-/media/files/secondary/fsbb/syllabus/2021-g2g3-lower-secondary-science-syllabus-updated-apr-2024.pdf" rel="noopener noreferrer nofollow" target="_blank">G3 Science</a>
 </p>
 </td>
 </tr>
