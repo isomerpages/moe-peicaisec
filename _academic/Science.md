@@ -4,7 +4,7 @@ permalink: /academic/science/
 description: ""
 variant: tiptap
 ---
-<h4><strong>SCIENCE Department</strong></h4>
+<h4><strong>Science Department</strong></h4>
 <h4><strong>Learning Outcomes</strong></h4>
 <p>In Peicai, our students learn to:</p>
 <table style="minWidth: 75px">
@@ -127,8 +127,10 @@ where they explored sustainable initiatives aimed at transforming Singapore
 into a more energy-efficient and eco-friendly city.</p>
 <p><u>Enrich &amp; Experience: to provide opportunities for further exploration of scientific concepts for selected students, through competitions and attachment programmes to external bodies</u>
 </p>
-<table style="minWidth: 25px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
+<col>
 <col>
 </colgroup>
 <tbody>
@@ -136,17 +138,52 @@ into a more energy-efficient and eco-friendly city.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/science_2024_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/science_2024v2_1.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/science_2024v2_2.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/science_2024v2_3.jpg">
 </div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/science_2024v2_4.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/science_2024v2_5.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
 <p><em>Sec 3 Learning Journey to Post-Secondary Institutions (Polytechnics) and Industrial Partners</em>
 </p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -332,7 +369,7 @@ Mention (Physics)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/6091_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">2024</a></strong>
+<p><strong><a href="https://www-seab-gov-sg-admin.cwp.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/6091_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">2024</a></strong>
 </p>
 <p>Bronze</p>
 </td>
