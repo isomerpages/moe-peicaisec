@@ -4,7 +4,7 @@ permalink: /student-services/booklist/
 description: ""
 variant: tiptap
 ---
-<h4><strong><u>Sale of School Books and Uniform (For School Year 2024)</u></strong></h4>
+<h4><strong><u>Sale of School Books and Uniform (For School Year 2025)</u></strong></h4>
 <h4><strong>Secondary 1</strong></h4>
 <p><a href="/files/Booklist_2025_Peicai_Sec_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Booklist 2025 Peicai Sec 1</u></a>
 </p>
