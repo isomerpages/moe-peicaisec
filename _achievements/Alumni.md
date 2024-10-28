@@ -185,7 +185,7 @@ best graduate of NAFA 2021</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/al5.png">
+<img style="width: 90%;" height="auto" width="100%" src="/images/al5.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -199,9 +199,9 @@ College&nbsp;East
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p></p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="image 01" src="/images/Student Services/white_bg.jpg">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" src="/images/al7.png">
 </div>
