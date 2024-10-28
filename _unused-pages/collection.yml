@@ -2,6 +2,7 @@ collections:
   unused-pages:
     output: true
     order:
+      - Students.md
       - Subject overview.md
       - Assessment an promotion.md
       - Secondary One Key Personnel and Form Teachers.md
