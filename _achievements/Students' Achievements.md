@@ -634,10 +634,4 @@ variant: tiptap
 </div>
 </details>
 </div>
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
-<p></p>
 <p></p>
