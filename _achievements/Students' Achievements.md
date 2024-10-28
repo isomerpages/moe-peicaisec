@@ -578,22 +578,11 @@ achievements and dedication to their respective CCAs and the school.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Peicai Colours Award (Performing Arts)</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" src="/images/sba3.png">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -608,14 +597,6 @@ achievements and dedication to their respective CCAs and the school.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Peicai Colours Award (Uniformed Groups)</strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -625,27 +606,19 @@ achievements and dedication to their respective CCAs and the school.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Peicai Colours Award (Leadership)</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" src="/images/sba6.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" src="/images/sba7.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -653,10 +626,44 @@ achievements and dedication to their respective CCAs and the school.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" src="/images/sba8.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" src="/images/sba9.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" src="/images/sba10.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" src="/images/sba11.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" src="/images/sba12.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" src="/images/sba13.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -675,9 +682,6 @@ achievements and dedication to their respective CCAs and the school.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
-<p></p>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
