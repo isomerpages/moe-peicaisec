@@ -388,6 +388,271 @@ achievements and dedication to their respective CCAs and the school.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" src="/images/School_Based_Award_1.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h4><strong><u>Semester Two 2022</u></strong></h4>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/sba.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PCSS Outstanding Junior Contributor of the Year</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jamie Rais Sahfiee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2C4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aeromodelling Club</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PCSS Outstanding Junior Leader of the Year</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Farisha Syakira Binti Shahdaly</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2C3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Student Council</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PCSS Outstanding Junior Female Performer of the Year</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Darriel Chan En</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2C4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Modern Dance</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PCSS Outstanding Junior Male Performer of the Year</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kelson Tan Kai Heng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2C1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Concert Band</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PCSS Outstanding Junior Female Cadet of the Year</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sharel Chew</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2C4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Girl Guides</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PCSS Outstanding Junior Male Cadet of the Year</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sidney Gabriel Morais</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2C4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NCC(Sea)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PCSS Junior Sports Girl of the Year</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Isabella Chin Shi Rui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2C3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Softball</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PCSS Junior Sports Boy of the Year</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Leong Le Xin Benjamin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2C1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Softball</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong><u>Semester Two 2021</u></strong></h4>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" src="/images/sba1.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Peicai Colours Award (Clubs and Societies)</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" src="/images/sba2.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Peicai Colours Award (Performing Arts)</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" src="/images/sba3.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Peicai Colours Award (Sports)</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" src="/images/sba4.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Peicai Colours Award (Uniformed Groups)</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" src="/images/sba5.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -410,6 +675,9 @@ achievements and dedication to their respective CCAs and the school.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
