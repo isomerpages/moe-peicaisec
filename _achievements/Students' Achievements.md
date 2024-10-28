@@ -6,7 +6,12 @@ variant: tiptap
 ---
 <p><strong><u>Year 2024</u></strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -25,6 +30,43 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pcss Sports boy Achievements" src="/images/Achievements/PCSS_Achievements__6_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="PCSS Achievements 1" src="/images/Achievements/PCSS_Achievements__4_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pcss Achievements 3" src="/images/Achievements/PCSS_Achievements__5_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pcss Achievements 4" src="/images/Achievements/PCSS_Achievements__3_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pcss Achievements 5" src="/images/Achievements/PCSS_Achievements__2_.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -38,7 +80,10 @@ variant: tiptap
 <p></p>
 <p><strong><u>Year 2023</u></strong>
 </p>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -53,7 +98,10 @@ variant: tiptap
 </tbody>
 </table>
 <hr>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -68,7 +116,10 @@ variant: tiptap
 </tbody>
 </table>
 <hr>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -83,7 +134,10 @@ variant: tiptap
 </tbody>
 </table>
 <hr>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
