@@ -13,7 +13,7 @@ variant: tiptap
 </p>
 <h4><strong>Secondary 3</strong></h4>
 <p><a href="/files/Booklist_2025_Peicai_Sec_3_Express.pdf" rel="noopener noreferrer nofollow" target="">Booklist 2025 Peicai Sec 3 Express</a>
-<br><a href="/files/Booklist_2025_Peicai_Sec_3_NA.pdf" rel="noopener noreferrer nofollow" target="">Booklist 2025 Peicai Sec 3 NA</a>
+<br><a href="/files/Booklist_2025_Peicai_Sec_3_NA_v1.pdf" rel="noopener noreferrer nofollow" target="">Booklist 2025 Peicai Sec 3 NA</a>
 <br><a href="/files/Booklist_2025_Peicai_Sec_3_NT.pdf" rel="noopener noreferrer nofollow" target="">Booklist 2025 Peicai Sec 3 NT</a>
 </p>
 <h4><strong>Secondary 4</strong></h4>
