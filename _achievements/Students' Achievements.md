@@ -6,6 +6,30 @@ variant: tiptap
 ---
 <p><strong><u>Year 2024</u></strong>
 </p>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Softball cca" src="/images/Achievements/Softball_CCA.jpg">
+</div>
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+</tbody>
+</table>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -16,9 +40,6 @@ variant: tiptap
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Softball cca" src="/images/Achievements/Softball_CCA.jpg">
-</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
