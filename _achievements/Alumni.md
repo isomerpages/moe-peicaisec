@@ -187,8 +187,7 @@ best graduate of NAFA 2021</p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" src="/images/al5.png">
 </div>
-</td>
-<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" src="/images/al6.png">
 </div>
@@ -196,9 +195,17 @@ best graduate of NAFA 2021</p>
 <br>Course:&nbsp;<em>Nitec</em>&nbsp;In&nbsp;Mechanical&nbsp;Technology,&nbsp;ITE
 College&nbsp;East
 <br>Awards: Course Medal and Tay Eng Soon Gold Medal Award</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" src="/images/al7.png">
 </div>
+<p></p>
 <p><strong><u>ITE College Central 2021<br></u></strong>Name : Tam&nbsp;Wei&nbsp;Xuan
 <br>Course : <em>Higher&nbsp;Nitec</em>&nbsp;In Visual&nbsp;Merchandising,&nbsp;ITE&nbsp;College&nbsp;Central
 <br>Award : Course Medal</p>
