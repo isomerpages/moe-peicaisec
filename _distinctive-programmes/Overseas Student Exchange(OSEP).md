@@ -77,8 +77,7 @@ with Brunei Schools, Peicai Secondary School partnered with ….</p>
 </table>
 <p></p>
 <h4><strong>Overseas Student Exchange Programme to Taiwan</strong></h4>
-<p><strong>2023</strong>
-</p>
+<h3><strong>2023</strong></h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -213,6 +212,39 @@ with Brunei Schools, Peicai Secondary School partnered with ….</p>
 <p>
 <br>
 </p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Upcoming in Nov 2024</strong> <strong>Overseas Student Exchange Programme to Hong Kong!</strong></h4>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
