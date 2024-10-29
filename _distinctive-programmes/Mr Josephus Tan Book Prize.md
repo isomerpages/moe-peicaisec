@@ -36,6 +36,68 @@ description: ""
 <div class="iframe-wrapper">
 <iframe height="522" width="929" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/2a3G_gHxSs0?si=7sbSwZEELQTKdHiF"></iframe>
 </div>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>2024</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Josephus tan award 2024 (2)" src="/images/Distinctive Programmes/Josephus_tan_award_2024__2_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Josephus tan award 2024 (1)" src="/images/Distinctive Programmes/Josephus_tan_award_2024__3_.jpg">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Josephus tan award 2024 (3)" src="/images/Distinctive Programmes/Josephus_tan_award_2024__1_.jpg">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -45,7 +107,7 @@ description: ""
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Distinctive Programmes/mrjt_bkprz_2024_1.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Distinctive Programmes/mrjt_bkprz_2024_1.jpg">
 </div>
 </th>
 </tr>
