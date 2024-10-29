@@ -15,6 +15,9 @@ variant: tiptap
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Principals List sec 1,2,3" src="/images/Achievements/Principals_List_sec_1_2_3.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -25,6 +28,69 @@ variant: tiptap
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Principal List 2024 B" src="/images/Achievements/Principal_List_2024_B.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Principal's Class of the Year 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Principals' Class of the Year 2024" src="/images/Achievements/Principals_Class_of_the_Year_2024.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Principals Class of the Year 1" src="/images/Achievements/Principals_Class_of_the_Year__1_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Principals Class of the Year 3" src="/images/Achievements/Principals_Class_of_the_Year__3_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Principals Class of the Year 4" src="/images/Achievements/Principals_Class_of_the_Year__4_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Principals Class of the Year 5" src="/images/Achievements/Principals_Class_of_the_Year__5_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">

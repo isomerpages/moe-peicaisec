@@ -2,77 +2,236 @@
 title: CCAs
 permalink: /cca/ccas/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h4><strong>CCA Briefing for Secondary 1</strong></h4>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tEgW1DvihZg" title="CCA Briefing 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/tEgW1DvihZg"></iframe>
+</div>
 <h4><strong>Sports &amp; Games</strong></h4>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td style="width: 33.3333%;"><a href="/cca/ccas/sports/basketball-boys"><img style="width: 100%;" src="/images/cca1.jpg"></a></td>
-<td style="width: 33.3333%;"><a href="/cca/ccas/sports/softball-boys-n-girls"><img style="width: 100%;" src="/images/cca2.jpg"></a></td>
-<td style="width: 33.3333%;"><a href="/cca/ccas/sports/volleyball/boys-n-girls"><img style="width: 85%;" src="/images/cca13.jpg"></a></td>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Basket ball" src="/images/CCA/Basket_Ball_boys_copy.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Softball" src="/images/CCA/Softball_Boys_and_Girls_copy.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Volley ball" src="/images/CCA/Volleyball_Boys___Girls_copy.jpg">
+</div>
+</th>
 </tr>
 <tr>
-<td style="width: 33.3333%;"><p style="text-align: center;">Basketball Boys</p></td>
-<td style="width: 33.3333%;"><p style="text-align: center;">Softball Boys &amp; Girls</p></td>
-<td style="width: 33.3333%;"><p style="text-align: center;">Volleyball Boys &amp; Girls</p></td>
+<td rowspan="1" colspan="1">
+<p>Basketball Boys</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Softball Boys &amp; Girls</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Volleyball Boys &amp; Girls</p>
+</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;"><a href="/cca/ccas/sports/floorball-boys-n-girls"><img style="width: 100%;" src="/images/cca14.png"></a></td>
-<td style="width: 33.3333%;"><a href="/cca/ccas/sports/badminton-boys-n-girls-new"><img style="width: 85%;" src="/images/cca15.jpg"></a></td>
-<td style="width: 33.3333%;"><a href="/cca/sports/soccer-interest-group"><img style="width: 100%;" src="/images/Soccer_interest_2.jpg"></a></td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="floorball" src="/images/CCA/Floorball_copy.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Badminton" src="/images/CCA/Badminton_copy.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Soccor" src="/images/CCA/Soccor_copy.jpg">
+</div>
+</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;"><p style="text-align: center;">Floorball Boys and Girls</p></td>
-<td style="width: 33.3333%;"><p style="text-align: center;">Badminton Boys and Girls (NEW!)</p></td>
-<td style="width: 33.3333%;"><p style="text-align: center;">Soccer (Interest Group)</p></td>
+<td rowspan="1" colspan="1">
+<p>Floorball Boys and Girls</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Badminton Boys and Girls (NEW!)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Soccer (Interest Group)</p>
+</td>
 </tr>
 </tbody>
 </table>
 <h4><strong>Uniformed Groups</strong></h4>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td style="width: 33.3333%;"><a href="/co-curricular-activities/ccas/uniformed-groups/npcc"><img style="width: 100%;" src="/images/cca4.jpg"></a></td>
-<td style="width: 33.3333%;"><a href="/cca/ccas/uniformed-groups/ncc-sea"><img style="width: 100%;" src="/images/cca5.jpg"></a></td>
-<td style="width: 33.3333%;"><a href="/co-curricular-activities/ccas/uniformed-groups/girl-guides"><img style="width: 100%;" src="/images/cca6.jpg"></a></td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" src="/images/cca4.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" src="/images/cca5.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" src="/images/cca6.jpg">
+</div>
+</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;"><p style="text-align: center;">NPCC</p></td>
-<td style="width: 33.3333%;"><p style="text-align: center;">NCC (Sea)</p></td>
-<td style="width: 33.3333%;"><p style="text-align: center;">Girl Guides</p></td>
+<td rowspan="1" colspan="1">
+<p>NPCC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NCC (Sea)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Girl Guides</p>
+</td>
 </tr>
 </tbody>
 </table>
 <h4><strong>Performing Arts</strong></h4>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td style="width: 33.3333%;"><a href="/cca/ccas/performing-arts/concert-band"><img style="width: 100%;" src="/images/cca7.jpg"></a></td>
-<td style="width: 33.3333%;"><a href="/cca/ccas/performing-arts/modern-dance"><img style="width: 100%;" src="/images/cca8.jpg"></a></td>
-<td style="width: 33.3333%;"><a href="/cca/ccas/performing-arts/drama-club"><img style="width: 100%;" src="/images/cca9.jpg"></a></td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" src="/images/cca7.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" src="/images/cca8.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" src="/images/cca9.jpg">
+</div>
+</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;"><p style="text-align: center;">Concert Band</p></td>
-<td style="width: 33.3333%;"><p style="text-align: center;">Modern Dance</p></td>
-<td style="width: 33.3333%;"><p style="text-align: center;">Drama Club</p></td>
+<td rowspan="1" colspan="1">
+<p>Concert Band</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Modern Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Drama Club</p>
+</td>
 </tr>
 </tbody>
 </table>
 <h4><strong>Clubs &amp; Societies</strong></h4>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td style="width: 33.3333%;"><a href="/cca/ccas/clubs-n-societies/aero-modelling-club"><img style="width: 100%;" src="/images/cca10.jpg"></a></td>
-<td style="width: 33.3333%;"><a href="/cca/ccas/clubs-n-societies/art-club"><img style="width: 100%;" src="/images/cca11.jpg"></a></td>
-<td style="width: 33.3333%;"><a href="/cca/ccas/clubs-n-societies/infocomm-club"><img style="width: 100%;" src="/images/cca12.jpg"></a></td>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="Aero" src="/images/CCA/Aero_copy.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ART" src="/images/CCA/Art_club_copy.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="infocomm" src="/images/CCA/infocomm_copy.jpg">
+</div>
+</th>
 </tr>
 <tr>
-<td style="width: 33.3333%;"><p style="text-align: center;">Aero-Modelling Club</p></td>
-<td style="width: 33.3333%;"><p style="text-align: center;">Art Club</p></td>
-<td style="width: 33.3333%;"><p style="text-align: center;">Infocomm Club</p></td>
+<td rowspan="1" colspan="1">
+<p>Aero-Modelling Club</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Art Club</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Infocomm Club</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="Debate society copy" src="/images/CCA/Debate_society_copy.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Debate Society (new CCA to be introduced in 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 </tbody>
 </table>
+<p></p>
