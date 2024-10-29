@@ -30,11 +30,9 @@ variant: tiptap
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/OSEP_Open_House_Poster_2023v1.jpg">
+<img style="width: 70%;" height="auto" width="100%" src="/images/OSEP_Open_House_Poster_2023v1.jpg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 </th>
 </tr>
 </tbody>
