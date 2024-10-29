@@ -169,7 +169,7 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Aero" src="/images/CCA/Aero_copy.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="Aero" src="/images/CCA/Aero_copy.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
