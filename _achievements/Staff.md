@@ -481,12 +481,12 @@ for students and colleagues. Congrats to these well deserved awardees!</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/stf16.jpeg">
+<img style="width: 60%;" height="auto" width="100%" src="/images/stf16.jpeg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/stf17.jpeg">
+<img style="width: 60%;" height="auto" width="100%" src="/images/stf17.jpeg">
 </div>
 </td>
 </tr>
