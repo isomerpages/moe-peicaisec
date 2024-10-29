@@ -96,6 +96,45 @@ description: ""
 <p></p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Josephus tan award 2024 (4)" src="/images/Distinctive Programmes/Josephus_tan_award_2024__4_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Josephus tan award 2024 (5)" src="/images/Distinctive Programmes/Josephus_tan_award_2024__5_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <table style="minWidth: 25px">
