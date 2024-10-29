@@ -201,17 +201,13 @@ with Brunei Schools, Peicai Secondary School partnered with ….</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" src="/images/pcss 2023 overseas student exchange and local work attachment programme 2023 07.JPG">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 </th>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" src="/images/pcss 2023 overseas student exchange and local work attachment programme 2023 08.JPG">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -228,6 +224,9 @@ with Brunei Schools, Peicai Secondary School partnered with ….</p>
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Upcoming in Nov 2024 Overseas Student Exchange Programme to Hong Kong" src="/images/Distinctive Programmes/Upcoming_in_Nov_2024_Overseas_Student_Exchange_Programme_to_Hong_Kong.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
