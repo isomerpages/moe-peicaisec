@@ -17,21 +17,24 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/cca1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Basket ball" src="/images/CCA/Basket_Ball_boys_copy.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/cca2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Softball" src="/images/CCA/Softball_Boys_and_Girls_copy.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 85%;" height="auto" width="100%" src="/images/cca13.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Volley ball" src="/images/CCA/Volleyball_Boys___Girls_copy.jpg">
 </div>
-</td>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -46,18 +49,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/cca14.png">
+<img style="width: 100%" height="auto" width="100%" alt="floorball" src="/images/CCA/Floorball_copy.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 85%;" height="auto" width="100%" src="/images/cca15.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Badminton" src="/images/CCA/Badminton_copy.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/Soccer_interest_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Soccor" src="/images/CCA/Soccor_copy.jpg">
 </div>
 </td>
 </tr>
