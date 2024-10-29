@@ -34,7 +34,7 @@ description: ""
 </tbody>
 </table>
 <div class="iframe-wrapper">
-<iframe height="522" width="780" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/2a3G_gHxSs0?si=7sbSwZEELQTKdHiF"></iframe>
+<iframe height="522" width="720" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/2a3G_gHxSs0?si=7sbSwZEELQTKdHiF"></iframe>
 </div>
 <table style="minWidth: 75px">
 <colgroup>
