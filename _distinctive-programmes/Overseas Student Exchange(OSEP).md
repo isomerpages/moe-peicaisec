@@ -4,9 +4,24 @@ permalink: /distinctive-edge/osep-overseas-student-exchange/
 description: ""
 variant: tiptap
 ---
+<h4><strong>Overseas Student Exchange Programme to Japan</strong></h4>
+<h3><strong>2024</strong></h3>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
-<h4><strong>PCSS 2023 Overseas Student Exchange</strong></h4>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Distinctive Programmes/oesp_2024_1.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<h3><strong>2023</strong></h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -24,6 +39,46 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<h4><strong>Overseas Student Exchange Programme to Thailand</strong></h4>
+<h3><strong>2024</strong></h3>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Distinctive Programmes/oesp_2024_3.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<h4><strong>Overseas Student Exchange Programme to Brunei</strong></h4>
+<p>Under the Government to Government (G-to-G) School Twinning Programme
+with Brunei Schools, Peicai Secondary School partnered with ….</p>
+<h3><strong>2024</strong></h3>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Distinctive Programmes/oesp_2024_2.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
+<h4><strong>Overseas Student Exchange Programme to Taiwan</strong></h4>
+<p><strong>2023</strong>
+</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -159,51 +214,6 @@ variant: tiptap
 <br>
 </p>
 </td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Distinctive Programmes/oesp_2024_1.jpg">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Distinctive Programmes/oesp_2024_2.jpg">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Distinctive Programmes/oesp_2024_3.jpg">
-</div>
-</th>
 </tr>
 </tbody>
 </table>
