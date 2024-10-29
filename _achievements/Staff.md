@@ -131,12 +131,6 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -165,10 +159,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <h4>2023</h4>
 <table style="minWidth: 25px">
 <colgroup>
