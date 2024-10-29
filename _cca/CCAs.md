@@ -157,6 +157,7 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>Clubs &amp; Societies</strong></h4>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -165,21 +166,24 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/cca10.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Aero" src="/images/CCA/Aero_copy.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/cca11.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="ART" src="/images/CCA/Art_club_copy.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/cca12.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="infocomm" src="/images/CCA/infocomm_copy.jpg">
 </div>
-</td>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -196,7 +200,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Debating new CCA" src="/images/CCA/Debating_new_CCA.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Debate society copy" src="/images/CCA/Debate_society_copy.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -208,7 +212,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Debate Society (new CCA to be introduced in 2025)</p>
+<p>Debate Society (new CCA to be introduced in 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
