@@ -181,7 +181,7 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="infocomm" src="/images/CCA/infocomm_copy.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="infocomm" src="/images/CCA/infocomm_copy.jpg">
 </div>
 </th>
 </tr>
@@ -200,7 +200,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Debate society copy" src="/images/CCA/Debate_society_copy.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="Debate society copy" src="/images/CCA/Debate_society_copy.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
