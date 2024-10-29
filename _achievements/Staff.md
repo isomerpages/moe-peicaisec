@@ -223,12 +223,17 @@ variant: tiptap
 .JPG">
 </div>
 <hr>
-<h4><strong><u>2022</u></strong></h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>2022</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><strong><u>National Day Awards</u></strong>
 </p>
 <p>The Singapore National Day Awards are a means of recognising various forms
 of merit and service to Singapore. Congratulations to the following staff
 on their awards!</p>
+<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -293,10 +298,12 @@ on their awards!</p>
 </table>
 <p><strong><u>NIE Caring Teacher Awards</u></strong>
 </p>
+<p></p>
 <p>The Caring Teacher Awards (CTA) aims to acknowledge teachers in our schools
 who go beyond the call of duty, nurturing the holistic development of their
 students and ensuring their charges grow up to be confident, independent
 and resilient learners for our nation.</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -333,6 +340,7 @@ nurture the holistic development of their students in the teaching, development
 and promotion of the CCA and instilling the love for the CCA in their students.
 These teachers have demonstrated exemplary conduct and carry out professional
 duties and responsibilities to value-add to the CCA progress of their students.</p>
+<p></p>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -505,6 +513,7 @@ for students and colleagues. Congrats to these well deserved awardees!</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p><strong><u>MOE Service Excellence Awards</u></strong>
 </p>
 <p>The MOE Service Excellence Award (MSEA) recognises MOE staff who are passionate
@@ -601,6 +610,7 @@ to do likewise.
 </tr>
 </tbody>
 </table>
+<p></p>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -662,7 +672,14 @@ to do likewise.
 </tr>
 </tbody>
 </table>
-<h4><strong><u>2021</u></strong></h4>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>2021</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><strong><u>National Day Awards</u></strong>
 </p>
 <p>The Singapore National Day Awards are a means of recognising various forms
@@ -730,6 +747,7 @@ on their awards!</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p><strong><u>MOE Service Excellence Awards</u></strong>
 </p>
 <p>The MOE Service Excellence Award (MSEA) recognises MOE staff who are passionate
@@ -900,7 +918,14 @@ to do likewise.
 </tr>
 </tbody>
 </table>
-<h4><strong><u>2020</u></strong></h4>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>2020</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><strong><u>National Day Awards</u></strong>
 </p>
 <p>The Singapore National Day Awards are a means of recognising various forms
@@ -933,12 +958,14 @@ on their awards!</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p><strong><u>NIE Caring Teacher Awards</u></strong>
 </p>
 <p>The Caring Teacher Awards (CTA) aims to acknowledge teachers in our schools
 who go beyond the call of duty, nurturing the holistic development of their
 students and ensuring their charges grow up to be confident, independent
 and resilient learners for our nation.</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -968,4 +995,7 @@ and resilient learners for our nation.</p>
 </tr>
 </tbody>
 </table>
+</div>
+</details>
+</div>
 <p></p>
