@@ -159,7 +159,6 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p></p>
 <h4>National Day Celebration 2024</h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -188,7 +187,6 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p></p>
 <h4>Racial Harmony Day Celebrations 2024</h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -217,7 +215,6 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p></p>
 <h4>40<sup>th </sup>Anniversary Celebration</h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -285,14 +282,6 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <h4>Hari Raya 2024</h4>
 <table style="minWidth: 75px">
 <colgroup>
