@@ -185,24 +185,6 @@ variant: tiptap
 <p>Under the Government to Government (G-to-G) School Twinning Programme
 with Brunei Schools, Peicai Secondary School partnered with ….</p>
 <h3><strong>2024</strong></h3>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Distinctive Programmes/oesp_2024_2.jpg">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
-<p></p>
-<h4><strong>Overseas Student Exchange Programme to Taiwan</strong></h4>
-<h3><strong>2023</strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -220,6 +202,69 @@ with Brunei Schools, Peicai Secondary School partnered with ….</p>
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Distinctive Programmes/oesp_2024_2.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Overseas Student Exchange Programme to Taiwan</strong></h4>
+<h3><strong>2023</strong></h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Overseas Student Exchange Programme to Taiwan (1)" src="/images/Distinctive Programmes/Overseas_Student_Exchange_Programme_to_Taiwan__2_.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Overseas Student Exchange Programme to Taiwan (2)" src="/images/Distinctive Programmes/Overseas_Student_Exchange_Programme_to_Taiwan__1_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
