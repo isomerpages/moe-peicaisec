@@ -212,7 +212,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Debate Society (new CCA to be introduced in 2025</p>
+<p>Debate Society (new CCA to be introduced in 2025)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
