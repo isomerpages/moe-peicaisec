@@ -179,7 +179,7 @@ in helping others around him.</p>
 </p>
 <p><u>Senior and Junior Category</u>
 </p>
-<p>&nbsp;English - Senior- FAIQAH HUTAMI NASTITI BINTE RIDZWAN -3C1</p>
+<p>&nbsp;</p>
 <p></p>
 <p>&nbsp;</p>
 </td>
