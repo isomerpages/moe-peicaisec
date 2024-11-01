@@ -276,13 +276,41 @@ in helping others around him.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Junior</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>LEE JIA WEN DILYS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2CN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sports</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PASCUAL JAEDON DAVID PASTOR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3B1</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Junior</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>RAYYAN MIKA BIN ROHAIDI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2CN</p>
 </td>
 </tr>
 </tbody>
