@@ -154,7 +154,6 @@ in helping others around him.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -315,8 +314,6 @@ in helping others around him.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -419,8 +416,6 @@ area of&nbsp;<strong>science and technology that betters the lives of people liv
 </tr>
 </tbody>
 </table>
-<p></p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -483,10 +478,8 @@ a certain level of achievement at the above-mentioned platforms</p>
 <p>Student athlete that has contributed significantly to the sports teams
 or attained significant achievements in the field of the sport for various
 competitions and has served as an inspiration to the team.</p>
-<p>&nbsp;</p>
-<p><strong><u>Junior</u></strong>
+<p>&nbsp;<strong><u>Junior</u></strong>
 </p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -522,10 +515,8 @@ competitions and has served as an inspiration to the team.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p><strong><u>Senior</u></strong>
 </p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -561,7 +552,6 @@ competitions and has served as an inspiration to the team.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -653,7 +643,6 @@ CCA and has served as an inspiration to the team.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -696,7 +685,6 @@ in external events or competitions.</p>
 </table>
 <p><strong><u>Senior</u></strong>
 </p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -718,7 +706,6 @@ in external events or competitions.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -778,7 +765,6 @@ the unit in Inter-Unit representations.</p>
 </table>
 <p><strong><u>Senior</u></strong>
 </p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -814,7 +800,6 @@ the unit in Inter-Unit representations.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 </td>
 </tr>
 <tr>
