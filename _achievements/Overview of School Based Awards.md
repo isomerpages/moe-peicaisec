@@ -486,9 +486,43 @@ competitions and has served as an inspiration to the team.</p>
 <p>&nbsp;</p>
 <p><u>Junior</u>
 </p>
-<p>SULAKSHA PUN – 2 RESILIENCE [SOFTBALL GIRLS]</p>
-<p>LING ZHI FENG, BENSON – 2 RESILIENCE [VOLLEYBALL BOYS]</p>
-<p>&nbsp;</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p>SOFTBALL GIRLS</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SULAKSHA PUN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 RESILIENCE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>VOLLEYBALL BOYS</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LING ZHI FENG, BENSON</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 RESILIENCE</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p><u>Senior</u>
 </p>
 <p>ISABELLA CHIN SHI RUI – 4C4 [SOFTBALL GIRLS]</p>
