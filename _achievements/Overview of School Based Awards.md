@@ -259,16 +259,16 @@ in helping others around him.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Senior</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>ZENITH SAK SONG ZHE (XUE SONGZHE)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>3C1</p>
 </td>
 </tr>
 <tr>
