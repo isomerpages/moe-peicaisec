@@ -16,9 +16,30 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Post Exam Activities for Sec 1</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Post exam Activity 02 (1)" src="/images/Aboutus/Post_exam_Activity_02__1_.png">
+</div>
+<p>Post Exam Activities for Sec 2</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Post exam Activity 03 (1)" src="/images/Aboutus/Post_exam_Activity_02__2_.png">
+</div>
+<p></p>
+<p>Post Exam Activities for Sec 3</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Post Exam Programmes 2024" src="/images/Aboutus/Post_Exams_Programmes_2024.png">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
