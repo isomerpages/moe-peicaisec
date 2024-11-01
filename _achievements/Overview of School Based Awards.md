@@ -229,6 +229,20 @@ in helping others around him.</p>
 <p>2CN</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PRATHEEPAN POORNI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3C4</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
