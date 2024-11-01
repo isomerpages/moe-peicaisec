@@ -90,8 +90,12 @@ their academic results and demonstrated exemplary conduct.</p>
 loss of kin), but able to rise through adversities and excel in academics
 and CCA. Student must also display strength in character and compassion
 in helping others around him.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p>&nbsp;NUR ASYURA ALESHA BINTE MUHAMMAD AZHAR-1EE</p>
+<p>LEE MING FA - 2IN</p>
+<p>NADIA SOH -2EE</p>
+<p>ESTHER TONG QIAN QI - 3B3</p>
+<p>MOHAMAD AQIL BIN MOHAMAD ROSDIN - 3C2</p>
+<p>NICHOLAS TSHING TAN - 3C3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
