@@ -580,15 +580,82 @@ competitions and has served as an inspiration to the team.</p>
 Arts (PA) CCA or attained significant achievements in the respective PA
 CCA and has served as an inspiration to the team.</p>
 <p>&nbsp;</p>
-<p><u>Junior</u>
+<p><strong><u>Junior</u></strong>
 </p>
-<p>JERVIN YEO KAI JIE – 2 INNOVATION [CONCERT BAND]</p>
-<p>NAURAH MALIMAR BINTE NORMAN MALIMAR – 2 CARE [MODERN DANCE]</p>
-<p>&nbsp;</p>
-<p><u>Senior</u>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p>CONCERT BAND</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JERVIN YEO KAI JIE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 INNOVATION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>MODERN DANCE</strong>
 </p>
-<p>EMS PARDAMEAN MARTENS – 4B2 [MODERN DANCE]</p>
-<p>SALCEDO IVAN ELEISON AYALA – 4C5 [CONCERT BAND]</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NAURAH MALIMAR BINTE NORMAN MALIMAR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 CARE</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong><u>Senior</u></strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p>MODERN DANCE</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>EMS PARDAMEAN MARTENS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4B2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>CONCERT BAND</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SALCEDO IVAN ELEISON AYALA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4C5</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -609,12 +676,53 @@ in external events or competitions.</p>
 <p>&nbsp;</p>
 <p><u>Junior</u>
 </p>
-<p>EDELYNE GRACE MOK SHI QIN – 2 CARE [INFOCOMM]</p>
-<p>&nbsp;</p>
-<p><u>Senior</u>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p>INFOCOMM</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>EDELYNE GRACE MOK SHI QIN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 CARE</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong><u>Senior</u></strong>
 </p>
-<p>CHIA CHENG EN KEEGAN – 4B2 [ART]</p>
-<p>&nbsp;</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p>ART</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHIA CHENG EN KEEGAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4B2</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 </td>
 </tr>
 <tr>
