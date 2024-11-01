@@ -449,7 +449,9 @@ a certain level of achievement at the above-mentioned platforms</p>
 <p><strong><u>Senior Category</u></strong>
 </p>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Colours S A" src="/images/Achievements/Colours_S_A_.jpg">
+</div>
 <p><strong><u>Junior Category</u></strong>
 </p>
 <div class="isomer-image-wrapper">
