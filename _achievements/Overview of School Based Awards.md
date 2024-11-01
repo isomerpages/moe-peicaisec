@@ -335,6 +335,90 @@ in helping others around him.</p>
 <p>Awarded to the ALP Team/s&nbsp;<strong>who trailblaze projects</strong>&nbsp;in
 area of&nbsp;<strong>science and technology that betters the lives of people living in the community</strong>.</p>
 <p>&nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p><strong>TEAM 1</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SAURAV NAIR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2-CE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>BESILLAS JULIAN RAFAEL CARANDANG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2-CE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LING ZHI FENG BENSON</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2-RE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PUNZALAN NATHAN GABRIEL MABILING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2-RE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PHUA YEFENG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2-CY</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>TEAM 2</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>BERNICE CHEN QIANNING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2-IN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HARZSHETA UMAPATHY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2-IN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHOR YU JIE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2-IN</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p>&nbsp;</p>
 </td>
