@@ -484,7 +484,7 @@ a certain level of achievement at the above-mentioned platforms</p>
 or attained significant achievements in the field of the sport for various
 competitions and has served as an inspiration to the team.</p>
 <p>&nbsp;</p>
-<p><u>Junior</u>
+<p><strong><u>Junior</u></strong>
 </p>
 <p></p>
 <table style="minWidth: 50px">
@@ -523,11 +523,45 @@ competitions and has served as an inspiration to the team.</p>
 </tbody>
 </table>
 <p></p>
-<p><u>Senior</u>
+<p><strong><u>Senior</u></strong>
 </p>
-<p>ISABELLA CHIN SHI RUI – 4C4 [SOFTBALL GIRLS]</p>
-<p>LU MIN HTIKE THANG VAANG – 4B3 [BASKETBALL BOYS]</p>
-<p>&nbsp;</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p>SOFTBALL GIRLS</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ISABELLA CHIN SHI RUI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4C4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>BASKETBALL BOYS</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LU MIN HTIKE THANG VAANG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4B3</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 </td>
 </tr>
 <tr>
