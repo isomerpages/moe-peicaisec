@@ -448,7 +448,42 @@ a certain level of achievement at the above-mentioned platforms</p>
 </ul>
 <p><u>Senior Category</u>
 </p>
-<p>&nbsp;</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<p>Awards</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MOE WENDY TINT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4B3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Drama</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p><u>Junior Category</u>
