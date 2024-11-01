@@ -853,7 +853,4 @@ in the Student Council</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p>
-<br>
-</p>
+<p></p>
