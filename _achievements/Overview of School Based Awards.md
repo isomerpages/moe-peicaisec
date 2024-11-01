@@ -485,6 +485,11 @@ a certain level of achievement at the above-mentioned platforms</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p>&nbsp;</p>
 <p><u>Junior Category</u>
 </p>
@@ -884,7 +889,6 @@ in the Student Council</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 </td>
 </tr>
 </tbody>
