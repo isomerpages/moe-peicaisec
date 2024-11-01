@@ -448,17 +448,13 @@ a certain level of achievement at the above-mentioned platforms</p>
 </ul>
 <p><strong><u>Senior Category</u></strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="Colours Senior" src="/images/Achievements/Colours_S_copy.jpg">
-</div>
+<p></p>
+<p></p>
 <p><strong><u>Junior Category</u></strong>
 </p>
-<p>&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Colours Junior" src="/images/Achievements/Colours_J_copy.jpg">
 </div>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="6" colspan="1">
