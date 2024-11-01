@@ -90,12 +90,71 @@ their academic results and demonstrated exemplary conduct.</p>
 loss of kin), but able to rise through adversities and excel in academics
 and CCA. Student must also display strength in character and compassion
 in helping others around him.</p>
-<p>NUR ASYURA ALESHA BINTE MUHAMMAD AZHAR-1EE</p>
-<p>LEE MING FA - 2IN</p>
-<p>NADIA SOH -2EE</p>
-<p>ESTHER TONG QIAN QI - 3B3</p>
-<p>MOHAMAD AQIL BIN MOHAMAD ROSDIN - 3C2</p>
-<p>NICHOLAS TSHING TAN - 3C3</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NUR ASYURA ALESHA BINTE MUHAMMAD AZHAR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1EE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LEE MING FA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2IN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NADIA SOH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2EE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ESTHER TONG QIAN QI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3B3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MOHAMAD AQIL BIN MOHAMAD ROSDIN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3C2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NICHOLAS TSHING TAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3C3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
