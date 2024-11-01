@@ -841,12 +841,38 @@ in the Student Council</p>
 <p>is an inspiration to his/her fellow peers and juniors.</p>
 </li>
 </ul>
-<p>&nbsp;</p>
-<p><u>Junior</u>
+<p>&nbsp;<strong><u>Junior</u></strong>
 </p>
-<p>LEE YI CHEN, BRAYDEN – 2 COLLABORATION [STUDENT COUNCIL]</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p>STUDENT COUNCIL</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LEE YI CHEN, BRAYDEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 COLLABORATION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 </td>
 </tr>
 </tbody>
