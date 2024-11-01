@@ -579,7 +579,6 @@ competitions and has served as an inspiration to the team.</p>
 <p>Student performer that has&nbsp;contributed significantly to the Performing
 Arts (PA) CCA or attained significant achievements in the respective PA
 CCA and has served as an inspiration to the team.</p>
-<p>&nbsp;</p>
 <p><strong><u>Junior</u></strong>
 </p>
 <table style="minWidth: 50px">
@@ -617,7 +616,6 @@ CCA and has served as an inspiration to the team.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p><strong><u>Senior</u></strong>
 </p>
 <table style="minWidth: 50px">
@@ -673,10 +671,8 @@ CCA and has served as an inspiration to the team.</p>
 <p>Member that has contributed significantly to the Clubs and Societies or
 attained significant achievements in the respective Clubs and Societies
 in external events or competitions.</p>
-<p>&nbsp;</p>
-<p><u>Junior</u>
+<p>&nbsp;<u>Junior</u>
 </p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -743,16 +739,82 @@ in external events or competitions.</p>
 attained significant achievements in the respective UG specifically for
 proficiency-related competencies, and/or has been selected to represent
 the unit in Inter-Unit representations.</p>
-<p>&nbsp;</p>
-<p><u>Junior</u>
+<p>&nbsp;<strong><u>Junior</u></strong>
 </p>
-<p>CALEIGH KATE KERN – 2 COLLABORATION [GIRL GUIDES]</p>
-<p>LOK JUN HONG – 2 PASSION [NATIONAL POLICE CADET CORPS]</p>
-<p>&nbsp;</p>
-<p><u>Senior</u>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p>GIRL GUIDES</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CALEIGH KATE KERN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 COLLABORATION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>NATIONAL POLICE CADET CORPS</strong>
 </p>
-<p>TIA TAN IN XUAN – 4C4 [GIRL GUIDES]</p>
-<p>ER CHENG EN, SHON – 4C2 [NATIONAL CADET CORPS SEA UNIT]</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LOK JUN HONG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 PASSION</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong><u>Senior</u></strong>
+</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p>GIRL GUIDES</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TIA TAN IN XUAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4C4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>NATIONAL CADET CORPS SEA UNIT</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ER CHENG EN, SHON</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4C2</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 </td>
 </tr>
 <tr>
