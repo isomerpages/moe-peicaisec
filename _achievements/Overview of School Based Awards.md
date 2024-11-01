@@ -179,7 +179,6 @@ in helping others around him.</p>
 </p>
 <p><u>Senior and Junior Category</u>
 </p>
-<p>&nbsp;</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
