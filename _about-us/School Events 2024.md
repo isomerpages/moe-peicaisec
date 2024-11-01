@@ -4,8 +4,64 @@ permalink: /about-us/school-events-2024/
 variant: tiptap
 description: ""
 ---
-<h4>PinnaCle Challenge 2024</h4>
+<h4>Post Exam Programmes 2024</h4>
 <p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Post Exam Activities for Sec 1</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Post exam Activity 02 (1)" src="/images/Aboutus/Post_exam_Activity_02__1_.png">
+</div>
+<p>Post Exam Activities for Sec 2</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Post exam Activity 03 (1)" src="/images/Aboutus/Post_exam_Activity_02__2_.png">
+</div>
+<p></p>
+<p>Post Exam Activities for Sec 3</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Post Exam Programmes 2024" src="/images/Aboutus/Post_Exams_Programmes_2024.png">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>PinnaCle Challenge 2024</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -40,7 +96,6 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p></p>
 <h4>Graduation night 2024</h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -59,9 +114,16 @@ description: ""
 <p></p>
 </th>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
-<p></p>
 <h4>Mid-Autumn Festival Celebration 2024</h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -118,7 +180,6 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p></p>
 <h4>National Day Celebration 2024</h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -147,7 +208,6 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p></p>
 <h4>Racial Harmony Day Celebrations 2024</h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -176,7 +236,6 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p></p>
 <h4>40<sup>th </sup>Anniversary Celebration</h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -244,14 +303,6 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <h4>Hari Raya 2024</h4>
 <table style="minWidth: 75px">
 <colgroup>
