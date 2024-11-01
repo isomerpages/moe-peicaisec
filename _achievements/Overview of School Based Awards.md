@@ -847,6 +847,14 @@ in the Student Council</p>
 <p>2 COLLABORATION</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 </td>
