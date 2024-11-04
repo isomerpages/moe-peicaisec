@@ -101,7 +101,7 @@ a class</p>
 </table>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>&nbsp;Presented at the end of Semester 2</p>
 </td>
 </tr>
 <tr>
