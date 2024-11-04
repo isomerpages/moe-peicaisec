@@ -32,20 +32,15 @@ passion, dedication and resilience.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<p><strong>Principal’s List</strong>
+<p>&nbsp;<strong>Principal’s List</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
 <p>Recognises and affirms students at each level who have achieved outstanding
 results on a Semestral basis and demonstrated exemplary conduct.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<p>Presented at the end of Semester 1 and at the end of Semester 2</p>
+<p>&nbsp;Presented at the end of Semester 1 and at the end of Semester 2</p>
 </td>
 </tr>
 <tr>
@@ -104,7 +99,6 @@ a class</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
