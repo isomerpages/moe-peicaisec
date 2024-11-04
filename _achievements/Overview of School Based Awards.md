@@ -32,19 +32,14 @@ passion, dedication and resilience.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
 <p><strong>Principal’s List</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
 <p>Recognises and affirms students at each level who have achieved outstanding
 results on a Semestral basis and demonstrated exemplary conduct.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
 <p>Presented at the end of Semester 1 and at the end of Semester 2</p>
 </td>
 </tr>
@@ -54,38 +49,82 @@ results on a Semestral basis and demonstrated exemplary conduct.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
+<p>Introduced in 2024 to recognise and affirm classes with students who as
+a class</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>have regular attendance in school,</p>
+</li>
+<li>
+<p>high punctuality rate,</p>
+</li>
+<li>
+<p>role model desired values and</p>
+</li>
+<li>
+<p>demonstrate strong unity and class spirit</p>
+</li>
+</ul>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><u>Junior</u>
+</p>
+</th>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>1 EXCELLENCE, 1 COLLABORATION, 2 INNOVATION</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<p><strong>Good Improvement Award</strong>
+<p><strong><u>Senior</u></strong>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<p>Recognises and affirm students who have made significant improvement in
-their academic results and demonstrated exemplary conduct.</p>
+<p>3C4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
 <p>Presented at the end of Semester 2</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p><strong>Good Improvement Award</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Recognises and affirm students who have made significant improvement
+in their academic results and demonstrated exemplary conduct.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Presented at the end of Semester 2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Josephus Tan Spirit of Resilience Book Prize</strong>
 </p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
 <p>Awarded to student with trying family background (eg, financial difficulties,
 loss of kin), but able to rise through adversities and excel in academics
 and CCA. Student must also display strength in character and compassion
@@ -156,7 +195,6 @@ in helping others around him.</p>
 </table>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
 <p>Presented at the end of Semester 2</p>
 </td>
 </tr>
@@ -316,8 +354,6 @@ in helping others around him.</p>
 </table>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 <p>Presented at the end of Semester 2</p>
 </td>
 </tr>
@@ -331,7 +367,6 @@ in helping others around him.</p>
 <td rowspan="1" colspan="1">
 <p>Awarded to the ALP Team/s&nbsp;<strong>who trailblaze projects</strong>&nbsp;in
 area of&nbsp;<strong>science and technology that betters the lives of people living in the community</strong>.</p>
-<p>&nbsp;</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -418,13 +453,11 @@ area of&nbsp;<strong>science and technology that betters the lives of people liv
 </table>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
 <p>Presented at the end of Semester 2</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
 <p><strong>CCA Colours Award</strong>
 </p>
 <p>&nbsp;</p>
@@ -467,7 +500,6 @@ a certain level of achievement at the above-mentioned platforms</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
 <p><strong>Sports Boy of the Year</strong>
 </p>
 <p>&nbsp;</p>
@@ -557,8 +589,6 @@ competitions and has served as an inspiration to the team.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>Outstanding Performer of the Year</strong>
 </p>
 <p><strong>&nbsp;</strong>
@@ -648,8 +678,6 @@ CCA and has served as an inspiration to the team.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>Outstanding Contributor of the Year</strong>
 </p>
 <p><strong>&nbsp;</strong>
@@ -711,8 +739,6 @@ in external events or competitions.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>Outstanding Cadet of the Year</strong>
 </p>
 <p><strong>&nbsp;</strong>
@@ -805,8 +831,6 @@ the unit in Inter-Unit representations.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>Outstanding Leader of the Year</strong>
 </p>
 </td>
