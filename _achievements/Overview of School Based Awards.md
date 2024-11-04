@@ -32,7 +32,7 @@ passion, dedication and resilience.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;<strong>Principal’s List</strong>
+<p><strong>Principal’s List</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -40,7 +40,7 @@ passion, dedication and resilience.</p>
 results on a Semestral basis and demonstrated exemplary conduct.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Presented at the end of Semester 1 and at the end of Semester 2</p>
+<p>Presented at the end of Semester 1 and at the end of Semester 2</p>
 </td>
 </tr>
 <tr>
@@ -101,12 +101,12 @@ a class</p>
 </table>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Presented at the end of Semester 2</p>
+<p>Presented at the end of Semester 2</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;<strong>Good Improvement Award</strong>
+<p><strong>Good Improvement Award</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -114,7 +114,7 @@ a class</p>
 in their academic results and demonstrated exemplary conduct.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Presented at the end of Semester 2</p>
+<p>Presented at the end of Semester 2</p>
 </td>
 </tr>
 <tr>
