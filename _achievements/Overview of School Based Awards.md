@@ -54,6 +54,56 @@ results on a Semestral basis and demonstrated exemplary conduct.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Introduced in 2024 to recognise and affirm classes with students who as
+a class</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>have regular attendance in school,</p>
+</li>
+<li>
+<p>high punctuality rate,</p>
+</li>
+<li>
+<p>role model desired values and</p>
+</li>
+<li>
+<p>demonstrate strong unity and class spirit</p>
+</li>
+</ul>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><u>Junior</u>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 EXCELLENCE, 1 COLLABORATION, 2 INNOVATION</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><u>Senior</u></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3C4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
