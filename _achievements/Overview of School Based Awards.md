@@ -65,11 +65,13 @@ results on a Semestral basis and demonstrated exemplary conduct.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Principal’s List 2024_Sem 2" src="/images/Achievements/Principal_s_List_2024_Sem_2.jpg">
+</div>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Presented at the end of Semester 1 and at the end of Semester 2</p>
