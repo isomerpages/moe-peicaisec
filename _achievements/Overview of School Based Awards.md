@@ -152,13 +152,11 @@ in their academic results and demonstrated exemplary conduct.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Good Improvement Awards 2024-1" src="/images/Achievements/Good_Improvement_Awards_2024_1_copy.jpg">
+</div>
 </td>
 </tr>
 </tbody>
