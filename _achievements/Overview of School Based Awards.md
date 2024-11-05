@@ -38,7 +38,7 @@ passion, dedication and resilience.</p>
 <td rowspan="1" colspan="1">
 <p>Recognises and affirms students at each level who have achieved outstanding
 results on a Semestral basis and demonstrated exemplary conduct.</p>
-<p><strong>Semester 1 </strong>
+<p><strong>Semester 1</strong>
 </p>
 <table style="minWidth: 25px">
 <colgroup>
