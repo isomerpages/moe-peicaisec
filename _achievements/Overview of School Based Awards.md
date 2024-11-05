@@ -144,8 +144,8 @@ a class</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Recognises and affirm students who have made significant improvement
-in their academic results and demonstrated exemplary conduct.</p>
+<p>Recognises and affirm students who have made significant improvement in
+their academic results and demonstrated exemplary conduct.</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
