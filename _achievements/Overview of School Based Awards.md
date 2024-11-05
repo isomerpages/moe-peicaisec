@@ -38,6 +38,38 @@ passion, dedication and resilience.</p>
 <td rowspan="1" colspan="1">
 <p>Recognises and affirms students at each level who have achieved outstanding
 results on a Semestral basis and demonstrated exemplary conduct.</p>
+<p><strong>Semester 1 </strong>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Principal’s List 2024_Sem 1-1" src="/images/Achievements/Principal_s_List_2024_Sem_1_1.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Semester 2</strong>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Presented at the end of Semester 1 and at the end of Semester 2</p>
