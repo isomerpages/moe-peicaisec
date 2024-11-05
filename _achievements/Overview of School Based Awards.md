@@ -146,6 +146,23 @@ a class</p>
 <td rowspan="1" colspan="1">
 <p>&nbsp;Recognises and affirm students who have made significant improvement
 in their academic results and demonstrated exemplary conduct.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 </td>
 <td rowspan="1" colspan="1">
 <p>Presented at the end of Semester 2</p>
