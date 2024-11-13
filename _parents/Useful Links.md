@@ -36,7 +36,7 @@ to experience lagging or experience intermittent access while using the
 internet.</p>
 </li>
 <li>
-<p>Please remember to log out from SWN at http://portal.swn.moe.edu.sg when
+<p>Please remember to log out from SWN at <u>http://portal.swn.moe.edu.sg</u> when
 you have finished using the connection.</p>
 </li>
 <li>
