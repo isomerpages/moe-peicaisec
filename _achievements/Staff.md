@@ -87,21 +87,17 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="Staff award 2024 03" src="/images/Staff_Awards_2024__5_.jpg">
 </div>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Staff award 2024 05" src="/images/Staff_Awards_2024__6_.jpg">
 </div>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Staff award 2024 06" src="/images/Staff_Awards_2024__7_.jpg">
 </div>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Staff award 2024 07" src="/images/Staff_Awards_2024__8_.jpg">
 </div>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Staff award 2024 08" src="/images/Staff_Awards_2024__1_.jpg">
