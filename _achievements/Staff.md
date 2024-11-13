@@ -230,7 +230,8 @@ variant: tiptap
 </table>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>2023</summary>
+<summary><strong>2023</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 25px">
 <colgroup>
@@ -284,11 +285,6 @@ variant: tiptap
 </div>
 </details>
 </div>
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>2022</strong>
@@ -1064,4 +1060,9 @@ and resilient learners for our nation.</p>
 </div>
 </details>
 </div>
+<hr>
+<hr>
+<hr>
+<hr>
+<hr>
 <p></p>
