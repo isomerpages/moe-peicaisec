@@ -13,7 +13,6 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="National Day Awards 2024" src="/images/Achievements/National_Day_Awards_2024__2_.jpg">
 </div>
@@ -24,7 +23,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="National Day Awards 2024" src="/images/Achievements/National_Day_Awards_2024__3_.jpg">
 </div>
@@ -35,7 +33,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="National Day Awards 2024" src="/images/Achievements/National_Day_Awards_2024__1_.jpg">
 </div>
