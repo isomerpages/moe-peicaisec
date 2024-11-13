@@ -132,14 +132,16 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" src="/images/achieved his goals2.jpg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 </th>
 </tr>
 </tbody>
 </table>
-<hr>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Alumni Achievements 2022/2021/2020</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -490,4 +492,7 @@ Work&nbsp;</p>
 </tr>
 </tbody>
 </table>
+</div>
+</details>
+</div>
 <p></p>
