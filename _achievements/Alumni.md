@@ -139,7 +139,7 @@ variant: tiptap
 </table>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Alumni Achievements 2022/2021/2020</summary>
+<summary>Alumni Achievements</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <table style="minWidth: 50px">
