@@ -228,7 +228,10 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4>2023</h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>2023</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -261,26 +264,30 @@ variant: tiptap
 <img style="width: 100%;" height="auto" width="100%" src="/images/teachers promotion 01
 .JPG">
 </div>
-<hr>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" src="/images/teachers promotion 02
 .JPG">
 </div>
-<hr>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" src="/images/teachers promotion 03
 .JPG">
 </div>
-<hr>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" src="/images/teachers promotion 04
 .JPG">
 </div>
-<hr>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" src="/images/teachers promotion 05
 .JPG">
 </div>
+<p></p>
+</div>
+</details>
+</div>
+<hr>
+<hr>
+<hr>
+<hr>
 <hr>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
