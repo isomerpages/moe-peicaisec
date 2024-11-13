@@ -13,7 +13,6 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="National Day Awards 2024" src="/images/Achievements/National_Day_Awards_2024__2_.jpg">
 </div>
@@ -24,7 +23,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="National Day Awards 2024" src="/images/Achievements/National_Day_Awards_2024__3_.jpg">
 </div>
@@ -35,7 +33,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="National Day Awards 2024" src="/images/Achievements/National_Day_Awards_2024__1_.jpg">
 </div>
@@ -51,8 +48,69 @@ variant: tiptap
 <img style="width: 50%;" height="auto" width="100%" alt="MSEA" src="/images/Achievements/Msea_logo.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Teachers Award 2024 moe v1" src="/images/Achievements/Teachers_Award_2024_moe_v1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Staff Award 2024 01" src="/images/Staff_Awards_2024__2_.jpg">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="Teachers Award 2024 moe v1" src="/images/Achievements/Teachers_Award_2024_moe_v1.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Staff award 2024 09" src="/images/Achievements/Chow_May_Yen.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Staff award 2024 02" src="/images/Staff_Awards_2024__3_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Staff award 2024 03" src="/images/Staff_Awards_2024__4_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Staff award 2024 03" src="/images/Staff_Awards_2024__5_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Staff award 2024 05" src="/images/Staff_Awards_2024__6_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Staff award 2024 06" src="/images/Staff_Awards_2024__7_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Staff award 2024 07" src="/images/Staff_Awards_2024__8_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Staff award 2024 08" src="/images/Staff_Awards_2024__1_.jpg">
+</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -105,10 +163,29 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Peicai Caring Teacher Award" src="/images/Achievements/Peicai_Caring_Teacher_Award.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Peicai Caring Teacher Award 01" src="/images/Achievements/Peicai_Caring_Teacher_Award_01.jpg">
 </div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -159,7 +236,11 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4>2023</h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>2023</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -192,27 +273,26 @@ variant: tiptap
 <img style="width: 100%;" height="auto" width="100%" src="/images/teachers promotion 01
 .JPG">
 </div>
-<hr>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" src="/images/teachers promotion 02
 .JPG">
 </div>
-<hr>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" src="/images/teachers promotion 03
 .JPG">
 </div>
-<hr>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" src="/images/teachers promotion 04
 .JPG">
 </div>
-<hr>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" src="/images/teachers promotion 05
 .JPG">
 </div>
-<hr>
+<p></p>
+</div>
+</details>
+</div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>2022</strong>
