@@ -54,7 +54,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="Staff Award 2024 01" src="/images/Staff_Awards_2024__2_.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Teachers Award 2024 moe v1" src="/images/Achievements/Teachers_Award_2024_moe_v1.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="Teachers Award 2024 moe v1" src="/images/Achievements/Teachers_Award_2024_moe_v1.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
