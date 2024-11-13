@@ -1060,9 +1060,4 @@ and resilient learners for our nation.</p>
 </div>
 </details>
 </div>
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
 <p></p>
