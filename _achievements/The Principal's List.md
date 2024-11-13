@@ -4,7 +4,6 @@ permalink: /achievements/students/the-principals-list/
 description: ""
 variant: tiptap
 ---
-<p></p>
 <h4><u>Principal's List 2024</u></h4>
 <table style="minWidth: 50px">
 <colgroup>
