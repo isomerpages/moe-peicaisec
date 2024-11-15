@@ -139,4 +139,5 @@ otherwise instructed.&nbsp;</p>
 <p></p>
 <p>We look forward to working with you to ensure the safety for everyone
 in the school community. If you have any feedback or queries, do not hesitate
-to contact the school at 62884159 or&nbsp;<a href="mailto:peicai_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">peicai_ss@moe.edu.sg</a>.</p>
+to contact the school at 6202 1260 or&nbsp;<a href="mailto:peicai_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">peicai_ss@moe.edu.sg</a>.</p>
+<p></p>
