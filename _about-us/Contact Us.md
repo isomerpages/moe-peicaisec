@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <p><strong>Address:<br></strong>10 Serangoon Ave 4 Singapore (556094)</p>
-<p><strong>Telephone:</strong> +(65) 6288 4159</p>
+<p><strong>Telephone:</strong> +(65) 6202 1260</p>
 <p><strong>Email:</strong> peicai_ss@moe.edu.sg</p>
 <p><strong>Bus Services:</strong> 
 <br>22, 24, 43, 53, 105, 156, 315, 853, 70, 76, 103, 147, 156, 136, 103W,
