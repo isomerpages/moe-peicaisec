@@ -4,8 +4,7 @@ permalink: /about-us/school-events-2024/
 variant: tiptap
 description: ""
 ---
-<h4>Post Exam Programmes 2024</h4>
-<p></p>
+<h4>Peicai C&amp;R Day 2024</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -13,6 +12,19 @@ description: ""
 <col>
 </colgroup>
 <tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Peicai C_R day" src="/images/Achievements/Peicai_C_R_Poster_copy.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -24,6 +36,16 @@ description: ""
 <p></p>
 </td>
 </tr>
+</tbody>
+</table>
+<h4>Post Exam Programmes 2024</h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Post Exam Activities for Sec 1</p>

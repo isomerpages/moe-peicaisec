@@ -6,7 +6,12 @@ variant: tiptap
 ---
 <h4><strong>2023 National Examination Results</strong></h4>
 <p></p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -118,15 +123,25 @@ variant: tiptap
 <img style="width: 100%;" height="auto" width="100%" src="/images/gce cambridge o 2022 04
 .jpg">
 </div>
-<hr>
-<hr>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>2021</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/ne1.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/ne2.png">
 </div>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/ne3.png">
+</div>
+<p></p>
+</div>
+</details>
 </div>
 <p></p>
