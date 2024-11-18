@@ -13,13 +13,11 @@ third_nav_title: CCE
 right and wrong, think critically and ethically, be discerning in judgement,
 take&nbsp;responsibility for choices and actions, be caring towards others
 and strive for excellence.</p>
-<p>&nbsp;</p>
 <p><strong>2) Resilience and Social-Emotional Well-Being</strong>
 </p>
 <p>Students are enabled to have a balanced sense of self, form healthy relationships,
 be resilient when faced with challenges, find meaning in life and have
 a&nbsp;sense of gratitude and appreciation.</p>
-<p>&nbsp;</p>
 <p><strong>3) Active Citizenship</strong>
 </p>
 <p>Students are enabled to develop a strong national identity based on a
@@ -27,8 +25,6 @@ sense of belonging to the nation, a sense of hope in themselves and the
 future, an&nbsp;awareness of the reality of Singapore's vulnerabilities
 and constraints, and the will to act on improving the lives of others and
 building a future for&nbsp;our nation.</p>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>4) Future Readiness</strong>
 </p>
 <p>Students are enabled to have a sense of purpose in life, develop the dispositions
@@ -42,7 +38,6 @@ every student’s school experience. CCE is central to the Framework for
 the teaching of core values and social-emotional competencies with a focus
 on developing a sense of purpose in our students as they prepare to take
 on the challenges of a fast-evolving world beyond the school.</p>
-<p>&nbsp;</p>
 <p><strong>Framework for 21st Century Competencies and Student Outcomes</strong>
 </p>
 <p></p>
