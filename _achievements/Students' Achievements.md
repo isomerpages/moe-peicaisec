@@ -19,27 +19,24 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Softball 2024" src="/images/Achievements/Softball_2024_1.png">
 </div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Softball 2024" src="/images/Achievements/Softball_2024_2.png">
 </div>
-</td>
-<td rowspan="1" colspan="1">
+</th>
+<th rowspan="1" colspan="1">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
-</td>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
