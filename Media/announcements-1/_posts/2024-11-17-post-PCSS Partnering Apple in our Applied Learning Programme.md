@@ -30,6 +30,25 @@ variant: tiptap
 </th>
 </tr>
 <tr>
+<td rowspan="1" colspan="3">
+<ul data-tight="true" class="tight">
+<li>
+<p>In 2024, Peicai Sec partnered with Apple to launch our Industry Partnership
+Programme to provide authentic learning platform for students in the Applied
+Learning Programme (ALP).</p>
+</li>
+<li>
+<p>The dialogue session between Schools and Industry partners was fruitful
+and engaging as we renewed our commitment in providing the best and most
+immersive learning environment for our teachers.</p>
+</li>
+<li>
+<p>The event was graced by Minister Chan Chun Sing, Minister For Education.&nbsp;&nbsp;</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
