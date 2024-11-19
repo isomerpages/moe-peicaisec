@@ -7,7 +7,7 @@ variant: tiptap
 <h4><strong>Recent Alumni Achievements</strong></h4>
 <p></p>
 <h4><strong>2024 </strong>CELEBRATION &amp; RECOGNITION DAY</h4>
-<h4>Value-Added Results in GCE 'O' and 'N' Level Examinations </h4>
+<h4>Value-Added Results in GCE 'O' and 'N' Level Examinations</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
