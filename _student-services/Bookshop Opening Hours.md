@@ -12,6 +12,6 @@ variant: tiptap
 <p>Opening Hours:&nbsp;
 <br>Monday to Friday between <strong>7.30am to 2.00pm</strong> 
 <br>Closed for Lunch&nbsp;from: <strong>11.30am to 12.30pm</strong> 
-<br>Mode of Payment: <strong>NETS</strong>, Cash or NTUC Back to School Voucher
+<br>Mode of Payment: <strong>PayNow</strong>, Cash or NTUC Back to School Voucher
 (No Cheque Payment)</p>
 <p>During school holidays the bookshop will be closed.</p>

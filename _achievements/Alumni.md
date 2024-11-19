@@ -7,6 +7,7 @@ variant: tiptap
 <h4><strong>Recent Alumni Achievements</strong></h4>
 <p></p>
 <h4><strong>2024 </strong>CELEBRATION &amp; RECOGNITION DAY</h4>
+<h4>Value-Added Results in GCE 'O' and 'N' Level Examinations</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -15,17 +16,31 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pcss Alumni 14" src="/images/Achievements/PCSS_ALUMNI__14_.jpg">
+</div>
 <p></p>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pcss Alumni 15" src="/images/Achievements/PCSS_ALUMNI__15_.jpg">
+</div>
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Pcss Alumni 2" src="/images/Achievements/PCSS_ALUMNI__2_.jpg">
 </div>
-</th>
-<th rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Pcss Alumni 3" src="/images/Achievements/PCSS_ALUMNI__3_.jpg">
 </div>
-</th>
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -99,16 +114,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Pcss Alumni 14" src="/images/Achievements/PCSS_ALUMNI__14_.jpg">
-</div>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Pcss Alumni 15" src="/images/Achievements/PCSS_ALUMNI__15_.jpg">
-</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
