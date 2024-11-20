@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h4>Peicai Secondary School Partnering Apple in our Applied Learning Programme</h4>
+<h4>PCSS Partnering Apple in our EdTech Programme</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -33,9 +33,11 @@ variant: tiptap
 <td rowspan="1" colspan="3">
 <ul data-tight="true" class="tight">
 <li>
-<p>In 2024, Peicai Sec partnered with Apple to launch our Industry Partnership
-Programme to provide authentic learning platform for students in the Applied
-Learning Programme (ALP).</p>
+<p>In 2024, Peicai Secondary School partnered with Apple to launch our Industry
+Partnership Programme, aimed at providing training for our Edtech Champions-teacher
+representatives from each department. This collaboration will continue
+into 2025, fostering ongoing innovation and professional growth in educational
+technology.</p>
 </li>
 <li>
 <p>The dialogue session between Schools and Industry partners was fruitful
