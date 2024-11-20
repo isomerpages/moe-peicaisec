@@ -15,7 +15,7 @@ sections:
       image: /images/Announcement/OPEN_HOUSE_2024.jpg
       alt: Image alt text
       button: Click here to download e-brochure
-      url: file/2024_PEICAI_brochure__pdf
+      url: /file/2024_PEICAI_brochure__pdf
   - infopic:
       title: PCSS Partnering Apple in our Applied Learning Programme
       id: infopic
