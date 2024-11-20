@@ -19,7 +19,7 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="PCSS Partnering Apple in our Applied Learning Programme" src="/images/Announcement/PCSS_Partnering_Apple_in_our_Applied_Learning_Programme.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="PCSS Partnering Apple in our Applied Learning Programme 2" src="/images/Announcement/PCSS_Partnering_Apple_in_our_Applied_Learning_Programme_2.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
