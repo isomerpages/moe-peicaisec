@@ -1,5 +1,5 @@
 ---
-title: PCSS Partnering Apple in our Applied Learning Programme
+title: PCSS Partnership with Apple
 permalink: /media/announcements/permalink/
 date: 2024-11-17
 layout: post
@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h4>Peicai Secondary School Partnering Apple in our Applied Learning Programme</h4>
+<h4>PCSS Partnering Apple in our EdTech Programme</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -19,7 +19,7 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="PCSS Partnering Apple in our Applied Learning Programme" src="/images/Announcement/PCSS_Partnering_Apple_in_our_Applied_Learning_Programme.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="PCSS Partnering Apple in our Applied Learning Programme 2" src="/images/Announcement/PCSS_Partnering_Apple_in_our_Applied_Learning_Programme_2.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -33,9 +33,11 @@ variant: tiptap
 <td rowspan="1" colspan="3">
 <ul data-tight="true" class="tight">
 <li>
-<p>In 2024, Peicai Sec partnered with Apple to launch our Industry Partnership
-Programme to provide authentic learning platform for students in the Applied
-Learning Programme (ALP).</p>
+<p>In 2024, Peicai Secondary School partnered with Apple to launch our Industry
+Partnership Programme, aimed at providing training for our Edtech Champions-teacher
+representatives from each department. This collaboration will continue
+into 2025, fostering ongoing innovation and professional growth in educational
+technology.</p>
 </li>
 <li>
 <p>The dialogue session between Schools and Industry partners was fruitful
