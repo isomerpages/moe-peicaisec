@@ -17,7 +17,7 @@ sections:
       button: Click here to download e-brochure
       url: https://drive.google.com/file/d/1aBdo-G6u32wBQjXbidDmZJ7N0PQTQabF/view?usp=sharing
   - infopic:
-      title: PCSS Partnering Apple in our Applied Learning Programme
+      title: PCSS Partnering Apple in our EdTech Programme
       id: infopic
       button: CLICK HERE
       url: /media/announcements/permalink/
