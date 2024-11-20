@@ -21,7 +21,7 @@ sections:
       id: infopic
       button: CLICK HERE
       url: /media/announcements/permalink/
-      image: /images/Announcement/PCSS_Partnering_Apple_in_our_Applied_Learning_Programme.jpg
+      image: /images/Announcement/PCSS_Partnering_Apple_in_our_Applied_Learning_Programme_2.jpg
       alt: Image alt text
   - resources:
       title: Announcements
