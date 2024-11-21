@@ -27,32 +27,73 @@ attached to the companies based on their choice and aspirations would potentiall
 be motivated to strive hard for their academics in order to reach their
 goals. This would open up the conversation for them to start to build their
 portfolio in applying for JC DSA and Polytechnics PFP.</p>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>SWAP 2024</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SWAP 2024" src="/images/Distinctive Programmes/SWAP_2024.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/work attachment opportunities-peicai 02.JPG">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/School_Advisory_Meeting_21_Nov.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" src="/images/work attachment opportunities-peicai 03.JPG">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" src="/images/work attachment opportunities-peicai 05.JPG">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <p><strong>Mentors :Mr Josephus Tan ( Founder), Mr Josiah Zee , Mr Russell.</strong>
 <br>Students enjoyed the novel experience of visiting the court with Mr Josiah
 and Mr Russell, and sitting in the consultations. Most of the things they
 did during the week-long attachment were new things that they enjoyed exploring.
 They found Mr Josephus Tan’s sharing to be very authentic and inspiring.
 They also appreciated the patience shown to them by their mentors.</p>
-<p></p>
 <hr>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/work attachment opportunities-peicai 06.JPG">
@@ -67,21 +108,14 @@ They appreciated the interactive and engaging format of the visit, which
 gave them the opportunity to pose questions and the patience shown by the
 speaker in providing clear explanations to their questions. They are thankful
 for the warm hospitality shown.</p>
-<p></p>
 <hr>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" src="/images/work attachment opportunities-peicai 07.JPG">
 </div>
-<p>
-<br>
-</p>
-<p></p>
 <hr>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/work attachment opportunities-peicai 08.JPG">
 </div>
-<p></p>
 <p><strong>Mentor : Mr Raymond</strong>
 <br>Students found the brainstorming segment to be challenging yet engaging
 as they were able to challenge themselves to come up with creative solutions.
@@ -89,9 +123,7 @@ They found their newly-gained creative problem-solving skills to be useful
 and applicable in their lives. They are also appreciative of the fact that
 the various teams at Tribal DBB took time out of their busy schedule to
 accommodate our students’ visit to their office.</p>
-<p></p>
 <hr>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" src="/images/work attachment opportunities-peicai 07.JPG">
 </div>
