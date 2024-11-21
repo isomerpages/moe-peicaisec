@@ -23,6 +23,15 @@ sections:
       url: /media/announcements/permalink/
       image: /images/Announcement/PCSS_Partnering_Apple_in_our_Applied_Learning_Programme_2.jpg
       alt: Image alt text
+  - infopic:
+      title: The Art Library “The Sphere”
+      id: infopic
+      description: A place for you to Synergise, Explore the World of Science and
+        Technology.
+      button: CLIck here to view
+      url: https://www.instagram.com/reel/DCirEYkzopk/?igsh=c3piM3UwenVtcDE5
+      image: /images/Announcement/The_Sphere_copy.jpg
+      alt: The Sphere
   - resources:
       title: Announcements
       subtitle: PEICAI SECONDARY SCHOOL
