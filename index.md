@@ -24,7 +24,7 @@ sections:
       image: /images/Announcement/PCSS_Partnering_Apple_in_our_Applied_Learning_Programme_2.jpg
       alt: Image alt text
   - infopic:
-      title: The Art Library “The Sphere”
+      title: The Sphere
       id: infopic
       description: A place for you to Synergise, Explore the World of Science and
         Technology.
