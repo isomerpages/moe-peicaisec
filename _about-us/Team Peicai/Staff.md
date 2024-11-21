@@ -13,7 +13,7 @@ variant: tiptap
 </div>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aboutus/2__SCHOOL_MANAGEMENT_COMMITTEEv2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aboutus/2__Humanities_Department.jpg">
 </div>
 <hr>
 <div class="isomer-image-wrapper">
@@ -33,7 +33,7 @@ variant: tiptap
 </div>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aboutus/7__Humanities_Departmentv2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aboutus/7__SCHOOL_MANAGEMENT_COMMITTEE.jpg">
 </div>
 <hr>
 <div class="isomer-image-wrapper">
