@@ -4,6 +4,13 @@ permalink: /student-services/uniform-supplier/
 description: ""
 variant: tiptap
 ---
+<p><strong><u>Sale of Uniform</u></strong>
+</p>
+<p>Purchase is via School walk-in or Vendor’s retail outlet (strictly by
+online appointment)</p>
+<p>– please click the website below for more information, or refer to the
+letter posted in Parents Gateway</p>
+<p></p>
 <p><strong><u>Uniform Supplier</u>: </strong>
 <br>Student Mart (under Jeep Sing Fashion)
 <br>Contact:&nbsp;64563198
