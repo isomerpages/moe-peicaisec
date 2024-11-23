@@ -13,7 +13,11 @@ variant: tiptap
 </div>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aboutus/2__Humanities_Department.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aboutus/7__SCHOOL_MANAGEMENT_COMMITTEE.jpg">
+</div>
+<hr>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aboutus/11__Student_Development_Team_v2.jpg">
 </div>
 <hr>
 <div class="isomer-image-wrapper">
@@ -21,7 +25,7 @@ variant: tiptap
 </div>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aboutus/4__Mother_Tongue_Department.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aboutus/6__Mathematics_Department.jpg">
 </div>
 <hr>
 <div class="isomer-image-wrapper">
@@ -29,11 +33,11 @@ variant: tiptap
 </div>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aboutus/6__Mathematics_Department.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aboutus/4__Mother_Tongue_Department.jpg">
 </div>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aboutus/7__SCHOOL_MANAGEMENT_COMMITTEE.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aboutus/2__Humanities_Department.jpg">
 </div>
 <hr>
 <div class="isomer-image-wrapper">
@@ -45,19 +49,15 @@ variant: tiptap
 </div>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aboutus/10__ICT_Department.jpg">
-</div>
-<hr>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aboutus/11__Student_Development_Team_v2.jpg">
-</div>
-<hr>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aboutus/12__School_Administration.jpg">
 </div>
 <hr>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aboutus/13__School_Operations.jpg">
+</div>
+<hr>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aboutus/10__ICT_Department.jpg">
 </div>
 <hr>
 <p></p>

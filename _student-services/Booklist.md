@@ -5,6 +5,10 @@ description: ""
 variant: tiptap
 ---
 <h4><strong><u>Sale of School Books and Uniform (For School Year 2025)</u></strong></h4>
+<p>Purchase is via Online Orders only <strong>(for non-FAS students)</strong>
+</p>
+<p>-please click the book list below for more information, or refer to the
+letter posted in Parents Gateway</p>
 <h4><strong>Secondary 1</strong></h4>
 <p><a href="/files/Booklist_2025_Peicai_Sec_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Booklist 2025 Peicai Sec 1</u></a>
 </p>
