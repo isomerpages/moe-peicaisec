@@ -4,7 +4,7 @@ permalink: /student-services/booklist/
 description: ""
 variant: tiptap
 ---
-<h4><strong><u>Sale of School Books and Uniform (For School Year 2025)</u></strong></h4>
+<h4><strong><u>Sale of School Books (For School Year 2025)</u></strong></h4>
 <p>Purchase is via Online Orders only <strong>(for non-FAS students)</strong>
 </p>
 <p>-please click the book list below for more information, or refer to the
