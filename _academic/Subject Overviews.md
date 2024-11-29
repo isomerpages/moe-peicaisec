@@ -36,7 +36,7 @@ for Semester Two 2024.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/drive/folders/11BqZi3qTlm5nebFKH37pUVV6hoxAK8XG?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Subjects at G3 Level</a>|</p>
+<p><a href="https://drive.google.com/drive/folders/1L1ruBF6HrCls1yFRr5psLQjUXggNBZDI?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Subjects at G3 Level</a>|</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://drive.google.com/drive/folders/1nig7UQf0CSHXTDGGr1owf_4rcVSwk0QD?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Normal (Technical)</a>|</p>
@@ -50,7 +50,7 @@ for Semester Two 2024.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/drive/folders/1kdbVlHZPtE7LNsY7kDF3OUF-W_UaLrk9?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Subjects at G2 Level</a>|</p>
+<p><a href="https://drive.google.com/drive/folders/1cnotD845CsaW55muUpnnmuTwKKUrl4ua?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Subjects at G2 Level</a>|</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://drive.google.com/drive/folders/1YhtHh5qOdh_Rsz-kpktyMMO0J6DZq6eF?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Normal (Academic)</a>|</p>
@@ -64,7 +64,7 @@ for Semester Two 2024.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/drive/folders/1sE2e5iSq-YjM08NlzSU4PHPukjOXDGEa?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Subjects at G1 Level</a>|</p>
+<p><a href="https://drive.google.com/drive/folders/1M5QzYU8k4L8AJhDGpjTdhch-TBRWodjw?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Subjects at G1 Level</a>|</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://drive.google.com/drive/folders/1AWbpFjM-Xk4qXkGs5GOR0M7J3fm0b3Lj?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Express</a> |</p>
