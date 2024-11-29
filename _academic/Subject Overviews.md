@@ -39,7 +39,7 @@ for Semester Two 2024.</p>
 <p><a href="https://drive.google.com/drive/folders/1L1ruBF6HrCls1yFRr5psLQjUXggNBZDI?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Subjects at G3 Level</a>|</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/drive/folders/1nig7UQf0CSHXTDGGr1owf_4rcVSwk0QD?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Normal (Technical)</a>|</p>
+<p><a href="https://drive.google.com/drive/folders/1CbkOF-t-JkZwDSVdZB_UTrAFd-a0XoNz?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Normal (Technical)</a>|</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://drive.google.com/drive/folders/1DhudA4K1AldOvJH5Sf8RuPNBHlscZ338?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Normal (Technical)</a>|</p>
@@ -53,7 +53,7 @@ for Semester Two 2024.</p>
 <p><a href="https://drive.google.com/drive/folders/1cnotD845CsaW55muUpnnmuTwKKUrl4ua?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Subjects at G2 Level</a>|</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/drive/folders/1YhtHh5qOdh_Rsz-kpktyMMO0J6DZq6eF?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Normal (Academic)</a>|</p>
+<p><a href="https://drive.google.com/drive/folders/18NNDGkrSj_JfYRGyKXdBRzcvSU6mmQ1E?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Normal (Academic)</a>|</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://drive.google.com/drive/folders/1qz8PC8UfhBh1gBczTNfOxk0-JeLdpUKV?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Normal (Academic)</a>|</p>
@@ -67,7 +67,7 @@ for Semester Two 2024.</p>
 <p><a href="https://drive.google.com/drive/folders/1M5QzYU8k4L8AJhDGpjTdhch-TBRWodjw?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Subjects at G1 Level</a>|</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/drive/folders/1AWbpFjM-Xk4qXkGs5GOR0M7J3fm0b3Lj?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Express</a> |</p>
+<p><a href="https://drive.google.com/drive/folders/1igvxsgzl-1rt0Fa0vajyID14ABd6Ix9u?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Express</a> |</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://drive.google.com/drive/folders/1YqlUdQE87eoKNYHa8Y5npspIp-sXZRSE?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Express</a> |</p>
