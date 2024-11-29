@@ -42,10 +42,10 @@ for Semester Two 2024.</p>
 <p><a href="https://drive.google.com/drive/folders/1CbkOF-t-JkZwDSVdZB_UTrAFd-a0XoNz?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Normal (Technical)</a>|</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/drive/folders/1DhudA4K1AldOvJH5Sf8RuPNBHlscZ338?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Normal (Technical)</a>|</p>
+<p><a href="https://drive.google.com/drive/folders/14J_fdNnnHiplhxSX5WuFc0iCs9KdVeS7?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Normal (Technical)</a>|</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/drive/folders/1znEPDmOsZQDSvXOWMskN7Jry1FWTiS4p?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Normal (Technical)</a>|</p>
+<p><a href="https://drive.google.com/drive/folders/1POL1wXk3bdRHMHxFmgBZjp6fQCTVmYnz?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Normal (Technical)</a>|</p>
 </td>
 </tr>
 <tr>
@@ -56,10 +56,10 @@ for Semester Two 2024.</p>
 <p><a href="https://drive.google.com/drive/folders/18NNDGkrSj_JfYRGyKXdBRzcvSU6mmQ1E?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Normal (Academic)</a>|</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/drive/folders/1qz8PC8UfhBh1gBczTNfOxk0-JeLdpUKV?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Normal (Academic)</a>|</p>
+<p><a href="https://drive.google.com/drive/folders/1JtkQVVOx1QCd3rzycb3X5FTNw3QtJXpX?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Normal (Academic)</a>|</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/drive/folders/16VJYvZ4OAFK0Aryatatz-9k5PT6OCJAT?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Normal (Academic)</a>|</p>
+<p><a href="https://drive.google.com/drive/folders/1oSAX-eSkyGSkOLKN4uPn5B8XFMLIi3M9?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Normal (Academic)</a>|</p>
 </td>
 </tr>
 <tr>
@@ -70,10 +70,10 @@ for Semester Two 2024.</p>
 <p><a href="https://drive.google.com/drive/folders/1igvxsgzl-1rt0Fa0vajyID14ABd6Ix9u?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Express</a> |</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/drive/folders/1YqlUdQE87eoKNYHa8Y5npspIp-sXZRSE?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Express</a> |</p>
+<p><a href="https://drive.google.com/drive/folders/13Lt8ZdLXL7VZDeHks3jeY3Fw9XSUT4K5?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Express</a> |</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/drive/folders/1lHN1czXdhxzPFYArkjkJjKOe0klIoa7G?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Express</a> |</p>
+<p><a href="https://drive.google.com/drive/folders/1TldHG3rcQMiwVq8cPbWFk3WoBsV3GMfW?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Express</a> |</p>
 </td>
 </tr>
 <tr>
