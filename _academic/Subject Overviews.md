@@ -4,7 +4,7 @@ permalink: /academic/subject-overviews/
 description: ""
 variant: tiptap
 ---
-<h4><strong>Semester Two 2024</strong></h4>
+<h4><strong>Semester One 2025</strong></h4>
 <p>Please click on each link to access the subject overview of each subject
 for Semester Two 2024.</p>
 <p>Do note that the subject overviews are tentative and subject to changes.</p>
