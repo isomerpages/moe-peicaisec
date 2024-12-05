@@ -9,10 +9,6 @@ sections:
   - hero:
       background: /images/Main_Banner_Main_1B3.jpg
   - infopic:
-      id: infopic
-      button: Button Text
-      alt: Image alt text
-  - infopic:
       title: OPEN HOUSE
       id: infopic
       description: 23 NOVEMBER 2024 9AM to 2PM
