@@ -7,20 +7,6 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p></p>
-<h4>Sec 1 </h4>
-<p>Sec 1 Registration 2025_Tabs and Write Ups to be Uploaded as at 3rdDec2025</p>
-<p><a href="/files/Sec_1_Registration_2025_Tabs_and_Write_Ups_to_be_Uploaded_as_at_3rdDec2025.pdf" rel="noopener noreferrer nofollow" target="_blank">click here</a>
-</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <h4>PCSS Partnering Apple in our EdTech Programme</h4>
 <table style="minWidth: 75px">
 <colgroup>
