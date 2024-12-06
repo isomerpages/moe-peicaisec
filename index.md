@@ -36,4 +36,10 @@ sections:
       title: Announcements
       subtitle: PEICAI SECONDARY SCHOOL
       button: More details
+  - infopic:
+      title: Sec 1Reg
+      id: infopic
+      button: Click here
+      url: /media/announcements/permalink/
+      alt: Image alt text
 ---
