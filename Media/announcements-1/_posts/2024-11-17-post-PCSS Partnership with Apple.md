@@ -202,10 +202,6 @@ immersive learning environment for our teachers.</p>
 </tbody>
 </table>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <h4>Flight Experience Singapore</h4>
 <p></p>
 <table style="minWidth: 50px">
