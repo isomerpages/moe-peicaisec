@@ -8,7 +8,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<ul data-tight="true" class="tight">
+<ol data-tight="true" class="tight">
 <li>
 <p>MOE has announced that the GCE N-Level Examination results will be released
 on <strong>Monday, 16 December 2024 at 2.00 pm</strong>.</p>
@@ -188,9 +188,6 @@ on offerings and courses in the polytechnics and ITE</p>
 <p>MySkillsFuture Student Portal (<a href="https://go.gov.sg/mysfsec" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mysfsec</a>) on education
 and career pathways</p>
 </li>
-</ul>
-<p></p>
-</li>
 <li>
 <p>Students may also consult their teachers or ECG Counsellors about their
 next steps. Alternatively, they can make an ECG counselling appointment
@@ -200,4 +197,6 @@ to 24 December 2024, from 9.00 am to 5.00 pm on weekdays and 9.00 am to
 12.00 pm on Saturdays.</p>
 </li>
 </ul>
+</li>
+</ol>
 <p></p>
