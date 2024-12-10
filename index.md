@@ -14,6 +14,7 @@ sections:
         Examination Results on 16 December 2024
       button: More Details
       url: /release-2024-sg-nlevel-results-16dec2024/
+      image: /images/Announcement/nlevel_results_2024_placeholder.jpg
   - infopic:
       title: OPEN HOUSE
       id: infopic
