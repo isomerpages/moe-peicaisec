@@ -13,7 +13,7 @@ sections:
       description: Release of the 2024 Singapore-Cambridge GCE N(A)- & N(T)-Level
         Examination Results on 16 December 2024
       button: More Details
-      url: /open-house-23-november-2024-9am-to-2pm/
+      url: /release-2024-sg-nlevel-results-16dec2024/
   - infopic:
       title: OPEN HOUSE
       id: infopic
