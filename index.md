@@ -15,6 +15,7 @@ sections:
       button: More Details
       url: /release-2024-sg-nlevel-results-16dec2024/
       image: /images/Announcement/nlevel_results_2024_placeholder.jpg
+      alt: nlevel-results-release
   - infopic:
       title: OPEN HOUSE
       id: infopic
