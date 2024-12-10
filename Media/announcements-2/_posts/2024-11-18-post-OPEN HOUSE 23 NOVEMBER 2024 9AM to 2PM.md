@@ -7,6 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
