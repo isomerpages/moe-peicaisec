@@ -9,6 +9,10 @@ sections:
   - hero:
       background: /images/Main_Banner_Main_1B3.jpg
   - infopic:
+      id: infopic
+      description: Release of the 2024 Singapore-Cambridge GCE N(A)- & N(T)-Level
+        Examination Results on 16 December 2024
+  - infopic:
       title: OPEN HOUSE
       id: infopic
       description: 23 NOVEMBER 2024 9AM to 2PM
@@ -36,8 +40,4 @@ sections:
       title: Announcements
       subtitle: PEICAI SECONDARY SCHOOL
       button: More details
-  - infopic:
-      id: infopic
-      description: Release of the 2024 Singapore-Cambridge GCE N(A)- & N(T)-Level
-        Examination Results on 16 December 2024
 ---
