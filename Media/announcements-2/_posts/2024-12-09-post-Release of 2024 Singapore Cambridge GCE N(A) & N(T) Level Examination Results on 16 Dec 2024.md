@@ -32,11 +32,11 @@ Refer to the school website link on appropriate attire and appearance.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Time Activity</strong>
+<p><strong>Time</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Time Activity</strong>
+<p><strong>Activity</strong>
 </p>
 </td>
 </tr>
