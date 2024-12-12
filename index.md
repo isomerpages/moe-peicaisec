@@ -12,7 +12,7 @@ sections:
       title: Sec 1 posting results to be released on Dec 18
       id: infopic
       description: Refer to School Website for further information.
-      button: Click here
+      button: More details
       url: /sec-1-posting-results-to-be-released-on-dec-18/
       image: /images/Announcement/posting_results_to_be_released.jpg
       alt: Image alt text
