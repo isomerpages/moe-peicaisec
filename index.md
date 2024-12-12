@@ -13,7 +13,7 @@ sections:
       id: infopic
       description: Refer to School Website for further information.
       button: Click here
-      url: /release-2024-sg-nlevel-results-16dec2024/
+      url: /sec-1-posting-results-to-be-released-on-dec-18/
       image: /images/Announcement/posting_results_to_be_released.jpg
       alt: Image alt text
   - infopic:
