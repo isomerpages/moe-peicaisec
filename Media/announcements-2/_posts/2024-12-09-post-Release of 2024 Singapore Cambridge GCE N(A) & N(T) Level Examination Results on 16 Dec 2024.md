@@ -12,6 +12,7 @@ variant: tiptap
 <p><a href="/files/2024/posting_results_to_be_released.pdf" rel="noopener noreferrer nofollow" target="_blank">Click Here</a>
 </p>
 <hr>
+<hr>
 <p></p>
 <ol data-tight="true" class="tight">
 <li>
