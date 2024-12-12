@@ -40,7 +40,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Refer to School Website for further information.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
