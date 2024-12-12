@@ -9,6 +9,14 @@ sections:
   - hero:
       background: /images/Main_Banner_Main_1B3.jpg
   - infopic:
+      title: Sec 1 posting results to be released on Dec 18
+      id: infopic
+      description: Refer to School Website for further information.
+      button: More details
+      url: /sec-1-posting-results-to-be-released-on-dec-18/
+      image: /images/Announcement/posting_results_to_be_released.jpg
+      alt: Image alt text
+  - infopic:
       id: infopic
       description: Release of the 2024 Singapore-Cambridge GCE N(A)- & N(T)-Level
         Examination Results on 16 December 2024

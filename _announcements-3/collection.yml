@@ -1,0 +1,5 @@
+collections:
+  announcements-3:
+    output: true
+    order:
+      - Sec 1 posting results.md
