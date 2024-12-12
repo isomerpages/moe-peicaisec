@@ -4,7 +4,7 @@ permalink: /sec-1-posting-results-to-be-released-on-dec-18/
 variant: tiptap
 description: ""
 ---
-<h4>Sec 1 posting results to be released on Dec 18</h4>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
