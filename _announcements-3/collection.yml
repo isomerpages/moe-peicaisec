@@ -1,4 +1,5 @@
 collections:
   announcements-3:
     output: true
-    order: []
+    order:
+      - Sec 1 posting results to be released on Dec 18.md
