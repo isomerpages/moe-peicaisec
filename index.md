@@ -9,6 +9,14 @@ sections:
   - hero:
       background: /images/Main_Banner_Main_1B3.jpg
   - infopic:
+      title: Sec 1 posting results to be released on Dec 18
+      id: infopic
+      description: Refer to School Website for further information.
+      button: Click here
+      url: /release-2024-sg-nlevel-results-16dec2024/
+      image: /images/Announcement/posting_results_to_be_released.jpg
+      alt: Image alt text
+  - infopic:
       id: infopic
       description: Release of the 2024 Singapore-Cambridge GCE N(A)- & N(T)-Level
         Examination Results on 16 December 2024
@@ -44,12 +52,4 @@ sections:
       title: Announcements
       subtitle: PEICAI SECONDARY SCHOOL
       button: More details
-  - infopic:
-      title: Sec 1 posting results to be released on Dec 18
-      id: infopic
-      description: Refer to School Website for further information.
-      button: Click here
-      url: /release-2024-sg-nlevel-results-16dec2024/
-      image: /images/Announcement/posting_results_to_be_released.jpg
-      alt: Image alt text
 ---
