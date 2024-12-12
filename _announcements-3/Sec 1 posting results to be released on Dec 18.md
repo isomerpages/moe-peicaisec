@@ -4,7 +4,6 @@ permalink: /sec-1-posting-results-to-be-released-on-dec-18/
 variant: tiptap
 description: ""
 ---
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -51,4 +50,5 @@ description: ""
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
