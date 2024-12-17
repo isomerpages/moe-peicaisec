@@ -313,9 +313,6 @@ is in the correct attire.</p>
 </tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/Code1.jpg">
-</div>
 <h4><strong>APPEARANCE</strong><br>&nbsp;</h4>
 <ol>
 <li>
@@ -345,9 +342,6 @@ appearance.</p>
 <p>Sideburns,wherekept,shouldnotgobeyondthecartilageatthecentreofthe ear.
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/Hairstyle1.jpg">
-</div>
 <p>
 <br>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For Female Students</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -371,9 +365,6 @@ Any ear sticks worn should be transparent.</p>
 Dangling earrings are not allowed.
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/Hairstyle2.jpg">
-</div>
 <p>
 <br>(a)&nbsp;All students are not allowed to have the following on them:</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
