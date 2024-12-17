@@ -13,7 +13,7 @@ decision on their choice of CCA.</p>
 <p>All Secondary One students would be able to indicate their three preferred
 CCA options via an online option form. The link details will be sent via
 PG at a later date.</p>
-<p>Please click on the link <a rel="noopener noreferrer nofollow" target="_blank">https://www.peicaisec.moe.edu.sg/cca/ccas/</a> for
+<p>Please click on the link <a href="https://www.peicaisec.moe.edu.sg/cca/ccas/" rel="noopener noreferrer nofollow" target="_blank">https://www.peicaisec.moe.edu.sg/cca/ccas/</a> for
 the list of CCAs offered in the school as well as the CCA schedules. Do
 note that in 2025, Debates Society will also be offered as a CCA. More
 details will be shared during the CCA Open House.</p>
