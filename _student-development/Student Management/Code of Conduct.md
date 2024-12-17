@@ -93,9 +93,17 @@ school activities and events (unless otherwise specified) is as follows:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Prescribed school uniform</p>
-<p>Ø&nbsp; Shirt and shorts for lower secondary boys</p>
-<p>Ø&nbsp; Shirt and pants for upper secondary boys</p>
-<p>Ø&nbsp; Blouse and skirts for both upper and lower secondary girls</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Shirt and shorts for lower secondary boys</p>
+</li>
+<li>
+<p>Shirt and pants for upper secondary boys</p>
+</li>
+<li>
+<p>Blouse and skirts for both upper and lower secondary girls</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
