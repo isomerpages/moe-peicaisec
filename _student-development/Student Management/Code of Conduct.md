@@ -25,11 +25,10 @@ to the next phase of their education and lives.</p>
 <p>We trust that students who graduate from PCSS would leave the school as
 responsible young adults and citizens who are ready to contribute to the
 community and the nation.</p>
-<h4><strong>ATTIRE</strong></h4>
+<h4>ATTIRE</h4>
 <p><strong>Rationale:&nbsp;&nbsp;&nbsp;&nbsp; To portray a positive image of oneself through personal grooming and hygiene</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are to wear the prescribed
 school uniform. Modification to the uniform is strictly not allowed.</p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; All students are to ensure that
@@ -67,10 +66,10 @@ than the above prescribed shoes, are not allowed to be worn in school except
 for medical reasons and approved by a teacher with supporting documentation
 issued by medical practitioners registered under the Medical Registration
 Act.&nbsp;</p>
-<p>&nbsp;</p>
+<p></p>
 <p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The prescribed attire for various
 school activities and events (unless otherwise specified) is as follows:</p>
-<p>&nbsp;</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -143,9 +142,17 @@ shorts</p>
 <td rowspan="1" colspan="1">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Depending on the nature of
 activity,</p>
-<p>Ø&nbsp; Prescribed school uniform</p>
-<p>Ø&nbsp; PE attire</p>
-<p>Ø&nbsp; Class T-shirt with school shorts / pants / skirts/ PE shorts</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Prescribed school uniform</p>
+</li>
+<li>
+<p>PE attire</p>
+</li>
+<li>
+<p>Class T-shirt with school shorts / pants / skirts/ PE shorts</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -166,8 +173,7 @@ allowed)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PE attire</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CCA/Class T-shirt with PE
-shorts</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CCA/Class T-shirt with PE shorts</p>
 </td>
 </tr>
 <tr>
@@ -305,11 +311,10 @@ is in the correct attire.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" src="/images/Code1.jpg">
 </div>
-<p><strong>APPEARANCE</strong>
-<br>&nbsp;</p>
+<h4><strong>APPEARANCE</strong><br>&nbsp;</h4>
 <ol>
 <li>
-<p><strong>Rationale:&nbsp;&nbsp;&nbsp;&nbsp; To portray a positive image of oneself through personal grooming and hygiene</strong>
+<p><strong>Rationale:&nbsp;&nbsp;&nbsp;&nbsp;To portray a positive image of oneself through personal grooming and hygiene</strong>
 </p>
 <p>
 <br>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; All students
@@ -519,11 +524,6 @@ will be considered as late for school.</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp; The procedures and timings for morning assembly
 and the flag raising ceremony on Wednesdays are as follows:</p>
 <table style="minWidth: 50px">
@@ -596,9 +596,6 @@ from school by 7:40 am (8:20 am on Wednesday) on the day of absence.</p>
 <p>(d)&nbsp; Submit an original copy of the Medical Certificate (MC) for
 the day(s) absent from school to the Form Teacher on the day of return
 to school.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 <p>(e)&nbsp; Letters from parents/guardians explaining a student’s absence
 from school should not exceed 5 in a semester as students’ attendance in
 school is critical for them to do well in school. Students will be considered
@@ -680,9 +677,14 @@ and testimonials.</p>
 be considered as a valid reason for absence from school, afternoon lessons
 or programmes and CCA. Such offences will have a direct impact on the student’s
 conduct grade and testimonials.</p>
+</li>
+</ol>
 <p>16. Attendance at detention and CWO is compulsory where assigned. Any
-assigned hours must be duly completed within the stipulated time. <a rel="noopener noreferrer nofollow" target="_blank">Wilful absence will be deemed as defiance/truancy, and the affected students will be placed under extended detention and/or suspension from school.</a>
-</p>
+assigned hours must be duly completed within the stipulated time. Wilful
+absence will be deemed as defiance/truancy, and the affected students will
+be placed under extended detention and/or suspension from school.</p>
+<ol>
+<li>
 <p>17. Attendance at CCA is compulsory. Students who are absent from CCA
 will need to produce a valid MC (refer to Point 5g above) for the period
 of absence to the CCA teacher in-charge. Poor CCA attendance may affect
@@ -694,13 +696,12 @@ time that he/she can be dismissed from school will be at 12:40 pm.</p>
 their own self-revision at the school library. Where there are such instances,
 it will be formally arranged by the school. Students are to sign in and
 out with the librarian at the library.</p>
-<p>&nbsp;</p>
-<h1><a rel="noopener noreferrer nofollow" target="_blank"><u>ATTITUDE AND BEHAVIOUR</u></a></h1>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>Rationale:&nbsp;&nbsp; To cultivate self-discipline through responsible decision making</strong>
-</p>
-<p><strong>&nbsp;</strong>
+</li>
+</ol>
+<h4>ATTITUDE AND BEHAVIOUR</h4>
+<ol>
+<li>
+<p><strong>&nbsp;Rationale:&nbsp;&nbsp; To cultivate self-discipline through responsible decision making</strong>
 </p>
 <p>1.&nbsp;&nbsp; Students are to ensure adherence to the following at all
 times:</p>
@@ -746,9 +747,7 @@ or weapon-like devices in school. They are also not allowed to bring any
 weapon-like item that is used or intended to be used to cause harm to others.</p>
 <p>(o) Cycling, skating, rollerblading, and riding skate-scooters within
 the school grounds are strictly not allowed.</p>
-<p>&nbsp;</p>
 <p><strong>(ii) In class</strong>:</p>
-<p>&nbsp;</p>
 <p>a)&nbsp; Students are expected to attend all lessons and not leave the
 classrooms without permission or a valid reason.</p>
 <p>b)&nbsp; Students are expected to be punctual for lessons.</p>
@@ -773,9 +772,7 @@ instructed by teachers.</p>
 <p>k)&nbsp; No food and drinks except mineral water are allowed in the classrooms/special
 rooms. School staff has the right to discard any food or drinks brought
 into classroom.</p>
-<p>&nbsp;</p>
 <p><strong>(iii) During recess</strong>:</p>
-<p>&nbsp;</p>
 <p>a)&nbsp;&nbsp;&nbsp; Students are not to stay in the class during recess
 unless with permission from a teacher.</p>
 <p>b)&nbsp;&nbsp;&nbsp; Students should queue for their food and can only
@@ -795,14 +792,24 @@ to uphold the good name of the school at all times.</p>
 <p>b)&nbsp;&nbsp;&nbsp; Competitors / players should are to practise fair
 play when representing the school.</p>
 <p>&nbsp;</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">2.&nbsp;&nbsp; Students are to observe the following regarding the use of mobile devices (including mobile phones and other electronic devices):</a>
-</p>
+</li>
+</ol>
+<p>2.&nbsp;&nbsp; Students are to observe the following regarding the use
+of mobile devices (including mobile phones and other electronic devices):</p>
+<ol>
+<li>
 <p>(a) Students carry mobile phones to school at their own risk. No other
 personal electronic devices (except school issued PDLP devices) should
 be brought to school.</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">(b) To ensure a conducive environment for learning in school, students are not allowed to use their mobile phones and non-PDLP related electronic devices during curriculum time. Signages have been placed around the school to serve as reminders for students that all </a>mobile
-phones and non-PDLP related electronic devices should be switched off and
-kept out-of-sight.</p>
+</li>
+</ol>
+<p>(b) To ensure a conducive environment for learning in school, students
+are not allowed to use their mobile phones and non-PDLP related electronic
+devices during curriculum time. Signages have been placed around the school
+to serve as reminders for students that all mobile phones and non-PDLP
+related electronic devices should be switched off and kept out-of-sight.</p>
+<ol>
+<li>
 <p>The table below summarises the use of devices during curriculum time.</p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -942,8 +949,15 @@ to use the phone there.</p>
 device and non-PDLP electronic devices. They should not take photographs
 or videos of others without their permission.</p>
 <p>&nbsp;</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are to note that the lockers in the classroom are there to provide interim storage and security for their Personal Learning Devices (PLDs) and learning materials. They are to observe the following expectations regarding the use of these classroom lockers:</a>
-</p>
+</li>
+</ol>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students
+are to note that the lockers in the classroom are there to provide interim
+storage and security for their Personal Learning Devices (PLDs) and learning
+materials. They are to observe the following expectations regarding the
+use of these classroom lockers:</p>
+<ol>
+<li>
 <p>(a)&nbsp;&nbsp;&nbsp; The responsibility to maintain the condition and
 cleanliness of the lockers lay with the assigned students.&nbsp; The assigned
 students shall be held liable if they inflict any wilful damage (e.g. vandalism)
@@ -974,7 +988,6 @@ etc)</p>
 <p>(g)&nbsp;&nbsp;&nbsp; School retains the rights to open the lockers at
 any time for the purpose of safety and security (e.g. through routine spot-checks,
 disciplinary investigations etc).</p>
-<p>&nbsp;</p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 To ensure the safety of students and staff within the school premises,
 all students who arrive in school by private transport must alight at the
@@ -984,28 +997,32 @@ areas. Such areas are designated drop off and pick up zones only.</p>
 <p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 The overall Conduct Grade, Attendance, Punctuality of each student will
 be reflected in his/her Result Slip at the end of the year.</p>
-<p>&nbsp;</p>
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">CYBER ETIQUETTE</a></strong>
-</p>
+</li>
+</ol>
+<h4>CYBER ETIQUETTE</h4>
+<ol>
+<li>
 <p><strong>Students are to demonstrate the same behaviour and attitude as expected in school itself during the use of internet technology for communication and online lessons.&nbsp; In particular,</strong>
 </p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp; When using internet technology<a href="#_ftn1" rel="noopener noreferrer nofollow" target="_blank">[1]</a> to communicate
-with others, students are expected to be respectful to others by not sharing</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-i.&nbsp;&nbsp;&nbsp;&nbsp; Obscene, derogatory or insensitive remarks/materials.</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-ii.&nbsp;&nbsp;&nbsp;&nbsp; Information/materials that promotes unsafe
-or illegal acts<a href="#_ftn2" rel="noopener noreferrer nofollow" target="_blank">[2]</a>.</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-iii.&nbsp;&nbsp;&nbsp;&nbsp; Information and materials that would affect
-the safety or privacy of others.</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp; When using internet technology<a href="#_ftn1" rel="noopener noreferrer nofollow" target="_blank">1</a> to communicate with
+others, students are expected to be respectful to others by not sharing</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i.&nbsp;&nbsp;&nbsp;&nbsp;
+Obscene, derogatory or insensitive remarks/materials.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ii.&nbsp;&nbsp;&nbsp;&nbsp;
+Information/materials that promotes unsafe or illegal acts<a href="#_ftn2" rel="noopener noreferrer nofollow" target="_blank">2.</a>
+</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iii.&nbsp;&nbsp;&nbsp;&nbsp;
+Information and materials that would affect the safety or privacy of others.</p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp; For online lessons, students are expected to</p>
 <p>a.&nbsp;&nbsp;&nbsp;&nbsp; Be punctual for all scheduled online lessons.</p>
-<p><a href="#_ftnref1" rel="noopener noreferrer nofollow" target="_blank">[1]</a> Applications
-involving the use of internet technology for communication includes but
-not limiting to Emails, Instant messaging applications (like WhatsApp,
-Discord, Instagram Direct Messenger etc) and social networking sites (like
-Instagram, Facebook etc).</p>
+</li>
+</ol>
+<p>[1] Applications involving the use of internet technology for communication
+includes but not limiting to Emails, Instant messaging applications (like
+WhatsApp, Discord, Instagram Direct Messenger etc) and social networking
+sites (like Instagram, Facebook etc).</p>
+<ol>
+<li>
 <p><a href="#_ftnref2" rel="noopener noreferrer nofollow" target="_blank">[2]</a> Unsafe
 or illegal acts includes, but not limiting to, gangsterism, pornography,
 drug/tobacco abuse (including vaping), gambling, violence, harassment,
@@ -1044,13 +1061,11 @@ emails to your teachers.</p>
 or taking photos of other participants in the online lessons.</p>
 <p>m.&nbsp;&nbsp; Comply with the teachers’ instructions at all times during
 the online lessons.</p>
-<p>&nbsp;</p>
 <p><strong>Note:</strong> Students who are responsible for any breach of the
 above etiquette will be considered as having committed an offence in school
 and will therefore face a consequence during the school’s follow-up actions.</p>
 <p>&nbsp;</p>
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">POSSIBLE CORRECTIVE AND DISCIPLINARY ACTIONS</a></strong>
-</p>
+<h4>POSSIBLE CORRECTIVE AND DISCIPLINARY ACTIONS</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1091,18 +1106,44 @@ assignments on time</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
-<p>Ø&nbsp; Follow up by Form Teachers / Subject Teachers / CCA Teachers</p>
-<p>Ø&nbsp; Confiscation of Unauthorised Items</p>
-<p>Ø&nbsp; Corrective Work Order</p>
-<p>Ø&nbsp; Counselling</p>
-<p>Ø&nbsp; Detention</p>
-<p>Ø&nbsp; Immediate Rectification</p>
-<p>Ø&nbsp; Involvement of Parents</p>
-<p>Ø&nbsp; Probation</p>
-<p>Ø&nbsp; Record of Offence</p>
-<p>Ø&nbsp; Review of Conduct Grade</p>
-<p>Ø&nbsp; Verbal Warning</p>
-<p>Ø&nbsp; Suspension</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Follow up by Form Teachers / Subject Teachers / CCA Teachers</p>
+</li>
+<li>
+<p>Confiscation of Unauthorised Items</p>
+</li>
+<li>
+<p>Corrective Work Order</p>
+</li>
+<li>
+<p>Counselling</p>
+</li>
+<li>
+<p>Detention</p>
+</li>
+<li>
+<p>Immediate Rectification</p>
+</li>
+<li>
+<p>Involvement of Parents</p>
+</li>
+<li>
+<p>Probation</p>
+</li>
+<li>
+<p>Record of Offence</p>
+</li>
+<li>
+<p>Review of Conduct Grade</p>
+</li>
+<li>
+<p>Verbal Warning</p>
+</li>
+<li>
+<p>Suspension</p>
+</li>
+</ul>
 <p>&nbsp;</p>
 </td>
 </tr>
@@ -1111,9 +1152,8 @@ assignments on time</p>
 <p>
 <br>
 </p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -1184,28 +1224,53 @@ or e-vapouriser pods and catridges</p>
 <p><strong>&nbsp;</strong>
 </p>
 <p>&nbsp;</p>
-<p>Ø&nbsp; Confiscation of Unauthorised items</p>
-<p>Ø&nbsp; Individual Monitoring via a Monitoring Booklet</p>
-<p>Ø&nbsp; Involvement of External Agencies</p>
-<p>Ø&nbsp; Involvement of Parents</p>
-<p>Ø&nbsp; Letter of Undertaking and Probation with monthly progress report
-from teachers</p>
-<p>Ø&nbsp; Official Record of &nbsp;Offence(s)</p>
-<p>Ø&nbsp; Period of Compulsory Counselling</p>
-<p>Ø&nbsp; Warning Letter</p>
-<p>Ø&nbsp; Detention</p>
-<p>Ø&nbsp; Review of Conduct Grade</p>
-<p>Ø&nbsp; Review of Testimonial</p>
-<p>Ø&nbsp; Suspension</p>
-<p>Ø&nbsp; Expulsion</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Confiscation of Unauthorised items</p>
+</li>
+<li>
+<p>Individual Monitoring via a Monitoring Booklet</p>
+</li>
+<li>
+<p>Involvement of External Agencies</p>
+</li>
+<li>
+<p>Involvement of Parents</p>
+</li>
+<li>
+<p>Letter of Undertaking and Probation with monthly progress report from
+teachers</p>
+</li>
+<li>
+<p>Official Record of &nbsp;Offence(s)</p>
+</li>
+<li>
+<p>Period of Compulsory Counselling</p>
+</li>
+<li>
+<p>Warning Letter</p>
+</li>
+<li>
+<p>Detention</p>
+</li>
+<li>
+<p>Review of Conduct Grade</p>
+</li>
+<li>
+<p>Review of Testimonial</p>
+</li>
+<li>
+<p>Suspension</p>
+</li>
+<li>
+<p>Expulsion</p>
+</li>
+</ul>
 <p>&nbsp;</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="3">
+<td rowspan="1" colspan="2">
 <p>Note:</p>
 <p>The above list is non-exhaustive. The school reserves the sole right to
 determine and decide which category the offence falls under and the appropriate
