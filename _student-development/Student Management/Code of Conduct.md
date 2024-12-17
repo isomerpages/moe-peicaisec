@@ -1283,8 +1283,6 @@ teachers</p>
 <p>The above list is non-exhaustive. The school reserves the sole right to
 determine and decide which category the offence falls under and the appropriate
 corrective and disciplinary action(s) that needs to be taken.</p>
-<p><strong>&nbsp;</strong>
-</p>
 <p>The school may also issue rules and guidelines pertaining to specific
 matters of discipline from time to time. These may serve to add on to or
 clarify existing rules and corrective actions.</p>
