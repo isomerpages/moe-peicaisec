@@ -66,10 +66,8 @@ than the above prescribed shoes, are not allowed to be worn in school except
 for medical reasons and approved by a teacher with supporting documentation
 issued by medical practitioners registered under the Medical Registration
 Act.&nbsp;</p>
-<p></p>
 <p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The prescribed attire for various
 school activities and events (unless otherwise specified) is as follows:</p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -221,7 +219,6 @@ be reviewed by the school when necessary)</p>
 are expected to be in the prescribed school attire on days without PE.
 The following table summarises the follow-up actions to be taken should
 a student be inappropriately attired.</p>
-<p>&nbsp;</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
