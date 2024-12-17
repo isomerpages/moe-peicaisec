@@ -90,8 +90,10 @@ school activities and events (unless otherwise specified) is as follows:</p>
 <p>(excluding days with PE lessons)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Prescribed school uniform</p>
 <ul data-tight="true" class="tight">
+<li>
+<p>Prescribed school uniform</p>
+</li>
 <li>
 <p>Shirt and shorts for lower secondary boys</p>
 </li>
@@ -109,7 +111,7 @@ school activities and events (unless otherwise specified) is as follows:</p>
 <p>Days with PE lessons</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PE attire</p>
+<p>·&nbsp;&nbsp;&nbsp;PE attire</p>
 <p>Students must wear the school PE t-shirt and shorts for all PE lessons</p>
 </td>
 </tr>
@@ -119,7 +121,7 @@ school activities and events (unless otherwise specified) is as follows:</p>
 <br>e.g. Speech Day</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Prescribed school uniform</p>
+<p>·&nbsp;&nbsp;&nbsp;Prescribed school uniform</p>
 </td>
 </tr>
 <tr>
@@ -127,8 +129,7 @@ school activities and events (unless otherwise specified) is as follows:</p>
 <p>Examinations</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Prescribed school uniform
-(unless informed of any changes)</p>
+<p>·&nbsp;&nbsp;&nbsp;Prescribed school uniform (unless informed of any changes)</p>
 </td>
 </tr>
 <tr>
@@ -136,9 +137,8 @@ school activities and events (unless otherwise specified) is as follows:</p>
 <p>Inter-class Games</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PE attire</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Class/CCA T-shirts with PE
-shorts</p>
+<p>·&nbsp;&nbsp;&nbsp;PE attire</p>
+<p>·&nbsp;&nbsp;&nbsp;Class/CCA T-shirts with PE shorts</p>
 </td>
 </tr>
 <tr>
@@ -146,8 +146,7 @@ shorts</p>
 <p>School Excursions &amp; Learning Journeys</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Depending on the nature of
-activity,</p>
+<p>·&nbsp;&nbsp;&nbsp;Depending on the nature of activity,</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Prescribed school uniform</p>
@@ -166,11 +165,10 @@ activity,</p>
 <p>Saturdays &amp; School Holidays</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PE attire</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PE/CCA/Class T-shirt with
-school shorts /pants / skirt / PE shorts</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Shoes and socks (no slippers
-allowed)</p>
+<p>·&nbsp;&nbsp;&nbsp;PE attire</p>
+<p>·&nbsp;&nbsp;&nbsp;PE/CCA/Class T-shirt with school shorts /pants / skirt
+/ PE shorts</p>
+<p>·&nbsp;&nbsp;&nbsp;Shoes and socks (no slippers allowed)</p>
 </td>
 </tr>
 <tr>
@@ -178,8 +176,8 @@ allowed)</p>
 <p>Physical activities and in the Gym</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PE attire</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CCA/Class T-shirt with PE shorts</p>
+<p>1.&nbsp;&nbsp;&nbsp;PE attire</p>
+<p>2.&nbsp;&nbsp; CCA/Class T-shirt with PE shorts</p>
 </td>
 </tr>
 <tr>
@@ -187,10 +185,10 @@ allowed)</p>
 <p>Night Study Programme /Consultations</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Prescribed school uniform</p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PE attire</p>
-<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PE/CCA/Class T-shirt with
-school shorts / pants / skirts / PE shorts</p>
+<p>3.&nbsp;&nbsp;&nbsp;Prescribed school uniform</p>
+<p>4.&nbsp;&nbsp;&nbsp;PE attire</p>
+<p>5.&nbsp;&nbsp;&nbsp;PE/CCA/Class T-shirt with school shorts / pants /
+skirts / PE shorts</p>
 </td>
 </tr>
 <tr>
@@ -198,8 +196,8 @@ school shorts / pants / skirts / PE shorts</p>
 <p>Co-curricular Activities (CCA)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CCA Attire / CCA T-shirts/PE
-shorts / school shorts / pants / skirts</p>
+<p>6.&nbsp;&nbsp;&nbsp;CCA Attire / CCA T-shirts/PE shorts / school shorts
+/ pants / skirts</p>
 </td>
 </tr>
 <tr>
@@ -208,9 +206,9 @@ shorts / school shorts / pants / skirts</p>
 <br>(except during the examination periods)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PE/Class/CCA T-shirt with
-PE shorts / school shorts / pants/ skirts (This is a privilege that will
-be reviewed by the school when necessary)</p>
+<p>7.&nbsp;&nbsp;&nbsp;&nbsp;PE/Class/CCA T-shirt with PE shorts / school
+shorts / pants/ skirts (This is a privilege that will be reviewed by the
+school when necessary)</p>
 </td>
 </tr>
 </tbody>
