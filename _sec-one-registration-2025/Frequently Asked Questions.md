@@ -17,7 +17,7 @@ child can wear his/her primary school uniform/PE attire.</p>
 <p>Q2. Does the school have any rules and regulations specific to shoe and/or
 socks colours</p>
 <p>A2. You can refer to the school rules and regulations in the School’s
-Code of Conduct at the following link: &nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://www.peicaisec.moe.edu.sg/student-development/student-management/code-of-conduct/</a>
+Code of Conduct at the following link: &nbsp;<a href="https://www.peicaisec.moe.edu.sg/student-development/student-management/code-of-conduct/" rel="noopener noreferrer nofollow" target="_blank">https://www.peicaisec.moe.edu.sg/student-development/student-management/code-of-conduct/</a>
 </p>
 <p><strong>Mother Tongue Languages</strong>
 </p>
