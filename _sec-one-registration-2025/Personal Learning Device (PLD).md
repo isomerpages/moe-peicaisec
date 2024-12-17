@@ -79,7 +79,7 @@ per MOE guidelines.</p>
 <p>There would be an online briefing via Microsoft Teams for parents about
 the Secondary One Personal Learning Devices (PLD) Rollout.</p>
 <p>&nbsp;</p>
-<p>To attend, please register at this link (<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pcss24s1pldr</a> or
+<p>To attend, please register at this link (<a href="https://go.gov.sg/pcss24s1pldr" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pcss24s1pldr</a> or
 scan QR code below).</p>
 <p></p>
 <div class="isomer-image-wrapper">
