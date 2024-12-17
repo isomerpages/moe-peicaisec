@@ -1009,12 +1009,16 @@ be reflected in his/her Result Slip at the end of the year.</p>
 <li>
 <p><strong>Students are to demonstrate the same behaviour and attitude as expected in school itself during the use of internet technology for communication and online lessons.&nbsp; In particular,</strong>
 </p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp; When using internet technology<a href="#_ftn1" rel="noopener noreferrer nofollow" target="_blank">1</a> to communicate with
-others, students are expected to be respectful to others by not sharing</p>
+</li>
+</ol>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp; When using internet technology to communicate
+with others, students are expected to be respectful to others by not sharing</p>
+<ol>
+<li>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i.&nbsp;&nbsp;&nbsp;&nbsp;
 Obscene, derogatory or insensitive remarks/materials.</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ii.&nbsp;&nbsp;&nbsp;&nbsp;
-Information/materials that promotes unsafe or illegal acts<a href="#_ftn2" rel="noopener noreferrer nofollow" target="_blank">2.</a>
+Information/materials that promotes unsafe or illegal acts<a href="#_ftn2" rel="noopener noreferrer nofollow" target="_blank">.</a>
 </p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iii.&nbsp;&nbsp;&nbsp;&nbsp;
 Information and materials that would affect the safety or privacy of others.</p>
@@ -1028,8 +1032,7 @@ WhatsApp, Discord, Instagram Direct Messenger etc) and social networking
 sites (like Instagram, Facebook etc).</p>
 <ol>
 <li>
-<p><a href="#_ftnref2" rel="noopener noreferrer nofollow" target="_blank">[2]</a> Unsafe
-or illegal acts includes, but not limiting to, gangsterism, pornography,
+<p>Unsafe or illegal acts includes, but not limiting to, gangsterism, pornography,
 drug/tobacco abuse (including vaping), gambling, violence, harassment,
 discrimination etc.</p>
 <p>b.&nbsp;&nbsp;&nbsp;&nbsp; Be prompt in informing their teachers should
