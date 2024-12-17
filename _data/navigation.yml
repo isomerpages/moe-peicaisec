@@ -25,6 +25,8 @@ links:
         url: /about-us/media-press-release
       - title: Contact Us
         url: /about-us/contact-us
+  - title: Sec One Registration 2025
+    collection: sec-one-registration-2025
   - title: Academic
     url: /academic/subjects-offered
     sublinks:
@@ -96,8 +98,6 @@ links:
         url: /achievements/staff/
   - title: Student Services
     collection: student-services
-  - title: Sec One Registration 2025
-    collection: sec-one-registration-2025
   - title: Parents
     url: /parents
     sublinks:
