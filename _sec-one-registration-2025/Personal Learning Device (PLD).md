@@ -124,8 +124,6 @@ a much later date.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>&nbsp;</strong>
-</p>
 <p>Should you have further queries on the purchase of PLDs, you may contact
 Ms. Lee Li Juan (Head of Department, Information and Communications Technology)
 at <a rel="noopener noreferrer nofollow" target="_blank">lee_li_juan@moe.edu.sg</a>.</p>
