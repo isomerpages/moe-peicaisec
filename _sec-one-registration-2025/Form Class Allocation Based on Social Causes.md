@@ -9,7 +9,7 @@ from different posting groups, our school assigns students to their form
 classes based on the social causes which they are passionate about and
 would like to advocate for.</p>
 <p>Through school programmes such as the Applied Learning Programme (ALP)
-(<a rel="noopener noreferrer nofollow" target="_blank">https://www.peicaisec.moe.edu.sg/distinctive-edge/alp-applied-learning-programme/</a> for
+(<a href="https://www.peicaisec.moe.edu.sg/distinctive-edge/alp-applied-learning-programme/" rel="noopener noreferrer nofollow" target="_blank">https://www.peicaisec.moe.edu.sg/distinctive-edge/alp-applied-learning-programme/</a> for
 Applied Learning Programme) and the Values-In-Action (VIA) programmes,
 students in the same form class will be advocating for a common cause for
 the betterment of the environment and society.</p>
