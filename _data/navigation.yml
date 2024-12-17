@@ -96,6 +96,8 @@ links:
         url: /achievements/staff/
   - title: Student Services
     collection: student-services
+  - title: Sec One Registration 2025
+    collection: sec-one-registration-2025
   - title: Parents
     url: /parents
     sublinks:
@@ -107,5 +109,3 @@ links:
         url: /parents/resources-for-parents
       - title: Useful Links
         url: /parents/useful-links
-  - title: Sec One Registration 2025
-    collection: sec-one-registration-2025
