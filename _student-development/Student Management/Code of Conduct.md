@@ -985,9 +985,6 @@ areas. Such areas are designated drop off and pick up zones only.</p>
 The overall Conduct Grade, Attendance, Punctuality of each student will
 be reflected in his/her Result Slip at the end of the year.</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 <p><strong><a rel="noopener noreferrer nofollow" target="_blank">CYBER ETIQUETTE</a></strong>
 </p>
 <p><strong>Students are to demonstrate the same behaviour and attitude as expected in school itself during the use of internet technology for communication and online lessons.&nbsp; In particular,</strong>
@@ -1004,6 +1001,15 @@ iii.&nbsp;&nbsp;&nbsp;&nbsp; Information and materials that would affect
 the safety or privacy of others.</p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp; For online lessons, students are expected to</p>
 <p>a.&nbsp;&nbsp;&nbsp;&nbsp; Be punctual for all scheduled online lessons.</p>
+<p><a href="#_ftnref1" rel="noopener noreferrer nofollow" target="_blank">[1]</a> Applications
+involving the use of internet technology for communication includes but
+not limiting to Emails, Instant messaging applications (like WhatsApp,
+Discord, Instagram Direct Messenger etc) and social networking sites (like
+Instagram, Facebook etc).</p>
+<p><a href="#_ftnref2" rel="noopener noreferrer nofollow" target="_blank">[2]</a> Unsafe
+or illegal acts includes, but not limiting to, gangsterism, pornography,
+drug/tobacco abuse (including vaping), gambling, violence, harassment,
+discrimination etc.</p>
 <p>b.&nbsp;&nbsp;&nbsp;&nbsp; Be prompt in informing their teachers should
 they be unable to attend the online lessons due to valid reasons (e.g.
 on MC etc.).&nbsp; Absences must be supported by appropriate documentation,
@@ -1214,16 +1220,6 @@ clarify existing rules and corrective actions.</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<hr>
-<p><a href="#_ftnref1" rel="noopener noreferrer nofollow" target="_blank">[1]</a> Applications
-involving the use of internet technology for communication includes but
-not limiting to Emails, Instant messaging applications (like WhatsApp,
-Discord, Instagram Direct Messenger etc) and social networking sites (like
-Instagram, Facebook etc).</p>
-<p><a href="#_ftnref2" rel="noopener noreferrer nofollow" target="_blank">[2]</a> Unsafe
-or illegal acts includes, but not limiting to, gangsterism, pornography,
-drug/tobacco abuse (including vaping), gambling, violence, harassment,
-discrimination etc.</p>
 </li>
 </ol>
 <p></p>
