@@ -61,11 +61,11 @@ support your child in his/her journey as a teenager. You can indicate your
 interest to join the Parent Support Group via the <em>Secondary One Registration Form 2025</em> sent
 via Parents Gateway.</p>
 <p><strong>8</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Please check our school website at <a rel="noopener noreferrer nofollow" target="_blank">https://www.peicaisec.moe.edu.sg/</a> for
+Please check our school website at <a href="https://www.peicaisec.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.peicaisec.moe.edu.sg/</a> for
 regular updates and announcements.&nbsp; Should you have any queries on
 Secondary One Matters, you may contact Mr Alvin Yeo, HOD/PE &amp; CCA overseeing
-Secondary One Registration Matters, at <a rel="noopener noreferrer nofollow" target="_blank">alvin_yeo@moe.edu.sg</a>&nbsp;
-or email the school at <a rel="noopener noreferrer nofollow" target="_blank">peicai_ss@moe.edu.sg</a>.</p>
+Secondary One Registration Matters, at <strong>alvin_yeo@moe.edu.sg&nbsp;</strong> or
+email the school at <strong>peicai_ss@moe.edu.sg</strong>.</p>
 <p><strong>9</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 I look forward to your strong support in providing an enriching and rewarding
 educational journey for all our students. I would also like to take this
@@ -73,7 +73,5 @@ opportunity to wish you and your family members a very Happy New Year!</p>
 <p>Yours sincerely</p>
 <p>Mr Michael Muhunthan</p>
 <p>Principal</p>
-<p>&nbsp;</p>
-<p></p>
 <p></p>
 <p></p>
