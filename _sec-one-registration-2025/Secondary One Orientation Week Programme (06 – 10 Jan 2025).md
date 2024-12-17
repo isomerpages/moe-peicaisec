@@ -79,7 +79,7 @@ to secondary school.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7.40am – 1:50pm</p>
+<p>7:40am – 1:50pm</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>PCSS PE Attire* and extra set of school-based change (inclusive of a dark-coloured
@@ -92,7 +92,7 @@ school-based t-shirt)</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8.20am – 1:50pm</p>
+<p>8:20am – 1:50pm</p>
 </td>
 </tr>
 <tr>
