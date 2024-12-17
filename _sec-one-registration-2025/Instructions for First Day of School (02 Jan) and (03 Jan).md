@@ -118,7 +118,7 @@ follows:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9.45am – 10.20am</p>
+<p>9:45am – 10.20am</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Year Head Talk</p>
@@ -126,7 +126,7 @@ follows:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10.20am – 10.55am</p>
+<p>10:20am – 10.55am</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Recess</p>
@@ -134,7 +134,7 @@ follows:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10.55am – 12.40pm</p>
+<p>10:55am – 12.40pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher Time / Photo Taking</p>
@@ -142,7 +142,7 @@ follows:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>12.40pm – 1.50pm</p>
+<p>12:40pm – 1.50pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>CCE Check-in: Back to School Package</p>
@@ -150,7 +150,7 @@ follows:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1.50pm</p>
+<p>1:50pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dismissal</p>
@@ -179,7 +179,7 @@ as follows:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7.40am – 8.00am</p>
+<p>7:40am – 8.00am</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Morning Assembly &amp; Flag Raising</p>
@@ -187,7 +187,7 @@ as follows:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8.00am – 9.45am</p>
+<p>8:00am – 9.45am</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Safety &amp; Student Management Briefings for whole school</p>
@@ -195,7 +195,7 @@ as follows:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9.45am – 10.20am</p>
+<p>9:45am – 10.20am</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Recess</p>
@@ -203,7 +203,7 @@ as follows:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10.20am – 12.40pm</p>
+<p>10:20am – 12.40pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MIMS Onboarding / Form Teacher Time</p>
@@ -211,7 +211,7 @@ as follows:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>12.40pm</p>
+<p>12:40pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dismissal</p>
