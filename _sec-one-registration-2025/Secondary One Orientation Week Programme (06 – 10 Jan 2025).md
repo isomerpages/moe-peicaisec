@@ -128,8 +128,9 @@ prayers at 12:40pm and report back in school by 2.30pm.</p>
 </p>
 <p>Should you require further details on the Secondary 1 Orientation Week
 Programme, you could contact Mr. Alvin Yeo (Head of Department, PE &amp;
-CCA) via email at <u>alvin_yeo@moe.edu.sg</u> or Ms. Lee Li Juan (Head of
-Department, Information and Communications Technology) via email at <u>lee_li_juan@moe.edu.sg</u>.
+CCA) via email at <strong>alvin_yeo@moe.edu.sg</strong> or Ms. Lee Li Juan
+(Head of Department, Information and Communications Technology) via email
+at <strong>lee_li_juan@moe.edu.sg</strong>.
 <br>
 </p>
 <p></p>
