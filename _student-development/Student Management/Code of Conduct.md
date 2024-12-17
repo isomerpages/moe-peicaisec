@@ -420,7 +420,7 @@ and the flag raising ceremony are as follows:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7:35 a.m.</p>
+<p>7:35 am</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The slow music starts.</p>
@@ -434,8 +434,8 @@ assembly venues due to inclement weather.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7:35 a.m. –</p>
-<p>7:38 a.m.</p>
+<p>7:35 am -</p>
+<p>7:38 am</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The slow music ends.</p>
@@ -446,7 +446,7 @@ and the school gates will be closed at 7.35 a.m. sharp.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7:40 a.m. onwards</p>
+<p>7:40 am onwards</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The fast music ends.</p>
