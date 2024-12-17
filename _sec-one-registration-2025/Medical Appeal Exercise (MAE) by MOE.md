@@ -25,4 +25,48 @@ allowed to reject the reposted school.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 2024 (tentative).</p>
 <p>If you need further clarifications on the MAE by MOE, please contact the
 school at 6202 1260.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Annex A - 2024 MAE Application</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><a href="/files/Appleal_to_Transfer.pdf" rel="noopener noreferrer nofollow" target="_blank">Appeal to Transfer School</a>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Annex B - List of Sec Schools</p>
+</th>
+<td rowspan="1" colspan="1">
+<p><a href="/files/List_of_Secondary_Schools_by_Alphabetical_Order.pdf" rel="noopener nofollow" target="_blank">List of Secondary Schools by Alphabetical Order</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
