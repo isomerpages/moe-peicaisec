@@ -1,5 +1,5 @@
 ---
-title: Eligibility for Higher Mother Tongue Language (HTML)
+title: Eligibility for Higher Mother Tongue Language (HMTL)
 permalink: /sec-one-registration-2025/eligibility-for-higher-mother-tongue-language-html/
 description: ""
 variant: tiptap
