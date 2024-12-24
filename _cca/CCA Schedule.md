@@ -4,7 +4,7 @@ permalink: /cca-schedule/
 variant: tiptap
 description: ""
 ---
-<h4><strong>Peicai Sec CCA Schedule 2024</strong></h4>
+<h4><strong>Peicai Sec CCA Schedule 2025</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="CCA Schedule 2025" src="/images/CCA/2025_CCA_Schedule.png">
 </div>
