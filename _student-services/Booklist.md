@@ -10,7 +10,7 @@ variant: tiptap
 <p>-please click the book list below for more information, or refer to the
 letter posted in Parents Gateway</p>
 <h4><strong>Secondary 1</strong></h4>
-<p><a href="/files/2024/Booklist_2025_Peicai_Sec_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Booklist 2025 Peicai Sec 1</u></a>
+<p><a href="/files/Booklist_2025_Peicai_Sec_1_v1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Booklist 2025 Peicai Sec 1</u></a>
 </p>
 <h4><strong>Secondary 2</strong></h4>
 <p><a href="/files/Booklist_2025_Peicai_Sec_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Booklist 2025 Peicai Sec 2</a>
