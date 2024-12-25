@@ -8,33 +8,52 @@ variant: tiptap
 </p>
 <p>Q1. The uniform supplier does not have the uniform size for my child.
 Can my child come to school in his primary school uniform?</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>A1. If the uniform supplier does not have the size for your child, please
 do a pre-order with the</p>
+</li>
+</ul>
 <p>Supplier early. Your child can attend school in Peicai Secondary School’s
 PE attire till the school uniform is ready.</p>
 <p>If both the school uniform and PE attire are not available yet, then your
 child can wear his/her primary school uniform/PE attire.</p>
 <p>Q2. Does the school have any rules and regulations specific to shoe and/or
 socks colours</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>A2. You can refer to the school rules and regulations in the School’s
 Code of Conduct at the following link: &nbsp;<a href="https://www.peicaisec.moe.edu.sg/student-development/student-management/code-of-conduct/" rel="noopener noreferrer nofollow" target="_blank">https://www.peicaisec.moe.edu.sg/student-development/student-management/code-of-conduct/</a>
 </p>
+</li>
+</ul>
 <p><strong>Mother Tongue Languages</strong>
 </p>
 <p>Q1. Does Peicai Secondary offer Higher Mother Tongue?</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>A1. Yes. Peicai Secondary offers Higher Chinese/ Higher Malay from Secondary
 One onwards in the school.</p>
+</li>
+</ul>
 <p>Higher Tamil students will attend lessons at Umar Pulavar Tamil Language
 Centre (UPTLC). Please refer to their website at <a href="https://www.uptlc.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.uptlc.moe.edu.sg/</a>.</p>
 <p>Q2. Why is Tamil Language not offered at Peicai Secondary?</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>A2. Similar to some other schools, due to the small size of the cohort,
 resources are maximised&nbsp;at designated TL centres.</p>
+</li>
+</ul>
 <p>Q3. Where do students go for Tamil Language lessons?</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>A3. Students, who offer TL, will need to attend TL lessons at designated
-TL centres. For Peicai</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Secondary School, the designated
-TL centre by MOE is at Umar Pulavar Tamil Language Centre (UPTLC). Please
-refer to their website at <a href="https://www.uptlc.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.uptlc.moe.edu.sg/</a>.</p>
+TL centres. For Peicai Secondary School, the designated TL centre by MOE
+is at Umar Pulavar Tamil Language Centre (UPTLC). Please refer to their
+website at <a href="https://www.uptlc.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.uptlc.moe.edu.sg/</a>.</p>
+</li>
+</ul>
 <p>Q4. Are lessons for TL and HTL at the centres conducted during curriculum
 time?</p>
 <p>A4. No. It is conducted outside curriculum time. Depending on the centre,
