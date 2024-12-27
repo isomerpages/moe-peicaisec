@@ -30,7 +30,3 @@ the title “DMA Query”.</p>
 Rollout will be held on 4 January 2025 (Sat), 9.30 a.m. to 11 a.m. To attend,
 please register at this link (<a href="https://go.gov.sg/pcss24s1pldr" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pcss24s1pldr</a>).
 Upon registration, you will receive the meeting link details.</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
