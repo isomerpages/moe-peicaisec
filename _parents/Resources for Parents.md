@@ -16,7 +16,7 @@ more information.
 <p>Parent User Guide for DMA Default Option: <a href="https://drive.google.com/file/d/1nc4nV1i0s_gN9QUJamI-dlwiKJGKwBV4/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">LINK</a>
 </p>
 <p>If you wish to change your DMA option, please submit your request via
-this link&nbsp;<a href="https://go.gov.sg/pcss-dma-change-request" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pcss-dma-change-request</a>.
+this link&nbsp;<a href="https://go.gov.sg/pcss-after-school-dma-change" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pcss-after-school-dma-change</a>.
 Kindly note that the changes to DMA options will be effected at the end
 of each Term.
 <br>
