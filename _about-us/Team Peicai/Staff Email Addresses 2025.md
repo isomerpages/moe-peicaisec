@@ -1096,8 +1096,7 @@ variant: tiptap
 <p>ICT Associate</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ong_jun_qi_victor_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_jun_qi_victor_a@moe.edu.sg</a>
-</p>
+<p>ong_jun_qi_victor_a@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
