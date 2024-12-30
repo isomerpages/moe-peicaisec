@@ -9,55 +9,55 @@ variant: tiptap
 <h4><strong>Team Peicai</strong></h4>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aboutus/1__SCHOOL_LEADERS.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aboutus/1_SCHOOL_LEADERS.jpg">
 </div>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aboutus/7__SCHOOL_MANAGEMENT_COMMITTEE.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aboutus/2_SCHOOL_MANAGEMENT_COMMITTEE.jpg">
 </div>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aboutus/11__Student_Development_Team_v2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aboutus/3_Student_Development_Team.jpg">
 </div>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aboutus/3__English___Literature_Department.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aboutus/4_EnglishLiterature_Department.jpg">
 </div>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aboutus/6__Mathematics_Department.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aboutus/5_Mathematics_Department.jpg">
 </div>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aboutus/5__Science_Department_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aboutus/6_Science_Department.jpg">
 </div>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aboutus/4__Mother_Tongue_Department.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aboutus/7_Mother_Tongue_Department.jpg">
 </div>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aboutus/2__Humanities_Department.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aboutus/8_Humanities_Department.jpg">
 </div>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aboutus/8__Craft___Technology.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aboutus/9_Craft_Technology.jpg">
 </div>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aboutus/9__PE___CCA_Department.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aboutus/10_PE_CCA_Department.jpg">
 </div>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aboutus/12__School_Administration.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aboutus/11_School_Administration.jpg">
 </div>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aboutus/13__School_Operations.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aboutus/12_School_Operations.jpg">
 </div>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aboutus/10__ICT_Department.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aboutus/LastICT.jpg">
 </div>
 <hr>
 <p></p>
