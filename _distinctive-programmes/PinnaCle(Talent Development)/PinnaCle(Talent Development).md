@@ -83,7 +83,7 @@ at post-secondary level.</p>
 at key entry points:</p>
 <p>
 <br>(a) Direct Entry After PSLE:
-<br>• At least AL4 or better in PSLE for the subject
+<br>• At least AL3 or better in PSLE for the subject
 <br>
 <br>(b) Secondary 1 Mid-Year
 <br>• Pass English, Mathematics &amp; Science for Sem 1
@@ -97,13 +97,7 @@ at key entry points:</p>
 <br>• Conduct grade must be at least a good
 <br>• Subject teacher's recommendation</p>
 <p>&nbsp;</p>
-<p>(d) Secondary 2 End-Year (for 2024)
-<br>• Pass promotion criteria of the academic year</p>
-<p>• Overall marks % must be at least 75% for the subject (EL/MA/Sci).
-<br>• Conduct grade must be at least a good
-<br>• Subject teacher's recommendation</p>
-<p>&nbsp;</p>
-<p>(e) Secondary 2 End-Year (from 2025)
+<p>(d) Secondary 2 End-Year (from 2025)
 <br>• Pass English, Mathematics &amp; Science for academic year
 <br>• Overall marks % must be at least 75% for the subject (EL/MA/Sci).
 <br>• Conduct grade must be at least a good

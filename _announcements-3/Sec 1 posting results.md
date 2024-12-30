@@ -27,11 +27,11 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024/posting_results_to_be_released.pdf" rel="noopener noreferrer nofollow" target="_blank">Click Here</a>
-</p>
+<p>Posting results to be released</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2024/posting_results_to_be_released.pdf" rel="noopener noreferrer nofollow" target="_blank">Click Here</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -42,7 +42,8 @@ description: ""
 <p>Refer to School Website for further information.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/sec-one-registration-2025/secondary-one-registration-form-submit-by-23-dec/" rel="noopener nofollow" target="_blank">Click Here</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
