@@ -158,7 +158,7 @@ variant: tiptap
 <p>HOD Infocomm Technology</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Lee_li_juan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lee_li_juan@schools.gov.sg</a>
+<p><a href="mailto:Lee_li_juan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lee_li_juan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
