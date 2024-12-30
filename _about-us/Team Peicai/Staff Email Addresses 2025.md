@@ -90,18 +90,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Theseira Merlinda Laura (Mrs Joseph)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Year Head (Lower Secondary)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:merlinda_laura_theseira@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">merlinda_laura_theseira@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Koh Puay Yang James (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
