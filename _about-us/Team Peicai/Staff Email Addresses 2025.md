@@ -131,7 +131,7 @@ variant: tiptap
 <p>Ang Yue Hua (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head/Upper Sec (Internal)</p>
+<p>Assistant Year Head/ Lower Sec</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yue_hua_ang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yue_hua_ang@moe.edu.sg</a>
@@ -143,7 +143,7 @@ variant: tiptap
 <p>Chua Jing Kai (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head/ Lower Sec (Internal)</p>
+<p>Assistant Year Head/ Lower Sec</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Chua_jing_kai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Chua_jing_kai@moe.edu.sg</a>
