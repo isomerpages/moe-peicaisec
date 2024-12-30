@@ -346,7 +346,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Ang Yue Hua</p>
-<p>Ms Lam Yong Peng (Chem/POA/PE*)</p>
+<p>Ms Lam Yong Peng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1-1</p>
@@ -376,7 +376,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Tan Khay Yi Sarah</p>
-<p>Ms Avery Kevyn Wee Reyes (UT)</p>
+<p>Ms Avery Kevyn Wee Reyes</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1-3</p>
@@ -391,7 +391,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Prem s/o Pirapala Chandran</p>
-<p>Ms Tay Kai Yi (PGDE EL/SS: From Mar)</p>
+<p>Ms Tay Kai Yi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1-4</p>
@@ -406,7 +406,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Lin Yonglin</p>
-<p>Ms Safura Zulkifly (PGDE SS/EL: From Mar)</p>
+<p>Ms Safura Zulkifly</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1-5</p>
@@ -420,7 +420,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Puspa Haryani Bte Ismail</p>
-<p>Ms Karissa Chong (PGDE Geog/SS: From Mar)</p>
+<p>Ms Karissa Chong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1-6</p>
@@ -434,7 +434,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Melissa Koh</p>
-<p>Ms Amirah Syafiqah Latasa (PGDE ML: From Mar)</p>
+<p>Ms Amirah Syafiqah Latasa</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1-7</p>
@@ -448,7 +448,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Nur Zamir Bin Md Yatim</p>
-<p>Ms Zhao Liying (PGDE CL: From Mar)</p>
+<p>Ms Zhao Liying</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1-8</p>
@@ -461,8 +461,8 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Tee Shi Hui</p>
-<p>Mr Abdul Ra'uf Bin Abdul Rahim (Phy/Maths)</p>
-<p>Nur Nahya Yaqina Bte Yahya (UT:NFS/EL)</p>
+<p>Mr Abdul Ra'uf Bin Abdul Rahim</p>
+<p>Nur Nahya Yaqina Bte Yahya</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1-9</p>
@@ -479,7 +479,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Zhu Ruoye</p>
-<p>Mdm Lee Lay Peng (Phy/Maths)</p>
+<p>Mdm Lee Lay Peng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1-10</p>
@@ -583,7 +583,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Zhang Chuyi</p>
-<p>Ng Wei Xuan Verlyn(UT: E Lit/EL)</p>
+<p>Ng Wei Xuan Verlyn</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2 CE</p>
@@ -732,8 +732,8 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Mohamad Sharizan Bin Abu Bakar</p>
-<p>Ms Goh Peini (6 months)</p>
-<p>Ms Jacelyn Tan (2<sup>nd</sup> Sem)</p>
+<p>Ms Goh Peini</p>
+<p>Ms Jacelyn Tan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3-1 (NT)</p>
@@ -839,8 +839,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Seoh Soon Peng</p>
-<p>PGDE PE (From May)</p>
-<p>Ms Tay Ying Xuan (JC TIP Intern 13/1 – 14/3)</p>
+<p>Ms Tay Ying Xuan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4C1</p>
@@ -884,7 +883,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Wong Wei Ting</p>
-<p>Ms Anjali Ravi (JC TIP Intern 13/1 – 14/3)</p>
+<p>Ms Anjali Ravi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4C4</p>
@@ -898,7 +897,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Soo Sio Koon</p>
-<p>Ms Saatwika Satyabrata Sahoo (JC TIP Intern 13/1 – 14/3)</p>
+<p>Ms Saatwika Satyabrata Sahoo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>5B1</p>
