@@ -252,56 +252,9 @@ Weighted Assessment (WA) and End-of-Year Examinations (EYE).</p>
 <h5>Secondary 1</h5>
 <p><strong>To be updated</strong>
 </p>
-<p></p>
-<p></p>
-<p></p>
 <h5>Secondary 2</h5>
-<p><strong>To be promoted to Secondary 3, the criteria for the respective courses are as follows:</strong>
+<p><strong>To be updated</strong>
 </p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Course &amp; Level</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Promotion Criteria</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Express</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Pass in English Language and a pass percentage in the average of all subjects</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Normal Academic</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Grade 5 or better in,
-<br>a) English Language and 2 other subjects or
-<br>b) 4 subjects</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Normal Technical</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Grade D or better in 2 subjects, one of which should be English Language
-or Mathematics</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
 <h5>Secondary 3</h5>
 <p><strong>To be promoted to Secondary 4, the criteria for the respective courses are as follows:</strong>
 </p>
