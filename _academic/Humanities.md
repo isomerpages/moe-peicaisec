@@ -174,8 +174,7 @@ Reservoir.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2024 – Two Silver Awards</p>
-<p>&nbsp;</p>
-<p>2022 – Gold and Silver Awards</p>
+<p>&nbsp;2022 – Gold and Silver Awards</p>
 <p>&nbsp;</p>
 </td>
 </tr>
