@@ -9,6 +9,14 @@ sections:
   - hero:
       background: /images/Main_Banner_Main_1B3.jpg
   - infopic:
+      title: GCE O-Level Examination Results 10 January 2025
+      id: infopic
+      description: 2024 Singapore-Cambridge
+      button: More Details
+      url: /gce-o-level-examination-results/
+      image: /images/Announcement/GCE_O_Level_Results.jpg
+      alt: Image alt text
+  - infopic:
       title: Sec 1 posting results to be released on Dec 18
       id: infopic
       description: Refer to School Website for further information.
