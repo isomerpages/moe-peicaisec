@@ -208,27 +208,66 @@ Reservoir.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
+<td rowspan="1" colspan="1">
+<p>Upper Secondary NA level</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025/2125_y25_sy_N_level_SSGY.pdf" rel="noopener noreferrer nofollow" target="_blank">Humanities(Geography) (SSGY)</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lower Secondary Humanities (G1)</p>
-<p>Lower Secondary Geography (G2 and G3)</p>
-<p>Lower Secondary History (G2 and G3)</p>
-<p>Upper Secondary NA level Humanities(Geography) (SSGY)</p>
-<p>Upper Secondary O level Humanities(Geography) (SSGY)</p>
-<p>Upper Secondary O level Geography</p>
-<p>Upper Secondary NA level Humanities(History) (SSHY)</p>
-<p>Upper Secondary O level Humanities(History) (SSHY)</p>
-<p>Upper Secondary O level History</p>
+<p>Upper Secondary O level</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2025/2260_y25_sy_O_level_SSGY.pdf" rel="noopener noreferrer nofollow" target="_blank">Humanities(Geography) (SSGY)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Upper Secondary O level</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025/2279_y25_sy_O_level_GY.pdf" rel="noopener noreferrer nofollow" target="_blank">Geography</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Upper Secondary NA level</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025/2126_y25_sy_N_level_SSHY.pdf" rel="noopener noreferrer nofollow" target="_blank">Humanities(History) (SSHY)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Upper Secondary O level</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025/2261_y25_sy_O_level_SSHY.pdf" rel="noopener noreferrer nofollow" target="_blank">Humanities(History) (SSHY)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Upper Secondary O level</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025/2174_y25_sy_O_level_HY.pdf" rel="noopener noreferrer nofollow" target="_blank">History</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Upper Secondary NT Level</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025/7066_y25_sy_NT_Level_EBS.pdf" rel="noopener noreferrer nofollow" target="_blank">Elements of Business Skills (EBS)</a>
+</p>
 </td>
 </tr>
 </tbody>
