@@ -298,7 +298,7 @@ Reservoir.</p>
 <p>Upper Secondary NT Level</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025/7066_y25_sy_NT_Level_EBS.pdf" rel="noopener noreferrer nofollow" target="_blank">EBS</a>
+<p><a href="/files/2025/7066_y25_sy_NT_Level_EBS.pdf" rel="noopener noreferrer nofollow" target="_blank">Elements of Business Skills (EBS)</a>
 </p>
 </td>
 </tr>
