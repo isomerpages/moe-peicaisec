@@ -244,7 +244,8 @@ Reservoir.</p>
 <p>Upper Secondary NA level</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Humanities(Geography) (SSGY)</p>
+<p><a href="/files/2025/2125_y25_sy_N_level_SSGY.pdf" rel="noopener noreferrer nofollow" target="_blank">Humanities(Geography) (SSGY)</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -252,7 +253,8 @@ Reservoir.</p>
 <p>Upper Secondary O level</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Humanities(Geography) (SSGY)</p>
+<p><a href="/files/2025/2260_y25_sy_O_level_SSGY.pdf" rel="noopener noreferrer nofollow" target="_blank">Humanities(Geography) (SSGY)</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -260,7 +262,8 @@ Reservoir.</p>
 <p>Upper Secondary O level</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Geography</p>
+<p><a href="/files/2025/2279_y25_sy_O_level_GY.pdf" rel="noopener noreferrer nofollow" target="_blank">Geography</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -268,7 +271,8 @@ Reservoir.</p>
 <p>Upper Secondary NA level</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Humanities(History) (SSHY)</p>
+<p><a href="/files/2025/2126_y25_sy_N_level_SSHY.pdf" rel="noopener noreferrer nofollow" target="_blank">Humanities(History) (SSHY)</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -276,7 +280,8 @@ Reservoir.</p>
 <p>Upper Secondary O level</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Humanities(History) (SSHY)</p>
+<p><a href="/files/2025/2261_y25_sy_O_level_SSHY.pdf" rel="noopener noreferrer nofollow" target="_blank">Humanities(History) (SSHY)</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -284,7 +289,8 @@ Reservoir.</p>
 <p>Upper Secondary O level</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>History</p>
+<p><a href="/files/2025/2174_y25_sy_O_level_HY.pdf" rel="noopener noreferrer nofollow" target="_blank">History</a>
+</p>
 </td>
 </tr>
 <tr>
