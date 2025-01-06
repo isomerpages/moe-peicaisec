@@ -209,34 +209,34 @@ Reservoir.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lower Secondary Humanities (G1)</p>
+<p>Lower Secondary (G1)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Lower Secondary Geography (G2 and G3)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Humanities</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lower Secondary History (G2 and G3)</p>
+<p>Lower Secondary (G2 and G3)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Geography</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lower Secondary History (G2 and G3)</p>
+<p>Lower Secondary (G2 and G3)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>History</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lower Secondary (G2 and G3)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>History</p>
 </td>
 </tr>
 <tr>
@@ -257,10 +257,10 @@ Reservoir.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Upper Secondary O level Geography</p>
+<p>Upper Secondary O level</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Geography</p>
 </td>
 </tr>
 <tr>
@@ -281,10 +281,10 @@ Reservoir.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Upper Secondary O level History</p>
+<p>Upper Secondary O level</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>History</p>
 </td>
 </tr>
 <tr>
