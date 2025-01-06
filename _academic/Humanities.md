@@ -208,24 +208,88 @@ Reservoir.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
+<p>Lower Secondary Humanities (G1)</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lower Secondary Humanities (G1)</p>
 <p>Lower Secondary Geography (G2 and G3)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Lower Secondary History (G2 and G3)</p>
-<p>Upper Secondary NA level Humanities(Geography) (SSGY)</p>
-<p>Upper Secondary O level Humanities(Geography) (SSGY)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lower Secondary History (G2 and G3)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Upper Secondary NA level</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Humanities(Geography) (SSGY)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Upper Secondary O level</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Humanities(Geography) (SSGY)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Upper Secondary O level Geography</p>
-<p>Upper Secondary NA level Humanities(History) (SSHY)</p>
-<p>Upper Secondary O level Humanities(History) (SSHY)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Upper Secondary NA level</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Humanities(History) (SSHY)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Upper Secondary O level</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Humanities(History) (SSHY)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Upper Secondary O level History</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
