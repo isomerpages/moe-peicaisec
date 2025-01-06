@@ -209,38 +209,6 @@ Reservoir.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lower Secondary (G1)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Humanities</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Lower Secondary (G2 and G3)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Geography</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Lower Secondary (G2 and G3)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>History</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Lower Secondary (G2 and G3)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>History</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Upper Secondary NA level</p>
 </td>
 <td rowspan="1" colspan="1">
