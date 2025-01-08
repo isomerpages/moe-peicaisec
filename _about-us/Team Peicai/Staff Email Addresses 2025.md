@@ -322,7 +322,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Jason Seng Yang Sun</p>
+<p>Jason Seng Yang Sun (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head Student Management</p>
