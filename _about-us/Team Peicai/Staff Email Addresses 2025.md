@@ -252,7 +252,7 @@ variant: tiptap
 <p>Kavitha Vythilingam (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head Aesthetics</p>
+<p>Subject Head/ Aesthetics HOD/CCE (covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:kavitha_vythilingam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kavitha_vythilingam@moe.edu.sg</a>
