@@ -320,6 +320,18 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Jason Seng Yang Sun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head Student Management</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:jason_seng_yang_sun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jason_seng_yang_sun@moe.edu.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <table style="minWidth: 75px">
