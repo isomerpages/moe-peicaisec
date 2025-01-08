@@ -90,56 +90,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Koh Puay Yang James (Mr)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Year Head (Upper Secondary)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:koh_puay_yang_james@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_puay_yang_james@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Nur Syirain Bte Hamzah (Ms)</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Assistant Year Head/Upper Sec (Internal)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nur_syirain_hamzah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_syirain_hamzah@moe.edu.sg</a>
-</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ang Yue Hua (Ms)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Assistant Year Head/ Lower Sec</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:yue_hua_ang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yue_hua_ang@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Chua Jing Kai (Mr)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Assistant Year Head/ Lower Sec</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Chua_jing_kai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Chua_jing_kai@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Lee Li Juan (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -245,6 +195,56 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ong_chiang_thai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_chiang_thai@moe.edu.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Koh Puay Yang James (Mr)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year Head (Upper Secondary)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:koh_puay_yang_james@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_puay_yang_james@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ang Yue Hua (Ms)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head/ Lower Sec</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yue_hua_ang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yue_hua_ang@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chua Jing Kai (Mr)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head/ Lower Sec</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Chua_jing_kai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Chua_jing_kai@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nur Syirain Bte Hamzah (Ms)</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head/Upper Sec (Internal)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nur_syirain_hamzah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_syirain_hamzah@moe.edu.sg</a>
+</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
