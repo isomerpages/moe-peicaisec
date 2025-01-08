@@ -332,11 +332,39 @@ school</p>
 instantly connect you with a number of parents with whom you would be able
 to interact and share ideas on how you could further support your child
 in his/her journey as a teenager.</p>
-<p>If you would like to be a member of Peicai’s PSG, please register <a href="https://go.gov.sg/parentconsentform24" rel="noopener noreferrer nofollow" target="_blank">here</a> or
+<p>If you would like to be a member of Peicai’s PSG, please register <a href="https://go.gov.sg/psg2025" rel="noopener noreferrer nofollow" target="_blank">here</a> or
 scan the QR Code provided below and the PSG Teacher Advisors would be in
 touch with you.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="Pc QR" src="/images/Parents/pc_psg2024_25.jpeg">
+<img style="width: 50%;" height="auto" width="100%" alt="PSG QR CODE" src="/images/Parents/PSG_QR_CODE.png">
 </div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
