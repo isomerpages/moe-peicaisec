@@ -108,7 +108,7 @@ variant: tiptap
 <p>HOD Infocomm Technology</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Lee_li_juan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lee_li_juan@moe.edu.sg</a>
+<p><a href="mailto:Lee_li_juan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_li_juan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -169,7 +169,7 @@ variant: tiptap
 <br>Co-curricular Activities</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Alvin_Yeo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Alvin_Yeo@moe.edu.sg</a>
+<p><a href="mailto:Alvin_Yeo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">alvin_Yeo@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -229,7 +229,7 @@ variant: tiptap
 <p>Assistant Year Head/ Lower Sec</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Chua_jing_kai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Chua_jing_kai@moe.edu.sg</a>
+<p><a href="mailto:Chua_jing_kai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_jing_kai@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -253,7 +253,7 @@ variant: tiptap
 <p>Subject Head/ Computer Applications</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Teng_Lip_Koon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Teng_Lip_Koon@moe.edu.sg</a>
+<p><a href="mailto:Teng_Lip_Koon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teng_lip_koon@moe.edu.sg</a>
 </p>
 </td>
 </tr>
