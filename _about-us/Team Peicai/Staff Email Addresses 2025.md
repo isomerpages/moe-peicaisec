@@ -665,7 +665,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Mohamad Sharizan Bin Abu Bakar</p>
 <p>Ms Goh Peini</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3-1</p>
@@ -675,7 +674,6 @@ variant: tiptap
 </p>
 <p><a href="mailto:goh_peini@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_peini@moe.edu.sg</a>
 </p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -868,7 +866,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:seoh_soon_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seoh_soon_peng@moe.edu.sg</a>
 </p>
-<p></p>
 </td>
 </tr>
 <tr>
