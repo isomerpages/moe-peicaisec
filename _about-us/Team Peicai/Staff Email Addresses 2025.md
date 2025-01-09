@@ -235,19 +235,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Nur Syirain Bte Hamzah (Ms)</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Assistant Year Head/Upper Sec (Internal)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nur_syirain_hamzah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_syirain_hamzah@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Kavitha Vythilingam (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -255,19 +242,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:kavitha_vythilingam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kavitha_vythilingam@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Talisa Kaur Dhaliwal (Ms)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head Character &amp;
-<br>Citizenship Education (Internal)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:talisa_kaur_dhaliwal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">talisa_kaur_dhaliwal@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -328,6 +302,32 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:jason_seng_yang_sun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jason_seng_yang_sun@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nur Syirain Bte Hamzah (Ms)</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head/Upper Sec (Internal)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nur_syirain_hamzah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_syirain_hamzah@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Talisa Kaur Dhaliwal (Ms)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head Character &amp;
+<br>Citizenship Education (Internal)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:talisa_kaur_dhaliwal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">talisa_kaur_dhaliwal@moe.edu.sg</a>
 </p>
 </td>
 </tr>
