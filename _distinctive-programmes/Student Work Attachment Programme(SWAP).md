@@ -124,9 +124,6 @@ and applicable in their lives. They are also appreciative of the fact that
 the various teams at Tribal DBB took time out of their busy schedule to
 accommodate our students’ visit to their office.</p>
 <hr>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/work attachment opportunities-peicai 07.JPG">
-</div>
 <p><strong>New Additions to SWAP 2024</strong>
 <br>
 </p>
