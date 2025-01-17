@@ -60,4 +60,10 @@ sections:
       title: Announcements
       subtitle: PEICAI SECONDARY SCHOOL
       button: More details
+  - infopic:
+      title: Parent Engagement Session 18 Jan Saturday
+      subtitle: open House
+      id: infopic
+      description: Sec 1 and Sec 4 PES Together with external ECG partners joining us
+        and CCA open House
 ---
