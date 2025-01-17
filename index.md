@@ -66,4 +66,5 @@ sections:
       id: infopic
       description: Sec 1 and Sec 4 PES Together with external ECG partners joining us
         and CCA open House
+      image: /images/Announcement/ECG_partners_joining_us_and_CCA_open_House.jpg
 ---
