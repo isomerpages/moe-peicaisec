@@ -9,6 +9,14 @@ sections:
   - hero:
       background: /images/Main_Banner_Main_1B3.jpg
   - infopic:
+      title: Parent Engagement Session 18 Jan Saturday
+      subtitle: open House
+      id: infopic
+      description: Sec 1 and Sec 4 PES Together with external ECG partners joining us
+        and CCA open House
+      image: /images/Announcement/ECG_partners_joining_us_and_CCA_open_House.jpg
+      alt: ECG open house
+  - infopic:
       title: GCE O-Level Examination Results 10 January 2025
       id: infopic
       description: 2024 Singapore-Cambridge
