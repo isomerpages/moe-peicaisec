@@ -11,9 +11,8 @@ sections:
   - infopic:
       title: Parent Engagement Session 18 Jan Saturday
       id: infopic
-      description: Sec 1 and Sec 4/5 PES Together with external ECG partners joining
-        us and CCA open House
-      image: /images/Announcement/ECG_partners_joining_us_and_CCA_open_House.jpg
+      description: Sec 4/5 – 8 45 am to 11 30 am,    Sec 1 – 1030 am to 130 pm
+      image: /images/Announcement/Slide1.jpg
   - infopic:
       title: GCE O-Level Examination Results 10 January 2025
       id: infopic
