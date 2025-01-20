@@ -197,6 +197,9 @@ which are of prime concern at this age.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="s3s1" src="/images/Student Development/S3S1.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -213,6 +216,9 @@ which are of prime concern at this age.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="s4s" src="/images/Student Development/S4S.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -229,6 +235,9 @@ which are of prime concern at this age.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="s4s1" src="/images/Student Development/S4S1.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -245,6 +254,9 @@ which are of prime concern at this age.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="s4s2" src="/images/Student Development/S4S2.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -261,6 +273,9 @@ which are of prime concern at this age.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="s5s" src="/images/Student Development/S5S.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
