@@ -398,7 +398,7 @@ variant: tiptap
 <p>Ms Lam Yong Peng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1-1</p>
+<p>1-EE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">yue_hua_ang@moe.edu.sg</a>
@@ -413,7 +413,7 @@ variant: tiptap
 <p>Ms Liow Yi Xuan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1-2</p>
+<p>1-CE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">tan_yan_chong@moe.edu.sg</a>
@@ -428,7 +428,7 @@ variant: tiptap
 <p>Ms Avery Wee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1-3</p>
+<p>1-PN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">tan_khay_yi_sarah@moe.edu.sg</a>
@@ -443,7 +443,7 @@ variant: tiptap
 <p>Ms Tay Kai Yi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1-4</p>
+<p>1-AY</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">prem_pirapala_chandran@moe.edu.sg</a>
@@ -458,7 +458,7 @@ variant: tiptap
 <p>Ms Safura Zulkifly</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1-5</p>
+<p>1-HY</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">lin_yonglin@moe.edu.sg</a>
@@ -473,7 +473,7 @@ variant: tiptap
 <p>Ms Karissa Chong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1-6</p>
+<p>1-MN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">puspa_haryani_ismail@moe.edu.sg</a>
@@ -488,7 +488,7 @@ variant: tiptap
 <p>Ms Amirah Latasa</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1-7</p>
+<p>1-CY</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">koh_shihui_melissa@moe.edu.sg</a>
@@ -503,7 +503,7 @@ variant: tiptap
 <p>Ms Zhao Liying</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1-8</p>
+<p>1-CN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">nur_zamir_md_yatim@moe.edu.sg</a>
@@ -519,7 +519,7 @@ variant: tiptap
 <p>Ms Nahya Yaqina</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1-9</p>
+<p>1-IN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">tee_shi_hui@moe.edu.sg</a>
@@ -536,7 +536,7 @@ variant: tiptap
 <p>Mdm Lee Lay Peng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1-10</p>
+<p>1-RE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">zhu_ruoye@moe.edu.sg</a>
@@ -699,7 +699,7 @@ variant: tiptap
 <p>Ms Goh Peini</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3-1</p>
+<p>3-MN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">mohamad_sharizan_abu_bakar@moe.edu.sg</a>
@@ -714,7 +714,7 @@ variant: tiptap
 <p>Mr Wong Poh Shen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3-2</p>
+<p>3-RE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">tan_mee_yen_doris@moe.edu.sg</a>
@@ -729,7 +729,7 @@ variant: tiptap
 <p>Ms Tao Ruijue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3-3</p>
+<p>3-CY</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">thenmozhi_nalathamby@moe.edu.sg</a>
@@ -744,7 +744,7 @@ variant: tiptap
 <p>Mdm Chow May Yen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3-4</p>
+<p>3-CE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">tay_ning@moe.edu.sg</a>
@@ -759,7 +759,7 @@ variant: tiptap
 <p>Mr Jason Seng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3-5</p>
+<p>3-PN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">kalpana_balakrishnan@moe.edu.sg</a>
@@ -774,7 +774,7 @@ variant: tiptap
 <p>Ms Koh Cin Dee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3-6</p>
+<p>3-CN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">goh_wei_xuan@moe.edu.sg</a>
@@ -789,7 +789,7 @@ variant: tiptap
 <p>Mdm Soh Bee Keow</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3-7</p>
+<p>3-EE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">nur_syirain_hamzah@moe.edu.sg</a>
