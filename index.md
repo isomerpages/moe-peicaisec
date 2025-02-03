@@ -14,7 +14,7 @@ sections:
       description: Sec 4/5 – 8 45 am to 11 30 am,    Sec 1 – 1030 am to 130 pm
       image: /images/Announcement/Slide1.jpg
       alt: Parent Engagement
-      button: Click Here
+      button: click here
       url: /parent-engagement-session-slides-18-jan/
   - infopic:
       title: GCE O-Level Examination Results 10 January 2025
