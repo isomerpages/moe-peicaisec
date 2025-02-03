@@ -9,11 +9,13 @@ sections:
   - hero:
       background: /images/Main_Banner_Main_1B3.jpg
   - infopic:
-      title: Parent Engagement Session 18 Jan Saturday
+      title: Parent Engagement Session slides 18 Jan
       id: infopic
       description: Sec 4/5 – 8 45 am to 11 30 am,    Sec 1 – 1030 am to 130 pm
       image: /images/Announcement/Slide1.jpg
       alt: Parent Engagement
+      button: click here to view slides
+      url: /parent-engagement-session-slides-18-jan/
   - infopic:
       title: GCE O-Level Examination Results 10 January 2025
       id: infopic
