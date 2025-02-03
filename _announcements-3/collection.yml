@@ -2,5 +2,6 @@ collections:
   announcements-3:
     output: true
     order:
+      - Parent Engagement Session slides 18 Jan.md
       - GCE O Level Examination Results.md
       - Sec 1 posting results.md
