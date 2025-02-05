@@ -9,6 +9,13 @@ sections:
   - hero:
       background: /images/Main_Banner_Main_1B3.jpg
   - infopic:
+      title: Inspiring Teacher of English Award 2025
+      subtitle: Invitation for Nominations
+      id: infopic
+      description: I Love My English Teacher
+      image: /images/Announcement/2025_Inspiring_English_Teacher_Award.png
+      alt: I Love My English Teacher 2025
+  - infopic:
       title: Parent Engagement Session slides 18 Jan
       id: infopic
       description: Sec 4/5 – 8 45 am to 11 30 am,    Sec 1 – 1030 am to 130 pm
