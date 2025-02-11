@@ -20,9 +20,6 @@ description: ""
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="CCA Schedule 2025" src="/images/CCA/2025_CCA_Schedule.png">
-</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -31,6 +28,9 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CCA Schedule 2025" src="/images/CCA/CCA_Schedule_2025_A.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
