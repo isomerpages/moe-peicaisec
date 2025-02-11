@@ -4,8 +4,35 @@ permalink: /achievements/students-achievements/
 description: ""
 variant: tiptap
 ---
-<p><strong><u>Year 2025</u></strong>
-</p>
+<h4><strong><u>Year 2025</u></strong></h4>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Volleyball Jan 2025" src="/images/Achievements/Volleyball_Jan_2025.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
