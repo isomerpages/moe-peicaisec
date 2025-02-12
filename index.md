@@ -26,38 +26,6 @@ sections:
       button: click here to view slides
       url: /parent-engagement-session-slides-18-jan/
   - infopic:
-      title: GCE O-Level Examination Results 10 January 2025
-      id: infopic
-      description: 2024 Singapore-Cambridge
-      button: More Details
-      url: /gce-o-level-examination-results/
-      image: /images/Announcement/GCE_O_Level_Results.jpg
-      alt: Image alt text
-  - infopic:
-      title: Sec 1 posting results to be released on Dec 18
-      id: infopic
-      description: Refer to School Website for further information.
-      button: More details
-      url: /sec-1-posting-results-to-be-released-on-dec-18/
-      image: /images/Announcement/posting_results_to_be_released.jpg
-      alt: Image alt text
-  - infopic:
-      id: infopic
-      description: Release of the 2024 Singapore-Cambridge GCE N(A)- & N(T)-Level
-        Examination Results on 16 December 2024
-      button: More Details
-      url: /release-2024-sg-nlevel-results-16dec2024/
-      image: /images/Announcement/nlevel_results_2024_placeholder.jpg
-      alt: nlevel-results-release
-  - infopic:
-      title: OPEN HOUSE
-      id: infopic
-      description: 23 NOVEMBER 2024 9AM to 2PM
-      image: /images/Announcement/OPEN_HOUSE_2024.jpg
-      alt: Image alt text
-      button: Click here to download e-brochure
-      url: https://drive.google.com/file/d/1aBdo-G6u32wBQjXbidDmZJ7N0PQTQabF/view?usp=sharing
-  - infopic:
       title: PCSS Partnering Apple in our EdTech Programme
       id: infopic
       button: CLICK HERE
