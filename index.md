@@ -9,6 +9,12 @@ sections:
   - hero:
       background: /images/Main_Banner_Main_1B3.jpg
   - infopic:
+      title: Parent Engagement Session
+      id: infopic
+      description: 15 February 2025
+      image: /images/Announcement/pes_15Feb_2025.jpg
+      alt: Parent Engagement Session 2025
+  - infopic:
       title: Inspiring Teacher of English Award 2025
       subtitle: Invitation for Nominations
       id: infopic
