@@ -17,7 +17,7 @@ sections:
         February 2025.
       button: Click here to find out more
       url: /real-world-co-design-platform/
-      image: /images/Announcement/Real_world_Co_design_v1.jpg
+      image: /images/Announcement/Real_world_Co_design_.jpg
       alt: Real World Co-design Platfor
   - infopic:
       title: Parent Engagement Session
