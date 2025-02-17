@@ -13,7 +13,7 @@ description: ""
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="real world banner" src="/images/Announcement/Real_world_Co_design_banner.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Real world co design v1" src="/images/Announcement/Real_world_Co_design_banner_v1.jpg">
 </div>
 </th>
 </tr>
