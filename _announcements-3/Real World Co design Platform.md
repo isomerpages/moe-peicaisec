@@ -4,6 +4,21 @@ permalink: /real-world-co-design-platform/
 variant: tiptap
 description: ""
 ---
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="real world banner" src="/images/Announcement/Real_world_Co_design_banner.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <p>Peicai Secondary School, in collaboration with the DesignSingapore Council,
 Design Exchange, and sponsored by the James Dyson Foundation (JDF), launched
 the Real World Co-design Platform (RWCDP), from 3 Aug 2024 to 8 February
