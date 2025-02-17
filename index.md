@@ -56,9 +56,10 @@ sections:
       subtitle: Peicai Secondary School in
       id: infopic
       description: collaboration with the DesignSingapore Council, Design Exchange,
-        and sponsored by the James Dyson Foundation (JDF)
+        and sponsored by the James Dyson Foundation (JDF). From 3 Aug 2024 to 8
+        February 2025.
       button: Click here to find out more
       url: /real-world-co-design-platform/
       image: /images/Announcement/Real_world_Co_design_.jpg
-      alt: Image alt text
+      alt: Real World Co-design Platfor
 ---
