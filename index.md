@@ -51,4 +51,14 @@ sections:
       title: Announcements
       subtitle: PEICAI SECONDARY SCHOOL
       button: More details
+  - infopic:
+      title: Real World Co-design Platform (RWCDP)
+      subtitle: Peicai Secondary School in
+      id: infopic
+      description: collaboration with the DesignSingapore Council, Design Exchange,
+        and sponsored by the James Dyson Foundation (JDF)
+      button: Click here to find out more
+      url: /real-world-co-design-platform/
+      image: /images/Announcement/Real_world_Co_design_.jpg
+      alt: Image alt text
 ---
