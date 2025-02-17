@@ -2,6 +2,7 @@ collections:
   announcements-3:
     output: true
     order:
+      - Real World Co design Platform.md
       - 2025 Inspiring Teacher of English Award.md
       - Parent Engagement Session slides 18 Jan.md
       - GCE O Level Examination Results.md
