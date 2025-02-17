@@ -40,7 +40,6 @@ description: ""
 <p></p>
 <p></p>
 <p></p>
-<p></p>
 </td>
 </tr>
 </tbody>
