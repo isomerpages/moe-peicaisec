@@ -13,7 +13,7 @@ sections:
       id: infopic
       button: Click here to find out more
       url: /real-world-co-design-platform/
-      image: /images/Announcement/Real_world_Co_design_.jpg
+      image: /images/Announcement/Real_World_Co_design_Platform__1.jpg
       alt: Real World Co-design Platfor
   - infopic:
       title: Parent Engagement Session
