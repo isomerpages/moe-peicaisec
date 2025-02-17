@@ -4,8 +4,11 @@ permalink: /real-world-co-design-platform/
 variant: tiptap
 description: ""
 ---
-<table style="minWidth: 25px">
+<p></p>
+<table style="minWidth: 75px">
 <colgroup>
+<col>
+<col>
 <col>
 </colgroup>
 <tbody>
@@ -13,9 +16,32 @@ description: ""
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Real world co design v1" src="/images/Announcement/Real_world_Co_design_banner_v1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Real World Co-design Platform 2" src="/images/Announcement/Real_World_Co_design_Platform_2.jpg">
 </div>
 </th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Real World Co-design Platform 1" src="/images/Announcement/Real_World_Co_design_Platform__1.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+</td>
 </tr>
 </tbody>
 </table>
