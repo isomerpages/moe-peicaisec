@@ -9,6 +9,13 @@ sections:
   - hero:
       background: /images/Main_Banner_Main_1B3.jpg
   - infopic:
+      title: Breakfast with Principal 2025
+      id: infopic
+      button: Click here to find out more
+      url: /breakfast-with-principal-2025/
+      image: /images/Announcement/Breakfast_with_P_2_.jpg
+      alt: Breakfast with Principal 2025
+  - infopic:
       title: Real World Co-design Platform (RWCDP)
       id: infopic
       button: Click here to find out more
