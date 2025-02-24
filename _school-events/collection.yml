@@ -1,5 +1,4 @@
 collections:
   school-events:
     output: true
-    order:
-      - Breakfast with Principal 2025.md
+    order: []
