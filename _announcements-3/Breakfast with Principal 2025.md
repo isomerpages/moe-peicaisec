@@ -1,6 +1,6 @@
 ---
-title: School Events 2025
-permalink: /school-events-2025/
+title: Breakfast with Principal 2025
+permalink: /breakfast-with-principal-2025/
 variant: tiptap
 description: ""
 ---

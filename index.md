@@ -9,6 +9,13 @@ sections:
   - hero:
       background: /images/Main_Banner_Main_1B3.jpg
   - infopic:
+      title: Breakfast with Principal 2025
+      id: infopic
+      button: Click here to find out more
+      url: /breakfast-with-principal-2025/
+      image: /images/Announcement/Breakfast_with_P_2_.jpg
+      alt: Breakfast with Principal 2025
+  - infopic:
       title: Real World Co-design Platform (RWCDP)
       id: infopic
       button: Click here to find out more
@@ -21,6 +28,8 @@ sections:
       description: 15 February 2025
       image: /images/Announcement/pes_15Feb_2025.jpg
       alt: Parent Engagement Session 2025
+      button: click here to view slides
+      url: /parent-engagement-session-slides-15-feb/
   - infopic:
       title: Inspiring Teacher of English Award 2025
       subtitle: Invitation for Nominations

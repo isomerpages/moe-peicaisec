@@ -2,6 +2,7 @@ collections:
   unused-pages:
     output: true
     order:
+      - School Events 2025.md
       - Staff.md
       - Students.md
       - Subject overview.md
