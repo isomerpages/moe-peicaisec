@@ -28,6 +28,8 @@ sections:
       description: 15 February 2025
       image: /images/Announcement/pes_15Feb_2025.jpg
       alt: Parent Engagement Session 2025
+      button: click here to view slides
+      url: /parent-engagement-session-slides-15-feb/
   - infopic:
       title: Inspiring Teacher of English Award 2025
       subtitle: Invitation for Nominations
