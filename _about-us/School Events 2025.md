@@ -86,7 +86,6 @@ for the parents.</p>
 </tr>
 </tbody>
 </table>
-<hr>
 <p>Our Secondary 1 students enjoyed an exciting and memorable Sec One Orientation
 Week 2025!</p>
 <p>From getting to know their classmates, having fun and games with the student
