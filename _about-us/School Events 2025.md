@@ -29,7 +29,7 @@ so quickly.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Breakfast with Principal 1" src="/images/Announcement/Breakfast_with_P_1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Breakfast with Principal" src="/images/Announcement/Breakfast_with_Principal.jpg">
 </div>
 <p></p>
 </th>
