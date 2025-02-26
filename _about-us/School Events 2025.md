@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <hr>
-<p></p>
+<h4><strong>Breakfast with Principal</strong></h4>
 <p>On 22 Feb, Mr Michael hosted close to 50 Sec 1 parents to our "Breakfast
 with Principal" event at The Buzz. The parents were treated to a hearty
 breakfast of Nasi Lemak, Mee Siam, Carrot cake and for Vegetarian lovers,
@@ -86,6 +86,8 @@ for the parents.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<h4><strong>Secondary One Orientation</strong></h4>
 <p>Our Secondary 1 students enjoyed an exciting and memorable Sec One Orientation
 Week 2025!</p>
 <p>From getting to know their classmates, having fun and games with the student
