@@ -4,69 +4,119 @@ permalink: /academic/permalink/computing/
 variant: tiptap
 description: ""
 ---
-<h4><strong>Learning Outcomes</strong></h4>
-<p>In Peicai Secondary School, we aim to achieve the following through the
-Computer Applications (CPA) subject:</p>
-<ul>
-<li>
-<p>Promotes digital literacy. CPA prepares students to be technologically
-adept and to contribute effectively in a society that is increasingly driven
-by ICT. Students learn to be responsible, confident and creative users
-of technology who can participate and thrive in a digital world.</p>
-</li>
-<li>
-<p>Engages students and prepares them for future studies. The hands-on and
-interactive nature of the subject effectively engages students in their
-learning. Through engaged learning, students are equipped with a wide range
-of necessary ICT skills that prepare them to meet the demands of other
-subjects in secondary school and at post-secondary institutes.</p>
-</li>
-<li>
-<p>Supports the development of 21st Century Competencies (21CC). Through
-CPA, students acquire skills such as critical thinking, information processing
-and effective communication.</p>
-</li>
-<li>
-<p>Develops computational thinking skills. Since 2012, the CPA syllabus has
-included programming where students learn basic computational thinking
-skills such as algorithmic thinking and decomposition through creating
-animations and games.</p>
-</li>
-</ul>
-<p>From 2024 onwards, Computer Applications (CPA) which is currently only
-available for the Normal Technical (NT) stream will be gradually phased
-out. It will be replaced with G1, G2 and G3 Computing from 2026, and available
-as an elective subject to all Upper Secondary students. This strategic
-shift is part of a national initiative to enhance technological proficiency
-across the student body. To lay the foundation, Lower Secondary students
-will acquire basic digital skills through integrated tasks within various
-subjects and programme. The tiered G1/G2/G3 Computing are designed to foster
-a deeper interest and higher competency in computing disciplines among
-those who wish to pursue them.</p>
-<h4><strong>Department Programme/Highlights</strong></h4>
-<p></p>
-<p>The Animation and Game Making (AGM) Competition is an annual competition,
-for Secondary school students offering the CPA subject, organised by the
-Computer Education Unit of Curriculum Planning and Development Division
-(CPDD).</p>
-<p>The objectives of the AGM Competition are to</p>
+<h4><strong>Computing</strong></h4>
+<p>Starting in 2026, G1, G2, and G3 Computing will be offered as elective
+subjects for all upper secondary students. This expansion allows more students
+to explore and deepen their interest in Computing while building essential
+digital competencies for the future.</p>
+<p><strong>Value of Computing</strong>
+</p>
+<p>In an era of rapid technological advancements and the rise of Artificial
+Intelligence (AI), digital transformation is reshaping the way we learn,
+work, and live. To stay competitive, companies must embrace innovation,
+and individuals must continuously develop digital skills to remain relevant
+in the evolving job market.</p>
+<p>Computing education plays a crucial role in preparing students for this
+future. By offering hands-on opportunities to develop computational thinking,
+problem-solving skills, and technical expertise, Computing subjects equip
+students with the foundational knowledge needed for <strong>digital literacy</strong>, <strong>innovation</strong>,
+and <strong>emerging careers in technology</strong>.</p>
+<p><strong>Learning Outcomes</strong>
+</p>
+<p>At Peicai, our G1 and G2 Computing subjects aim for students to</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>provide a platform to showcase students’ work</p>
+<p>Develop essential computational thinking skills along with 21st century
+competencies,</p>
 </li>
 <li>
-<p>develop students’ interest in media design; and</p>
+<p>Develop digital competencies in using digital tools to create digital
+artefacts, process information, communicate effectively and solve simple
+problems,</p>
 </li>
 <li>
-<p>hone students’ communication and presentation skills.</p>
+<p>Appreciate the legal, ethical and security issues relating to the use
+of computers, and</p>
+</li>
+<li>
+<p>Gain understanding of emerging technologies and the impact of technology
+on society.</p>
 </li>
 </ul>
-<p></p>
-<p>This competition is held in conjunction with the school-based course projects
-for the CPA subject at Secondary 2 and Secondary 3 levels. Students will
-develop an animation or game based on the respective theme provided for
-the course projects. Upon completion of the projects, CPA subject teachers
-will select the best piece of work to be submitted for the competition.</p>
+<p>G2 Computing shares about two-thirds of the content with G1 Computing,
+however a higher level of demand is expected for G2 Computing to develop
+deeper understanding and computational thinking skills.</p>
+<p><strong>Criteria of Offer</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Subject</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Pre-requisite Overall Score at end of Sec 2</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>G1 Computing</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Not applicable*</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>G2 Computing</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>At least 50 for G2 Mathematics</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>G3 Computing</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>At least 60 for Sec 1 G3 Mathematics and 50 for Sec 2 G3 Mathematics</p>
+</li>
+<li>
+<p>Selection at MOE level; Subject to school recommendation</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p>*Students who primarily take G1 subjects are strongly encouraged to take
+G1 Computing, as it provides a valuable foundation and enhances their post-secondary
+education prospects.</p>
+<p><strong>Model of Offer</strong>
+</p>
+<p>Students offering G1 and G2 Computing will take the subject at Peicai
+Sec, while students offering G3 Computing will attend lessons at Zhonghua
+Sec</p>
+<p><strong>Exemplars of Student Work:</strong>
+</p>
+<p><strong>Animation</strong>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -87,14 +137,6 @@ will select the best piece of work to be submitted for the competition.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Animation creation</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -103,6 +145,8 @@ will select the best piece of work to be submitted for the competition.</p>
 </tr>
 </tbody>
 </table>
+<p><strong>Coding a Game</strong>
+</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -113,11 +157,6 @@ will select the best piece of work to be submitted for the competition.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" src="/images/Cpa_game2.jpg">
 </div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sample Student Work</p>
 </td>
 </tr>
 <tr>
@@ -180,6 +219,91 @@ will select the best piece of work to be submitted for the competition.</p>
 <p><a href="https://drive.google.com/file/d/1pO9Z1JpJk9eblBEPBbnrF_39k9LCDOL9" rel="noopener noreferrer nofollow" target="_blank">G2 Computing T&amp;L Syllabus K244 (2026)</a>
 </p>
 <p><a href="https://drive.google.com/file/d/1scqURCiU1lllsHHR1Z-T1NEwjHXW1-hK" rel="noopener noreferrer nofollow" target="_blank">Summary of Differences in G1 vs G2 Computing Syllabuses</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Infocomm Technology (ICT) Department</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Designation</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Email</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lee Li Juan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD (ICT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">lee_li_juan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Teng Lip Koon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH (CPA)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">teng_lip_koon@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Andy Chee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">chee_khuen_woei@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Gan Yolk Get</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">gan_yolk_get@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Melissa Koh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">koh_shihui_melissa@moe.edu.sg</a>
 </p>
 </td>
 </tr>
