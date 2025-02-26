@@ -19,7 +19,6 @@ by parents who thanked the FTs and subject teachers for providing consultations
 and support for students. On this note, would like to thank all teachers
 for your help in helping our Sec 1 students adapt and embrace our School
 so quickly.</p>
-<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -27,13 +26,21 @@ so quickly.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Breakfast with Principal 1" src="/images/Announcement/Breakfast_with_P_1_.jpg">
-</div>
 <p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Breakfast with Principal" src="/images/Announcement/Breakfast_with_Principal.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Group Photo of School Leaders, PSG Exco, KPs and parents attendees for
 a successful event.</p>
-</th>
+</td>
 </tr>
 </tbody>
 </table>
