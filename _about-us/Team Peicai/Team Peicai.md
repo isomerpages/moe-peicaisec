@@ -890,7 +890,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Seoh Soon Peng</p>
-<p>Ms Tay Ying Xuan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4C1</p>
@@ -933,7 +932,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Wong Wei Ting</p>
-<p>Ms Anjali Ravi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4C4</p>
@@ -946,7 +944,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Soo Sio Koon</p>
-<p>Ms Saatwika</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>5B1</p>
