@@ -2,7 +2,7 @@ collections:
   student-development:
     output: true
     order:
-      - Education and Career Guidance/ECG Updates S1 and S2.md
+      - Education and Career Guidance/Education and Career Guidance (ECG).md
       - Education and Career Guidance/.keep
       - CCE/.keep
       - CCE/Character & Citizenship Education.md
