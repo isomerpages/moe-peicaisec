@@ -72,7 +72,7 @@ variant: tiptap
 <p>Floorball Boys and Girls</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Badminton Boys and Girls (NEW!)</p>
+<p>Badminton Boys and Girls</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Soccer (Interest Group)</p>
@@ -212,7 +212,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Debate Society (new CCA to be introduced in 2025)</p>
+<p>Debate Society</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
