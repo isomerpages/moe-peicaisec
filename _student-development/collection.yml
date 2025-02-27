@@ -2,6 +2,7 @@ collections:
   student-development:
     output: true
     order:
+      - ECG Pathways/Education and Career Guidance (ECG).md
       - ECG Pathways/.keep
       - CCE/.keep
       - CCE/Character & Citizenship Education.md
