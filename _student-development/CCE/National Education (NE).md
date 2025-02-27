@@ -56,6 +56,106 @@ Day.</p>
 <hr>
 <p><strong>Key Programmes:</strong>
 </p>
+<p><strong>Total Defence Day 2025</strong>
+</p>
+<p>As part of our school’s commemoration of Total Defence Day and participation
+in Exercise SG Ready 2025, our students participated in the Food Resilience
+Preparedness Programme in collaboration with the Singapore Food Agency
+(SFA) and SATS on17 during their CCE lesson.</p>
+<p>As part of the experience, each student was given a ready-to-eat (RTE)
+meal to consume at ambient temperature with disposable cutleries.</p>
+<p>This programme aims to prepare students for uncertainties and potential
+food supply disruptions. It encourages them to be adaptable and flexible
+in their food choices by being open to accommodate changes and consider
+alternative food options in the event of food supply disruptions.</p>
+<p>Following the experience, students shared their reflections with their
+classmates through a guided discussion:</p>
+<p>“The FRPP exercise was very useful as it helped ensure that we are prepared
+for such situations. I liked that we were given the opportunity to experience
+this beforehand. I learned to be adaptable and make the best of what is
+available during such events.”</p>
+<p>– Poorni, 4C4</p>
+<p>“My experience during the commemoration was unforgettable. It gave me
+insight into Singapore’s readiness in case of an emergency. It truly gives
+me a sense of security within Singapore. It was an interesting experience
+for me, and I do hope the school continues to do more things like this.”</p>
+<p>-Keith, 3EE</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="3">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CCE NE 1" src="/images/Student Development/cce_ne_banner.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>Students are eager to try out their RTE meals!</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CCE NE 2025 4" src="/images/Student Development/cce_ne_4.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Empowering Students through sharing about the significance of Total Defence
+Day</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CCE NE 2025 5" src="/images/Student Development/cce_ne_5.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Through class discussions, students critically explore how their contributions
+shape Singapore’s future.</p>
+<p>The day focused on equipping our students with valuable skills while also
+deepening our understanding of Total Defence. It served as a powerful reminder
+that we all have a crucial role in keeping Singapore resilient and united.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
 <p><strong>Total Defence Day 2024</strong>
 </p>
 <p>Total Defence Day serves as a reminder of our shared responsibility to
