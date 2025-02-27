@@ -26,15 +26,11 @@ so quickly.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Breakfast with Principal" src="/images/Announcement/Breakfast_with_Principal.jpg">
 </div>
-</td>
+<p></p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -42,38 +38,51 @@ so quickly.</p>
 a successful event.</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
-<table style="minWidth: 25px">
+<table style="minWidth: 50px">
 <colgroup>
+<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Breakfast with Principal 2" src="/images/Announcement/Breakfast_with_P_2_.jpg">
 </div>
-<p>Mr Michael hosting the Q and A session which was a very engaging experience
-for the parents.</p>
+<p></p>
 </th>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Breakfast with Principal 3" src="/images/Announcement/Breakfast_with_P_3_.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="Breakfast with Principal 3" src="/images/Announcement/Breakfast_with_P_3_.jpg">
 </div>
-<p>PSG Exco facilitating the event for our Sec 1 parents</p>
+<p></p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Michael hosting the Q and A session which was a very engaging experience
+for the parents.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PSG Exco facilitating the event for our Sec 1 parents</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
