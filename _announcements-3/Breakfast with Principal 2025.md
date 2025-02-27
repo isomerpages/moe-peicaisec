@@ -11,7 +11,6 @@ fried bee hoon. This was the first event that our PSG Exco partnered our
 School in facilitating the discussions. The parents were delighted with
 the warm hospitality and the great support shown by the school in supporting
 their parenting journey.</p>
-<p></p>
 <p>School leaders and Key Personnel were invited to engage the parents during
 the dialogue session and the Q and A session was so engaging that the session
 exceeded the stipulated time by an hour. Notes of affirmation were mentioned
@@ -84,5 +83,4 @@ for the parents.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p></p>
