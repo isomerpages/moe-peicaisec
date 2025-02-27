@@ -112,7 +112,7 @@ education prospects.</p>
 </p>
 <p>Students offering G1 and G2 Computing will take the subject at Peicai
 Sec, while students offering G3 Computing will attend lessons at Zhonghua
-Sec</p>
+Sec.</p>
 <p><strong>Exemplars of Student Work:</strong>
 </p>
 <p><strong>Animation</strong>
@@ -255,7 +255,7 @@ Sec</p>
 <p>HOD (ICT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lee_li_juan@moe.edu.sg</a>
+<p><a href="mailto:lee_li_juan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_li_juan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -267,7 +267,7 @@ Sec</p>
 <p>SH (CPA)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">teng_lip_koon@moe.edu.sg</a>
+<p><a href="mailto:teng_lip_koon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teng_lip_koon@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -279,7 +279,7 @@ Sec</p>
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chee_khuen_woei@moe.edu.sg</a>
+<p><a href="mailto:chee_khuen_woei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chee_khuen_woei@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -291,7 +291,7 @@ Sec</p>
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">gan_yolk_get@moe.edu.sg</a>
+<p><a href="mailto:gan_yolk_get@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gan_yolk_get@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -303,10 +303,10 @@ Sec</p>
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">koh_shihui_melissa@moe.edu.sg</a>
+<p><a href="mailto:koh_shihui_melissa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_shihui_melissa@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>&nbsp;</p>
