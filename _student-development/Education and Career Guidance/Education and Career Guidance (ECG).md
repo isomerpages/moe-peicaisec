@@ -3,6 +3,7 @@ title: Education and Career Guidance (ECG)
 permalink: /student-development/education-and-career-guidance-ecg/
 description: ""
 variant: tiptap
+third_nav_title: Education and Career Guidance
 ---
 <h4><strong>Education and Career Guidance (ECG)</strong></h4>
 <p><strong>Objectives</strong>
