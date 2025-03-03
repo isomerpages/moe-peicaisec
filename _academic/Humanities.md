@@ -4,7 +4,6 @@ permalink: /academic/humanities/
 description: ""
 variant: tiptap
 ---
-<h4><strong>Humanities</strong></h4>
 <h4><strong>Learning Outcomes</strong></h4>
 <p>In Peicai, the Humanities programme aims to nurture empathetic students
 who think critically and contribute meaningfully to society.</p>
