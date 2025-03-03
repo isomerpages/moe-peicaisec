@@ -6,35 +6,6 @@ description: ""
 third_nav_title: Education and Career Guidance
 ---
 <h4><strong>Pathways for FSBB (Sec 1 and 2)</strong></h4>
-<p><strong><u>KEY POINTS TO NOTE</u></strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Generally, all students will progress to the next level of learning (i.e.
-from Sec 1 to Sec 2, and from Sec 2 to Sec 3) at the end of each year.</p>
-</li>
-<li>
-<p>Students may remain in their current level for another year if they:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>have frequent or long-term absenteeism from school, <strong><u>or</u></strong>
-</p>
-</li>
-</ul>
-<ul data-tight="true" class="tight">
-<li>
-<p>return from Leave of Absence (LOA) or from overseas and require more time
-to bridge learning gaps</p>
-</li>
-</ul>
-<p>and demonstrate that they will be unable to cope with the next level of
-learning.</p>
-<p>At the end of Sec 2 and Sec 3, students who are unable to cope with their
-current academic demands will have their curricular load recalibrated for
-students to better cope with the academic demands in the interests of their
-well-being.</p>
-</li>
-</ul>
 <p><strong><u>OVERVIEW OF FSBB EXPERIENCE IN SECONDARY SCHOOL</u></strong>
 </p>
 <table style="minWidth: 25px">
