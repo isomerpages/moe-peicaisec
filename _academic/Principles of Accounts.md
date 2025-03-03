@@ -55,7 +55,7 @@ with an emphasis on ethics and values.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">soo_sio_koon@moe.edu.sg</a>
+<p><a href="mailto:soo_sio_koon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">soo_sio_koon@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -68,7 +68,7 @@ with an emphasis on ethics and values.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">soh_bee_keow@moe.edu.sg</a>
+<p><a href="mailto:soh_bee_keow@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">soh_bee_keow@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -81,7 +81,7 @@ with an emphasis on ethics and values.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lee_yu_hui@moe.edu.sg</a>
+<p><a href="mailto:lee_yu_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_yu_hui@moe.edu.sg</a>
 </p>
 </td>
 </tr>
