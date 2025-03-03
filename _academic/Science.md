@@ -44,7 +44,7 @@ variant: tiptap
 <p>Chemistry</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">kwek_swee_hee_edwin@moe.edu.sg</a>
+<p><a href="mailto:kwek_swee_hee_edwin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kwek_swee_hee_edwin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -60,7 +60,7 @@ variant: tiptap
 <p>Physics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">koh_puay_yang_james@moe.edu.sg</a>
+<p><a href="mailto:koh_puay_yang_james@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_puay_yang_james@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -76,7 +76,7 @@ variant: tiptap
 <p>Chemistry</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lee_li_juan@moe.edu.sg</a>
+<p><a href="mailto:lee_li_juan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_li_juan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -92,7 +92,7 @@ variant: tiptap
 <p>Chemistry</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">yong_guanghui@moe.edu.sg</a>
+<p><a href="mailto:yong_guanghui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yong_guanghui@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -108,7 +108,7 @@ variant: tiptap
 <p>Physics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">leong_yong_lee_kelvin@moe.edu.sg</a>
+<p><a href="mailto:leong_yong_lee_kelvin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leong_yong_lee_kelvin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -124,7 +124,7 @@ variant: tiptap
 <p>Physics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">abdul_rauf_abdul_rahim_1@moe.edu.sg</a>
+<p><a href="mailto:abdul_rauf_abdul_rahim_1@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">abdul_rauf_abdul_rahim_1@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -140,7 +140,7 @@ variant: tiptap
 <p>Upper Sec NT Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">goh_peini@moe.edu.sg</a>
+<p><a href="mailto:goh_peini@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_peini@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -156,7 +156,7 @@ variant: tiptap
 <p>Chemistry</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lijun_han@moe.edu.sg</a>
+<p><a href="mailto:lijun_han@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lijun_han@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -172,7 +172,7 @@ variant: tiptap
 <p>Lower Sec Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lam_yong_peng@moe.edu.sg</a>
+<p><a href="mailto:lam_yong_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lam_yong_peng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -188,7 +188,7 @@ variant: tiptap
 <p>Physics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lee_lay_peng@moe.edu.sg</a>
+<p><a href="mailto:lee_lay_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_lay_peng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -204,7 +204,7 @@ variant: tiptap
 <p>Biology</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">leng_su_yee@moe.edu.sg</a>
+<p><a href="mailto:leng_su_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leng_su_yee@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -220,7 +220,7 @@ variant: tiptap
 <p>Chemistry</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">kee_yijuan_ophelia@moe.edu.sg</a>
+<p><a href="mailto:kee_yijuan_ophelia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kee_yijuan_ophelia@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -236,7 +236,7 @@ variant: tiptap
 <p>Biology</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tan_khay_yi_sarah@moe.edu.sg</a>
+<p><a href="mailto:tan_khay_yi_sarah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_khay_yi_sarah@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -253,7 +253,7 @@ variant: tiptap
 <p>Chemistry</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tay_ning@moe.edu.sg</a>
+<p><a href="mailto:tay_ning@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_ning@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -269,7 +269,7 @@ variant: tiptap
 <p>Biology</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">thenmozhi_nalathamby@moe.edu.sg</a>
+<p><a href="mailto:thenmozhi_nalathamby@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">thenmozhi_nalathamby@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -286,7 +286,7 @@ variant: tiptap
 <p>Chemistry</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">wong_poh_shen@moe.edu.sg</a>
+<p><a href="mailto:wong_poh_shen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_poh_shen@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -301,7 +301,7 @@ variant: tiptap
 <p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">loh_kah_boon@moe.edu.sg</a>
+<p><a href="mailto:loh_kah_boon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_kah_boon@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -316,7 +316,7 @@ variant: tiptap
 <p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">oh_geok_lan@moe.edu.sg</a>
+<p><a href="mailto:oh_geok_lan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">oh_geok_lan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -596,7 +596,7 @@ options and career paths in the field of science.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/5148_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">2021</a></strong>
+<p><strong>2021</strong>
 </p>
 <p>1 Silver (Chemistry)</p>
 </td>
