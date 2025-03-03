@@ -253,8 +253,16 @@ Weighted Assessment (WA) and End-of-Year Examinations (EYE).</p>
 <p><strong>To be updated</strong>
 </p>
 <h5>Secondary 2</h5>
-<p><strong>To be updated</strong>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Attain at least 50% in EL and 2 subjects OR</strong>
 </p>
+</li>
+<li>
+<p><strong>Attain at least 50% in at least half the total number of examinable subjects offered, subject to a minimum of 3 subjects</strong>
+</p>
+</li>
+</ul>
 <h5>Secondary 3</h5>
 <p><strong>To be promoted to Secondary 4, the criteria for the respective courses are as follows:</strong>
 </p>
