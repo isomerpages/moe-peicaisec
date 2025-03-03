@@ -5,9 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Craft & Technology
 ---
-<h4><strong>MUSIC</strong></h4>
-<p><strong>Desired Outcomes</strong>
-</p>
+<h4><strong>Desired Outcomes</strong></h4>
 <p>In Peicai Secondary School, we aim to develop in students the competencies
 that will enable them to:</p>
 <ol data-tight="true" class="tight">
