@@ -63,7 +63,7 @@ foster the capability to apply mathematical concepts in everyday life.</p>
 <p>HOD (Math)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tham_peck_fun@moe.edu.sg</a>
+<p><a href="mailto:tham_peck_fun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tham_peck_fun@moe.edu.sg</a>
 </p>
 <p>&nbsp;</p>
 </td>
@@ -76,7 +76,7 @@ foster the capability to apply mathematical concepts in everyday life.</p>
 <p>LH (Math)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ng_si_ying@moe.edu.sg</a>
+<p><a href="mailto:ng_si_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_si_ying@moe.edu.sg</a>
 </p>
 <p>&nbsp;</p>
 </td>
@@ -89,7 +89,7 @@ foster the capability to apply mathematical concepts in everyday life.</p>
 <p>HOD (SSD)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ho_thuk_lan@moe.edu.sg</a>
+<p><a href="mailto:ho_thuk_lan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_thuk_lan@moe.edu.sg</a>
 </p>
 <p>&nbsp;</p>
 </td>
@@ -102,7 +102,7 @@ foster the capability to apply mathematical concepts in everyday life.</p>
 <p>AYH (Sec 1)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">yue_hua_ang@moe.edu.sg</a>
+<p><a href="mailto:yue_hua_ang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yue_hua_ang@moe.edu.sg</a>
 </p>
 <p>&nbsp;</p>
 </td>
@@ -115,7 +115,7 @@ foster the capability to apply mathematical concepts in everyday life.</p>
 <p>AYH (Sec 2)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chua_jing_kai@moe.edu.sg</a>
+<p><a href="mailto:chua_jing_kai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_jing_kai@moe.edu.sg</a>
 </p>
 <p>&nbsp;</p>
 </td>
@@ -128,7 +128,7 @@ foster the capability to apply mathematical concepts in everyday life.</p>
 <p>SH (CPA)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">teng_lip_koon@moe.edu.sg</a>
+<p><a href="mailto:teng_lip_koon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teng_lip_koon@moe.edu.sg</a>
 </p>
 <p>&nbsp;</p>
 </td>
@@ -141,7 +141,7 @@ foster the capability to apply mathematical concepts in everyday life.</p>
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">Chee_khuen_woei@moe.edu.sg</a>
+<p><a href="mailto:Chee_khuen_woei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Chee_khuen_woei@moe.edu.sg</a>
 </p>
 <p>&nbsp;</p>
 </td>
@@ -154,7 +154,7 @@ foster the capability to apply mathematical concepts in everyday life.</p>
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tan_yi_quan@moe.edu.sg</a>
+<p><a href="mailto:tan_yi_quan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yi_quan@moe.edu.sg</a>
 </p>
 <p>&nbsp;</p>
 </td>
@@ -167,7 +167,7 @@ foster the capability to apply mathematical concepts in everyday life.</p>
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">kalpana_balakrishnan@moe.edu.sg</a>
+<p><a href="mailto:kalpana_balakrishnan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kalpana_balakrishnan@moe.edu.sg</a>
 </p>
 <p>&nbsp;</p>
 </td>
@@ -180,7 +180,7 @@ foster the capability to apply mathematical concepts in everyday life.</p>
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">koh_shihui_melissa@moe.edu.sg</a>
+<p><a href="mailto:koh_shihui_melissa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_shihui_melissa@moe.edu.sg</a>
 </p>
 <p>&nbsp;</p>
 </td>
@@ -193,7 +193,7 @@ foster the capability to apply mathematical concepts in everyday life.</p>
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tan_mee_yen_doris@moe.edu.sg</a>
+<p><a href="mailto:tan_mee_yen_doris@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_mee_yen_doris@moe.edu.sg</a>
 </p>
 <p>&nbsp;</p>
 </td>
@@ -206,7 +206,7 @@ foster the capability to apply mathematical concepts in everyday life.</p>
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">gan_yolk_get@moe.edu.sg</a>
+<p><a href="mailto:gan_yolk_get@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gan_yolk_get@moe.edu.sg</a>
 </p>
 <p>&nbsp;</p>
 </td>
@@ -219,7 +219,7 @@ foster the capability to apply mathematical concepts in everyday life.</p>
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">seoh_soon_peng@moe.edu.sg</a>
+<p><a href="mailto:seoh_soon_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seoh_soon_peng@moe.edu.sg</a>
 </p>
 <p>&nbsp;</p>
 </td>
@@ -232,7 +232,7 @@ foster the capability to apply mathematical concepts in everyday life.</p>
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">b_viveka_a@moe.edu.sg</a>
+<p><a href="mailto:b_viveka_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">b_viveka_a@moe.edu.sg</a>
 </p>
 <p>&nbsp;</p>
 </td>
@@ -245,7 +245,7 @@ foster the capability to apply mathematical concepts in everyday life.</p>
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">mohamad_sharizan_abu_bakar@moe.edu.sg</a>
+<p><a href="mailto:mohamad_sharizan_abu_bakar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohamad_sharizan_abu_bakar@moe.edu.sg</a>
 </p>
 <p>&nbsp;</p>
 </td>
@@ -258,7 +258,7 @@ foster the capability to apply mathematical concepts in everyday life.</p>
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">huang_kaiting_rachel@moe.edu.sg</a>
+<p><a href="mailto:huang_kaiting_rachel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">huang_kaiting_rachel@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -270,7 +270,7 @@ foster the capability to apply mathematical concepts in everyday life.</p>
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">nagutha_shahitha_nasreen@moe.edu.sg</a>
+<p><a href="mailto:nagutha_shahitha_nasreen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nagutha_shahitha_nasreen@moe.edu.sg</a>
 </p>
 <p>&nbsp;</p>
 </td>
@@ -283,7 +283,7 @@ foster the capability to apply mathematical concepts in everyday life.</p>
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lim_jit_chong@moe.edu.sg</a>
+<p><a href="mailto:lim_jit_chong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_jit_chong@moe.edu.sg</a>
 </p>
 <p>&nbsp;</p>
 </td>
