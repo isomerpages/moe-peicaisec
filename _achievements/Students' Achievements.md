@@ -5,7 +5,374 @@ description: ""
 variant: tiptap
 ---
 <h4><strong><u>Year 2025</u></strong></h4>
+<p>On 7th October 2024, our students participated in the American Math Olympiad
+(AMO), an international mathematics competition for elementary, middle,
+and high school students. Jointly organised by the Singapore International
+Math Contests Centre (SIMCC) and Southern Illinois University (SIU), AMO
+aims to promote a deeper understanding of mathematics.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Singapore Math Challenge 2024" src="/images/Achievements/SMC_1.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
 <p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>We are proud to announce that our students have demonstrated outstanding
+mathematical abilities and achieved remarkable results in this competition.
+Their hard work and perseverance have been recognised with the following
+accolades:</p>
+<p><strong>Singapore Mathematics Challenge (SMC) 2024</strong>
+</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GOH JUN XIANG CARLO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4C3</p>
+</td>
+<td rowspan="3" colspan="1">
+<p><strong>Exemplary Award (Top12%)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NICHOLAS TSHING TAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4C3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>XANDER KONG JUN CHENG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4C4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>FANY SALIM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4C4</p>
+</td>
+<td rowspan="2" colspan="1">
+<p><strong>Outstanding Award (Top 20%)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PRATHEEPAN POORNI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4C4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYIRIN ALKHAIRAH BINTE MOHAMAD FARHAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2CN</p>
+</td>
+<td rowspan="11" colspan="1">
+<p><strong>Commendable Award</strong>
+</p>
+<p><strong>(Top 32%)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NUR ASYURA ALESHA BINTE MUHAMMAD AZHAR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2EE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ADRIEL NG JUN DE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3EE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>JERVIN YEO KAI JIE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3EE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AW LI WU</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4B3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>DAWN EU MUN HAN (YU WENXIAN)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4C3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>XU NUO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4C3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LEONG QIAO EN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4C4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TEO ZHI YUAN (ZHANG ZHIYUAN)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4C4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>YAN SHUXIN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4C4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PRATHEEPAN POORNI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4C4</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>On 10<sup>th</sup> October 2024, our students participated in the Singapore
+Math Challenge (SMC).SMC is written by top Singapore Ministry of Education
+(MOE) teachers and is offered to every country in the world. Singapore
+Math is taught in over 70 countries globally and SMC will be the standard
+to measure students and inform parents and teachers with valuable formative
+and summative assessment data for them to improve teaching and learning.</p>
+<hr>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="American Mathematics Olympiad 2024" src="/images/Achievements/AMO_2.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>We are delighted to share that our students performed exceptionally well
+in this rigorous competition, achieving outstanding results:</p>
+<p><strong>American Mathematics Olympiad (AMO) 2024</strong>
+</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>JERVIN YEO KAI JIE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3EE</p>
+</td>
+<td rowspan="3" colspan="1">
+<p><strong>Bronze (Top 20%)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>XU NUO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4C3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>XANDER KONG JUN CHENG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4C4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GAO XIN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4C3</p>
+</td>
+<td rowspan="3" colspan="1">
+<p><strong>Honourable Mention (Top 40%)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GOH JUN XIANG CARLO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4C3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHAUHAN RUDRA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4C4</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>We are incredibly proud of our students for their dedication and outstanding
+achievements in the <strong>Singapore Math Challenge (SMC)</strong> and <strong>American Mathematics Olympiad (AMO). </strong>Both
+the students’ and teachers’ hard work and perseverance have truly paid
+off.</p>
+<p>As we celebrate their success, we also look forward to another exciting
+year of growth and learning. We encourage all students to continue challenging
+themselves, embracing the spirit of perseverance, and striving for greater
+heights.</p>
+<hr>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
