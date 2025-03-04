@@ -83,6 +83,8 @@ they embark on this exciting new chapter!</p>
 </tr>
 </tbody>
 </table>
+<p><strong><em>Note: Transition Workshop Student Handouts would be made available to parents through PG.</em></strong>
+</p>
 <hr>
 <h4><strong>Breakfast with Principal</strong></h4>
 <p>On 22 Feb, Mr Michael hosted close to 50 Sec 1 parents to our "Breakfast
