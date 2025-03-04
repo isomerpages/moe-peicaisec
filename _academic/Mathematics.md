@@ -4,9 +4,7 @@ permalink: /academic/mathematics/
 description: ""
 variant: tiptap
 ---
-<h4><strong>Mathematics</strong></h4>
 <h4><strong>Learning Outcomes</strong></h4>
-<p></p>
 <p>At Peicai, we provide a comprehensive and engaging mathematics education
 that equips our students with the knowledge, skills, and dispositions needed
 to excel both academically and professionally. Our mathematics curriculum
@@ -14,25 +12,284 @@ is designed to foster a deep understanding of mathematical concepts and
 their real-world applications.</p>
 <ol data-tight="true" class="tight">
 <li>
-<p><strong>Problem Solving and Critical Thinking</strong> 
+<p><strong>Problem Solving and Critical Thinking</strong>
 <br>We empower students to cultivate robust problem-solving skills and critical
 thinking abilities, enabling them to confidently tackle a wide spectrum
 of challenges.</p>
 </li>
 <li>
-<p><strong>Conceptual Mastery </strong>
+<p><strong>Conceptual Mastery</strong>
 <br>Our students achieve a profound understanding of fundamental mathematical
 concepts, empowering them to apply these principles across a broad range
 of topics, from algebra to calculus.</p>
 </li>
 <li>
-<p><strong>Real-World Relevance </strong>
+<p><strong>Real-World Relevance</strong>
 <br>We place a strong emphasis on demonstrating the practical applicability
 of mathematics. By showing students how mathematics is intertwined with
 other disciplines, we inspire a genuine appreciation for the subject and
 foster the capability to apply mathematical concepts in everyday life.</p>
 </li>
 </ol>
+<hr>
+<p><strong>Mathematics Teacher</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Designation</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Email Address</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Novell Tham (Ms)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD (Math)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tham_peck_fun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tham_peck_fun@moe.edu.sg</a>
+</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ng Siying (Ms)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LH (Math)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_si_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_si_ying@moe.edu.sg</a>
+</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ho Thuk Lan (Mrs Ho)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD (SSD)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ho_thuk_lan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_thuk_lan@moe.edu.sg</a>
+</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ang Yue Hua (Ms)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AYH (Sec 1)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yue_hua_ang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yue_hua_ang@moe.edu.sg</a>
+</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chua Jing Kai (Mr)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AYH (Sec 2)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chua_jing_kai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_jing_kai@moe.edu.sg</a>
+</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teng Lip Koon (Mr)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH (CPA)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:teng_lip_koon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teng_lip_koon@moe.edu.sg</a>
+</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chee Khuen Woei (Mr)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Chee_khuen_woei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Chee_khuen_woei@moe.edu.sg</a>
+</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tan Yi Quan (Mr)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_yi_quan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yi_quan@moe.edu.sg</a>
+</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Kalpana Prakash otharam (Mrs Ram)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:kalpana_balakrishnan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kalpana_balakrishnan@moe.edu.sg</a>
+</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Shihui Melissa KOH (Mdm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:koh_shihui_melissa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_shihui_melissa@moe.edu.sg</a>
+</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tan Mee Yen Doris (Ms)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_mee_yen_doris@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_mee_yen_doris@moe.edu.sg</a>
+</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Gan Yolk Get (Ms)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:gan_yolk_get@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gan_yolk_get@moe.edu.sg</a>
+</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Soon Peng Seoh (Mr)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:seoh_soon_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seoh_soon_peng@moe.edu.sg</a>
+</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>B Viveka (Ms)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:b_viveka_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">b_viveka_a@moe.edu.sg</a>
+</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mohamad Sharizan Abu Bakar (Mr)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:mohamad_sharizan_abu_bakar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohamad_sharizan_abu_bakar@moe.edu.sg</a>
+</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Huang Kaiting Rachel (Ms)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:huang_kaiting_rachel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">huang_kaiting_rachel@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nasreen Shahitha (Ms)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nagutha_shahitha_nasreen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nagutha_shahitha_nasreen@moe.edu.sg</a>
+</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lim Jit Chong (Mr)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_jit_chong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_jit_chong@moe.edu.sg</a>
+</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>Department Programmes and Highlights</strong></h4>
 <p><strong>Math Competitions</strong>
 </p>
@@ -60,6 +317,16 @@ including:</p>
 </li>
 <li>
 <p>The Singapore NIE Mathematics Challenge (NIEMC)</p>
+</li>
+<li>
+<p>BEBRAS</p>
+</li>
+<li>
+<p>Ngee Ann Math Challenge</p>
+</li>
+<li>
+<p>Exploring Mathematical Problem Solving with the Graphing Calculator 2025
+(organized by Nanyang Junior College)</p>
 </li>
 </ul>
 <p><strong>Math Modelling</strong>
@@ -220,11 +487,11 @@ budgeting.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/4046_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_new">4046 N(T) Level Mathematics</a>
+<p><a href="https://www.seab.gov.sg/files/NA%20Level%20Syllabus%20Sch%20Cddts/2025/4045_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">N(A)-Level Mathematics Syllabus (4045)</a>
 </p>
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/4045_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_new">4045 N(A) Level Mathematics</a>
+<p><a href="https://www.seab.gov.sg/files/NA%20Level%20Syllabus%20Sch%20Cddts/2025/4051_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">N(A)-Level Additional Mathematics Syllabus (4051)</a>
 </p>
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/4051_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_new">4051 N(A) Level Additional Mathematics</a>
+<p><a href="https://www.seab.gov.sg/files/NT%20Lvl%20Syllabus%20Sch%20Cddts/2025/4046_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">N(T)-Level Mathematics Syllabus (4046)</a>
 </p>
 </td>
 </tr>
@@ -234,9 +501,9 @@ budgeting.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/4052_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_new">4052 O Level Mathematics</a>
+<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2025/4052_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_new">O-Level Mathematics Syllabus (4052)</a>
 </p>
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/4049_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_new">4049 O Level Additional Mathematics</a>
+<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2025/4049_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">O-Level Additional Mathematics Syllabus (4049)</a>
 </p>
 </td>
 </tr>

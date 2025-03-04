@@ -9,6 +9,7 @@ variant: tiptap
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/tEgW1DvihZg"></iframe>
 </div>
 <h4><strong>Sports &amp; Games</strong></h4>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -18,21 +19,18 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Basket ball" src="/images/CCA/Basket_Ball_boys_copy.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="Basket ball" src="/images/CCA/Basket_Ball_boys_copy.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Softball" src="/images/CCA/Softball_Boys_and_Girls_copy.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="Softball" src="/images/CCA/Softball_Boys_and_Girls_copy.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Volley ball" src="/images/CCA/Volleyball_Boys___Girls_copy.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="Volley ball" src="/images/CCA/Volleyball_Boys___Girls_copy.jpg">
 </div>
 </th>
 </tr>
@@ -49,21 +47,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="floorball" src="/images/CCA/Floorball_copy.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="floorball" src="/images/CCA/Floorball_copy.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Badminton" src="/images/CCA/Badminton_copy.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="Badminton" src="/images/CCA/Badminton_copy.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Soccor" src="/images/CCA/Soccor_copy.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="Soccor" src="/images/CCA/Soccor_copy.jpg">
 </div>
 </td>
 </tr>
@@ -76,6 +71,30 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Soccer (Interest Group)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Table Tennis" src="/images/CCA/table_tennis_copy.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tennis (Cluster-Based Interschool CCA)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -157,7 +176,6 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>Clubs &amp; Societies</strong></h4>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -169,13 +187,13 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="Aero" src="/images/CCA/Aero_copy.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="Aero" src="/images/CCA/Aero_copy.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ART" src="/images/CCA/Art_club_copy.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="ART" src="/images/CCA/Art_club_copy.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -200,7 +218,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="Debate society copy" src="/images/CCA/Debate_society_copy.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="Debate Society" src="/images/CCA/Debate_Society_copy.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -213,17 +231,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Debate Society</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

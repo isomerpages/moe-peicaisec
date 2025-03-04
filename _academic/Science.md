@@ -5,6 +5,323 @@ description: ""
 variant: tiptap
 ---
 <h4><strong>Science Department</strong></h4>
+<h4><strong>Our People</strong></h4>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Designation</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Teaching Subjects</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Email Address</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Edwin Kwek</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD (Science)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chemistry</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:kwek_swee_hee_edwin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kwek_swee_hee_edwin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr James Koh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>YH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower Sec Science</p>
+<p>Physics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:koh_puay_yang_james@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_puay_yang_james@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lee Li Juan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD (ICT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower Sec Science</p>
+<p>Chemistry</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_li_juan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_li_juan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Gerard Yong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH (Student Management)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower Sec Science</p>
+<p>Chemistry</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yong_guanghui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yong_guanghui@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Kelvin Leong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ST (Educational Support)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower Sec Science</p>
+<p>Physics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:leong_yong_lee_kelvin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leong_yong_lee_kelvin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Abdul Ra'uf</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower Sec Science</p>
+<p>Physics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:abdul_rauf_abdul_rahim_1@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">abdul_rauf_abdul_rahim_1@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Goh Peini</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower Sec Science</p>
+<p>Upper Sec NT Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:goh_peini@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_peini@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Han Lijun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower Sec Science</p>
+<p>Chemistry</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lijun_han@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lijun_han@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lam Yong Peng</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower Sec Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lam_yong_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lam_yong_peng@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Lee Lay Peng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower Sec Science</p>
+<p>Physics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_lay_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_lay_peng@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Leng Su Yee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower Sec Science</p>
+<p>Biology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:leng_su_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leng_su_yee@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Ophelia Kee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower Sec Science</p>
+<p>Chemistry</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:kee_yijuan_ophelia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kee_yijuan_ophelia@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Sarah Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower Sec Science</p>
+<p>Biology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_khay_yi_sarah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_khay_yi_sarah@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tay Ning</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower Sec Science</p>
+<p>Upper Sec NT Science</p>
+<p>Chemistry</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tay_ning@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_ning@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Thenmozhi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower Sec Science</p>
+<p>Biology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:thenmozhi_nalathamby@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">thenmozhi_nalathamby@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Wong Poh Shen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower Sec Science</p>
+<p>Upper Sec NT Science</p>
+<p>Chemistry</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wong_poh_shen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_poh_shen@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Kelly Loh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>STEM Instructor (Laboratory)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:loh_kah_boon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_kah_boon@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Oh Geok Lan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>STEM Instructor (Laboratory)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:oh_geok_lan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">oh_geok_lan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>Learning Outcomes</strong></h4>
 <p>In Peicai, our students learn to:</p>
 <table style="minWidth: 75px">
@@ -33,8 +350,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Understand and appreciate the scientific phenomenon</p>
-<p>&nbsp;</p>
+<p>Understand and appreciate the scientific phenomenon</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Advocate for improvement to the world through Science</p>
@@ -206,7 +522,6 @@ and industrial partners, gaining insights into various further education
 options and career paths in the field of science.</p>
 <p><strong>Department Awards</strong>
 </p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -451,7 +766,6 @@ Mention (Physics)</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <h4><strong>Syllabus</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
@@ -493,7 +807,7 @@ Mention (Physics)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2025/5148_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">5148 Science Syllabus T</a>
+<p><a href="https://www.seab.gov.sg/files/NT%20Lvl%20Syllabus%20%20Private%20Cddts/2026/5148_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">5148 Science Syllabus T</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -516,11 +830,11 @@ Mention (Physics)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2025/5105_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">5105 Science (Physics, Chemistry)</a>
+<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2026/6091_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">5105 Science (Physics, Chemistry)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2025/5105_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">5107 Science (Chemistry, Biology)</a>
+<p><a href="https://www.seab.gov.sg/files/NA%20Level%20Syllabus%20Sch%20Cddts/2026/5107_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">5107 Science (Chemistry, Biology)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -544,21 +858,21 @@ Mention (Physics)</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/6092_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">6092 Chemistry</a>
+<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2026/6092_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">6092 Chemistry</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/6093_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">6093 Biology</a>
+<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2026/6093_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">6093 Biology</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/5086_y25_sy035bebd3-91a5-4e56-ad07-c5869a19c5c3.pdf" rel="noopener noreferrer nofollow" target="_blank">5086 Science (Physics, Chemistry)</a>
+<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2026/5086_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">5086 Science (Physics, Chemistry)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/5086_y25_sy035bebd3-91a5-4e56-ad07-c5869a19c5c3.pdf" rel="noopener noreferrer nofollow" target="_blank">5088 Science (Chemistry, Biology)</a>
+<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2026/5088_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">5088 Science (Chemistry, Biology)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">

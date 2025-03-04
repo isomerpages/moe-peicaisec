@@ -4,6 +4,88 @@ permalink: /school-events-2025/
 variant: tiptap
 description: ""
 ---
+<h4><strong>Sec 1 Transition to Secondary School Workshop</strong></h4>
+<p>The Secondary 1 Transition to Secondary School Workshop, held during the
+Secondary One Orientation Week, was designed to help our newest cohort
+of students ease into their secondary school journey with confidence. Through
+a series of engaging activities, students gained valuable insights into
+school life, expectations, and essential skills to navigate this new phase
+effectively.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Sec_1_Transition_Workshop__1" src="/images/Aboutus/Sec_1_Transition_Workshop__1_.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>The workshop aimed to foster a sense of belonging, build resilience, and
+equip students with key strategies for time management, goal setting, and
+positive peer relationships.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Sec_1_Transition_Workshop__2" src="/images/Aboutus/Sec_1_Transition_Workshop__2_.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>A key highlight of the workshop was an address by Young Midas Enrichment
+Master Trainer and Managing Director, Mr Kenneth Yeong, which left a lasting
+impact on the students, inspiring them to embrace challenges and make the
+most of their secondary school years.</p>
+<p></p>
+<p>We look forward to seeing our Secondary 1 students grow and thrive as
+they embark on this exciting new chapter!</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong><em>Note: Transition Workshop Student Handouts would be made available to parents through PG.</em></strong>
+</p>
+<hr>
 <h4><strong>Breakfast with Principal</strong></h4>
 <p>On 22 Feb, Mr Michael hosted close to 50 Sec 1 parents to our "Breakfast
 with Principal" event at The Buzz. The parents were treated to a hearty

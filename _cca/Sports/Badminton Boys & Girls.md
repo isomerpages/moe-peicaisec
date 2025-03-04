@@ -1,5 +1,5 @@
 ---
-title: Badminton Boys & Girls (New!)
+title: Badminton Boys & Girls
 permalink: /cca/ccas/sports/badminton-boys-n-girls-new/
 description: ""
 third_nav_title: Sports

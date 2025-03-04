@@ -4,7 +4,6 @@ permalink: /academic/physical-education/
 description: ""
 variant: tiptap
 ---
-<h4><strong>Physical Education</strong></h4>
 <h4><strong>Learning Outcomes</strong></h4>
 <p></p>
 <p>In Peicai, our Physical Education Programme places strong emphasis on

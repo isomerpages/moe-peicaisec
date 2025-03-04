@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Craft & Technology
 ---
-<h4><strong>DESIGN &amp; TECHNOLOGY</strong></h4>
 <h4><strong>Learning Outcomes</strong></h4>
 <p>In Peicai, our students learn to:</p>
 <table style="minWidth: 100px">

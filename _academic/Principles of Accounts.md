@@ -4,7 +4,6 @@ permalink: /academic/principles-of-accounts/
 variant: tiptap
 description: ""
 ---
-<h4><strong>Principles of Accounts (POA) Department</strong></h4>
 <h4><strong>Learning Outcomes</strong></h4>
 <p>At Peicai, we aim to develop each student to:</p>
 <ol data-tight="true" class="tight">
@@ -23,9 +22,74 @@ information related to businesses.</p>
 with an emphasis on ethics and values.</p>
 </li>
 </ol>
+<hr>
+<p><strong>POA Teachers</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Designation</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Email Address</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Soo Sio Koon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Teacher</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:soo_sio_koon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">soo_sio_koon@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Soh Bee Keow</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Teacher</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:soh_bee_keow@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">soh_bee_keow@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lee Yu Hui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Teacher</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_yu_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_yu_hui@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>Department Programmes and Highlights</strong></h4>
 <p>We provide opportunities for students with a strong passion and aptitude
-in Principles of Accounting (POA) to enhance their skills by participating
+in Principles of Accounts (POA) to enhance their skills by participating
 in a variety of competitions and related events. These platforms allow
 students to apply their accounting knowledge in broader problem-solving
 contexts, fostering critical thinking and analytical skills.</p>
@@ -119,7 +183,7 @@ opportunities within the accounting profession.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>Principles of Account:</u></strong>
+<p><strong><u>Principles of Accounts:</u></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -128,11 +192,12 @@ opportunities within the accounting profession.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/7086_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">N Level syllabus</a>
+<p><a href="https://www.seab.gov.sg/files/NA%20Level%20Syllabus%20Sch%20Cddts/2025/7086_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_new">N Level Syllabus 2025</a>
 </p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/7087_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">O Level syllabus</a>
+<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2025/7087_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_new">O Level Syllabus 2025</a>
 </p>
 </td>
 </tr>

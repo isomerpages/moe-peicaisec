@@ -4,7 +4,6 @@ permalink: /academic/humanities/
 description: ""
 variant: tiptap
 ---
-<h4><strong>Humanities</strong></h4>
 <h4><strong>Learning Outcomes</strong></h4>
 <p>In Peicai, the Humanities programme aims to nurture empathetic students
 who think critically and contribute meaningfully to society.</p>
@@ -32,6 +31,277 @@ question and examine issues and principles related to a particular content
 and articulate different points-of-view.</p>
 </li>
 </ul>
+<hr>
+<p><strong>2025 Humanities list of teachers</strong>
+</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Designation</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Subjects</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Email</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Lee Tey Ai Hoon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD Humanities</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Social Studies and History</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tey_ai_hoon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tey_ai_hoon@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Jason Seng Yang Sun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH Social Studies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Social Studies and History</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:jason_seng_yang_sun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jason_seng_yang_sun@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Zhou Wensi Eileen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ST (History)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Social Studies and History</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Eileen_Zhou@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Eileen_Zhou@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Ng Xin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Social Studies and History</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_xin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_xin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Hana Syazwani Sulaiman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Social Studies and History</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:hana_syazwani_sulaiman_B@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hana_syazwani_sulaiman_B@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Nur Zamir Md Yatim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Social Studies and History</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nur_zamir_md_yatim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_zamir_md_yatim@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Therese Malini Pereira</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Social Studies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:therese_malini_pereira@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">therese_malini_pereira@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Liow Yi Xuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Social Studies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:liow_yi_xuan_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liow_yi_xuan_A@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Goh Wei Xuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Social Studies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:goh_wei_xuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_wei_xuan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Safura Zulkifly</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Social Studies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:safura_zulkifly_1@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">safura_zulkifly_1@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tay Kai Yi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Social Studies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tay_kai_yi_e@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_kai_yi_e@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Koh Cin Dee, Sylvelin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Geography</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:koh_cin_dee_sylvelin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_cin_dee_sylvelin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Dewi Syaza Aminuddin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Geography and Social Studies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:dewi_syaza_aminuddin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">dewi_syaza_aminuddin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms B Viveka</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Geography</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:B_viveka_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">B_viveka_A@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Karissa Chong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Geography and Social Studies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:karissa_chong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">karissa_chong@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Wong Heng Yee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>FAJT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Geography</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wong_heng_yee_mrs@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_heng_yee_mrs@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>Department Programme/Highlights/ Student Outcomes</strong></h4>
 <p>Self-directed learners during the Geographical Investigation at MacRitchie
 Reservoir.</p>
