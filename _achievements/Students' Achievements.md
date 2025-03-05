@@ -5,11 +5,12 @@ description: ""
 variant: tiptap
 ---
 <h4><strong><u>Year 2025</u></strong></h4>
-<p>On 7th October 2024, our students participated in the American Math Olympiad
-(AMO), an international mathematics competition for elementary, middle,
-and high school students. Jointly organised by the Singapore International
-Math Contests Centre (SIMCC) and Southern Illinois University (SIU), AMO
-aims to promote a deeper understanding of mathematics.</p>
+<p>On 10<sup>th</sup> October 2024, our students participated in the Singapore
+Math Challenge (SMC).SMC is written by top Singapore Ministry of Education
+(MOE) teachers and is offered to every country in the world. Singapore
+Math is taught in over 70 countries globally and SMC will be the standard
+to measure students and inform parents and teachers with valuable formative
+and summative assessment data for them to improve teaching and learning.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -242,12 +243,11 @@ accolades:</p>
 </tr>
 </tbody>
 </table>
-<p>On 10<sup>th</sup> October 2024, our students participated in the Singapore
-Math Challenge (SMC).SMC is written by top Singapore Ministry of Education
-(MOE) teachers and is offered to every country in the world. Singapore
-Math is taught in over 70 countries globally and SMC will be the standard
-to measure students and inform parents and teachers with valuable formative
-and summative assessment data for them to improve teaching and learning.</p>
+<p>On 7th October 2024, our students participated in the American Math Olympiad
+(AMO), an international mathematics competition for elementary, middle,
+and high school students. Jointly organised by the Singapore International
+Math Contests Centre (SIMCC) and Southern Illinois University (SIU), AMO
+aims to promote a deeper understanding of mathematics.</p>
 <hr>
 <table style="minWidth: 50px">
 <colgroup>
