@@ -41,7 +41,7 @@ and summative assessment data for them to improve teaching and learning.</p>
 mathematical abilities and achieved remarkable results in this competition.
 Their hard work and perseverance have been recognised with the following
 accolades:</p>
-<p><strong>Singapore Mathematics Challenge (SMC) 2024</strong>
+<p><strong>Singapore Math Challenge (SMC) 2024</strong>
 </p>
 <table style="minWidth: 100px">
 <colgroup>
@@ -243,9 +243,9 @@ accolades:</p>
 </tr>
 </tbody>
 </table>
-<p>On 7th October 2024, our students participated in the American Math Olympiad
-(AMO), an international mathematics competition for elementary, middle,
-and high school students. Jointly organised by the Singapore International
+<p>On 7th October 2024, our students participated in the American Mathematics
+Olympiad (AMO), an international mathematics competition for elementary,
+middle, and high school students. Jointly organised by the Singapore International
 Math Contests Centre (SIMCC) and Southern Illinois University (SIU), AMO
 aims to promote a deeper understanding of mathematics.</p>
 <hr>
