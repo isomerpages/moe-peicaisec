@@ -226,6 +226,14 @@ spirit as we embraced the traditions and celebrations of this special occasion.<
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Cny02" src="/images/Aboutus/CNY_02.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
