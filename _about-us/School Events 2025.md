@@ -219,16 +219,13 @@ spirit as we embraced the traditions and celebrations of this special occasion.<
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Chinese New Year 2025" src="/images/Aboutus/CNY_25v1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Cny 03" src="/images/Aboutus/CNY_03.jpg">
 </div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Cny02" src="/images/Aboutus/CNY_02.jpg">
-</div>
 </td>
 </tr>
 <tr>
