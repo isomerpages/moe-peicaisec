@@ -4,6 +4,228 @@ permalink: /academic/mother-tongue-languages/
 description: ""
 variant: tiptap
 ---
+<h4><strong>Our People</strong></h4>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Designation</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Teaching Subjects</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Email Address</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Shue Pei Yan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>VP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:shue_pei_yan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shue_pei_yan@moe.edu.sg</a>
+</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lin Yonglin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese, Higher Chinese</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lin_yonglin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lin_yonglin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Tao Ruijue</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese, Higher Chinese</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tao_ruijue@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tao_ruijue@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Yong Xian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese, Higher Chinese</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_yong_xian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yong_xian@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Wong Wei Ting</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese, Higher Chinese</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Zhang Chuyi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese, Higher Chinese</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:zhang_chuyi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_chuyi@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Zhu Ruoye</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese, Higher Chinese</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:zhu_ruoye@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhu_ruoye@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Fu Huihui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese, Higher Chinese</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:fu_huihui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fu_huihui@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Fong Sun Boy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese, Higher Chinese</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Zhao Liying</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese, Higher Chinese</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nur Syirain</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AYH (Int)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Malay, Higher Malay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nur_syirain_hamzah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_syirain_hamzah@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Puspa Haryani</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Malay, Higher Malay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:puspa_haryani_ismail@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">puspa_haryani_ismail@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Amirah Syafiqah Latasa</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Malay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:amirah_syafiqah_latasa_abdul@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">amirah_syafiqah_latasa_abdul@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>Learning Outcomes</strong></h4>
 <p>The MTL curriculum aims to develop proficient language users who can communicate
 confidently and effectively in various real-life contexts; and to expose
