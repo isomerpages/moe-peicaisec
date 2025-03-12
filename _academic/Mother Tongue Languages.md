@@ -103,7 +103,8 @@ variant: tiptap
 <p>Chinese, Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p><a href="mailto:wong_wei_ting_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_wei_ting_a@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -153,20 +154,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Fong Sun Boy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chinese, Higher Chinese</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Zhao Liying</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -176,7 +163,8 @@ variant: tiptap
 <p>Chinese, Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p><a href="mailto:zhao_liying_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhao_liying_a@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
