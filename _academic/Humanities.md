@@ -336,6 +336,41 @@ and articulate different points-of-view.</p>
 </tr>
 </tbody>
 </table>
+<p>Lets hear from our students about their experiences!</p>
+<p><strong>CASTILLO ZIAN DENVER MENCIANO 3EE (Team Leader) [Certificate of Participation]</strong>
+</p>
+<p>When I first heard about the Geography competition, I was intrigued but
+also uncertain about the activities that I would embark on if I were to
+participate. However, after participating in the competition and gaining
+the chance to represent the school, I have learnt so much more about geography
+and understood it at a much deeper level. We tried our best for each component
+whether it be the individual or team, and I would say it is a very enriching
+experience overall.</p>
+<p><strong>BERNICE CHEN 3CN [Bronze (Individual Component)]</strong>
+</p>
+<p>Reflecting on the NUS Geography Challenge, I realize that it was more
+than just a competition, it was a journey of self-discovery. I stepped
+out of my comfort zone, developed new skills, and formed meaningful connections
+with others. This experience taught me that growth often lies just beyond
+our comfort zones, and I'm grateful for the lessons learned.</p>
+<p><strong>PIMENTEL MARIA MICHAELA BENAVIDEZ 3CN [Certification of Participation]</strong>
+</p>
+<p>The Geography Challenge was a really memorable experience for me. This
+challenge enabled me to learn more about the different plans and strategies
+that Singapore has to improve the country. The team had to put in a lot
+of effort into preparing for the challenge and we even had to spend our
+weekends discussing our points and ideas. Although we didn't manage to
+get into the semi-finals, I'm still proud of my team as we went through
+the difficulties together. I would like to thank my teachers and teammates
+who made this challenge enjoyable.</p>
+<p><strong>RAYNISE TAN YI XUAN 3CN [Certification of Participation]</strong>
+</p>
+<p>Through the NUS Geography Challenge, I learnt that perseverance is key.
+During the individual component, I came across content that I was not familiar
+with, despite this I did not give up and still attempted the questions
+to the best of my abilities. During the team component, our team worked
+together and distributed the different components of the paper so that
+we could do it effectively and submit it on time.</p>
 <hr>
 <p>Self-directed learners during the Geographical Investigation at MacRitchie
 Reservoir.</p>
