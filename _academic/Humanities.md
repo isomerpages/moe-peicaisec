@@ -4,36 +4,7 @@ permalink: /academic/humanities/
 description: ""
 variant: tiptap
 ---
-<h4><strong>Learning Outcomes</strong></h4>
-<p>In Peicai, the Humanities programme aims to nurture empathetic students
-who think critically and contribute meaningfully to society.</p>
-<p>Through the various programmes, students are empowered to be:</p>
-<p><strong>A</strong>nalytical. He/she thinks critically, actively synthetize
-information and is discerning.</p>
-<p><strong>C</strong>onnected. He/she communicates effectively, work well
-in teams and takes responsibility for his/ her own learning.</p>
-<p><strong>E</strong>mpathetic. He/she is a concerned citizen rooted in Singapore,
-is informed, and takes an active role in bettering the lives of others.</p>
-<p>The approach to the teaching and learning of Humanities involves:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>inquiry-based approach to allow students to construct their understanding
-through purposeful act of identifying problems, asking good questions,
-collecting data and analysing varied information sources, and</p>
-</li>
-<li>
-<p>questioning strategies such as Paul’s Wheel of Reasoning so that students
-build thinking and reflection schemas to examine information critically.</p>
-</li>
-<li>
-<p>discussion strategies such as Socratic Seminar so that students systematically
-question and examine issues and principles related to a particular content
-and articulate different points-of-view.</p>
-</li>
-</ul>
-<hr>
-<p><strong>2025 Humanities list of teachers</strong>
-</p>
+<h4><strong>Our People</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -302,6 +273,33 @@ and articulate different points-of-view.</p>
 </tr>
 </tbody>
 </table>
+<h4><strong>Learning Outcomes</strong></h4>
+<p>In Peicai, the Humanities programme aims to nurture empathetic students
+who think critically and contribute meaningfully to society.</p>
+<p>Through the various programmes, students are empowered to be:</p>
+<p><strong>A</strong>nalytical. He/she thinks critically, actively synthetize
+information and is discerning.</p>
+<p><strong>C</strong>onnected. He/she communicates effectively, work well
+in teams and takes responsibility for his/ her own learning.</p>
+<p><strong>E</strong>mpathetic. He/she is a concerned citizen rooted in Singapore,
+is informed, and takes an active role in bettering the lives of others.</p>
+<p>The approach to the teaching and learning of Humanities involves:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>inquiry-based approach to allow students to construct their understanding
+through purposeful act of identifying problems, asking good questions,
+collecting data and analysing varied information sources, and</p>
+</li>
+<li>
+<p>questioning strategies such as Paul’s Wheel of Reasoning so that students
+build thinking and reflection schemas to examine information critically.</p>
+</li>
+<li>
+<p>discussion strategies such as Socratic Seminar so that students systematically
+question and examine issues and principles related to a particular content
+and articulate different points-of-view.</p>
+</li>
+</ul>
 <h4><strong>Department Programme/Highlights/ Student Outcomes</strong></h4>
 <p><strong>Participating in 2025 NUS Geography Challenge</strong>
 </p>
