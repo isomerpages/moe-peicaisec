@@ -34,7 +34,7 @@ sections:
       id: infobar
       description: 2026 Subject Options For Sec 3 (for Sec 2 PES)
       button: Click here to view slide
-      url: cms.isomer.gov.sg/files/2025/Subject_Options_For_Sec_3_2026__for_Sec_2_PES_.pdf
+      url: https://cms.isomer.gov.sg/files/2025/subject_options_for_sec_3_2026__for_sec_2_pes.pdf
   - infopic:
       title: Inspiring Teacher of English Award 2025
       subtitle: Invitation for Nominations
