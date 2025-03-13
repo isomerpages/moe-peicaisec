@@ -23,7 +23,7 @@ sections:
       image: /images/Announcement/Real_World_Co_design_Platform__1.jpg
       alt: Real World Co-design Platfor
   - infopic:
-      title: Parent Engagement Session & Subject Options for Sec3 2026
+      title: Parent Engagement Session
       id: infopic
       description: 15 February 2025
       image: /images/Announcement/pes_15Feb_2025.jpg
