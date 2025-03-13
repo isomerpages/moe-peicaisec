@@ -6,9 +6,9 @@ description: ""
 ---
 <p><strong>Secondary 2</strong>
 </p>
-<p><a href="/files/S2_2024_ECG_Talk_on_Post_Sec_Pathways_and_Options_v4__final_.pdf" rel="noopener nofollow" target="_blank">2024 ECG Talk on Post-Sec Pathways and Options</a>
-</p>
 <p><a href="/files/Subject_Options_For_Sec_3_2026__for_Sec_2_PES_.pdf" rel="noopener nofollow" target="_blank">2026 Subject Options For Sec 3 (for Sec 2 PES)</a>
+</p>
+<p><a href="/files/S2_2024_ECG_Talk_on_Post_Sec_Pathways_and_Options_v4__final_.pdf" rel="noopener nofollow" target="_blank">ECG Talk on Post-Sec Pathways and Options</a>
 </p>
 <hr>
 <p><strong>Secondary 3</strong>
