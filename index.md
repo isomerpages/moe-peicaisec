@@ -23,18 +23,13 @@ sections:
       image: /images/Announcement/Real_World_Co_design_Platform__1.jpg
       alt: Real World Co-design Platfor
   - infopic:
-      title: Parent Engagement Session
+      title: Parent Engagement Session & Subject Options for Sec3 2026
       id: infopic
       description: 15 February 2025
       image: /images/Announcement/pes_15Feb_2025.jpg
       alt: Parent Engagement Session 2025
       button: click here to view slides
       url: /parent-engagement-session-slides-15-feb/
-  - infobar:
-      id: infobar
-      description: 2026 Subject Options For Sec 3 (for Sec 2 PES)
-      button: Click here to view slide
-      url: https://cms.isomer.gov.sg/files/2025/subject_options_for_sec_3_2026__for_sec_2_pes.pdf
   - infopic:
       title: Inspiring Teacher of English Award 2025
       subtitle: Invitation for Nominations
