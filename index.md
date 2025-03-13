@@ -30,6 +30,11 @@ sections:
       alt: Parent Engagement Session 2025
       button: click here to view slides
       url: /parent-engagement-session-slides-15-feb/
+  - infobar:
+      id: infobar
+      description: 2026 Subject Options For Sec 3 (for Sec 2 PES)
+      button: Click here to view slide
+      url: cms.isomer.gov.sg/files/2025/Subject_Options_For_Sec_3_2026__for_Sec_2_PES_.pdf
   - infopic:
       title: Inspiring Teacher of English Award 2025
       subtitle: Invitation for Nominations
