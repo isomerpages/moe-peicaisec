@@ -4,6 +4,90 @@ permalink: /academic/permalink/computing/
 variant: tiptap
 description: ""
 ---
+<h4><strong>Our People</strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Designation</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Email</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lee Li Juan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD (ICT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_li_juan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_li_juan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Teng Lip Koon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH (CPA)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:teng_lip_koon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teng_lip_koon@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Andy Chee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chee_khuen_woei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chee_khuen_woei@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Gan Yolk Get</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:gan_yolk_get@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gan_yolk_get@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Melissa Koh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:koh_shihui_melissa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_shihui_melissa@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>Computing</strong></h4>
 <p>Starting in 2026, G1, G2, and G3 Computing will be offered as elective
 subjects for all upper secondary students. This expansion allows more students
@@ -219,91 +303,6 @@ Sec.</p>
 <p><a href="https://drive.google.com/file/d/1pO9Z1JpJk9eblBEPBbnrF_39k9LCDOL9" rel="noopener noreferrer nofollow" target="_blank">G2 Computing T&amp;L Syllabus K244 (2026)</a>
 </p>
 <p><a href="https://drive.google.com/file/d/1scqURCiU1lllsHHR1Z-T1NEwjHXW1-hK" rel="noopener noreferrer nofollow" target="_blank">Summary of Differences in G1 vs G2 Computing Syllabuses</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>Infocomm Technology (ICT) Department</strong>
-</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Name</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Designation</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Email</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Lee Li Juan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD (ICT)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lee_li_juan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_li_juan@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Teng Lip Koon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH (CPA)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:teng_lip_koon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teng_lip_koon@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Andy Chee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chee_khuen_woei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chee_khuen_woei@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Gan Yolk Get</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:gan_yolk_get@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gan_yolk_get@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Melissa Koh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:koh_shihui_melissa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_shihui_melissa@moe.edu.sg</a>
 </p>
 </td>
 </tr>
