@@ -10,7 +10,7 @@ description: ""
 </p>
 <p><a href="/files/2025/subject_options_for_sec_3_2026__for_sec_2_pes.pdf" rel="noopener nofollow" target="_blank">2026 Subject Options For Sec 3 (for Sec 2 PES)</a>
 </p>
-<p><a href="/files/Subject_Options_For_Sec_3_2026__for_Sec_2_PES_.pdf" rel="noopener nofollow" target="_blank">Subject Options For Sec 3 2026 (for Sec 2 PES)</a>
+<p><a href="/files/Subject_Options_For_Sec_3_2026__for_Sec_2_PES_.pdf" rel="noopener nofollow" target="_blank">2026 Subject Options For Sec 3 (for Sec 2 PES)</a>
 </p>
 <p></p>
 <hr>
