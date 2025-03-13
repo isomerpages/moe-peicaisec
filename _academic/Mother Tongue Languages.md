@@ -219,7 +219,7 @@ variant: tiptap
 confidently and effectively in various real-life contexts; and to expose
 students to cultures and values through MTL lessons.</p>
 <p>In Peicai, the MTL curriculum aims to</p>
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p>Strengthen student’s communication skills to be able to use their MTL
 as a living language both in school and out of school.</p>
@@ -233,7 +233,7 @@ and history.</p>
 <p>Better connect students with communities in local context and across Asia
 including the world.</p>
 </li>
-</ol>
+</ul>
 <p>Lessons conducted focus on developing students’ critical thinking and
 creative thinking skills. Teachers will leverage ICT tools to provide students
 with more interactive and real-life authentic learning, to promote self-directed
@@ -246,7 +246,7 @@ of the real-world context.</p>
 <p>The use of a variety of assessment modes aims to allow for better instructional
 tool to promote students’ learning. Hence, assessment does not only serve
 as an evaluative tool. Some of the assessment modes include:</p>
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p>Self, peer and teacher assessment</p>
 </li>
@@ -256,7 +256,7 @@ as an evaluative tool. Some of the assessment modes include:</p>
 <li>
 <p>Formative and Summative testing</p>
 </li>
-</ol>
+</ul>
 <h4><strong>Programmes</strong></h4>
 <h4><strong><u>Chinese Language and Culture</u></strong></h4>
 <p><strong>Chinese Language</strong>
@@ -271,14 +271,19 @@ and writing. Our key programmes include ‘Class Library Programme’ and the
 <p>To inspire the students’ love for their culture, and to seize every opportunity
 to teach our students values, we organise the following activities for
 our students each year:</p>
-<p><strong>Chinese New Year Concert</strong>
+<p><strong><u>Chinese New Year Concert 2025</u></strong>
 </p>
-<p>On the Chinese New Year celebration concert, students were engaged in
-a festive mood by the mere presence of the God of Fortune and the Dragon
-Dance Troupe.</p>
-<table style="minWidth: 50px">
+<p>We celebrated the Lunar New Year on 28 January with a vibrant and festive
+atmosphere at school. Peicaians had the opportunity to engage in various
+fringe activities in the classroom, such as Chinese Calligraphy and Chinese
+New Year Digital Card Making Competition, where they could experience the
+beauty of this traditional art form.</p>
+<p>Later, the whole school came together to enjoy a series of performances
+and programs in the school hall, showcasing the rich cultural heritage
+of the Lunar New Year. It was a day filled with joy, creativity, and community
+spirit as we embraced the traditions and celebrations of this special occasion.</p>
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
@@ -286,19 +291,18 @@ Dance Troupe.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/mt_2024_1.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/mt_2024_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/mt_1.png">
 </div>
 </th>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
-<p><strong>MT Fortnight Cultural activities for our students</strong>
+<p><strong><u>MT Fortnight Cultural activities for our students</u></strong>
 </p>
 <p>To expose our students to different cultural activities, we organize various
 activities for our students during the Mother Tongue fortnight, such as
@@ -389,7 +393,7 @@ Morning Assembly.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong><u>Mid-Autumn Festival (September)</u></strong></h4>
+<h4><strong><u>Mid-Autumn Festival (September 2024)</u></strong></h4>
 <p><strong>MTL Department collaboration with SWB</strong>
 </p>
 <table style="minWidth: 50px">
@@ -428,7 +432,7 @@ Morning Assembly.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Exposure / Competition</strong>
+<p><strong><u>Exposure / Competition</u></strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -503,9 +507,12 @@ Classes’.</p>
 of the Malay language, we have also included enrichment activities to enhance
 our students’ knowledge about the Malay culture. These activities are as
 follows:</p>
-<p><strong>MT Fortnight Cultural activities for our students</strong>
+<p><strong><u>MT Fortnight Cultural activities for our students</u></strong>
 </p>
-<p></p>
+<p>The department has organized workshops such as Jawi Calligraphy, Malay
+Dance, Traditional Games and Acting (Opera Theatre, Bangsawan) for our
+students. These workshops are conducted to enhance students’ interest and
+appreciation of Malay culture.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -654,7 +661,7 @@ and Hari Raya Quiz.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>External Exposure / Competition</strong>
+<p><strong><u>External Exposure / Competition</u></strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
