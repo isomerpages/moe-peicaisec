@@ -32,8 +32,7 @@ foster the capability to apply mathematical concepts in everyday life.</p>
 </li>
 </ol>
 <hr>
-<p><strong>Mathematics Teacher</strong>
-</p>
+<h4><strong>Our People</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
