@@ -5,6 +5,125 @@ variant: tiptap
 description: ""
 third_nav_title: Craft & Technology
 ---
+<h4><strong>Our People</strong></h4>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Designation</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Teaching Subjects</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Email Address</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Kelvin Law</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD (Craft &amp; Technology)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Design and Technology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:law_wei_ming_kelvin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>law_wei_ming_kelvin@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Peh Say Koon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Design and Technology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:peh_say_koon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">peh_say_koon@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Prem Chandran</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Design and Technology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:prem_pirapala_chandran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">prem_pirapala_chandran@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Victor Wong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Design and Technology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wong_chung_meng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_chung_meng@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Johari Ahmad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>STEM Instructor (Workshop)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:johari_ahmad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>johari_ahmad@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Hafiz Alwi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>STEM Instructor (Workshop)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:mohamed_hafiz_mohamed_alwi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>mohamed_hafiz_mohamed_alwi@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>Learning Outcomes</strong></h4>
 <p>In Peicai, our students learn to:</p>
 <table style="minWidth: 100px">
