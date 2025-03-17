@@ -9,6 +9,13 @@ sections:
   - hero:
       background: /images/Main_Banner_Main_1B3.jpg
   - infopic:
+      title: Singapore Science and Engineering Fair (SSEF)
+      id: infopic
+      description: 11-12 March @ Singapore Expo
+      button: Click here to find out more
+      url: /singapore-science-and-engineering-fair-ssef/
+      alt: SSEF
+  - infopic:
       title: Breakfast with Principal 2025
       id: infopic
       button: Click here to find out more
