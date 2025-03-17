@@ -9,6 +9,13 @@ sections:
   - hero:
       background: /images/Main_Banner_Main_1B3.jpg
   - infopic:
+      title: Girl Guides World Thinking Day Commemoration
+      id: infopic
+      button: Click here to find out more
+      url: /girlguides-world-thinking-day-commemoration/
+      image: /images/Announcement/GGuide_2025.jpg
+      alt: Girl Guides 2025
+  - infopic:
       title: Breakfast with Principal 2025
       id: infopic
       button: Click here to find out more
