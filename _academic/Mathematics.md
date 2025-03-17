@@ -4,36 +4,7 @@ permalink: /academic/mathematics/
 description: ""
 variant: tiptap
 ---
-<h4><strong>Learning Outcomes</strong></h4>
-<p>At Peicai, we provide a comprehensive and engaging mathematics education
-that equips our students with the knowledge, skills, and dispositions needed
-to excel both academically and professionally. Our mathematics curriculum
-is designed to foster a deep understanding of mathematical concepts and
-their real-world applications.</p>
-<ol data-tight="true" class="tight">
-<li>
-<p><strong>Problem Solving and Critical Thinking</strong>
-<br>We empower students to cultivate robust problem-solving skills and critical
-thinking abilities, enabling them to confidently tackle a wide spectrum
-of challenges.</p>
-</li>
-<li>
-<p><strong>Conceptual Mastery</strong>
-<br>Our students achieve a profound understanding of fundamental mathematical
-concepts, empowering them to apply these principles across a broad range
-of topics, from algebra to calculus.</p>
-</li>
-<li>
-<p><strong>Real-World Relevance</strong>
-<br>We place a strong emphasis on demonstrating the practical applicability
-of mathematics. By showing students how mathematics is intertwined with
-other disciplines, we inspire a genuine appreciation for the subject and
-foster the capability to apply mathematical concepts in everyday life.</p>
-</li>
-</ol>
-<hr>
-<p><strong>Mathematics Teacher</strong>
-</p>
+<h4><strong>Our People</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -290,6 +261,33 @@ foster the capability to apply mathematical concepts in everyday life.</p>
 </tr>
 </tbody>
 </table>
+<h4><strong>Learning Outcomes</strong></h4>
+<p>At Peicai, we provide a comprehensive and engaging mathematics education
+that equips our students with the knowledge, skills, and dispositions needed
+to excel both academically and professionally. Our mathematics curriculum
+is designed to foster a deep understanding of mathematical concepts and
+their real-world applications.</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>Problem Solving and Critical Thinking</strong>
+<br>We empower students to cultivate robust problem-solving skills and critical
+thinking abilities, enabling them to confidently tackle a wide spectrum
+of challenges.</p>
+</li>
+<li>
+<p><strong>Conceptual Mastery</strong>
+<br>Our students achieve a profound understanding of fundamental mathematical
+concepts, empowering them to apply these principles across a broad range
+of topics, from algebra to calculus.</p>
+</li>
+<li>
+<p><strong>Real-World Relevance</strong>
+<br>We place a strong emphasis on demonstrating the practical applicability
+of mathematics. By showing students how mathematics is intertwined with
+other disciplines, we inspire a genuine appreciation for the subject and
+foster the capability to apply mathematical concepts in everyday life.</p>
+</li>
+</ol>
 <h4><strong>Department Programmes and Highlights</strong></h4>
 <p><strong>Math Competitions</strong>
 </p>

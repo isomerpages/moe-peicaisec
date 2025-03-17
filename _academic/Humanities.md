@@ -4,36 +4,7 @@ permalink: /academic/humanities/
 description: ""
 variant: tiptap
 ---
-<h4><strong>Learning Outcomes</strong></h4>
-<p>In Peicai, the Humanities programme aims to nurture empathetic students
-who think critically and contribute meaningfully to society.</p>
-<p>Through the various programmes, students are empowered to be:</p>
-<p><strong>A</strong>nalytical. He/she thinks critically, actively synthetize
-information and is discerning.</p>
-<p><strong>C</strong>onnected. He/she communicates effectively, work well
-in teams and takes responsibility for his/ her own learning.</p>
-<p><strong>E</strong>mpathetic. He/she is a concerned citizen rooted in Singapore,
-is informed, and takes an active role in bettering the lives of others.</p>
-<p>The approach to the teaching and learning of Humanities involves:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>inquiry-based approach to allow students to construct their understanding
-through purposeful act of identifying problems, asking good questions,
-collecting data and analysing varied information sources, and</p>
-</li>
-<li>
-<p>questioning strategies such as Paul’s Wheel of Reasoning so that students
-build thinking and reflection schemas to examine information critically.</p>
-</li>
-<li>
-<p>discussion strategies such as Socratic Seminar so that students systematically
-question and examine issues and principles related to a particular content
-and articulate different points-of-view.</p>
-</li>
-</ul>
-<hr>
-<p><strong>2025 Humanities list of teachers</strong>
-</p>
+<h4><strong>Our People</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -302,7 +273,103 @@ and articulate different points-of-view.</p>
 </tr>
 </tbody>
 </table>
+<h4><strong>Learning Outcomes</strong></h4>
+<p>In Peicai, the Humanities programme aims to nurture empathetic students
+who think critically and contribute meaningfully to society.</p>
+<p>Through the various programmes, students are empowered to be:</p>
+<p><strong>A</strong>nalytical. He/she thinks critically, actively synthetize
+information and is discerning.</p>
+<p><strong>C</strong>onnected. He/she communicates effectively, work well
+in teams and takes responsibility for his/ her own learning.</p>
+<p><strong>E</strong>mpathetic. He/she is a concerned citizen rooted in Singapore,
+is informed, and takes an active role in bettering the lives of others.</p>
+<p>The approach to the teaching and learning of Humanities involves:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>inquiry-based approach to allow students to construct their understanding
+through purposeful act of identifying problems, asking good questions,
+collecting data and analysing varied information sources, and</p>
+</li>
+<li>
+<p>questioning strategies such as Paul’s Wheel of Reasoning so that students
+build thinking and reflection schemas to examine information critically.</p>
+</li>
+<li>
+<p>discussion strategies such as Socratic Seminar so that students systematically
+question and examine issues and principles related to a particular content
+and articulate different points-of-view.</p>
+</li>
+</ul>
 <h4><strong>Department Programme/Highlights/ Student Outcomes</strong></h4>
+<p><strong>Participating in 2025 NUS Geography Challenge</strong>
+</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="2025 NUS Geography Challenge" src="/images/Academic/2025_NUS_Geography_Challenge__1_.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="2025 NUS Geography Challenge 2" src="/images/Academic/2025_NUS_Geography_Challenge__2_.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Lets hear from our students about their experiences!</p>
+<p><strong>CASTILLO ZIAN DENVER MENCIANO 3EE (Team Leader) [Certificate of Participation]</strong>
+</p>
+<p>When I first heard about the Geography competition, I was intrigued but
+also uncertain about the activities that I would embark on if I were to
+participate. However, after participating in the competition and gaining
+the chance to represent the school, I have learnt so much more about geography
+and understood it at a much deeper level. We tried our best for each component
+whether it be the individual or team, and I would say it is a very enriching
+experience overall.</p>
+<p><strong>BERNICE CHEN 3CN [Bronze (Individual Component)]</strong>
+</p>
+<p>Reflecting on the NUS Geography Challenge, I realize that it was more
+than just a competition, it was a journey of self-discovery. I stepped
+out of my comfort zone, developed new skills, and formed meaningful connections
+with others. This experience taught me that growth often lies just beyond
+our comfort zones, and I'm grateful for the lessons learned.</p>
+<p><strong>PIMENTEL MARIA MICHAELA BENAVIDEZ 3CN [Certification of Participation]</strong>
+</p>
+<p>The Geography Challenge was a really memorable experience for me. This
+challenge enabled me to learn more about the different plans and strategies
+that Singapore has to improve the country. The team had to put in a lot
+of effort into preparing for the challenge and we even had to spend our
+weekends discussing our points and ideas. Although we didn't manage to
+get into the semi-finals, I'm still proud of my team as we went through
+the difficulties together. I would like to thank my teachers and teammates
+who made this challenge enjoyable.</p>
+<p><strong>RAYNISE TAN YI XUAN 3CN [Certification of Participation]</strong>
+</p>
+<p>Through the NUS Geography Challenge, I learnt that perseverance is key.
+During the individual component, I came across content that I was not familiar
+with, despite this I did not give up and still attempted the questions
+to the best of my abilities. During the team component, our team worked
+together and distributed the different components of the paper so that
+we could do it effectively and submit it on time.</p>
+<hr>
 <p>Self-directed learners during the Geographical Investigation at MacRitchie
 Reservoir.</p>
 <table style="minWidth: 50px">

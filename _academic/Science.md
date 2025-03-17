@@ -4,7 +4,6 @@ permalink: /academic/science/
 description: ""
 variant: tiptap
 ---
-<h4><strong>Science Department</strong></h4>
 <h4><strong>Our People</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
