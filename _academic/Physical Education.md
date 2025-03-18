@@ -4,8 +4,127 @@ permalink: /academic/physical-education/
 description: ""
 variant: tiptap
 ---
+<h4><strong>Our People</strong></h4>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Designation</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Teaching Subjects</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Email Address</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Alvin Yeo</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD (PE &amp; CCA)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Physical Education</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:alvin_yeo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">alvin_yeo@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Greg Ong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD (SM)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Physical Education</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ong_chiang_thai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_chiang_thai@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Mark Koh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Physical Education</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:koh_ah_kheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_ah_kheng@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Jonathan Seow</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Physical Education</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:seow_choon_chee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seow_choon_chee@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Adrian Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Physical Education</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_kok_leong_adrian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_kok_leong_adrian@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lee Boon Kau</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Physical Education</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_boon_kau_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_boon_kau_a@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>Learning Outcomes</strong></h4>
-<p></p>
 <p>In Peicai, our Physical Education Programme places strong emphasis on
 developing students with cognitive, affective and physical abilities that
 will enable them to maintain a healthy and active lifestyle. In addition

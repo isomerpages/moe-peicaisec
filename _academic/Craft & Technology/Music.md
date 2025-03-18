@@ -5,6 +5,95 @@ variant: tiptap
 description: ""
 third_nav_title: Craft & Technology
 ---
+<h4><strong>Our People</strong></h4>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Designation</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Teaching Subjects</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Email Address</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Kelvin Law</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD (Craft &amp; Technology)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>D&amp;T</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:law_wei_ming_kelvin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">law_wei_ming_kelvin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Kavitha Vythilingam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD (Character &amp; Citizenship Education) Covering</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Art</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:kavitha_vythilingam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kavitha_vythilingam@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Yan Chong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Music, EL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_yan_chong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yan_chong@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Christina Pillai</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Music</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:pillai_christina@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pillai_christina@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>Desired Outcomes</strong></h4>
 <p>In Peicai Secondary School, we aim to develop in students the competencies
 that will enable them to:</p>

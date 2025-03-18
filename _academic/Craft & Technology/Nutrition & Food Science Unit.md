@@ -5,6 +5,110 @@ variant: tiptap
 description: ""
 third_nav_title: Craft & Technology
 ---
+<h4><strong>Our People</strong></h4>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Designation</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Teaching Subjects</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Email Address</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Kelvin Law</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD (Craft &amp; Technology)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>D&amp;T</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:law_wei_ming_kelvin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">law_wei_ming_kelvin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Chow May Yen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ST (Food &amp; Consumer Education)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NFS, FCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chow_may_yen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chow_may_yen@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm R Sheela Malani</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NFS, FCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:r_sheela_malani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">r_sheela_malani@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Ow Ju-lin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>FCE, EL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ow_ju-lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ow_ju-lin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nur Nahya Yaqina Bte Yahya</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NFS, EL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nur_nahya_yaqina_yahya@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_nahya_yaqina_yahya@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>Learning Outcomes</strong></h4>
 <p>In Peicai, our students learn to:</p>
 <table style="minWidth: 75px">

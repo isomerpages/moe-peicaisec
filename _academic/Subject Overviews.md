@@ -39,7 +39,7 @@ for Semester One 2025.</p>
 <p><a href="https://drive.google.com/drive/folders/1L1ruBF6HrCls1yFRr5psLQjUXggNBZDI?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Subjects at G3 Level</a>|</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/drive/folders/1CbkOF-t-JkZwDSVdZB_UTrAFd-a0XoNz?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Normal (Technical)</a>|</p>
+<p><a href="https://drive.google.com/drive/folders/1igvxsgzl-1rt0Fa0vajyID14ABd6Ix9u?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Subjects at G3 Level</a>|</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://drive.google.com/drive/folders/14J_fdNnnHiplhxSX5WuFc0iCs9KdVeS7?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Normal (Technical)</a>|</p>
@@ -53,7 +53,7 @@ for Semester One 2025.</p>
 <p><a href="https://drive.google.com/drive/folders/1cnotD845CsaW55muUpnnmuTwKKUrl4ua?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Subjects at G2 Level</a>|</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/drive/folders/18NNDGkrSj_JfYRGyKXdBRzcvSU6mmQ1E?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Normal (Academic)</a>|</p>
+<p><a href="https://drive.google.com/drive/folders/18NNDGkrSj_JfYRGyKXdBRzcvSU6mmQ1E?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Subjects at G2 Level</a>|</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://drive.google.com/drive/folders/1JtkQVVOx1QCd3rzycb3X5FTNw3QtJXpX?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Normal (Academic)</a>|</p>
@@ -67,7 +67,7 @@ for Semester One 2025.</p>
 <p><a href="https://drive.google.com/drive/folders/1M5QzYU8k4L8AJhDGpjTdhch-TBRWodjw?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Subjects at G1 Level</a>|</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/drive/folders/1igvxsgzl-1rt0Fa0vajyID14ABd6Ix9u?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Express</a> |</p>
+<p><a href="https://drive.google.com/drive/folders/1CbkOF-t-JkZwDSVdZB_UTrAFd-a0XoNz?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Subjects at G1 Level</a>|</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://drive.google.com/drive/folders/13Lt8ZdLXL7VZDeHks3jeY3Fw9XSUT4K5?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Express</a> |</p>

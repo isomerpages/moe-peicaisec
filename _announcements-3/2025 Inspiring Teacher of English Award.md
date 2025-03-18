@@ -4,9 +4,21 @@ permalink: /2025-inspiring-teacher-of-english-award/
 variant: tiptap
 description: ""
 ---
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="I Love My English Teacher 2025" src="/images/Announcement/2025_Inspiring_English_Teacher_Award.png">
+<img style="width: 100%" height="auto" width="100%" alt="I Love My English Teacher" src="/images/Announcement/i_love_my_eng_tr2025.png">
 </div>
+</th>
+</tr>
+</tbody>
+</table>
 <p><strong>I Love My English Teacher</strong>
 </p>
 <p>This award is open to all in-service teachers of English Language, including

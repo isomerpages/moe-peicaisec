@@ -5,6 +5,125 @@ variant: tiptap
 description: ""
 third_nav_title: Craft & Technology
 ---
+<h4><strong>Our People</strong></h4>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Designation</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Teaching Subjects</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Email Address</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Kelvin Law</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD (Craft &amp; Technology)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>D&amp;T</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:law_wei_ming_kelvin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">law_wei_ming_kelvin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Kavitha Vythilingam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD (Character &amp; Citizenship Education) Covering</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Art</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:kavitha_vythilingam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kavitha_vythilingam@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Vincent Siew</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Art, ALP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wei_jian_vincent_siew@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wei_jian_vincent_siew@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Sharon Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Art</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_sharon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_sharon@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Avery Kevyn Wee Reyes</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Art</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:avery_kevyn_wee_reyes@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">avery_kevyn_wee_reyes@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Chan Choy Har</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Art</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Chan_choy_har_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Chan_choy_har_a@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>Learning Outcomes</strong></h4>
 <p>In Peicai, our students learn to:</p>
 <table style="minWidth: 75px">
