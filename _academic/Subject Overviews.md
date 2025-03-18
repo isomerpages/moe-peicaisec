@@ -36,7 +36,7 @@ for Semester One 2025.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/drive/folders/1L1ruBF6HrCls1yFRr5psLQjUXggNBZDI?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Subjects at G3 Level</a>|</p>
+<p><a href="https://drive.google.com/drive/folders/1M5QzYU8k4L8AJhDGpjTdhch-TBRWodjw?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Subjects at G1 Level</a>|</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://drive.google.com/drive/folders/1CbkOF-t-JkZwDSVdZB_UTrAFd-a0XoNz?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Subjects at G1 Level</a>|</p>
@@ -64,7 +64,7 @@ for Semester One 2025.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/drive/folders/1M5QzYU8k4L8AJhDGpjTdhch-TBRWodjw?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Subjects at G1 Level</a>|</p>
+<p><a href="https://drive.google.com/drive/folders/1L1ruBF6HrCls1yFRr5psLQjUXggNBZDI?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Subjects at G3 Level</a>|</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://drive.google.com/drive/folders/1igvxsgzl-1rt0Fa0vajyID14ABd6Ix9u?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Subjects at G3 Level</a>|</p>
