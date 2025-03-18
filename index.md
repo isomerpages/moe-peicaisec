@@ -42,7 +42,7 @@ sections:
       subtitle: Invitation for Nominations
       id: infopic
       description: I Love My English Teacher
-      image: /images/Announcement/2025_Inspiring_English_Teacher_Award.png
+      image: /images/Announcement/i_love_my_eng_tr2025.png
       alt: I Love My English Teacher 2025
       button: Click here to find out more
       url: /2025-inspiring-teacher-of-english-award/
