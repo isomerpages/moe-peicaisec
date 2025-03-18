@@ -40,10 +40,10 @@ third_nav_title: Craft & Technology
 <p>HOD (Craft &amp; Technology)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Design and Technology</p>
+<p>D&amp;T</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:law_wei_ming_kelvin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>law_wei_ming_kelvin@moe.edu.sg</u></a>
+<p><a href="mailto:law_wei_ming_kelvin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">law_wei_ming_kelvin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -55,7 +55,7 @@ third_nav_title: Craft & Technology
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Design and Technology</p>
+<p>D&amp;T</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:peh_say_koon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">peh_say_koon@moe.edu.sg</a>
@@ -64,13 +64,13 @@ third_nav_title: Craft & Technology
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Prem Chandran</p>
+<p>Mr Prem S/O Pirapala Chandran</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Design and Technology</p>
+<p>D&amp;T</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:prem_pirapala_chandran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">prem_pirapala_chandran@moe.edu.sg</a>
@@ -85,7 +85,7 @@ third_nav_title: Craft & Technology
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Design and Technology</p>
+<p>D&amp;T</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wong_chung_meng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_chung_meng@moe.edu.sg</a>
@@ -94,31 +94,31 @@ third_nav_title: Craft & Technology
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Johari Ahmad</p>
+<p>Mr Johari Bin Ahmad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>STEM Instructor (Workshop)</p>
+<p>STEM Instructor</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:johari_ahmad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>johari_ahmad@moe.edu.sg</u></a>
+<p><a href="mailto:johari_ahmad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">johari_ahmad@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Hafiz Alwi</p>
+<p>Mr Mohamed Hafiz Bin Mohamed Alwi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>STEM Instructor (Workshop)</p>
+<p>STEM Instructor</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:mohamed_hafiz_mohamed_alwi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>mohamed_hafiz_mohamed_alwi@moe.edu.sg</u></a>
+<p><a href="mailto:mohamed_hafiz_mohamed_alwi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohamed_hafiz_mohamed_alwi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
