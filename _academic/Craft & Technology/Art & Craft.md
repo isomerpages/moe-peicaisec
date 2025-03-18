@@ -40,10 +40,10 @@ third_nav_title: Craft & Technology
 <p>HOD (Craft &amp; Technology)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Design and Technology</p>
+<p>D&amp;T</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:law_wei_ming_kelvin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>law_wei_ming_kelvin@moe.edu.sg</u></a>
+<p><a href="mailto:law_wei_ming_kelvin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">law_wei_ming_kelvin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -52,14 +52,13 @@ third_nav_title: Craft & Technology
 <p>Ms Kavitha Vythilingam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH (Aesthetics)</p>
-<p>HOD (CCE) (Covering)</p>
+<p>HOD (Character &amp; Citizenship Education) Covering</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Art &amp; Craft</p>
+<p>Art</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kavitha_vythilingam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>kavitha_vythilingam@moe.edu.sg</u></a>
+<p><a href="mailto:kavitha_vythilingam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kavitha_vythilingam@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -71,7 +70,7 @@ third_nav_title: Craft & Technology
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Art &amp; Craft</p>
+<p>Art, ALP</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wei_jian_vincent_siew@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wei_jian_vincent_siew@moe.edu.sg</a>
@@ -86,7 +85,7 @@ third_nav_title: Craft & Technology
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Art &amp; Craft</p>
+<p>Art</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_sharon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_sharon@moe.edu.sg</a>
@@ -95,13 +94,13 @@ third_nav_title: Craft & Technology
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Avery Wee</p>
+<p>Ms Avery Kevyn Wee Reyes</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Art &amp; Craft</p>
+<p>Art</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:avery_kevyn_wee_reyes@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">avery_kevyn_wee_reyes@moe.edu.sg</a>
@@ -116,10 +115,10 @@ third_nav_title: Craft & Technology
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Art &amp; Craft</p>
+<p>Art</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chan_choy_har_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_choy_har_a@moe.edu.sg</a>
+<p><a href="mailto:Chan_choy_har_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Chan_choy_har_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
