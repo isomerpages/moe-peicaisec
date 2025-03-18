@@ -40,10 +40,25 @@ third_nav_title: Craft & Technology
 <p>HOD (Craft &amp; Technology)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Design and Technology</p>
+<p>D&amp;T</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:law_wei_ming_kelvin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>law_wei_ming_kelvin@moe.edu.sg</u></a>
+<p><a href="mailto:law_wei_ming_kelvin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">law_wei_ming_kelvin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Kavitha Vythilingam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD (Character &amp; Citizenship Education) Covering</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Art</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:kavitha_vythilingam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kavitha_vythilingam@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -55,7 +70,7 @@ third_nav_title: Craft & Technology
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Music</p>
+<p>Music, EL</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_yan_chong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yan_chong@moe.edu.sg</a>
