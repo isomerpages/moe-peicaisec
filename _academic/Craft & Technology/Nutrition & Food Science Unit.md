@@ -40,10 +40,10 @@ third_nav_title: Craft & Technology
 <p>HOD (Craft &amp; Technology)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Design and Technology</p>
+<p>D&amp;T</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:law_wei_ming_kelvin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>law_wei_ming_kelvin@moe.edu.sg</u></a>
+<p><a href="mailto:law_wei_ming_kelvin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">law_wei_ming_kelvin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -52,10 +52,10 @@ third_nav_title: Craft & Technology
 <p>Mdm Chow May Yen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ST (FCE)</p>
+<p>ST (Food &amp; Consumer Education)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nutrition &amp; Food Science</p>
+<p>NFS, FCE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chow_may_yen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chow_may_yen@moe.edu.sg</a>
@@ -64,13 +64,13 @@ third_nav_title: Craft & Technology
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Sheela</p>
+<p>Mdm R Sheela Malani</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nutrition &amp; Food Science</p>
+<p>NFS, FCE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:r_sheela_malani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">r_sheela_malani@moe.edu.sg</a>
@@ -79,13 +79,28 @@ third_nav_title: Craft & Technology
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nahya Yaqina</p>
+<p>Mdm Ow Ju-lin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nutrition &amp; Food Science</p>
+<p>FCE, EL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ow_ju-lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ow_ju-lin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nur Nahya Yaqina Bte Yahya</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NFS, EL</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nur_nahya_yaqina_yahya@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_nahya_yaqina_yahya@moe.edu.sg</a>
