@@ -33,68 +33,37 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Alvin Yeo</p>
-<p>&nbsp;</p>
+<p>Alvin Yeo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD (PE &amp; CCA)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Physical Education</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:alvin_yeo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">alvin_yeo@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Greg Ong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD (SM)</p>
+<p>HOD PE &amp; CCA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Physical Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ong_chiang_thai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_chiang_thai@moe.edu.sg</a>
+<p><a href="mailto:Alvin_yeo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Alvin_yeo@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Mark Koh</p>
+<p>Greg Ong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
+<p>HOD SM</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Physical Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:koh_ah_kheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_ah_kheng@moe.edu.sg</a>
+<p><a href="mailto:Ong_chiang_thai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ong_chiang_thai@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Jonathan Seow</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Physical Education</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:seow_choon_chee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seow_choon_chee@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Adrian Tan</p>
+<p>Adrian Tan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -109,7 +78,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Lee Boon Kau</p>
+<p>Jonathan Seow</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -118,7 +87,37 @@ variant: tiptap
 <p>Physical Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_boon_kau_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_boon_kau_a@moe.edu.sg</a>
+<p><a href="mailto:Seow_choon_chee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Seow_choon_chee@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mark Koh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Physical Education</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Koh_ah_kheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Koh_ah_kheng@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lee Boon Kau</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Physical Education</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Lee_boon_kau_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Lee_boon_kau_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -132,17 +131,13 @@ to enhancing their physical fitness, students will cultivate essential
 attributes such as discipline, teamwork, and resilience.</p>
 <p>The Learning Outcomes (LOs) in the learning areas for the secondary level
 build on the movement capacity and knowledge that were learnt at the primary
-level.
-<br>
-</p>
+level.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>For<strong>&nbsp;Physical Activity,</strong>&nbsp;the LOs are premised
 on the expected student competence in a recreational context at the end
 of each module. Thus, the LOs for the physical activities are applicable
-to any level in secondary schools.
-<br>
-</p>
+to any level in secondary schools.</p>
 </li>
 <li>
 <p>For<strong>&nbsp;Outdoor Education,</strong>&nbsp;the LOs are organised
@@ -152,20 +147,15 @@ topic consists of two modules and specifies minimally what students should
 achieve by the end of Secondary 1 and by the end of Secondary 3. In other
 words, the content to be achieved by the end of Secondary 3 can be taught
 in Secondary 2 and/or Secondary 3 to prepare students for their outdoor
-adventure learning cohort camps.
-<br>
-</p>
+adventure learning cohort camps.</p>
 </li>
 <li>
 <p>For<strong>&nbsp;Physical Health &amp; Safety,</strong>the LOs specify
 minimally what students should know and be able to do for these two areas
 by the end of each secondary level. The content in the four strands of
-Physical Health are taught from Secondary 1 to 4.
-<br>
-</p>
+Physical Health are taught from Secondary 1 to 4.</p>
 </li>
 </ul>
-<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -185,7 +175,6 @@ Physical Health are taught from Secondary 1 to 4.
 </tr>
 </tbody>
 </table>
-<p></p>
 <h4><strong>Peicai PE Programmes</strong></h4>
 <p>Peicaians will be exposed to a wide spectrum of sports modules, physical
 health and fitness elements for students to gradually develop competence
@@ -223,17 +212,16 @@ through learning in movement, through movement and about movement.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/phy_edu_2024_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/pe_1_2025.jpg">
 </div>
 <p><strong>Programme Highlight: Peicai Sports Day</strong>
-<br>
-<br>
 </p>
 <p>Through a myriad of track events and inter-class tele matches, our Annual
 Sports Day enables our students to foster a strong camaraderie amongst
-classmates through the spirit of competition. It is also a chance for students
-to apply what they have learnt through the Athletics module in their daily
-PE lessons.</p>
+classmates through the spirit of competition. Through these series of competitive
+events, it builds up class and cohort spirit, that allows students to engage
+in healthy activities as one. It is also a chance for students to apply
+what they have learnt through the Athletics module in their daily PE lessons.</p>
 </td>
 </tr>
 </tbody>
@@ -252,13 +240,10 @@ PE lessons.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/phy_edu_2024_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/pe_2_2025.jpg">
 </div>
 <p><strong>Programme Highlight: Cohort Sports Challenge</strong>
-<br>
-<br>
-</p>
-<p>The knowledge, skills and attributes upon the completion of the sports
+<br>The knowledge, skills and attributes upon the completion of the sports
 curriculum will culminate in their participation at the inter-class tournament
 that serves as a platform for them to test their acquired skills in a competition
 setting and encourages them to focus. These inter-class challenges are
@@ -287,8 +272,6 @@ all students in the class for games in a celebration of sports.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/phy_edu_2024_3.jpg">
 </div>
 <p><strong>Outdoor Activity Learning Highlight: Secondary 2 Outdoor Adventure Learning (OAL) Camp</strong>
-<br>
-<br>
 </p>
 <p>Our Sec 2 OAL camp provides valuable learning opportunities for students,
 offering an unfamiliar yet authentic environment that fosters in student’s
@@ -325,10 +308,7 @@ activities.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/phy_edu_2024_4.jpg">
 </div>
 <p><strong>Outdoor Activity Learning Highlight: Secondary 3 MOE-OBS Challenge Programme</strong>
-<br>
-<br>
-</p>
-<p>The signature programme by Outward Bound Singapore for the Sec 3 cohort
+<br>The signature programme by Outward Bound Singapore for the Sec 3 cohort
 is a 5-day, 4-night residential programme that aims to effectively develop
 students to have resilience and to be confident through self-guded education
 in the outdoors, and impactful decision-making during the customised activities.
@@ -364,7 +344,7 @@ to overcome challenges together.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
