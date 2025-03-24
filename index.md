@@ -9,6 +9,12 @@ sections:
   - hero:
       background: /images/Main_Banner_Main_1B3.jpg
   - infopic:
+      title: Singapore Science and Engineering Fair (SSEF)
+      id: infopic
+      button: Click here to find out more
+      url: /singapore-science-and-engineering-fair-ssef/
+      alt: SSEF
+  - infopic:
       title: Girl Guides World Thinking Day Commemoration
       id: infopic
       button: Click here to find out more
