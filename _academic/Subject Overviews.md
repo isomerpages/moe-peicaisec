@@ -115,7 +115,8 @@ for Semester One 2025.</p>
 <hr>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nutrition &amp; Food Science (NFS)</p>
+<p><a href="https://drive.google.com/drive/folders/1M3vyHI9cPS3KNBdZHeTglwe6ziDg6lSV?usp=sharing" rel="noopener nofollow" target="_blank">Nutrition &amp; Food Science (NFS)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
