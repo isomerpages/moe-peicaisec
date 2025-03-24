@@ -108,14 +108,15 @@ for Semester One 2025.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/drive/folders/1ZsVfRmjvu2xSoOHkXZozByscJpNReAE6?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Nutrition &amp; Food Science</a>
+<p><a href="https://drive.google.com/drive/folders/1wdSyc0-QAuhnJ087YEfdEvyfEjnvTL8R?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Food &amp; Consumer Education (FCE) -Sec 1 &amp; 2</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<hr>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://drive.google.com/drive/folders/1M3vyHI9cPS3KNBdZHeTglwe6ziDg6lSV?usp=sharing" rel="noopener nofollow" target="_blank">Nutrition &amp; Food Science (NFS) - Sec 3,4&amp;5</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
