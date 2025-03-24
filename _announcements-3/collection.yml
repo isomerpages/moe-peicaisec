@@ -2,8 +2,8 @@ collections:
   announcements-3:
     output: true
     order:
-      - Singapore Science and Engineering Fair (SSEF).md
       - Girl Guides World Thinking Day Commemoration.md
+      - Singapore Science and Engineering Fair (SSEF).md
       - Parent Engagement Session slides 15 Feb.md
       - Breakfast with Principal 2025.md
       - Real World Co design Platform.md
