@@ -16,6 +16,13 @@ sections:
       image: /images/Announcement/GGuide_2025.jpg
       alt: Girl Guides 2025
   - infopic:
+      title: Singapore Science and Engineering Fair (SSEF)
+      id: infopic
+      button: Click here to find out more
+      url: /singapore-science-and-engineering-fair-ssef/
+      alt: SSEF
+      image: /images/Achievements/SSEF_banner.png
+  - infopic:
       title: Breakfast with Principal 2025
       id: infopic
       button: Click here to find out more
