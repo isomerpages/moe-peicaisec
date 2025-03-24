@@ -9,7 +9,7 @@ variant: tiptap
 </p>
 <p>Click <a href="/files/2025/Student_Calendar_2025_Term1_caa_28_Feb_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 download.</p>
-<p><strong>Term 2 (caa 03 Feburary 2025)</strong>
+<p><strong>Term 2 (caa 17 March 2025)</strong>
 </p>
-<p>Click <a href="/files/2025/Student_Calendar_2025_Term2_caa_03Feb2025.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+<p>Click <a href="/files/2025/Student_Calendar_2025_Term2_caa_17_Mar_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 download.</p>
