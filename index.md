@@ -14,6 +14,7 @@ sections:
       button: Click here to find out more
       url: /singapore-science-and-engineering-fair-ssef/
       alt: SSEF
+      image: /images/Achievements/SSEF_banner.png
   - infopic:
       title: Girl Guides World Thinking Day Commemoration
       id: infopic
