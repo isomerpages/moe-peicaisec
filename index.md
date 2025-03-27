@@ -9,6 +9,12 @@ sections:
   - hero:
       background: /images/Main_Banner_Main_1B3.jpg
   - infopic:
+      title: SRC Softball Championship 2025
+      id: infopic
+      button: Click here to find out more
+      url: /src-softball-championship-2025/
+      image: /images/Announcement/SRC25_1.png
+  - infopic:
       title: Girl Guides World Thinking Day Commemoration
       id: infopic
       button: Click here to find out more
