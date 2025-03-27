@@ -21,7 +21,12 @@ holistic education as well as environment for students to develop and excel.</p>
 </p>
 <p>Parents can support and work in close partnership with the school via
 the&nbsp;<strong>3 Ts</strong>.</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
