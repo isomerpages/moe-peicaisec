@@ -14,6 +14,7 @@ sections:
       button: Click here to find out more
       url: /src-softball-championship-2025/
       image: /images/Announcement/SRC25_1.png
+      alt: SRC 2025
   - infopic:
       title: Girl Guides World Thinking Day Commemoration
       id: infopic
