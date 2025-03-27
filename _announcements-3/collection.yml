@@ -2,8 +2,8 @@ collections:
   announcements-3:
     output: true
     order:
-      - Peicai Sports Day 2025.md
       - SRC Softball Championship 2025.md
+      - Peicai Sports Day 2025.md
       - Girl Guides World Thinking Day Commemoration.md
       - Singapore Science and Engineering Fair (SSEF).md
       - Parent Engagement Session slides 15 Feb.md
