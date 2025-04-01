@@ -9,6 +9,27 @@ sections:
   - hero:
       background: /images/Main_Banner_Main_1B3.jpg
   - infopic:
+      title: "NCC (Sea) Unit Achievement: Distinction Award 2024"
+      id: infopic
+      button: Click here to find out more
+      url: /achievements/students-achievements/
+      image: /images/Achievements/NCC_SEA_2025_4.jpg
+      alt: NCC (Sea)
+  - infopic:
+      title: SRC Softball Championship 2025
+      id: infopic
+      button: Click here to find out more
+      url: /src-softball-championship-2025/
+      image: /images/Announcement/SRC25_1.png
+      alt: SRC 2025
+  - infopic:
+      title: Peicai Sports Day 2025
+      id: infopic
+      button: Click here to find out more
+      url: /peicai-sports-day-2025/
+      image: /images/Aboutus/Aiman_Fareez_Illhami.jpg
+      alt: Sports Day 2025
+  - infopic:
       title: Girl Guides World Thinking Day Commemoration
       id: infopic
       button: Click here to find out more
