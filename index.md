@@ -9,6 +9,13 @@ sections:
   - hero:
       background: /images/Main_Banner_Main_1B3.jpg
   - infopic:
+      title: "NCC (Sea) Unit Achievement: Distinction Award 2024"
+      id: infopic
+      button: Click here to find out more
+      url: /achievements/students-achievements/
+      image: /images/Achievements/NCC_SEA_2025_4.jpg
+      alt: NCC (Sea)
+  - infopic:
       title: SRC Softball Championship 2025
       id: infopic
       button: Click here to find out more
