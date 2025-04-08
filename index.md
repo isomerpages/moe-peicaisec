@@ -9,6 +9,13 @@ sections:
   - hero:
       background: /images/Main_Banner_Main_1B3.jpg
   - infopic:
+      title: Secondary 4 & 5 CCA Appreciation and Stand Down Ceremony
+      id: infopic
+      button: Click here to find out more
+      url: /school-events-2025/
+      image: /images/Aboutus/CCA_Appreciation_2025_2.png
+      alt: CCA Appr 2025
+  - infopic:
       title: "NCC (Sea) Unit Achievement: Distinction Award 2024"
       id: infopic
       button: Click here to find out more
