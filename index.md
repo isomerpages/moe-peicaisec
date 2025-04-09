@@ -9,6 +9,13 @@ sections:
   - hero:
       background: /images/Main_Banner_Main_1B3.jpg
   - infopic:
+      title: Peicai inter-class Debate Championship 2025
+      id: infopic
+      button: Click here to find out more
+      url: /school-events-2025/
+      image: /images/Aboutus/ICDC_2025_2.png
+      alt: PCSS ICDC 25
+  - infopic:
       title: Secondary 4 & 5 CCA Appreciation and Stand Down Ceremony
       id: infopic
       button: Click here to find out more
