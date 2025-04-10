@@ -30,7 +30,7 @@ and develop them to their fullest potential.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcement/wenxing_tp_scholarship_25_1.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Announcement/wenxing_tp_scholarship_25_1.png">
 </div>
 </th>
 </tr>
