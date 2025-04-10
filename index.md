@@ -9,6 +9,13 @@ sections:
   - hero:
       background: /images/Main_Banner_Main_1B3.jpg
   - infopic:
+      title: Presidential Rally 2025
+      id: infopic
+      button: Click here to find out more
+      url: /school-events-2025/
+      image: /images/Aboutus/presidential_rally_2025_4.jpg
+      alt: Presidential Rally 2025
+  - infopic:
       title: Peicai Alumnus awarded Temasek Polytechnic Scholarship
       id: infopic
       button: Click here to find out more
