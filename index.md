@@ -13,7 +13,7 @@ sections:
       id: infopic
       button: Click here to find out more
       url: /peicai-alumnus-awarded-tp-scholarship/
-      image: /images/Announcement/wenxing_tp_scholarship_25_2.png
+      image: /images/Announcement/wenxing_tp_scholarship_25_2_copy.jpg
       alt: PCSS Alumnus TP Scholar
   - infopic:
       title: Peicai inter-class Debate Championship 2025
