@@ -9,11 +9,18 @@ sections:
   - hero:
       background: /images/Main_Banner_Main_1B3.jpg
   - infopic:
+      title: Presidential Rally 2025
+      id: infopic
+      button: Click here to find out more
+      url: /school-events-2025/
+      image: /images/Aboutus/presidential_rally_2025_5.jpg
+      alt: Presidential Rally 2025
+  - infopic:
       title: Peicai Alumnus awarded Temasek Polytechnic Scholarship
       id: infopic
       button: Click here to find out more
       url: /peicai-alumnus-awarded-tp-scholarship/
-      image: /images/Announcement/wenxing_tp_scholarship_25_2.png
+      image: /images/Announcement/wenxing_tp_scholarship_25_2_copy.jpg
       alt: PCSS Alumnus TP Scholar
   - infopic:
       title: Peicai inter-class Debate Championship 2025
@@ -27,14 +34,14 @@ sections:
       id: infopic
       button: Click here to find out more
       url: /school-events-2025/
-      image: /images/Aboutus/CCA_Appreciation_2025_2.png
+      image: /images/Aboutus/CCA_Appreciation_2025_2.jpg
       alt: CCA Appr 2025
   - infopic:
       title: "NCC (Sea) Unit Achievement: Distinction Award 2024"
       id: infopic
       button: Click here to find out more
       url: /achievements/students-achievements/
-      image: /images/Achievements/NCC_SEA_2025_4.jpg
+      image: /images/Achievements/NCC_SEA_2025_10.jpg
       alt: NCC (Sea)
   - infopic:
       title: SRC Softball Championship 2025
@@ -48,7 +55,7 @@ sections:
       id: infopic
       button: Click here to find out more
       url: /peicai-sports-day-2025/
-      image: /images/Aboutus/Aiman_Fareez_Illhami.jpg
+      image: /images/Aboutus/pcss_sport_banner.jpg
       alt: Sports Day 2025
   - infopic:
       title: Girl Guides World Thinking Day Commemoration
