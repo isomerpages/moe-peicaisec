@@ -9,11 +9,11 @@ sections:
   - hero:
       background: /images/Main_Banner_Main_1B3.jpg
   - infopic:
-      title: Concert Band SYF Distinction
+      title: SYF Arts Presentation – Concert Band Distinction Award
       id: infopic
       button: Click here to find out more
       url: /achievements/students-achievements/
-      image: /images/CCA/concert_band_distinction_1.png
+      image: /images/CCA/concert_band_distinction_2.png
       alt: Concert Band SYF Dist.
   - infopic:
       title: Presidential Rally 2025
