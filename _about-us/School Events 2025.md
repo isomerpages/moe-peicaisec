@@ -4,6 +4,154 @@ permalink: /school-events-2025/
 variant: tiptap
 description: ""
 ---
+<h4><strong>Hari Raya Celebrations 2025</strong></h4>
+<p>On 16 April 2025, the Peicai school hall came alive with vibrant energy
+as students gathered for a memorable Hari Raya Concert, organised by the
+Malay Language Unit. This year’s celebration was extra special, with cultural
+arts group <em>Wira Budaya</em> invited to share insights on how Hari Raya
+is celebrated across Malaysia, Indonesia, and Singapore.</p>
+<p>The first segment opened with a captivating Malay Dance performance, showcasing
+the grace and elegance of traditional movements. <em>Wira Budaya</em> then
+took the stage to highlight the differences in festive customs across the
+three countries. Students and teachers alike were fully engaged as they
+took part in interactive quizzes. Excitement reached new heights during
+the lively Malay Dance Challenge, where everyone was invited to stand up
+and dance along.</p>
+<p>Following a heartfelt farewell to <em>Wira Budaya</em>, the spotlight turned
+to our very own Peicaians in the second segment. Our Secondary 2 boys,
+Ayden (2IN) and Sufi (2CE), delivered a powerful Silat performance, reminding
+us that Silat is not only a martial art, but also a cultural treasure steeped
+in tradition and discipline.</p>
+<p>Next, the audience was treated to a joyful rendition of <em>‘Hari Raya’</em> by
+Nurleen (4C2) and Ashley (3CY), lifting spirits and prompting smiles throughout
+the hall. This was followed by a lively Malay Dance performance by our
+talented Secondary 3 and 4 girls.</p>
+<p>The concert culminated in a delightful finale, where Malay teachers from
+various departments joined students on stage, wrapping up the celebration
+with unity and cheer. It was a truly enriching day—one filled with culture,
+connection, and celebration for both staff and students.</p>
+<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aboutus/hari_2025_1.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Inara (4C1) &amp; Irdina (4C1) as emcees at the Hari Raya Concert</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aboutus/hari_2025_2.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Actors from Wira Budaya performing an engaging skit about Hari Raya traditions
+in different countries</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aboutus/hari_2025_3.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Peicaians engaging in Malay Dance Challenge</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aboutus/hari_2025_4.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aboutus/hari_2025_5.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>2IN Ayden &amp; 2CE Sufi demonstrating Silat moves</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aboutus/hari_2025_6.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Our talented Secondary 3 &amp; 4 dancers showcasing the beauty of Malay
+Dance</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aboutus/hari_2025_7.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Performers &amp; teachers during the finale of Hari Raya Concert</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>Presidential Rally 2025</strong></h4>
 <p><strong><u>17th Student Council Presidential Rally 2025: Leadership in Action</u></strong>
 </p>

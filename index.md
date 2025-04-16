@@ -9,6 +9,20 @@ sections:
   - hero:
       background: /images/Main_Banner_Main_1B3.jpg
   - infopic:
+      title: Hari Raya Celebrations 2025
+      id: infopic
+      button: Click here to find out more
+      url: /school-events-2025/
+      image: /images/Aboutus/hari_2025_6.jpg
+      alt: Hari Raya Celebrations 2025
+  - infopic:
+      title: SYF Arts Presentation – Concert Band Distinction Award
+      id: infopic
+      button: Click here to find out more
+      url: /achievements/students-achievements/
+      image: /images/CCA/concert_band_distinction_2.png
+      alt: Concert Band SYF Dist.
+  - infopic:
       title: Presidential Rally 2025
       id: infopic
       button: Click here to find out more
