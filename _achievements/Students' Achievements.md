@@ -5,30 +5,27 @@ description: ""
 variant: tiptap
 ---
 <h4><strong><u>Year 2025</u></strong></h4>
-<h4>Concert Band SYF Distinction</h4>
-<p>We are happy to announce that our very own Peicai Concert Band was awarded
-a <strong>DISTINCTION</strong> at the recent SYF Arts Presentation. This
-is the first time ever since the 20-year history of Concert Band’s inception.</p>
-<p>This achievement is the result of months of rigorous preparation and steadfast
-commitment from our students. Their dedication was especially evident during
-the band intensive sessions, where they devoted significant time to perfect
-their pieces. In this competition, the band performed two technically and
-musically demanding pieces:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Overture No. 1 by Kelly Tang (Set Piece)</p>
-</li>
-<li>
-<p>The Witch and The Saint by Steven Reineke (Choice Piece)</p>
-</li>
-</ul>
-<p>The students rose admirably to the occasion, demonstrating not only technical
-excellence but also maturity, perseverance and teamwork throughout the
-rehearsals and performance. This Distinction is a significant milestone
-for our Concert Band, and we hope it will serve as both recognition of
-our students’ efforts and inspiration for future cohorts.</p>
-<p>Thank you everyone for making this achievement possible and our heartiest
-congratulations goes to our Concert Band on this remarkable milestone!</p>
+<h4>Singapore Youth Festival (SYF) Arts Presentation – Concert Band Distinction Award</h4>
+<p>We are proud to share that our school’s Concert Band has achieved a <strong><em>Distinction</em></strong> in
+the recent Singapore Youth Festival (SYF) Arts Presentation – marking a
+historic milestone as the first time in 20 years the band has reached this
+level of excellence.</p>
+<p>Under the baton of our dedicated conductor – Mr Erik Tan, the band delivered
+a powerful and moving performance of <em>Overture No. 1</em> by Kelly Tang
+and <em>The Witch and The Saint</em> by Steven Reineke. Both works demanded
+a high level of technical precision, musical sensitivity and ensemble coordination,
+all of which were delivered with commendable professionalism and artistry
+by our students.</p>
+<p>This outstanding achievement is the result of months of unwavering commitment,
+especially during the band intensive sessions. Our students pushed through
+long rehearsals, overcame personal and collective challenges, and grew
+not only as musicians but as a united ensemble. Their perseverance, teamwork
+and passion for music have truly paid off.</p>
+<p>We celebrate this well-deserved distinction and applaud every member of
+the band for their hard work and dedication. This momentous success is
+a testament to what can be achieved through resilience and hard work, and
+it will undoubtedly inspire future generations of band members to dream
+big.</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -38,7 +35,7 @@ congratulations goes to our Concert Band on this remarkable milestone!</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/concert_band_distinction_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/concert_band_distinction_2.png">
 </div>
 </th>
 </tr>
