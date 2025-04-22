@@ -31,18 +31,18 @@ supporting Singapore’s blood donation efforts. The group included 14 Secondary
 3 Chairpersons and Vice-Chairpersons, and 3 Secondary 4 students. As a
 gesture of appreciation, Ya Kun Kaya Toast also sponsored 30 sets of kaya
 toast and hot beverages for the HSA team.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="3 students predenters" src="/images/Announcement/HSA_1.jpg">
+</div>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcement/hsa25_2.jpg">
-</div>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
