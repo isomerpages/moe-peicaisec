@@ -135,7 +135,7 @@ Chua.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Announcement/hsa25_6.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Announcement/hsa25_6.jpg">
 </div>
 </th>
 </tr>
@@ -229,7 +229,7 @@ beverages as a sincere expression of thanks.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Announcement/hsa25_9.jpg">
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Announcement/hsa25_9.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
