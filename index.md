@@ -9,6 +9,13 @@ sections:
   - hero:
       background: /images/Main_Banner_Main_1B3.jpg
   - infopic:
+      title: Signature Community Outreach at Blood Bank HSA
+      id: infopic
+      button: Click here to find out more
+      url: /signature-community-outreach-at-blood-bank-hsa/
+      image: /images/Announcement/hsa25_0.jpg
+      alt: HSA 2025
+  - infopic:
       title: Hari Raya Celebrations 2025
       id: infopic
       button: Click here to find out more
