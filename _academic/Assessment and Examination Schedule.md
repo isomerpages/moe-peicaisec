@@ -28,7 +28,7 @@ description: ""
 <p>Sec 1 WA1 Schedule</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/pcss-wa1-schedule-s1" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pcss-wa1-schedule-s1</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pcss-wa2-schedule-s1</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -40,7 +40,7 @@ description: ""
 <p>Sec 2 WA1 Schedule</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/pcss-wa1-schedule-s2" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pcss-wa1-schedule-s2</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pcss-wa2-schedule-s2</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -52,7 +52,7 @@ description: ""
 <p>Sec 3 WA1 Schedule</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/pcss-wa1-schedule-s3" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pcss-wa1-schedule-s3</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pcss-wa2-schedule-s3</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -64,7 +64,7 @@ description: ""
 <p>Sec 4/5 WA1 Schedule</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/pcss-wa1-schedule-s45" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pcss-wa1-schedule-s45</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pcss-wa2-schedule-s45</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
