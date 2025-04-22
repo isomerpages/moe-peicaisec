@@ -126,17 +126,22 @@ Chua.</p>
 </colgroup>
 <tbody>
 <tr>
+<th rowspan="1" colspan="2">
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Announcement/hsa25_5.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Announcement/hsa25_11.jpg">
 </div>
 </th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Announcement/hsa25_6.jpg">
-</div>
+</tr>
+</tbody>
+</table>
 </th>
 </tr>
 <tr>
@@ -226,17 +231,22 @@ beverages as a sincere expression of thanks.</p>
 </colgroup>
 <tbody>
 <tr>
+<th rowspan="1" colspan="2">
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Announcement/hsa25_9.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcement/hsa25_12.jpg">
 </div>
 </th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Announcement/hsa25_10.jpg">
-</div>
+</tr>
+</tbody>
+</table>
 </th>
 </tr>
 <tr>
