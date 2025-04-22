@@ -32,7 +32,7 @@ supporting Singapore’s blood donation efforts. The group included 14 Secondary
 gesture of appreciation, Ya Kun Kaya Toast also sponsored 30 sets of kaya
 toast and hot beverages for the HSA team.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="3 students predenters" src="/images/Announcement/HSA_1.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="3 students predenters" src="/images/Announcement/HSA_1.jpg">
 </div>
 <table style="minWidth: 25px">
 <colgroup>
@@ -70,7 +70,7 @@ the role youths can play in promoting awareness of this life-saving act.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Announcement/hsa25_3.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Announcement/hsa25_3.jpg">
 </div>
 </th>
 </tr>
@@ -102,7 +102,7 @@ that the spirit of giving is truly the heartbeat of a thriving community.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Announcement/hsa25_4.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Announcement/hsa25_4.jpg">
 </div>
 </th>
 </tr>
@@ -128,7 +128,7 @@ Chua.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Announcement/hsa25_5.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Announcement/hsa25_5.jpg">
 </div>
 </th>
 </tr>
@@ -154,7 +154,7 @@ staff nurse (right).</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Announcement/hsa25_6.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Announcement/hsa25_6.jpg">
 </div>
 </th>
 </tr>
@@ -183,7 +183,7 @@ the vital blood supply hospitals rely on each day.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcement/hsa25_7.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Announcement/hsa25_7.jpg">
 </div>
 </th>
 </tr>
@@ -209,7 +209,7 @@ Programme</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcement/hsa25_8.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Announcement/hsa25_8.jpg">
 </div>
 </th>
 </tr>
@@ -240,7 +240,7 @@ beverages as a sincere expression of thanks.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Announcement/hsa25_9.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Announcement/hsa25_9.jpg">
 </div>
 </th>
 </tr>
@@ -265,7 +265,7 @@ beverages as a sincere expression of thanks.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Announcement/hsa25_10.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Announcement/hsa25_10.jpg">
 </div>
 </th>
 </tr>
