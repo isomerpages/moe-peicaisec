@@ -119,8 +119,9 @@ Chua.</p>
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 25px">
+<table style="minWidth: 50px">
 <colgroup>
+<col>
 <col>
 </colgroup>
 <tbody>
@@ -131,26 +132,6 @@ Chua.</p>
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Announcement/hsa25_5.jpg">
 </div>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ling Hui Yi, Shavone (3PN) (left) presenting Yakun Kaya Toast set to the
-staff nurse (right).</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
@@ -160,10 +141,17 @@ staff nurse (right).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ling Hui Yi, Shavone (3PN) (left) presenting Yakun Kaya Toast set to the
+staff nurse (right).</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Student leaders preparing hot beverages to present to the staffs</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -231,8 +219,9 @@ folded during the Start Smart Programme. The remaining cranes were also
 gifted to the HSA staff as tokens of encouragement and support. To conclude
 the visit, the students served the staff their kaya toast sets and warm
 beverages as a sincere expression of thanks.</p>
-<table style="minWidth: 25px">
+<table style="minWidth: 50px">
 <colgroup>
+<col>
 <col>
 </colgroup>
 <tbody>
@@ -243,25 +232,6 @@ beverages as a sincere expression of thanks.</p>
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Announcement/hsa25_9.jpg">
 </div>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Blood donation corner with Mr James Koh (left) and Mr Tan Yi Quan (right).</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
@@ -271,10 +241,16 @@ beverages as a sincere expression of thanks.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Blood donation corner with Mr James Koh (left) and Mr Tan Yi Quan (right).</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>A parent volunteer at the blood donation corner.</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
