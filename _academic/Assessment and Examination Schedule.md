@@ -25,7 +25,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sec 1 WA1 Schedule</p>
+<p>Sec 1 WA2 Schedule</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pcss-wa2-schedule-s1</a>
@@ -37,7 +37,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sec 2 WA1 Schedule</p>
+<p>Sec 2 WA2 Schedule</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pcss-wa2-schedule-s2</a>
@@ -49,7 +49,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sec 3 WA1 Schedule</p>
+<p>Sec 3 WA2 Schedule</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pcss-wa2-schedule-s3</a>
@@ -61,7 +61,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sec 4/5 WA1 Schedule</p>
+<p>Sec 4/5 WA2 Schedule</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pcss-wa2-schedule-s45</a>
