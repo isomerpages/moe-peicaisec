@@ -9,6 +9,13 @@ sections:
   - hero:
       background: /images/Main_Banner_Main_1B3.jpg
   - infopic:
+      title: International Friendship Day 2025
+      id: infopic
+      button: Click here to find out more
+      url: /student-development/character-n-citizenship-education/
+      image: /images/Student Development/friendship.jpg
+      alt: IFD 2025
+  - infopic:
       title: Signature Community Outreach at Blood Bank HSA
       id: infopic
       button: Click here to find out more
