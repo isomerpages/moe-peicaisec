@@ -12,7 +12,7 @@ sections:
       title: International Friendship Day 2025
       id: infopic
       button: Click here to find out more
-      url: /student-development/character-n-citizenship-education/
+      url: /student-development/international-friendship-day-2025/
       image: /images/Student Development/friendship.jpg
       alt: IFD 2025
   - infopic:
