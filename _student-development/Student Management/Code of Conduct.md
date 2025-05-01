@@ -148,6 +148,51 @@ shorts /pants / skirt / PE shorts</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>School Events / Activities</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Attire</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Physical activities and in the Gym</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PE attire</p>
+<p>CCA/ClassT-shirtwithPEshorts</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Night Study Programme /Consultations</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Prescribed school uniform</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PE attire</p>
+<p>PE/CCA/ClassT-shirtwithschool shorts / pants / skirts / PE shorts</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Co-curricular Activities (CCA)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CCA Attire / CCA T-shirts/PE shorts / school shorts / pants / skirts</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Every Friday
+<br>(except during the examination periods)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PE/Class/CCA T-shirt with PE shorts / school shorts / pants/ skirts (This
+is a privilege that will be reviewed by the school when necessary)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
