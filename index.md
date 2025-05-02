@@ -61,7 +61,7 @@ sections:
       title: Secondary 4 & 5 CCA Appreciation and Stand Down Ceremony
       id: infopic
       button: Click here to find out more
-      url: /school-events-2025/
+      url: /secondary-4-5-cca-appreciation-and-stand-down-ceremony/
       image: /images/Aboutus/CCA_Appreciation_2025_2.jpg
       alt: CCA Appr 2025
   - infopic:
