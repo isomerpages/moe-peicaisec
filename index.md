@@ -9,6 +9,14 @@ sections:
   - hero:
       background: /images/Main_Banner_Main_1B3.jpg
   - infopic:
+      title: DSA
+      id: infopic
+      description: Apply for Direct School Admission to Secondary One
+      button: Click here to find out more
+      url: /direct-school-admissions-dsa
+      image: /images/Announcement/Apply_for_DSA.jpg
+      alt: Image alt text
+  - infopic:
       title: International Friendship Day 2025
       id: infopic
       button: Click here to find out more
