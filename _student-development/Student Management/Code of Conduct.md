@@ -292,4 +292,61 @@ is in the correct attire</p>
 </table>
 </li>
 </ol>
+<h4>APPEARANCE</h4>
+<p><strong>Rationale:&nbsp;&nbsp;&nbsp;&nbsp; To portray a positive image of oneself through personal grooming and hygiene</strong>
+</p>
+<p>1. All students are to ensure the following:</p>
+<p>(a) For Male Students</p>
+<p>i. Only natural hair colour is allowed (i.e. no dyeing/tinting/highlights).</p>
+<p>ii. Hair must be neat and kept above the eyebrows. When combed downwards,
+hair should not cover the eyes, touch the ear as well as the collar of
+the uniform.</p>
+<p>iii. Hair at the crown must not be too thick or bushy.</p>
+<p>iv. Hairstyles must be kept simple. It should not incorporate any inappropriate
+styles as deemed by the school. Hairstyles such as e.g. undercut, thin
+shaven at the side, shaved line parting, fringe touching eye-brows, V-shaped
+at the back are not allowed.</p>
+<p>v. Earrings or ear sticks are not allowed.</p>
+<p>vi. Moustache/Beard/Goatee/Facial Piercings are not allowed. All students
+must be clean shaven and neat in appearance.</p>
+<p>vii. Sideburns, where kept, should not go beyond the cartilage at the
+centre of the ear.</p>
+<p>(b) For Female Students</p>
+<p>i. Only natural hair colour is allowed (i.e. no dyeing/tinting/highlights)</p>
+<p>ii. Hair must be neat and hair that is touching the shoulder or hair that
+is longer than shoulder length should be tied up.</p>
+<p>iii. Length of hair fringe should be above the eyebrows. If the fringe
+is below the eyebrows, it should be clipped up.</p>
+<p>iv. Any hair accessories worn should not be fanciful.</p>
+<p>v. Any ear studs worn should be of a simple design and not fanciful.</p>
+<p>vi. Only one ear stud per ear is allowed and it has to be worn on the
+ear lobes only.</p>
+<p>vii. Any ear sticks worn should be transparent.</p>
+<p>viii. Dangling earrings are not allowed.</p>
+<p>(c) All students are not allowed to have the following on them:</p>
+<p>i. Tattoos of any kind (visible or otherwise).</p>
+<p>Students found with any tattoos should remove it before they are allowed
+to go to class.</p>
+<p>ii. Henna painting.</p>
+<p>iii. Make-up of any form.</p>
+<p>iv. Long and/or coloured nails are not allowed.</p>
+<p>v. The perming of hair is not allowed.</p>
+<p>vi. Fanciful or striking spectacle frames.</p>
+<p>Spectacle lenses should not be tinted.</p>
+<p>vii. Cosmetic contact lenses</p>
+<p>E.g., contact lens with colour/patterns, contact lens that enlarge the
+pupils etc.</p>
+<p>viii. Accessories of any kind are prohibited.</p>
+<p>2. Student leaders are to put on their Student Leaders’ badge at all times
+when they are wearing the school uniform.</p>
+<h4>ATTENDANCE</h4>
+<p><strong>Rationale: To cultivate self-management through personal responsibility and accountability</strong>
+</p>
+<p>1.&nbsp;&nbsp;&nbsp; All students are expected to be punctual for and
+be present in school to attend the flag raising ceremony and all lessons.</p>
+<p>2.&nbsp;&nbsp;&nbsp; Students who are Singapore citizens must sing the
+National Anthem and take the Pledge. Students will take the Pledge with
+the right fist placed over the heart.</p>
+<p>3.&nbsp;&nbsp;&nbsp; The procedures and timings for morning assembly and
+the flag raising ceremony are as follows:</p>
 <p></p>
