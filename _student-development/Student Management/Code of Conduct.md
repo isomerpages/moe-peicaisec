@@ -293,7 +293,7 @@ is in the correct attire</p>
 </li>
 </ol>
 <h4>APPEARANCE</h4>
-<p><strong>Rationale:&nbsp;&nbsp;&nbsp;&nbsp; To portray a positive image of oneself through personal grooming and hygiene</strong>
+<p><strong>Rationale: To portray a positive image of oneself through personal grooming and hygiene</strong>
 </p>
 <p>1. All students are to ensure the following:</p>
 <p>(a) For Male Students</p>
