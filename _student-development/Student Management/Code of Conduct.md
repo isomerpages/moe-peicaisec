@@ -907,7 +907,6 @@ and will therefore face a consequence during the school’s follow-up actions.</
 <td rowspan="1" colspan="1">
 <p><strong><em>Minor Offences</em></strong>
 </p>
-<p>Minor Offences</p>
 <p>A breach of the rules and regulations in the areas of Attire, Appearance,
 Attendance, Attitude and Behaviour including</p>
 <p>• Late coming for school lessons and CCAs</p>
