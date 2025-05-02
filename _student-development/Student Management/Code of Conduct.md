@@ -905,7 +905,7 @@ and will therefore face a consequence during the school’s follow-up actions.</
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Minor Offences</strong>
+<p><strong><em>Minor Offences</em></strong>
 </p>
 <p>Minor Offences</p>
 <p>A breach of the rules and regulations in the areas of Attire, Appearance,
