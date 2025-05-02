@@ -322,4 +322,7 @@ other sports not offered in our school as a CCA.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p><strong>ENQUIRIES</strong>&nbsp;</p>
+<p>If you would like further details or require any clarifications, you may
+contact Mr Alvin Yeo, Head of Department for PE &amp; CCA at +(65) 6202
+1260 or&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">alvin_yeo@moe.edu.sg</a>.</p>
