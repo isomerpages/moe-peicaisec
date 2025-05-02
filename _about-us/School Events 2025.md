@@ -152,7 +152,7 @@ Dance</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>Presidential Rally 2025</strong></h4>
+<h4><strong>Student Council Presidential Elections 2025</strong></h4>
 <p><strong><u>17th Student Council Presidential Rally 2025: Leadership in Action</u></strong>
 </p>
 <p>The annual Student Council Presidential Rally, masterfully orchestrated
