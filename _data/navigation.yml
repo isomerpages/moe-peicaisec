@@ -79,6 +79,8 @@ links:
         url: /cca-schedule
   - title: Distinctive Programmes
     collection: distinctive-programmes
+  - title: DSA
+    collection: dsa
   - title: Achievements
     url: /achievements/students/school-based-awards
     sublinks:
@@ -98,8 +100,6 @@ links:
         url: /achievements/staff/
   - title: Student Services
     collection: student-services
-  - title: DSA
-    collection: dsa
   - title: Parents
     url: /parents
     sublinks:
