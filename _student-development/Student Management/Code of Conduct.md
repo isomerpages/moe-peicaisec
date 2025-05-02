@@ -819,7 +819,7 @@ areas. Such areas are designated drop off and pick up zones only.</p>
 <p>5. The overall Conduct Grade, Attendance, Punctuality of each student
 will be reflected in his/her Result Slip at the end of the year.</p>
 <h4><strong>CYBER ETIQUETTE</strong></h4>
-<p><strong>Students are to demonstrate the same behaviour and attitude as expected in school itself during the use of internet technology for communication and online lessons.  In particular, </strong>
+<p><strong>Students are to demonstrate the same behaviour and attitude as expected in school itself during the use of internet technology for communication and online lessons. In particular,</strong>
 </p>
 <p>1. When using internet technology to communicate with others, students
 are expected to be respectful to others by not sharing</p>
@@ -885,7 +885,7 @@ lessons.</p>
 <p><strong>Note:</strong> Students who are responsible for any breach of the
 above etiquette will be considered as having committed an offence in school
 and will therefore face a consequence during the school’s follow-up actions.</p>
-<p><strong>POSSIBLE CORRECTIVE AND DISCIPLINARY ACTIONS</strong> 
+<p><strong>POSSIBLE CORRECTIVE AND DISCIPLINARY ACTIONS</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -905,23 +905,104 @@ and will therefore face a consequence during the school’s follow-up actions.</
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Minor Offences</strong>
+</p>
+<p>Minor Offences</p>
+<p>A breach of the rules and regulations in the areas of Attire, Appearance,
+Attendance, Attitude and Behaviour including</p>
+<p>• Late coming for school lessons and CCAs</p>
+<p>• Unauthorised alteration of school uniform</p>
+<p>• Improper/Unacceptable attire</p>
+<p>• Improper/Unacceptable appearance</p>
+<p>• Unauthorised and improper use of mobile phones during curriculum time</p>
+<p>• IT-related offences depending on the nature of the offence</p>
+<p>• Failure to return plates and cutlery to assigned receptacles</p>
+<p>• Failure to complete and hand in assignments on time</p>
+<p>• Failure to complete detention hours</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<p>&gt;Follow up by Form Teachers / Subject Teachers / CCA Teachers</p>
+<p>&gt;Confiscation of Unauthorised Items</p>
+<p>&gt;Corrective Work Order</p>
+<p>&gt;Detention</p>
+<p>&gt;Immediate Rectification</p>
+<p>&gt;Involvement of Parents</p>
+<p>&gt;Probation</p>
+<p>&gt;Record of Offence</p>
+<p>&gt;Review of Conduct Grade</p>
+<p>&gt;Verbal Warning</p>
+<p>&gt;Suspension</p>
 <p></p>
 </td>
 </tr>
 </tbody>
 </table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><em>Serious Offences</em></strong>
+</p>
+<p>The repeat occurrence of the above-mentioned minor offences resulting
+in the persistent commission of the offences would constitute a serious
+offence. In addition, the following offences are considered serious:</p>
+<p>• Absence without valid reasons from school (i.e. Truancy)</p>
+<p>• Arson or any attempt to start a fire</p>
+<p>• Attempting to cheat or cheating in any form in school test or examination</p>
+<p>• Borrowing or lending of money</p>
+<p>• Bullying/Fighting/Instigating others to fight</p>
+<p>• Commission of offences during probation period</p>
+<p>• Cyber abuse</p>
+<p>• Deception and forgery of any kind</p>
+<p>• Defiance towards school authority</p>
+<p>• Disregard of safety rules in school premises and special rooms such
+as workshops, kitchens and laboratories</p>
+<p>• Engaging in inappropriate behaviours and/or having inappropriate physical
+contact in or outside of school.</p>
+<p>• Extortion</p>
+<p>• Gambling</p>
+<p>• Gang association</p>
+<p>• Glue sniffing</p>
+<p>• Online impersonation</p>
+<p>• IT-related offences depending on the nature of the offence</p>
+<p>• Leaving school without permission</p>
+<p>• Misuse of school equipment or facilities</p>
+<p>• Outrage of modesty</p>
+<p>• Persistent absenteeism from CCA without valid reasons</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&gt;Confiscation of Unauthorised items</p>
+<p>&gt;Individual Monitoring via a Monitoring Booklet</p>
+<p>&gt;Involvement of External Agencies</p>
+<p>&gt;Involvement of Parents</p>
+<p>&gt;Letter of Undertaking and Probation with monthly progress report from
+teachers</p>
+<p>&gt;Official Record of Offence(s)</p>
+<p>&gt;Warning Letter</p>
+<p>&gt;Detention</p>
+<p>&gt;Review of Conduct Grade</p>
+<p>&gt;Review of Testimonial</p>
+<p>&gt;Suspension</p>
+<p>&gt;Expulsion</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p></p>
 <p></p>
