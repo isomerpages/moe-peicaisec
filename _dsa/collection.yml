@@ -1,4 +1,5 @@
 collections:
   dsa:
     output: true
-    order: []
+    order:
+      - Direct School Admissions (DSA).md
