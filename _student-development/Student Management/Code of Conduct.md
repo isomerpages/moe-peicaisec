@@ -695,4 +695,127 @@ at all times</p>
 </tr>
 </tbody>
 </table>
+<p>(c) Students are to inform their parents/guardians of the school’s policies
+on the use of mobile devices during curriculum time. For safety and emergency
+purposes, parents/guardians who need to contact their child/ward urgently
+can contact the General Office at 6288 4159.</p>
+<p><strong>(d)	All mobile phones and non-PDLP related electronic devices should be switched off and kept out-of-sight unless it is used for the purpose of teaching and learning and approved by the teacher.  They will be confiscated if they are seen or heard during curriculum time or at venues where they are not supposed to be used.</strong>
+</p>
+<p>(e) Charging of any electronic devices is not allowed at all times and
+should instead charge their devices at the allocated charging kiosk(s)
+found in the school canteen.</p>
+<p>(i) Students are responsible for the proper use and cleanliness of the
+charging kiosk(s). Any intentional damage(s) or damage(s) due to negligence
+will be deemed the responsibility of the student(s), who will bear the
+cost of damage and face disciplinary action in accordance with the school’s
+discipline policy.</p>
+<p>(ii) The school retains the right to open the charging kiosk(s) and/or
+units to remove any non-complying PLDs at any time for the safety, security
+and disciplinary purposes.</p>
+<p>(iii) All damages spotted by students should be reported to the General
+Office.</p>
+<p>(f) The period of confiscation will be as follows:</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>No. of offences</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Confiscation period</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1st time</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 day</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2nd time</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 days</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3rd time</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 days</p>
+<p>Students may be required to surrender mobile phone at the start of the
+day.</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4th time or more</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mobile phones only to be returned to parents after 7 working days.</p>
+<p>OR</p>
+<p>Students may be banned from bringing mobile phones to school.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>(g) Upon return of the confiscated mobile device and non-PDLP electronic
+devices, it is the students' responsibility to check that their phone is
+in a condition similar to that prior to confiscation.</p>
+<p>(h) The school may confiscate the mobile device and non-PDLP electronic
+devices as a disciplinary measure or access the mobile device for the purpose
+of investigation.</p>
+<p>(i) Students who repeatedly flout the rule may be banned from bringing
+their mobile device and non-PDLP electronic devices to the school.</p>
+<p>(j) Should students need to make a call to their parents/guardians or
+read an urgent text message during curriculum time, they should proceed
+to the General Office where they will be allowed to use the phone there.</p>
+<p>(k) Students should not abuse the use of mobile device and non-PDLP electronic
+devices. They should not take photographs or videos of others without their
+permission.</p>
+<p>3. Students are to note that the lockers in the classroom are there to
+provide interim storage and security for their Personal Learning Devices
+(PLDs) and learning materials. They are to observe the following expectations
+regarding the use of these classroom lockers:</p>
+<p>(a) The responsibility to maintain the condition and cleanliness of the
+lockers lay with the assigned students. The assigned students shall be
+held liable if they inflict any wilful damage (e.g. vandalism) to their
+lockers or fail to report in a timely manner for any damage discovered.</p>
+<p>(b) The responsibility for any lost or stolen items from the lockers lay
+with the assigned students. Students therefore should not share access
+to the lockers with any other students.</p>
+<p>(c) The lockers shall be used to store items belonging to the assigned
+students only. Sharing of lockers is not allowed.</p>
+<p>(d) The lockers should not be used for any other purposes except to store
+the PLDs.</p>
+<p>(e) PLDs should be not left charging in the lockers, and all PLDs must
+be brought home and not left in the lockers overnight.</p>
+<p>(f) The lockers shall not be used to store any of the following items:</p>
+<p>(i) Any items that can attract pests (e.g. all food and drinks, food wrapper
+and other forms of litter)</p>
+<p>(ii) Any items that can affect the safety of students and staff (E.g.
+Items that can start fires, weapons or weapon-like objects etc)</p>
+<p>(iii) Any items that can cause distraction in class and affect students’
+learning</p>
+<p>(iv) Any contraband (e.g. tobacco-related products like cigarettes and
+e- vaporisers etc)</p>
+<p>(g) School retains the rights to open the lockers at any time for the
+purpose of safety and security (e.g. through routine spot-checks, disciplinary
+investigations etc).</p>
+<p>4. To ensure the safety of students and staff within the school premises,
+all students who arrive in school by private transport must alight at the
+designated disembarkation areas. Students should inform their parents/guardians
+that no waiting or parking is allowed at the designated disembarkation
+areas. Such areas are designated drop off and pick up zones only.</p>
+<p>5. The overall Conduct Grade, Attendance, Punctuality of each student
+will be reflected in his/her Result Slip at the end of the year.</p>
 <p></p>
