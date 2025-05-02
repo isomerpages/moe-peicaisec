@@ -96,10 +96,10 @@ links:
         url: /achievements/alumni/
       - title: Staff
         url: /achievements/staff/
-  - title: DSA
-    collection: dsa
   - title: Student Services
     collection: student-services
+  - title: DSA
+    collection: dsa
   - title: Parents
     url: /parents
     sublinks:
