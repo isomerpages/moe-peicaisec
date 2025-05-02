@@ -250,10 +250,42 @@ of incorrect attire.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>3<sup>rd</sup> offence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>1.&nbsp;&nbsp;&nbsp; Parent of student will be informed of 3<sup>rd</sup> offence</p>
+<p>2.&nbsp;&nbsp;&nbsp; Student to make rectifications* by either</p>
+<p>a)&nbsp;&nbsp;&nbsp; purchasing the correct attire from the bookshop,
+or,</p>
+<p>b)&nbsp;&nbsp;&nbsp; have a family member deliver the correct attire from
+home</p>
+<p>3.&nbsp;&nbsp;&nbsp; Final Warning letter will be issued</p>
+<p>4.&nbsp;&nbsp;&nbsp; Recorded as an offence</p>
+<p>5.&nbsp;&nbsp;&nbsp; Student is to report in full school uniform every
+day for a specified period</p>
+<p>&nbsp;</p>
+<p>*Note: a student will only be allowed to join in classes upon rectification
+of incorrect attire.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4<sup>th</sup> offence</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1.&nbsp;&nbsp;&nbsp; Parent will be informed of 4<sup>th</sup> offence
+and a meeting with the parent will be scheduled in school</p>
+<p>2.&nbsp;&nbsp;&nbsp; Student to make rectifications* by either</p>
+<p>a)&nbsp;&nbsp;&nbsp; purchasing the correct attire from the bookshop,
+or,</p>
+<p>b)&nbsp;&nbsp;&nbsp; have a family member deliver the correct attire from
+home</p>
+<p>3.&nbsp;&nbsp;&nbsp; Student will need to report to school in full school
+uniform daily till further notice.</p>
+<p>4.&nbsp;&nbsp;&nbsp; Recorded as an offence and will affect Conduct Grade</p>
+<p>&nbsp;</p>
+<p>*Note: a student will only be allowed to join in classes if the student
+is in the correct attire</p>
 </td>
 </tr>
 </tbody>
