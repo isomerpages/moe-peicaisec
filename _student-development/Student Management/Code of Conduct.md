@@ -201,4 +201,63 @@ is a privilege that will be reviewed by the school when necessary)</p>
 </tr>
 </tbody>
 </table>
+<ol start="6" data-tight="true" class="tight">
+<li>
+<p>All students are expected to be in the prescribed school attire on days
+without PE. The following table summarises the follow-up actions to be
+taken should a student be inappropriately attired.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Offence Number</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Possible Corrective <br>&amp; Disciplinary Actions</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1<sup>st</sup> offence</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1.&nbsp;&nbsp;&nbsp; Verbal warning to student</p>
+<p>2.&nbsp;&nbsp;&nbsp; Parent of student will be informed</p>
+<p>3.&nbsp;&nbsp;&nbsp; Advisory letter will be issued</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2<sup>nd</sup> offence</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1.&nbsp;&nbsp;&nbsp; Parent of student will be informed of 2<sup>nd</sup> offence</p>
+<p>2.&nbsp;&nbsp;&nbsp; Student to make rectifications* by either</p>
+<p>a)&nbsp;&nbsp;&nbsp; purchasing the correct attire from the bookshop,
+or,</p>
+<p>b)&nbsp;&nbsp;&nbsp; have a family member deliver the correct attire from
+home</p>
+<p>3.&nbsp;&nbsp;&nbsp; 1<sup>st</sup> Warning letter will be issued</p>
+<p>*Note: a student will only be allowed to join in classes upon rectification
+of incorrect attire.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+</li>
+</ol>
 <p></p>
