@@ -1,0 +1,5 @@
+collections:
+  dsa:
+    output: true
+    order:
+      - Direct School Admissions (DSA).md
