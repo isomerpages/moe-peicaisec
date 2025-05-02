@@ -552,4 +552,147 @@ be placed under extended detention and/or suspension from school.</p>
 will need to produce a valid MC (refer to Point 5g above) for the period
 of absence to the CCA teacher in-charge. Poor CCA attendance may affect
 conduct grade and school/national representation in competitions.</p>
+<p>21. If a student no longer has any more lessons for the day, the earliest
+time that he/she can be dismissed from school will be at 12:40 pm.</p>
+<p>22. Students who do not have any lessons in between periods should do
+their own self-revision at the school library. Where there are such instances,
+it will be formally arranged by the school. Students are to sign in and
+out with the librarian at the library.</p>
+<h4><strong>ATTITUDE AND BEHAVIOUR</strong></h4>
+<p><strong>Rationale: To cultivate self-discipline through responsible decision making</strong>
+</p>
+<p>1. Students are to ensure adherence to the following at all times:</p>
+<p>(a) In school:</p>
+<p>(a) Students are to respect and obey all school rules and regulations.</p>
+<p>(b) Students are to display exemplary conduct and behave with decorum
+at all times.</p>
+<p>(c) Students are to observe silence when they are in the classroom, at
+the parade square or school hall for flag raising ceremony or other school
+functions. They are to conduct themselves well during such gatherings where
+common courtesy and respect must be accorded to all concerned including
+guest speakers.</p>
+<p>(d) Students must be respectful to all school staff, fellow students and
+members of the community.</p>
+<p>(e) Students are responsible for keeping the environment safe. The school
+has zero tolerance towards actions that may hurt or harm others emotionally
+or physically.</p>
+<p>(f) Students are prohibited from entering any staff offices, such as the
+Staff Rooms, General office and HOD room, as well as the Staff Lounge.</p>
+<p>(g) Students can enter special rooms in the school only when accompanied
+by teachers.</p>
+<p>(h) Students are not allowed to invite anyone into the school without
+permission. All visitors to the school must obtain a Visitor Pass at the
+security post and report to the General Office.</p>
+<p>(i) Students are strictly not allowed to use abusive or foul language.</p>
+<p>(j) Possession of any material that promotes unhealthy habits such as
+gambling, violence, harassment, discrimination etc. are strictly not allowed.</p>
+<p>(k) Possession and consumption of alcohol, tobacco-related products and
+e-vapouriser related products, like cigarettes, e-vapourisers, e-vapouriser
+pods or cartridges, are strictly prohibited by law. The school is required
+by law to report all related offences to the relevant authorities.</p>
+<p>(l) Possession of any incendiary items, such as lighters, paracord survival
+bracelet, matchsticks, matchboxes, empty cigarette boxes, are strictly
+not allowed.</p>
+<p>(m) Possession and consumption of drugs are strictly prohibited by law.</p>
+<p>(n) All students are not allowed to have in their possession any weapon
+or weapon-like devices in school. They are also not allowed to bring any
+weapon-like item that is used or intended to be used to cause harm to others.</p>
+<p>(o) Cycling, skating, rollerblading, and riding skate-scooters within
+the school grounds are strictly not allowed</p>
+<p>(ii) In class:</p>
+<p>a) Students are expected to attend all lessons and not leave the classrooms
+without permission or a valid reason.</p>
+<p>b) Students are expected to be punctual for lessons.</p>
+<p>c) Students are expected to be attentive and participate actively during
+lessons.</p>
+<p>d) Students are expected to complete and hand in all quality assignments
+on time.</p>
+<p>e) Students are expected to be responsible for the cleanliness of their
+classrooms.</p>
+<p>f) Students leaving the classroom during a lesson are expected to have
+a pass. Only 1 student will be allowed to leave the classroom at a time.</p>
+<p>g) Students who are going to another venue during a change of period are
+expected to do so promptly and in an orderly manner.</p>
+<p>h) Students are expected not to be walking around the classroom during
+lesson time.</p>
+<p>i) Students are expected not to be disruptive during lesson time.</p>
+<p>j) Students are expected to keep their hand phones and mobile devices
+out of sight (i.e. inside their school bags) unless otherwise instructed
+by teachers.</p>
+<p>k) No food and drinks except mineral water are allowed in the classrooms/special
+rooms. School staff has the right to discard any food or drinks brought
+into classroom.</p>
+<p>(iii) During recess:</p>
+<p>a) Students are not to stay in the class during recess unless with permission
+from a teacher.</p>
+<p>b) Students should queue for their food and can only buy food for themselves.</p>
+<p>c) Students should not enter the canteen vendors’ kitchen area at any
+time.</p>
+<p>d) Students should keep the canteen clean.</p>
+<p>e) Students should return all eating utensils to the respective receptacles
+after use.</p>
+<p>f) Students should not bring food and drinks out of the canteen or to
+the classrooms for consumption. Food and drinks should be consumed only
+at the designated eating areas.</p>
+<p>(iv) At school functions/events</p>
+<p>a) Students are to show respect and common courtesy to uphold the good
+name of the school at all times.</p>
+<p>b) Competitors / players should are to practise fair play when representing
+the school.</p>
+<p>2. Students are to observe the following regarding the use of mobile devices
+(including mobile phones and other electronic devices):</p>
+<p>(a) Students carry mobile phones to school at their own risk. No other
+personal electronic devices (except school issued PDLP devices) should
+be brought to school.</p>
+<p>(b) To ensure a conducive environment for learning in school, students
+are not allowed to use their mobile phones and non-PDLP related electronic
+devices during curriculum time. Signages have been placed around the school
+to serve as reminders for students that all mobile phones and non-PDLP
+related electronic devices should be switched off and kept out-of-sight.</p>
+<p>The table below summarises the use of devices during curriculum time.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Venues where personal and non-PDLP electronic devices may be used</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Venues where personal and non-PDLP electronic devices are not to be used
+at all times</p>
+<p>(permission must be obtained from teachers)</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Only during Recess:</p>
+<p>Basketball Courts</p>
+<p>Canteen</p>
+<p>Field</p>
+<p>Foyer</p>
+<p>Volleyball Courts</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Art Rooms</p>
+<p>Classrooms</p>
+<p>Computer Laboratories</p>
+<p>Corridor along classrooms</p>
+<p>Indoor Sports Hall</p>
+<p>Foyer</p>
+<p>Design and Technology Workshops</p>
+<p>Kitchen</p>
+<p>Multi-Purpose Hall</p>
+<p>Science Laboratories</p>
+<p>Stairways</p>
+<p>Toilets</p>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
