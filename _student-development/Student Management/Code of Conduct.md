@@ -349,4 +349,207 @@ National Anthem and take the Pledge. Students will take the Pledge with
 the right fist placed over the heart.</p>
 <p>3.&nbsp;&nbsp;&nbsp; The procedures and timings for morning assembly and
 the flag raising ceremony are as follows:</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Time</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Activity</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7:35 am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The slow music starts.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are to assemble with their form
+class in the parade square / school hall / classroom for flag raising ceremony.</p>
+<p>An announcement will be made via the public address system if there are
+any changes to the assigned assembly venues due to inclement weather.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7:35 am – 7:38 am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The slow music ends.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The school bell rings and the school gates
+will be closed at 7:35 am sharp.</p>
+<p>The fast music starts.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7:40 am onwards</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The fast music ends.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The flag raising ceremony will commence.</p>
+<p>Students who are not present with their form class for the flag raising
+ceremony (although they are in school) will be considered as late for school.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>4. The procedures and timings for morning assembly and the flag raising
+ceremony on Wednesdays are as follows:</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Time</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Activity</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8:15 am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>• The slow music starts.</p>
+<p>• Students are to assemble with their form class in the parade square
+/ school hall / classroom for flag raising ceremony.</p>
+<p>• An announcement will be made via the public address system if there
+are any changes to the assigned assembly venues due to inclement weather.</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8:18 am – 8:20 am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>• The slow music ends.</p>
+<p>• The fast music starts.</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8:20 am onwards</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>• The fast music ends.</p>
+<p>• The bell will ring.</p>
+<p>• The school gates will be closed.</p>
+<p>• The flag raising ceremony will commence.</p>
+<p>• Students who are not present with their form class for the flag raising
+ceremony (although they are in school) will be considered as severely late
+for school.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>5. All students are to adhere to the following:</p>
+<p>(a) Be punctual and present for the flag raising ceremony, assembly, all
+lessons, activities and other school events.</p>
+<p>(b) Assemble in the parade square/school hall/classroom by 7:40 am (8:20
+am on Wednesday). It is the responsibility of the student to personally
+inform his/her Form Teacher if he/she is in school but not in the respective
+assembly area due to valid reasons.</p>
+<p>(c) Inform the Form Teachers or the General Office of their absence from
+school by 7:40 am (8:20 am on Wednesday) on the day of absence.</p>
+<p>(d) Submit an original copy of the Medical Certificate (MC) for the day(s)
+absent from school to the Form Teacher on the day of return to school.</p>
+<p>(e) Letters from parents/guardians explaining a student’s absence from
+school should not exceed 5 in a semester as students’ attendance in school
+is critical for them to do well in school. Students will be considered
+as absent without valid reason if they have submitted parent letters/emails
+for more than 5 days of absence per semester or travelled overseas during
+term time for family holidays. Absence without valid reason can be considered
+as truancy and appropriate consequences will be meted out.</p>
+<p>(f) Letters from parents/guardians cannot be used to explain absence from
+tests or examinations. Absence from a test/examination without a valid
+MC will result in the student getting a zero mark for the test/examination.</p>
+<p>(g) Submitted MCs must be issued by a medical practitioner registered
+under the Medical Registration Act or the Dental Registration Act.</p>
+<p>(h) Persistent truancy is viewed as a wilful absence from school and may
+result in expulsion. A student who is absent from school without any valid
+reasons for three days (the days need not be consecutive), will be issued
+a letter of warning.</p>
+<p>6. A student who has been late without valid reason for six times for
+the year will be issued an advisory letter. Persistent late-coming may
+result in suspension from school.</p>
+<p>7. Upon receiving any letter for late-coming, a student who continues
+to be late without any valid reasons or comes to school after 8:00 am and
+8:30 am (on late days), may not be allowed to go to class as it would be
+highly disruptive to lessons that are on-going.</p>
+<p>8. A student who is late on Wednesday (late day) for three times (the
+days need not be consecutive) will be placed under the Early Bird Programme.
+Students identified for the Early Bird Programme will have to report to
+school by 7:40 am. thereafter. Wilful absence from the programme will be
+deemed as defiance/truancy, and the affected students will be placed under
+detention and/or suspension from school.</p>
+<p>9. Students who reach school after 8:00 am would be considered as severely
+late. They are to proceed to the General Office to see one of the Vice
+Principals (or Student Management KPs if the Vice Principals are not in
+schools) to obtain approval to proceed for lessons. Students should not
+proceed for lessons or activities for the day unless approval has been
+given via the issuance of a late coming slip by a Vice Principal or by
+a Student Management KP.</p>
+<p>10. Students with late-coming records the previous year, who arrive after
+8:00 am and have no valid reasons for being late, will not be allowed to
+go to class.</p>
+<p>11. Students who have been issued the late-coming slip are required to
+submit these slips to their Form Teachers or Subject Teachers for records
+purposes.</p>
+<p>12. Students with less than 95% attendance (where absence is without valid
+medical reasons) may not be allowed to sit for the End-of-Year examinations.</p>
+<p>13. Poor attendance in school and persistent late-coming may affect the
+conduct grade and testimonial of the student.</p>
+<p>14. Curriculum time is of utmost importance, as such, early release from
+school or absence during curriculum time will not be approved unless it
+is on compassionate grounds. Students are advised to schedule their medical
+or dental appointment after curriculum time.</p>
+<p>15. Students who need to be absent from school for an extended period
+(continuously three or more days) during term time for valid reasons should
+seek approval from the Principal/Vice-Principal by filling in a Permission
+for Curriculum Absence (PCA) form. Failing which, absence from school during
+this period may be considered as truancy.</p>
+<p>(a) For planned absences (with valid reasons) from curriculum, application
+should be submitted at least 2 weeks before. The PCA form may be obtained
+from the school’s General Office.</p>
+<p>(b) For last minute request on compassionate grounds, students should
+approach the General Office directly if in school or notify via their form
+teachers if not in school.</p>
+<p>(c) Students on Hospitalisation and/or Medical Leave need not submit the
+Permission for Curriculum Absence (PCA) Form and should instead follow
+the points listed out in part 5 (c), 5 (d) and 5 (g).</p>
+<p>16. Preparing and studying for tests or examinations is not a valid reason
+for absence from school and such offences will have a direct impact on
+the student’s conduct grade and testimonials.</p>
+<p>17. Going on holidays during term time will not be considered as a valid
+reason for absence from school, including lessons, CCA and school programmes.
+Such offences will have a direct impact on the student’s conduct grade
+and testimonials.</p>
+<p>18. Attending tuition and other enrichment outside of school will not
+be considered as a valid reason for absence from school, afternoon lessons
+or programmes and CCA. Such offences will have a direct impact on the student’s
+conduct grade and testimonials.</p>
+<p>19. Attendance at detention and CWO is compulsory where assigned. Any
+assigned hours must be duly completed within the stipulated time. Wilful
+absence will be deemed as defiance/truancy, and the affected students will
+be placed under extended detention and/or suspension from school.</p>
+<p>20. Attendance at CCA is compulsory. Students who are absent from CCA
+will need to produce a valid MC (refer to Point 5g above) for the period
+of absence to the CCA teacher in-charge. Poor CCA attendance may affect
+conduct grade and school/national representation in competitions.</p>
 <p></p>
