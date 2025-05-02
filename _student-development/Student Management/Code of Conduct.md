@@ -699,7 +699,7 @@ at all times</p>
 on the use of mobile devices during curriculum time. For safety and emergency
 purposes, parents/guardians who need to contact their child/ward urgently
 can contact the General Office at 6288 4159.</p>
-<p><strong>(d)	All mobile phones and non-PDLP related electronic devices should be switched off and kept out-of-sight unless it is used for the purpose of teaching and learning and approved by the teacher.  They will be confiscated if they are seen or heard during curriculum time or at venues where they are not supposed to be used.</strong>
+<p><strong>(d) All mobile phones and non-PDLP related electronic devices should be switched off and kept out-of-sight unless it is used for the purpose of teaching and learning and approved by the teacher. They will be confiscated if they are seen or heard during curriculum time or at venues where they are not supposed to be used.</strong>
 </p>
 <p>(e) Charging of any electronic devices is not allowed at all times and
 should instead charge their devices at the allocated charging kiosk(s)
@@ -818,4 +818,120 @@ that no waiting or parking is allowed at the designated disembarkation
 areas. Such areas are designated drop off and pick up zones only.</p>
 <p>5. The overall Conduct Grade, Attendance, Punctuality of each student
 will be reflected in his/her Result Slip at the end of the year.</p>
+<h4><strong>CYBER ETIQUETTE</strong></h4>
+<p><strong>Students are to demonstrate the same behaviour and attitude as expected in school itself during the use of internet technology for communication and online lessons.  In particular, </strong>
+</p>
+<p>1. When using internet technology to communicate with others, students
+are expected to be respectful to others by not sharing</p>
+<p>i. Obscene, derogatory or insensitive remarks/materials.</p>
+<p>ii. Information/materials that promotes unsafe or illegal acts .</p>
+<p>iii. Information and materials that would affect the safety or privacy
+of others.</p>
+<p>2. For online lessons, students are expected to</p>
+<p>a. Be punctual for all scheduled online lessons.</p>
+<p>b. Be prompt in informing their teachers should they be unable to attend
+the online lessons due to valid reasons (e.g. on MC etc.). Absences must
+be supported by appropriate documentation, similar to how absence from
+school is accounted for (see Attendance 3d &amp; e above). Absence from
+school, without any valid reasons, is considered truancy.</p>
+<p>c. Be attentive and actively participate during lessons.</p>
+<p>d. Be neat and appropriately attired for lessons.</p>
+<p>e. Ensure that a conducive place is used for the online lessons.</p>
+<p>f. Ensure that the video camera is on and their faces are displayed prominently
+on screen.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Applications involving the use of internet technology for communication
+includes but not limiting to Emails, Instant messaging applications (like
+WhatsApp, Discord, Instagram Direct Messenger etc) and social networking
+sites (like Instagram, Facebook etc).</p>
+<p>Unsafe or illegal acts includes, but not limiting to, gangsterism, pornography,
+drug/tobacco abuse (including vaping), gambling, violence, harassment,
+discrimination etc.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>g. Ensure that the mute button is activated when they are not speaking
+so as to avoid disrupting other participants’ learning.</p>
+<p>h. Demonstrate respect to teachers and classmates at all times by</p>
+<p>i. Having only one person speak at a time</p>
+<p>ii. Giving their fullest attention to whoever is speaking</p>
+<p>iii. Being polite in their interactions</p>
+<p>i. Avoid sharing account details, such as the Login ID and password, with
+others for online lesson platforms such as SLS, Zoom, Google Meet, Microsoft
+Teams etc.).</p>
+<p>j. Always log out from the online lesson platforms after every use.</p>
+<p>k. Be wary of suspicious emails and report such emails to your teachers.</p>
+<p>l. Protect the privacy by not video-recording or taking photos of other
+participants in the online lessons.</p>
+<p>m. Comply with the teachers’ instructions at all times during the online
+lessons.</p>
+<p><strong>Note:</strong> Students who are responsible for any breach of the
+above etiquette will be considered as having committed an offence in school
+and will therefore face a consequence during the school’s follow-up actions.</p>
+<p><strong>POSSIBLE CORRECTIVE AND DISCIPLINARY ACTIONS</strong> 
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Offences</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Possible Corrective</p>
+<p>&amp; Disciplinary Actions</p>
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
