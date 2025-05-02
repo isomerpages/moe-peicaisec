@@ -37,7 +37,7 @@ sections:
       image: /images/CCA/concert_band_distinction_2.png
       alt: Concert Band SYF Dist.
   - infopic:
-      title: Presidential Rally 2025
+      title: Student Council Presidential Elections 2025
       id: infopic
       button: Click here to find out more
       url: /school-events-2025/
