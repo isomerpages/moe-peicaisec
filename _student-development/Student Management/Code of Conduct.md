@@ -983,6 +983,47 @@ contact in or outside of school.</p>
 <p>• Misuse of school equipment or facilities</p>
 <p>• Outrage of modesty</p>
 <p>• Persistent absenteeism from CCA without valid reasons</p>
+<p>Serious Offences</p>
+<p>The repeat occurrence of the above-mentioned minor offences resulting
+in the persistent commission of the offences would constitute a serious
+offence. In addition, the following offences are considered serious:</p>
+<p>• Absence without valid reasons from school (i.e. Truancy)</p>
+<p>• Arson or any attempt to start a fire</p>
+<p>• Attempting to cheat or cheating in any form in school test or examination</p>
+<p>• Borrowing or lending of money</p>
+<p>• Bullying/Fighting/Instigating others to fight</p>
+<p>• Commission of offences during probation period</p>
+<p>• Cyber abuse</p>
+<p>• Deception and forgery of any kind</p>
+<p>• Defiance towards school authority</p>
+<p>• Disregard of safety rules in school premises and special rooms such
+as workshops, kitchens and laboratories</p>
+<p>• Engaging in inappropriate behaviours and/or having inappropriate physical
+contact in or outside of school.</p>
+<p>• Extortion</p>
+<p>• Gambling</p>
+<p>• Gang association</p>
+<p>• Glue sniffing</p>
+<p>• Online impersonation</p>
+<p>• IT-related offences depending on the nature of the offence</p>
+<p>• Leaving school without permission</p>
+<p>• Misuse of school equipment or facilities</p>
+<p>• Outrage of modesty</p>
+<p>• Persistent absenteeism from CCA without valid reasons</p>
+<p>• Persistent disruptive behaviour in class or during assembly or school
+events</p>
+<p>• Persistent late-coming</p>
+<p>• Possession of any items that could start a fire such as matchsticks
+and lighters/paracord bracelet with fire-starting features</p>
+<p>• Possession of weapon and weapon-like device</p>
+<p>• Possession or consumption of alcohol or drugs</p>
+<p>• Possession or viewing of pornography or unauthorised materials</p>
+<p>• Receiving police reports on commission of offences</p>
+<p>• Smoking or possession of cigarettes/ cigars</p>
+<p>• Theft</p>
+<p>• Use of abusive or vulgar language, including on online platforms</p>
+<p>• Vandalism</p>
+<p>• Vaping or possession of e-vapourisers or e-vapouriser pods and catridges</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1001,17 +1042,37 @@ teachers</p>
 <p>&gt;Expulsion</p>
 </td>
 </tr>
+</tbody>
+</table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Note:</p>
+<p>The above list is non-exhaustive. The school reserves the sole right to
+determine and decide which category the offence falls under and the appropriate
+corrective and disciplinary action(s) that needs to be taken.</p>
+<p>The school may also issue rules and guidelines pertaining to specific
+matters of discipline from time to time. These may serve to add on to or
+clarify existing rules and corrective actions.</p>
 <p></p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p></p>
 <p></p>
 <p></p>
