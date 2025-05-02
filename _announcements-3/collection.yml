@@ -2,6 +2,7 @@ collections:
   announcements-3:
     output: true
     order:
+      - Direct School Admissions (DSA).md
       - Signature Community Outreach at Blood Bank HSA.md
       - Peicai Alumnus Temasek Poly Scholarship Awards.md
       - SRC Softball Championship 2025.md
