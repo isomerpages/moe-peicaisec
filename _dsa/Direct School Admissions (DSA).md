@@ -7,7 +7,7 @@ description: ""
 <p><strong>INTRODUCTION</strong>
 </p>
 <p>Peicai Secondary School (PCSS) welcomes eligible Primary Six students
-for Secondary One admission in 2025 with talents in various areas to apply
+for Secondary One admission in 2026 with talents in various areas to apply
 for Direct School Admission to Secondary One.</p>
 <p><strong>WHY APPLY FOR DSA TO PCSS</strong>
 </p>
