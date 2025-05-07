@@ -56,15 +56,13 @@ to make meaningful differences in school life.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p></p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -97,15 +95,13 @@ roles.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p></p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -139,15 +135,13 @@ while charting new paths.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p></p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -180,15 +174,13 @@ the visible excitement of students ready to take on their new responsibilities.<
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p></p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -221,10 +213,7 @@ young individuals</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p></p>
 </td>
 </tr>
