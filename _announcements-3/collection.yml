@@ -2,6 +2,7 @@ collections:
   announcements-3:
     output: true
     order:
+      - Hosting of Caritas Wu Cheng Chung College at Peicai Secondary School.md
       - Student Leaders' Investiture 2025.md
       - Signature Community Outreach at Blood Bank HSA.md
       - Peicai Alumnus Temasek Poly Scholarship Awards.md
