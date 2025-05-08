@@ -9,6 +9,13 @@ sections:
   - hero:
       background: /images/Main_Banner_Main_1B3.jpg
   - infopic:
+      title: Hosting of Caritas Wu Cheng Chung College at Peicai Sec
+      id: infopic
+      button: Click here to find out more
+      url: /hosting-of-cwcc-at-pcss/
+      image: /images/Announcement/cwcc_pcss_25_cover.jpg
+      alt: CCWCC-PCSS
+  - infopic:
       title: Student Leaders' Investiture 2025
       id: infopic
       button: Click here to find out more
