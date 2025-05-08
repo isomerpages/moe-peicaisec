@@ -109,16 +109,10 @@ roles.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="2">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Announcement/Investiture_2025_7.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcement/Investiture_2025_8.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcement/Investiture_2025_12.jpg">
 </div>
 </th>
 </tr>
