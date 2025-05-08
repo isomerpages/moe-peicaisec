@@ -9,6 +9,13 @@ sections:
   - hero:
       background: /images/Main_Banner_Main_1B3.jpg
   - infopic:
+      title: Student Leaders' Investiture 2025
+      id: infopic
+      button: Click here to find out more
+      url: /student-leaders-investiture-2025/
+      image: /images/Announcement/Investiture_2025_6.jpg
+      alt: Student Leaders' Investiture
+  - infopic:
       title: DSA
       id: infopic
       description: Apply for Direct School Admission to Secondary One
