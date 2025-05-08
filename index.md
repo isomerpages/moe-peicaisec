@@ -13,7 +13,7 @@ sections:
       id: infopic
       button: Click here to find out more
       url: /hosting-of-cwcc-at-pcss/
-      image: /images/Announcement/cwcc_pcss_25_cover.jpg
+      image: /images/Announcement/cwcc_pcss_25_cover_1.jpg
       alt: CCWCC-PCSS
   - infopic:
       title: Student Leaders' Investiture 2025
