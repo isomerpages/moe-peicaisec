@@ -29,7 +29,7 @@ sections:
       id: infopic
       button: Click here to find out more
       url: /student-leaders-investiture-2025/
-      image: /images/Announcement/Investiture_2025_cover.jpg
+      image: /images/Announcement/Investiture_2025_9.jpg
       alt: Student Leaders' Investiture
   - infopic:
       title: DSA
