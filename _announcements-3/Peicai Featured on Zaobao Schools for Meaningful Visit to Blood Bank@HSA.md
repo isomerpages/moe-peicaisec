@@ -40,7 +40,7 @@ visit more memorable and meaningful.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Zaobao Schools Article (21 May 2025) on Peicai’s Signature Outreach VIA
-to Blood Bank (<a rel="noopener noreferrer nofollow" target="_blank">https://www.zbschools.sg/article/detail/2025000602</a>)</p>
+to Blood Bank (<a href="https://www.zbschools.sg/article/detail/2025000602" rel="noopener noreferrer nofollow" target="_blank">https://www.zbschools.sg/article/detail/2025000602</a>)</p>
 </td>
 </tr>
 <tr>
