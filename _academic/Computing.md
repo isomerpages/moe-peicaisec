@@ -179,7 +179,7 @@ deeper understanding and computational thinking skills.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>At least 60 for Sec 1 G3 Mathematics and 50 for Sec 2 G3 Mathematics</p>
+<p>At least 65 for Sec 1 G3 Mathematics and 60 for Sec 2 G3 Mathematics</p>
 </li>
 <li>
 <p>Selection at MOE level; Subject to school recommendation</p>
