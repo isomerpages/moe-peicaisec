@@ -49,7 +49,6 @@ of this programme.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <h4><strong>Hari Raya Celebrations 2025</strong></h4>
 <p>On 16 April 2025, the Peicai school hall came alive with vibrant energy
 as students gathered for a memorable Hari Raya Concert, organised by the
