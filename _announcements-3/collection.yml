@@ -2,6 +2,7 @@ collections:
   announcements-3:
     output: true
     order:
+      - Example Title.md
       - Peicai Featured on Zaobao Schools for Meaningful Visit to Blood
         Bank@HSA.md
       - Hosting of Caritas Wu Cheng Chung College at Peicai Secondary School.md
