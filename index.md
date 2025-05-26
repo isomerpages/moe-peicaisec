@@ -9,6 +9,14 @@ sections:
   - hero:
       background: /images/Main_Banner_Main_1B3.jpg
   - infopic:
+      title: G2G Brunei School Exchange Programme 2024
+      id: infopic
+      description: A Celebration of Cultural and Educational Bonds
+      button: Click here to find out more
+      url: /g2g-brunei-sch-exchange-2024
+      image: /images/Announcement/G2G_2025_2.jpg
+      alt: G2G 2024
+  - infopic:
       title: Peicai - HSA Visit Featured in Zaobao
       id: infopic
       description: Peicai Featured on Zaobao Schools for Meaningful Visit to Blood
