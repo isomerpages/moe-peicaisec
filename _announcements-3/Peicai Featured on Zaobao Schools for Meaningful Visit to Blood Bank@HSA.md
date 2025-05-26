@@ -116,7 +116,7 @@ to Blood Bank (<a href="https://www.zbschools.sg/article/detail/2025000602" rel=
 <tr>
 <td rowspan="1" colspan="1">
 <p>Students presenting their learnings at HSA Blood Bank (left to right:
-Garnell Chenelle Krystyn (4B3), Kyle Ong (4B3), Macha Ahbigna (4B3))</p>
+Garnell Chenelle Krystyn (4B3), Kyle Ong (4B3), Macha Abhigna (4B3))</p>
 </td>
 </tr>
 <tr>
