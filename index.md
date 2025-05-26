@@ -15,7 +15,8 @@ sections:
         Bank @ HSA
       button: Click here to find out more
       url: /pcss-feat-zaobao-sch-meaningful-visit-to-hsa/
-      image: /images/Announcement/pcss_zbao_1.jpg
+      image: /images/Announcement/pcss_zbao_5.jpg
+      alt: PCSS-HSA-Zaobao
   - infopic:
       title: Hosting of Caritas Wu Cheng Chung College at Peicai Sec
       id: infopic
