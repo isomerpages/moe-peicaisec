@@ -9,9 +9,10 @@ sections:
   - hero:
       background: /images/Main_Banner_Main_1B3.jpg
   - infopic:
-      title: Peicai-HSA Visit Featured in Zaobao
+      title: Peicai - HSA Visit Featured in Zaobao
       id: infopic
-      description: Peicai Featured on Zaobao Schools for Meaningful Visit to Blood Bank@HSA
+      description: Peicai Featured on Zaobao Schools for Meaningful Visit to Blood
+        Bank @ HSA
       button: Click here to find out more
       url: /pcss-feat-zaobao-sch-meaningful-visit-to-hsa/
       image: /images/Announcement/pcss_zbao_5.jpg
