@@ -9,6 +9,23 @@ sections:
   - hero:
       background: /images/Main_Banner_Main_1B3.jpg
   - infopic:
+      title: G2G Brunei School Exchange Programme 2024
+      id: infopic
+      description: A Celebration of Cultural and Educational Bonds
+      button: Click here to find out more
+      url: /g2g-brunei-sch-exchange-2024
+      image: /images/Announcement/G2G_2025_2.jpg
+      alt: G2G 2024
+  - infopic:
+      title: Peicai - HSA Visit Featured in Zaobao
+      id: infopic
+      description: Peicai Featured on Zaobao Schools for Meaningful Visit to Blood
+        Bank @ HSA
+      button: Click here to find out more
+      url: /pcss-feat-zaobao-sch-meaningful-visit-to-hsa/
+      image: /images/Announcement/pcss_zbao_5.jpg
+      alt: PCSS-HSA-Zaobao
+  - infopic:
       title: Hosting of Caritas Wu Cheng Chung College at Peicai Sec
       id: infopic
       button: Click here to find out more
@@ -20,7 +37,7 @@ sections:
       id: infopic
       button: Click here to find out more
       url: /student-leaders-investiture-2025/
-      image: /images/Announcement/Investiture_2025_cover.jpg
+      image: /images/Announcement/Investiture_2025_9.jpg
       alt: Student Leaders' Investiture
   - infopic:
       title: DSA
