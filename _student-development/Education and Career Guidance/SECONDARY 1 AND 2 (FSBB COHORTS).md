@@ -476,7 +476,7 @@ to 22 points.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Student Development/ecg_may_sec12_11.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Student Development/ecg_may_sec12_11.jpg">
 </div>
 </th>
 </tr>
