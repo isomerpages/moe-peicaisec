@@ -100,7 +100,7 @@ to:</p>
 levels. Students are invited to apply for the available work attachment
 opportunities and are selected to go for the work attachments based on
 criteria which includes passion for the work area and industry.</p>
-<p><a href="https://www.peicaisec.moe.edu.sg/distinctive-edge/work-attachment/" rel="noopener noreferrer nofollow" target="_blank">Click</a>&nbsp;here
+<p><a href="/distinctive-edge/work-attachment/" rel="noopener noreferrer nofollow" target="_blank">Click</a>&nbsp;here
 to find out more about the Student Work Attachment Programme at PCSS.</p>
 <p>Our Partners providing work attachment opportunities for our students
 include the following:</p>
