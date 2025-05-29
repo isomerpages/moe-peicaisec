@@ -1,11 +1,11 @@
 ---
-title: ECG Updates S3 to 5
-permalink: /ecg-updates-s3-to-5/
+title: SECONDARY 3, 4, 5
+permalink: /ecg-s3-4-5/
 variant: tiptap
 description: ""
 third_nav_title: Education and Career Guidance
 ---
-<h4><strong>ECG Pathways for Sec 3, 4 and 5</strong></h4>
+<h4><strong>SECONDARY 3, 4, 5</strong></h4>
 <p><strong><u>OVERVIEW OF POST-SEC PATHWAYS AVAILABLE AFTER N/O LEVELS</u></strong>
 </p>
 <p>2025 JAE Booklet: <a href="https://www.moe.gov.sg/-/media/files/post-secondary/2025-jae/2025-jae-courses.pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/-/media/files/post-secondary/2025-jae/2025-jae-courses.pdf</a>
@@ -19,7 +19,7 @@ third_nav_title: Education and Career Guidance
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_2025_21.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_may_sec345_1.jpg">
 </div>
 </th>
 </tr>
@@ -36,7 +36,7 @@ third_nav_title: Education and Career Guidance
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_2025_22.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_may_sec345_2.jpg">
 </div>
 </th>
 </tr>
@@ -55,7 +55,7 @@ third_nav_title: Education and Career Guidance
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_2025_23.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_may_sec345_3.jpg">
 </div>
 </th>
 </tr>
@@ -63,7 +63,7 @@ third_nav_title: Education and Career Guidance
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_2025_24.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_may_sec345_4.jpg">
 </div>
 </td>
 </tr>
@@ -71,13 +71,13 @@ third_nav_title: Education and Career Guidance
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_2025_25.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_may_sec345_5.jpg">
 </div>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong><u>Understanding JC/MI Subjects</u></strong>
+<p><strong><u>UNDERSTANDING JC/MI SUBJECTS</u></strong>
 </p>
 <table style="minWidth: 25px">
 <colgroup>
@@ -88,7 +88,7 @@ third_nav_title: Education and Career Guidance
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_2025_26.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_may_sec345_6.jpg">
 </div>
 </th>
 </tr>
@@ -96,7 +96,7 @@ third_nav_title: Education and Career Guidance
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_2025_27.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_may_sec345_7.jpg">
 </div>
 </td>
 </tr>
@@ -113,7 +113,7 @@ third_nav_title: Education and Career Guidance
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_2025_28.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_may_sec345_8.jpg">
 </div>
 </th>
 </tr>
@@ -121,7 +121,7 @@ third_nav_title: Education and Career Guidance
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_2025_29.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_may_sec345_9.jpg">
 </div>
 </td>
 </tr>
@@ -129,14 +129,12 @@ third_nav_title: Education and Career Guidance
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_2025_30.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_may_sec345_10.jpg">
 </div>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong><u>INSTITUTE OF TECHNICAL EDUCATION (ITES)</u></strong>
-</p>
 <p><strong><u>ADMISSION CRITERIA FOR N-LEVEL STUDENTS</u></strong>
 </p>
 <table style="minWidth: 25px">
@@ -148,7 +146,7 @@ third_nav_title: Education and Career Guidance
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_2025_31.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_may_sec345_11.jpg">
 </div>
 </th>
 </tr>
@@ -165,20 +163,72 @@ third_nav_title: Education and Career Guidance
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_2025_32.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_may_sec345_12.jpg">
 </div>
 </th>
 </tr>
+</tbody>
+</table>
+<p>Refer to ITE Course Booklet for latest course cut-off aggregate points
+based on 2025 Intake: <a href="https://www.ite.edu.sg/docs/default-source/full-time-courses-doc/ite-course-booklet-final.pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/docs/default-source/full-time-courses-doc/ite-course-booklet-final.pdf</a>
+</p>
+<p><strong><u>POLYTECHNIC FOUNDATION PROGRAMME (PFP)</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>One-year foundation programme to better prepare students for entry into
+the relevant Polytechnic Diploma courses.</p>
+</li>
+<li>
+<p>An alternative to the Sec 5 year, caters to Sec 4N(A) cohort students
+in the preceding year</p>
+</li>
+<li>
+<p>About 1,700 places set aside each year, offered by all five Polytechnics
+with more than 80% of Polytechnic Diploma courses offered under the PFP</p>
+</li>
+<li>
+<p>Starting from the <strong>2026 intake, students will be admitted to the PFP in 3 broad clusters</strong> instead
+of a specific diploma programme.</p>
+</li>
+<li>
+<p>Qualifying Criteria for PFP: <strong>ELMAB3 ≤ 12 (raw)</strong>
+</p>
+</li>
+<li>
+<p>For admission to courses, the ideal aggregate to aim towards to is ≤10
+to allow wider options for consideration.</p>
+</li>
+<li>
+<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_2025_33.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_may_sec345_13.jpg">
 </div>
-</td>
+</th>
 </tr>
 </tbody>
 </table>
+</li>
+<li>
+<p>Useful Links for more information:</p>
+</li>
+<li>
+<p><a href="https://pfp.polytechnic.edu.sg/PFP/index.html" rel="noopener noreferrer nofollow" target="_blank">https://pfp.polytechnic.edu.sg/PFP/index.html</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.moe.gov.sg/post-secondary/admissions/pfp-2026-intake" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/post-secondary/admissions/pfp-2026-intake</a>
+</p>
+</li>
+</ul>
 <p><strong><u>DIRECT ENTRY SCHEME TO POLYTECHNIC PROGRAMME (DPP)</u></strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -213,7 +263,7 @@ the respective courses</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_2025_34.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_may_sec345_14.jpg">
 </div>
 </th>
 </tr>
@@ -230,7 +280,7 @@ the respective courses</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_2025_35.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_may_sec345_15.jpg">
 </div>
 </th>
 </tr>
@@ -238,7 +288,7 @@ the respective courses</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_2025_36.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_may_sec345_16.jpg">
 </div>
 </td>
 </tr>
@@ -246,7 +296,7 @@ the respective courses</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_2025_37.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_may_sec345_17.jpg">
 </div>
 </td>
 </tr>
@@ -263,7 +313,7 @@ the respective courses</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_2025_38.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_may_sec345_18.jpg">
 </div>
 </th>
 </tr>
@@ -280,7 +330,7 @@ the respective courses</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_2025_39.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_may_sec345_19.jpg">
 </div>
 </th>
 </tr>
@@ -288,7 +338,7 @@ the respective courses</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_2025_40.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_may_sec345_20.jpg">
 </div>
 </td>
 </tr>
@@ -305,13 +355,13 @@ the respective courses</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_2025_41.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_may_sec345_21.jpg">
 </div>
 </th>
 </tr>
 </tbody>
 </table>
-<p><strong><u>FOR PARENTS TO ENGAGE THEIR CHILDREN</u></strong>
+<p><strong><u>ENGAGING PARENTS</u></strong>
 </p>
 <table style="minWidth: 25px">
 <colgroup>
@@ -322,7 +372,7 @@ the respective courses</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_2025_42.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_may_sec345_22.jpg">
 </div>
 </th>
 </tr>

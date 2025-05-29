@@ -1,12 +1,42 @@
 ---
-title: ECG Updates S1 and S2
-permalink: /ecg-updates-s1-and-s2/
+title: SECONDARY 1 AND 2 (FSBB COHORTS)
+permalink: /ecg-s1-and-s2/
 variant: tiptap
 description: ""
 third_nav_title: Education and Career Guidance
 ---
-<h4><strong>Pathways for FSBB (Sec 1 and 2)</strong></h4>
-<p><strong><u>OVERVIEW OF FSBB EXPERIENCE IN SECONDARY SCHOOL</u></strong>
+<h4><strong>SECONDARY 1 AND 2 (FSBB COHORTS)</strong></h4>
+<p><strong><u>KEY POINTS TO NOTE</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Generally, all students will progress to the next level of learning (i.e.
+from Sec 1 to Sec 2, and from Sec 2 to Sec 3) at the end of each year.</p>
+</li>
+<li>
+<p>Students may remain in Secondary 1 for another year if they:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>have frequent or long-term absenteeism from school, <strong><u>or</u></strong>
+</p>
+</li>
+<li>
+<p>return from Leave of Absence (LOA) or from overseas and require more time
+to bridge learning gaps</p>
+</li>
+</ul>
+</li>
+</ul>
+<p>demonstrate that they will be unable to cope with the next level of learning.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>At the end of Sec 2 and Sec 3, students who are unable to cope with their
+current academic demands will have their curricular load recalibrated for
+students to better cope with the academic demands in the interests of their
+well-being.</p>
+</li>
+</ul>
+<p><strong><u>OVERVIEW OF POST-SEC PATHWAYS FOR FSBB STUDENTS</u></strong>
 </p>
 <table style="minWidth: 25px">
 <colgroup>
@@ -15,29 +45,15 @@ third_nav_title: Education and Career Guidance
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_2025_1.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Student Development/ecg_may_sec12_1.jpg">
 </div>
 </th>
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_2025_2.png">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
+<p><a href="https://www.moe.gov.sg/microsites/psle-fsbb/assets/infographics/full-subject-based-banding/subject-level-requirements-post-sec.pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/microsites/psle-fsbb/assets/infographics/full-subject-based-banding/subject-level-requirements-post-sec.pdf</a>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -67,42 +83,18 @@ year</p>
 <td rowspan="1" colspan="1">
 <p>Attain ≥75% for the specific subject in one or more of the following subjects
 at the end of Sec 1 or 2:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>English Language</p>
-</li>
-<li>
-<p>Mathematics</p>
-</li>
-<li>
-<p>Science</p>
-</li>
-<li>
-<p>Mother Tongue Languages</p>
-</li>
-<li>
-<p>Geography</p>
-</li>
-<li>
-<p>History</p>
-</li>
-<li>
-<p>Literature in English</p>
-</li>
-</ul>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; English Language</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mathematics</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Science</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mother Tongue Languages</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Geography</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; History</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Literature in English</p>
 <p>Attain <u>Distinction in G1 Humanities</u> and <u>≥75% for G1 English or ≥50% for G2 English</u> to
 be offered one of the following at G2 level in Sec 1 or 2:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Geography</p>
-</li>
-<li>
-<p>History</p>
-</li>
-<li>
-<p>Literature in English</p>
-</li>
-</ul>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Geography</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; History</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Literature in English</p>
 </td>
 </tr>
 <tr>
@@ -112,18 +104,15 @@ be offered one of the following at G2 level in Sec 1 or 2:</p>
 <td rowspan="1" colspan="1">
 <p>Eligible to take (≥75% for the specific subject) or already take (≥50%
 for the specific subject) at least 3 subjects at MDL, of which:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>At least 2 subjects are from English, Mathematics and Science</p>
-</li>
-<li>
-<p>≥50% for the rest of the subjects</p>
-</li>
-</ul>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; At least 2 subjects are from
+English, Mathematics and Science</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ≥50% for the rest of the subjects</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p>For the progression of FSBB students from Secondary 2 to Secondary 3,
+please refer to Subject Combination guidelines briefed by the school.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -183,7 +172,7 @@ MTL</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_2025_3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_may_sec12_2.jpg">
 </div>
 </th>
 </tr>
@@ -221,16 +210,13 @@ to offer mostly G3 subjects</p>
 <td rowspan="1" colspan="1">
 <p>Sec 4 or 5<sup>th</sup> year students offering mostly G3 subjects</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Repeat subjects at same subject level</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Sec 4 students offering mostly G2 subjects</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Repeat subjects at same subject level</p>
 </td>
 </tr>
 </tbody>
@@ -244,7 +230,7 @@ to offer mostly G3 subjects</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_2025_4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_may_sec12_3.jpg">
 </div>
 </th>
 </tr>
@@ -285,7 +271,7 @@ are mapped down to G2 grades, and G2 grades are mapped down to G1 grades.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_2025_5.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_may_sec12_4.jpg">
 </div>
 </th>
 </tr>
@@ -293,109 +279,53 @@ are mapped down to G2 grades, and G2 grades are mapped down to G1 grades.</p>
 </table>
 <p><strong><u>ADMISSIONS TO JC/MI</u></strong>
 </p>
-<p>The JC/MI admission criteria will be <strong>retained at L1R5 ≤ 20 and L1R4 ≤ 20</strong> respectively,
-computed with <strong>G3</strong> subjects, to ensure that students are right-sited
-to cope with the academic rigour of the A-Level pathway</p>
-<p>Subject requirements for English Language and Mathematics will be retained
-but revised for Mother Tongue Languages with the discontinuation of Mother
-Tongue Language ‘B’.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong><u>Subject specific requirements for JC/MI</u></strong>
+<p><strong><u>JC Admission Criteria</u></strong>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Subject</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Grade</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>English Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1-6 at G3</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mathematics (Elementary/Additional)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1-7 at G3</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Any one Mother Tongue Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Higher Mother Tongue Language:</p>
-<p>1-8 at G3</p>
-<p>Mother Tongue Language:</p>
-<p>1-7 at G3; 1-5 at G2; A-D at G1</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>No further changes to other aspects of the JC/MI admission criteria (e.g.,
-bonus points and conditional admission criteria)</p>
+<p>From the 2028 Joint Admissions Exercise (JAE), number of subjects required
+for JC/MI admission will be reduced from six to five, by shifting from
+the current L1R5 gross aggregate score to L1R4.</p>
+<p><strong>Students must attain a gross aggregate L1R4 ≤ 16</strong> to be
+eligible for admission to a JC/MI course.</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_2025_6.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_may_sec12_5.jpg">
 </div>
-</td>
+</th>
 </tr>
+</tbody>
+</table>
+<p>Students must also obtain the minimum grade requirements for specific
+subjects:</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_2025_7.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_may_sec12_6.jpg">
 </div>
 </th>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_2025_8.png">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_2025_9.png">
-</div>
-</td>
-</tr>
 </tbody>
 </table>
+<p><strong><u>Millennia Institute (MI) Admission Criteria</u></strong><u><br></u><strong>Students must attain a gross aggregate score of L1R4 ≤ 20 </strong>to
+be eligible for admission to a MI course.</p>
+<p>Subject and minimum grade requirements are the same as for JC admission.</p>
 <p><strong><u>ADMISSIONS TO PFP</u></strong>
 </p>
 <p>For the ELMAB3 admission criteria, the <strong>minimum grade requirement of two ‘Best’ subjects has been relaxed </strong>from
 G2 Grade 3 to Grade 4</p>
-<p>Entry requirements such as the <strong>ELMAB3 raw aggregate score of ≤ 12 points</strong>,
+<p>Entry requirements such as the <strong>ELMAB3 raw aggregate score of ≥ 12 points</strong>,
 and the subject requirements for English Language, Mathematics and ‘Relevant’
 subjects, will be retained.</p>
 <table style="minWidth: 50px">
@@ -425,7 +355,7 @@ subjects, will be retained.</p>
 <p>English Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 or 3 (depending on course)</p>
+<p>3</p>
 </td>
 </tr>
 <tr>
@@ -493,7 +423,7 @@ access PFP. There will be no further change to the admissions criteria.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_2025_10.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_may_sec12_7.jpg">
 </div>
 </th>
 </tr>
@@ -501,7 +431,7 @@ access PFP. There will be no further change to the admissions criteria.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_2025_11.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_may_sec12_8.jpg">
 </div>
 </td>
 </tr>
@@ -509,7 +439,15 @@ access PFP. There will be no further change to the admissions criteria.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_2025_13.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_may_sec12_9.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_may_sec12_10.jpg">
 </div>
 </td>
 </tr>
@@ -522,7 +460,7 @@ of the aggregate score for admission to Polytechnic Year 1</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Students who offer both [B] subjects at G3 will have the [B] subject with
-a lower grade mapped from G3 to G2 based on a grade mapping table.&nbsp;</p>
+a lower grade mapped from G3 to G2 based on a grade mapping table.</p>
 </li>
 <li>
 <p>Correspondingly, the net aggregate cut-off will be adjusted from 26 points
@@ -538,7 +476,7 @@ to 22 points.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_2025_14.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Student Development/ecg_may_sec12_11.jpg">
 </div>
 </th>
 </tr>
@@ -546,7 +484,7 @@ to 22 points.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_2025_15.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_may_sec12_12.jpg">
 </div>
 </td>
 </tr>
@@ -554,7 +492,7 @@ to 22 points.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_2025_16.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_may_sec12_13.jpg">
 </div>
 </td>
 </tr>
@@ -622,7 +560,7 @@ be mapped to G2 for the computation of the aggregate score.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_2025_17.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_may_sec12_14.jpg">
 </div>
 </th>
 </tr>
@@ -630,7 +568,7 @@ be mapped to G2 for the computation of the aggregate score.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_2025_18.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_may_sec12_15.jpg">
 </div>
 </td>
 </tr>
@@ -660,8 +598,7 @@ the Early Admissions Exercise.</p>
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Today, most Higher NITEC students who progress to polys attain a net GPA
-of 2.5 and above.</p>
+<p>Today, <strong>most Higher NITEC students who progress to polys attain a net GPA of 2.5 and above</strong>.</p>
 </li>
 <li>
 <p>To better reflect the current progression GPA while ensuring students
@@ -680,18 +617,13 @@ training.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_2025_19.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_may_sec12_16.jpg">
 </div>
 </th>
 </tr>
 </tbody>
 </table>
-<p><strong><u>SECONDARY 3 TO 5</u></strong>
-</p>
-<p><strong><u>OVERVIEW OF POST-SEC PATHWAYS AVAILABLE AFTER N/O LEVELS</u></strong>
-</p>
-<p>2025 JAE Booklet: <a href="https://www.moe.gov.sg/-/media/files/post-secondary/2025-jae/2025-jae-courses.pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/-/media/files/post-secondary/2025-jae/2025-jae-courses.pdf</a>
-</p>
+<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -701,43 +633,7 @@ training.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_2025_21.png">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
-<p><strong><u>DIFFERENCES BETWEEN JUNIOR COLLEGE VS POLYTECHNICS</u></strong>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_2025_22.png">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
-<p><strong><u>ADMISSION CRITERIA FOR O-LEVEL STUDENTS</u></strong>
-</p>
-<p><strong><u>JUNIOR COLLEGE (JC) &amp; MILLENIA INSTITUTE (MI)</u></strong>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_2025_23.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_may_sec12_17.jpg">
 </div>
 </th>
 </tr>
@@ -745,268 +641,14 @@ training.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_2025_24.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_may_sec12_18.jpg">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_2025_25.png">
-</div>
 </td>
-</tr>
-</tbody>
-</table>
-<p><strong><u>Understanding JC/MI Subjects</u></strong>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_2025_26.png">
-</div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_2025_27.png">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong><u>POLYTECHNICS</u></strong>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_2025_28.png">
-</div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_2025_29.png">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_2025_30.png">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong><u>INSTITUTE OF TECHNICAL EDUCATION (ITES)</u></strong>
-</p>
-<p><strong><u>ADMISSION CRITERIA FOR N-LEVEL STUDENTS</u></strong>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_2025_31.png">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
-<p><strong><u>NA STUDENTS</u></strong>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_2025_32.png">
-</div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_2025_33.png">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong><u>DIRECT ENTRY SCHEME TO POLYTECHNIC PROGRAMME (DPP)</u></strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Caters to Secondary 4 NA students of the preceding cohort</p>
-</li>
-<li>
-<p>Enrol in a 2-year Higher Nitec course at ITE, subsequently be assured
-of a place in a related polytechnic course, provided you meet qualifying
-GPA in your 2-year Higher Nitec course.</p>
-</li>
-<li>
-<p>Qualifying Criteria for DPP: <strong>&lt;19 points for raw ELMAB3 aggregate score</strong> (i.e.
-EL, Math and best 3 subjects, excl. CCA bonus points) and meets MER of
-the respective courses</p>
-</li>
-<li>
-<p>For admission to DPP courses, the ideal aggregate to aim towards to is
-≤15 to allow wider options for consideration.</p>
-</li>
-<li>
-<p>Link for more information: <a href="https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp" rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp</a>
-</p>
-</li>
-</ul>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_2025_34.png">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
-<p><strong><u>NT STUDENTS</u></strong>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_2025_35.png">
-</div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_2025_36.png">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_2025_37.png">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong><u>COMPUTATION OF BONUS POINTS</u></strong>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_2025_38.png">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
-<p><strong><u>APTITUDE-BASED ADMISSIONS</u></strong>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_2025_39.png">
-</div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_2025_40.png">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong><u>DSA &amp; EAE – PROCESS &amp; TIMELINE</u></strong>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_2025_41.png">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
-<p><strong><u>FOR PARENTS TO ENGAGE THEIR CHILDREN</u></strong>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_2025_42.png">
-</div>
-</th>
 </tr>
 </tbody>
 </table>
