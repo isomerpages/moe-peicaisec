@@ -46,7 +46,7 @@ well-being.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Student Development/ecg_may_sec12_1.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Student Development/ecg_may_sec12_1.jpg">
 </div>
 </th>
 </tr>
