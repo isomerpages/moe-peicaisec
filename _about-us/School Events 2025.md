@@ -4,7 +4,7 @@ permalink: /school-events-2025/
 variant: tiptap
 description: ""
 ---
-<h4><strong>G2G Brunei School Exchange Programme 2024 – A Celebration of Cultural and Educational Bonds</strong></h4>
+<h4><strong>G2G Brunei School Exchange Programme 2025 – A Celebration of Cultural and Educational Bonds</strong></h4>
 <p>23 May 2025 marked the conclusion of the G2G Brunei School Exchange Programme,
 a five-day immersive experience (from 19 – 23 May 2025) that brought together
 students and educators from Brunei and Singapore. Our Vice-Principal, Ms
