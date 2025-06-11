@@ -49,32 +49,16 @@ results on a Semestral basis and demonstrated exemplary conduct.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Principal’s List 2024_Sem 1-1" src="/images/Achievements/Principal_s_List_2024_Sem_1_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/CR_Sem1_25_1.jpg">
 </div>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong>Semester 2</strong>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Principal’s List 2024_Sem 2" src="/images/Achievements/Principal_s_List_2024_Sem_2.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
 </td>
 <td rowspan="1" colspan="1">
-<p>Presented at the end of Semester 1 and at the end of Semester 2</p>
+<p>Presented at the end of Semester 1</p>
 </td>
 </tr>
 <tr>
@@ -530,14 +514,8 @@ a certain level of achievement at the above-mentioned platforms</p>
 </ul>
 <p><strong><u>Senior Category</u></strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Colours S A" src="/images/Achievements/Colours_S_A_.jpg">
-</div>
-<p><strong><u>Junior Category</u></strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Colours Junior" src="/images/Achievements/Colours_J_copy.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/CR_Sem1_25_2.jpg">
 </div>
 <p>&nbsp;</p>
 </td>
@@ -549,7 +527,7 @@ a certain level of achievement at the above-mentioned platforms</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Sports Boy of the Year</strong>
+<p><strong>Sports Girls &amp; Boys of the Year</strong>
 </p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -560,43 +538,7 @@ a certain level of achievement at the above-mentioned platforms</p>
 <p>Student athlete that has contributed significantly to the sports teams
 or attained significant achievements in the field of the sport for various
 competitions and has served as an inspiration to the team.</p>
-<p>&nbsp;<strong><u>Junior</u></strong>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="2">
-<p>SOFTBALL GIRLS</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SULAKSHA PUN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2 RESILIENCE</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong>VOLLEYBALL BOYS</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>LING ZHI FENG, BENSON</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2 RESILIENCE</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p>&nbsp;</p>
 <p><strong><u>Senior</u></strong>
 </p>
 <table style="minWidth: 50px">
@@ -607,29 +549,196 @@ competitions and has served as an inspiration to the team.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p>SOFTBALL GIRLS</p>
+<p>BADMINTON GIRL</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ISABELLA CHIN SHI RUI</p>
+<p>LEONG SI TING</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4C4</p>
+<p>4A1</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>BASKETBALL BOYS</strong>
+<p><strong>BADMINTON BOY</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LU MIN HTIKE THANG VAANG</p>
+<p>WIN KOH JUN WEI</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4B3</p>
+<p>4C1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p>SOFTBALL GIRL</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHAW YU TONG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4B1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>SOFTBALL BOY</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MUHAMMAD HAZMI BIN MOHAMMAD IAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4B1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p>VOLLEYBALL GIRL</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>YEK YI EN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4B2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>VOLLEYBALL BOY</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>KAVAN LIM KAI XUAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4C2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>BASKETBALL BOY</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>KAN ZHE RUI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4A1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p>FLOORBALL GIRL</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ANG JIA MIN KELLY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4B2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>FLOORBALL BOY</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>DANISH AL QAYS BIN MOHAMMED ASY'ARI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4C2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -649,43 +758,6 @@ competitions and has served as an inspiration to the team.</p>
 <p>Student performer that has&nbsp;contributed significantly to the Performing
 Arts (PA) CCA or attained significant achievements in the respective PA
 CCA and has served as an inspiration to the team.</p>
-<p><strong><u>Junior</u></strong>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="2">
-<p>CONCERT BAND</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>JERVIN YEO KAI JIE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2 INNOVATION</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong>MODERN DANCE</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>NAURAH MALIMAR BINTE NORMAN MALIMAR</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2 CARE</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong><u>Senior</u></strong>
 </p>
 <table style="minWidth: 50px">
@@ -701,10 +773,24 @@ CCA and has served as an inspiration to the team.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>EMS PARDAMEAN MARTENS</p>
+<p>VERONIQUE NG</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4B2</p>
+<p>4C3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>ENGLISH DRAMA</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PRATHEEPAN POORNI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4C4</p>
 </td>
 </tr>
 <tr>
@@ -715,10 +801,10 @@ CCA and has served as an inspiration to the team.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SALCEDO IVAN ELEISON AYALA</p>
+<p>LOW ZHENG HAO JORDAN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4C5</p>
+<p>4C4</p>
 </td>
 </tr>
 </tbody>
@@ -738,29 +824,7 @@ CCA and has served as an inspiration to the team.</p>
 <p>Member that has contributed significantly to the Clubs and Societies or
 attained significant achievements in the respective Clubs and Societies
 in external events or competitions.</p>
-<p>&nbsp;<u>Junior</u>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="2">
-<p>INFOCOMM</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>EDELYNE GRACE MOK SHI QIN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2 CARE</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p>&nbsp;</p>
 <p><strong><u>Senior</u></strong>
 </p>
 <table style="minWidth: 50px">
@@ -776,10 +840,52 @@ in external events or competitions.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CHIA CHENG EN KEEGAN</p>
+<p>FOO MAUREEN YIHSHIN AQUINO</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4B2</p>
+<p>4C4</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p>INFOCOMM</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ZENITH SAK SONG ZHE (XUE SONGZHE)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4C1</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p>AEROMODELLING</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LEE HONG ZHENG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4C3</p>
 </td>
 </tr>
 </tbody>
@@ -802,43 +908,7 @@ in external events or competitions.</p>
 attained significant achievements in the respective UG specifically for
 proficiency-related competencies, and/or has been selected to represent
 the unit in Inter-Unit representations.</p>
-<p>&nbsp;<strong><u>Junior</u></strong>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="2">
-<p>GIRL GUIDES</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>CALEIGH KATE KERN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2 COLLABORATION</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong>NATIONAL POLICE CADET CORPS</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>LOK JUN HONG</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2 PASSION</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p></p>
 <p><strong><u>Senior</u></strong>
 </p>
 <table style="minWidth: 50px">
@@ -849,29 +919,43 @@ the unit in Inter-Unit representations.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p>GIRL GUIDES</p>
+<p>NATIONAL CADET CORPS SEA UNIT</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>TIA TAN IN XUAN</p>
+<p>LELIA YEO (YANG KAITING)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4C4</p>
+<p>4C1</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>NATIONAL CADET CORPS SEA UNIT</strong>
+<p><strong>NATIONAL POLICE CADET CORPS</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ER CHENG EN, SHON</p>
+<p>MOHAMAD AQIL BIN MOHAMAD ROSDIN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4C2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>GIRL GUIDES</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NUR IFRAH BINTE MOHAMAD IWAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4C1</p>
 </td>
 </tr>
 </tbody>
