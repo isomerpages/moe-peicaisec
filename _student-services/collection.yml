@@ -2,13 +2,13 @@ collections:
   student-services:
     output: true
     order:
-      - School Terms and Holidays.md
       - National Examination Matters.md
       - Booklist.md
       - Bookshop Opening Hours.md
       - Financial Assistance Scheme (FAS).md
       - School Calendar (For Students).md
       - School Insurance.md
+      - School Terms and Holidays.md
       - School Safety and Security.md
       - Use of Personal Data.md
       - Useful Links.md
