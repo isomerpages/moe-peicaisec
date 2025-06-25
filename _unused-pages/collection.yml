@@ -2,7 +2,6 @@ collections:
   unused-pages:
     output: true
     order:
-      - School Terms and Holidays.md
       - School Events 2025.md
       - Staff.md
       - Students.md
