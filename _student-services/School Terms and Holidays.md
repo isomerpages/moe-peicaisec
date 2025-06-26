@@ -43,7 +43,8 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<h4><strong>Semester 2</strong></h4>
+<p><strong>Semester 2</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -64,9 +65,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>*<em>The last day of the final school term for schools which will be used as venues for the GCE O-Level written examinations, will be Friday, 25 October 2024.</em>
-</p>
-<h4><strong>School Holidays for 2025</strong></h4>
+<h4><strong>School Vacation for 2025</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -81,7 +80,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Between Terms 1 and 2</p>
+<p>Between Terms 1 &amp; 2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sat 15 Mar to Sun 23 Mar</p>
@@ -150,7 +149,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>*Sun 30 Jun</p>
-<p><em>(ThefollowingMon1 Julwillbe aschoolholiday)</em>
+<p><em>(The following Mon 1 Jul will be a school holiday)</em>
 </p>
 </td>
 </tr>
@@ -164,9 +163,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Children’s Day
-<br><em>(for primary schools and primary sections of full schools only)</em>
-</p>
+<p>Children's Day</p>
+<p>(for primary schools and primary sections of full schools only)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Fri 3 Oct</p>
@@ -184,12 +182,12 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="3" colspan="1">
-<p><strong>&nbsp;</strong>
+<p><strong>Term 1</strong>
 </p>
-<p>Term 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>New Year’s Day</p>
+<p><strong>New Year’s Day</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mon 1 Jan</p>
@@ -197,7 +195,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>Chinese New Year</p>
+<p><strong>Chinese New Year</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sat 10 Feb</p>
@@ -212,10 +211,12 @@ variant: tiptap
 <td rowspan="4" colspan="1">
 <p><strong>&nbsp;</strong>
 </p>
-<p>Term 2</p>
+<p><strong>Term 2</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Good Friday</p>
+<p><strong>Good Friday</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Fri 29 Mar</p>
@@ -223,7 +224,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Hari Raya Puasa</p>
+<p><strong>Hari Raya Puasa</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wed 10 Apr</p>
@@ -231,7 +233,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Labour Day</p>
+<p><strong>Labour Day</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wed 1 May</p>
@@ -239,7 +242,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vesak Day</p>
+<p><strong>Vesak Day</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wed 22 May</p>
@@ -247,10 +251,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>Term 3</p>
+<p><strong>Term 3</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Hari Raya Haji</p>
+<p><strong>Hari Raya Haji</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mon 17 Jun</p>
@@ -258,7 +264,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National Day</p>
+<p><strong>National Day</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Fri 9 Aug</p>
@@ -266,10 +273,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>Term 4</p>
+<p><strong>Term 4</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Deepavali</p>
+<p><strong>Deepavali</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Thu 31 Oct</p>
@@ -277,7 +286,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Christmas Day</p>
+<p><strong>Christmas Day</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wed 25 Dec</p>
@@ -285,8 +295,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p><em>3 Mon, 12 Feb will be a public holiday and Tue, 13 Feb will be a school holiday and a designated day off-in-lieu. Schools will be closed, including the General Office, Student Care Centres and Kindergarten Care (KCare) Centres.</em>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
