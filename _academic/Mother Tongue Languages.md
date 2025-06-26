@@ -33,137 +33,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Shue Pei Yan</p>
+<p>Mr Tau Jun Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>VP</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:shue_pei_yan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shue_pei_yan@moe.edu.sg</a>
-</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Lin Yonglin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
+<p>SH (Chinese Language)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chinese, Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lin_yonglin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lin_yonglin@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Tao Ruijue</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chinese, Higher Chinese</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tao_ruijue@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tao_ruijue@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Tan Yong Xian</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chinese, Higher Chinese</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_yong_xian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yong_xian@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Wong Wei Ting</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chinese, Higher Chinese</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:wong_wei_ting_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_wei_ting_a@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Zhang Chuyi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chinese, Higher Chinese</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:zhang_chuyi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_chuyi@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Zhu Ruoye</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chinese, Higher Chinese</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:zhu_ruoye@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhu_ruoye@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Fu Huihui</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chinese, Higher Chinese</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:fu_huihui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fu_huihui@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Zhao Liying</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chinese, Higher Chinese</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:zhao_liying_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhao_liying_a@moe.edu.sg</a>
+<p><a href="mailto:Tau_Jun_Hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Tau_Jun_Hui@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -209,6 +88,156 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:amirah_syafiqah_latasa_abdul@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">amirah_syafiqah_latasa_abdul@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Tao Ruijue</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese, Higher Chinese</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tao_ruijue@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tao_ruijue@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Zhu Ruoye</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese, Higher Chinese</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:zhu_ruoye@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhu_ruoye@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Fu Huihui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese, Higher Chinese</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:fu_huihui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fu_huihui@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Zhang Chuyi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese, Higher Chinese</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:zhang_chuyi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_chuyi@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Wong Wei Ting</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese, Higher Chinese</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wong_wei_ting_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_wei_ting_a@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Zhao Liying</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese, Higher Chinese</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:zhao_liying_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhao_liying_a@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lin Yonglin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese, Higher Chinese</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lin_yonglin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lin_yonglin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Yong Xian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese, Higher Chinese</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_yong_xian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yong_xian@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Wah Sun Boy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Wah_Sun_Boy_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Wah_Sun_Boy_A@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Cheng Wanli</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Cheng_Wanli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Cheng_Wanli@moe.edu.sg</a>
 </p>
 </td>
 </tr>
