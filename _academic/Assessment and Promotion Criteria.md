@@ -249,9 +249,6 @@ Weighted Assessment (WA) and End-of-Year Examinations (EYE).</p>
 </table>
 <p>*Grades marked with asterisks are fail grades.</p>
 <p></p>
-<h5>Secondary 1</h5>
-<p><strong>To be updated</strong>
-</p>
 <h5>Secondary 2</h5>
 <ul data-tight="true" class="tight">
 <li>
