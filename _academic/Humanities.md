@@ -153,21 +153,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Goh Wei Xuan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Social Studies</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:goh_wei_xuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_wei_xuan@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Safura Zulkifly</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -198,16 +183,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Koh Cin Dee, Sylvelin</p>
+<p>Mr Goh Wei Xuan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Geography</p>
+<p>Social Studies</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:koh_cin_dee_sylvelin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_cin_dee_sylvelin@moe.edu.sg</a>
+<p><a href="mailto:goh_wei_xuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_wei_xuan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -228,21 +213,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms B Viveka</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Geography</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:B_viveka_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">B_viveka_A@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Karissa Chong</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -258,16 +228,46 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Wong Heng Yee</p>
+<p>Ms Koh Cin Dee, Sylvelin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>FAJT</p>
+<p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Geography</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wong_heng_yee_mrs@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_heng_yee_mrs@moe.edu.sg</a>
+<p><a href="mailto:koh_cin_dee_sylvelin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_cin_dee_sylvelin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms B Viveka</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Geography</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:B_viveka_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">B_viveka_A@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Petrie Ong, Yeow Wee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Geography</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Petrie_Ong_Yeow_Wee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Petrie_Ong_Yeow_Wee@moe.edu.sg</a>
 </p>
 </td>
 </tr>
