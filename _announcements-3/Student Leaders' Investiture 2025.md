@@ -213,8 +213,6 @@ young individuals</p>
 </tr>
 </tbody>
 </table>
-<p><strong><u>Additional Photos</u></strong>
-</p>
 <p>To view more photos, <a href="https://sites.google.com/moe.edu.sg/studentleadersinvestiture2025?usp=sharing" rel="noopener nofollow" target="_blank">click here</a>.</p>
 <p></p>
 <p></p>
