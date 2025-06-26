@@ -52,7 +52,7 @@ variant: tiptap
 <p>Mr James Koh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>YH</p>
+<p>YH (Upper Secondary)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lower Sec Science</p>
@@ -113,7 +113,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Abdul Ra'uf</p>
+<p>Mdm Lee Lay Peng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -123,23 +123,7 @@ variant: tiptap
 <p>Physics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:abdul_rauf_abdul_rahim_1@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">abdul_rauf_abdul_rahim_1@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Goh Peini</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lower Sec Science</p>
-<p>Upper Sec NT Science</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:goh_peini@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_peini@moe.edu.sg</a>
+<p><a href="mailto:lee_lay_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_lay_peng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -161,54 +145,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lam Yong Peng</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lower Sec Science</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lam_yong_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lam_yong_peng@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Lee Lay Peng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lower Sec Science</p>
-<p>Physics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lee_lay_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_lay_peng@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Leng Su Yee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lower Sec Science</p>
-<p>Biology</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:leng_su_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leng_su_yee@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Ophelia Kee</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -220,22 +156,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:kee_yijuan_ophelia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kee_yijuan_ophelia@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Sarah Tan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lower Sec Science</p>
-<p>Biology</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_khay_yi_sarah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_khay_yi_sarah@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -258,6 +178,38 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Lam Yong Peng</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower Sec Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lam_yong_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lam_yong_peng@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Leng Su Yee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower Sec Science</p>
+<p>Biology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:leng_su_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leng_su_yee@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Thenmozhi</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -269,6 +221,38 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:thenmozhi_nalathamby@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">thenmozhi_nalathamby@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Sarah Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower Sec Science</p>
+<p>Biology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_khay_yi_sarah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_khay_yi_sarah@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Abdul Ra'uf</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower Sec Science</p>
+<p>Physics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:abdul_rauf_abdul_rahim_1@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">abdul_rauf_abdul_rahim_1@moe.edu.sg</a>
 </p>
 </td>
 </tr>

@@ -109,7 +109,7 @@ third_nav_title: Craft & Technology
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Chan Choy Har</p>
+<p>Ms Tan Jing Sy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -118,7 +118,7 @@ third_nav_title: Craft & Technology
 <p>Art</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Chan_choy_har_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Chan_choy_har_a@moe.edu.sg</a>
+<p><a href="mailto:Tay_Jing_Sy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Tay_Jing_Sy@moe.edu.sg</a>
 </p>
 </td>
 </tr>
