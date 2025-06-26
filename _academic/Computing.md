@@ -40,6 +40,18 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Tan Yi Quan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH (ICT) (Int)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Tan_Yi_Quan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Tan_Yi_Quan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Teng Lip Koon</p>
 </td>
 <td rowspan="1" colspan="1">
