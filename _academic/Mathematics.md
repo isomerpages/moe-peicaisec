@@ -193,18 +193,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Soh Bee Keow (Mdm)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Soh_Bee_Keow@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Soh_Bee_Keow@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Shihui Melissa KOH (Mdm)</p>
 </td>
 <td rowspan="1" colspan="1">
