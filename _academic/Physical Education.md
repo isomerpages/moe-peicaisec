@@ -63,7 +63,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Adrian Tan</p>
+<p>Mark Koh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -72,7 +72,7 @@ variant: tiptap
 <p>Physical Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_kok_leong_adrian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_kok_leong_adrian@moe.edu.sg</a>
+<p><a href="mailto:Koh_ah_kheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Koh_ah_kheng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -93,7 +93,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mark Koh</p>
+<p>Adrian Tan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -102,13 +102,13 @@ variant: tiptap
 <p>Physical Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Koh_ah_kheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Koh_ah_kheng@moe.edu.sg</a>
+<p><a href="mailto:tan_kok_leong_adrian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_kok_leong_adrian@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lee Boon Kau</p>
+<p>Khairul Usman</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -117,7 +117,7 @@ variant: tiptap
 <p>Physical Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Lee_boon_kau_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Lee_boon_kau_a@moe.edu.sg</a>
+<p><a href="mailto:Khairul_Usman_Salim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Khairul_Usman_Salim@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -133,6 +133,21 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ang_ser_hui_mary@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_ser_hui_mary@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lee Boon Kau</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Physical Education</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Lee_boon_kau_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Lee_boon_kau_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
