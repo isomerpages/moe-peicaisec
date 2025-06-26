@@ -48,7 +48,7 @@ variant: tiptap
 <p>School Staff Developer Designate (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ng_si_ying@moe.edu.sg</a>
+<p><a href="mailto:ng_si_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_si_ying@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -99,7 +99,7 @@ variant: tiptap
 <p>SH (ICT) (Int)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tan_yi_quan@moe.edu.sg</a>
+<p><a href="mailto:tan_yi_quan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yi_quan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
