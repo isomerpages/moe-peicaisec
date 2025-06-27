@@ -580,7 +580,7 @@ a certain level of achievement at the above-mentioned platforms</p>
 <p><strong><u>Senior Category</u></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/CR_Sem1_25_2.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Achievements/CR_Sem1_25_2.jpg">
 </div>
 <p>&nbsp;</p>
 </td>
