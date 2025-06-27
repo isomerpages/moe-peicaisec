@@ -52,7 +52,7 @@ third_nav_title: Craft & Technology
 <p>Ms Kavitha Vythilingam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD (Character &amp; Citizenship Education)</p>
+<p>HOD (CCE)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Art</p>
