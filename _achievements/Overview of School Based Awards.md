@@ -38,7 +38,7 @@ passion, dedication and resilience.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Recognises and affirms students who have achieve outstanding results on
-a Semestral basis and demonstrated exemplary conduct</p>
+a Semestral basis and demonstrated exemplary conduct.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Presented at the end of Semester 1</p>
@@ -67,7 +67,7 @@ a Semestral basis and demonstrated exemplary conduct</p>
 <li>
 <p>Recognises and affirms Sec 4/5 students who have who have attained significant
 achievements in their respective CCAs and contributed to the running of
-the CCAs or to the school to his/her best ability</p>
+the CCAs or to the school to his/her best ability.</p>
 </li>
 </ul>
 <p></p>
