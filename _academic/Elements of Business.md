@@ -28,6 +28,18 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Soo Sio Koon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:soo_sio_koon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">soo_sio_koon@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Lee Yu Hui</p>
 </td>
 <td rowspan="1" colspan="1">
