@@ -33,10 +33,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Alvin Yeo</p>
+<p>Mr Alvin Yeo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD PE &amp; CCA</p>
+<p>HOD (PE &amp; CCA)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Physical Education</p>
@@ -48,10 +48,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Greg Ong</p>
+<p>Mr Greg Ong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD SM</p>
+<p>HOD (SM)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Physical Education</p>
@@ -63,7 +63,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mark Koh</p>
+<p>Mr Mark Koh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -78,7 +78,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Jonathan Seow</p>
+<p>Mr Jonathan Seow</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -93,7 +93,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Adrian Tan</p>
+<p>Mr Adrian Tan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -108,7 +108,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Khairul Usman</p>
+<p>Mr Khairul Usman</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -123,7 +123,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mary Ang</p>
+<p>Ms Mary Ang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -138,7 +138,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lee Boon Kau</p>
+<p>Mr Lee Boon Kau</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
