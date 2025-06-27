@@ -36,7 +36,7 @@ variant: tiptap
 <p>Mr Tau Jun Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH (Chinese Language)</p>
+<p>SH (CL)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chinese, Higher Chinese</p>
@@ -51,7 +51,7 @@ variant: tiptap
 <p>Ms Nur Syirain</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AYH (Int)</p>
+<p>AYH (Sec 3) (Int)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Malay, Higher Malay</p>
