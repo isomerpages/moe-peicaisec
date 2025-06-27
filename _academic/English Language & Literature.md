@@ -273,7 +273,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Petrie Ong, Yeow Wee</p>
+<p>Mr Petrie Ong Yeow Wee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
