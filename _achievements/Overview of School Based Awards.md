@@ -120,6 +120,8 @@ a certain level of achievement at the above-mentioned platforms</p>
 </tr>
 </tbody>
 </table>
+<hr>
+<p></p>
 <h3>2024</h3>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
