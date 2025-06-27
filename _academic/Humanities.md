@@ -93,7 +93,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Hana Syazwani Sulaiman</p>
+<p>Ms Hana Syazwani</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -108,7 +108,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Nur Zamir Md Yatim</p>
+<p>Mr Nur Zamir</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -198,7 +198,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Dewi Syaza Aminuddin</p>
+<p>Ms Dewi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -258,7 +258,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Petrie Ong, Yeow Wee</p>
+<p>Mr Petrie Ong Yeow Wee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
