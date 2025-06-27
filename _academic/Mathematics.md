@@ -31,7 +31,7 @@ variant: tiptap
 <p>Ms Novell Tham</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD (Math)</p>
+<p>HOD (Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tham_peck_fun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tham_peck_fun@moe.edu.sg</a>
