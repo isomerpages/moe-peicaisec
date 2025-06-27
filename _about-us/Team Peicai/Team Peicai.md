@@ -101,19 +101,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ng Si Ying</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>LH (Mathematics)</p>
-<p>School Staff Developer (Covering)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ng_si_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_si_ying@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Daphne Lim</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -229,6 +216,19 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:kavitha_vythilingam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kavitha_vythilingam@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Ng Si Ying</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LH (Mathematics)</p>
+<p>School Staff Developer (Covering)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_si_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_si_ying@moe.edu.sg</a>
 </p>
 </td>
 </tr>
