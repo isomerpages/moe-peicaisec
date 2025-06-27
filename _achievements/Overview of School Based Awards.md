@@ -4,7 +4,7 @@ permalink: /achievements/students/school-based-awards/
 description: ""
 variant: tiptap
 ---
-<h3>2025 Sem 1</h3>
+<h4>2025 Sem 1</h4>
 <h4>School-based Student Achievements</h4>
 <p></p>
 <p>In addition to awards such as EDUSAVE, ECHA and EAGLES, the school has
@@ -114,7 +114,7 @@ the CCAs or to the school to his/her best ability</p>
 </tbody>
 </table>
 <hr>
-<h3>2024</h3>
+<h4>2024</h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary></summary>
