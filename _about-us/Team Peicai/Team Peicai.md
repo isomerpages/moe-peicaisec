@@ -1454,7 +1454,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Soon Peng Seoh</p>
+<p>Mr Seoh Soon Peng</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>4C1</p>
