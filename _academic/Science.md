@@ -129,6 +129,22 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Abdul Ra'uf</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower Sec Science</p>
+<p>Physics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:abdul_rauf_abdul_rahim_1@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">abdul_rauf_abdul_rahim_1@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Han Lijun</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -173,6 +189,23 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tay_ning@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_ning@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Wong Poh Shen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower Sec Science</p>
+<p>Upper Sec NT Science</p>
+<p>Chemistry</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wong_poh_shen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_poh_shen@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -237,39 +270,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_khay_yi_sarah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_khay_yi_sarah@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Abdul Ra'uf</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lower Sec Science</p>
-<p>Physics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:abdul_rauf_abdul_rahim_1@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">abdul_rauf_abdul_rahim_1@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Wong Poh Shen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lower Sec Science</p>
-<p>Upper Sec NT Science</p>
-<p>Chemistry</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:wong_poh_shen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_poh_shen@moe.edu.sg</a>
 </p>
 </td>
 </tr>
