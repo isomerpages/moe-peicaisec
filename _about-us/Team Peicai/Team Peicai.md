@@ -225,7 +225,6 @@ variant: tiptap
 <p>Ms Kavitha Vythilingam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH (Aesthetics)</p>
 <p>HOD (CCE)</p>
 </td>
 <td rowspan="1" colspan="1">
