@@ -36,7 +36,7 @@ variant: tiptap
 <p>Mr Tau Jun Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH (Chinese Language)</p>
+<p>SH (CL)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chinese, Higher Chinese</p>
@@ -51,7 +51,7 @@ variant: tiptap
 <p>Ms Nur Syirain</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AYH (Int)</p>
+<p>AYH (Sec 3) (Int)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Malay, Higher Malay</p>
@@ -78,7 +78,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Amirah Syafiqah Latasa</p>
+<p>Ms Amirah Latasa</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -93,7 +93,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Tao Ruijue</p>
+<p>Ms Tao Ruijue</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -213,21 +213,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Wah Sun Boy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chinese</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Wah_Sun_Boy_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Wah_Sun_Boy_A@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Cheng Wanli</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -238,6 +223,21 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Cheng_Wanli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Cheng_Wanli@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Wah Sun Boy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Wah_Sun_Boy_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Wah_Sun_Boy_A@moe.edu.sg</a>
 </p>
 </td>
 </tr>

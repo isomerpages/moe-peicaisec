@@ -33,10 +33,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Lee Tey Ai Hoon</p>
+<p>Mrs Lee-Tey Ai Hoon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD Humanities</p>
+<p>HOD (Humanities)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Social Studies and History</p>
@@ -48,10 +48,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Jason Seng Yang Sun</p>
+<p>Mr Jason Seng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH Social Studies</p>
+<p>SH (Social Studies)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Social Studies and History</p>
@@ -93,7 +93,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Hana Syazwani Sulaiman</p>
+<p>Ms Hana Syazwani</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -108,7 +108,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Nur Zamir Md Yatim</p>
+<p>Mr Nur Zamir</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -198,7 +198,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Dewi Syaza Aminuddin</p>
+<p>Ms Dewi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -228,7 +228,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Koh Cin Dee, Sylvelin</p>
+<p>Ms Koh Cin Dee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -258,7 +258,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Petrie Ong, Yeow Wee</p>
+<p>Mr Petrie Ong Yeow Wee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>

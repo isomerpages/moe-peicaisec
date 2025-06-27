@@ -34,25 +34,10 @@ third_nav_title: Craft & Technology
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Kelvin Law</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD (Craft &amp; Technology)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>D&amp;T</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:law_wei_ming_kelvin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">law_wei_ming_kelvin@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Kavitha Vythilingam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD (Character &amp; Citizenship Education) Covering</p>
+<p>HOD (CCE)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Art</p>
@@ -94,7 +79,7 @@ third_nav_title: Craft & Technology
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Avery Kevyn Wee Reyes</p>
+<p>Ms Avery Wee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -109,7 +94,7 @@ third_nav_title: Craft & Technology
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Jing Sy</p>
+<p>Ms Tay Jing Sy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>

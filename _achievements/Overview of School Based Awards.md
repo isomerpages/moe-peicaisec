@@ -4,6 +4,7 @@ permalink: /achievements/students/school-based-awards/
 description: ""
 variant: tiptap
 ---
+<h4>2025 Sem 1</h4>
 <h4>School-based Student Achievements</h4>
 <p></p>
 <p>In addition to awards such as EDUSAVE, ECHA and EAGLES, the school has
@@ -36,31 +37,95 @@ passion, dedication and resilience.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Recognises and affirms students at each level who have achieved outstanding
-results on a Semestral basis and demonstrated exemplary conduct.</p>
-<p><strong>Semester 1</strong>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/CR_Sem1_25_1.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
+<p>Recognises and affirms students who have achieve outstanding results on
+a Semestral basis and demonstrated exemplary conduct.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Presented at the end of Semester 1</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Semester 1</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Principals List Sem 1 2025 A" src="/images/Achievements/Principals_List_Sem_1_2025_A.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CCA Colours Award (Senior Category)</strong>
+</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>Description of Awards</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Recognises and affirms Sec 4/5 students who have who have attained significant
+achievements in their respective CCAs and contributed to the running of
+the CCAs or to the school to his/her best ability.</p>
+</li>
+</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="CCA Colours awarda" src="/images/Achievements/CCA_Colours_Awards.jpg">
+</div>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Awards in the senior category are presented at the end of Semester 1</p>
+<p>&nbsp;</p>
+<p>Awards in the junior category are presented at the end of Semester 2</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Outstanding CCA Awards</strong>
+</p>
+</th>
+<th rowspan="1" colspan="2">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Outstanding CCA Awards" src="/images/Achievements/Outstanding_CCA_Awards.png">
+</div>
+</td>
+<td rowspan="1" colspan="2">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h4>2024</h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Principal’s Class of the Year Award</strong>
@@ -515,7 +580,7 @@ a certain level of achievement at the above-mentioned platforms</p>
 <p><strong><u>Senior Category</u></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/CR_Sem1_25_2.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Achievements/CR_Sem1_25_2.jpg">
 </div>
 <p>&nbsp;</p>
 </td>
@@ -1019,4 +1084,9 @@ in the Student Council</p>
 </tr>
 </tbody>
 </table>
+</div>
+</details>
+</div>
+<p></p>
+<p></p>
 <p></p>

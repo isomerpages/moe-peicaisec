@@ -34,21 +34,6 @@ third_nav_title: Craft & Technology
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Kelvin Law</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD (Craft &amp; Technology)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>D&amp;T</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:law_wei_ming_kelvin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">law_wei_ming_kelvin@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Chow May Yen</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -64,7 +49,7 @@ third_nav_title: Craft & Technology
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm R Sheela Malani</p>
+<p>Mrs Sheela Xavier</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -85,7 +70,7 @@ third_nav_title: Craft & Technology
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>FCE, EL</p>
+<p>FCE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ow_ju-lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ow_ju-lin@moe.edu.sg</a>
@@ -94,7 +79,7 @@ third_nav_title: Craft & Technology
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Nahya Yaqina Bte Yahya</p>
+<p>Ms Nahya Yaqina</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>

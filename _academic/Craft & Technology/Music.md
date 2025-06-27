@@ -34,36 +34,6 @@ third_nav_title: Craft & Technology
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Kelvin Law</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD (Craft &amp; Technology)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>D&amp;T</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:law_wei_ming_kelvin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">law_wei_ming_kelvin@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Kavitha Vythilingam</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD (Character &amp; Citizenship Education) Covering</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Art</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:kavitha_vythilingam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kavitha_vythilingam@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Tan Yan Chong</p>
 </td>
 <td rowspan="1" colspan="1">
