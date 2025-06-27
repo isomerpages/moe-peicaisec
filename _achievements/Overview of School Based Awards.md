@@ -63,6 +63,92 @@ results on a Semestral basis and demonstrated exemplary conduct.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>CCA Colours Award</strong>
+</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>Description of Awards</u>
+</p>
+<p>Individual Students that have:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>attained significant achievements in their respective CCAs</p>
+</li>
+<li>
+<p>contributed to the running of the CCAs or to the school to his/her best
+ability</p>
+</li>
+<li>
+<p>Represented school in zonal and/or national competitions and attained
+a certain level of achievement at the above-mentioned platforms</p>
+</li>
+</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CCA Colours awarda" src="/images/Achievements/CCA_Colours_Awards.jpg">
+</div>
+<p>&nbsp;</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Awards in the senior category are presented at the end of Semester 1</p>
+<p>&nbsp;</p>
+<p>Awards in the junior category are presented at the end of Semester 2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Outstanding CCA Awards</strong>
+</p>
+</th>
+<th rowspan="1" colspan="2">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="2">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<h3>2024</h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Principal’s Class of the Year Award</strong>
 </p>
 </td>
@@ -1019,4 +1105,7 @@ in the Student Council</p>
 </tr>
 </tbody>
 </table>
+</div>
+</details>
+</div>
 <p></p>
