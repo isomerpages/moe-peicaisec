@@ -84,7 +84,7 @@ variant: tiptap
 <p>Mr Gerard Yong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH (Student Management)</p>
+<p>SH (SM)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lower Sec Science</p>
