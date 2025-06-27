@@ -206,19 +206,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nasreen Shahitha</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nagutha_shahitha_nasreen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nagutha_shahitha_nasreen@moe.edu.sg</a>
-</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Andy Chee</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -232,7 +219,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Soon Peng Seoh</p>
+<p>Mr Seoh Soon Peng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -258,6 +245,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Nasreen Shahitha</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nagutha_shahitha_nasreen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nagutha_shahitha_nasreen@moe.edu.sg</a>
+</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Lim Jit Chong</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -267,6 +267,18 @@ variant: tiptap
 <p><a href="mailto:lim_jit_chong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_jit_chong@moe.edu.sg</a>
 </p>
 <p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Ching Teng Hong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Ching_Teng_Hong_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ching_Teng_Hong_A@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
