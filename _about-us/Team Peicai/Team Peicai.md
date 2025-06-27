@@ -226,7 +226,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>SH (Aesthetics)</p>
-<p>HOD (CCE) (Covering)</p>
+<p>HOD (CCE)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:kavitha_vythilingam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kavitha_vythilingam@moe.edu.sg</a>
