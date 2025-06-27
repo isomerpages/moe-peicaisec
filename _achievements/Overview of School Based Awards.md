@@ -36,9 +36,8 @@ passion, dedication and resilience.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Recognises and affirms students at each level who have achieved outstanding
-results on a Semestral basis and demonstrated exemplary conduct.</p>
-<p></p>
+<p>Recognises and affirms students who have achieve outstanding results on
+a Semestral basis and demonstrated exemplary conduct</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Presented at the end of Semester 1</p>
@@ -56,25 +55,18 @@ results on a Semestral basis and demonstrated exemplary conduct.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>CCA Colours Award</strong>
+<p><strong>CCA Colours Award (Senior Category)</strong>
 </p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><u>Description of Awards</u>
 </p>
-<p>Individual Students that have:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>attained significant achievements in their respective CCAs</p>
-</li>
-<li>
-<p>contributed to the running of the CCAs or to the school to his/her best
-ability</p>
-</li>
-<li>
-<p>Represented school in zonal and/or national competitions and attained
-a certain level of achievement at the above-mentioned platforms</p>
+<p>Recognises and affirms Sec 4/5 students who have who have attained significant
+achievements in their respective CCAs and contributed to the running of
+the CCAs or to the school to his/her best ability</p>
 </li>
 </ul>
 <p></p>
