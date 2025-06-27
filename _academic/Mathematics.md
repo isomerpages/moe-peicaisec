@@ -105,7 +105,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Kalpana Prakash Otharam</p>
+<p>Mrs Kalpana Ram</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -118,7 +118,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Huang Kaiting Rachel</p>
+<p>Ms Rachel Huang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -156,7 +156,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Mee Yen Doris</p>
+<p>Ms Doris Tan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -193,7 +193,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Shihui Melissa KOH</p>
+<p>Ms Melissa Koh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -219,7 +219,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chee Khuen Woei</p>
+<p>Mr Andy Chee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -245,7 +245,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Mohamad Sharizan Abu Bakar</p>
+<p>Mr Mohamad Sharizan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
