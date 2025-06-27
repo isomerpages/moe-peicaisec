@@ -64,7 +64,7 @@ third_nav_title: Craft & Technology
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Prem S/O Pirapala Chandran</p>
+<p>Mr Prem Chandran</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -94,10 +94,10 @@ third_nav_title: Craft & Technology
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Johari Bin Ahmad</p>
+<p>Mr Johari Ahmad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>STEM Instructor</p>
+<p>STEM Instructor (Workshop)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
@@ -109,10 +109,10 @@ third_nav_title: Craft & Technology
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Mohamed Hafiz Bin Mohamed Alwi</p>
+<p>Mr Hafiz Alwi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>STEM Instructor</p>
+<p>STEM Instructor (Workshop)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
