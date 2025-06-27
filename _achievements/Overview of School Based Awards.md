@@ -79,7 +79,7 @@ a certain level of achievement at the above-mentioned platforms</p>
 </ul>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="CCA Colours awarda" src="/images/Achievements/CCA_Colours_Awards.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="CCA Colours awarda" src="/images/Achievements/CCA_Colours_Awards.jpg">
 </div>
 <p>&nbsp;</p>
 </td>
