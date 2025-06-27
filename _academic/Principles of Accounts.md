@@ -31,8 +31,7 @@ description: ""
 <p>Mdm Soo Sio Koon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Teacher</strong>
-</p>
+<p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:soo_sio_koon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">soo_sio_koon@moe.edu.sg</a>
@@ -41,24 +40,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Soh Bee Keow</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Teacher</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:soh_bee_keow@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">soh_bee_keow@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Lee Yu Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Teacher</strong>
-</p>
+<p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_yu_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_yu_hui@moe.edu.sg</a>
