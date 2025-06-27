@@ -64,7 +64,7 @@ third_nav_title: Craft & Technology
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm R Sheela Xavier</p>
+<p>Ms Sheela Xavier</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -94,7 +94,7 @@ third_nav_title: Craft & Technology
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Nahya Yaqina Bte Yahya</p>
+<p>Ms Nahya Yaqina</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
