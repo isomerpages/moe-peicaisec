@@ -198,6 +198,81 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Petrie Ong Yeow Wee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Petrie_Ong_Yeow_Wee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Petrie_Ong_Yeow_Wee@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nicolette Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Tan_Jia_Yi_Nicolette@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Tan_Jia_Yi_Nicolette@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nahya Yaqina</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nur_nahya_yaqina_yahya@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_nahya_yaqina_yahya@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Danapal Rajalakshmi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:R_Danapal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">R_Danapal@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Clement Vijayalakshmi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:clement_vijayalakshmi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">clement_vijayalakshmi@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Grace Lee</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -273,51 +348,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Petrie Ong Yeow Wee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>English Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Petrie_Ong_Yeow_Wee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Petrie_Ong_Yeow_Wee@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Nicolette Tan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>English Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Tan_Jia_Yi_Nicolette@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Tan_Jia_Yi_Nicolette@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Nahya Yaqina</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>English Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nur_nahya_yaqina_yahya@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_nahya_yaqina_yahya@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Loh Ngin Guek Angela</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -328,36 +358,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Loh_Ngin_Guek_Angela@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Loh_Ngin_Guek_Angela@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Danapal Rajalakshmi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>English Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:R_Danapal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">R_Danapal@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Clement Vijayalakshmi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>English Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:clement_vijayalakshmi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">clement_vijayalakshmi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
