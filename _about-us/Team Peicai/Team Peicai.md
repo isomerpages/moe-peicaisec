@@ -1069,7 +1069,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Jacelyn Tan</p>
+<p>Mrs Jacelyn Liu</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Jacelyn_Tan_Mei_Ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Jacelyn_Tan_Mei_Ying@moe.edu.sg</a>
@@ -1455,7 +1455,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Seoh Soon Peng</p>
+<p>s</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>4C1</p>
@@ -1856,7 +1856,7 @@ variant: tiptap
 <p>ICT Associate</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="null" rel="noopener nofollow" target="_blank">ong_jun_qi_victor_a@moe.edu.sg</a>
+<p><a href="mailto:ong_jun_qi_victor_a@moe.edu.sg" rel="noopener nofollow" target="_blank">ong_jun_qi_victor_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
