@@ -95,7 +95,7 @@ third_nav_title: Craft & Technology
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Avery Kevyn Wee Reyes</p>
+<p>Ms Avery Wee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -110,7 +110,7 @@ third_nav_title: Craft & Technology
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Jing Sy</p>
+<p>Ms Tay Jing Sy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
