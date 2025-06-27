@@ -250,7 +250,7 @@ variant: tiptap
 <p>Mr Tau Jun Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH (SL)</p>
+<p>SH (CL)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Tau_Jun_Hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Tau_Jun_Hui@moe.edu.sg</a>
