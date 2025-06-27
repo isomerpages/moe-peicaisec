@@ -85,7 +85,7 @@ third_nav_title: Craft & Technology
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>FCE, EL</p>
+<p>FCE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ow_ju-lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ow_ju-lin@moe.edu.sg</a>
