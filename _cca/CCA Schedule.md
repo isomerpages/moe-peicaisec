@@ -29,7 +29,18 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2025_Weekly_CCA_Schedule_and_TICs__Full_Info_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/cca_sched_25_1.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/cca_sched_25_2.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
