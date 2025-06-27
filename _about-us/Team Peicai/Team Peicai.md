@@ -872,22 +872,22 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Leng Su Yee</p>
+<p>Mr Chua Jing Kai</p>
 </td>
 <td rowspan="3" colspan="1">
 <p>2 CN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:leng_su_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leng_su_yee@moe.edu.sg</a>
+<p><a href="mailto:chua_jing_kai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_jing_kai@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chua Jing Kai</p>
+<p>Ms Leng Su Yee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chua_jing_kai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_jing_kai@moe.edu.sg</a>
+<p><a href="mailto:leng_su_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leng_su_yee@moe.edu.sg</a>
 </p>
 </td>
 </tr>
