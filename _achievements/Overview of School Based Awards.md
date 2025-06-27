@@ -121,7 +121,6 @@ a certain level of achievement at the above-mentioned platforms</p>
 </tbody>
 </table>
 <hr>
-<p></p>
 <h3>2024</h3>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -1095,7 +1094,6 @@ in the Student Council</p>
 </div>
 </details>
 </div>
-<p></p>
 <p></p>
 <p></p>
 <p></p>
