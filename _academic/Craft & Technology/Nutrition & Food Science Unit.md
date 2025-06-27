@@ -64,7 +64,7 @@ third_nav_title: Craft & Technology
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm R Sheela Malani</p>
+<p>Mdm R Sheela Xavier</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
