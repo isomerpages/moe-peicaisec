@@ -577,8 +577,8 @@ related electronic devices should be switched off and kept out-of-sight.</p>
 <p>Venues where personal and non-PDLP electronic devices may be used</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Venues where personal and non-PDLP electronic devices are not to be used
-at all times</p>
+<p>Venues where personal and non-PDLP electronic devices are <strong><u>not to be used at all times</u></strong>
+</p>
 <p>(permission must be obtained from teachers)</p>
 <p></p>
 </td>
