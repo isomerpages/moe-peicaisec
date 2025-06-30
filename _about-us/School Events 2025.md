@@ -4,6 +4,287 @@ permalink: /school-events-2025/
 variant: tiptap
 description: ""
 ---
+<h4><strong>Mid-Year SWAP for Secondary 3 students</strong></h4>
+<p><strong>SWAP@Peicai: A Glimpse into the Working World</strong>
+</p>
+<p>From 3 to 5 June 2025, selected Secondary 3 students took part in our
+school’s distinctive programme, SWAP@Peicai. This initiative provided students
+with a unique opportunity to step outside the classroom and experience
+a short job attachment with various external organisations.</p>
+<p>Students were attached to reputable organisations such as Gain City, the
+National Library Board (NLB), Yishun Health, Blood Bank@Punggol and A*STAR.
+Through these placements, they observed the day-to-day operations across
+different industries — from retail and public service to healthcare and
+scientific research. These experiences gave them a deeper understanding
+of the working world and helped them appreciate the skills and values needed
+in different professional environments.</p>
+<p>SWAP@Peicai continues to be a meaningful and eye-opening experience, encouraging
+students to explore potential career interests and reflect on their aspirations
+for the future.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aboutus/MidYr_SWAP_25_1.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Students at A*Star job experience</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aboutus/MidYr_SWAP_25_2.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Students who attended SWAP at Gain City had the opportunity to understand
+how retail and e-commerce works.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aboutus/MidYr_SWAP_25_3.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Our students also had the opportunity to support NLB’s initiative of building
+a reading and book recommendation wall at Serangoon Public Library.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Celebration &amp; Recognition Day, Semester 1 2025</strong></h4>
+<p>On 30 May 2025, the last day of Semester 1, the school came together to
+celebrate our bi-annual Celebration &amp; Recognition Day. This was a day
+where students from various levels were commended for their academic and
+non-academic achievements.</p>
+<p>In the area of academic achievements, 2 different awards were given out:
+the All-Round Excellence Award as well as the Principal’s List Award. Alumni
+Class of 2024 were invited back to Peicai where the school recognized and
+celebrated their performance in the GCE N and O level examinations and
+their holistic achievements in the school. The Outstanding Student of the
+Year Award for 2024 was also given out during this ceremony where alumni
+Pang Jing Ying was recognized for her exemplary character, holistic achievements
+and outstanding contributions in school.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aboutus/CR_Day_Sem1_25_1.jpg">
+</div>
+</th>
+<td rowspan="1" colspan="1">
+<p>Outstanding Student of the Year 2024, Pang Jing Ying, delivering her speech</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aboutus/CR_Day_Sem1_25_2.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Class of 2024 Alumni awardees with our school leaders</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Additionally, the Principal’s List, the most prestigious academic award
+in the school, was also awarded to students from the Secondary 1 to 5 levels.
+It was introduced in 2022 to both recognize and commend students for their
+outstanding academic performance in the examinations. Award recipients
+would have had to demonstrate exemplary conduct to be an awardee of the
+Principal’s List. In addition to motivating the students, it is the school’s
+hope that the students on the Principal’s List would also be an inspiration
+to the student body that nothing is impossible with discipline and hardwork.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aboutus/CR_Day_Sem1_25_3.jpg">
+</div>
+</th>
+<td rowspan="1" colspan="1">
+<p>Secondary 1 Principal’s List awardees</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff_Awards_2024__4_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Secondary 2 Principal’s List awardees</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aboutus/CR_Day_Sem1_25_5.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Secondary 3 Principal’s List awardees</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aboutus/CR_Day_Sem1_25_6.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Secondary 4 Principal’s List awardees</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Students were also awarded for their contributions in non-academic areas
+such as CCAs. The ceremony witnessed a host of students in the senior category
+who clinched awards in the following areas:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>PCSS Outstanding Contributor of the Year (Senior Category)</p>
+</li>
+<li>
+<p>PCSS Outstanding Performer of the Year (Senior Category)</p>
+</li>
+<li>
+<p>PCSS Outstanding Cadet of the Year (Senior Category)</p>
+</li>
+<li>
+<p>PCSS Sports Girl and Boy of the Year (Senior Category)</p>
+</li>
+<li>
+<p>CCA Colours Awards (Senior Category)</p>
+</li>
+</ul>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aboutus/CR_Day_Sem1_25_7.jpg">
+</div>
+</th>
+<td rowspan="1" colspan="1">
+<p>PCSS CCA awardees (Senior Category)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Besides students, teaching and non-teaching staff were also recognised
+and celebrated for their continued contribution and dedication to the MOE
+and Peicai alike. Recipients who served anywhere form 5 years to 25 years
+were given the MOE Long Service Award and/or the Peicai Long Service Award.</p>
+<p>Celebration and Recognition Day also saw the Concert Band and Modern Dance
+perform their SYF pieces. The Concert Band opened C&amp;R Day with Overture
+No. 1 a dynamic and engaging work which was composed in 2009, for Wind
+Band by Singaporean composer Kelly Tang. The Modern Dance performed their
+SYF piece entitled “To Be Free” which explored the human struggle for liberation
+against oppression.</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aboutus/CR_Day_Sem1_25_8.jpg">
+</div>
+</th>
+<td rowspan="1" colspan="1">
+<p>Modern Dance performing their SYF piece “To Be Free”</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aboutus/CR_Day_Sem1_25_9.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Concert Band performing “Overture No. 1”</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>In the final segment of C&amp;R Day, Principal Mr Michael delivered his
+Principal’s address which not only served to inspire students but to also
+reinforce the values and goals which all Peicai students aim to achieve.</p>
+<p></p>
 <h4><strong>G2G Brunei School Exchange Programme 2025 – A Celebration of Cultural and Educational Bonds</strong></h4>
 <p>23 May 2025 marked the conclusion of the G2G Brunei School Exchange Programme,
 a five-day immersive experience (from 19 – 23 May 2025) that brought together
