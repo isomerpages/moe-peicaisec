@@ -14,6 +14,7 @@ sections:
       button: Click here to find out more
       url: /26-int-elemz-fair-45cbpaul-sci-quiz-25/
       image: /images/Announcement/26Int_45CBPaul_SciQ25_1.jpg
+      alt: img
   - infopic:
       title: G2G Brunei School Exchange Programme 2025
       id: infopic
