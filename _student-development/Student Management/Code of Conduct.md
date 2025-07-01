@@ -167,7 +167,6 @@ school uniform shorts/pants/skirt.</p>
 <td rowspan="1" colspan="1">
 <p>• Prescribed school uniform</p>
 <p>• PE/CCA/Class T-shirt with school shorts / pants / skirts / PE shorts</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -186,14 +185,6 @@ school uniform shorts/pants/skirt.</p>
 <td rowspan="1" colspan="1">
 <p>• PE/Class/CCA T-shirt with school shorts/pants/ skirts (Only eligible
 classes are allowed to wear school-based class or CCA T-shirt on Friday)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
