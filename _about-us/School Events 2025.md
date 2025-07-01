@@ -154,7 +154,7 @@ to the student body that nothing is impossible with discipline and hardwork.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff_Awards_2024__4_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aboutus/CR_Day_Sem1_25_4.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
