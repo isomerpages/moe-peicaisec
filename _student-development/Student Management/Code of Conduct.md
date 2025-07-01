@@ -192,7 +192,7 @@ classes are allowed to wear school-based class or CCA T-shirt on Friday)</p>
 </table>
 <ol start="6" data-tight="true" class="tight">
 <li>
-<p>6. All students are expected to be in the prescribed school attire every
+<p>All students are expected to be in the prescribed school attire every
 day, which is half uniform (PE T-shirt with school uniform shorts/pants/skirt).
 Students with the incorrect attire start of the school day will need to
 be in the correct attire before being allowed back to class. To avoid any
@@ -808,7 +808,6 @@ and will therefore face a consequence during the school’s follow-up actions.</
 <th rowspan="1" colspan="1">
 <p>Possible Corrective</p>
 <p>&amp; Disciplinary Actions</p>
-<p></p>
 </th>
 </tr>
 <tr>
