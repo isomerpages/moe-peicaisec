@@ -99,7 +99,8 @@ school uniform shorts/pants/skirt.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PE attire</p>
-<p>Students must wear the school PE t-shirt and PE shorts for all PE lessons</p>
+<p>&gt;Students must wear the school PE t-shirt and PE shorts for all PE
+lessons</p>
 </td>
 </tr>
 <tr>
