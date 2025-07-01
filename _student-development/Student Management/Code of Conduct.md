@@ -83,28 +83,34 @@ otherwise specified) is as follows:</p>
 <p>(excluding days with PE lessons)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Prescribed school uniform</p>
+<p>• Prescribed school uniform</p>
 <p>&gt;Shirt and shorts for lower secondary boys</p>
 <p>&gt;Shirt and pants for upper secondary boys</p>
-<p>&gt;Blouse and skirtsforbothupperand lower secondarygirls</p>
+<p>&gt;Blouse and skirts for both upper and lower secondary girls</p>
+<p>Note: In view of the warm weather, the school has made allowance for students
+to be in half uniform daily, where half uniform refers to PE T-shirt with
+school uniform shorts/pants/skirt.</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Days with PE lessons</p>
+<p>PE lessons</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PE attire</p>
-<p>Students must wear the school PE t-shirt and shorts for all PE lessons</p>
+<p>&gt;Students must wear the school PE t-shirt and PE shorts for all PE
+lessons</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>School functions
-<br>e.g. Speech Day</p>
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Prescribed school uniform</p>
+<p>• Prescribed full school uniform only (unless otherwise informed)</p>
 </td>
 </tr>
 <tr>
@@ -112,7 +118,7 @@ otherwise specified) is as follows:</p>
 <p>Examinations</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Prescribed school uniform (unless informed of any changes)</p>
+<p>• Prescribed full school uniform (unless otherwise informed)</p>
 </td>
 </tr>
 <tr>
@@ -120,8 +126,8 @@ otherwise specified) is as follows:</p>
 <p>Inter-class Games</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PE attire</p>
-<p>Class/CCAT-shirtswithPEshorts</p>
+<p>• PE attire</p>
+<p>• Class/CCA T-shirts with PE shorts</p>
 </td>
 </tr>
 <tr>
@@ -129,10 +135,11 @@ otherwise specified) is as follows:</p>
 <p>School Excursions &amp; Learning Journeys</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Depending on the nature of activity,</p>
+<p>• Depending on the nature of activity, as informed by Teacher I/C</p>
 <p>&gt;Prescribed school uniform</p>
 <p>&gt;PE attire</p>
-<p>ClassT-shirtwithschoolshorts / pants / skirts/ PE shorts</p>
+<p>&gt;Class T-shirt with school shorts / pants / skirts/ PE shorts</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -140,18 +147,9 @@ otherwise specified) is as follows:</p>
 <p>Saturdays &amp; School Holidays</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PE attire</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PE/CCA/Class T-shirt with school
-shorts /pants / skirt / PE shorts</p>
-<p>Shoes and socks (no slippers allowed)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>School Events / Activities</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Attire</p>
+<p>• PE attire</p>
+<p>• PE/CCA/Class T-shirt with school shorts /pants / skirt / PE shorts</p>
+<p>• Shoes and socks (no slippers allowed)</p>
 </td>
 </tr>
 <tr>
@@ -159,8 +157,8 @@ shorts /pants / skirt / PE shorts</p>
 <p>Physical activities and in the Gym</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PE attire</p>
-<p>CCA/ClassT-shirtwithPEshorts</p>
+<p>• PE attire</p>
+<p>• CCA/Class T-shirt with PE shorts</p>
 </td>
 </tr>
 <tr>
@@ -168,9 +166,8 @@ shorts /pants / skirt / PE shorts</p>
 <p>Night Study Programme /Consultations</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Prescribed school uniform</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PE attire</p>
-<p>PE/CCA/ClassT-shirtwithschool shorts / pants / skirts / PE shorts</p>
+<p>• Prescribed school uniform</p>
+<p>• PE/CCA/Class T-shirt with school shorts / pants / skirts / PE shorts</p>
 </td>
 </tr>
 <tr>
@@ -178,7 +175,7 @@ shorts /pants / skirt / PE shorts</p>
 <p>Co-curricular Activities (CCA)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CCA Attire / CCA T-shirts/PE shorts / school shorts / pants / skirts</p>
+<p>• CCA Attire / CCA T-shirts/PE shorts / school shorts / pants / skirts</p>
 </td>
 </tr>
 <tr>
@@ -187,109 +184,20 @@ shorts /pants / skirt / PE shorts</p>
 <br>(except during the examination periods)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>PE/Class/CCA T-shirt with PE shorts / school shorts / pants/ skirts (This
-is a privilege that will be reviewed by the school when necessary)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>• PE/Class/CCA T-shirt with school shorts/pants/ skirts (Only eligible
+classes are allowed to wear school-based class or CCA T-shirt on Friday)</p>
 </td>
 </tr>
 </tbody>
 </table>
 <ol start="6" data-tight="true" class="tight">
 <li>
-<p>All students are expected to be in the prescribed school attire on days
-without PE. The following table summarises the follow-up actions to be
-taken should a student be inappropriately attired.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>Offence Number</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Possible Corrective <br>&amp; Disciplinary Actions</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1<sup>st</sup> offence</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1.&nbsp;&nbsp;&nbsp; Verbal warning to student</p>
-<p>2.&nbsp;&nbsp;&nbsp; Parent of student will be informed</p>
-<p>3.&nbsp;&nbsp;&nbsp; Advisory letter will be issued</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2<sup>nd</sup> offence</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1.&nbsp;&nbsp;&nbsp; Parent of student will be informed of 2<sup>nd</sup> offence</p>
-<p>2.&nbsp;&nbsp;&nbsp; Student to make rectifications* by either</p>
-<p>a)&nbsp;&nbsp;&nbsp; purchasing the correct attire from the bookshop,
-or,</p>
-<p>b)&nbsp;&nbsp;&nbsp; have a family member deliver the correct attire from
-home</p>
-<p>3.&nbsp;&nbsp;&nbsp; 1<sup>st</sup> Warning letter will be issued</p>
-<p>*Note: a student will only be allowed to join in classes upon rectification
-of incorrect attire.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3<sup>rd</sup> offence</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1.&nbsp;&nbsp;&nbsp; Parent of student will be informed of 3<sup>rd</sup> offence</p>
-<p>2.&nbsp;&nbsp;&nbsp; Student to make rectifications* by either</p>
-<p>a)&nbsp;&nbsp;&nbsp; purchasing the correct attire from the bookshop,
-or,</p>
-<p>b)&nbsp;&nbsp;&nbsp; have a family member deliver the correct attire from
-home</p>
-<p>3.&nbsp;&nbsp;&nbsp; Final Warning letter will be issued</p>
-<p>4.&nbsp;&nbsp;&nbsp; Recorded as an offence</p>
-<p>5.&nbsp;&nbsp;&nbsp; Student is to report in full school uniform every
-day for a specified period</p>
-<p>&nbsp;</p>
-<p>*Note: a student will only be allowed to join in classes upon rectification
-of incorrect attire.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4<sup>th</sup> offence</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1.&nbsp;&nbsp;&nbsp; Parent will be informed of 4<sup>th</sup> offence
-and a meeting with the parent will be scheduled in school</p>
-<p>2.&nbsp;&nbsp;&nbsp; Student to make rectifications* by either</p>
-<p>a)&nbsp;&nbsp;&nbsp; purchasing the correct attire from the bookshop,
-or,</p>
-<p>b)&nbsp;&nbsp;&nbsp; have a family member deliver the correct attire from
-home</p>
-<p>3.&nbsp;&nbsp;&nbsp; Student will need to report to school in full school
-uniform daily till further notice.</p>
-<p>4.&nbsp;&nbsp;&nbsp; Recorded as an offence and will affect Conduct Grade</p>
-<p>&nbsp;</p>
-<p>*Note: a student will only be allowed to join in classes if the student
-is in the correct attire</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p>6. All students are expected to be in the prescribed school attire every
+day, which is half uniform (PE T-shirt with school uniform shorts/pants/skirt).
+Students with the incorrect attire start of the school day will need to
+be in the correct attire before being allowed back to class. To avoid any
+disruption to lessons, students should ensure that they are in the correct
+prescribed attire at the start of the school day.</p>
 </li>
 </ol>
 <h4>APPEARANCE</h4>
@@ -661,8 +569,8 @@ related electronic devices should be switched off and kept out-of-sight.</p>
 <p>Venues where personal and non-PDLP electronic devices may be used</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Venues where personal and non-PDLP electronic devices are not to be used
-at all times</p>
+<p>Venues where personal and non-PDLP electronic devices are <strong><u>not to be used at all times</u></strong>
+</p>
 <p>(permission must be obtained from teachers)</p>
 <p></p>
 </td>
@@ -1072,11 +980,6 @@ clarify existing rules and corrective actions.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <p></p>
 <p></p>
 <p></p>
