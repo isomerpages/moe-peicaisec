@@ -80,7 +80,6 @@ otherwise specified) is as follows:</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Daily</p>
-<p>(excluding days with PE lessons)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>• Prescribed school uniform</p>
