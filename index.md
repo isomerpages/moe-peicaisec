@@ -9,6 +9,25 @@ sections:
   - hero:
       background: /images/Main_Banner_Main_1B3.jpg
   - infopic:
+      title: PCSS U-15 Women's Softball World Cup
+      id: infopic
+      description: Peicai’s very own National U-15 Softball Outfielder, 3PN’s Jaelyn
+        Tan, has experienced being fielded for 3 games at the U-15 World Cup
+        held in Legnano, Italy...
+      button: Click here to find out more
+      url: https://www.instagram.com/peicai_official/p/DLoDzZ3zGI0/
+      image: /images/Announcement/PCSS_U15_World_Cup_25.jpg
+      alt: Picture
+  - infopic:
+      title: Mighty Mousetrap Car Challenge 2025
+      id: infopic
+      description: Our DT unit supported two teams of students in today’s competition
+        hosted by SJI, after weeks of preparation that began on 15 April...
+      button: Click here to find out more
+      url: https://www.instagram.com/peicai_official/p/DLn-H8Bzl-R/
+      image: /images/Announcement/Mighty_Mousetrap_Car_Challenge_25.jpg
+      alt: Picture
+  - infopic:
       title: 26th Int'l Elementz Fair & 45th C B Paul Science Quiz 25
       id: infopic
       button: Click here to find out more
