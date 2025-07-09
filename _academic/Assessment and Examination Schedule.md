@@ -13,11 +13,23 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<th rowspan="1" colspan="1">
 <p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 1 WA3 Schedule</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://go.gov.sg/pcss-eye-schedule-s1" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pcss-eye-schedule-s1</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -25,8 +37,31 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Sec 4/5</strong>
+<p>EYE Sec 2:Sec 2 WA3 Schedule</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/pcss-eye-schedule-s2" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pcss-eye-schedule-s2</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 3 WA3 Schedule</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/pcss-eye-schedule-s3" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pcss-eye-schedule-s3</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 4/5 WA2 Schedule</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -54,84 +89,6 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><a href="https://go.gov.sg/pcss-o-prelim-schedule" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pcss-o-prelim-schedule</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>EYE Sec 1:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/pcss-eye-schedule-s1" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pcss-eye-schedule-s1</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>EYE Sec 2:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/pcss-eye-schedule-s2" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pcss-eye-schedule-s2</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>EYE Sec 3:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/pcss-eye-schedule-s3" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pcss-eye-schedule-s3</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
