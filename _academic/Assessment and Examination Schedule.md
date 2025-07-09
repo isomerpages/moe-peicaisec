@@ -37,7 +37,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>EYE Sec 2:Sec 2 WA3 Schedule</p>
+<p>Sec 2 WA3 Schedule</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://go.gov.sg/pcss-eye-schedule-s2" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pcss-eye-schedule-s2</a>
