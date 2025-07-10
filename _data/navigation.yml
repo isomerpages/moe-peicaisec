@@ -27,6 +27,8 @@ links:
         url: /about-us/media-press-release
       - title: Contact Us
         url: /about-us/contact-us
+      - title: New Facilities
+        url: /about-us/new-facilities
   - title: Academic
     url: /academic/subjects-offered
     sublinks:
