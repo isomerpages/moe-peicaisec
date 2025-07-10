@@ -15,7 +15,7 @@ description: ""
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="The Sphere" src="/images/Announcement/The_Sphere_copy.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="The Sphere" src="/images/Announcement/The_Sphere_copy.jpg">
 </div>
 <p></p>
 <p></p>
