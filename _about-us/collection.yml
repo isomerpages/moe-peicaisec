@@ -2,8 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - New Facilities/New Facilities.md
-      - New Facilities/.keep
       - Principal’s Message.md
       - School History.md
       - School Crest and Song.md
@@ -14,6 +12,8 @@ collections:
       - Team Peicai/School Advisory Committee (SAC).md
       - Team Peicai/Parent Support Group (PSG).md
       - Corporate Video.md
+      - New Facilities/.keep
+      - New Facilities/New Facilities.md
       - School Events 2025.md
       - School Events 2024.md
       - School Events 2023.md
