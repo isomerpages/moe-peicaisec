@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - New Facilities/New Facilities.md
       - New Facilities/.keep
       - Principal’s Message.md
       - School History.md
