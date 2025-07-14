@@ -4,9 +4,7 @@ permalink: /about-us/new-facilities/
 variant: tiptap
 description: ""
 ---
-<p></p>
 <h1><strong>The Cove</strong></h1>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="The Cove" src="/images/Aboutus/The_Cove.jpg">
