@@ -4,7 +4,7 @@ permalink: /assessment-and-examination-schedule/
 variant: tiptap
 description: ""
 ---
-<h4><strong>2025 WA/Exam Schedules Hyperlinks:</strong></h4>
+<h4><strong>2025 EYE/Exam Schedules Hyperlinks:</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -25,7 +25,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sec 1 WA3 Schedule</p>
+<p>Sec 1 EYE Schedule</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://go.gov.sg/pcss-eye-schedule-s1" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pcss-eye-schedule-s1</a>
@@ -37,7 +37,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sec 2 WA3 Schedule</p>
+<p>Sec 2 EYE Schedule</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://go.gov.sg/pcss-eye-schedule-s2" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pcss-eye-schedule-s2</a>
@@ -49,7 +49,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sec 3 WA3 Schedule</p>
+<p>Sec 3 EYE Schedule</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://go.gov.sg/pcss-eye-schedule-s3" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pcss-eye-schedule-s3</a>
