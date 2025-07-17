@@ -23,7 +23,7 @@ description: ""
 <p>2025 WA3 Sec 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/pcss-wa3-schedule-s1" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pcss-wa3-schedule-s1 </a>
+<p><a href="https://go.gov.sg/pcss-wa3-schedule-s1" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pcss-wa3-schedule-s1</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
