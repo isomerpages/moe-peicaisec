@@ -4,7 +4,7 @@ permalink: /assessment-and-examination-schedule/
 variant: tiptap
 description: ""
 ---
-<h4><strong>2025 WA3 Schedules</strong></h4>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -14,7 +14,7 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
-<p><strong><u>WA Schedules</u></strong>
+<p><strong>2025 WA3 Schedules</strong>
 </p>
 </th>
 </tr>
@@ -56,7 +56,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong><u>2025 Preliminary Exam Schedules</u></strong>
+<p><strong>2025 Preliminary Exam Schedules</strong>
 </p>
 </td>
 </tr>
@@ -84,27 +84,17 @@ description: ""
 <p></p>
 </td>
 </tr>
-</tbody>
-</table>
-<h4><strong>2025 EYE Schedules</strong></h4>
-<p></p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
+<p><strong>2025 EYE Schedules</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -144,4 +134,5 @@ description: ""
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
