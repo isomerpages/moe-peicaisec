@@ -4,7 +4,7 @@ permalink: /assessment-and-examination-schedule/
 variant: tiptap
 description: ""
 ---
-<h4><strong>2025 WA3 Schedules :</strong></h4>
+<h4><strong>2025 WA3 Schedules</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -78,6 +78,64 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://go.gov.sg/pcss-o-prelim-schedule" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pcss-o-prelim-schedule</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>2025 EYE Schedules</strong></h4>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025 EYE Sec 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/pcss-eye-schedule-s1" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pcss-eye-schedule-s1</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025 EYE Sec 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/pcss-eye-schedule-s2" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pcss-eye-schedule-s2</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025 EYE Sec 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/pcss-eye-schedule-s3" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pcss-eye-schedule-s3</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
