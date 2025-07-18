@@ -123,7 +123,7 @@ description: ""
 <p>2025 EYE Sec 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pcss-eye-schedule-s2</a>
+<p><a href="https://go.gov.sg/pcss-eye-schedule-s2" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pcss-eye-schedule-s2</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -135,7 +135,7 @@ description: ""
 <p>2025 EYE Sec 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pcss-eye-schedule-s3</a>
+<p><a href="https://go.gov.sg/pcss-eye-schedule-s3" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pcss-eye-schedule-s3</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
