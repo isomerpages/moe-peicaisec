@@ -4,7 +4,7 @@ permalink: /assessment-and-examination-schedule/
 variant: tiptap
 description: ""
 ---
-<h4><strong>2025 WA3 Schedules </strong></h4>
+<h4><strong>2025 WA3 Schedules</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
