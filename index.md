@@ -9,6 +9,14 @@ sections:
   - hero:
       background: /images/Main_Banner_Main_1B3.jpg
   - infopic:
+      title: Commemorating NCC Day 2025
+      id: infopic
+      description: Reaffirming Our Cadet Commitment to Singapore
+      button: Click here to find out more
+      url: /ncc-day-2025-cadet-commitment-to-singapore/
+      image: /images/Announcement/pcss_ncc_day_2025_3.jpg
+      alt: ncc_2025
+  - infopic:
       title: PCSS U-15 Women's Softball World Cup
       id: infopic
       description: Peicai’s very own National U-15 Softball Outfielder, 3PN’s Jaelyn
