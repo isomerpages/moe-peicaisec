@@ -2,6 +2,7 @@ collections:
   announcements-3:
     output: true
     order:
+      - Racial Harmony Day 2025.md
       - "Commemorating NCC Day 2025: Reaffirming Our Cadet Commitment to
         Singapore.md"
       - 26th Int'l Elementz Fair & 45th C B Paul Science Quiz 25.md
