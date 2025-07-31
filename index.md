@@ -12,7 +12,7 @@ sections:
       title: Commemorating NCC Day 2025
       id: infopic
       description: Reaffirming Our Cadet Commitment to Singapore
-      button: Click here to find out more
+      button: Click here to view
       url: /ncc-day-2025-cadet-commitment-to-singapore/
       image: /images/Announcement/pcss_ncc_day_2025_3.jpg
       alt: ncc_2025
@@ -22,7 +22,7 @@ sections:
       description: Peicai’s very own National U-15 Softball Outfielder, 3PN’s Jaelyn
         Tan, has experienced being fielded for 3 games at the U-15 World Cup
         held in Legnano, Italy...
-      button: Click here to find out more
+      button: Click here to view
       url: https://www.instagram.com/peicai_official/p/DLoDzZ3zGI0/
       image: /images/Announcement/PCSS_U15_World_Cup_25.jpg
       alt: Picture
@@ -31,14 +31,14 @@ sections:
       id: infopic
       description: Our DT unit supported two teams of students in today’s competition
         hosted by SJI, after weeks of preparation that began on 15 April...
-      button: Click here to find out more
+      button: Click here to view
       url: https://www.instagram.com/peicai_official/p/DLn-H8Bzl-R/
       image: /images/Announcement/Mighty_Mousetrap_Car_Challenge_25.jpg
       alt: Picture
   - infopic:
       title: 26th Int'l Elementz Fair & 45th C B Paul Science Quiz 25
       id: infopic
-      button: Click here to find out more
+      button: Click here to view
       url: /26-int-elemz-fair-45cbpaul-sci-quiz-25/
       image: /images/Announcement/26Int_45CBPaul_SciQ25_1.jpg
       alt: img
@@ -46,7 +46,7 @@ sections:
       title: G2G Brunei School Exchange Programme 2025
       id: infopic
       description: A Celebration of Cultural and Educational Bonds
-      button: Click here to find out more
+      button: Click here to view
       url: /g2g-brunei-sch-exchange-2025
       image: /images/Announcement/G2G_2025_2.jpg
       alt: G2G 2025
@@ -55,21 +55,21 @@ sections:
       id: infopic
       description: Peicai Featured on Zaobao Schools for Meaningful Visit to Blood
         Bank @ HSA
-      button: Click here to find out more
+      button: Click here to view
       url: /pcss-feat-zaobao-sch-meaningful-visit-to-hsa/
       image: /images/Announcement/pcss_zbao_5.jpg
       alt: PCSS-HSA-Zaobao
   - infopic:
       title: Hosting of Caritas Wu Cheng Chung College at Peicai Sec
       id: infopic
-      button: Click here to find out more
+      button: Click here to view
       url: /hosting-of-cwcc-at-pcss/
       image: /images/Announcement/cwcc_pcss_25_cover_brands.jpg
       alt: CCWCC-PCSS
   - infopic:
       title: Student Leaders' Investiture 2025
       id: infopic
-      button: Click here to find out more
+      button: Click here to view
       url: /student-leaders-investiture-2025/
       image: /images/Announcement/Investiture_2025_9.jpg
       alt: Student Leaders' Investiture
@@ -84,35 +84,35 @@ sections:
   - infopic:
       title: International Friendship Day 2025
       id: infopic
-      button: Click here to find out more
+      button: Click here to view
       url: /student-development/international-friendship-day-2025/
       image: /images/Student Development/friendship.jpg
       alt: IFD 2025
   - infopic:
       title: Signature Community Outreach at Blood Bank HSA
       id: infopic
-      button: Click here to find out more
+      button: Click here to view
       url: /signature-community-outreach-at-blood-bank-hsa/
       image: /images/Announcement/hsa25_0.jpg
       alt: HSA 2025
   - infopic:
       title: Hari Raya Celebrations 2025
       id: infopic
-      button: Click here to find out more
+      button: Click here to view
       url: /school-events-2025/
       image: /images/Aboutus/hari_2025_0.jpg
       alt: Hari Raya Celebrations 2025
   - infopic:
       title: SYF Arts Presentation – Concert Band Distinction Award
       id: infopic
-      button: Click here to find out more
+      button: Click here to view
       url: /achievements/students-achievements/
       image: /images/CCA/concert_band_distinction_2.png
       alt: Concert Band SYF Dist.
   - infopic:
       title: Student Council Presidential Elections 2025
       id: infopic
-      button: Click here to find out more
+      button: Click here to view
       url: /presidential-rally-2025/
       image: /images/Aboutus/presidential_rally_2025_5.jpg
       alt: Presidential Rally 2025
@@ -126,7 +126,7 @@ sections:
   - infopic:
       title: Peicai inter-class Debate Championship 2025
       id: infopic
-      button: Click here to find out more
+      button: Click here to view
       url: /peicai-inter-class-debate-championship-2025/
       image: /images/Aboutus/ICDC_2025_2.png
       alt: PCSS ICDC 25
@@ -140,35 +140,35 @@ sections:
   - infopic:
       title: "NCC (Sea) Unit Achievement: Distinction Award 2024"
       id: infopic
-      button: Click here to find out more
+      button: Click here to view
       url: /achievements/students-achievements/
       image: /images/Achievements/NCC_SEA_2025_10.jpg
       alt: NCC (Sea)
   - infopic:
       title: SRC Softball Championship 2025
       id: infopic
-      button: Click here to find out more
+      button: Click here to view
       url: /src-softball-championship-2025/
       image: /images/Announcement/SRC25_1.png
       alt: SRC 2025
   - infopic:
       title: Peicai Sports Day 2025
       id: infopic
-      button: Click here to find out more
+      button: Click here to view
       url: /peicai-sports-day-2025/
       image: /images/Aboutus/pcss_sport_banner.jpg
       alt: Sports Day 2025
   - infopic:
       title: Girl Guides World Thinking Day Commemoration
       id: infopic
-      button: Click here to find out more
+      button: Click here to view
       url: /girlguides-world-thinking-day-commemoration/
       image: /images/Announcement/GGuide_2025.jpg
       alt: Girl Guides 2025
   - infopic:
       title: Singapore Science and Engineering Fair (SSEF)
       id: infopic
-      button: Click here to find out more
+      button: Click here to view
       url: /singapore-science-and-engineering-fair-ssef/
       alt: SSEF
       image: /images/Achievements/SSEF_banner.png
@@ -182,7 +182,7 @@ sections:
   - infopic:
       title: Real World Co-design Platform (RWCDP)
       id: infopic
-      button: Click here to find out more
+      button: Click here to view
       url: /real-world-co-design-platform/
       image: /images/Announcement/Real_World_Co_design_Platform__1.jpg
       alt: Real World Co-design Platfor
@@ -192,7 +192,7 @@ sections:
       description: 15 February 2025
       image: /images/Announcement/pes_15Feb_2025.jpg
       alt: Parent Engagement Session 2025
-      button: click here to view slides
+      button: Click here to view slides
       url: /parent-engagement-session-slides-15-feb/
   - infopic:
       title: Inspiring Teacher of English Award 2025
@@ -201,7 +201,7 @@ sections:
       description: I Love My English Teacher
       image: /images/Announcement/i_love_my_eng_tr2025.png
       alt: I Love My English Teacher 2025
-      button: Click here to find out more
+      button: Click here to view
       url: /2025-inspiring-teacher-of-english-award/
   - infopic:
       title: Parent Engagement Session slides 18 Jan
@@ -209,12 +209,12 @@ sections:
       description: Sec 4/5 – 8 45 am to 11 30 am,    Sec 1 – 1030 am to 130 pm
       image: /images/Announcement/Slide1.jpg
       alt: Parent Engagement
-      button: click here to view slides
+      button: Click here to view slides
       url: /parent-engagement-session-slides-18-jan/
   - infopic:
       title: PCSS Partnering Apple in our EdTech Programme
       id: infopic
-      button: CLICK HERE
+      button: Click here to view
       url: /media/announcements/permalink/
       image: /images/Announcement/PCSS_Partnering_Apple_in_our_Applied_Learning_Programme_2.jpg
       alt: Image alt text
@@ -223,7 +223,7 @@ sections:
       id: infopic
       description: A place for you to Synergise, Explore the World of Science and
         Technology.
-      button: CLIck here to view
+      button: Click here to view
       url: https://www.instagram.com/reel/DCirEYkzopk/?igsh=c3piM3UwenVtcDE5
       image: /images/Announcement/The_Sphere_copy.jpg
       alt: The Sphere
