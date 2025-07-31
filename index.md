@@ -146,12 +146,13 @@ sections:
       image: /images/Aboutus/ICDC_2025_2.png
       alt: PCSS ICDC 25
   - infopic:
-      title: Secondary 4 & 5 CCA Appreciation and Stand Down Ceremony
+      title: Secondary 4 & 5
       id: infopic
       button: Click here to find out more
       url: /secondary-4-5-cca-appreciation-and-stand-down-ceremony/
       image: /images/Aboutus/CCA_Appreciation_2025_2.jpg
       alt: CCA Appr 2025
+      description: CCA Appreciation and Stand Down Ceremony
   - infopic:
       title: "NCC (Sea) Unit Achievement: Distinction Award 2024"
       id: infopic
