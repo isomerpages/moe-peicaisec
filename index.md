@@ -9,6 +9,13 @@ sections:
   - hero:
       background: /images/Main_Banner_Main_1B3.jpg
   - infopic:
+      title: Racial Harmony Day 2025
+      id: infopic
+      button: Click here to view
+      url: /racial-harmony-day-2025/
+      image: /images/Announcement/rhd_25_4.jpg
+      alt: RHD2025
+  - infopic:
       title: Commemorating NCC Day 2025
       id: infopic
       description: Reaffirming Our Cadet Commitment to Singapore
