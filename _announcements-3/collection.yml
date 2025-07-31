@@ -2,6 +2,7 @@ collections:
   announcements-3:
     output: true
     order:
+      - Presentation of Girl Guides Puan Noor Aishah Award (Gold).md
       - Racial Harmony Day 2025.md
       - "Commemorating NCC Day 2025: Reaffirming Our Cadet Commitment to
         Singapore.md"
