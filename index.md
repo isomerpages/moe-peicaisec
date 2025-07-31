@@ -13,7 +13,7 @@ sections:
       id: infopic
       button: Click here to view
       url: /racial-harmony-day-2025/
-      image: /images/Announcement/rhd_25_4.jpg
+      image: /images/Announcement/rhd_25_0.jpg
       alt: RHD2025
   - infopic:
       title: Commemorating NCC Day 2025
