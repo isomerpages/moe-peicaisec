@@ -9,6 +9,13 @@ sections:
   - hero:
       background: /images/Main_Banner_Main_1B3.jpg
   - infopic:
+      title: Racial Harmony Day 2025
+      id: infopic
+      button: Click here to view
+      url: /racial-harmony-day-2025/
+      image: /images/Announcement/rhd_25_0.jpg
+      alt: RHD2025
+  - infopic:
       title: Presentation of Girl Guides
       id: infopic
       description: Puan Noor Aishah Award (Gold)
@@ -16,13 +23,6 @@ sections:
       url: /present-girlguides-aishah-goldaward/
       image: /images/Announcement/GirlGuides_AishahAward_25_1.jpg
       alt: Girl Guides Gold Award
-  - infopic:
-      title: Racial Harmony Day 2025
-      id: infopic
-      button: Click here to view
-      url: /racial-harmony-day-2025/
-      image: /images/Announcement/rhd_25_0.jpg
-      alt: RHD2025
   - infopic:
       title: Commemorating NCC Day 2025
       id: infopic
