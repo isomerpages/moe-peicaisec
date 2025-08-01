@@ -2,6 +2,7 @@ collections:
   announcements-3:
     output: true
     order:
+      - NUS Geography Challenge 2025.md
       - Racial Harmony Day 2025.md
       - Presentation of Girl Guides Puan Noor Aishah Award (Gold).md
       - "Commemorating NCC Day 2025: Reaffirming Our Cadet Commitment to
