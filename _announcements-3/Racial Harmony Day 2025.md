@@ -10,7 +10,7 @@ the 21<sup>st</sup> July (Monday) to 25<sup>th</sup> July (Friday).</p>
 us that the diverse cultural threads in our society are intricately intertwined,
 working together to form a vibrant and unified whole. The objective of
 RHD is to help students recognise the importance of mutual understanding,
-appreciation, and respect among our various ethnic communities ; all of
+appreciation, and respect among our various ethnic communities; all of
 which are key to preserving the strength and harmony of our multicultural
 society.</p>
 <p>This year, our RHD commemoration continued to deepen students’ awareness
@@ -26,8 +26,8 @@ ethnic sports and highlighting the diversity of expression across cultures.</p>
 <p>During recess, the interactive ethnic games booth was a popular attraction,
 where students enthusiastically participated in nostalgic games such as
 5 Stones, Chapteh, and Congkak. Their enthusiasm and openness to explore
-reflected the heart of Racial Harmony Day: &nbsp;a celebration of shared
-experiences and cultural learning.</p>
+reflected the heart of Racial Harmony Day: a celebration of shared experiences
+and cultural learning.</p>
 <p>The commemoration would not have been possible without the dedication
 of our teachers and the wholehearted participation of our students. Together,
 they helped bring the theme “Our People, Our Tapestry” to life in meaningful
