@@ -9,6 +9,13 @@ sections:
   - hero:
       background: /images/Main_Banner_Main_1B3.jpg
   - infopic:
+      title: NUS Geography Challenge 2025
+      id: infopic
+      button: Click here to view
+      url: /nus-geography-challenge-2025/
+      image: /images/Announcement/NUS_Geo_Challenge_25_0.jpg
+      alt: NUS-PCSS
+  - infopic:
       title: Racial Harmony Day 2025
       id: infopic
       button: Click here to view
