@@ -9,6 +9,15 @@ sections:
   - hero:
       background: /images/Main_Banner_Main_1B3.jpg
   - infopic:
+      title: Kampong Serangoon National Day Dinner 2025
+      subtitle: 26 July 2025
+      id: infopic
+      description: Modern Dance CCA Performance and Infocomm Club Volunteers
+      button: Click here to view
+      url: /kampong-serangoon-national-day-dinner-25/
+      image: /images/Announcement/Serangoon_NationalDay_Dinner_25_8.jpg
+      alt: serangoon_natday25
+  - infopic:
       title: NUS Geography Challenge 2025
       id: infopic
       button: Click here to view
