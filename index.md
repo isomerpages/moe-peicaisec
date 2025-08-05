@@ -9,6 +9,13 @@ sections:
   - hero:
       background: /images/Main_Banner_Main_1B3.jpg
   - infopic:
+      title: Singapore Mathematical Olympiad (SMO) 2025
+      id: infopic
+      button: Click here to view
+      url: /singapore-maths-olympiad-smo-2025/
+      image: /images/Announcement/pcss_smo_25_1.jpg
+      alt: smo-2025
+  - infopic:
       title: Kampong Serangoon National Day Dinner 2025
       subtitle: 26 July 2025
       id: infopic
