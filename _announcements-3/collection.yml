@@ -2,6 +2,7 @@ collections:
   announcements-3:
     output: true
     order:
+      - Singapore Mathematical Olympiad (SMO) 2025.md
       - Kampong Serangoon National Day Dinner 2025.md
       - NUS Geography Challenge 2025.md
       - Racial Harmony Day 2025.md
