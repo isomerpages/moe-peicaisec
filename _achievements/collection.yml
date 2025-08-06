@@ -2,8 +2,8 @@ collections:
   achievements:
     output: true
     order:
-      - Science Competitions.md
       - Girl Guides (Gold Award).md
+      - Science Competitions.md
       - Overview of School Based Awards.md
       - The Principal's List.md
       - Good Improvement Award.md
