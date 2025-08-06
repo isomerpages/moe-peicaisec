@@ -2,9 +2,9 @@ collections:
   achievements:
     output: true
     order:
-      - NUS Geography Challenge 2025.md
       - Girl Guides (Gold Award).md
       - Science Competitions.md
+      - NUS Geography Challenge 2025.md
       - Overview of School Based Awards.md
       - The Principal's List.md
       - Good Improvement Award.md
