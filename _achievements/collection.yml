@@ -2,6 +2,7 @@ collections:
   achievements:
     output: true
     order:
+      - Girl Guides (Gold Award).md
       - Overview of School Based Awards.md
       - The Principal's List.md
       - Good Improvement Award.md
