@@ -2,6 +2,7 @@ collections:
   achievements:
     output: true
     order:
+      - SMC AMO Competitions.md
       - Girl Guides (Gold Award).md
       - Science Competitions.md
       - NUS Geography Challenge 2025.md
