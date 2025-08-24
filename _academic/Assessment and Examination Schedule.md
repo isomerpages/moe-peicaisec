@@ -95,7 +95,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025/4E5N_PRELIMS_TIMETABLE_2025.pdf" rel="noopener nofollow" target="_blank">4E5N PRELIMS TIMETABLE 2025</a>
+<p><a href="/files/2025/4E5N_PRELIMS_TIMETABLE_2025.pdf" rel="noopener nofollow" target="_blank">4E5N Preliminary Timetable 2025</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
