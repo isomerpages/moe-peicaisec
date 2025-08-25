@@ -52,7 +52,7 @@ sections:
       description: Puan Noor Aishah Award (Gold)
       button: Click here to view
       url: /present-girlguides-aishah-goldaward/
-      image: /images/Announcement/GirlGuides_AishahAward_25_1.jpg
+      image: /images/Announcement/Presentation_of_Girl_Guides.jpg
       alt: Girl Guides Gold Award
   - infopic:
       title: Commemorating NCC Day 2025
