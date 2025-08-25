@@ -2,6 +2,8 @@ collections:
   achievements:
     output: true
     order:
+      - National Secondary Schools Creative Writing Competition & National
+        Chinese Reading Contest 2025.md
       - Overview of School Based Awards.md
       - The Principal's List.md
       - Good Improvement Award.md
