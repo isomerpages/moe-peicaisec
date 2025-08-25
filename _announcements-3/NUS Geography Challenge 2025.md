@@ -38,7 +38,7 @@ to academic excellence and holistic development.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcement/NUS_Geo_Challenge_25_1.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Announcement/NUS_Geo_Challenge_25_1.jpg">
 </div>
 </th>
 </tr>
@@ -65,7 +65,7 @@ Michaela Benavidez (3CN) with Ms Koh.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcement/NUS_Geo_Challenge_25_2.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Announcement/NUS_Geo_Challenge_25_2.jpg">
 </div>
 </th>
 </tr>
@@ -90,7 +90,7 @@ Michaela Benavidez (3CN) with Ms Koh.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcement/NUS_Geo_Challenge_25_3.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Announcement/NUS_Geo_Challenge_25_3.jpg">
 </div>
 </th>
 </tr>
