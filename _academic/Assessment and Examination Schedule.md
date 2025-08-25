@@ -86,7 +86,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2025 4E/5N Prelims</p>
+<p>2025 4E5N Prelims</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://go.gov.sg/pcss-2025-o-prelim-schedule" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pcss-2025-o-prelim-schedule</a>
