@@ -9,6 +9,14 @@ sections:
   - hero:
       background: /images/Main_Banner_Main_1B3.jpg
   - infopic:
+      id: infopic
+      description: National Secondary Schools Creative Writing Competition & National
+        Chinese Reading Contest 2025
+      button: Click here to view
+      url: /national-ssch-creative-writing-competition-national-zh-read-contest-25/
+      image: /images/Announcement/zh_ss_25_3.jpg
+      alt: zh-CN 2025
+  - infopic:
       title: Singapore Mathematical Olympiad (SMO) 2025
       id: infopic
       button: Click here to view
