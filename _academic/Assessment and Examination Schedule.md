@@ -77,18 +77,6 @@ description: ""
 <p>2025 O-level Prelims</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/pcss-o-prelim-schedule" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pcss-o-prelim-schedule</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2025 4E5N Prelims</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="https://go.gov.sg/pcss-2025-o-prelim-schedule" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pcss-2025-o-prelim-schedule</a>
 </p>
 </td>
