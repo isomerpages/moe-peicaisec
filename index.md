@@ -14,7 +14,7 @@ sections:
         Chinese Reading Contest 2025
       button: Click here to view
       url: /national-ssch-creative-writing-competition-national-zh-read-contest-25/
-      image: /images/Announcement/zh_ss_25_3.jpg
+      image: /images/Announcement/National_Secondary_Schools_Creative_Writing_Competition.jpg
       alt: zh-CN 2025
   - infopic:
       title: Singapore Mathematical Olympiad (SMO) 2025
