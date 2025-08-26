@@ -9,6 +9,14 @@ sections:
   - hero:
       background: /images/Main_Banner_Main_1B3.jpg
   - infopic:
+      id: infopic
+      description: National Secondary Schools Creative Writing Competition & National
+        Chinese Reading Contest 2025
+      button: Click here to view
+      url: /national-ssch-creative-writing-competition-national-zh-read-contest-25/
+      image: /images/Announcement/National_Secondary_Schools_Creative_Writing_Competition.jpg
+      alt: zh-CN 2025
+  - infopic:
       title: Singapore Mathematical Olympiad (SMO) 2025
       id: infopic
       button: Click here to view
@@ -44,7 +52,7 @@ sections:
       description: Puan Noor Aishah Award (Gold)
       button: Click here to view
       url: /present-girlguides-aishah-goldaward/
-      image: /images/Announcement/GirlGuides_AishahAward_25_1.jpg
+      image: /images/Announcement/Presentation_of_Girl_Guides.jpg
       alt: Girl Guides Gold Award
   - infopic:
       title: Commemorating NCC Day 2025
