@@ -9,6 +9,15 @@ sections:
   - hero:
       background: /images/Main_Banner_Main_1B3.jpg
   - infopic:
+      title: Teachers’ Day Celebration 2025
+      subtitle: To our Dear ALUMNI
+      id: infopic
+      description: 4 September 2025, 8 am to 1040 am
+      button: Click here to find out more
+      url: /to-our-dear-alumni-2025/
+      image: /images/Announcement/ALUMNI_25.jpg
+      alt: ALUMNI_25
+  - infopic:
       id: infopic
       description: National Secondary Schools Creative Writing Competition & National
         Chinese Reading Contest 2025
