@@ -14,7 +14,7 @@ description: ""
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcement/ALUMNI_25.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="ALUMNI_25" src="/images/Announcement/ALUMNI_25.jpg">
 </div>
 </th>
 </tr>
