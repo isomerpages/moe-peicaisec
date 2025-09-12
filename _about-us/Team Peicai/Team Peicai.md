@@ -1804,6 +1804,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Kamarudin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>STEM Instructor (Workshop)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:mohamad_kamarudin_abdul_sa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohamad_kamarudin_abdul_sa@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Johari Ahmad</p>
 </td>
 <td rowspan="1" colspan="1">
