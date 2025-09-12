@@ -288,21 +288,6 @@ variant: tiptap
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Oh Geok Lan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>STEM Instructor (Laboratory)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:oh_geok_lan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">oh_geok_lan@moe.edu.sg</a>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <h4><strong>Learning Outcomes</strong></h4>
