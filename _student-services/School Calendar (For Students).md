@@ -11,5 +11,5 @@ variant: tiptap
 download.</p>
 <p><strong>Term 4 (caa 15 September 2025)</strong>
 </p>
-<p>Click <a href="/files/2025/Student_Calendar_2025_Term4_caa_15_Sep_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+<p>Click <a href="/files/2025/Student_Calendar_2025_Term4_caa_15_Sep_2025v2.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 download.</p>
