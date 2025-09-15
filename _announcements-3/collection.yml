@@ -2,7 +2,6 @@ collections:
   announcements-3:
     output: true
     order:
-      - Teachers’ Day Celebration 4 Sept 2025.md
       - National Secondary Schools Creative Writing Competition & National
         Chinese Reading Contest 2025.md
       - Singapore Mathematical Olympiad (SMO) 2025.md
