@@ -9,6 +9,14 @@ sections:
   - hero:
       background: /images/Main_Banner_Main_1B3.jpg
   - infopic:
+      title: Teachers’ Day Celebration 2025
+      id: infopic
+      description: 4 September 2025
+      button: Click here to view
+      url: /teachers-day-celebration-2025/
+      image: /images/Announcement/trs_day_celeb_2025_1.jpg
+      alt: Teachers Day 2025
+  - infopic:
       id: infopic
       description: National Secondary Schools Creative Writing Competition & National
         Chinese Reading Contest 2025
