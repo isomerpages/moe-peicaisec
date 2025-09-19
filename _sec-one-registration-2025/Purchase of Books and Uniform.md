@@ -38,7 +38,7 @@ Scheme (MOE FAS) 2025 should refer to Table (C).</p>
 </p>
 <p>BL Marketing Pte Ltd</p>
 <p>Tel: 62848785</p>
-<p>Email:&nbsp; <a href="sales@blmarketing.sg" rel="noopener noreferrer nofollow" target="_blank">sales@blmarketing.sg</a>
+<p>Email:&nbsp; <a href="mailto:sales@blmarketing.sg" rel="noopener noreferrer nofollow" target="_blank">sales@blmarketing.sg</a>
 </p>
 <p>Operational from Monday – Friday, 9.00am to 3.00pm.</p>
 <p>Closed on Saturday, Sunday and Public Holidays.</p>
@@ -105,7 +105,7 @@ your online purchase.</p>
 <p><strong><u>Vendor’s Details</u></strong>
 </p>
 <p>Student Mart (Jeep Sing Fashion)</p>
-<p>Support Centre <a href="https://bit.ly/JSFSUPPORT" rel="noopener noreferrer nofollow" target="_blank">https://bit.ly/JSFSUPPORT</a>
+<p>Support Centre <a href="https://jeepsinguniform.com/pages/contact-us" rel="noopener noreferrer nofollow" target="_blank">https://bit.ly/JSFSUPPORT</a>
 </p>
 <p>&nbsp;</p>
 </td>
