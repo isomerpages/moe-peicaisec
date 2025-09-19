@@ -61,8 +61,9 @@ Scheme (MOE FAS) 2025 should refer to Table (C).</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Orders</strong> can only be made online at<a href="https://www.blmarketing.sg" rel="noopener noreferrer nofollow" target="_blank"> https://www.blmarketing.sg</a>  <strong>from</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>18 to 22 December 2024. </strong>Choose
-between:</p>
+<p><strong>Orders</strong> can only be made online at <a href="https://www.blmarketing.com.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.blmarketing.com.sg</a>
+</p>
+<p><strong>from</strong>  <strong>18 to 22 December 2024. </strong>Choose between:</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Home Delivery (Delivery
 fee $12.50 per location applies), or</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Self-Collection in School
@@ -137,7 +138,8 @@ down their child’s best-fitted garment to do a comparison of size.</p>
 retail outlet is <strong><u>strictly by appointment only</u>.</strong>
 </p>
 <p><strong>&nbsp;</strong>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Book your appointment via this link/QR code:<a href="https://jeepsinguniform.com/pages/appointment-booking" rel="noopener noreferrer nofollow" target="_blank"> https://jeepsinguniform.com/pages/appointment-booking</a>
+Book your appointment via this link/QR code:</p>
+<p><a href="https://jeepsinguniform.com/pages/contact-us" rel="noopener noreferrer nofollow" target="_blank">https://jeepsinguniform.com/pages/contact-us</a>
 </p>
 <p>· &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Retail outlet will be
 closed from 19 to 21 December 2024. &nbsp;</p>
