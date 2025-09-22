@@ -928,11 +928,18 @@ and lighters/paracord bracelet with fire-starting features</p>
 <p>• Possession or consumption of alcohol or drugs</p>
 <p>• Possession or viewing of pornography or unauthorised materials</p>
 <p>• Receiving police reports on commission of offences</p>
+<p>• Recording and/or taking of pictures, videos and audio recordings of
+classmates, schoolmates and staff without their explicit approval, regardless
+of the nature of the device or tool.</p>
+<p>• Sharing and/or circulating&nbsp; of pictures, videos and audio recordings
+obtained without explicit approval of schoolmates, classmates and staff
+through any platform or medium.</p>
 <p>• Smoking or possession of cigarettes/ cigars</p>
 <p>• Theft</p>
 <p>• Use of abusive or vulgar language, including on online platforms</p>
 <p>• Vandalism</p>
-<p>• Vaping or possession of e-vapourisers or e-vapouriser pods and catridges</p>
+<p>• Vaping or possession of any e-vapourisers or any e-vapouriser pods and
+catridges</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
