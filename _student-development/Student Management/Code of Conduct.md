@@ -686,9 +686,13 @@ their mobile device and non-PDLP electronic devices to the school.</p>
 <p>(j) Should students need to make a call to their parents/guardians or
 read an urgent text message during curriculum time, they should proceed
 to the General Office where they will be allowed to use the phone there.</p>
-<p>(k) Students should not abuse the use of mobile device and non-PDLP electronic
-devices. They should not take photographs or videos of others without their
-permission.</p>
+<p>(k)Students should not abuse the use of mobile device and non-PDLP electronic
+devices for non-academic purposes.</p>
+<p>(I)To protect the privacy of students and staff as well as to maintain
+a respectful and conducive learning environment, taking of pictures, videos
+and audio recordings and circulation of such media of classmates, schoolmates
+and staff without their explicit approval, regardless of the nature of
+the device and/or tool/platform is strictly prohibited.</p>
 <p>3. Students are to note that the lockers in the classroom are there to
 provide interim storage and security for their Personal Learning Devices
 (PLDs) and learning materials. They are to observe the following expectations
