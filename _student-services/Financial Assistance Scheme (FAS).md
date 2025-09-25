@@ -107,7 +107,7 @@ and others)&nbsp;</p>
 for MOE FAS as MOE FAS will be auto-granted to ComCare beneficiaries.</p>
 </li>
 <li>
-<p>You may contact the General Office at 62884159 or email <a href="mailto:peicai_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">peicai_ss@moe.edu.sg</a> if
+<p>You may contact the General Office at 6202 1260 or email <a href="mailto:peicai_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">peicai_ss@moe.edu.sg</a> if
 you need clarifications.</p>
 </li>
 </ol>
