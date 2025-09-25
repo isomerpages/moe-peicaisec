@@ -11,7 +11,7 @@ variant: tiptap
 provided in the links below&nbsp;
 <br>(2) Email a description of the technical problem you are facing or a snapshot
 of the error message on your screen</p>
-<p><em><u>Helpdesk<br></u>Operating Hours: Mon - Fri, 9 am to 4.30 pm<br>Hotline:&nbsp;6288 4159</em>
+<p><em><u>Helpdesk<br></u>Operating Hours: Mon - Fri, 9 am to 4.30 pm<br>Hotline:&nbsp;6202 1260</em>
 </p>
 <p><em>Contact Person:&nbsp; Ask for IT personnel</em>
 </p>
