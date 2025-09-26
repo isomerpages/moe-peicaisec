@@ -13,7 +13,7 @@ sections:
       id: infopic
       button: Click here to view
       url: /volleyball-girls-c-division-nsg-league-3-runners-up-2025/
-      image: /images/Announcement/volleyball_g_c_div_25_1.jpg
+      image: /images/Announcement/volleyball_g_c_div_25_cover.jpg
       alt: Volleyball Girls C Div NSG
   - infopic:
       title: Teachers’ Day Celebration 2025
