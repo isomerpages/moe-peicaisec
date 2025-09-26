@@ -2,7 +2,6 @@ collections:
   achievements:
     output: true
     order:
-      - Volleyball Girls C Div 2025.md
       - Overview of School Based Awards.md
       - The Principal's List.md
       - Good Improvement Award.md
@@ -15,3 +14,4 @@ collections:
       - NUS Geography Challenge 2025.md
       - SMC AMO Competitions.md
       - Sec Schs Mandarin Contest 2025.md
+      - Volleyball Girls C Div 2025.md
