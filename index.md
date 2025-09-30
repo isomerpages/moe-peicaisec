@@ -10,7 +10,6 @@ sections:
       background: /images/Main_Banner_Main_1B3.jpg
   - infopic:
       title: G2G Brunei School Exchange Programme
-      subtitle: May 2025
       id: infopic
       description: "Guest-of-Honour: Sekolah Menengah Rimba"
       button: Click here to view
