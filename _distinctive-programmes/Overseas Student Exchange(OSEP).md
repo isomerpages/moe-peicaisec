@@ -4,6 +4,75 @@ permalink: /distinctive-edge/osep-overseas-student-exchange/
 description: ""
 variant: tiptap
 ---
+<h3><strong>2025</strong></h3>
+<h4><strong>Overseas Student Exchange Programme</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="OSEP 1" src="/images/Distinctive Programmes/OSEP_1__1_.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="OSEP 2" src="/images/Distinctive Programmes/OSEP_1__2_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="OSEP 3" src="/images/Distinctive Programmes/OSEP_1__3_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="OSEP 5" src="/images/Distinctive Programmes/OSEP_1__5_.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="OSEP 4" src="/images/Distinctive Programmes/OSEP_1__4_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <h4><strong>Overseas Student Exchange Programme to Japan</strong></h4>
 <h3><strong>2024</strong></h3>
 <table style="minWidth: 75px">
