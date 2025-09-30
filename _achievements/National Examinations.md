@@ -17,7 +17,7 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="O Level 2024" src="/images/Achievements/O_Level.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="O Level" src="/images/Achievements/O_Level_A.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
