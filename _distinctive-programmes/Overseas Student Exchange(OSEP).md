@@ -4,7 +4,7 @@ permalink: /distinctive-edge/osep-overseas-student-exchange/
 description: ""
 variant: tiptap
 ---
-<h3><strong>2024</strong></h3>
+<h3><strong>2025</strong></h3>
 <h4><strong>Overseas Student Exchange Programme</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
