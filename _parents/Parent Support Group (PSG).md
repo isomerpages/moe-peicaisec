@@ -108,9 +108,8 @@ school</p>
 </table>
 <p><strong>PSG Activities and Programmes in 2025</strong>
 </p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -125,9 +124,14 @@ school</p>
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
-<th rowspan="1" colspan="1">
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
-</th>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 </tbody>
 </table>
