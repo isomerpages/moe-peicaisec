@@ -26,7 +26,6 @@ sections:
   - infopic:
       title: Teachers’ Day Celebration 2025
       id: infopic
-      description: 4 September 2025
       button: Click here to view
       url: /teachers-day-celebration-2025/
       image: /images/Announcement/trs_day_celeb_2025_1.jpg
@@ -47,7 +46,6 @@ sections:
       alt: smo-2025
   - infopic:
       title: Kampong Serangoon National Day Dinner 2025
-      subtitle: 26 July 2025
       id: infopic
       description: Modern Dance CCA Performance and Infocomm Club Volunteers
       button: Click here to view
