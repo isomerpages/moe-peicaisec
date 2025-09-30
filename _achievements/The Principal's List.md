@@ -57,10 +57,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="P List_1" src="/images/Achievements/Principal_s_List_2025__1_.jpg">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
