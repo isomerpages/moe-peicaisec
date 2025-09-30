@@ -9,6 +9,15 @@ sections:
   - hero:
       background: /images/Main_Banner_Main_1B3.jpg
   - infopic:
+      title: G2G Brunei School Exchange Programme
+      subtitle: May 2025
+      id: infopic
+      description: "Guest-of-Honour: Sekolah Menengah Rimba"
+      button: Click here to view
+      url: /g2g-brunei-school-exchange-programme/
+      image: /images/Announcement/Brunei_G2G_Oct25_Cover.jpg
+      alt: brunei_g2g_cover
+  - infopic:
       title: Volleyball Girls C Division NSG League 3 Runners-up 2025
       id: infopic
       button: Click here to view
