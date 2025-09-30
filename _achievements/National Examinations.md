@@ -45,7 +45,6 @@ variant: tiptap
 </table>
 <p></p>
 <h4><strong>2023 National Examination Results</strong></h4>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
