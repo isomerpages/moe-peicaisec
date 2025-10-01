@@ -9,6 +9,12 @@ sections:
   - hero:
       background: /images/Main_Banner_Main_1B3.jpg
   - infopic:
+      title: Volleyball Boys B Division NSG Bronze 2025
+      id: infopic
+      button: Click here to view
+      url: /volleyball-boys-b-division-nsg-bronze-2025/
+      alt: Volleyball Boys 2025
+  - infopic:
       title: G2G Brunei School Exchange Programme
       id: infopic
       description: "Guest-of-Honour: Sekolah Menengah Rimba"
