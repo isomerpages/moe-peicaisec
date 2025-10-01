@@ -16,7 +16,6 @@ accomplishment places Peicai proudly in 3rd position in the South Zone.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcement/Volleyball_Boys_2025_Cover.jpg">
 </div>
@@ -45,7 +44,6 @@ down to take the next two sets and seal a historic win.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcement/Volleyball_Boys_2025_2.jpg">
 </div>
@@ -70,7 +68,6 @@ down to take the next two sets and seal a historic win.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcement/Volleyball_Boys_2025_1.jpg">
 </div>
@@ -95,7 +92,6 @@ down to take the next two sets and seal a historic win.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcement/Volleyball_Boys_2025_3.jpg">
 </div>
