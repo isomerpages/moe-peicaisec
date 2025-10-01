@@ -14,6 +14,7 @@ sections:
       button: Click here to view
       url: /volleyball-boys-b-division-nsg-bronze-2025/
       alt: Volleyball Boys 2025
+      image: /images/Announcement/Volleyball_Boys_2025_Cover.jpg
   - infopic:
       title: G2G Brunei School Exchange Programme
       id: infopic
