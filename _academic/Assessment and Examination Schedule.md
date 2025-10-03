@@ -125,7 +125,7 @@ description: ""
 <p>2025 EYE Sec 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/pcss-eye-schedule-s3" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pcss-eye-schedule-s3</a>
+<p><a href="/files/2025/S3_EYE_TIMETABLE_2025_v4.pdf" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pcss-eye-schedule-s3</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
