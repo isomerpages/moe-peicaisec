@@ -9,8 +9,14 @@ sections:
   - hero:
       background: /images/Main_Banner_Main_1B3.jpg
   - infopic:
+      title: Volleyball Boys B Division NSG Bronze 2025
+      id: infopic
+      button: Click here to view
+      url: /volleyball-boys-b-division-nsg-bronze-2025/
+      alt: Volleyball Boys 2025
+      image: /images/Announcement/Volleyball_Boys_2025_Cover.jpg
+  - infopic:
       title: G2G Brunei School Exchange Programme
-      subtitle: May 2025
       id: infopic
       description: "Guest-of-Honour: Sekolah Menengah Rimba"
       button: Click here to view
@@ -27,19 +33,17 @@ sections:
   - infopic:
       title: Teachers’ Day Celebration 2025
       id: infopic
-      description: 4 September 2025
       button: Click here to view
       url: /teachers-day-celebration-2025/
       image: /images/Announcement/trs_day_celeb_2025_1.jpg
       alt: Teachers Day 2025
   - infopic:
       id: infopic
-      description: National Secondary Schools Creative Writing Competition & National
-        Chinese Reading Contest 2025
       button: Click here to view
       url: /national-ssch-creative-writing-competition-national-zh-read-contest-25/
       image: /images/Announcement/National_Secondary_Schools_Creative_Writing_Competition.jpg
       alt: zh-CN 2025
+      title: National Chinese Competitions
   - infopic:
       title: Singapore Mathematical Olympiad (SMO) 2025
       id: infopic
@@ -49,7 +53,6 @@ sections:
       alt: smo-2025
   - infopic:
       title: Kampong Serangoon National Day Dinner 2025
-      subtitle: 26 July 2025
       id: infopic
       description: Modern Dance CCA Performance and Infocomm Club Volunteers
       button: Click here to view

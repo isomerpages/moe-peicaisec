@@ -15,7 +15,7 @@ variant: tiptap
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="P List_3" src="/images/Achievements/Principal_s_List_2025__3_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="P list 05" src="/images/Achievements/Principal_s_List_2025__5_.jpg">
 </div>
 <p></p>
 </th>
@@ -29,22 +29,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="P list_2" src="/images/Achievements/Principal_s_List_2025__2_.jpg">
-</div>
-<p></p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="P List_4" src="/images/Achievements/Principal_s_List_2025__4_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="P list 06" src="/images/Achievements/Principal_s_List_2025__6_.jpg">
 </div>
 <p></p>
 </td>
@@ -58,7 +43,21 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="P List_1" src="/images/Achievements/Principal_s_List_2025__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="P list 07" src="/images/Achievements/Principal_s_List_2025__7_.jpg">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="P list 08" src="/images/Achievements/Principal_s_List_2025__8_.jpg">
 </div>
 <p></p>
 </td>
@@ -82,12 +81,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <h4><u>Principal's List 2024</u></h4>
 <table style="minWidth: 50px">
 <colgroup>
