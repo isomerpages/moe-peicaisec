@@ -105,6 +105,32 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ho Thuk Lan (Mrs Ho)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ho_thuk_lan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_thuk_lan@moe.edu.sg</a>
+</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Andy Chee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Chee_khuen_woei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Chee_khuen_woei@moe.edu.sg</a>
+</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mrs Kalpana Ram</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -118,14 +144,28 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Rachel Huang</p>
+<p>Ms Melissa Koh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:huang_kaiting_rachel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">huang_kaiting_rachel@moe.edu.sg</a>
+<p><a href="mailto:koh_shihui_melissa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_shihui_melissa@moe.edu.sg</a>
 </p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Doris Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_mee_yen_doris@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_mee_yen_doris@moe.edu.sg</a>
+</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -137,6 +177,19 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:gan_yolk_get@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gan_yolk_get@moe.edu.sg</a>
+</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Seoh Soon Peng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:seoh_soon_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seoh_soon_peng@moe.edu.sg</a>
 </p>
 <p>&nbsp;</p>
 </td>
@@ -156,13 +209,38 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Doris Tan</p>
+<p>Mr Mohamad Sharizan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_mee_yen_doris@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_mee_yen_doris@moe.edu.sg</a>
+<p><a href="mailto:mohamad_sharizan_abu_bakar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohamad_sharizan_abu_bakar@moe.edu.sg</a>
+</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Rachel Huang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:huang_kaiting_rachel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">huang_kaiting_rachel@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nasreen Shahitha</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nagutha_shahitha_nasreen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nagutha_shahitha_nasreen@moe.edu.sg</a>
 </p>
 <p>&nbsp;</p>
 </td>
@@ -189,71 +267,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Lee_Yu_Hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Lee_Yu_Hui@moe.edu.sg</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Melissa Koh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:koh_shihui_melissa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_shihui_melissa@moe.edu.sg</a>
-</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Andy Chee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Chee_khuen_woei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Chee_khuen_woei@moe.edu.sg</a>
-</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Seoh Soon Peng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:seoh_soon_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seoh_soon_peng@moe.edu.sg</a>
-</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Mohamad Sharizan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:mohamad_sharizan_abu_bakar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohamad_sharizan_abu_bakar@moe.edu.sg</a>
-</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Nasreen Shahitha</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nagutha_shahitha_nasreen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nagutha_shahitha_nasreen@moe.edu.sg</a>
-</p>
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -379,23 +392,23 @@ fields and careers.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 95%;" height="auto" width="100%" alt="International Math" src="/images/Academic/International_Math_img1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/maths_comp_think_1.jpg">
 </div>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="Bridging Math and Reality" src="/images/Academic/Bridging_Math_and_Reality_img2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/maths_comp_think_2.jpg">
 </div>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Team that participated in the International Math Modelling Challenge (IMMC)
-2024</p>
+<p>Harnessing technology, mastering math, shaping 21CC learners at Nanyang
+JC.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Bridging Math and Reality: Students collaborate in groups to apply calculations
@@ -406,22 +419,14 @@ sticks, straws and more.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Students use Sticki" src="/images/Academic/Students_use_Stickimg3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/maths_comp_think_3.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Discovering Math All  img4" src="/images/Academic/Discovering_Math_All__img4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/maths_comp_think_4.jpg">
 </div>
 </td>
 </tr>
@@ -431,35 +436,35 @@ sticks, straws and more.</p>
 bring their coding creations to life.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Discovering Math All Around Us: Students take a journey on a math trail
-and explored the school through numbers and equations.</p>
+<p>Turning equations into motion – our students bring math to life with a
+roller coaster challenge!</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Asian Mathematics Olympiad" src="/images/Academic/Asian_Mathematics_Olympiad_img5.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Academic/maths_comp_think_5.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="Learning through a tasty lens" src="/images/Academic/Learning_through_a_tasty_lens_img6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/maths_comp_think_6.jpg">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Winners of 2024 Singapore and Asian Mathematics Olympiad (SASMO)</p>
+<p>Winners of 2025 Singapore Mathematical Olympiad (SMO)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Learning through a tasty lens: Students compare the sizes and costs of
@@ -468,31 +473,25 @@ budgeting.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Winners of 2024 Singapore Math Kangaroo Contest (SMKC)" src="/images/Academic/Winners_of_2024_Singapore_Math_Kangaroo_Contest_img7.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/maths_comp_think_7.jpg">
 </div>
-</th>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Winners of 2025 Singapore and Asian Mathematics Olympiad (SASMO) and 2025
+Singapore Math Kangaroo Contest</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Winners of 2024 Singapore Math Kangaroo Contest (SMKC)</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -537,14 +536,6 @@ budgeting.</p>
 </p>
 <p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2025/4049_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">O-Level Additional Mathematics Syllabus (4049)</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
