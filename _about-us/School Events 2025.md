@@ -902,6 +902,26 @@ and memorable ways.</p>
 </tbody>
 </table>
 <h4><strong>Mid-Year SWAP for Secondary 3 students</strong></h4>
+<p><strong>Work Attachment Opportunities@Peicai</strong>
+</p>
+<p>In Peicai Secondary School (PCSS), we continue to place a premium on the
+holistic development of our students where both academic excellence and
+character development are pillars of a holistic education. When students
+have an interest and find enjoyment in what they do, they will excel and
+be motivated to pursue their interests well beyond school.</p>
+<p>The holistic educational experience as well as opportunities we aim to
+provide in PCSS whilst catering to students’ strengths, passion and interests,
+strive to nurture our students to be not just equipped with knowledge and
+skills but also values and attitudes to navigate the future.</p>
+<p>To better prepare our students with the right skillsets to navigate the
+future, the school seek to partner our industries to provide authentic
+work attachments for our students.</p>
+<p>Through the work attachments, we endeavour for our students to pick-up
+real-world skills. Besides that, students who had the opportunity to be
+attached to the companies based on their choice and aspirations would potentially
+be motivated to strive hard for their academics in order to reach their
+goals. This would open up the conversation for them to start to build their
+portfolio in applying for JC DSA and Polytechnics PFP.</p>
 <p><strong>SWAP@Peicai: A Glimpse into the Working World</strong>
 </p>
 <p>From 3 to 5 June 2025, selected Secondary 3 students took part in our
