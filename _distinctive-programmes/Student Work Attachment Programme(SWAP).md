@@ -4,30 +4,87 @@ permalink: /distinctive-edge/work-attachment/
 description: ""
 variant: tiptap
 ---
-<p><strong>Work Attachment Opportunities@Peicai</strong>
-<br>
+<h4><strong>Mid-Year SWAP for Secondary 3 students</strong></h4>
+<p><strong><u>SWAP@Peicai: A Glimpse into the Working World</u></strong>
+</p>
+<p>From 3 to 5 June 2025, selected Secondary 3 students took part in our
+school’s distinctive programme, SWAP@Peicai. This initiative provided students
+with a unique opportunity to step outside the classroom and experience
+a short job attachment with various external organisations.</p>
+<p>Students were attached to reputable organisations such as Gain City, the
+National Library Board (NLB), Yishun Health, Blood Bank@Punggol and A*STAR.
+Through these placements, they observed the day-to-day operations across
+different industries — from retail and public service to healthcare and
+scientific research. These experiences gave them a deeper understanding
+of the working world and helped them appreciate the skills and values needed
+in different professional environments.</p>
+<p>SWAP@Peicai continues to be a meaningful and eye-opening experience, encouraging
+students to explore potential career interests and reflect on their aspirations
+for the future.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="2" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aboutus/MidYr_SWAP_25_1.jpg">
+</div>
+<p>Students at A*Star job experience</p>
+</th>
+</tr>
+<tr></tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aboutus/MidYr_SWAP_25_2.jpg">
+</div>
+<p><strong>Students who attended SWAP at Gain City had the opportunity to understand how retail and e-commerce works.</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Aboutus/MidYr_SWAP_25_3.jpg">
+</div>
+<p><strong>Our students also had the opportunity to support NLB’s initiative of building a reading and book recommendation wall at Serangoon Public Library.</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong><u>Work Attachment Opportunities@Peicai</u></strong>
 </p>
 <p>In Peicai Secondary School (PCSS), we continue to place a premium on the
 holistic development of our students where both academic excellence and
 character development are pillars of a holistic education. When students
 have an interest and find enjoyment in what they do, they will excel and
-be motivated to pursue their interests well beyond school.
-<br>
-<br>The holistic educational experience as well as opportunities we aim to
+be motivated to pursue their interests well beyond school.</p>
+<p>The holistic educational experience as well as opportunities we aim to
 provide in PCSS whilst catering to students’ strengths, passion and interests,
 strive to nurture our students to be not just equipped with knowledge and
-skills but also values and attitudes to navigate the future.&nbsp;</p>
-<p></p>
+skills but also values and attitudes to navigate the future.</p>
 <p>To better prepare our students with the right skillsets to navigate the
 future, the school seek to partner our industries to provide authentic
 work attachments for our students.</p>
-<p>&nbsp;Through the work attachments, we endeavour for our students to pick-up
+<p>Through the work attachments, we endeavour for our students to pick-up
 real-world skills. Besides that, students who had the opportunity to be
 attached to the companies based on their choice and aspirations would potentially
 be motivated to strive hard for their academics in order to reach their
 goals. This would open up the conversation for them to start to build their
 portfolio in applying for JC DSA and Polytechnics PFP.</p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
