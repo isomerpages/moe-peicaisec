@@ -43,16 +43,16 @@ for the future.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aboutus/MidYr_SWAP_25_2.jpg">
 </div>
-<p><strong>Students who attended SWAP at Gain City had the opportunity to understand how retail and e-commerce works.</strong>
-</p>
+<p>Students who attended SWAP at Gain City had the opportunity to understand
+how retail and e-commerce works.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 76%;" height="auto" width="100%" alt="" src="/images/Aboutus/MidYr_SWAP_25_3.jpg">
 </div>
-<p><strong>Our students also had the opportunity to support NLB’s initiative of building a reading and book recommendation wall at Serangoon Public Library.</strong>
-</p>
+<p>Our students also had the opportunity to support NLB’s initiative of building
+a reading and book recommendation wall at Serangoon Public Library</p>
 </td>
 </tr>
 <tr>
