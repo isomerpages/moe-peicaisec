@@ -902,26 +902,6 @@ and memorable ways.</p>
 </tbody>
 </table>
 <h4><strong>Mid-Year SWAP for Secondary 3 students</strong></h4>
-<p><strong>Work Attachment Opportunities@Peicai</strong>
-</p>
-<p>In Peicai Secondary School (PCSS), we continue to place a premium on the
-holistic development of our students where both academic excellence and
-character development are pillars of a holistic education. When students
-have an interest and find enjoyment in what they do, they will excel and
-be motivated to pursue their interests well beyond school.</p>
-<p>The holistic educational experience as well as opportunities we aim to
-provide in PCSS whilst catering to students’ strengths, passion and interests,
-strive to nurture our students to be not just equipped with knowledge and
-skills but also values and attitudes to navigate the future.</p>
-<p>To better prepare our students with the right skillsets to navigate the
-future, the school seek to partner our industries to provide authentic
-work attachments for our students.</p>
-<p>Through the work attachments, we endeavour for our students to pick-up
-real-world skills. Besides that, students who had the opportunity to be
-attached to the companies based on their choice and aspirations would potentially
-be motivated to strive hard for their academics in order to reach their
-goals. This would open up the conversation for them to start to build their
-portfolio in applying for JC DSA and Polytechnics PFP.</p>
 <p><strong>SWAP@Peicai: A Glimpse into the Working World</strong>
 </p>
 <p>From 3 to 5 June 2025, selected Secondary 3 students took part in our
@@ -938,53 +918,44 @@ in different professional environments.</p>
 <p>SWAP@Peicai continues to be a meaningful and eye-opening experience, encouraging
 students to explore potential career interests and reflect on their aspirations
 for the future.</p>
-<table style="minWidth: 25px">
+<table style="minWidth: 50px">
 <colgroup>
+<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<th rowspan="2" colspan="2">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aboutus/MidYr_SWAP_25_1.jpg">
 </div>
+<p>Students at A*Star job experience</p>
 </th>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Students at A*Star job experience</p>
-</td>
-</tr>
+<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aboutus/MidYr_SWAP_25_2.jpg">
 </div>
+<p><strong>Students who attended SWAP at Gain City had the opportunity to understand how retail and e-commerce works.</strong>
+</p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Students who attended SWAP at Gain City had the opportunity to understand
-how retail and e-commerce works.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Aboutus/MidYr_SWAP_25_3.jpg">
+</div>
+<p><strong>Our students also had the opportunity to support NLB’s initiative of building a reading and book recommendation wall at Serangoon Public Library.</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aboutus/MidYr_SWAP_25_3.jpg">
-</div>
 </td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Our students also had the opportunity to support NLB’s initiative of building
-a reading and book recommendation wall at Serangoon Public Library.</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
