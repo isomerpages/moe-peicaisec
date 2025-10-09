@@ -15,10 +15,10 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aboutus/CR_Day_Sem1_25_2.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Celebration and rec day" src="/images/Achievements/DSC_8759_copy.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
