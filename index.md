@@ -161,13 +161,6 @@ sections:
       image: /images/Announcement/hsa25_0.jpg
       alt: HSA 2025
   - infopic:
-      title: Hari Raya Celebrations 2025
-      id: infopic
-      button: Click here to view
-      url: /school-events-2025/
-      image: /images/Aboutus/hari_2025_0.jpg
-      alt: Hari Raya Celebrations 2025
-  - infopic:
       title: SYF Arts Presentation – Concert Band Distinction Award
       id: infopic
       button: Click here to view
