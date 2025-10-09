@@ -5,6 +5,10 @@ description: ""
 variant: tiptap
 ---
 <h4><strong>Recent Alumni Achievements</strong></h4>
+<h4><strong>2025 </strong>CELEBRATION &amp; RECOGNITION DAY</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aboutus/CR_Day_Sem1_25_2.jpg">
+</div>
 <p></p>
 <h4><strong>2024 </strong>CELEBRATION &amp; RECOGNITION DAY</h4>
 <h4>Value-Added Results in GCE 'O' and 'N' Level Examinations</h4>
