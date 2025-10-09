@@ -107,6 +107,32 @@ school</p>
 </tr>
 </tbody>
 </table>
+<p><strong>PSG Activities and Programmes in 2025</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="PSG 2025" src="/images/Parents/PSG_2025.jpg">
+</div>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p><strong>Key Highlights of PSG Activities and Programmes in 2024</strong>
 </p>
 <p>Breakfast with Principal (17 February 2024)</p>

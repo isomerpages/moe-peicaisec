@@ -5,7 +5,52 @@ description: ""
 variant: tiptap
 ---
 <h4><strong>Recent Alumni Achievements</strong></h4>
+<h4><strong>2025 </strong>CELEBRATION &amp; RECOGNITION DAY</h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Celebration and rec day" src="/images/Achievements/DSC_8759_copy.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>2024 </strong>CELEBRATION &amp; RECOGNITION DAY</h4>
 <h4>Value-Added Results in GCE 'O' and 'N' Level Examinations</h4>
 <table style="minWidth: 50px">

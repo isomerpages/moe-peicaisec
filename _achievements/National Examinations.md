@@ -4,7 +4,7 @@ permalink: /achievements/students/national-examinations-2023/
 description: ""
 variant: tiptap
 ---
-<h4><strong>2024 National Examination Results</strong></h4>
+<h4><strong>2024 National Examination Results (Value-Added)</strong></h4>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
