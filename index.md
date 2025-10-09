@@ -147,14 +147,6 @@ sections:
       image: /images/Announcement/Investiture_2025_9.jpg
       alt: Student Leaders' Investiture
   - infopic:
-      title: DSA
-      id: infopic
-      description: Apply for Direct School Admission to Secondary One
-      button: Click here to find out more
-      url: /direct-school-admissions-dsa
-      image: /images/Announcement/Apply_for_DSA.jpg
-      alt: Image alt text
-  - infopic:
       title: International Friendship Day 2025
       id: infopic
       button: Click here to view
@@ -204,14 +196,6 @@ sections:
       image: /images/Aboutus/ICDC_2025_2.png
       alt: PCSS ICDC 25
   - infopic:
-      title: Secondary 4 & 5
-      id: infopic
-      button: Click here to find out more
-      url: /secondary-4-5-cca-appreciation-and-stand-down-ceremony/
-      image: /images/Aboutus/CCA_Appreciation_2025_2.jpg
-      alt: CCA Appr 2025
-      description: CCA Appreciation and Stand Down Ceremony
-  - infopic:
       title: "NCC (Sea) Unit Achievement: Distinction Award 2024"
       id: infopic
       button: Click here to view
@@ -260,31 +244,6 @@ sections:
       url: /real-world-co-design-platform/
       image: /images/Announcement/Real_World_Co_design_Platform__1.jpg
       alt: Real World Co-design Platfor
-  - infopic:
-      title: Parent Engagement Session
-      id: infopic
-      description: 15 February 2025
-      image: /images/Announcement/pes_15Feb_2025.jpg
-      alt: Parent Engagement Session 2025
-      button: Click here to view slides
-      url: /parent-engagement-session-slides-15-feb/
-  - infopic:
-      title: Inspiring Teacher of English Award 2025
-      subtitle: Invitation for Nominations
-      id: infopic
-      description: I Love My English Teacher
-      image: /images/Announcement/i_love_my_eng_tr2025.png
-      alt: I Love My English Teacher 2025
-      button: Click here to view
-      url: /2025-inspiring-teacher-of-english-award/
-  - infopic:
-      title: Parent Engagement Session slides 18 Jan
-      id: infopic
-      description: Sec 4/5 – 8 45 am to 11 30 am,    Sec 1 – 1030 am to 130 pm
-      image: /images/Announcement/Slide1.jpg
-      alt: Parent Engagement
-      button: Click here to view slides
-      url: /parent-engagement-session-slides-18-jan/
   - infopic:
       title: PCSS Partnering Apple in our EdTech Programme
       id: infopic
