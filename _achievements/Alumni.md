@@ -49,183 +49,113 @@ variant: tiptap
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ALL ROUND EXCELLENCE AWARD 1" src="/images/Achievements/ALL_ROUND_EXC__1_.jpg">
-</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ALL ROUND EXCELLENCE AWARD 2" src="/images/Achievements/ALL_ROUND_EXC__2_.jpg">
-</div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ALL-ROUND EXCELLENCE AWARD 3" src="/images/Achievements/ALL_ROUND_EXC__3_.jpg">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ALL-ROUND EXCELLENCE AWARD 4" src="/images/Achievements/ALL_ROUND_EXC__4_.jpg">
-</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ALL-ROUND EXCELLENCE AWARD 5" src="/images/Achievements/ALL_ROUND_EXC__5_.jpg">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ALL-ROUND EXCELLENCE AWARD 6" src="/images/Achievements/ALL_ROUND_EXC__6_.jpg">
-</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ALL-ROUND EXCELLENCE AWARD 7" src="/images/Achievements/ALL_ROUND_EXC__7_.jpg">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ALL-ROUND EXCELLENCE AWARD 8" src="/images/Achievements/ALL_ROUND_EXC__8_.jpg">
-</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ALL-ROUND EXCELLENCE AWARD 9" src="/images/Achievements/ALL_ROUND_EXC__9_.jpg">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ALL-ROUND EXCELLENCE AWARD 10" src="/images/Achievements/ALL_ROUND_EXC__10_.jpg">
-</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ALL-ROUND EXCELLENCE AWARD 11" src="/images/Achievements/ALL_ROUND_EXC__11_.jpg">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ALL-ROUND EXCELLENCE AWARD 12" src="/images/Achievements/ALL_ROUND_EXC__12_.jpg">
-</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ALL-ROUND EXCELLENCE AWARD 13" src="/images/Achievements/ALL_ROUND_EXC__13_.jpg">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ALL-ROUND EXCELLENCE AWARD 14" src="/images/Achievements/ALL_ROUND_EXC__14_.jpg">
-</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ALL-ROUND EXCELLENCE AWARD 15" src="/images/Achievements/ALL_ROUND_EXC__15_.jpg">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ALL-ROUND EXCELLENCE AWARD 16" src="/images/Achievements/ALL_ROUND_EXC__16_.jpg">
-</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ALL-ROUND EXCELLENCE AWARD 17" src="/images/Achievements/ALL_ROUND_EXC__17_.jpg">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ALL-ROUND EXCELLENCE AWARD 18" src="/images/Achievements/ALL_ROUND_EXC__18_.jpg">
-</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ALL-ROUND EXCELLENCE AWARD 19" src="/images/Achievements/ALL_ROUND_EXC__19_.jpg">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ALL-ROUND EXCELLENCE AWARD 20" src="/images/Achievements/ALL_ROUND_EXC__20_.jpg">
-</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ALL-ROUND EXCELLENCE AWARD 21" src="/images/Achievements/ALL_ROUND_EXC__21_.jpg">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ALL-ROUND EXCELLENCE AWARD 22" src="/images/Achievements/ALL_ROUND_EXC__22_.jpg">
-</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ALL-ROUND EXCELLENCE AWARD 23" src="/images/Achievements/ALL_ROUND_EXC__23_.jpg">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ALL-ROUND EXCELLENCE AWARD 24" src="/images/Achievements/ALL_ROUND_EXC__24_.jpg">
-</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ALL-ROUND EXCELLENCE AWARD 25" src="/images/Achievements/ALL_ROUND_EXC__25_.jpg">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ALL-ROUND EXCELLENCE AWARD 26" src="/images/Achievements/ALL_ROUND_EXC__26_.jpg">
-</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -246,7 +176,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
 <p></p>
 <h4><strong>2024 </strong>CELEBRATION &amp; RECOGNITION DAY</h4>
 <h4>Value-Added Results in GCE 'O' and 'N' Level Examinations</h4>
