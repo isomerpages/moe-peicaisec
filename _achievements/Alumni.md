@@ -6,9 +6,8 @@ variant: tiptap
 ---
 <h4><strong>Recent Alumni Achievements</strong></h4>
 <h4><strong>2025 </strong>CELEBRATION &amp; RECOGNITION DAY</h4>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -23,25 +22,8 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -51,6 +33,205 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ALL-ROUND EXCELLENCE AWARD 1" src="/images/Achievements/ALL_ROUND_EXCELLENCE__1_.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ALL-ROUND EXCELLENCE AWARD 2" src="/images/Achievements/ALL_ROUND_EXCELLENCE__2_.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ALL-ROUND EXCELLENCE AWARD 3" src="/images/Achievements/ALL_ROUND_EXCELLENCE__3_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ALL-ROUND EXCELLENCE AWARD 4" src="/images/Achievements/ALL_ROUND_EXCELLENCE__4_.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ALL-ROUND EXCELLENCE AWARD 5" src="/images/Achievements/ALL_ROUND_EXCELLENCE__5_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ALL-ROUND EXCELLENCE AWARD 6" src="/images/Achievements/ALL_ROUND_EXCELLENCE__6_.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ALL-ROUND EXCELLENCE AWARD 7" src="/images/Achievements/ALL_ROUND_EXCELLENCE__7_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ALL-ROUND EXCELLENCE AWARD 8" src="/images/Achievements/ALL_ROUND_EXCELLENCE__8_.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ALL-ROUND EXCELLENCE AWARD 9" src="/images/Achievements/ALL_ROUND_EXCELLENCE__9_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ALL-ROUND EXCELLENCE AWARD 10" src="/images/Achievements/ALL_ROUND_EXCELLENCE__10_.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ALL-ROUND EXCELLENCE AWARD 11" src="/images/Achievements/ALL_ROUND_EXCELLENCE__11_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ALL-ROUND EXCELLENCE AWARD 12" src="/images/Achievements/ALL_ROUND_EXCELLENCE__12_.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ALL-ROUND EXCELLENCE AWARD 13" src="/images/Achievements/ALL_ROUND_EXCELLENCE__13_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ALL-ROUND EXCELLENCE AWARD 14" src="/images/Achievements/ALL_ROUND_EXCELLENCE__14_.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ALL-ROUND EXCELLENCE AWARD 15" src="/images/Achievements/ALL_ROUND_EXCELLENCE__15_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ALL-ROUND EXCELLENCE AWARD 16" src="/images/Achievements/ALL_ROUND_EXCELLENCE__16_.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ALL-ROUND EXCELLENCE AWARD 17" src="/images/Achievements/ALL_ROUND_EXCELLENCE__17_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ALL-ROUND EXCELLENCE AWARD 18" src="/images/Achievements/ALL_ROUND_EXCELLENCE__18_.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ALL-ROUND EXCELLENCE AWARD 19" src="/images/Achievements/ALL_ROUND_EXCELLENCE__19_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ALL-ROUND EXCELLENCE AWARD 20" src="/images/Achievements/ALL_ROUND_EXCELLENCE__20_.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ALL-ROUND EXCELLENCE AWARD 21" src="/images/Achievements/ALL_ROUND_EXCELLENCE__21_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ALL-ROUND EXCELLENCE AWARD 22" src="/images/Achievements/ALL_ROUND_EXCELLENCE__22_.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ALL-ROUND EXCELLENCE AWARD 23" src="/images/Achievements/ALL_ROUND_EXCELLENCE__23_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ALL-ROUND EXCELLENCE AWARD 24" src="/images/Achievements/ALL_ROUND_EXCELLENCE__24_.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ALL-ROUND EXCELLENCE AWARD 25" src="/images/Achievements/ALL_ROUND_EXCELLENCE__25_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ALL-ROUND EXCELLENCE AWARD 26" src="/images/Achievements/ALL_ROUND_EXCELLENCE__26_.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h4><strong>2024 </strong>CELEBRATION &amp; RECOGNITION DAY</h4>
 <h4>Value-Added Results in GCE 'O' and 'N' Level Examinations</h4>
 <table style="minWidth: 50px">
