@@ -220,7 +220,7 @@ Booth</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="PSG Member Dinner Sponsorship" src="/images/Parents/PSG_Member_Dinner_Sponsorship.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="PSG Member Dinner Sponsorship" src="/images/Parents/PSG_Member_Dinner_Sponsorship.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
