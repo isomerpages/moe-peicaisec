@@ -530,10 +530,28 @@ during the Teacher’s Day concert.</p>
 <tr>
 <td rowspan="1" colspan="2">
 <p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Ice-cream giveaway (25 October 2024)</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Ice-cream giveaway" src="/images/Parents/Ice_cream_giveaway.jpg">
 </div>
-</td>
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -545,6 +563,7 @@ during the Teacher’s Day concert.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p><strong>Join us a member of PSG</strong>
 </p>
 <p>We encourage all parents to be a member of the school’s PSG as it would
