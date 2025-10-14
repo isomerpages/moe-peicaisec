@@ -184,7 +184,7 @@ Booth</p>
 </tr>
 </tbody>
 </table>
-<p>Sports Day (14 March 2025)</p>
+<p>Sports Day (14 March 2025)- Parents participating in the telematch</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -194,6 +194,9 @@ Booth</p>
 <tr>
 <th rowspan="1" colspan="2">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Sports Day Parents participating" src="/images/Parents/Sports_Day.jpg">
+</div>
 </th>
 </tr>
 <tr>
@@ -206,9 +209,7 @@ Booth</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
-<p></p>
+<p>PSG Member Dinner Sponsorship (July 2025)– 10 sessions for 700 pax</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -217,10 +218,10 @@ Booth</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="PSG 2025" src="/images/Parents/PSG_2025.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="PSG Member Dinner Sponsorship" src="/images/Parents/PSG_Member_Dinner_Sponsorship.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -236,6 +237,98 @@ Booth</p>
 </tr>
 </tbody>
 </table>
+<p>Teacher’s Day Celebration (4 September 2025) – Parents set up booths with
+gifts for teachers and performed an original song written by the PSG EXCO
+during the Teacher’s Day concert.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Teacher’s Day Celebration A" src="/images/Parents/Teacher_s_Day_Celebration_A.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Teacher’s Day Celebration B" src="/images/Parents/Teacher_s_Day_Celebration_B.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Teacher’s Day Celebration C" src="/images/Parents/Teacher_s_Day_Celebration_C.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 92%;" height="auto" width="100%" alt="Teacher’s Day Celebration D" src="/images/Parents/Teacher_s_Day_Celebration_D.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Teacher’s Day Celebration E" src="/images/Parents/Teacher_s_Day_Celebration_E.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Teacher’s Day Celebration F" src="/images/Parents/Teacher_s_Day_Celebration_F.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Mid-Autumn Festival Celebration cum PSG Family Day (10 October 2025)</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mid-Autumn Festival" src="/images/Parents/PSG_Family_Day.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p><strong>Key Highlights of PSG Activities and Programmes in 2024</strong>
 </p>
