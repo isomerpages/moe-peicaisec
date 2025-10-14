@@ -324,12 +324,6 @@ during the Teacher’s Day concert.</p>
 </tbody>
 </table>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <p><strong>Key Highlights of PSG Activities and Programmes in 2024</strong>
 </p>
 <p>Breakfast with Principal (17 February 2024)</p>
@@ -513,9 +507,8 @@ during the Teacher’s Day concert.</p>
 </tbody>
 </table>
 <p>PSG Family Day (BBQ) (11 October 2024)</p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -533,14 +526,16 @@ during the Teacher’s Day concert.</p>
 <img style="width: 100%" height="auto" width="100%" alt="PSG Family Day (BBQ)" src="/images/Parents/Picture11.jpg">
 </div>
 </th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Ice-cream giveaway" src="/images/Parents/Ice_cream_giveaway.jpg">
+</div>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
