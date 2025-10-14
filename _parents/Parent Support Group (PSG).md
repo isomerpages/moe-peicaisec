@@ -534,8 +534,7 @@ during the Teacher’s Day concert.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Ice-cream giveaway (25 October 2024)</strong>
-</p>
+<p>Ice-cream giveaway (25 October 2024)</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
