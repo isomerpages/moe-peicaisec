@@ -581,10 +581,10 @@ touch with you.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="PSG QR CODE" src="/images/Parents/PSG_QR_CODE.png">
+<img style="width: 60%;" height="auto" width="100%" alt="Parents QR code" src="/images/Parents/QR_Code.jpg">
 </div>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
