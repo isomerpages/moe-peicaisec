@@ -569,7 +569,7 @@ during the Teacher’s Day concert.</p>
 instantly connect you with a number of parents with whom you would be able
 to interact and share ideas on how you could further support your child
 in his/her journey as a teenager.</p>
-<p>If you would like to be a member of Peicai’s PSG, please register <a href="https://go.gov.sg/psg2025" rel="noopener noreferrer nofollow" target="_blank">here</a> or
+<p>If you would like to be a member of Peicai’s PSG, please register <a href="https://go.gov.sg/pcsspsg" rel="noopener noreferrer nofollow" target="_blank">here</a> or
 scan the QR Code provided below and the PSG Teacher Advisors would be in
 touch with you.</p>
 <table style="minWidth: 50px">
@@ -580,10 +580,10 @@ touch with you.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="Parents QR code" src="/images/Parents/QR_Code.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents/PSG_2025_QR.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
