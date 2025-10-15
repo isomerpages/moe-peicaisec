@@ -107,14 +107,112 @@ school</p>
 </tr>
 </tbody>
 </table>
-<p><strong>PSG Activities and Programmes in 2025</strong>
+<p><strong>Key Highlights of PSG Activities and Programmes in 2025</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="PSG 2025" src="/images/Parents/PSG_2025.jpg">
-</div>
-<table style="minWidth: 75px">
+<p>Parent Engagement Session (18 January 2025)– PSG EXCO helming the PSG
+Booth</p>
+<table style="minWidth: 50px">
 <colgroup>
 <col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="Parent Engagement Session  1" src="/images/Parents/Parent_Engagement_Session.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Breakfast with Principal (22 February 2025)</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Breakfast with Principal" src="/images/Parents/Breakfast_with_Principal.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Breakfast with Principal B" src="/images/Parents/Breakfast_with_Principal_A_copy.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Breakfast with Principal B" src="/images/Parents/Breakfast_with_Principal_B_copy.jpg">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Breakfast with Principal C" src="/images/Parents/Breakfast_with_Principal_C.jpg">
+</div>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Sports Day (14 March 2025)- Parents participating in the telematch</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Sports Day Parents participating" src="/images/Parents/Sports_Day.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>PSG Member Dinner Sponsorship (July 2025)– 10 sessions for 700 pax</p>
+<table style="minWidth: 50px">
+<colgroup>
 <col>
 <col>
 </colgroup>
@@ -122,13 +220,107 @@ school</p>
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="PSG Member Dinner Sponsorship" src="/images/Parents/PSG_Member_Dinner_Sponsorship.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Teacher’s Day Celebration (4 September 2025) – Parents set up booths with
+gifts for teachers and performed an original song written by the PSG EXCO
+during the Teacher’s Day concert.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Teacher’s Day Celebration A" src="/images/Parents/Teacher_s_Day_Celebration_A.jpg">
+</div>
 </th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Teacher’s Day Celebration B" src="/images/Parents/Teacher_s_Day_Celebration_B.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Teacher’s Day Celebration C" src="/images/Parents/Teacher_s_Day_Celebration_C.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 92%;" height="auto" width="100%" alt="Teacher’s Day Celebration D" src="/images/Parents/Teacher_s_Day_Celebration_D.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Teacher’s Day Celebration E" src="/images/Parents/Teacher_s_Day_Celebration_E.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Teacher’s Day Celebration F" src="/images/Parents/Teacher_s_Day_Celebration_F.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Mid-Autumn Festival Celebration cum PSG Family Day (10 October 2025)</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mid-Autumn Festival" src="/images/Parents/PSG_Family_Day.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 </tbody>
 </table>
@@ -316,9 +508,8 @@ school</p>
 </tbody>
 </table>
 <p>PSG Family Day (BBQ) (11 October 2024)</p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -336,32 +527,15 @@ school</p>
 <img style="width: 100%" height="auto" width="100%" alt="PSG Family Day (BBQ)" src="/images/Parents/Picture11.jpg">
 </div>
 </th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p></p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong>Join us a member of PSG</strong>
-</p>
-<p>We encourage all parents to be a member of the school’s PSG as it would
-instantly connect you with a number of parents with whom you would be able
-to interact and share ideas on how you could further support your child
-in his/her journey as a teenager.</p>
-<p>If you would like to be a member of Peicai’s PSG, please register <a href="https://go.gov.sg/psg2025" rel="noopener noreferrer nofollow" target="_blank">here</a> or
-scan the QR Code provided below and the PSG Teacher Advisors would be in
-touch with you.</p>
+<p>Ice-cream giveaway (25 October 2024)</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -372,7 +546,7 @@ touch with you.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="PSG QR CODE" src="/images/Parents/PSG_QR_CODE.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents/ice_cream_psg_25_1.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -390,10 +564,40 @@ touch with you.</p>
 </tbody>
 </table>
 <p></p>
+<p><strong>Join us a member of PSG</strong>
+</p>
+<p>We encourage all parents to be a member of the school’s PSG as it would
+instantly connect you with a number of parents with whom you would be able
+to interact and share ideas on how you could further support your child
+in his/her journey as a teenager.</p>
+<p>If you would like to be a member of Peicai’s PSG, please register <a href="https://go.gov.sg/pcsspsg" rel="noopener noreferrer nofollow" target="_blank">here</a> or
+scan the QR Code provided below and the PSG Teacher Advisors would be in
+touch with you.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents/PSG_2025_QR.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
 <p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
-<p></p>
-<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>

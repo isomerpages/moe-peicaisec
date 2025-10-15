@@ -49,6 +49,8 @@ IT personnel at E3-02.</p>
 </ol>
 <p><a href="/files/posters_mims_sspr_guide.pdf" rel="noopener noreferrer nofollow" target="_blank">1. Student iCON/ MIMS account Password Self-Reset Instructions</a>
 <br><a href="/files/student_icon_onboarding_guide_sec_school.pdf" rel="noopener noreferrer nofollow" target="_blank">2.Student iCON Onboarding Guide_Sec Schs</a>
+<br><a href="https://go.gov.sg/pcssloi" rel="noopener nofollow" target="_blank">3.Application for Letter of Identification (FormSG: https://go.gov.sg/pcssloi)</a>
+<br><a href="https://go.gov.sg/pcssref" rel="noopener nofollow" target="_blank">4.Application for Letter of Recommendation/ Reference (FormSG: https://go.gov.sg/pcssref)</a>
 </p>
 <hr>
 <p></p>

@@ -11,7 +11,8 @@ variant: tiptap
 <br>The School Bookshop is located next to the canteen.</p>
 <p>Opening Hours:&nbsp;
 <br>Monday to Friday between <strong>7.30am to 2.00pm</strong> 
-<br>Closed for Lunch&nbsp;from: <strong>11.30am to 12.30pm</strong> 
-<br>Mode of Payment: <strong>PayNow</strong>, Cash or NTUC Back to School Voucher
-(No Cheque Payment)</p>
+<br>Closed for Lunch from: <strong>12.00pm to 1.00pm</strong> 
+<br>Mode of Payment: PayNow, EZ Link card, NETS, Cash.</p>
+<p>(Note: During the year-end book sales in December, only PayNow or cash
+payment will be accepted.)</p>
 <p>During school holidays the bookshop will be closed.</p>

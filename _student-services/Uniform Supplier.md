@@ -11,7 +11,7 @@ online appointment)</p>
 <p>– please click the website below for more information, or refer to the
 letter posted in Parents Gateway</p>
 <p><strong><u>Uniform Supplier</u>: </strong>
-<br>Student Mart (under Jeep Sing Fashion)
+<br>Jeep Sing Fashion
 <br>Contact:&nbsp;64563198
 <br>Website&nbsp;:&nbsp;<strong><a href="http://www.jeepsinguniform.com/" rel="noopener noreferrer nofollow" target="_blank">www.jeepsinguniform.com</a></strong>
 <br>
