@@ -8,8 +8,7 @@ variant: tiptap
 <p><strong>Telephone:</strong> +(65) 6202 1260</p>
 <p><strong>Email:</strong> peicai_ss@moe.edu.sg</p>
 <p><strong>Bus Services:</strong> 
-<br>22, 24, 43, 53, 105, 156, 315, 853, 70, 76, 103, 147, 156, 136, 103W,
-317</p>
+<br>22,24,53,109,109A, 156,315,853,853M</p>
 <p><strong>Nearest MRT Station:<br></strong>Serangoon MRT &amp; Lorong Chuan
 MRT</p>
 <div class="iframe-wrapper">
