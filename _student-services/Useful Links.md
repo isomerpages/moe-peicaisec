@@ -49,6 +49,8 @@ IT personnel at E3-02.</p>
 </ol>
 <p><a href="/files/posters_mims_sspr_guide.pdf" rel="noopener noreferrer nofollow" target="_blank">1. Student iCON/ MIMS account Password Self-Reset Instructions</a>
 <br><a href="/files/student_icon_onboarding_guide_sec_school.pdf" rel="noopener noreferrer nofollow" target="_blank">2.Student iCON Onboarding Guide_Sec Schs</a>
+<br><a href="/files/student_icon_onboarding_guide_sec_school.pdf" rel="noopener noreferrer nofollow" target="_blank">3.</a>
+<br><a href="/files/student_icon_onboarding_guide_sec_school.pdf" rel="noopener noreferrer nofollow" target="_blank">4.</a>
 </p>
 <hr>
 <p></p>
