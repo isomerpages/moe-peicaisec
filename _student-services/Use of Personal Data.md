@@ -18,7 +18,7 @@ class may also be published so that proper credit and accolade can be accorded.
 and will not allow any personal data of our students to be used for non-school
 related purposes. If you have any objection or query to the use of personal
 data (including photo and video images) of you or your child/ward, please
-email the school at&nbsp;<a href="mailto:peicai_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">peicai_ss@moe.edu.sg</a>&nbsp;or contact
-us at 6202 1260.
+email the school at&nbsp;<strong><a href="mailto:peicai_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">peicai_ss@moe.edu.sg</a></strong>&nbsp;or
+contact us at <strong>6202 1260</strong>.
 <br>
 <br>Updated: January 2021</p>
