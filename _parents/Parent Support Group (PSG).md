@@ -543,10 +543,10 @@ during the Teacher’s Day concert.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Ice-cream giveaway" src="/images/Parents/Ice_cream_giveaway.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents/ice_cream_psg_25_1.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
