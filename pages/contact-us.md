@@ -15,8 +15,7 @@ contacts:
   - content:
       - phone: +65 6202 1260
       - email: peicai_ss@moe.edu.sg
-      - other: "Bus Services: 22, 24, 43, 53, 105, 156, 315, 853, 70, 76, 103, 147, 156,
-          136, 103W, 317"
+      - other: "Bus Services: 22,24,53,109,109A, 156,315,853,853M"
     title: "Telephone:"
   - content:
       - phone: ""
