@@ -5,6 +5,257 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>2025</strong></h3>
+<h4><strong>Understanding Diplomacy: Visit to the Singapore Embassy in Japan</strong></h4>
+<p>One of the most meaningful highlights was the visit to the <strong>Singapore Embassy in Tokyo</strong>,
+where students gained first-hand insight into:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Singapore’s diplomatic presence in Asia</p>
+</li>
+<li>
+<p>How the <strong>Ministry of Foreign Affairs (MFA)</strong> protects Singapore’s
+interests abroad</p>
+</li>
+<li>
+<p>The importance of building strong bilateral relations with other nations</p>
+</li>
+</ul>
+<p>Through engaging sharings by embassy officials, our students learned that
+diplomacy is not just politics—it is about trust, collaboration, and representing
+our national identity with pride.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Distinctive Programmes/osep_jp_25_1.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Culinary Adventure: A Taste of Japan</strong>
+</p>
+<p>Every day brought a new culinary delight! Students enjoyed an exciting
+range of <strong>authentic Japanese cuisine</strong>, including:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Fresh sushi and sashimi</p>
+</li>
+<li>
+<p>Warming shabu-shabu and hotpot meals</p>
+</li>
+<li>
+<p>Savoury street food and delicate desserts</p>
+</li>
+</ul>
+<p>This exposure helped Peicaians appreciate how food reflects Japan’s culture
+of precision, harmony, and hospitality.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Distinctive Programmes/osep_jp_25_2.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Nature &amp; Wonder: Mount Fuji and Lavender Fields</strong>
+</p>
+<p>A breathtaking excursion to <strong>Mount Fuji</strong> left everyone in
+awe. The stunning <strong>lavender fields</strong> provided the perfect postcard
+moment, and students even tried <strong>lavender-flavoured ice cream</strong>—a
+unique treat they will never forget!</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Distinctive Programmes/osep_jp_25_3.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Innovation Meets Imagination: TeamLab Borderless</strong>
+</p>
+<p>At <strong>TeamLab</strong>, students stepped into a world where <strong>art, science, and technology unite</strong>.
+Through interactive digital installations, they experienced:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>How creativity can be powered by technology</p>
+</li>
+<li>
+<p>The future of immersive learning spaces</p>
+</li>
+<li>
+<p>Global trends in art-science fusion</p>
+</li>
+</ul>
+<p>It was an inspiring experience that sparked curiosity and innovation.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Distinctive Programmes/osep_jp_25_4.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Cultural Appreciation: Traditional Tea Ceremony</strong>
+</p>
+<p>Students participated in a <strong>traditional Japanese tea ceremony</strong>,
+dressed in elegant <strong>kimono</strong>. This “key ceremony” taught them:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The values of respect, mindfulness, and simplicity</p>
+</li>
+<li>
+<p>The beauty of Japanese rituals and heritage</p>
+</li>
+<li>
+<p>The importance of cultural preservation</p>
+</li>
+</ul>
+<p>Many students remarked how calming and meaningful the experience was.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Distinctive Programmes/osep_jp_25_5.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>School Exchange with Mita High School</strong>
+</p>
+<p>A major highlight of the programme was the <strong>exchange with Mita High School</strong>,
+where our students participated in:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>CCA immersion</strong> (e.g. sports, music, dance, martial arts)</p>
+</li>
+<li>
+<p><strong>Karate Sports Exchange</strong>
+</p>
+</li>
+<li>
+<p><strong>Cultural exchange activities with Japanese buddies</strong>
+</p>
+</li>
+</ul>
+<p>Through collaboration and friendship, our Peicaians discovered both the
+differences and similarities between student life in Singapore and Japan.
+They developed global awareness, cultural sensitivity, and confidence communicating
+across borders.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Distinctive Programmes/osep_jp_25_6.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Distinctive Programmes/osep_jp_25_7.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>A Journey of Growth and Global Citizenship</strong>
+</p>
+<p>This exchange programme was more than a trip—it was a transformative experience.
+Our students returned with:
+<br>✅ A deeper understanding of diplomacy and Singapore’s place in Asia
+<br>✅ Greater appreciation for Japanese culture, tradition, and innovation
+<br>✅ New friendships and international networks
+<br>✅ Broadened perspectives and stronger leadership skills</p>
+<p>As Peicaians continue to grow as <strong>responsible global citizens</strong>,
+experiences like this lay the foundation for future-ready, culturally fluent
+leaders of tomorrow.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Peicai Secondary School—Expanding Horizons, One Exchange at a Time.</strong> ✈️🌏</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h4><strong>G2G Brunei School Exchange Programme</strong></h4>
 <p><strong>In May 2025</strong>, Peicai Secondary School played host to <strong>Sekolah Menengah Rimba</strong> as
 part of the <strong>G2G Brunei School Exchange Programme</strong>. This
