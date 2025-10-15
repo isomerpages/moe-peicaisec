@@ -4,7 +4,7 @@ permalink: /student-services/school-insurance/
 description: ""
 variant: tiptap
 ---
-<h4><strong>GROUP PERSONAL ACCIDENT INSURANCE FOR STUDENTS (for Year 2025)</strong></h4>
+<h4><strong>GROUP PERSONAL ACCIDENT INSURANCE FOR STUDENTS</strong></h4>
 <p>This is a Group Personal Accident (GPA) Insurance which covers death,
 permanent and total/partial disability and medical expenses due to an accident.
 The proximate or triggering causes of injuries must be reasonably attributed
@@ -638,7 +638,7 @@ elsewhere.</p>
 </p>
 <p>a) Treatment incurred more than 365 days from date of accident.
 <br>b) Treatment for an injury not as a result of an accident.
-<br>c) Private Physiotherapy or alternative treatment ((e.g. chiropractor,
+<br>c) Private Physiotherapy or alternative treatment (e.g. chiropractor,
 herbalist, podiatrist, naturopathy, Ayurveda).
 <br>d) Non-prescribed medication or mobility aids (such as crutches, wheelchair,
 etc).</p>
