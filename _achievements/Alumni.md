@@ -24,7 +24,7 @@ one that continues to grow, connect, and inspire across generations.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/Alumni_2025.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Achievements/Alumni_2025.jpg">
 </div>
 <p></p>
 </th>
