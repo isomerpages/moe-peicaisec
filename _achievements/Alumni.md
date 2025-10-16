@@ -4,6 +4,38 @@ permalink: /achievements/alumni/
 description: ""
 variant: tiptap
 ---
+<h4><strong>Peicai Alumni Activities 2025</strong></h4>
+<p>Peicai Secondary School continues to strengthen connections with its alumni
+through a variety of engaging activities. Throughout the year, former students
+returned to share their experiences, inspire current Peicaians, and contribute
+to the school community.</p>
+<p>The school also invited outstanding alumni to return for a sharing and
+award session, where they reflected on their learning journeys and offered
+valuable insights into life beyond secondary school. Their stories of perseverance
+and growth served as a source of motivation for current students.</p>
+<p>These meaningful interactions not only celebrate the achievements of our
+alumni but also reinforce the enduring bonds within the Peicai family —
+one that continues to grow, connect, and inspire across generations.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/Alumni_2025.jpg">
+</div>
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>Recent Alumni Achievements</strong></h4>
 <h4><strong>2025 </strong>CELEBRATION &amp; RECOGNITION DAY</h4>
 <table style="minWidth: 50px">
