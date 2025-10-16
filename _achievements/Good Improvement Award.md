@@ -102,7 +102,44 @@ resilience , determination and positive impact they have made for themselves.</p
 </tr>
 </tbody>
 </table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="4NA Good imp names 2025" src="/images/Achievements/4NA_Good_imp_award_students_names__.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="4NT good imp names 2025" src="/images/Achievements/4NT_Good_imp_award_students_names__.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="4Exp good imp names 2025" src="/images/Achievements/4EXP_Good_imp_award_students_names__.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong><u>Good Improvement Award 2024</u></strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
