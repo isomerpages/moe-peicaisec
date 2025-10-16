@@ -126,7 +126,7 @@ resilience , determination and positive impact they have made for themselves.</p
 <td rowspan="1" colspan="2">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="4Exp good imp names 2025" src="/images/Achievements/4EXP_Good_imp_award_students_names__.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="4Exp good imp names 2025" src="/images/Achievements/4EXP_Good_imp_award_students_names__.jpg">
 </div>
 </td>
 </tr>
