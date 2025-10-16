@@ -837,7 +837,7 @@ Mention (Physics)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/6091_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">6091 Physics</a>
+<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Private%20Cddts/2026/6091_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">6091 Physics</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
