@@ -33,12 +33,12 @@ self-awareness to support them in discovering how they can meaningfully
 play a part in their community.
 <br>•<strong>Exploring opportunities</strong>&nbsp;- Where do I want to go?
 Develop students' self-directedness and confidence to explore and leverage
-education and career opportunities while respecting the value of all occupations.</p>
-<p><strong>• Staying relevant</strong>&nbsp;- How do I get there? Build students'
+education and career opportunities while respecting the value of all occupations.
+<br><strong>• Staying relevant</strong>&nbsp;- How do I get there? Build students'
 adaptability and resilience to embrace the need for lifelong learning.</p>
 <h4><strong>ECG Experiences @ PCSS</strong></h4>
 <p>Through the ECG Experiences, we seek to guide our students to:
-<br>•become more aware of their own strengths and interests
+<br>• become more aware of their own strengths and interests
 <br>• understand the relevant courses of study at post-secondary institutions
 <br>• explore different industries and careers</p>
 <p>The wide variety of ECG experiences in PCSS aim to enable our students
@@ -58,16 +58,36 @@ to make informed choices about post-secondary education and possible careers.</p
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>● ECG Lessons during CCE Lessons</p>
-<p>● Student Work Attachment (SWAP)</p>
-<p>● Applied Learning Modules</p>
-<p>● Visit to Post-Secondary Institutions (Junior Colleges, Polytechnics,
-Institute of Technical Education)</p>
-<p>● School Cluster-Wide Learning Fiesta</p>
-<p>● Visit by Post-Secondary Institutions to Peicai</p>
-<p>● Customised Workshops</p>
-<p>● Talks by Alumni</p>
-<p>● ECG Fair</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>ECG Lessons during CCE Lessons</p>
+</li>
+<li>
+<p>Student Work Attachment (SWAP)</p>
+</li>
+<li>
+<p>Applied Learning Modules</p>
+</li>
+<li>
+<p>Visit to Post-Secondary Institutions (Junior Colleges, Polytechnics, Institute
+of Technical Education)</p>
+</li>
+<li>
+<p>School Cluster-Wide Learning Fiesta</p>
+</li>
+<li>
+<p>Visit by Post-Secondary Institutions to Peicai</p>
+</li>
+<li>
+<p>Customised Workshops</p>
+</li>
+<li>
+<p>Talks by Alumni</p>
+</li>
+<li>
+<p>ECG Fair</p>
+</li>
+</ul>
 </th>
 </tr>
 </tbody>
@@ -100,7 +120,7 @@ to:</p>
 levels. Students are invited to apply for the available work attachment
 opportunities and are selected to go for the work attachments based on
 criteria which includes passion for the work area and industry.</p>
-<p><a href="/distinctive-edge/work-attachment/" rel="noopener noreferrer nofollow" target="_blank">Click</a>&nbsp;here
+<p><a href="https://www.peicaisec.moe.edu.sg/distinctive-edge/work-attachment/" rel="noopener noreferrer nofollow" target="_blank">Click</a>&nbsp;here
 to find out more about the Student Work Attachment Programme at PCSS.</p>
 <p>Our Partners providing work attachment opportunities for our students
 include the following:</p>
@@ -113,30 +133,28 @@ include the following:</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_2024_p1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Partners_List_2025.jpg">
 </div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_2024_p2.jpg">
-</div>
 </td>
 </tr>
 </tbody>
 </table>
-<h4><strong>Applied Learning Module@ ITE</strong></h4>
-<p>ITE’s Applied Learning Modules (ApLM@ITE), formerly known as Category
-A Elective Modules (CAT A EM) are short courses developed to broaden the
-learning experiences of MOE students. The 22.5-hour programme will introduce
-students to ITE’s full-time Nitec and Higher Nitec courses and expose them
-to possible educational progression and career pathways, enabling them
-to make more informed choices upon graduation from secondary school. Through
-the hands-on practical sessions, students will have the opportunity to
-discover how the knowledge and skills learnt can be applied to related
-industries.</p>
+<h4><strong>Interaction with Post-Secondary Institutions (ITE)</strong></h4>
+<p>At Peicai Secondary, we emphasize helping students make informed decisions
+about their educational and career pathways. Events like the ‘Start Smart’
+programme, where lecturers from institutions like Temasek Polytechnic share
+insights into various courses, play a vital role in this process. Similarly,
+engagements with Junior Colleges give our students a broader perspective
+on their post-secondary options. These interactions allow students to explore
+different academic and vocational routes, empowering them to make choices
+that align with their interests and strengths. By exposing our students
+to a range of post-secondary institutions, we ensure they are better equipped
+for their future, helping them plan their educational journey with confidence.</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -146,91 +164,14 @@ industries.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_2024_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_oct25_1.jpg">
 </div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Our students put the skills they learnt through the elective modules into
-practice</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_2024_2.jpg">
-</div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Students from our school gathered at ITE after completing the Applied
-Learning Module (ApLM@ITE), where they explored new learning experiences
-and future career pathways.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_2024_3.jpg">
-</div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Students collaborate in teams at the ITE computer lab, applying their
-learning in a hands-on environment.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>Interaction with Post-Secondary Institutions (ITE)</strong>
+<p><em>Lecturer from Temasek Polytechnic sharing on the various courses offered in the Polytechnic</em>
 </p>
-<p>&nbsp;At Peicai Secondary, we emphasize helping students make informed
-decisions about their educational and career pathways. Events like the
-‘Start Smart’ programme, where lecturers from institutions like Temasek
-Polytechnic share insights into various courses, play a vital role in this
-process. Similarly, engagements with Junior Colleges give our students
-a broader perspective on their post-secondary options. These interactions
-allow students to explore different academic and vocational routes, empowering
-them to make choices that align with their interests and strengths. By
-exposing our students to a range of post-secondary institutions, we ensure
-they are better equipped for their future, helping them plan their educational
-journey with confidence.</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_2024_4.jpg">
-</div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Lecturer from Temasek Polytechnic sharing on the various courses offered
-in the Polytechnic</p>
 </td>
 </tr>
 </tbody>
@@ -244,22 +185,21 @@ in the Polytechnic</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_2024_5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_oct25_2.jpg">
 </div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Peicai students attending an informative talk by Junior College representatives,
-gaining insights into academic programs and opportunities available at
-the JC level.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>Education and Career Guidance (ECG) Fair by Institutes of Higher Learning (IHLs) and Talks by Alumni</strong>
+<p><em>Lecturer from ITE sharing with our students.</em>
 </p>
-<p>The Education and Career Guidance (ECG) Fair offered Peicai Secondary
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Education and Career Guidance (ECG) Fair by Institutes of Higher Learning (IHLs) and Talks by Alumni and External Organisations</strong>
+</p>
+<p>&nbsp;The Education and Career Guidance (ECG) Fair offered Peicai Secondary
 students a valuable opportunity to explore various academic pathways and
 career options. Throughout the event, students interacted with representatives
 from a range of post-secondary institutions, gaining insights into different
@@ -276,155 +216,14 @@ plan their educational and career trajectories.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_2024_6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_oct25_3.jpg">
 </div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Students browse brochures and interact with representatives from different
-post-secondary institutions.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_2024_7.jpg">
-</div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Students visiting the various post-secondary institutions booths from
-the Junior Colleges, Polytechnics and ITEs.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_2024_8.jpg">
-</div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>A Polytechnic student explaining his course to Peicai students during
-the Education and Career Guidance (ECG) Fair, providing valuable insights
-into future academic pathways and career options.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_2024_9.jpg">
-</div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Alumni sharing about his career choice with the SAF with our Secondary
-3 students.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_2024_10.jpg">
-</div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Alumni engaging students in a Q&amp;A after sharing about their careers
-in the Airforce, Business, Media and Nursing</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_2024_11.jpg">
-</div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Four speakers from various professions at the Sec 3 Career Talk shared
-their unique career experiences and advice, inspiring students to explore
-diverse pathways.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong><u>Visits to Post-Secondary Institutions</u></strong>
+<p><em>Alumnus Jenzus Hsu from Microsoft sharing about the IT industry.</em>
 </p>
-<p>During the visits to post-secondary institutions, Peicai students had
-the opportunity to interact with students at Nanyang Junior College (NYJC)
-and explore various polytechnics. These sessions aimed to provide valuable
-insights into different academic pathways and help students consider their
-options for future studies. The engagement allowed Peicai students to learn
-more about the programs offered at both NYJC and the polytechnics, giving
-them a better understanding of the opportunities available as they prepare
-for their educational journeys beyond secondary school.</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_2024_12.jpg">
-</div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Peicai students at Nanyang Junior College to explore their academic options
-and future pathways</p>
 </td>
 </tr>
 </tbody>
@@ -438,13 +237,14 @@ and future pathways</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_2024_13.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_oct25_4.jpg">
 </div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Providing students with deeper insights into the various courses.</p>
+<p><em>Alumnus Marklin Ang sharing about his photography business in the Creative industry.</em>
+</p>
 </td>
 </tr>
 </tbody>
@@ -458,18 +258,27 @@ and future pathways</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_2024_14.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_oct25_5.jpg">
 </div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>NYJC students engage with Peicai students, fostering connections and sharing
-insights about academic opportunities.</p>
+<p><em>Speaker from Eastern General Hospital sharing about the Healthcare industry.</em>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p><strong>A Day In Court</strong>
+</p>
+<p>The programme is designed to give students a better understanding of the
+role of the State Courts and the court procedures. Students will also be
+introduced to topics such as harassment or (cyber) bullying, and what they
+can do if they or their friends encounter such incidents. Students will
+gain an understanding of the role of the Courts, and what students should
+do if they or their friends encounter incidents (e.g., harassment or bullying)
+while attending school.</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -479,13 +288,122 @@ insights about academic opportunities.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_2024_15.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_oct25_6.jpg">
 </div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Getting A Glimpse into a student’s life in the Polytechnic</p>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Family Justice Court Open House</strong>
+</p>
+<p>To commemorate the move to its new premises, the Family Justice Courts,
+which deals with family-related cases and youth-offender cases, is having
+an Open House. Your child/ward has indicated interest to attend. Students
+enjoyed an immersive experience and discovered features and facilities
+of the new Family Justice Courts building that are built with families
+and children in mind. witness mock court proceedings in the Youth Court,
+and mock mediation and counselling sessions.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_oct25_7.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong><u>Visit to Nanyang Junior College (NYJC)</u></strong>
+</p>
+<p>During the visit to NYJC, Peicai students had the opportunity to interact
+with NYJC students. These sessions aimed to provide valuable insights into
+the JC pathway and help students consider their options for future studies.
+The engagement allowed Peicai students to learn more about the programs
+offered at NYJC, giving them a better understanding of the opportunities
+available as they prepare for their educational journeys beyond secondary
+school.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_oct25_8.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_oct25_9.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>Peicai students at Nanyang Junior College to explore their academic options and future pathways</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Experience ITE (EIP)</strong>
+</p>
+<p>The Experience ITE Programme (EIP) is specially designed for secondary
+school students to experience ITE’s <em>Hands-On, Minds-On and Hearts-On</em> education
+immersed in authentic learning environments. Through the EIP, students
+are given opportunities to try out a range of fun and practical projects,
+which could help instill interest in skills education and provide important
+Education and Career Guidance (ECG) in terms of the courses or pathways
+available in ITE.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_oct25_10.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_oct25_11.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_oct25_12.jpg">
+</div>
 </td>
 </tr>
 </tbody>
@@ -509,50 +427,23 @@ field.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_2024_16.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_oct25_13.jpg">
 </div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Students getting a glimpse into the world of STEM</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_2024_17.jpg">
-</div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_2024_18.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>St Gabriel’s Secondary Learning Fiesta</strong>
+<p><em>Students getting a glimpse into the world of STEM</em>
 </p>
-<p>The Learning Fiesta was designed for secondary school students with an
-interest in the aerospace industry to experience a space exploration program
-and a range of technological and aviation related workshops such as generative
-AI, drone AI and flight simulation.Through the workshops hosted by aviation
-institutions, students are given opportunities to engage in a range of
-fun and practical learning opportunities which could help instill interest
-in the aerospace industry and provide important Education and Career Guidance
-(ECG) in terms of the experiences and challenges living in space.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -562,7 +453,73 @@ in the aerospace industry and provide important Education and Career Guidance
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_2024_19.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_oct25_14.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Worldskills SG</strong>
+</p>
+<p>WorldSkills Singapore (WSS) is a national skills competition held&nbsp;biennially
+to discover the best in talents among the youth in Singapore.&nbsp;Outstanding
+performers of WSS will represent Singapore to compete in&nbsp;the prestigious
+international-level WorldSkills Competition.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_oct25_15.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_oct25_16.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>ECG Corner @ The Sphere</strong>
+</p>
+<p>Students can look up post-secondary education resources for their further
+exploration at this dedicated space in the school’s newly revamped library,
+The Sphere. Filled with information such as admission booklets, course
+brochures and prospectus across most Junior Colleges, Polytechnics, Institute
+of Technical Education (ITEs) and Universities, students are highly encouraged
+to read up and understand more about their post-secondary options.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_oct25_17.png">
 </div>
 </th>
 </tr>
@@ -570,53 +527,269 @@ in the aerospace industry and provide important Education and Career Guidance
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_2024_20.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_oct25_18.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_oct25_19.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_oct25_20.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><em>Students reading up admission booklets and course brochures.</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>ECG Activities, Workshops and Talks conducted by ECG Counsellor</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Individual/Group ECG Counselling</p>
+</li>
+</ul>
+<p>The school’s in-house ECG Counsellor provides individual and group ECG
+counselling sessions to empower students to keep an open mind to new possibilities
+and opportunities. They facilitate discussions to help student/s be resilient
+and embrace changes, encouraging them to adopt a life-long learning attitude
+and to plan for the way forward. Sessions can range from discovering “Who
+am I” by helping students discover their VIPS, exploring possibilities,
+understanding the World of Work, and helping students explore and chart
+their next steps leading to their desired courses of study.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_oct25_21.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_oct25_22.png">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_oct25_23.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<ul data-tight="true" class="tight">
+<li>
+<p>ECG Talks</p>
+</li>
+</ul>
+<p>ECG Talks are conducted to targeted cohort students to help them further
+explore their values, interests, personality, skills and to plan their
+education and career pathways with a growth mindset.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_oct25_24.png">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_oct25_25.png">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_2024_21.jpg">
-</div>
 </td>
 </tr>
 </tbody>
 </table>
+<p>Targeted workshops are conducted in Term 2 and Term 3 to support graduating
+students who are keen to apply Direct School Admissions (DSA) to the Junior
+Colleges/ Millenia Institute, or Early Admission Exercise (EAE) to the
+polytechnics or Institute of Technical Education (ITEs). These workshops
+range from helping students with their personal statement writing, course-specific
+write-ups, portfolio development to preparing students for their admissions
+interviews. Students will be equipped to know how they can present their
+best selves in school admission exercises.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_oct25_26.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_oct25_27.png">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_oct25_28.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_oct25_29.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<ul data-tight="true" class="tight">
+<li>
+<p>Pathfinder Workshops</p>
+</li>
+</ul>
+<p>The Pathfinder Workshops help students to explore and find hope by seizing
+new opportunities amidst setbacks. The activities planned during the workshop
+seeks to encourage students to be resilient, embrace changes and continue
+to adapt a life-long learning attitude. It enables our students to understand
+how being adaptable can help to overcome obstacles, and empower them to
+open their minds to new possibilities and plan for the way forward.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_oct25_30.png">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_oct25_31.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<ul data-tight="true" class="tight">
+<li>
 <p><strong>Education and Career Guidance (ECG) Counsellor</strong>
-<br>The school also has an in-house ECG Counsellor who provides the following
-to students:
-<br>• up-to-date information and resources on post-secondary education
-<br>•individual and/or group counselling and guidance sessions with the aim
+</p>
+</li>
+</ul>
+<p>The school also has an in-house ECG Counsellor who provides the following
+to students:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>up-to-date information and resources on post-secondary education</p>
+</li>
+<li>
+<p>individual and/or group counselling and guidance sessions with the aim
 of helping students make well-informed decisions or manage issues related
-to education and career choices
-<br>•work closely with the school to support the planning and delivery of
-ECG strategies that are customised to the school’s needs, profile or areas
-of priority
-<br>
-<br>Students may proactively make appointments to meet up with the ECG Counsellor
+to education and career choices</p>
+</li>
+<li>
+<p>work closely with the school to support the planning and delivery of ECG
+strategies that are customised to the school’s needs, profile or areas
+of priority</p>
+</li>
+</ul>
+<p>Students may proactively make appointments to meet up with the ECG Counsellor
 in school through their Form Teachers</p>
 <p><strong>ECG Resources</strong>
 </p>
 <p>ECG Overview:
-<br><a href="www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/overview" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/overview</a>
+<br><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/overview" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/overview</a>
 </p>
 <p>ECG Tips for Parents:
-<br><a href="www.moe.gov.sg/-/media/files/programmes/ecg/ecg-tips-for-parents.ashx" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/-/media/files/programmes/ecg/ecg-tips-for-parents.ashx</a>
+<br><a href="https://go.gov.sg/tips-for-parents" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/tips-for-parents</a>
 </p>
-<p>Post-secondary Options:
-<br><a href="www.moe.gov.sg/post-secondary" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/post-secondary</a>
+<p>Post-secondary Options:</p>
+<p><a href="https://www.moe.gov.sg/post-secondary" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/post-secondary</a>
 </p>
-<p>Post-Secondary Education Institutions:
-<br><a href="www.moe.gov.sg/post-secondary/overview/" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/post-secondary/overview/</a>
+<p>Post-Secondary Education Institutions:</p>
+<p><a href="www.moe.gov.sg/post-secondary/overview/" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/post-secondary/overview/</a>
 </p>
-<p>Early Admissions Exercise (Polytechnics):
-<br><a href="www.moe.gov.sg/post-secondary/admissions/poly-eae" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/post-secondary/admissions/poly-eae</a>
+<p>Early Admissions Exercise (Polytechnics):</p>
+<p><a href="https://www.moe.gov.sg/post-secondary/admissions/poly-eae" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/post-secondary/admissions/poly-eae</a>
 </p>
-<p>Polytechnic Foundation Programme:
-<br><a href="https://pfp.polytechnic.edu.sg/PFP/index.html" rel="noopener noreferrer nofollow" target="_blank">https://pfp.polytechnic.edu.sg/PFP/index.html</a>
+<p>Polytechnic Foundation Programme:</p>
+<p><a href="https://pfp.polytechnic.edu.sg/PFP/index.html" rel="noopener noreferrer nofollow" target="_blank">https://pfp.polytechnic.edu.sg/PFP/index.html</a>
 </p>
-<p>Joint Admissions Exercise :
-<br><a href="www.moe.gov.sg/post-secondary/admissions/jae" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/post-secondary/admissions/jae</a>
+<p>Joint Admissions Exercise :</p>
+<p><a href="https://www.moe.gov.sg/post-secondary/admissions/jae" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/post-secondary/admissions/jae</a>
 </p>
