@@ -454,7 +454,7 @@ Shaped like an eye, the Framework underscores how responding to literature
 empowers students to interpret texts and the world from diverse perspectives,
 fostering greater discernment and insight.</p>
 <h4><strong>Department Programmes/Highlights</strong></h4>
-<p><strong><u>Secondary 1 Public Speaking Workshop </u></strong>
+<p><strong><u>Secondary 1 Public Speaking Workshop</u></strong>
 </p>
 <p>At Peicai Secondary School, we recognise that effective communication
 is a vital skill for success. To nurture this ability, our Secondary One
@@ -696,27 +696,39 @@ Debating Championship Preliminary Round.</p>
 </colgroup>
 <tbody>
 <tr>
+<th rowspan="1" colspan="1">
+<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2025/1184_y25_sy.pdf" rel="noopener nofollow" target="_blank">1184 (G3/EXP)</a>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><a href="https://www.seab.gov.sg/files/NA%20Lvl%20Syllabus%20Private%20Cddts/2025/1190_y25_sy.pdf" rel="noopener nofollow" target="_blank">1190 (G2/NA)</a>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><a href="https://www.seab.gov.sg/files/NT%20Lvl%20Syllabus%20Sch%20Cddts/2025/1195_y25_sy.pdf" rel="noopener nofollow" target="_blank">1195 (G1/NT)</a>
+</p>
+</th>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/1184_y25_sy.pdf?sfvrsn=6cf6e92f_2" rel="noopener noreferrer nofollow" target="_blank">&nbsp;1184 "O" Level English</a>
+<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2026/2262_y26_sy.pdf" rel="noopener nofollow" target="_blank">2262 (G3 Elective Lit)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/1190_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">1190 ‘N(A)’ Level English</a>
+<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2025/2065_y25_sy.pdf" rel="noopener nofollow" target="_blank">2065 (Exp Pure Lit)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/1195_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">1195 ‘N(T)’ Level English</a>
+<p><a href="https://www.seab.gov.sg/files/NA%20Level%20Syllabus%20Sch%20Cddts/2026/2127_y26_sy.pdf" rel="noopener nofollow" target="_blank">2127 (NA Elective Lit)</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/2262_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">2262 ‘O’ Level Humanities (Social Studies, Literature in English)</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/2127_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">2127 ‘N(A)’ Level Humanities (Social Studies, Literature in English)</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
