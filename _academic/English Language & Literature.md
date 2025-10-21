@@ -439,7 +439,6 @@ through instruction tailored to students' needs.</p>
 <h4><strong>English Literature</strong></h4>
 <p>At Peicai Secondary School, our goal is to help students develop the skills
 to become:</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/eng_2024_4.jpg">
 </div>
@@ -455,22 +454,21 @@ Shaped like an eye, the Framework underscores how responding to literature
 empowers students to interpret texts and the world from diverse perspectives,
 fostering greater discernment and insight.</p>
 <h4><strong>Department Programmes/Highlights</strong></h4>
-<p><strong><u>Speech and Drama Workshops</u></strong>
+<p><strong><u>Secondary 1 Public Speaking Workshop </u></strong>
 </p>
-<p>At Peicai Secondary School, we recognise the importance of effective communication.
-To nurture this skill, we bring in Speech and Drama experts to train our
-Secondary One students, equipping them with the confidence and knowledge
-needed to communicate effectively. Our students learn the art of engaging
-their audience through both verbal and non-verbal communication. This in
-turns allow students to develop the necessary skills to speak confidently
-ensuring enunciation, articulation, and vocal projection, with the appropriate
-tone, pitch, and pace.</p>
-<p>In the English classroom, they have numerous opportunities to practice
-and enhance these skills through engaging activities, mock debates, and
-class presentations.</p>
-<p>Additionally, we identify and prepare representatives to participate in
-the Plain English Speaking Award organized by YMCA, further honing their
-public speaking abilities.</p>
+<p>At Peicai Secondary School, we recognise that effective communication
+is a vital skill for success. To nurture this ability, our Secondary One
+students engage in a Public Speaking Workshop designed to introduce them
+to the fundamentals of effective public speaking. The programme develops
+students’ confidence in speaking clearly and expressively in front of an
+audience while guiding them to use voice and body language to project credibility.</p>
+<p>Through hands-on practice, students draft and deliver speeches on given
+or chosen topics, applying verbal and non-verbal techniques to engage their
+audience. They gain a deep understanding of the elements of an effective
+speech and communicate their ideas with clarity, confidence, and conviction.
+By refining their enunciation, articulation, and vocal projection using
+tone, pitch, and pace effectively, students communicate with impact and
+deliver presentations that are both persuasive and memorable.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -481,24 +479,23 @@ public speaking abilities.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/eng_2024_6.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Academic/eng_dept_25_1.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/eng_2024_7.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/eng_dept_25_2.png">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Empowering tomorrow's speakers: A student's enthusiastic leap during our
-Speech and Drama workshop, captivating his audience with confidence.</p>
+<p>Empowering tomorrow's speakers: Students working together to craft and
+refine their respective speeches.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fostering engaging speakers: Building confidence through Speech and Drama
-activities.</p>
+<p>Fostering engaging speakers: Building confidence through interactive activities.</p>
 </td>
 </tr>
 <tr>
@@ -512,19 +509,18 @@ activities.</p>
 </tbody>
 </table>
 <p></p>
-<p><strong><u>Learning Journey to the National Library Board</u></strong>
-<br>Our Secondary Two students participate in a Learning Journey to the National
-Library Board, engaging in workshops and tours that enhance their information
-literacy skills. This programme aligns with MOE's 21st century competencies
-by fostering critical and inventive thinking as students evaluate AI-generated
-content and explore ethical challenges in technology use. It supports our
-English department's goals of developing critical thinkers and effective
-communicators by empowering students to analyse diverse information sources,
-apply the S.U.R.E. steps, and articulate their ideas in both digital and
-traditional contexts. Through this experience, students cultivate the skills
-necessary to navigate the complexities of the digital age, becoming more
-discerning consumers and creators of information while honing their language
-abilities.</p>
+<p><strong><u>Be S.U.R.E with Generative AI: Exploring Digital Literacy and Critical Thinking through Interactive Learning</u></strong>
+</p>
+<p>Our students participate in the Be S.U.R.E. with Generative AI talk by
+the National Library Board. Students examine AI-generated versus original
+content, critically analysing information in context and reflecting on
+purpose, audience, and credibility.</p>
+<p>The session supports Peicai Secondary School’s goal of developing empathetic
+communicators, discerning readers, and creative inquirers. By combining
+interactivity with critical thinking, students strengthen their multiliteracies,
+deepen their understanding of diverse perspectives, and enhance their digital
+citizenship, equipping them to navigate an information-rich world thoughtfully
+and responsibly.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -535,24 +531,24 @@ abilities.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/eng_2024_8.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/eng_dept_25_3.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/eng_2024_9.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Academic/eng_dept_25_4.jpg">
 </div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Traveling back in time: students explore old newspapers using the microfilm
-collection.</p>
+<p>Diving into the world of AI, our students engage in a fun, gamified activity
+at the <em>Be S.U.R.E. with Generative AI</em> talk.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Immersed in the world of journalism, students explore the dynamic history
-of news at the News Gallery.</p>
+<p>In an engaging discussion activity, our students collaborate to examine
+how AI influences the way we think and create.</p>
 </td>
 </tr>
 </tbody>
@@ -589,15 +585,15 @@ discovering new resources.</p>
 </tr>
 </tbody>
 </table>
-<p><strong><u>Debate Workshop &amp; Inter-Class Debating Championship 2024<br></u></strong>All
-Secondary Three students participate in debate workshops led by experienced
-debaters. These workshops provide a platform for students to practice skills
-like argument development and persuasive speech delivery. Through these
-experiences, students not only build confidence but also sharpen their
-critical thinking abilities. They then get the chance to showcase their
-skills in the Secondary Three Inter-class Debating Championship, where
-they can put their abilities to the test in friendly competition with their
-fellow students.</p>
+<p><strong><u>Debate Workshop &amp; Inter-Class Debating Championship 2025<br></u></strong>All
+Secondary Three students attend debate workshops led by experienced debaters.
+These sessions introduce students to the fundamentals of argument development
+and persuasive speech, helping them structure their ideas clearly and present
+them convincingly. Through guided practice, students build confidence,
+sharpen their critical thinking skills, and explore multiple perspectives
+on complex issues. They then apply these skills in the Secondary Three
+Inter-Class Debating Championship, showcasing their abilities in a supportive
+and engaging competitive environment.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -608,52 +604,27 @@ fellow students.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Debating Championship 2024" src="/images/Achievements/Debating_Championship_2024_C.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/eng_dept_25_5.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Debating Championship 2024" src="/images/Achievements/Debating_Championship_2024_D.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/eng_dept_25_6.png">
+</div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/eng_2024_14.jpg">
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Academic/eng_dept_25_7.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/eng_2024_15.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Academic/eng_dept_25_8.jpg">
 </div>
 </td>
 </tr>
@@ -675,6 +646,7 @@ fellow students.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -685,13 +657,13 @@ fellow students.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/eng_2024_16.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Academic/eng_dept_25_9.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/eng_2024_17.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Academic/eng_dept_25_10.jpg">
 </div>
 </td>
 </tr>
