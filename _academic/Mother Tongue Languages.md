@@ -244,37 +244,80 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>Learning Outcomes</strong></h4>
-<p>The MTL curriculum aims to develop proficient language users who can communicate
-confidently and effectively in various real-life contexts; and to expose
-students to cultures and values through MTL lessons.</p>
-<p>In Peicai, the MTL curriculum aims to</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Strengthen student’s communication skills to be able to use their MTL
-as a living language both in school and out of school.</p>
-</li>
-<li>
-<p>Deepen student’s appreciation of culture by understanding their unique
-identity through deeper appreciation of culture, traditions, literature,
-and history.</p>
-</li>
-<li>
-<p>Better connect students with communities in local context and across Asia
-including the world.</p>
-</li>
-</ul>
-<p>Lessons conducted focus on developing students’ critical thinking and
-creative thinking skills. Teachers will leverage ICT tools to provide students
-with more interactive and real-life authentic learning, to promote self-directed
-and collaborative learning.</p>
+<p>The Mother Tongue Languages curriculum seeks to nurture proficient language
+users who can communicate confidently and effectively in real-world contexts,
+while deepening their appreciation of cultures and values through meaningful
+Mother Tongue Languages learning experiences.</p>
+<p>In Peicai, the Mother Tongue Languages curriculum aims to</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/mt_dept_1.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/mt_dept_2.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/mt_dept_3.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Strengthen students’ communication skills so they can use their Mother
+Tongue Language as a living language, both within and beyond the school
+environment.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Deepen students’ appreciation of their cultural identity through a richer
+understanding of traditions, literature, and history.</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Connect students more meaningfully with communities in the local context,
+across Asia, and around the world.</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Our lessons are designed to help students think critically and creatively.
+With the use of ICT tools, teachers create engaging and authentic learning
+experiences that encourage students to take charge of their own learning
+and work together with their peers.</p>
 <p>We support these endeavours through a repertoire of interactive and innovative
-teaching strategies, which are customised to student’s learning needs.</p>
-<p>Experiential Learning is integrated to allow students to make connections
-of the real-world context.</p>
+teaching strategies, which are customised to suit our students’ learning
+needs.</p>
+<p>Experiential Learning is also integrated to allow students to make connections
+with the real-world.</p>
 <h4><strong><u>Assessment Framework</u></strong></h4>
 <p>The use of a variety of assessment modes aims to allow for better instructional
-tool to promote students’ learning. Hence, assessment does not only serve
-as an evaluative tool. Some of the assessment modes include:</p>
+tools to promote students’ learning. Some of the assessment modes include:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Self, peer and teacher assessment</p>
@@ -283,34 +326,27 @@ as an evaluative tool. Some of the assessment modes include:</p>
 <p>Oral Presentation</p>
 </li>
 <li>
-<p>Formative and Summative testing</p>
+<p>Formative and Summative assessment</p>
+</li>
+<li>
+<p>Alternative assessment</p>
 </li>
 </ul>
 <h4><strong>Programmes</strong></h4>
-<h4><strong><u>Chinese Language and Culture</u></strong></h4>
-<p><strong>Chinese Language</strong>
+<p><strong><u>Chinese Language and Culture</u></strong>
 </p>
-<p>To achieve our Mother Tongue department mission, we embark on several
-programmes to enhance our students’ language skills. These programmes aimed
-at enhancing the necessary language skills, i.e speaking, listening, reading
-and writing. Our key programmes include ‘Class Library Programme’ and the
-‘MTL Intensive Programme for our Graduating Classes’.</p>
-<p><strong>Chinese Culture</strong>
+<p><strong>Chinese New Year Celebrations 2025</strong>
 </p>
-<p>To inspire the students’ love for their culture, and to seize every opportunity
-to teach our students values, we organise the following activities for
-our students each year:</p>
-<p><strong><u>Chinese New Year Concert 2025</u></strong>
-</p>
-<p>We celebrated the Lunar New Year on 28 January with a vibrant and festive
+<p>We celebrated the Chinese New Year on 28 January with a vibrant and festive
 atmosphere at school. Peicaians had the opportunity to engage in various
 fringe activities in the classroom, such as Chinese Calligraphy and Chinese
 New Year Digital Card Making Competition, where they could experience the
 beauty of this traditional art form.</p>
 <p>Later, the whole school came together to enjoy a series of performances
 and programs in the school hall, showcasing the rich cultural heritage
-of the Lunar New Year. It was a day filled with joy, creativity, and community
-spirit as we embraced the traditions and celebrations of this special occasion.</p>
+of the Chinese New Year. It was a day filled with joy, creativity, and
+community spirit as we embraced the traditions and celebrations of this
+special occasion.</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -331,13 +367,30 @@ spirit as we embraced the traditions and celebrations of this special occasion.<
 </tr>
 </tbody>
 </table>
-<p><strong><u>MT Fortnight Cultural activities for our students</u></strong>
+<p><strong><u>Mother Tongue Languages Fortnight cultural activities</u></strong>
 </p>
-<p>To expose our students to different cultural activities, we organize various
-activities for our students during the Mother Tongue fortnight, such as
-traditional costume, bamboo slip, paper folding, tea appreciation and shadow
-puppet. One key highlight for this year is the sharing by students during
-Morning Assembly.</p>
+<p>From 24 March to 4 April 2025, the school buzzed with colour, creativity,
+and cultural pride during <strong>Mother Tongue Languages Fortnight</strong>.
+This annual event aimed to spark joy in learning the Mother Tongue through
+immersive, hands-on experiences that celebrated the richness of cultural
+traditions. Secondary 1 to 3 students took part in various workshops conducted
+during their Mother Tongue Languages lesson.</p>
+<p><strong>Chinese Language Workshops</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Sec 1</strong> – <em>Hanfu Origami（汉服折纸）</em>: Crafted bookmarks
+inspired by traditional costumes</p>
+</li>
+<li>
+<p><strong>Sec 2</strong> – <em>Opera Mask Painting（画脸谱）</em>: Designed bold
+and dramatic Chinese opera masks</p>
+</li>
+<li>
+<p><strong>Sec 3</strong> – <em>Chinese Knots（中国结）</em>: Learned the meaning
+behind intricate knot patterns</p>
+</li>
+</ul>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -345,103 +398,10 @@ Morning Assembly.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="2">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/mt_2024_3.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/mt_2024_4.jpg">
-</div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong>Secondary 1 students recreating ancient Chinese architects.</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/mt_2024_5.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/mt_2024_6.jpg">
-</div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong>Secondary 2 students designing puppets and bamboo scrolls.</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/mt_2024_7.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/mt_2024_8.jpg">
-</div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong>Secondary 3 students engaging in Tea Appreciation Workshop.</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4><strong><u>Mid-Autumn Festival (September 2024)</u></strong></h4>
-<p><strong>MTL Department collaboration with SWB</strong>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/mt_2024_9.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/mt_2024_10.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/mt_dept_4.jpg">
 </div>
 </th>
 </tr>
@@ -449,22 +409,38 @@ Morning Assembly.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/mt_2024_11.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/mt_dept_5.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/mt_2024_12.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/mt_dept_6.jpg">
 </div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong><u>Exposure / Competition</u></strong>
+<h4><strong>Mid-Autumn Festival 2025</strong></h4>
+<p><strong><em>The Mid-Autumn Festival (MAF) celebration aimed to strengthen the connection and collaboration between the school staff and the Parent Support Group (PSG), fostering closer home-school relations.</em></strong>
 </p>
-<table style="minWidth: 50px">
+<p>This year, the Mother Tongue Languages Department took the lead in decorating
+the school compound, including the design and setup of the Moon Appreciation
+Walk. The team also prepared a variety of engaging game booths that aligned
+with the festival’s theme. These activities not only reflected the festive
+spirit of MAF but also encouraged active participation and created a lively,
+joyful atmosphere for everyone.</p>
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -473,31 +449,65 @@ Morning Assembly.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/mt_2024_13.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/mt_dept_7.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/mt_2024_14.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/mt_dept_8.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/mt_dept_9.jpg">
 </div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Students participating in the 50th National Schools Translation Competition.</strong>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/mt_dept_10.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Peicaians taking part in National Chinese Challenge.</strong>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/mt_dept_11.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/mt_dept_12.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 50px">
+<p><strong><u>Achievements</u></strong>
+</p>
+<p><strong>National Schools Translation Competition 2025</strong>
+</p>
+<p>Our students took part in the National Schools Translation Competition
+2025. The National Schools Translation Competition aims to promote bilingualism
+and cultivate students’ interest in translation between English and their
+Mother Tongue Languages. Yang Rui (4C3) clinched an individual merit award.</p>
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
@@ -505,140 +515,89 @@ Morning Assembly.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/mt_2024_15.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/mt_2024_16.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/mt_dept_13.jpg">
 </div>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
-<p><strong>The 7th National Secondary Schools Chinese Mini-Fiction Creative Writing Competition winning entries by Wang Haiqi and Han Zi Qin Evelyn.</strong>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>National Secondary Schools Creative Writing Competition 2025</strong>
 </p>
+<p>Our students participated in the&nbsp;National Secondary Schools Creative
+Writing Competition with Photography 2025 （新蕾爱拍客）, organized by the Singapore
+Hokkien Huay Kuan (SHHK). The competition attracted strong participation
+from secondary schools across the nation. We are pleased to announce that&nbsp;Wu
+Youran (3CE)&nbsp;has achieved the&nbsp;Second Place&nbsp;in this prestigious
+competition. Her accomplishment affirms her strong command of the Chinese
+language, photography skills, and creative ability to convey complex ideas
+through the integration of words and images.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcement/zh_ss_25_1.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>National Chinese Reading Contest 2025</strong>
+</p>
+<p>Kew Kai Qi Venice (1HY), Chiang Shutong (1CN) and Wu Youran (3CE) (from
+left to right) participated in the inaugural&nbsp;National Chinese Reading
+Contest&nbsp;organised by the Committee to Promote Chinese Language Learning
+(CPCLL) on 23 August 2025.</p>
+<p>In the preliminary round in July, they were required to read six Chinese
+books and complete an online quiz regarding them. From a pool of over 2,500
+contestants, these students achieved outstanding results by placing in
+the&nbsp;top 30, thereby qualifying for the finals.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcement/zh_ss_25_5.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
 <h4><strong><u>Malay Language and Culture</u></strong></h4>
-<p><strong>Malay Language</strong>
+<p><strong>Hari Raya Celebration 2025</strong>
 </p>
-<p>To achieve our Mother Tongue department mission, we embark on several
-programmes to enhance our students’ language skills. These programmes include
-‘Class Library Programme’ and the ‘MTL Intensive Programme for our Graduating
-Classes’.</p>
-<p><strong>Malay Culture</strong>
-</p>
-<p>In addition to our commitment to nurture students to be proficient users
-of the Malay language, we have also included enrichment activities to enhance
-our students’ knowledge about the Malay culture. These activities are as
-follows:</p>
-<p><strong><u>MT Fortnight Cultural activities for our students</u></strong>
-</p>
-<p>The department has organized workshops such as Jawi Calligraphy, Malay
-Dance, Traditional Games and Acting (Opera Theatre, Bangsawan) for our
-students. These workshops are conducted to enhance students’ interest and
-appreciation of Malay culture.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/mt_2024_17.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/mt_2024_18.jpg">
-</div>
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<p>Secondary 1 students learning how to play Gasing.</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/mt_2024_19.jpg">
-</div>
-</th>
-<td rowspan="1" colspan="1">
-<p><strong>Secondary 2 students engaging in Malay dance.</strong>
-</p>
-</td>
-</tr>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/mt_2024_20.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/mt_2024_21.jpg">
-</div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong>Secondary 3 students learning Jawi Calligraphy.</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4><strong><u>Hari Raya Celebration 2025</u></strong></h4>
 <p>On 16 April 2025, the Peicai school hall came alive with vibrant energy
 as students gathered for a memorable Hari Raya Concert, organised by the
 Malay Language Unit. This year’s celebration was extra special, with cultural
-arts group <em>Wira Budaya</em> invited to share insights on how Hari Raya
-is celebrated across Malaysia, Indonesia, and Singapore.</p>
+arts group&nbsp;<em>Wira Budaya</em>&nbsp;invited to share insights on
+how Hari Raya is celebrated across Malaysia, Indonesia, and Singapore.</p>
 <p>Next, our students put up various performances such as showcasing of Silat
-moves, Malay dance and singing of the song <em>‘Hari Raya’.</em> They took
-the opportunity to share the Malay culture and the spirit of Hari Raya
-with the school.</p>
+moves, Malay dance and singing of the song&nbsp;<em>‘Hari Raya’.</em>&nbsp;They
+took the opportunity to share the Malay culture and the spirit of Hari
+Raya with the school.</p>
 <p>The concert culminated in a delightful finale, where Malay teachers from
 various departments joined students on stage, wrapping up the celebration
 with unity and cheer. It was a truly enriching day—one filled with culture,
@@ -652,7 +611,7 @@ connection, and celebration for both staff and students.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/Hari_Raya_photos_for_MTL_page.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/mt_dept_14.jpg">
 </div>
 </th>
 </tr>
@@ -663,126 +622,186 @@ connection, and celebration for both staff and students.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong><u>Hari Raya Celebration</u></strong></h4>
-<p>During the celebration, students and staff were presented with numerous
-segments of joyous get-together, such as Dikir Barat, Singing of Hari Raya
-songs, Malay Dance, MT Fortnight Sharing by Rakan Bahasa Ambassadors 2024
-and Hari Raya Quiz.</p>
-<table style="minWidth: 50px">
+<p><strong>Mother Tongue Languages Fortnight cultural activities</strong>
+</p>
+<p>The Secondary 1-3 Malay Language students took part in Mother Tongue Languages
+Fortnight activities during their mother tongue language lesson.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Sec 1</strong> – <em>Wayang Kulit</em>: Made traditional shadow
+puppets and performed original stories</p>
+</li>
+<li>
+<p><strong>Sec 2</strong> – <em>Seni Tampal Selit</em>: Created layered artworks
+with intricate cut designs</p>
+</li>
+<li>
+<p><strong>Sec 3</strong> – <em>Gubahan Songket</em>: Designed decorative crafts
+from songket fabric</p>
+</li>
+</ul>
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="3">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/mt_2024_22.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/mt_2024_23.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/mt_dept_15.jpg">
 </div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Dikir Barat performance</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>‘Raya Raya Raya, Selamat Hari Raya!’</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/mt_2024_24.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/mt_dept_16.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/mt_2024_27.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/mt_dept_17.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/mt_dept_18.jpg">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Malay Dance performance</strong>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Syllabus</strong></h4>
+<p><strong><u>Chinese Language</u></strong>
+</p>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Higher Chinese</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Finale by performers and teachers</strong>
+<p><strong>G3 Chinese / Express Chinese</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>G2 Chinese / Normal Academic Chinese</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>G1 Chinese / Basic Chinese</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Chinese Syllabus ‘B’</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2025/1116_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Higher Chinese Syllabus (1116)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2026/1160_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">G3 Chinese / Express Chinese Syllabus (1160)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.seab.gov.sg/files/NA%20Level%20Syllabus%20Sch%20Cddts/2025/1196_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">G2 Chinese / Normal Academic Chinese (1196)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.seab.gov.sg/files/NT%20Lvl%20Syllabus%20Sch%20Cddts/2025/1202_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">G1 Chinese / Basic Chinese (1202)</a>
+</p>
+<p><strong><u>&nbsp;</u></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2025/1153_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Chinese Syllabus ‘B’ (1153)</a>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong><u>External Exposure / Competition</u></strong>
+<p><strong><u>Malay Language</u></strong>
 </p>
-<table style="minWidth: 50px">
+<table style="minWidth: 125px">
 <colgroup>
+<col>
+<col>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/mt_2024_28.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/mt_2024_29.jpg">
-</div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong>Rakan Bahasa Ambassadors 2024, Mohamad Aqil Bin Mohamad Rosdin and Nurleen Danish Binte Nor Hamizan, are actively involved in school activities to promote the Malay language.</strong>
+<td rowspan="1" colspan="1">
+<p><strong>Higher Malay</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>G3 Malay / Express Malay</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>G2 Malay / Normal Academic Malay</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>G1 Malay / Basic Malay</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Malay Syllabus ‘B’</strong>
 </p>
 </td>
 </tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/mt_2024_30.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/mt_2024_31.jpg">
-</div>
-</th>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/mt_2024_32.jpg">
-</div>
+<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2025/1117_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Higher Malay Syllabus (1117)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Our Secondary 3 students immersing themselves in the rich tapestry of Malay culture @ Fiesta Kesantunan 2024.</strong>
+<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2025/1148_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">G3 Malay / Express Malay Syllabus (1148)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.seab.gov.sg/files/NA%20Level%20Syllabus%20Sch%20Cddts/2025/1197_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">G2 Malay / Normal Academic Malay (1197)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.seab.gov.sg/files/NT%20Lvl%20Syllabus%20Sch%20Cddts/2025/1203_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">G1 Malay / Basic Malay (1203)</a>
+</p>
+<p><strong><u>&nbsp;</u></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2025/1151_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Malay Syllabus ‘B’ (1151)</a>
 </p>
 </td>
 </tr>
