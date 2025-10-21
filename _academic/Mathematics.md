@@ -464,7 +464,8 @@ roller coaster challenge!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Winners of 2025 Singapore Mathematical Olympiad (SMO)</p>
+<p>Winners of 2025 Singapore Mathematical Olympiad (SMO) and SIMOC Mathematics
+Master Mind</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Learning through a tasty lens: Students compare the sizes and costs of
