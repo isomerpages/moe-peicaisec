@@ -19,7 +19,8 @@ how they contribute to the well-functioning of society; (Mindset)
 <br>4) equip students with&nbsp;<strong>skills and means to positively engage&nbsp;</strong>their
 parents and other&nbsp;<strong>career influencers.&nbsp;</strong>(Engaging
 the community)</p>
-<h4><strong>Curriculum</strong></h4>
+<p><strong>Curriculum</strong>
+</p>
 <p><strong>ECG Outcomes for Secondary Students</strong>
 </p>
 <p>1) Our ECG programmes are planned and conducted for students at various
@@ -27,20 +28,36 @@ levels in alignment with the ECG Development Model by the Ministry of Education.
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/ecg1v.jpg">
 </div>
-<p>The goals of ECG are to support students in:
-<br>•<strong>&nbsp;Discovering purpose</strong>&nbsp;- Who am I? Nurture students'
+<p>The goals of ECG are to support students in:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Discovering purpose</strong>&nbsp;- Who am I? Nurture students'
 self-awareness to support them in discovering how they can meaningfully
-play a part in their community.
-<br>•<strong>Exploring opportunities</strong>&nbsp;- Where do I want to go?
+play a part in their community.</p>
+</li>
+<li>
+<p><strong>Exploring opportunities</strong>&nbsp;- Where do I want to go?
 Develop students' self-directedness and confidence to explore and leverage
-education and career opportunities while respecting the value of all occupations.
-<br><strong>• Staying relevant</strong>&nbsp;- How do I get there? Build students'
+education and career opportunities while respecting the value of all occupations.</p>
+</li>
+<li>
+<p><strong>Staying relevant</strong>&nbsp;- How do I get there? Build students'
 adaptability and resilience to embrace the need for lifelong learning.</p>
+</li>
+</ul>
 <h4><strong>ECG Experiences @ PCSS</strong></h4>
-<p>Through the ECG Experiences, we seek to guide our students to:
-<br>• become more aware of their own strengths and interests
-<br>• understand the relevant courses of study at post-secondary institutions
-<br>• explore different industries and careers</p>
+<p>Through the ECG Experiences, we seek to guide our students to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>become more aware of their own strengths and interests</p>
+</li>
+<li>
+<p>understand the relevant courses of study at post-secondary institutions</p>
+</li>
+<li>
+<p>explore different industries and careers</p>
+</li>
+</ul>
 <p>The wide variety of ECG experiences in PCSS aim to enable our students
 to make informed choices about post-secondary education and possible careers.</p>
 <table style="minWidth: 25px">
@@ -57,7 +74,7 @@ to make informed choices about post-secondary education and possible careers.</p
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
 <p>ECG Lessons during CCE Lessons</p>
@@ -88,7 +105,7 @@ of Technical Education)</p>
 <p>ECG Fair</p>
 </li>
 </ul>
-</th>
+</td>
 </tr>
 </tbody>
 </table>
@@ -97,19 +114,32 @@ of Technical Education)</p>
 </tbody>
 </table>
 <h4><strong>Key Programmes</strong></h4>
-<h4><strong>ECG-Based Lessons During CCE periods</strong></h4>
+<p><strong>ECG-Based Lessons During CCE periods</strong>
+</p>
 <p>As part of CCE lessons, all students have lessons focusing on Education
 and Career Guidance. During the lessons, the following areas are covered:</p>
-<p>Discovering who you are
-<br>• Self-Awareness and Personal Management
-<br>
-<br>Making informed career decisions
-<br>•Exploring and Understanding the Education Landscape
-<br>• Exploration of Occupational Clusters
-<br>• Identification of Relational Support and Decision Influencers
-<br>Continual learning
-<br>• Adoption of Growth Mindset and Developing Enduring Dispositions</p>
-<p></p>
+<p>Discovering who you are</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Self-Awareness and Personal Management</p>
+</li>
+</ul>
+<p>Making informed career decisions</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Exploring and Understanding the Education Landscape</p>
+</li>
+<li>
+<p>Exploration of Occupational Clusters</p>
+</li>
+<li>
+<p>Identification of Relational Support and Decision Influencers
+<br>Continual learning</p>
+</li>
+<li>
+<p>Adoption of Growth Mindset and Developing Enduring Dispositions</p>
+</li>
+</ul>
 <h4><strong>Student Work Attachment Programme (SWAP)</strong></h4>
 <p>The Student Work Attachment Programme (SWAP) is designed to enable Peicaians
 to:</p>
@@ -199,7 +229,7 @@ for their future, helping them plan their educational journey with confidence.</
 </table>
 <p><strong>Education and Career Guidance (ECG) Fair by Institutes of Higher Learning (IHLs) and Talks by Alumni and External Organisations</strong>
 </p>
-<p>&nbsp;The Education and Career Guidance (ECG) Fair offered Peicai Secondary
+<p>The Education and Career Guidance (ECG) Fair offered Peicai Secondary
 students a valuable opportunity to explore various academic pathways and
 career options. Throughout the event, students interacted with representatives
 from a range of post-secondary institutions, gaining insights into different
@@ -464,12 +494,11 @@ field.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Worldskills SG</strong>
-</p>
-<p>WorldSkills Singapore (WSS) is a national skills competition held&nbsp;biennially
-to discover the best in talents among the youth in Singapore.&nbsp;Outstanding
-performers of WSS will represent Singapore to compete in&nbsp;the prestigious
-international-level WorldSkills Competition.</p>
+<p><strong>WorldSkills Singapore (WSS)<br></strong>WorldSkills Singapore
+(WSS) is a national skills competition held&nbsp;biennially to discover
+the best in talents among the youth in Singapore.&nbsp;Outstanding performers
+of WSS will represent Singapore to compete in&nbsp;the prestigious international-level
+WorldSkills Competition.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -654,6 +683,11 @@ education and career pathways with a growth mindset.</p>
 </tr>
 </tbody>
 </table>
+<ul data-tight="true" class="tight">
+<li>
+<p>Aptitude-based Admissions (ABA) Workshops</p>
+</li>
+</ul>
 <p>Targeted workshops are conducted in Term 2 and Term 3 to support graduating
 students who are keen to apply Direct School Admissions (DSA) to the Junior
 Colleges/ Millenia Institute, or Early Admission Exercise (EAE) to the
@@ -745,13 +779,8 @@ open their minds to new possibilities and plan for the way forward.</p>
 </tr>
 </tbody>
 </table>
-<ul data-tight="true" class="tight">
-<li>
 <p><strong>Education and Career Guidance (ECG) Counsellor</strong>
-</p>
-</li>
-</ul>
-<p>The school also has an in-house ECG Counsellor who provides the following
+<br>The school also has an in-house ECG Counsellor who provides the following
 to students:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -766,10 +795,13 @@ to education and career choices</p>
 <p>work closely with the school to support the planning and delivery of ECG
 strategies that are customised to the school’s needs, profile or areas
 of priority</p>
+<p></p>
+<p>Students may proactively make appointments to meet up with the ECG Counsellor
+in school through their Form Teachers or make an appointment via the ECG
+Appointment Booking Link: <a href="https://go.gov.sg/pcss-ecg" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pcss-ecg</a>. Alternatively,
+students can also reach out by emailing the ECG Counsellor at <a href="mailto:tan_yi_ling_c@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yi_ling_c@moe.edu.sg</a>.</p>
 </li>
 </ul>
-<p>Students may proactively make appointments to meet up with the ECG Counsellor
-in school through their Form Teachers</p>
 <p><strong>ECG Resources</strong>
 </p>
 <p>ECG Overview:
@@ -779,17 +811,17 @@ in school through their Form Teachers</p>
 <br><a href="https://go.gov.sg/tips-for-parents" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/tips-for-parents</a>
 </p>
 <p>Post-secondary Options:</p>
-<p><a href="https://www.moe.gov.sg/post-secondary" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/post-secondary</a>
+<p><a href="www.moe.gov.sg/post-secondary" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/post-secondary</a>
 </p>
 <p>Post-Secondary Education Institutions:</p>
 <p><a href="www.moe.gov.sg/post-secondary/overview/" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/post-secondary/overview/</a>
 </p>
 <p>Early Admissions Exercise (Polytechnics):</p>
-<p><a href="https://www.moe.gov.sg/post-secondary/admissions/poly-eae" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/post-secondary/admissions/poly-eae</a>
+<p><a href="www.moe.gov.sg/post-secondary/admissions/poly-eae" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/post-secondary/admissions/poly-eae</a>
 </p>
 <p>Polytechnic Foundation Programme:</p>
 <p><a href="https://pfp.polytechnic.edu.sg/PFP/index.html" rel="noopener noreferrer nofollow" target="_blank">https://pfp.polytechnic.edu.sg/PFP/index.html</a>
 </p>
 <p>Joint Admissions Exercise :</p>
-<p><a href="https://www.moe.gov.sg/post-secondary/admissions/jae" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/post-secondary/admissions/jae</a>
+<p><a href="www.moe.gov.sg/post-secondary/admissions/jae" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/post-secondary/admissions/jae</a>
 </p>
