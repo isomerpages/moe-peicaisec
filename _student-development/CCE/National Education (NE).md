@@ -262,6 +262,393 @@ on the ASEAN country which they were representing.</p>
 </tr>
 </tbody>
 </table>
+<p><strong>Racial Harmony Day 2025</strong>
+</p>
+<p>Racial Harmony Day was commemorated in school in Week 4 of Term 3 from
+the 21<sup>st</sup> July (Monday) to 25<sup>th</sup> July (Friday).</p>
+<p>The theme for Racial Harmony Day (RHD) , ‘Our People, Our Tapestry’, reminds
+us that the diverse cultural threads in our society are intricately intertwined,
+working together to form a vibrant and unified whole. The objective of
+RHD is to help students recognise the importance of mutual understanding,
+appreciation, and respect among our various ethnic communities ; all of
+which are key to preserving the strength and harmony of our multicultural
+society.</p>
+<p>This year, our RHD commemoration continued to deepen students’ awareness
+that cultural expression takes many forms. In keeping with the theme, the
+focus remained on ethnic food and snacks; always a crowd favourite and
+with an exciting new addition: ethnic games.</p>
+<p>It was heartening to see our students and teachers coming together during
+CCE lessons to bring, share and enjoy a wide array of traditional snacks
+and games. The classroom celebrations were filled with laughter, curiosity,
+and rich conversations. The lively demonstrations of Kabaddi, Wushu, and
+Sepak Raga further engaged our students, sparking interest in traditional
+ethnic sports and highlighting the diversity of expression across cultures.</p>
+<p>During recess, the interactive ethnic games booth was a popular attraction,
+where students enthusiastically participated in nostalgic games such as
+5 Stones, Chapteh, and Congkak. Their enthusiasm and openness to explore
+reflected the heart of Racial Harmony Day: &nbsp;a celebration of shared
+experiences and cultural learning.</p>
+<p>The commemoration would not have been possible without the dedication
+of our teachers and the wholehearted participation of our students. Together,
+they helped bring the theme “Our People, Our Tapestry” to life in meaningful
+and memorable ways.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcement/rhd_25_1.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcement/rhd_25_2.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcement/rhd_25_3.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<p><strong>National Day 2025</strong>
+</p>
+<p>The school commemorated National Day to mark the 60th anniversary of our
+independence, a significant milestone in Singapore’s history. It was a
+time to reflect on our nation’s journey and move onward together in building
+our shared future as one united people.</p>
+<p>This year, as Singapore turned 60, the school came together for our annual
+National Day Parade, which featured a march past by students from NCC,
+NPCC and Girl Guides. The celebration reaffirmed the values of multiculturalism,
+boldness, resilience, and openness that have united us and enabled Singapore
+to thrive over the past six decades.</p>
+<p>We were also honoured to have Dr Edmond Tan, Vice-Chairperson of our School
+Advisory Committee, grace the occasion as our Guest-of-Honour.</p>
+<p>We were also delighted to welcome our seniors from the Lions Befrienders,
+who joined us for a day of celebration and joy, with breakfast kindly sponsored
+by Ya Kun Kaya Toast.</p>
+<p>In the second half of the programme, Peicaians presented a series of celebratory
+performances. A standout moment was the spectacular flag fly-past by our
+Aeromodelling students, which thrilled the audience. The concert segment
+also featured crowd favourites, including the annual Peicai’s Got Talent,
+alongside vibrant Band and Modern Dance performances. Adding a fun and
+educational twist to the celebration, we hosted 'How Well Do You Know Singapore’s
+History? Let’s Play the Singapore Quiz, Peicai Style!' Six staff members
+each paired up with a student to tackle questions about Singapore's rich
+heritage, sparking curiosity, laughter, and plenty of friendly competition.</p>
+<p>The celebration culminated with the school coming together as one heartbeat
+in community singing of our favourite National Day songs. It was heartwarming
+to see Peicaians enjoying the festivities and embracing the true spirit
+of togetherness.</p>
+<p>This celebration was a tribute to our shared history and values, reinforcing
+our collective commitment to Singapore’s continued progress in the years
+ahead.</p>
+<p>Majulah Singapura!</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aboutus/nation_day_25_1.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>The ceremonial parade, led with pride by our uniformed groups</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aboutus/nation_day_25_2.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Our cadets proudly bearing the National Flag</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aboutus/nation_day_25_3.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Our Guest-of-Honour, Dr Edmond Tan, Vice-Chairperson of our School Advisory
+Committee, inspecting the parade.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aboutus/nation_day_25_4.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Our cadets formed a ‘60’ in commemoration of SG60</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aboutus/nation_day_25_5.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Spectacular flag fly-past by our Aeromodelling Club</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aboutus/nation_day_25_6.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>A marvellous performance by our Concert Band captivated the audience</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aboutus/nation_day_25_7.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Our Modern Dance performers delivered an energetic and stirring rendition
+of ‘Rhythms of a Nation’</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aboutus/nation_day_25_8.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Peicai’s Got Talent 2025: Celebrating the Top 3 Finalist Groups!</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aboutus/nation_day_25_9.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Seniors from Lions Befrienders joined our celebrations and enjoyed a delightful
+breakfast sponsored by Ya Kun Kaya Toast</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aboutus/nation_day_25_10.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Adding fun and learning to the concert segment was the Peicai-style quiz:
+‘How Well Do You Know Singapore’s History?</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aboutus/nation_day_25_11.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>A memorable National Day finale: voices joined, hearts united in community
+singing</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>Total Defence Day 2025</strong>
 </p>
 <p>As part of our school’s commemoration of Total Defence Day and participation
