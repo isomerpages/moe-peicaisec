@@ -23,7 +23,6 @@ of the Arts</p>
 </li>
 <li>
 <p>Ignite creativity and develop the pursuit for excellence</p>
-<p></p>
 </li>
 </ul>
 <p><strong>Curriculum</strong>
@@ -89,18 +88,19 @@ their character and holistic development.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Students showing their enthusiasm during the assembly dance programme</p>
+<p>Celebrating cultural diversity through the Aesthetics Multiracial Assembly
+Dance Programme; nurturing appreciation for Singapore’s rich multicultural
+heritage</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Students showcasing their enthusiasm during the RHD assembly on Fusion
-Drumming</p>
+<p>A vibrant display of energy and rhythm during the Fusion Drumming</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/aesthetic_2024_6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/aesthetics_25_1.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -112,10 +112,10 @@ Drumming</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Showcasing Artistic Abilities during Peicai's Got Talent</p>
+<p>Showcasing Artistic Flair during Peicai's Got Talent</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Students learning guitar during post-exam activities</p>
+<p>Honing their musical skills during post-exam activities</p>
 </td>
 </tr>
 </tbody>

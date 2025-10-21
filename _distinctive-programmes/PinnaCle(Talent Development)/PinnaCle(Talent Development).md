@@ -63,16 +63,16 @@ at post-secondary level.</p>
 <p>Students have several opportunities to join the PinnaCle@Peicai Programme
 at key entry points:
 <br>(a) Direct Entry After PSLE:
-<br>• At least AL3 or better in PSLE for the subject
-<br>
-</p>
+<br>• At least AL3 or better in PSLE for the subject</p>
+<p></p>
 <p>(b) Secondary 1 Mid-Year
 <br>• Pass English, Mathematics &amp; Science for Sem 1
-<br>• Overall marks % must be at least 80% for the subject
+<br>• For Mathematics &amp; Science: Overall marks % must be at least 85%
+for subject</p>
+<p>• For English: Overall marks % must be at least 80% for subject
 <br>• At least a Good conduct grade
-<br>• Subject teacher's recommendation
-<br>
-</p>
+<br>• Subject teacher's recommendation</p>
+<p></p>
 <p>(c) Secondary 1 End-Year
 <br>• Pass English, Mathematics &amp; Science for academic year
 <br>• Overall marks % must be at least 75% for the subject (EL/MA/Sci).
@@ -95,9 +95,13 @@ and students of Peicai Secondary School's Talent Development Programme
 schools to collaborate, experiment, and compete, thereby fostering the
 development of innovative and critical solutions or approaches to address
 real world problems.</p>
-<p>This is our second year holding the challenge after a successful run last
-year, which saw over 100 Primary Six pupils engaged in a spirited journey
-of discovery and learning.</p>
+<p>This is our third year holding the challenge after a successful run last
+year, which saw 16 teams of Primary Six pupils engaged in a spirited journey
+of discovery and learning, tackling hands-on English, Math &amp; Science,
+and Sports challenges, while our PinnaCle student mentors grew in confidence
+and teamwork as they mentored and guided their younger peers. The event
+captured the spirit of curiosity and purposeful learning that defines the
+PinnaCle Programme.</p>
 <p>In line with MOE’s enhanced 21CC Framework and EdTech Masterplan 2030,
 the objectives of the PinnaCle Challenge are:</p>
 <p>(a) To enhance pupils’ inventive thinking, communication, and problem-solving
@@ -114,9 +118,24 @@ of the PinnaCle Student Mentors, engaged in the challenge tasks within
 a set timeframe. As the culmination of the process, they then presented
 their deliverables to a panel of judges. The pupils put up a persuasive
 showcase to convince the judges of their innovative and viable solutions.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Distinctive Programmes/pinnacle_24Oct2024.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Distinctive Programmes/pinnacle_2025_1.jpg">
 </div>
-<p>
-<br>
-</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>

@@ -1,5 +1,5 @@
 ---
-title: Tennis (Cluster Based Interschool CCA)
+title: Table Tennis (Cluster Based Interschool CCA)
 permalink: /cca/ccas/sports/tennis-cluster-based-interschool-cca/
 variant: tiptap
 description: ""

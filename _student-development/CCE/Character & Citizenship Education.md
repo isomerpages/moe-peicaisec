@@ -7,25 +7,25 @@ third_nav_title: CCE
 ---
 <h4><strong>Objectives</strong></h4>
 <p>In Peicai, we aim to inculcate in our students:</p>
-<p><strong>1) Good Character</strong>
+<p><strong>&nbsp;&nbsp; &nbsp;1)Good Character</strong>
 </p>
 <p>Students are enabled to have a sound moral compass, a strong sense of
 right and wrong, think critically and ethically, be discerning in judgement,
 take&nbsp;responsibility for choices and actions, be caring towards others
 and strive for excellence.</p>
-<p><strong>2) Resilience and Social-Emotional Well-Being</strong>
+<p><strong>&nbsp; &nbsp; 2)Resilience and Social-Emotional Well-Being</strong>
 </p>
 <p>Students are enabled to have a balanced sense of self, form healthy relationships,
 be resilient when faced with challenges, find meaning in life and have
 a&nbsp;sense of gratitude and appreciation.</p>
-<p><strong>3) Active Citizenship</strong>
+<p><strong>&nbsp; &nbsp; 3)Active Citizenship</strong>
 </p>
 <p>Students are enabled to develop a strong national identity based on a
 sense of belonging to the nation, a sense of hope in themselves and the
 future, an&nbsp;awareness of the reality of Singapore's vulnerabilities
 and constraints, and the will to act on improving the lives of others and
 building a future for&nbsp;our nation.</p>
-<p><strong>4) Future Readiness</strong>
+<p><strong>&nbsp;&nbsp; &nbsp;4)Future Readiness</strong>
 </p>
 <p>Students are enabled to have a sense of purpose in life, develop the dispositions
 of adaptability and lifelong learning so as to be able to navigate&nbsp;education
@@ -90,7 +90,7 @@ Activities</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/cce_2024_5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/cce_main_1.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -129,6 +129,38 @@ Activities</p>
 <td rowspan="1" colspan="1">
 <p>Equipping students with Digital Literacies to enable them to be Discerning
 and Responsible users of ICT</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/cce_main_2.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/cce_main_3.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Strengthening Rootedness to Singapore through National Service Talks by
+the Alumni</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Equipping Students with Civic Literacies to enable them to be Discerning
+and Responsible Citizens</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>

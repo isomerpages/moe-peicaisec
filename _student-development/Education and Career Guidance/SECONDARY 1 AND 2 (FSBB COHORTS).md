@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Education and Career Guidance
 ---
-<h4><strong>SECONDARY 1 AND 2 (FSBB COHORTS)</strong></h4>
+<h4><strong>2025 SECONDARY 1 AND 2 (FSBB COHORTS)</strong></h4>
 <p><strong><u>KEY POINTS TO NOTE</u></strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -15,7 +15,9 @@ from Sec 1 to Sec 2, and from Sec 2 to Sec 3) at the end of each year.</p>
 </li>
 <li>
 <p>Students may remain in Secondary 1 for another year if they:</p>
-<ul data-tight="true" class="tight">
+</li>
+</ul>
+<ol data-tight="true" class="tight">
 <li>
 <p>have frequent or long-term absenteeism from school, <strong><u>or</u></strong>
 </p>
@@ -24,10 +26,10 @@ from Sec 1 to Sec 2, and from Sec 2 to Sec 3) at the end of each year.</p>
 <p>return from Leave of Absence (LOA) or from overseas and require more time
 to bridge learning gaps</p>
 </li>
-</ul>
-</li>
-</ul>
+<li>
 <p>demonstrate that they will be unable to cope with the next level of learning.</p>
+</li>
+</ol>
 <ul data-tight="true" class="tight">
 <li>
 <p>At the end of Sec 2 and Sec 3, students who are unable to cope with their
@@ -281,6 +283,8 @@ are mapped down to G2 grades, and G2 grades are mapped down to G1 grades.</p>
 </p>
 <p><strong><u>JC Admission Criteria</u></strong>
 </p>
+<p><strong><u>JC Admission Criteria</u></strong>
+</p>
 <p>From the 2028 Joint Admissions Exercise (JAE), number of subjects required
 for JC/MI admission will be reduced from six to five, by shifting from
 the current L1R5 gross aggregate score to L1R4.</p>
@@ -386,10 +390,7 @@ subjects, will be retained.</p>
 </tr>
 </tbody>
 </table>
-<p>Sec 4 students in the N(A) stream who offer GCE O-Level examination subjects
-will use the revised grade conversion table for computation of their ELMAB3
-aggregates.</p>
-<p><strong>Admissions will be restructured to a cluster-based approach.</strong>
+<p><strong>ADMISSIONS WILL BE RESTRUCTURED TO A CLUSTER-BASED APPROACH.</strong>
 </p>
 <p>Students will explore their interests <strong>within a chosen cluster</strong> before
 deciding on a specific diploma course to pursue based on their interest
@@ -460,7 +461,7 @@ of the aggregate score for admission to Polytechnic Year 1</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Students who offer both [B] subjects at G3 will have the [B] subject with
-a lower grade mapped from G3 to G2 based on a grade mapping table.</p>
+a lower grade mapped from G3 to G2 based on a grade mapping table.&nbsp;</p>
 </li>
 <li>
 <p>Correspondingly, the net aggregate cut-off will be adjusted from 26 points

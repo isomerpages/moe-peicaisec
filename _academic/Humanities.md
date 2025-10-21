@@ -370,7 +370,7 @@ to the best of my abilities. During the team component, our team worked
 together and distributed the different components of the paper so that
 we could do it effectively and submit it on time.</p>
 <hr>
-<p>Self-directed learners during the Geographical Investigation at MacRitchie
+<p>Self-directed learners during the 2024 Geographical Investigation at MacRitchie
 Reservoir.</p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -399,7 +399,7 @@ Reservoir.</p>
 </tr>
 </tbody>
 </table>
-<p>Learning more about Singapore history at the Singapore Museum.</p>
+<p>Learning about Singapore History at the National Museum.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -408,17 +408,31 @@ Reservoir.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="Humanaties img 3" src="/images/Academic/Humanaties_img_3.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Academic/humanities_oct25_1.jpg">
 </div>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="Humanaties img 4" src="/images/Academic/Humanaties_img_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/humanities_oct25_2.jpg">
 </div>
+<p></p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Academic/humanities_oct25_3.jpg">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/humanities_oct25_4.jpg">
+</div>
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
