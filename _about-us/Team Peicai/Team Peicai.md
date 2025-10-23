@@ -1636,18 +1636,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Liu Goh Fong Ying</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Counsellor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:liu_kam_tong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liu_kam_tong@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Lawrence Liang</p>
 </td>
 <td rowspan="1" colspan="1">
