@@ -508,7 +508,6 @@ refine their respective speeches.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p><strong><u>Be S.U.R.E with Generative AI: Exploring Digital Literacy and Critical Thinking through Interactive Learning</u></strong>
 </p>
 <p>Our students participate in the Be S.U.R.E. with Generative AI talk by
@@ -549,38 +548,6 @@ at the <em>Be S.U.R.E. with Generative AI</em> talk.</p>
 <td rowspan="1" colspan="1">
 <p>In an engaging discussion activity, our students collaborate to examine
 how AI influences the way we think and create.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/eng_2024_10.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/eng_2024_11.jpg">
-</div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Uncovering Peicai's rich past through archival documents at the Archives
-Reading Room.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Students delve into a world of knowledge at the Central Public Library,
-discovering new resources.</p>
 </td>
 </tr>
 </tbody>
