@@ -5,7 +5,8 @@ variant: tiptap
 description: ""
 ---
 <h1><strong>The Cove</strong></h1>
-<p></p>
+<p>Click <a href="https://youtube.com/shorts/6xfnXAKRtUE?si=p08oQgyo8gGQUCB1" rel="noopener nofollow" target="_blank">here</a> to
+view</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="The Cove" src="/images/Aboutus/The_Cove.jpg">
 </div>
