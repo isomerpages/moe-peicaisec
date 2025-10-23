@@ -6,9 +6,45 @@ variant: tiptap
 ---
 <h4><strong>School Corporate Video</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/OIUIeSrzGoA?si=dDCFQest1IEfEjCE"></iframe>
+<iframe height="522" width="929" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/OIUIeSrzGoA?si=dDCFQest1IEfEjCE"></iframe>
 </div>
 <p></p>
+<p>The Cove - New Facilities</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="the cove" src="/images/Aboutus/the_cove_copy.jpg">
+</div>
+<p>Click <a href="https://www.youtube.com/shorts/6xfnXAKRtUE" rel="noopener nofollow" target="_blank">here</a> to
+view</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <div class="iframe-wrapper">
 <iframe height="522" width="929" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/vzj-hoI9BWY?si=zm2_kkuXFzwW17UC"></iframe>
 </div>
