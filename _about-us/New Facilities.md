@@ -6,10 +6,7 @@ description: ""
 ---
 <h1><strong>The Cove</strong></h1>
 <p>Click <a href="https://youtube.com/shorts/6xfnXAKRtUE?si=p08oQgyo8gGQUCB1" rel="noopener nofollow" target="_blank">here</a> to
-view</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="The Cove" src="/images/Aboutus/The_Cove.jpg">
-</div>
+view</p><a class="isomer-image-wrapper" href="https://youtube.com/shorts/6xfnXAKRtUE?si=p08oQgyo8gGQUCB1"><img style="width: 100%" height="auto" width="100%" alt="The Cove" src="/images/Aboutus/The_Cove.jpg"></a>
 <p>Welcome to The Cove – Peicai Secondary School’s vibrant student lounge
 designed as a safe harbour where students can unwind, interact, and build
 lasting friendships. Much like a cove that offers shelter and calm from
