@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Main_Banner_Main_1B3.jpg
+      background: /images/Banner/Peicai_Banner_gif_1.gif
   - infopic:
       title: Volleyball Boys B Division NSG Bronze 2025
       id: infopic
