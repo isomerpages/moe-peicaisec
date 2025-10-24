@@ -72,7 +72,7 @@ variant: tiptap
 <p>Social Studies and History</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Eileen_Zhou@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Eileen_Zhou@moe.edu.sg</a>
+<p><a href="mailto:zhou_wensi_eileen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhou_wensi_eileen@moe.edu.sg</a>
 </p>
 </td>
 </tr>
