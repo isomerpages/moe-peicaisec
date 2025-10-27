@@ -1780,18 +1780,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Kelly Loh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>STEM Instructor (Laboratory)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:loh_kah_boon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_kah_boon@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Halyssa Fatiha Hairi</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1800,6 +1788,17 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:halyssa_fatiha_mohamad_hairi_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">halyssa_fatiha_mohamad_hairi_a@moe.edu.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nurush Shahidah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>STEM Instructor (Laboratory)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
