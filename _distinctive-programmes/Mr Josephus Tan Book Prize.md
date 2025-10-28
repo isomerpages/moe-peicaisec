@@ -100,11 +100,11 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="Spirit names 1" src="/images/Distinctive Programmes/Spirit_names_1.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -119,11 +119,11 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="Spirit names 2" src="/images/Distinctive Programmes/Spirit_names_2.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -135,6 +135,14 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="Traiblazer students names" src="/images/Distinctive Programmes/Trailblazer_students_names.jpg">
+</div>
 </td>
 </tr>
 <tr>
