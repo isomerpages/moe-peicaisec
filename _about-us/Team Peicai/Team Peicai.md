@@ -1798,7 +1798,8 @@ variant: tiptap
 <p>STEM Instructor (Laboratory)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Nurush_Shahidah_Yusof@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Nurush_Shahidah_Yusof@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
