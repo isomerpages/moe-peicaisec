@@ -24,14 +24,14 @@ lasting memories with their classmates and teachers.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aboutus/Post_Exam_Programme_25_1.jpg">
+</div>
 <p></p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aboutus/Post_Exam_Programme_25_1.jpg">
-</div>
 <p></p>
 </td>
 </tr>
