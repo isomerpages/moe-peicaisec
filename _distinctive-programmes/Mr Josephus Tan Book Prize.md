@@ -36,6 +36,78 @@ description: ""
 <div class="iframe-wrapper">
 <iframe height="522" width="800" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/2a3G_gHxSs0?si=7sbSwZEELQTKdHiF"></iframe>
 </div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>2025</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="MR JOSEPHUS TAN PINNACLE BOOK PRIZE JUNIOR CATEGORY" src="/images/Distinctive Programmes/MR_JOSEPHUS_TAN_PINNACLE_BOOK_PRIZE_JUNIOR_CATEGORY__2_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="MR JOSEPHUS TAN PINNACLE BOOK PRIZE SENIOR CATEGORY" src="/images/Distinctive Programmes/MR_JOSEPHUS_TAN_PINNACLE_BOOK_PRIZE_JUNIOR_CATEGORY__1_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Sprit of resilance 2025 1" src="/images/Distinctive Programmes/Sprit_of_resilance_2025_1.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Sprit of resilance 2025 2" src="/images/Distinctive Programmes/Sprit_of_resilance_2025_2.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Trailblazer book prize" src="/images/Distinctive Programmes/Trailblazer_book_prize.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -132,6 +204,7 @@ description: ""
 </tr>
 </tbody>
 </table>
+<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -153,6 +226,7 @@ description: ""
 </tr>
 </tbody>
 </table>
+<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -174,6 +248,7 @@ Sponsor Mr Tan.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -195,4 +270,8 @@ a Lawyer.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
