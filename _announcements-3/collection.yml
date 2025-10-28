@@ -2,6 +2,9 @@ collections:
   announcements-3:
     output: true
     order:
+      - Post Exam Programme 2025.md
+      - Mid Autumn Festival 2025.md
+      - Sec 4 and 5 Graduation Night.md
       - Volleyball Boys B Division NSG Bronze 2025.md
       - G2G Brunei School Exchange Programme.md
       - Volleyball Girls C Division NSG League 3 Runners Up 2025.md
