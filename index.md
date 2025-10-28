@@ -9,6 +9,24 @@ sections:
   - hero:
       background: /images/Banner/Peicai_Banner_gif_1.gif
   - infopic:
+      title: Post Exam Programme 2025
+      id: infopic
+      button: Click here to view
+      url: /post-exam-programme-2025/
+      image: /images/Aboutus/Post_Exam_Programme_25_1.jpg
+  - infopic:
+      title: Mid Autumn Festival 2025
+      id: infopic
+      button: Click here to view
+      url: /mid-autumn-festival-2025/
+      image: /images/Aboutus/maf_25.jpg
+  - infopic:
+      title: Sec 4 and 5 Graduation Night
+      id: infopic
+      button: Click here to view
+      url: /sec-4-and-5-graduation-night/
+      image: /images/Announcement/sec45_grad_25_cover.jpg
+  - infopic:
       title: Volleyball Boys B Division NSG Bronze 2025
       id: infopic
       button: Click here to view
