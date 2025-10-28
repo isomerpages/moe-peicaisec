@@ -14,18 +14,21 @@ sections:
       button: Click here to view
       url: /post-exam-programme-2025/
       image: /images/Aboutus/Post_Exam_Programme_25_1.jpg
+      alt: post_exam_programme_2025
   - infopic:
       title: Mid Autumn Festival 2025
       id: infopic
       button: Click here to view
       url: /mid-autumn-festival-2025/
       image: /images/Aboutus/maf_25.jpg
+      alt: mid_autumn_festival_2025
   - infopic:
       title: Sec 4 and 5 Graduation Night
       id: infopic
       button: Click here to view
       url: /sec-4-and-5-graduation-night/
       image: /images/Announcement/sec45_grad_25_cover.jpg
+      alt: sec45_grad_night
   - infopic:
       title: Volleyball Boys B Division NSG Bronze 2025
       id: infopic
