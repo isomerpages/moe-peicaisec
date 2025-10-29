@@ -26,10 +26,8 @@ from Sec 1 to Sec 2, and from Sec 2 to Sec 3) at the end of each year.</p>
 <p>return from Leave of Absence (LOA) or from overseas and require more time
 to bridge learning gaps</p>
 </li>
-<li>
-<p>demonstrate that they will be unable to cope with the next level of learning.</p>
-</li>
 </ol>
+<p>demonstrate that they will be unable to cope with the next level of learning</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>At the end of Sec 2 and Sec 3, students who are unable to cope with their
@@ -283,8 +281,6 @@ are mapped down to G2 grades, and G2 grades are mapped down to G1 grades.</p>
 </p>
 <p><strong><u>JC Admission Criteria</u></strong>
 </p>
-<p><strong><u>JC Admission Criteria</u></strong>
-</p>
 <p>From the 2028 Joint Admissions Exercise (JAE), number of subjects required
 for JC/MI admission will be reduced from six to five, by shifting from
 the current L1R5 gross aggregate score to L1R4.</p>
@@ -530,7 +526,7 @@ the learning outcomes and workplace competencies of the former</p>
 </p>
 <p>To align the removal of stream labels under Full SBB, <strong>the DPP pathway will accept its final intake in AY2027 (i.e. 2026 S4 cohort).</strong>
 </p>
-<p><strong>ADMISSION REQUIREMENTS FOR DIRECT ENTRY INTO YEAR 2 FOR ALL HIGHER NITEC COURSES WILL BE SET AT G2:</strong>
+<p><strong>5.5.3.	ADMISSION REQUIREMENTS FOR DIRECT ENTRY INTO YEAR 2 FOR ALL HIGHER NITEC COURSES WILL BE SET AT G2:</strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
@@ -606,7 +602,7 @@ the Early Admissions Exercise.</p>
 can better cope with the academic rigour of a poly education, besides poly
 diploma, all ITE graduates can choose to pursue the Work-Study Diplomas
 (WSDips) or Technical Diplomas (TDs) pathways, which offer hands-on, apprenticeship-based
-training.</p>
+training</p>
 </li>
 </ol>
 <table style="minWidth: 25px">
