@@ -2,6 +2,7 @@ collections:
   announcements-3:
     output: true
     order:
+      - "Purple Parade @ Peicai: Celebrating Inclusion and Abilities.md"
       - Post Exam Programme 2025.md
       - Mid Autumn Festival 2025.md
       - Sec 4 and 5 Graduation Night.md
