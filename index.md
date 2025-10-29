@@ -9,6 +9,13 @@ sections:
   - hero:
       background: /images/Banner/Peicai_Banner_gif_1.gif
   - infopic:
+      title: "Purple Parade @ Peicai: Celebrating Inclusion and Abilities"
+      id: infopic
+      button: Click here to view
+      url: /purple-parade-peicai-celebrating-inclusion-and-abilities/
+      image: /images/Aboutus/purple_parade_25.jpg
+      alt: Purple Parade PCSS 2025
+  - infopic:
       title: Post Exam Programme 2025
       id: infopic
       button: Click here to view
