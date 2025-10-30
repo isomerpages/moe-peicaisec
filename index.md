@@ -285,4 +285,11 @@ sections:
       title: Announcements
       subtitle: PEICAI SECONDARY SCHOOL
       button: More details
+  - infopic:
+      title: School Corporate Video
+      id: infopic
+      button: Click here to view
+      url: https://www.youtube.com/watch?v=OIUIeSrzGoA
+      image: /images/Aboutus/Outreach.jpg
+      alt: Outreach 2025
 ---
