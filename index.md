@@ -9,6 +9,13 @@ sections:
   - hero:
       background: /images/Banner/Peicai_Banner_gif_1.gif
   - infopic:
+      title: School Corporate Video
+      id: infopic
+      button: Click here to view
+      url: https://www.youtube.com/watch?v=OIUIeSrzGoA
+      image: /images/Aboutus/Outreach.jpg
+      alt: Outreach 2025
+  - infopic:
       title: "Purple Parade @ Peicai: Celebrating Inclusion and Abilities"
       id: infopic
       button: Click here to view
@@ -285,11 +292,4 @@ sections:
       title: Announcements
       subtitle: PEICAI SECONDARY SCHOOL
       button: More details
-  - infopic:
-      title: School Corporate Video
-      id: infopic
-      button: Click here to view
-      url: https://www.youtube.com/watch?v=OIUIeSrzGoA
-      image: /images/Aboutus/Outreach.jpg
-      alt: Outreach 2025
 ---
