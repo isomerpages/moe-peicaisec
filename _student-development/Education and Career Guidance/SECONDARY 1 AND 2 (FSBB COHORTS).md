@@ -39,8 +39,9 @@ well-being.</p>
 </ul>
 <p><u>OVERVIEW OF POST-SEC PATHWAYS FOR FSBB STUDENTS</u>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_sec12_handbook_2025_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_sec12_handbook_2025_1_fixed.jpg">
 </div>
 <p><a href="https://www.moe.gov.sg/microsites/psle-fsbb/assets/infographics/full-subject-based-banding/subject-level-requirements-post-sec.pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/microsites/psle-fsbb/assets/infographics/full-subject-based-banding/subject-level-requirements-post-sec.pdf</a>
 </p>
