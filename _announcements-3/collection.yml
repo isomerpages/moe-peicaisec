@@ -2,6 +2,7 @@ collections:
   announcements-3:
     output: true
     order:
+      - Celebration and Recognition Day 2025.md
       - The Cove and The Sphere.md
       - "Purple Parade @ Peicai: Celebrating Inclusion and Abilities.md"
       - Post Exam Programme 2025.md
