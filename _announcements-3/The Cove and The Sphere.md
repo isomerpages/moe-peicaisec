@@ -24,7 +24,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="the cove" src="/images/Announcement/the_cove_copy.jpg">
 </div>
-<p><a href="https://youtube.com/shorts/6xfnXAKRtUE?si=nErNuaQUoG0EwH3_" rel="noopener noreferrer nofollow" target="_blank">https://youtube.com/shorts/6xfnXAKRtUE?si=nErNuaQUoG0EwH3_</a>
+<p><a href="https://www.youtube.com/shorts/9WBj2I-zSAg" rel="noopener noreferrer nofollow" target="_blank">https://www.youtube.com/shorts/9WBj2I-zSAg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
