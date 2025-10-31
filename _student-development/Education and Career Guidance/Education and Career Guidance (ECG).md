@@ -823,5 +823,5 @@ students can also reach out by emailing the ECG Counsellor at <a href="mailto:ta
 <p><a href="https://pfp.polytechnic.edu.sg/PFP/index.html" rel="noopener noreferrer nofollow" target="_blank">https://pfp.polytechnic.edu.sg/PFP/index.html</a>
 </p>
 <p>Joint Admissions Exercise :</p>
-<p><a href="www.moe.gov.sg/post-secondary/admissions/jae" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/post-secondary/admissions/jae</a>
+<p><a href="https://www.moe.gov.sg/post-secondary/admissions/jae" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/post-secondary/admissions/jae</a>
 </p>
