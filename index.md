@@ -24,6 +24,13 @@ sections:
       image: /images/Announcement/Sphere_and_cove.jpg
       alt: Image alt text
   - infopic:
+      title: Celebration and Recognition Day 2025
+      id: infopic
+      button: Click here to view
+      url: /celebration-and-recognition-day-2025/
+      image: /images/Aboutus/cr_2025_1.png
+      alt: CR Day 2025
+  - infopic:
       title: "Purple Parade @ Peicai: Celebrating Inclusion and Abilities"
       id: infopic
       button: Click here to view
