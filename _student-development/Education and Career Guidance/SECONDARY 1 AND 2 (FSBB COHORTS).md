@@ -41,7 +41,7 @@ well-being.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_sec12_handbook_2025_1_fixed.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Student Development/ecg_sec12_handbook_2025_1_fixed.jpg">
 </div>
 <p><a href="https://www.moe.gov.sg/microsites/psle-fsbb/assets/infographics/full-subject-based-banding/subject-level-requirements-post-sec.pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/microsites/psle-fsbb/assets/infographics/full-subject-based-banding/subject-level-requirements-post-sec.pdf</a>
 </p>
@@ -365,7 +365,7 @@ to 22 points.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_sec12_handbook_2025_11.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Student Development/ecg_sec12_handbook_2025_11.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/ecg_sec12_handbook_2025_12.jpg">
