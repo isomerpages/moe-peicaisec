@@ -9,6 +9,21 @@ sections:
   - hero:
       background: /images/Banner/Peicai_Banner_gif_1.gif
   - infopic:
+      title: School Corporate Video
+      id: infopic
+      button: Click here to view
+      url: https://www.youtube.com/watch?v=OIUIeSrzGoA
+      image: /images/Aboutus/Outreach.jpg
+      alt: Outreach 2025
+  - infopic:
+      title: The Cove and The Sphere
+      id: infopic
+      description: Our New , State of the Art facilities !
+      button: Click here to view
+      url: /the-cove-and-the-sphere/
+      image: /images/Announcement/Sphere_and_cove.jpg
+      alt: Image alt text
+  - infopic:
       title: "Purple Parade @ Peicai: Celebrating Inclusion and Abilities"
       id: infopic
       button: Click here to view
