@@ -181,7 +181,7 @@ security, which includes food safety and sustainable food consumption</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/nfs_2024_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/nfs_2025.jpg">
 </div>
 </td>
 </tr>
@@ -250,9 +250,9 @@ recipes, and food presentation techniques as they compete for top honours.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/5979_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">5979 GCE N(T) Level</a>
+<p><a href="https://www.seab.gov.sg/files/NT%20Lvl%20Syllabus%20Sch%20Cddts/2026/5979_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">5979 GCE N(T) Level</a>
 </p>
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/6073_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">6073 GCE N(A) Level</a>
+<p><a href="https://www.seab.gov.sg/files/NA%20Level%20Syllabus%20Sch%20Cddts/2026/6073_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">6073 GCE N(A) Level</a>
 </p>
 </td>
 </tr>
@@ -262,16 +262,8 @@ recipes, and food presentation techniques as they compete for top honours.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2023syllabus/6097_y23_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">6097 GCE O-Level</a>
+<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2026/6097_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">6097 GCE O-Level</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
