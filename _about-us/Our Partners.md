@@ -14,9 +14,8 @@ the Holistic Development of Peicaians over the past three years.</p>
 the Josephus Tan PinnaCle, Resilience and Trailblazers Book Prizes to our
 deserving students — inspiring them to pursue excellence and never stop
 believing in themselves.</p>
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
@@ -24,17 +23,19 @@ believing in themselves.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Partners" src="/images/Aboutus/Partners_01.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aboutus/PCSS_Partners_Edu_Award_2025_1.jpg">
 </div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aboutus/PCSS_Partners_Edu_Award_2025_2.jpg">
+</div>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
