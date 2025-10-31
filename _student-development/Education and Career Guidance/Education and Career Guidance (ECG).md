@@ -811,7 +811,7 @@ students can also reach out by emailing the ECG Counsellor at <a href="mailto:ta
 <br><a href="https://go.gov.sg/tips-for-parents" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/tips-for-parents</a>
 </p>
 <p>Post-secondary Options:</p>
-<p><a href="www.moe.gov.sg/post-secondary" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/post-secondary</a>
+<p><a href="https://www.moe.gov.sg/post-secondary" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/post-secondary</a>
 </p>
 <p>Post-Secondary Education Institutions:</p>
 <p><a href="www.moe.gov.sg/post-secondary/overview/" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/post-secondary/overview/</a>
