@@ -256,12 +256,25 @@ prototypes such as automatas, tealight holder and handphone stand.</p>
 </tr>
 </tbody>
 </table>
-<p>The Design Camp (organized by Temasek Polytechnic School of Design) –
-7 to 8 November 2024</p>
-<p>The Sec 3 D&amp;T students participated in The Design Camp on 7 to 8 November
-2024. The, programme organized by Temasek Polytechnic’s School of Design,
-aimed at introducing secondary school students to various aspects of design
-and nurturing their creative potential. During the camp, participants</p>
+<p><strong>Mighty Mousetrap Car Challenge 2025</strong>
+</p>
+<p>2 teams of Sec 3 D&amp;T students participated for the first time in this
+year’s Mighty Mousetrap Car Challenge - Challenge"—a prestigious STEM competition
+hosted by SJI for the second consecutive year.</p>
+<p>The engaging competition challenged students to design and prototype a
+model car powered exclusively by a mousetrap's spring force. Through collaborative
+teamwork, practical research, and innovative problem-solving, participants
+deepened their understanding of STEM principles whilst enjoying an enriching
+learning experience.</p>
+<p><strong>The Design Camp (organized by Temasek Polytechnic School of Design) 2025</strong>
+</p>
+<p>Sec 3 D&amp;T students participated in The Design Camp on 7 to 8 November
+2024. Based on the students’ feedback, it has been an enriching experience
+for them. As such the 3 D&amp;T students will continue with their participation
+in The Design Camp this year.</p>
+<p>The, programme organized by Temasek Polytechnic’s School of Design, aimed
+at introducing secondary school students to various aspects of design and
+nurturing their creative potential. During the camp, participants</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Explored different design disciplines such as product design and visual
@@ -281,7 +294,6 @@ challenges</p>
 <p>Experienced a taste of polytechnic life in a design-focused environment</p>
 </li>
 </ul>
-<h4></h4>
 <h4><strong>Syllabus</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -304,9 +316,9 @@ challenges</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/7062_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">7062 GCE N(T) Level</a>
+<p><a href="https://www.seab.gov.sg/files/NT%20Lvl%20Syllabus%20Sch%20Cddts/2026/7062_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">7062 GCE N(T) Level</a>
 </p>
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/7055_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">7055 GCE N(A) Level</a>
+<p><a href="https://www.seab.gov.sg/files/NA%20Level%20Syllabus%20Sch%20Cddts/2026/7055_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">7055 GCE N(A) Level</a>
 </p>
 </td>
 </tr>
@@ -316,16 +328,8 @@ challenges</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/7059_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">7059 GCE O-Level</a>
+<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2026/7059_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">7059 GCE O-Level</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
