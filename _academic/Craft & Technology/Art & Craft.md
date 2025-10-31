@@ -339,9 +339,9 @@ artworks and critically assess art.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/6128_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">6128 GCE N(T) Level</a>
+<p><a href="https://www.seab.gov.sg/files/NT%20Lvl%20Syllabus%20Sch%20Cddts/2026/6128_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">6128 GCE N(T) Level</a>
 </p>
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/6125_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">6125 GCE N(A) Level</a>
+<p><a href="https://www.seab.gov.sg/files/NA%20Level%20Syllabus%20Sch%20Cddts/2026/6127_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">6125 GCE N(A) Level</a>
 </p>
 </td>
 </tr>
@@ -351,16 +351,8 @@ artworks and critically assess art.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/6123_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">6123 GCE O-Level</a>
+<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2026/6114_y26_sy_v0_3.pdf" rel="noopener noreferrer nofollow" target="_blank">6114 GCE O Level</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
