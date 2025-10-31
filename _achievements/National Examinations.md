@@ -141,7 +141,7 @@ variant: tiptap
 </table>
 <hr>
 <hr>
-<p><strong><u>GCE Cambridge‘O’ Level 2022 Examination</u></strong>
+<p><strong><u>GCE Cambridge‘O’ Level 2022 Examination </u>(Value-Added)</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" src="/images/gce cambridge o 2022 01
