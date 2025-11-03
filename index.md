@@ -24,6 +24,13 @@ sections:
       image: /images/Announcement/Sphere_and_cove.jpg
       alt: Image alt text
   - infopic:
+      title: Peicai Alumni Return for NS Engagement Talk
+      id: infopic
+      button: Click here to view
+      url: /peicai-alumni-return-for-ns-engagement-talk/
+      image: /images/Aboutus/Alumni_NS_talks_25_cover.jpg
+      alt: PCSS NS Engagement Talk
+  - infopic:
       title: Celebration and Recognition Day 2025
       id: infopic
       button: Click here to view
