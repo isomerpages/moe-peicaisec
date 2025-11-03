@@ -19,41 +19,19 @@ Tamil Language Centre after school. See the&nbsp;<a href="https://www.moe.gov.sg
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Craft and Technology</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>English Language and Literature</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Humanities</strong>
+<p><strong>Mathematics</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Science</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Art</p>
-</li>
-<li>
-<p>Design and Technology</p>
-</li>
-<li>
-<p>Food and Consumer Education</p>
-</li>
-<li>
-<p>Food Studies</p>
-</li>
-<li>
-<p>Nutrition and Food Science</p>
-</li>
-<li>
-<p>Music</p>
-</li>
-</ul>
-</td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
@@ -70,41 +48,6 @@ Tamil Language Centre after school. See the&nbsp;<a href="https://www.moe.gov.sg
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Social Studies</p>
-</li>
-<li>
-<p>Geography&nbsp;(Pure)</p>
-</li>
-<li>
-<p>History&nbsp;(Pure)</p>
-</li>
-<li>
-<p>Humanities (Social Studies, Geography)</p>
-</li>
-<li>
-<p>Humanities (Social Studies, History)</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mathematics</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mother Tongue Languages</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Science</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>Mathematics</p>
 </li>
 <li>
@@ -118,6 +61,41 @@ Tamil Language Centre after school. See the&nbsp;<a href="https://www.moe.gov.sg
 </li>
 </ul>
 </td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Biology (Pure)</p>
+</li>
+<li>
+<p>Chemistry&nbsp;(Pure)</p>
+</li>
+<li>
+<p>Physics&nbsp;(Pure)</p>
+</li>
+<li>
+<p>Science (Chemistry, Biology)</p>
+</li>
+<li>
+<p>Science (Physics, Chemistry)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mother Tongue Languages</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Humanities</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Craft and Technology</strong>
+</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
@@ -143,19 +121,41 @@ Tamil Language Centre after school. See the&nbsp;<a href="https://www.moe.gov.sg
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Biology (Pure)</p>
+<p>Social Studies</p>
 </li>
 <li>
-<p>Chemistry&nbsp;(Pure)</p>
+<p>Geography&nbsp;(Pure)</p>
 </li>
 <li>
-<p>Physics&nbsp;(Pure)</p>
+<p>History&nbsp;(Pure)</p>
 </li>
 <li>
-<p>Science (Chemistry, Biology)</p>
+<p>Humanities (Social Studies, Geography)</p>
 </li>
 <li>
-<p>Science (Physics, Chemistry)</p>
+<p>Humanities (Social Studies, History)</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Art</p>
+</li>
+<li>
+<p>Design and Technology</p>
+</li>
+<li>
+<p>Food and Consumer Education</p>
+</li>
+<li>
+<p>Food Studies</p>
+</li>
+<li>
+<p>Nutrition and Food Science</p>
+</li>
+<li>
+<p>Music</p>
 </li>
 </ul>
 </td>
@@ -192,4 +192,4 @@ Tamil Language Centre after school. See the&nbsp;<a href="https://www.moe.gov.sg
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
+<p></p>

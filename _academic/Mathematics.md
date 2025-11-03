@@ -105,7 +105,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ho Thuk Lan (Mrs Ho)</p>
+<p>Mrs Ho Thuk Lan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -296,7 +296,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ching Teng Hong</p>
+<p>Ms Ching Teng Hong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
