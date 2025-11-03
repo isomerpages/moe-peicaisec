@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Banner/Peicai_Banner_gif_1.gif
+      background: /images/Banner/Peicai_Banner_gif_2.gif
   - infopic:
       title: School Corporate Video
       id: infopic
