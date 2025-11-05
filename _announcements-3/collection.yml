@@ -2,6 +2,7 @@ collections:
   announcements-3:
     output: true
     order:
+      - "NCC (Sea) Unit Achievement: Distinction Award 2024.md"
       - Peicai Alumni Return for NS Engagement Talk.md
       - Celebration and Recognition Day 2025.md
       - The Cove and The Sphere.md
