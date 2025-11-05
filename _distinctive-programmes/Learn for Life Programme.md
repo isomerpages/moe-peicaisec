@@ -1,5 +1,5 @@
 ---
-title: Learn for Life Programme(LLP)
+title: Learn for Life Programme
 permalink: /distinctive-edge/llp-learning-for-life-programme/
 description: ""
 variant: tiptap
