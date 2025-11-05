@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Banner/Peicai_Banner_gif_1.gif
+      background: /images/Banner/Peicai_Banner_4.gif
   - infopic:
       title: School Corporate Video
       id: infopic
@@ -221,7 +221,7 @@ sections:
       title: SYF Arts Presentation – Concert Band Distinction Award
       id: infopic
       button: Click here to view
-      url: /achievements/students-achievements/
+      url: /syf-arts-presentation-concert-band-distinction-award/
       image: /images/CCA/concert_band_distinction_2.png
       alt: Concert Band SYF Dist.
   - infopic:
@@ -249,7 +249,7 @@ sections:
       title: "NCC (Sea) Unit Achievement: Distinction Award 2024"
       id: infopic
       button: Click here to view
-      url: /achievements/students-achievements/
+      url: /ncc-sea-unit-achievement-distinction-award-2024/
       image: /images/Achievements/NCC_SEA_2025_10.jpg
       alt: NCC (Sea)
   - infopic:

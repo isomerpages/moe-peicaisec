@@ -310,11 +310,11 @@ Sec.</p>
 <p>Computing (from 2026 onwards)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/file/d/1gJGbJ0sEH1qlWoFuYYEmjSoIhuhs8_6H" rel="noopener noreferrer nofollow" target="_blank">G1 Computing T&amp;L Syllabus K144 (2026)</a>
+<p><a href="https://drive.google.com/file/d/1LVov1b64zcsaCsxcrr8HuNFLyqNg6vxv/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">G1 Computing T&amp;L Syllabus K144 (2026)</a>
 </p>
-<p><a href="https://drive.google.com/file/d/1pO9Z1JpJk9eblBEPBbnrF_39k9LCDOL9" rel="noopener noreferrer nofollow" target="_blank">G2 Computing T&amp;L Syllabus K244 (2026)</a>
+<p><a href="https://drive.google.com/file/d/1A_7rU6bx-N-3itJUnkAge1pj66HoaHF0/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">G2 Computing T&amp;L Syllabus K244 (2026)</a>
 </p>
-<p><a href="https://drive.google.com/file/d/1scqURCiU1lllsHHR1Z-T1NEwjHXW1-hK" rel="noopener noreferrer nofollow" target="_blank">Summary of Differences in G1 vs G2 Computing Syllabuses</a>
+<p><a href="https://drive.google.com/file/d/1Hwd_082SnikSxb07dECiCXpVACmQGflZ/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Summary of Differences in G1 vs G2 Computing Syllabuses</a>
 </p>
 </td>
 </tr>

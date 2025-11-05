@@ -4,6 +4,182 @@ permalink: /achievements/students/school-based-awards/
 description: ""
 variant: tiptap
 ---
+<h4>2025 Sem 2</h4>
+<h4>School-based Student Achievements</h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name of Award</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Description of Award</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Time of Presentation</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Principal’s List</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Recognises and affirms students who have achieve outstanding results on
+a Semestral basis and demonstrated exemplary conduct.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Presented at the end of Semester 2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Secondary 1 Principal’s List</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Achievements/Sem2_2025_PrincipalList_CCA_Awards_1.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Secondary 2 Principal’s List</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Achievements/Sem2_2025_PrincipalList_CCA_Awards_2.jpg">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Secondary 3 Principal’s List</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Achievements/Sem2_2025_PrincipalList_CCA_Awards_3.jpg">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name of award</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Description of award</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CCA Colours Award (Junior Category)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Recognises and affirms Sec 1-2s students who have attained significant
+achievements in their respective CCAs and contributed to the running of
+the CCAs or to the school to his/her best ability.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Achievements/Sem2_2025_PrincipalList_CCA_Awards_4.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name of award</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Description of award</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CCA Outstanding Award (Junior Category)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Recognises and affirms Sec 1-2s students who have outstanding contributions
+to their CCAs.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Achievements/Sem2_2025_PrincipalList_CCA_Awards_5.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>2025 Sem 1</h4>
 <h4>School-based Student Achievements</h4>
 <p></p>
