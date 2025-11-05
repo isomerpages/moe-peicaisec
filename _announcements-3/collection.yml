@@ -2,7 +2,6 @@ collections:
   announcements-3:
     output: true
     order:
-      - SYF Arts Presentation – Concert Band Distinction Award.md
       - Peicai Alumni Return for NS Engagement Talk.md
       - Celebration and Recognition Day 2025.md
       - The Cove and The Sphere.md
@@ -31,6 +30,7 @@ collections:
       - Hosting of Caritas Wu Cheng Chung College at Peicai Secondary School.md
       - Student Leaders' Investiture 2025.md
       - Signature Community Outreach at Blood Bank HSA.md
+      - SYF Arts Presentation – Concert Band Distinction Award.md
       - Peicai Alumnus Temasek Poly Scholarship Awards.md
       - Student Council Presidential Elections 2025.md
       - SRC Softball Championship 2025.md
