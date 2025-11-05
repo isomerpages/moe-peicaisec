@@ -2,7 +2,6 @@ collections:
   announcements-3:
     output: true
     order:
-      - "NCC (Sea) Unit Achievement: Distinction Award 2024.md"
       - Peicai Alumni Return for NS Engagement Talk.md
       - Celebration and Recognition Day 2025.md
       - The Cove and The Sphere.md
@@ -36,6 +35,7 @@ collections:
       - Student Council Presidential Elections 2025.md
       - SRC Softball Championship 2025.md
       - Peicai inter class Debate Championship 2025.md
+      - "NCC (Sea) Unit Achievement: Distinction Award 2024.md"
       - Secondary 4 & 5 CCA Appreciation and Stand Down Ceremony.md
       - Peicai Sports Day 2025.md
       - Girl Guides World Thinking Day Commemoration.md
