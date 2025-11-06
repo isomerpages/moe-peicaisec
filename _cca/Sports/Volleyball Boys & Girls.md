@@ -113,7 +113,6 @@ sense of sportsmanship, unwavering resilience and high level of discipline.</p>
 </li>
 </ol>
 <h4><strong>CCA Schedule</strong></h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/volleyball_8.jpg">
 </div>
