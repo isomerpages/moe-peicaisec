@@ -4,6 +4,49 @@ permalink: /distinctive-edge/work-attachment/
 description: ""
 variant: tiptap
 ---
+<h4><strong>Year-End SWAP for Secondary 3 students</strong></h4>
+<p>Every twice a year, in May and October, our Secondary 3 students exchange
+their school uniforms for corporate attire and immerse themselves in authentic
+workplace environments through the Student Work Attachment Programme (SWAP).
+The programme enables students to explore viable education and career options
+through the provision of accurate and comprehensive information, while
+nurturing self-awareness, self-directedness, and essential life skills
+for continual learning and training.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Distinctive Programmes/swap_end2025_1.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Students with staff at the Myer Briggs Company</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>Mid-Year SWAP for Secondary 3 students</strong></h4>
 <p><strong><u>SWAP@Peicai: A Glimpse into the Working World</u></strong>
 </p>
