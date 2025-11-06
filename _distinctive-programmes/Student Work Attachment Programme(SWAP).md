@@ -4,6 +4,161 @@ permalink: /distinctive-edge/work-attachment/
 description: ""
 variant: tiptap
 ---
+<h4><strong>Year-End SWAP for Secondary 3 students</strong></h4>
+<p>Every twice a year, in May and October, our Secondary 3 students exchange
+their school uniforms for corporate attire and immerse themselves in authentic
+workplace environments through the Student Work Attachment Programme (SWAP).
+The programme enables students to explore viable education and career options
+through the provision of accurate and comprehensive information, while
+nurturing self-awareness, self-directedness, and essential life skills
+for continual learning and training.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Distinctive Programmes/swap_end2025_1.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Distinctive Programmes/swap_end2025_2.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Students with staff at the Myer Briggs Company</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students with staff at Sanwah Construction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Distinctive Programmes/swap_end2025_3.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Distinctive Programmes/swap_end2025_4.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Students at Yishun Health</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students with staff at Health Sciences Authority (HSA)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Through SWAP, students gain meaningful industry exposure that helps them
+develop future-ready skills, inculcate an appreciation for the value of
+all occupations, and understand how different roles contribute to the smooth
+functioning of society. The programme also equips students with the skills
+and means to positively engage their parents and other career influencers,
+fostering meaningful dialogue about their learning and aspirations.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Distinctive Programmes/swap_end2025_5.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Students at the Health Sciences Authority (HSA) to learn more about Blood
+Bank and its operations</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>This October and November, we are grateful to The Myers Briggs Company,
+Sanwah Construction, Yishun Health, and the Health Sciences Authority (HSA)
+Blood Bank for welcoming our students into their organisations. Their guidance
+has provided invaluable opportunities for Peicaians to observe professional
+practices, understand workplace expectations, and build confidence in navigating
+new environments.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Distinctive Programmes/swap_end2025_6.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Robbins (left) with our students at lunch</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>We extend special thanks to Mr Robbins from the Myers Briggs Company,
+one of Singapore’s leading HR consultancies, for his warm hospitality,
+mentorship, and professional guidance. His engagement has inspired students
+to develop both practical skills and a mindset of adaptability, resilience,
+and purpose.</p>
+<p>Through SWAP, Peicaians are learning beyond the classroom, exploring knowledge,
+honing skills, shaping mindsets, and engaging their communities, preparing
+themselves for tomorrow, today.</p>
 <h4><strong>Mid-Year SWAP for Secondary 3 students</strong></h4>
 <p><strong><u>SWAP@Peicai: A Glimpse into the Working World</u></strong>
 </p>
