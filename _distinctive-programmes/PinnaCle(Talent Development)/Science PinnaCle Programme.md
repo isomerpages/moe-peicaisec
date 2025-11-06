@@ -37,17 +37,31 @@ community.</p>
 <h4>Key Achievements:</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>24th Singapore Science and Engineering Fair Competition (SSEF) – Finalist</p>
+<p>2025 C.B. Paul Science Quiz – 2 Gold and 2 Bronze Awards</p>
 </li>
-</ul>
+<li>
+<p>2025 Singapore Junior Science Olympiad</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>25th International Elementz Fair - Bronze Award</p>
+<p>Physics – 1 Bronze and 1 Honourable Mention</p>
+</li>
+<li>
+<p>Chemistry – 1 Silver</p>
+</li>
+<li>
+<p>Biology – 1 Silver</p>
 </li>
 </ul>
-<ul data-tight="true" class="tight">
+</li>
 <li>
-<p>A*STAR-VJC Science Fair 2024 (Upper Secondary Open Category) - Silver
+<p>2024 &amp; 2025 Singapore Science and Engineering Fair Competition (SSEF)
+– Finalist</p>
+</li>
+<li>
+<p>2024 &amp; 2025 International Elementz Fair - Bronze Award</p>
+</li>
+<li>
+<p>2024 A*STAR-VJC Science Fair (Upper Secondary Open Category) - Silver
 Award</p>
 </li>
 </ul>
