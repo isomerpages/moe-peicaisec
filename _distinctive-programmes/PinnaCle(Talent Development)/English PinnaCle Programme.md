@@ -6,22 +6,31 @@ description: ""
 third_nav_title: PinnaCle(Talent Development)
 ---
 <h4>English PinnaCle Programme</h4>
-<p>English PinnaCle teamed up with SingLit Station to host several workshops.
-Esteemed local authors shared invaluable creative writing techniques with
-our students. Selected students also took part in the Unity Young Writers
-Festival, which was dedicated to celebrating the written word within Singapore’s
-literary community. Our English Pinnacle students also received public
-speaking and debate training from Julia Gabriel Centre. Our best speakers
-were then chosen to take part in the prestigious Singapore Secondary School
-Debating Championships. The PinnaCle students also embarked on an enriching
-learning journey, to experience a thought-provoking “Animal Farm” theatre
-production. They had the unique opportunity to participate in a Q&amp;A
-session and workshop with the cast.</p>
+<p>The <strong>English PinnaCle Programme</strong> is a talent development
+initiative that provides students with rich and diverse opportunities to
+hone their literary, linguistic, and critical thinking abilities. Through
+partnerships with esteemed organisations such as <strong>SingLit Station</strong>,
+students engaged in creative writing workshops led by celebrated local
+authors including Neil Humphreys, Daryl Qilin Yam, and Danny Jalil, providing
+experiences that sharpened their expressive flair and inventive thought.
+Beyond writing, PinnaCle nurtures articulate and confident speakers through
+platforms like the <strong>Singapore Secondary School Debating Championships</strong>,
+where students refine their communication, collaboration, and analytical
+skills. The programme also broadens students’ civic and cultural perspectives
+through <strong>learning journeys</strong> to places such as <strong>Parliament House</strong>,
+where they gain first-hand insights into governance and current affairs,
+and <strong>local theatre productions</strong> like <em>Don’t Know, Don’t Care</em> and <em>Perfecting Pratas</em>,
+which deepen their understanding of contemporary social issues. In celebrating
+their passion for the English Language, students also participate in <strong>national literary and oratorical competitions</strong> such
+as the Unity Young Writers Festival, ACJC Orator’s Trophy, YMCA Plain English
+Speaking Awards, Straits Times What’s the News Quiz, and the Live On! Essay
+Competition. Collectively, these experiences empower students to think
+critically, communicate persuasively, and engage meaningfully with the
+world around them.</p>
 <p><strong>Learning Experiences</strong>
 </p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -30,34 +39,70 @@ session and workshop with the cast.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="English Pinnacle  (1)" src="/images/Distinctive Programmes/English_Pinnacle___2_.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Distinctive Programmes/eng_pinnacle_2025_1.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Distinctive Programmes/eng_pinnacle_2025_2.jpg">
+</div>
 </th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Secondary School</p>
+<p>Debating Championships</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SingLit Station Writing Workshops</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="English Pinnacle  (2)" src="/images/Distinctive Programmes/English_Pinnacle___3_.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Distinctive Programmes/eng_pinnacle_2025_3.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Distinctive Programmes/eng_pinnacle_2025_4.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Participation in the Unity Young Writers Festival</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Spectating a Theatre Performance</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Distinctive Programmes/eng_pinnacle_2025_5.jpg">
+</div>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Distinctive Programmes/eng_pinnacle_2025_6.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Learning Journey to the Parliament House</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Helming the annual PinnaCle Challenge</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -69,26 +114,64 @@ session and workshop with the cast.</p>
 </table>
 <p><strong>Key Achievements:</strong>
 </p>
-<table style="minWidth: 75px">
+<p></p>
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="English Pinnacle  (3)" src="/images/Distinctive Programmes/English_Pinnacle___1_.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Distinctive Programmes/eng_pinnacle_2025_7.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
-<th rowspan="1" colspan="1">
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Kalista Cheah Yun Xi was shortlisted for the prestigious <strong>Creative Arts Programme (CAP)</strong> organised
+by the Gifted Education Branch, Ministry of Education (Singapore), a national
+recognition of her exceptional talent and promise in creative writing.
+Her selection affirms her creativity, originality of thought, and potential
+to contribute meaningfully to Singapore’s literary scene.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
-</th>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Distinctive Programmes/eng_pinnacle_2025_8.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Grace Mercy Tomy (3C3) has been selected to join the <strong>National Debate Training Programme</strong>.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 </tbody>
 </table>
