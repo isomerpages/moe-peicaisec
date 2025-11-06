@@ -10,7 +10,7 @@ third_nav_title: PinnaCle(Talent Development)
 advanced mathematics through real-life challenges, competitions, and hands-on
 activities. Designed for students with a passion for problem-solving, the
 programme enhances computational thinking and encourages the application
-of math concepts in practical contexts</p>
+of math concepts in practical contexts.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -50,7 +50,7 @@ Primary 6 students, building teamwork and leadership skills.</p>
 <br>Participate in Stick'em workshops to nurture computational thinking and
 apply math through technology.</p>
 </li>
-<li>
+</ul>
 <p><strong>Learning Journeys:</strong>
 <br>Discover sustainability through math during learning journeys, such as
 the Gardens by the Bay experience.</p>
@@ -60,21 +60,23 @@ the Gardens by the Bay experience.</p>
 achieving commendable results:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Singapore &amp; Asian Schools Math Olympiad (SASMO) 2024:</strong> 2
-Silver, 4 Bronze</p>
+<p><strong>Singapore &amp; Asian Schools Math Olympiad (SASMO) 2025:</strong> 4
+for honorable mention, 7 bronze, 2 sliver.</p>
 </li>
 <li>
-<p><strong>Singapore Math Kangaroo Contest (SMKC) 2024:</strong> 4 Silver,
-9 Bronze</p>
+<p><strong>Singapore Math Kangaroo Contest (SMKC) 2025:</strong> 2 for honorable
+mention, 6 bronze, 6 sliver.</p>
 </li>
 <li>
-<p><strong>American Math Olympiad (AMO) 2023:</strong> 3 Bronze</p>
+<p><strong>Singapore Mathematical Olympiad (SMO) 2025: </strong>6 for honorable
+mention, 1 bronze, 1 sliver.</p>
 </li>
 <li>
-<p><strong>NIE Mathematics Challenge 2024:</strong> 2 Distinctions</p>
-<table style="minWidth: 75px">
+<p><strong>Singapore International Math Olympiad Challenge (SIMOC) 2025: </strong>1
+bronze.</p>
+<p></p>
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -83,20 +85,40 @@ Silver, 4 Bronze</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Key Achievements Pinnacle" src="/images/Distinctive Programmes/Key_Achievements.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Distinctive Programmes/maths_pinnacle_2025_1.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Distinctive Programmes/maths_pinnacle_2025_2.jpg">
+</div>
 </th>
-<th rowspan="1" colspan="1">
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Yi Yuxuan 2-PN</strong>
+</p>
+<p><strong>SMO Silver</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2025 SMO &amp; SIMOC</strong>
+</p>
+<p><strong>Award Winners</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
-</th>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 </tbody>
 </table>
-</li>
-</ul>
 </li>
 </ul>
 <p></p>
