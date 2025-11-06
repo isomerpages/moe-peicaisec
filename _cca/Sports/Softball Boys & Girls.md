@@ -3,59 +3,98 @@ title: Softball Boys & Girls
 permalink: /cca/ccas/sports/softball-boys-n-girls/
 description: ""
 third_nav_title: Sports
-variant: markdown
+variant: tiptap
 ---
-<h4><strong>SOFTBALL Boys &amp; Girls</strong></h4>
-
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/Softball_1.jpg"></td>
+<td rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/softball_1.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/softball_2.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/softball_3.jpg">
+</div>
+</td>
 </tr>
 </tbody>
 </table>
-<p></p><p><b>Goals &amp; Objectives </b></p>
-<p></p><p align="justify">1. We train with diligence and discipline to ensure that we are prepared to put up a strong challenge at the national level.<br> 
-2.	We cherish the values of teamwork, respect and integrity that help keep us going amidst adversities.
-
-</p><br>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/Softball_2.jpg"></td>
-</tr>
-<tr>
-<td style="width: 33.3333%;"><p style="text-align: center;"></p></td>
-</tr>
-</tbody>
-</table>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/Softball_3.jpg"></td>
-</tr>
-<tr>
-<td style="width: 33.3333%;"><p style="text-align: center;"></p></td>
-</tr>
-</tbody>
-</table>
-<p><b>CCA Achievements </b></p>
-<p></p><p align="justify">1.	2017 National Schools’ Games B’ Division (Boys) – Top 4<br>
-2.	2018 SRC Softball Carnival U17 (Boys) – Champions<br>
-3.	2018 SRC Softball Carnival U14 (Boys) – 2nd Runner Up<br> 
-4.	2018 SRC Softball Carnival U14 (Girls) – 2nd Runner Up<br>
-5.	2019 SRC Softball Carnival U17 (Girls) – 2nd Runner Up<br> 
-6.	2022 Softball DCMA CUP (Girls) – 1st Runner Up<br>
-7.	2023 National Schools’ Games C’ Division (Boys) – Top 6<br> 
-8.	2023 National Schools’ Games C’ Division (Girls) – Top 8
-</p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/Softball_4.jpg"></td>
-</tr>
-<tr>
-<td style="width: 33.3333%;"><p style="text-align: center;"></p></td>
-</tr>
-</tbody>
-</table>
+<h4><strong>Goals &amp; Objectives</strong></h4>
+<ol data-tight="true" class="tight">
+<li>
+<p>Over the years, the Peicai Softball Team has developed a strong reputation
+amongst competing schools in the national tournaments.</p>
+</li>
+<li>
+<p>We train with diligence and discipline to ensure that we are prepared
+to put up a strong challenge at the national level. As such, our softball
+team has achieved many astonishing accomplishments.</p>
+</li>
+<li>
+<p>The team also aims to continue to promote Softball, a traditionally niche
+sport to one that is all-inclusive, and every student who is interested
+in the sport will have a chance to train, play and compete at the various
+competitions available throughout the national softball competitions calendar.</p>
+</li>
+</ol>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/softball_4.jpg">
+</div>
+<h4><strong>CCA Achievements</strong></h4>
+<ol data-tight="true" class="tight">
+<li>
+<p>2025 National Schools’ Games C’ Division (Boys) - League 1 National Top
+6</p>
+</li>
+<li>
+<p>2024 National Schools’ Games C’ Division (Boys) - League 2 Champion (Gold)</p>
+</li>
+<li>
+<p>2024 National Schools’ Games C’ Division (Girls) - League 3 Champion (Gold)</p>
+</li>
+<li>
+<p>2024 Singapore Recreation Club Softball Championship (Girls) - 1st Runner-up</p>
+</li>
+<li>
+<p>2023 National Schools’ Games C’ Division (Boys) – Top 6</p>
+</li>
+<li>
+<p>2023 National Schools’ Games C’ Division (Girls) – Top 8</p>
+</li>
+<li>
+<p>2022 Softball DCMA CUP (Girls) – 1st Runner Up</p>
+</li>
+<li>
+<p>2019 SRC Softball Carnival U17 (Girls) – 2nd Runner Up</p>
+</li>
+<li>
+<p>2018 SRC Softball Carnival U14 (Boys) – 2nd Runner Up</p>
+</li>
+<li>
+<p>2018 SRC Softball Carnival U14 (Girls) – 2nd Runner Up</p>
+</li>
+<li>
+<p>2018 SRC Softball Carnival U17 (Boys) – Champions</p>
+</li>
+<li>
+<p>2017 National Schools’ Games B’ Division (Boys) – Top 4</p>
+</li>
+</ol>
+<h4><strong>CCA Schedule</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/softball_5.jpg">
+</div>
+<p></p>
