@@ -3,66 +3,79 @@ title: Badminton Boys & Girls
 permalink: /cca/ccas/sports/badminton-boys-n-girls-new/
 description: ""
 third_nav_title: Sports
-variant: markdown
+variant: tiptap
 ---
-<h4><strong>BADMINTON </strong></h4>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/Badminton_1.jpg"></td>
+<td rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/badminton_1.jpg">
+</div>
+</td>
 </tr>
 </tbody>
 </table>
-<p><b>Goals &amp; Objectives </b></p>
-<p></p><p align="justify">1.	To nurture Peicaians who embodies the spirit of H.E.R.O.E.S (Hardworking, Empathetic, Resilient, Outstanding, Exemplary and Sensible)<br>
-2.	Inculcate interest and passion in students for the game of badminton Build camaraderies in the badminton team<br> 
-3.	Develop students into proficient athletes of oustanding character. <br>
-4.	Unleash the potential of Peicaians in national competitions Exemplify school values through badminton <br>
-5.	Provide a holistic experience to create an overall positive school experience
-</p><br>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/Badminton_2.jpg"></td>
-</tr>
-<tr>
-<td style="width: 33.3333%;"><p style="text-align: center;"></p></td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/badminton_2.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/badminton_3.jpg">
+</div>
+</td>
 </tr>
 </tbody>
 </table>
-<p><b>CCA Achievements </b></p>
-<p></p><p align="justify">1. Badminton National Schools Games C-Division 2023 (Boys and Girls) Captain of C-Division, Jeremy Miracle Williams selected for trials with Singapore Schools Team for the 13th ASEAN School Games (Vietnam)<br>
-2.	Representaton in Bravesword competition, Alpha Age Competition and Chinese Swimming Club Competition 2023 by Jeremy Miracle Williams<br>
-3.	Representation at Smash Competition by Jiong Xian and Samuel 
-</p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/Badminton_3.jpg"></td>
-<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/Badminton_4.jpg"></td>
-</tr>
-<tr>
-<td style="width: 33.3333%;"><p style="text-align: center;"></p></td>
-</tr>
-</tbody>
-</table>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/Badminton_5.jpg"></td>
-</tr>
-<tr>
-<td style="width: 33.3333%;"><p style="text-align: center;"></p></td>
-</tr>
-</tbody>
-</table>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/Badminton_6.jpg"></td>
-</tr>
-<tr>
-<td style="width: 33.3333%;"><p style="text-align: center;"></p></td>
-</tr>
-</tbody>
-</table>
+<h4><strong>Goals &amp; Objectives</strong></h4>
+<ol data-tight="true" class="tight">
+<li>
+<p>Established in 2023, Peicai Badminton was inspired by the keen interest
+and passion of our students for the sport. Today, Peicai Badminton has
+grown to a vibrant community of around 100 members, training twice a week
+on Mondays and Thursdays.</p>
+</li>
+<li>
+<p>Peicai Badminton continues to offer competitive pathways for all students,
+even for shuttlers who are not experienced in Primary School National Schools
+Games before can attempt to trial and be enrolled in the team for both
+regional and national competitions.</p>
+</li>
+</ol>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/badminton_4.jpg">
+</div>
+<h4><strong>CCA Achievements</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Silver in B/C-Division Boys at S6 Sports Fiesta 2025</p>
+</li>
+<li>
+<p>Bronze in B/C-Division Girls at S6 Sports Fiesta 2025</p>
+</li>
+<li>
+<p>Silver in C’ Division Girls National Schools Games League 3 2024</p>
+</li>
+<li>
+<p>C-Div Captain, Jeremy Miracle Williams, was selected for trials with Singapore
+Schools Team for the 13th ASEAN School Games (Vietnam) 2023.</p>
+</li>
+</ul>
+<h4><strong>CCA Schedule</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/badminton_5.jpg">
+</div>
+<p></p>
