@@ -230,7 +230,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<a href="/cca/ccas/clubs-n-societies/debate-society/">Debate Society</a>
+<a href="/cca/ccas/clubs-n-societies/debate-society/">Debates Society</a>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
