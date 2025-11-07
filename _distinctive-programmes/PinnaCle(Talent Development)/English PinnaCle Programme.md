@@ -6,27 +6,26 @@ description: ""
 third_nav_title: PinnaCle(Talent Development)
 ---
 <h4>English PinnaCle Programme</h4>
-<p>The <strong>English PinnaCle Programme</strong> is a talent development
-initiative that provides students with rich and diverse opportunities to
-hone their literary, linguistic, and critical thinking abilities. Through
-partnerships with esteemed organisations such as <strong>SingLit Station</strong>,
-students engaged in creative writing workshops led by celebrated local
-authors including Neil Humphreys, Daryl Qilin Yam, and Danny Jalil, providing
-experiences that sharpened their expressive flair and inventive thought.
-Beyond writing, PinnaCle nurtures articulate and confident speakers through
-platforms like the <strong>Singapore Secondary School Debating Championships</strong>,
-where students refine their communication, collaboration, and analytical
-skills. The programme also broadens students’ civic and cultural perspectives
-through <strong>learning journeys</strong> to places such as <strong>Parliament House</strong>,
-where they gain first-hand insights into governance and current affairs,
-and <strong>local theatre productions</strong> like <em>Don’t Know, Don’t Care</em> and <em>Perfecting Pratas</em>,
+<p>The English PinnaCle Programme is a talent development initiative that
+provides students with rich and diverse opportunities to hone their literary,
+linguistic, and critical thinking abilities. Through partnerships with
+esteemed organisations such as SingLit Station, students engaged in creative
+writing workshops led by celebrated local authors including Neil Humphreys,
+Daryl Qilin Yam, and Danny Jalil, providing experiences that sharpened
+their expressive flair and inventive thought. Beyond writing, PinnaCle
+nurtures articulate and confident speakers through platforms like the Singapore
+Secondary School Debating Championships, where students refine their communication,
+collaboration, and analytical skills. The programme also broadens students’
+civic and cultural perspectives through learning journeys to places such
+as Parliament House, where they gain first-hand insights into governance
+and current affairs, and local theatre productions like <em>Don’t Know, Don’t Care</em> and <em>Perfecting Pratas</em>,
 which deepen their understanding of contemporary social issues. In celebrating
-their passion for the English Language, students also participate in <strong>national literary and oratorical competitions</strong> such
-as the Unity Young Writers Festival, ACJC Orator’s Trophy, YMCA Plain English
-Speaking Awards, Straits Times What’s the News Quiz, and the Live On! Essay
-Competition. Collectively, these experiences empower students to think
-critically, communicate persuasively, and engage meaningfully with the
-world around them.</p>
+their passion for the English Language, students also participate in national
+literary and oratorical competitions such as the Unity Young Writers Festival,
+ACJC Orator’s Trophy, YMCA Plain English Speaking Awards, Straits Times
+What’s the News Quiz, and the Live On! Essay Competition. Collectively,
+these experiences empower students to think critically, communicate persuasively,
+and engage meaningfully with the world around them.</p>
 <p><strong>Learning Experiences</strong>
 </p>
 <table style="minWidth: 50px">
@@ -162,7 +161,7 @@ to contribute meaningfully to Singapore’s literary scene.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Grace Mercy Tomy (3C3) has been selected to join the <strong>National Debate Training Programme</strong>.</p>
+<p>Grace Mercy Tomy (3C3,2024) has been selected to join the <strong>National Debate Training Programme 2024</strong>.</p>
 </td>
 </tr>
 <tr>
