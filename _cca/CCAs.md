@@ -88,7 +88,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<a href="/cca/ccas/sports/tennis-cluster-based-interschool-cca/">Tennis (Cluster-Based Interschool CCA)</a>
+<a href="/cca/ccas/sports/tennis-cluster-based-interschool-cca/">Table Tennis Boys (Cluster Based)</a>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
