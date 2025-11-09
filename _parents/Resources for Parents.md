@@ -5,11 +5,15 @@ description: ""
 variant: tiptap
 ---
 <p><strong>Supporting your child on HBL days</strong>
-<br>Please click <a href="https://drive.google.com/file/d/1txnRihNcYINKnLP_fD5HS2cfn3t6XtGy/view" rel="noopener noreferrer nofollow" target="_blank">HERE</a> for
+</p>
+<p>Please click <a href="https://drive.google.com/file/d/1txnRihNcYINKnLP_fD5HS2cfn3t6XtGy/view" rel="noopener noreferrer nofollow" target="_blank">HERE</a> for
 more information.
 <br>
-<br><strong>New MOE Device Management Application (DMA)</strong>
-<br>Parent User Guide for DMA Option A: <a href="https://drive.google.com/file/d/1AH2KkX0YRtAp-gtKuY-vheMZeSVPYGQG/view" rel="noopener noreferrer nofollow" target="_blank">LINK</a>
+<br>
+</p>
+<p><strong>New MOE Device Management Application (DMA)</strong>
+</p>
+<p>Parent User Guide for DMA Option A: <a href="https://drive.google.com/file/d/1AH2KkX0YRtAp-gtKuY-vheMZeSVPYGQG/view" rel="noopener noreferrer nofollow" target="_blank">LINK</a>
 </p>
 <p>Parent User Guide for DMA Option B: <a href="https://drive.google.com/file/d/18h6KnwNVrfYsUhScXJXtjfjqcIwaO7BF/view" rel="noopener noreferrer nofollow" target="_blank">LINK</a>
 </p>
@@ -23,3 +27,11 @@ of each Term.
 <br>If you have any technical issues relating to DMA matters, you may email
 to<u>&nbsp;</u><a href="mailto:peicai_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">peicai_ss@moe.edu.sg</a><u>&nbsp;</u>with
 the title “DMA Query”.</p>
+<p></p>
+<p><strong>Acceptable Use Policy (AUP) for Use of EdTech Resources</strong>
+</p>
+<p>The AUP establishes guidelines on the appropriate use of EdTech resources
+(e.g. Personal Learning Devices (PLDs), iCON) to help students understand
+how to use them safely and responsibly, in line with efforts to develop
+their digital literacies and growth as digitally responsible citizens.
+You can read the AUP at this <a href="https://drive.google.com/file/d/1uMRd5LPytHWV-zNux2UxnT7mm2BIMMhX/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">LINK</a>.</p>
