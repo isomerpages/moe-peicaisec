@@ -5,6 +5,11 @@ description: ""
 third_nav_title: Sports
 variant: markdown
 ---
+<style>
+table, th, td {
+  border: 2px solid black;
+}
+</style>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Floorball_1.jpg">
 </div>
@@ -41,7 +46,18 @@ heart, and strive to make Peicai proud.</p>
 </li>
 </ol>
 <h4><strong>CCA Schedule</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Floorball_4.jpg">
-</div>
 <p></p>
+<table style="width:100%">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Floorball (Boys &amp; Girls) | Monday &amp; Tuesday | 3:15 - 5:45PM</p>
+</th>
+</tr>
+</tbody>
+</table>
