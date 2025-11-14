@@ -118,7 +118,7 @@ Secondary Category).</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Debates Art Club | Thursday | 3:15 - 5:45PM</p>
+<p>Art Club | Thursday | 3:15 - 5:45PM</p>
 </th>
 </tr>
 </tbody>
