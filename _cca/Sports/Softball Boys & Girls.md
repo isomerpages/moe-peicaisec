@@ -94,7 +94,19 @@ competitions available throughout the national softball competitions calendar.</
 </li>
 </ol>
 <h4><strong>CCA Schedule</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/softball_5.jpg">
-</div>
 <p></p>
+<table style="width:100%">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Softball (Boys) | Tuesday &amp; Thursday | 3:15 - 5:45PM</p>
+<p>Softball (Girls) | Monday &amp; Thursday | 3:15 - 5:45PM</p>
+</th>
+</tr>
+</tbody>
+</table>
