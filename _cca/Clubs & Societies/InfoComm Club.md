@@ -67,13 +67,7 @@ for use on intra and inter-school platforms.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Infocomm Club</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Thursday</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>3:15 - 5:45PM</p>
+<p>Infocomm Club | Thursday | 3:15 - 5:45PM</p>
 </th>
 </tr>
 </tbody>
