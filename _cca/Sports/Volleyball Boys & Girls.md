@@ -128,8 +128,7 @@ sense of sportsmanship, unwavering resilience and high level of discipline.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Volleyball (Boys) | Tuesday &amp; Thursday | 3:15 - 5:45PM</p>
-<p>Volleyball (Girls) | Tuesday &amp; Thursday | 3:15 - 5:45PM</p>
+<p>Volleyball (Boys &amp; Girls) | Tuesday &amp; Thursday | 3:15 - 5:45PM</p>
 </th>
 </tr>
 </tbody>
