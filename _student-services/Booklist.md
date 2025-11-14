@@ -16,13 +16,13 @@ letter posted in Parents Gateway</p>
 <p><a href="/files/2026/Booklist_2026_Peicai_Sec_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Booklist 2026 Peicai Sec 2</a>
 </p>
 <h4><strong>Secondary 3</strong></h4>
-<p><a href="/files/2026/Booklist_2026_Peicai_Sec_3.pdf" rel="noopener noreferrer nofollow" target="">Booklist 2026 Peicai Sec 3</a>
+<p><a href="/files/2026/Booklist_2026_Peicai_Sec_3_v2.pdf" rel="noopener noreferrer nofollow" target="">Booklist 2026 Peicai Sec 3</a>
 </p>
 <h4><strong>Secondary 4</strong></h4>
-<p><a href="/files/2026/Booklist_2026_Peicai_Sec_4_Express.pdf" rel="noopener noreferrer nofollow" target="">Booklist 2026 Peicai Sec 4 Express</a>
+<p><a href="/files/2026/Booklist_2026_Peicai_Sec_4_Express_v2.pdf" rel="noopener noreferrer nofollow" target="">Booklist 2026 Peicai Sec 4 Express</a>
 <br><a href="/files/2026/Booklist_2026_Peicai_Sec_4_NA.pdf" rel="noopener noreferrer nofollow" target="">Booklist 2026 Peicai Sec 4 NA</a>
 <br><a href="/files/2026/Booklist_2026_Peicai_Sec_4_NT.pdf" rel="noopener noreferrer nofollow" target="">Booklist 2026 Peicai Sec 4 NT</a>
 </p>
 <h4><strong>Secondary 5</strong></h4>
-<p><a href="/files/2026/Booklist_2026_Peicai_Sec_5.pdf" rel="noopener noreferrer nofollow" target="">Booklist 2026 Peicai Sec 5 NA</a>
+<p><a href="/files/2026/Booklist_2026_Peicai_Sec_5_v2.pdf" rel="noopener noreferrer nofollow" target="">Booklist 2026 Peicai Sec 5 NA</a>
 </p>

@@ -1,5 +1,5 @@
 ---
-title: Nutrition & Food Science Unit
+title: Nutrition & Food Science
 permalink: /academic/craft-and-technology/nutrition-food-science-unit/
 variant: tiptap
 description: ""
