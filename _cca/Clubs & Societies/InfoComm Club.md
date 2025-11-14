@@ -52,7 +52,25 @@ for use on intra and inter-school platforms.</p>
 </li>
 </ul>
 <h4><strong>CCA Schedule</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Infocomm_Club_4.jpg">
-</div>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Infocomm Club</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Thursday</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>3:15 - 5:45PM</p>
+</th>
+</tr>
+</tbody>
+</table>
 <p></p>
