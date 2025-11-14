@@ -5,6 +5,11 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: markdown
 ---
+<style>
+table, th, td {
+  border: 2px solid black;
+}
+</style>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/npcc_1.jpg">
 </div>
@@ -79,7 +84,18 @@ and contribution to the Unit throughout their 4 years of service.</p>
 </li>
 </ol>
 <h4><strong>CCA Schedule</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/npcc_4.jpg">
-</div>
 <p></p>
+<table style="width:100%">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>NPCC | Thursday | 3:15 - 5:45PM</p>
+</th>
+</tr>
+</tbody>
+</table>
