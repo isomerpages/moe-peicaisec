@@ -5,6 +5,11 @@ description: ""
 third_nav_title: Sports
 variant: markdown
 ---
+<style>
+table, th, td {
+  border: 2px solid black;
+}
+</style>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
