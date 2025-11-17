@@ -10,41 +10,13 @@ table, th, td {
   border: 2px solid black;
 }
 </style>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="2">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/girl_guides_1.jpg">
 </div>
-</th>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/girl_guides_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/girlguides_body_2.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/girl_guides_3.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
 <h4><strong>Goals &amp; Objectives</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
