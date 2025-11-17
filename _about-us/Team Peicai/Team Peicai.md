@@ -90,6 +90,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Alex Mah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:mah_shao_wei_alex@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mah_shao_wei_alex@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Greg Ong</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -278,6 +290,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yong_guanghui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yong_guanghui@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Yeap Choon How</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH (Literature)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yeap_choon_how@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeap_choon_how@moe.edu.sg</a>
 </p>
 </td>
 </tr>
