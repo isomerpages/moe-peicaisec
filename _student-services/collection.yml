@@ -2,6 +2,7 @@ collections:
   student-services:
     output: true
     order:
+      - END OF YEAR SALE OF BOOKS AND UNIFORMS.md
       - National Examination Matters.md
       - Booklist.md
       - Bookshop Opening Hours.md
