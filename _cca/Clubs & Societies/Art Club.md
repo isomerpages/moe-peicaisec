@@ -5,29 +5,18 @@ description: ""
 third_nav_title: Clubs & Societies
 variant: markdown
 ---
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="2">
+<style>
+table, th, td {
+  border: 2px solid black;
+}
+</style>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Art_Club_1.jpg">
 </div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/art_club_banner_2.jpg">
 </div>
-</td>
-</tr>
-</tbody>
-</table>
 <h4><strong>Goals &amp; Objectives</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
@@ -52,32 +41,9 @@ through Art.</p>
 creation.</p>
 </li>
 </ol>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Art_Club_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/art_club_body_2.jpg">
 </div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Art_Club_5.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Art_Club_6.jpg">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
 <h4><strong>CCA Achievements</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -100,8 +66,10 @@ Secondary Category).</p>
 </ul>
 <h4><strong>CCA Schedule</strong></h4>
 <p></p>
-<table style="minWidth: 25px">
+<table style="width:100%">
 <colgroup>
+<col>
+<col>
 <col>
 </colgroup>
 <tbody>
