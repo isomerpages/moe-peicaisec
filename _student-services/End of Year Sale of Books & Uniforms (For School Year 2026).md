@@ -86,7 +86,7 @@ your online purchase.</p>
 <p><strong>(1) Online Purchase via Home Delivery</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <ul data-tight="true" class="tight">
 <li>
 <p>Order online at vendor’s website with home delivery via this link/ QR
@@ -102,46 +102,13 @@ avoid delivery delay due to high-peak year end season.</p>
 </li>
 </ul>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Services/eoy_2025_sales_1.jpg">
-</div>
-<table style="minWidth: 125px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-</tbody>
-</table>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>(2) Walk-in purchase at Vendor’s Retail Outlet</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <ul data-tight="true" class="tight">
 <li>
 <p>Purchase uniform at vendor’s retail outlet strictly by appointment only
@@ -179,46 +146,13 @@ refer to the website for the date of the closure).</p>
 </li>
 </ul>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Services/eoy_2025_sales_2.jpg">
-</div>
-<table style="minWidth: 125px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-</tbody>
-</table>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>(3) Walk-in purchase in School</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <ul data-tight="true" class="tight">
 <li>
 <p><u>Dates of sale in School:</u>
@@ -241,9 +175,6 @@ refer to the website for the date of the closure).</p>
 Parent can bring down their child’s best-fitted garments to do size comparisons.</p>
 </li>
 </ul>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
