@@ -48,6 +48,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Yeap Choon How</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH (Literature)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English Language &amp; Literature</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yeap_choon_how@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeap_choon_how@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mrs Jacelyn Liu</p>
 </td>
 <td rowspan="1" colspan="1">
