@@ -10,41 +10,13 @@ table, th, td {
   border: 2px solid black;
 }
 </style>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="2">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/volleyball_1.jpg">
 </div>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/volleyball_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/volleyball_body_2.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/volleyball_3.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
 <h4><strong>Goals &amp; Objectives</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
@@ -61,38 +33,9 @@ rules, formations and strategies of the game.</p>
 sense of sportsmanship, unwavering resilience and high level of discipline.</p>
 </li>
 </ol>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/volleyball_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/volleyball_body_3.jpg">
 </div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/volleyball_5.jpg">
-</div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/volleyball_6.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/volleyball_7.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
 <h4><strong>CCA Achievements</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
