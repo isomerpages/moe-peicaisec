@@ -3,8 +3,13 @@ title: Modern Dance
 permalink: /cca/ccas/performing-arts/modern-dance/
 description: ""
 third_nav_title: Performing Arts
-variant: tiptap
+variant: markdown
 ---
+<style>
+table, th, td {
+  border: 2px solid black;
+}
+</style>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Modern_Dance_1.jpg">
 </div>
@@ -55,7 +60,18 @@ legwork, floor work, fall and recovery and other techniques.</p>
 </li>
 </ul>
 <h4><strong>CCA Schedule</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Modern_Dance_4.jpg">
-</div>
 <p></p>
+<table style="width:100%">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Modern Dance | Monday &amp; Thursday | 3:15 - 5:45PM</p>
+</th>
+</tr>
+</tbody>
+</table>

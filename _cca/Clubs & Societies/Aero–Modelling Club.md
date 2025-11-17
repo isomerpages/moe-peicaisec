@@ -3,8 +3,13 @@ title: Aero–Modelling Club
 permalink: /cca/ccas/clubs-n-societies/aero-modelling-club/
 description: ""
 third_nav_title: Clubs & Societies
-variant: tiptap
+variant: markdown
 ---
+<style>
+table, th, td {
+  border: 2px solid black;
+}
+</style>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Aeromodelling_Club_1.jpg">
 </div>
@@ -39,7 +44,18 @@ compassionate hearts.</p>
 </li>
 </ul>
 <h4><strong>CCA Schedule</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Aeromodelling_Club_4.jpg">
-</div>
 <p></p>
+<table style="width:100%">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Aeromodelling Club | Tuesday | 3:15 - 5:45PM</p>
+</th>
+</tr>
+</tbody>
+</table>

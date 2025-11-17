@@ -3,8 +3,13 @@ title: Concert Band
 permalink: /cca/ccas/performing-arts/concert-band/
 description: ""
 third_nav_title: Performing Arts
-variant: tiptap
+variant: markdown
 ---
+<style>
+table, th, td {
+  border: 2px solid black;
+}
+</style>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Concert_Band_1.jpg">
 </div>
@@ -54,7 +59,20 @@ Band Competition 2023</p>
 </li>
 </ul>
 <h4><strong>CCA Schedule</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Concert_Band_4.png">
-</div>
 <p></p>
+<table style="width:100%">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Sec 1 Only | Tuesday | 3:15 - 5:45PM</p>
+<p>Sec 2 - 5s Only | Monday | 3:15 - 5:45PM</p>
+<p>All Levels | Thursday | 3:15 - 5:45PM</p>
+</th>
+</tr>
+</tbody>
+</table>

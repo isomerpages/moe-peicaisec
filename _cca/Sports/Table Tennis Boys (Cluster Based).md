@@ -1,10 +1,15 @@
 ---
 title: Table Tennis Boys (Cluster Based)
 permalink: /cca/ccas/sports/tennis-cluster-based-interschool-cca/
-variant: tiptap
+variant: markdown
 description: ""
 third_nav_title: Sports
 ---
+<style>
+table, th, td {
+  border: 2px solid black;
+}
+</style>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Table_Tennis_Boys_1.jpg">
 </div>
@@ -30,15 +35,20 @@ equivalent regional competitions where available.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Table_Tennis_Boys_3.jpg">
 </div>
-<h4><strong>CCA Achievements</strong></h4>
-<ol data-tight="true" class="tight">
-<li>
-<p>Progression to League 2 from Pool C in the C Division National Schools
-Games Championships 2025</p>
-</li>
-</ol>
 <h4><strong>CCA Schedule</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CCA/Table_Tennis_Boys_4.jpg">
-</div>
 <p></p>
+<table style="width:100%">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>S6 Table Tennis (Boys) | Tuesday | 3:00 - 5:45PM</p>
+<p>S6 Table Tennis (Boys) | Friday | 2:30 - 5:45PM</p>
+</th>
+</tr>
+</tbody>
+</table>

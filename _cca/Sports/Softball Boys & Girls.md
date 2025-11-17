@@ -3,35 +3,20 @@ title: Softball Boys & Girls
 permalink: /cca/ccas/sports/softball-boys-n-girls/
 description: ""
 third_nav_title: Sports
-variant: tiptap
+variant: markdown
 ---
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="2">
+<style>
+table, th, td {
+  border: 2px solid black;
+}
+</style>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/softball_1.jpg">
 </div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/softball_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/softball_body_2.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/softball_3.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
 <h4><strong>Goals &amp; Objectives</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
@@ -94,7 +79,19 @@ competitions available throughout the national softball competitions calendar.</
 </li>
 </ol>
 <h4><strong>CCA Schedule</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/softball_5.jpg">
-</div>
 <p></p>
+<table style="width:100%">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Softball (Boys) | Tuesday &amp; Thursday | 3:15 - 5:45PM</p>
+<p>Softball (Girls) | Monday &amp; Thursday | 3:15 - 5:45PM</p>
+</th>
+</tr>
+</tbody>
+</table>

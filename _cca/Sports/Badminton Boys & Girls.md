@@ -3,43 +3,20 @@ title: Badminton Boys & Girls
 permalink: /cca/ccas/sports/badminton-boys-n-girls-new/
 description: ""
 third_nav_title: Sports
-variant: tiptap
+variant: markdown
 ---
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="2">
+<style>
+table, th, td {
+  border: 2px solid black;
+}
+</style>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/badminton_1.jpg">
 </div>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/badminton_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Badminton_body_2.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/badminton_3.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
 <h4><strong>Goals &amp; Objectives</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
@@ -75,7 +52,18 @@ Schools Team for the 13th ASEAN School Games (Vietnam) 2023.</p>
 </li>
 </ul>
 <h4><strong>CCA Schedule</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/badminton_5.jpg">
-</div>
 <p></p>
+<table style="width:100%">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Badminton (Boys &amp; Girls) | Monday &amp; Thursday | 3:15 - 5:45PM</p>
+</th>
+</tr>
+</tbody>
+</table>
