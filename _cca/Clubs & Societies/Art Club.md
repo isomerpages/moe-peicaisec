@@ -3,13 +3,8 @@ title: Art Club
 permalink: /cca/ccas/clubs-n-societies/art-club/
 description: ""
 third_nav_title: Clubs & Societies
-variant: markdown
+variant: tiptap
 ---
-<style>
-table, th, td {
-  border: 2px solid black;
-}
-</style>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -24,14 +19,10 @@ table, th, td {
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Art_Club_2.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Art_Club_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/art_club_banner_2.jpg">
 </div>
 </td>
 </tr>
@@ -109,10 +100,8 @@ Secondary Category).</p>
 </ul>
 <h4><strong>CCA Schedule</strong></h4>
 <p></p>
-<table style="width:100%">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
-<col>
 <col>
 </colgroup>
 <tbody>
@@ -123,3 +112,4 @@ Secondary Category).</p>
 </tr>
 </tbody>
 </table>
+<p></p>
