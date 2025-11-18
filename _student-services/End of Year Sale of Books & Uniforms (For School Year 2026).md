@@ -23,7 +23,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong><u>Bookshop On-Site Sale (at Level 1, Classroom C1-03)</u></strong>
+<p><strong><u>Bookshop On-Site Sale (at Level 1, Classroom C1-05)</u></strong>
 </p>
 <p>BL Marketing Pte Ltd</p>
 <p>Tel: 65189611, Email: <a href="mailto:sales@blmarketing.sg" rel="noopener noreferrer nofollow" target="_blank">sales@blmarketing.sg</a>
