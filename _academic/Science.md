@@ -71,7 +71,7 @@ variant: tiptap
 <p>YH (Upper Secondary)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Science</p>
+<p>Chemistry</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:mah_shao_wei_alex@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mah_shao_wei_alex@moe.edu.sg</a>
