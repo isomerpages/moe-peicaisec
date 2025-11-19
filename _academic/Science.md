@@ -68,7 +68,7 @@ variant: tiptap
 <p>Mr Alex Mah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head</p>
+<p>YH (Upper Secondary)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Science</p>
