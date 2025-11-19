@@ -72,6 +72,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Chemistry</p>
+<p>G1 Science</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:mah_shao_wei_alex@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mah_shao_wei_alex@moe.edu.sg</a>
