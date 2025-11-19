@@ -9,6 +9,13 @@ sections:
   - hero:
       background: /images/Banner/Peicai_Banner_4.gif
   - infopic:
+      title: Open House 2025 Programmes
+      id: infopic
+      button: Click here to find out more
+      url: /open-house-2025-programmes/
+      image: /images/Announcement/PCSS_Open_House_2025_Programmes_Cover.jpg
+      alt: Open House 2025 Programmes
+  - infopic:
       title: School Corporate Video
       id: infopic
       button: Click here to view
