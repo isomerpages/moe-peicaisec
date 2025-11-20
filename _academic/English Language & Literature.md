@@ -243,21 +243,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nahya Yaqina</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>English Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nur_nahya_yaqina_yahya@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_nahya_yaqina_yahya@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mrs Danapal Rajalakshmi</p>
 </td>
 <td rowspan="1" colspan="1">
