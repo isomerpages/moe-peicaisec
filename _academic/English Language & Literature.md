@@ -333,21 +333,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Verlyn Ng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>English Language &amp; Literature</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ng_wei_xuan_verlyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_wei_xuan_verlyn@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Loh Ngin Guek Angela</p>
 </td>
 <td rowspan="1" colspan="1">
