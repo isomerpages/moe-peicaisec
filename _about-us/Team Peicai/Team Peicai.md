@@ -480,20 +480,11 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Sarah Tan</p>
 </td>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p>1-PN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_khay_yi_sarah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_khay_yi_sarah@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Avery Wee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:avery_kevyn_wee_reyes@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">avery_kevyn_wee_reyes@moe.edu.sg</a>
 </p>
 </td>
 </tr>
