@@ -1437,20 +1437,11 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Seoh Soon Peng</p>
 </td>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p>4C1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:seoh_soon_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seoh_soon_peng@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Petrie Ong Yeow Wee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Petrie_Ong_Yeow_Wee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Petrie_Ong_Yeow_Wee@moe.edu.sg</a>
 </p>
 </td>
 </tr>
