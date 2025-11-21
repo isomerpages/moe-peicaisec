@@ -1341,20 +1341,11 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Tan Yong Xian</p>
 </td>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p>4B1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_yong_xian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yong_xian@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Tay Jing Sy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Tay_Jing_Sy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Tay_Jing_Sy@moe.edu.sg</a>
 </p>
 </td>
 </tr>
