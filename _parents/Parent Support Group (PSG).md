@@ -563,7 +563,7 @@ during the Teacher’s Day concert.</p>
 </tbody>
 </table>
 <p></p>
-<p><strong>Join us a member of PSG</strong>
+<p><strong>Join us as member of PSG</strong>
 </p>
 <p>We encourage all parents to be a member of the school’s PSG as it would
 instantly connect you with a number of parents with whom you would be able
