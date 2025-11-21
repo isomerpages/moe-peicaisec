@@ -1515,20 +1515,11 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Wong Wei Ting</p>
 </td>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p>4C4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wong_wei_ting_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_wei_ting_a@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Lau Eng Seng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lau_eng_seng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lau_eng_seng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
