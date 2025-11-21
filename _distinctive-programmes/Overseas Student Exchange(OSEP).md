@@ -70,6 +70,14 @@ and global connectedness.</p>
 <p>Dialogue session with the Ambassador, Mr Peter Tan</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p>Communication and teamwork were integral to the programme. The dialogue
@@ -99,6 +107,14 @@ amid an increasingly interconnected global landscape.</p>
 <tr>
 <td rowspan="1" colspan="2">
 <p>Engaging conversations with Beijing students</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -133,6 +149,14 @@ their intercultural sensitivity and adaptability.</p>
 <p>Peking University tour, led by Singapore Students’ Association of Singapore</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <table style="minWidth: 25px">
@@ -150,6 +174,11 @@ their intercultural sensitivity and adaptability.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Group Photo at Peking University</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -182,6 +211,14 @@ meaningful conversations and personal insights throughout.</p>
 <tr>
 <td rowspan="1" colspan="2">
 <p>Exploring China’s iconic ancient wonder: Great Wall and Forbidden Palace</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -221,6 +258,17 @@ understanding of China’s history and ancient infrastructures.</p>
 <p>Chinese Opera appreciation with students</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p>The students also gained a better appreciation of Chinese cultural performances
@@ -255,6 +303,14 @@ a cultural opera class with a live demonstration during the school exchange.</p>
 <p>Baidu Driverless Car-Apollo</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p>Beijing’s rapid technological development offered students a fresh lens
@@ -286,6 +342,14 @@ critical and inventive thinking.</p>
 <p>Science &amp; Tech Museum, exploring hands-on scientific exhibits</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p>At the Science and Technology Museum, students explored interactive exhibits
@@ -307,6 +371,11 @@ ways technology can shape societal progress.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>NetEase Industrial Visit, discovering digital innovation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -334,6 +403,11 @@ by exploring curated webpages that showcased the nation’s history of innovatio
 <td rowspan="1" colspan="1">
 <p>Teachers-in-charge of OSEP (from left to right): Ms Zhang Chuyi, Mr Edwin
 Kwek (OIC), Mr Tan Yong Xian</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
