@@ -5,6 +5,339 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>2025</strong></h3>
+<h4><strong>OSEP Thailand 12-16 November 2025</strong></h4>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Distinctive Programmes/osep_thai_1.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<h4><strong>OSEP Beijing 12-16 November 2025</strong></h4>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Distinctive Programmes/osep_china_1.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<p>The 5D4N Overseas Student Exchange Programme (OSEP) to Beijing deepened
+students’ appreciation of Chinese culture and China’s technological advancements.
+Through a blend of cultural visits, school exchanges, industrial learning,
+and dialogue with our Singapore’s Ambassador to China, Mr Peter Tan, students
+experienced first-hand the dynamic intersection of cultural heritage, innovation,
+and global connectedness.</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong><u>Communication and Collaboration, Civic and Global Literacy</u></strong>
+</p>
+</li>
+</ol>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Distinctive Programmes/osep_china_2.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Distinctive Programmes/osep_china_3.png">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Dialogue session with the Ambassador, Mr Peter Tan</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Communication and teamwork were integral to the programme. The dialogue
+session with the Ambassador, Mr Peter Tan stood out as a meaningful opportunity
+for students to practice diplomatic communication. Through engaging discussions,
+they have a better understanding about the nuances in Singapore–China relations
+and the ambassador’s role in advancing and safeguarding Singapore’s interests
+amid an increasingly interconnected global landscape.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Distinctive Programmes/osep_china_4.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Distinctive Programmes/osep_china_5.png">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Engaging conversations with Beijing students</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>The high school exchange programme with Experimental High School Attached
+to Beijing Normal University 北京师范大学附属实验中学 further enhanced cultural literacy
+by enabling students to interact with their Beijing counterparts through
+lessons, group activities, and conversations. These interactions exposed
+them to diverse viewpoints and customs, nurturing cultural empathy and
+respect. Students learnt to navigate similarities and differences, strengthening
+their intercultural sensitivity and adaptability.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Distinctive Programmes/osep_china_6.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Distinctive Programmes/osep_china_7.png">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Peking University tour, led by Singapore Students’ Association of Singapore</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Distinctive Programmes/osep_china_8.png">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Group Photo at Peking University</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>During the visit to Peking University 北京大学, one of the most prestigious
+universities in the world, students had the opportunity to speak with Singaporeans
+students pursuing their studies in universities located in Beijing, which
+broadened their understanding of the tertiary options available. The student
+guides brought them on an informative and lively campus tour, offering
+meaningful conversations and personal insights throughout.</p>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p><strong><u>Cross-Cultural Literacy</u></strong>
+</p>
+</li>
+</ol>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Distinctive Programmes/osep_china_20.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Exploring China’s iconic ancient wonder: Great Wall and Forbidden Palace</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>A central focus of the exchange was to deepen students’ appreciation of
+Chinese history and culture. Visits to The Great Wall 长城and The Forbidden
+Palace 故宫allowed students to witness China’s rich civilisational legacy.
+Traversing the vast courtyards of the Forbidden Palace and walking atop
+the ancient fortifications of the Great Wall helped students develop more
+understanding of China’s history and ancient infrastructures.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Distinctive Programmes/osep_china_11.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Distinctive Programmes/osep_china_12.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Distinctive Programmes/osep_china_13.png">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>Chinese Opera appreciation with students</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>The students also gained a better appreciation of Chinese cultural performances
+by watching the opera <em>Farewell My Concubine 《霸王别姬》</em> and attending
+a cultural opera class with a live demonstration during the school exchange.</p>
+<ol start="3" data-tight="true" class="tight">
+<li>
+<p><strong><u>Inventive and Adaptive Thinking</u></strong>
+</p>
+</li>
+</ol>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Distinctive Programmes/osep_china_14.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Distinctive Programmes/osep_china_15.png">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Baidu Driverless Car-Apollo</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Beijing’s rapid technological development offered students a fresh lens
+for understanding innovation and adaptability. The Baidu Driverless Car
+experience introduced them to autonomous vehicle technology, sparking curiosity
+about future transport systems and AI-driven solutions. Students asked
+thoughtful questions about safety, design, and implementation, demonstrating
+critical and inventive thinking.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Distinctive Programmes/osep_china_16.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Distinctive Programmes/osep_china_17.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Science &amp; Tech Museum, exploring hands-on scientific exhibits</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>At the Science and Technology Museum, students explored interactive exhibits
+that showcased cutting-edge research, scientific principles, and future-oriented
+innovations. This experience encouraged them to think creatively and identify
+ways technology can shape societal progress.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Distinctive Programmes/osep_china_18.png">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NetEase Industrial Visit, discovering digital innovation</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>The industrial visit to NetEase, one of China’s leading tech enterprises,
+offered students valuable exposure to real-world applications of digital
+innovation. They learnt about the gaming applications, educational services-YouDao
+有道, and the creative processes behind NetEase, prompting them to reflect
+on the importance of adaptability and forward-thinking mindsets in fast-evolving
+industries. Students also gained insight into China’s technological development
+by exploring curated webpages that showcased the nation’s history of innovation.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Distinctive Programmes/osep_china_19.png">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teachers-in-charge of OSEP (from left to right): Ms Zhang Chuyi, Mr Edwin
+Kwek (OIC), Mr Tan Yong Xian</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>Understanding Diplomacy: Visit to the Singapore Embassy in Japan</strong></h4>
 <p>One of the most meaningful highlights was the visit to the <strong>Singapore Embassy in Tokyo</strong>,
 where students gained first-hand insight into:</p>
