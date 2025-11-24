@@ -407,7 +407,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Ang Yue Hua</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
 <p>1-EE</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -420,16 +420,10 @@ variant: tiptap
 <p>Ms Lam Yong Peng</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:lam_yong_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lam_yong_peng@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Cheng Wanli</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Cheng_Wanli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Cheng_Wanli@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -855,7 +849,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Chua Jing Kai</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>2 CN</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -869,15 +863,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:leng_su_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leng_su_yee@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Nicolette Tan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Tan_Jia_Yi_Nicolette@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Tan_Jia_Yi_Nicolette@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1222,7 +1207,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Nur Syirain</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>3-EE</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1236,15 +1221,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Khairul_Usman_Salim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Khairul_Usman_Salim@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Anthony Chang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chang_ka_vun_anthony@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chang_ka_vun_anthony@moe.edu.sg</a>
 </p>
 </td>
 </tr>

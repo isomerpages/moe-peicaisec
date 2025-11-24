@@ -213,21 +213,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Cheng Wanli</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chinese</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Cheng_Wanli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Cheng_Wanli@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Wah Sun Boy</p>
 </td>
 <td rowspan="1" colspan="1">
