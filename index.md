@@ -11,7 +11,7 @@ sections:
   - infopic:
       title: Release of 2025 GCE N-Level Exam Results
       id: infopic
-      button: Click here to view
+      button: Click here to download letter
       url: /files/2026/GCE_N_level_Results_Release_2025_Letter_2.pdf
       image: /images/Announcement/eb_nlevel_121021_2x.jpg
       alt: Document
