@@ -58,9 +58,6 @@ your online purchase.</p>
 <p>BL Marketing Pte Ltd</p>
 <p>Tel: 65189611, Email: <a href="mailto:sales@blmarketing.sg" rel="noopener noreferrer nofollow" target="_blank">sales@blmarketing.sg</a>
 </p>
-<p>Books Self-Collection Hours: Monday – Friday, 9.00am to 3.00pm (Lunch
-break: 12.00pm to 1.00pm)</p>
-<p>Closed on Saturday, Sunday and Public Holidays.</p>
 </td>
 </tr>
 </tbody>
