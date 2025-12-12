@@ -11,6 +11,14 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
 <th rowspan="1" colspan="2">
 <p>Table A: Purchase of School Books</p>
 </th>
@@ -27,6 +35,12 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong><u>Bookshop</u></strong>
+</p>
+<p>BL Marketing Pte Ltd</p>
+<p>Tel: 65189611, Email: <a href="mailto:sales@blmarketing.sg" rel="noopener noreferrer nofollow" target="_blank">sales@blmarketing.sg</a>
+</p>
+<p></p>
 <p>Orders can only be made online at <a href="https://www.blmarketing.com.sg/" rel="noopener noreferrer nofollow" target="_blank">www.blmarketing.sg</a> from <strong>15 Nov to 15 Dec 2025</strong>.
 Choose between:</p>
 <p></p>
@@ -49,15 +63,7 @@ is&nbsp;<strong>19 Dec 2025, from </strong>9.00am to 3.00pm</p>
 </ul>
 <p>Make your appointment via the vendor’s website upon check-out when completing
 your online purchase.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong><u>Bookshop</u></strong>
-</p>
-<p>BL Marketing Pte Ltd</p>
-<p>Tel: 65189611, Email: <a href="mailto:sales@blmarketing.sg" rel="noopener noreferrer nofollow" target="_blank">sales@blmarketing.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -69,6 +75,17 @@ your online purchase.</p>
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 <tr>
 <th rowspan="1" colspan="3">
 <p>Table B: Purchase of School Uniform</p>
