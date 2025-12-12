@@ -22,18 +22,6 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
-<p><strong><u>Bookshop On-Site Sale (at Level 1, Classroom C1-05)</u></strong>
-</p>
-<p>BL Marketing Pte Ltd</p>
-<p>Tel: 65189611, Email: <a href="mailto:sales@blmarketing.sg" rel="noopener noreferrer nofollow" target="_blank">sales@blmarketing.sg</a>
-</p>
-<p>Books Self-Collection Hours: Monday – Friday, 9.00am to 3.00pm (Lunch
-break: 12.00pm to 1.00pm)</p>
-<p>Closed on Saturday, Sunday and Public Holidays.</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p><strong>Online Purchase</strong>
 </p>
@@ -47,12 +35,32 @@ Choose between:</p>
 <p>Home Delivery (Delivery fee $12.90 per location applies), or</p>
 </li>
 <li>
-<p>Self-Collection in School (last day for self-collection is <strong>19 Dec 2025</strong>).</p>
+<p>Self-Collection in School at Level 1, Classroom C1-05 (last day for self-collection
+is&nbsp;<strong>19 Dec 2025, from </strong>9.00am to 3.00pm</p>
 </li>
 </ul>
 <p></p>
+<p>(Lunch break: 12.00pm to 1.00pm)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Closed on Saturday, Sunday and Public Holidays.</p>
+<p></p>
+</li>
+</ul>
 <p>Make your appointment via the vendor’s website upon check-out when completing
 your online purchase.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong><u>Bookshop</u></strong>
+</p>
+<p>BL Marketing Pte Ltd</p>
+<p>Tel: 65189611, Email: <a href="mailto:sales@blmarketing.sg" rel="noopener noreferrer nofollow" target="_blank">sales@blmarketing.sg</a>
+</p>
+<p>Books Self-Collection Hours: Monday – Friday, 9.00am to 3.00pm (Lunch
+break: 12.00pm to 1.00pm)</p>
+<p>Closed on Saturday, Sunday and Public Holidays.</p>
 </td>
 </tr>
 </tbody>
