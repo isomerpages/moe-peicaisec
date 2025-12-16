@@ -35,3 +35,11 @@ the title “DMA Query”.</p>
 how to use them safely and responsibly, in line with efforts to develop
 their digital literacies and growth as digitally responsible citizens.
 You can read the AUP at this <a href="https://drive.google.com/file/d/1uMRd5LPytHWV-zNux2UxnT7mm2BIMMhX/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">LINK</a>.</p>
+<p><strong>Adjustment of Default Cut-Off Timing for Device Management Application in Personal Learning Devices (PLDs)</strong>
+</p>
+<p>To help students foster healthy digital habits, from January 2026, the
+default Device Management Application (DMA) sleep hours in PLDs will be
+brought forward to 10.30 p.m. from the current 11.00 p.m.</p>
+<p>More information can be found here: <a href="https://www.moe.gov.sg/news/press-releases/20251130-moe-to-introduce-enhanced-measures-to-promote-healthier-screen-use-in-students" rel="noopener noreferrer nofollow" target="_blank">MOE Press Release</a>,
+<a href="https://www.channelnewsasia.com/singapore/secondary-school-can-use-phone-in-class-smartphone-screen-time-students-5495621" rel="noopener noreferrer nofollow" target="_blank">CNA Article</a>
+</p>
