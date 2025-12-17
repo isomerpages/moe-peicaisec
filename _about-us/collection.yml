@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Safety and Security.md
       - Principal’s Message.md
       - School History.md
       - School Crest and Song.md
