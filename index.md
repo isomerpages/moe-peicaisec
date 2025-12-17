@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Banner/Peicai_Banner_4.gif
+      background: /images/Banner/Main_Banner_1E.jpg
   - infopic:
       title: Release of 2025 GCE N-Level Exam Results
       id: infopic
