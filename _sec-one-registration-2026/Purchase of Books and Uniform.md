@@ -102,8 +102,7 @@ to 2.00pm</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>23, 26 &amp; 29 December: 9:00am to 3:00pm</p>
-<p>&nbsp;
+<p>23, 26 &amp; 29 December: 9:00am to 3:00pm
 <br><em>(Lunch break: 1:00pm – 2:00pm)</em>
 </p>
 </td>
@@ -172,8 +171,8 @@ to do a comparison of size.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Monday – Friday: 10:00am – 6:00pm
-<br><em><br>(Lunch break &amp; sanitizing of store 1:00pm – 2:00pm)</em>
+<p>Monday – Friday: 10:00am – 6:00pm</p>
+<p><em>(Lunch break &amp; sanitizing of store 1:00pm – 2:00pm)</em>
 </p>
 </td>
 </tr>
