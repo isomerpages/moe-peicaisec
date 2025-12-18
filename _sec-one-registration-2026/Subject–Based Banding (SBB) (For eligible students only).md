@@ -23,7 +23,7 @@ this.</p>
 a decision whether to accept or reject the SBB offer. Do note that textbooks
 must be in acceptable condition for any exchange from the bookshop vendor.</p>
 <p>For more information about Subject-Based Banding, please click the link
-here <a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/secondary-school-experience.html</a>.</p>
+here <a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/secondary-school-experience.html" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/secondary-school-experience.html</a>.</p>
 <p>Should you have any further queries on Subject-Based Banding, you could
 contact Mr Edwin Kwek (Head of Department, Science), via email at <a rel="noopener noreferrer nofollow" target="_blank">kwek_swee_hee_edwin@moe.edu.sg</a>.</p>
 <p></p>
