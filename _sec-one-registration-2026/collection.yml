@@ -2,7 +2,6 @@ collections:
   sec-one-registration-2026:
     output: true
     order:
-      - Appeals for Transfer in.md
       - Welcome Letter by Principal.md
       - Secondary One Registration Form (Submit by 23 Dec 2025, 12:00pm).md
       - Form Class Allocation Based on Social Causes.md
@@ -19,6 +18,7 @@ collections:
       - Purchase of Books and Uniform.md
       - MOE Financial Assistance.md
       - Medical Appeal Exercise (MAE) by MOE.md
+      - Appeals for Transfer in.md
       - School Smart Card.md
       - Group Personal Accident (GPA) Insurance Plan for Students.md
       - School Safety and Security.md
