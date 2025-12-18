@@ -226,14 +226,14 @@ to do a comparison of size.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Students on MOE FAS 2026 can collect their textbooks and uniform in school,
-on the following date:</p>
+<p>Students on MOE FAS 2026 can collect their textbooks and uniform in school
+from 9:00 am to 3:00pm (Lunch break 12:00pm to 1:00pm) on the following
+date:</p>
 </li>
 </ul>
 <p>a. 23 December 2025 (Tue)</p>
 <p>b. 26 December 2025 (Fri)</p>
-<p>c. 29 December 2025 (Mon) from 9.00am to 3.00pm (lunch break 12.00pm to
-1.00pm)</p>
+<p>c. 29 December 2025 (Mon)</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>For students whose FAS applications have been approved by their primary schools or siblings’ schools, please bring your student card for meal subsidy registration and approval letter and proceed to the school’s <u>General Office first</u> to collect the Collection Slips for the Textbooks and Uniform before proceeding with the collection.</strong>
