@@ -104,4 +104,5 @@ the list of CCAs offered in the school as well as the CCA schedules.</p>
 </tbody>
 </table>
 <p>Should you have any queries on CCA matters, you could contact Mr Alvin
-Yeo, Head of Department (PE &amp; CCA) via email at <a href="mailto:alvin_yeo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">alvin_yeo@moe.edu.sg</a>.</p>
+Yeo, Head of Department (PE &amp; CCA) via email at <strong>alvin_yeo@moe.edu.sg</strong>
+</p>
