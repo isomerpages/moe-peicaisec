@@ -126,6 +126,6 @@ Leaders will ensure the Secondary One students are well taken care of.</p>
 </table>
 <p>All students are strongly encouraged to have breakfast daily before attending
 school.</p>
-<p>Please click on the link <a rel="noopener noreferrer nofollow" target="_blank">https://www.peicaisec.moe.edu.sg/about-us/contact-us</a> should
+<p>Please click on the link <a href="https://www.peicaisec.moe.edu.sg/about-us/contact-us/" rel="noopener noreferrer nofollow" target="_blank">https://www.peicaisec.moe.edu.sg/about-us/contact-us</a> should
 you need further details on how to get to Peicai Secondary School.</p>
 <p></p>
