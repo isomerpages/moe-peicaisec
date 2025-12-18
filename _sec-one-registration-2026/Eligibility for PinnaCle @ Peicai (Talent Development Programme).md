@@ -70,7 +70,7 @@ could contact the following key personnel:</p>
 <p>Head of Department, English &amp; Literature</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">teo_junwei@moe.edu.sg</a>
+<p><a href="mailto:teo_junwei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_junwei@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -85,7 +85,7 @@ could contact the following key personnel:</p>
 <p>Head of Department, Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tham_peck_fun@moe.edu.sg</a>
+<p><a href="mailto:tham_peck_fun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tham_peck_fun@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -100,7 +100,7 @@ could contact the following key personnel:</p>
 <p>Head of Department, Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">kwek_swee_hee_edwin@moe.edu.sg</a>
+<p><a href="mailto:kwek_swee_hee_edwin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kwek_swee_hee_edwin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -115,7 +115,7 @@ could contact the following key personnel:</p>
 <p>Head of Department, PE &amp; CCA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">alvin_yeo@moe.edu.sg</a>
+<p><a href="mailto:alvin_yeo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">alvin_yeo@moe.edu.sg</a>
 </p>
 </td>
 </tr>
