@@ -54,7 +54,7 @@ per MOE guidelines.</p>
 </p>
 <p>&nbsp;A virtual Microsoft Teams briefing for parents about Secondary One
 PLD Rollout will be held on <strong>3 January 2026 (Sat), 9:30 am to 11:00 am</strong> To
-attend, please register at this link (<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pcss26s1pldr</a> or
+attend, please register at this link (<a href="https://form.gov.sg/690fc7ae612faf51845d9148" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pcss26s1pldr</a> or
 scan QR code below). Upon registration, you will receive the Zoom meeting
 link details.</p>
 <table style="minWidth: 50px">
