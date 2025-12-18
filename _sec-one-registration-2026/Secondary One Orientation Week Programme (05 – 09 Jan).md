@@ -33,7 +33,6 @@ The Programme for the Orientation Week is as follows:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Sec 1 Orientation Programme v2" src="/images/Secondary One Registration/Sec_1_Orientation_Programme_v2.jpg">
 </div>
-<p></p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
