@@ -19,5 +19,5 @@ for your child/ward to take HMTL.</p>
 <p></p>
 <p>Should you have further queries on Higher Mother Tongue Languages, you
 could contact Mr Tau Jun Hui (Subject Head, Chinese Language) via email
-at <a rel="noopener noreferrer nofollow" target="_blank">tau_jun_hui@moe.edu.sg</a>.</p>
+at <a href="mailto:tau_jun_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tau_jun_hui@moe.edu.sg</a>.</p>
 <p></p>
