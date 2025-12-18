@@ -41,7 +41,7 @@ in Table (B).</p>
 <p>Home Delivery (Delivery fee $12.90 per location applies), or</p>
 </li>
 <li>
-<p>Self-Collection in School on 26 &amp; 29 December 2025 from <u>9.00am to 3.00pm</u>
+<p>Self-Collection in School on 26 &amp; 29 December 2025 from <u>9.00am to 3.00pm (Lunch hour: 12:00pm to 1:00 pm)</u>
 </p>
 </li>
 </ul>
@@ -99,7 +99,7 @@ to 2.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23, 26 &amp; 29 December: 9:00am to 3:00pm
-<br><em>(Lunch break: 1:00pm – 2:00pm)</em>
+<br><em>(Lunch break: 12:00pm – 1:00pm)</em>
 </p>
 </td>
 </tr>
