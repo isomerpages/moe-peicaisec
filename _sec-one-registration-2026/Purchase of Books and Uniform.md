@@ -45,21 +45,17 @@ in Table (B).</p>
 </p>
 </li>
 </ul>
-<p></p>
 <p>Make your appointment via the vendor’s website upon check-out when completing
 your online purchase.</p>
-<p></p>
 <p><strong><u>Vendor’s Details</u></strong>
 </p>
 <p>BL Marketing Pte Ltd</p>
 <p>Tel: 62848785</p>
 <p>Email: <a href="mailto:sales@blmarketing.sg" rel="noopener noreferrer nofollow" target="_blank">sales@blmarketing.sg</a>
 </p>
-<p></p>
 <p><strong>School Term Operation Hours</strong>: Monday – Friday, 7.30am
 to 2.00pm</p>
 <p>Closed on Saturday, Sunday, Public Holidays and School Holidays.</p>
-<p></p>
 <p><strong><u>Peicai 2026 Booklist</u></strong>
 </p>
 <p>Refer to School website for 2026 Booklist: <a href="https://www.peicaisec.moe.edu.sg/student-services/booklist/" rel="noopener noreferrer nofollow" target="_blank">https://www.peicaisec.moe.edu.sg/student-services/booklist/</a>
@@ -136,7 +132,6 @@ to do a comparison of size.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Purchase at vendor’s retail outlet is strictly by appointment only</p>
-<p></p>
 <p><strong><u>Vendor’s Details</u></strong>
 </p>
 <p>Jeep Sing Fashion Support Centre <a href="https://jeepsinguniform.com/pages/contact-us" rel="noopener noreferrer nofollow" target="_blank">https://bit.ly/JSFSUPPORT</a>
@@ -201,8 +196,7 @@ to do a comparison of size.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>No trying of uniform allowed due to hygiene reasons.</p>
-<p>
+<p>No trying of uniform allowed due to hygiene reasons.
 <br>Please bring your child’s/ward’s best-fitted garments for size comparison</p>
 </td>
 </tr>
