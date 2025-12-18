@@ -236,7 +236,7 @@ on the following date:</p>
 1.00pm)</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>For students whose FAS applications have been approved by their primary schools or siblings’ schools, please bring your approval letter and proceed to the school’s <u>General Office first</u> to collect the Collection Slips for the Textbooks and Uniform before proceeding with the collection.</strong>
+<p><strong>For students whose FAS applications have been approved by their primary schools or siblings’ schools, please bring your student card for meal subsidy registration approval letter and proceed to the school’s <u>General Office first</u> to collect the Collection Slips for the Textbooks and Uniform before proceeding with the collection.</strong>
 </p>
 </li>
 </ul>
