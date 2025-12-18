@@ -12,6 +12,7 @@ for all schools to help students strengthen their digital literacy.</p>
 Digital Learning Programme (PDLP) for all secondary school students, whereby
 every secondary school student will own a school-prescribed Personal Learning
 Device (PLD).</p>
+<p></p>
 <p><u>PLDs in Teaching and Learning</u>
 </p>
 <p>Personal Learning Devices (PLDs) have tremendous potential to transform
@@ -22,10 +23,10 @@ of digital literacies in our students as well as develop them as future
 ready self-directed and collaborative learners.</p>
 <p><u>Choice of PLD in Peicai Secondary School</u>
 </p>
-<p>The school is using the <strong>Apple iPad 10.9” 10<sup>th</sup> Gen (64 GB) </strong>as
-its choice for the PLD for all students. The device bundle includes a 3-year
-warranty, 3-year insurance, an Apple Pencil (USB-C), and a Logitech keyboard
-with cover.</p>
+<p>The school is using the <strong>Apple iPad (A16) 11” (128 GB)</strong> as
+its choice for the PLD for all students. The device bundle includes a 4-year
+AppleCare+ warranty, 4-year insurance, an Apple Pencil (USB-C), and a Logitech
+keyboard with cover.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -35,9 +36,6 @@ with cover.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="pdlp" src="/images/Aboutus/PDLP1.jpg">
-</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
