@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Banner/Main_Banner_1E.jpg
+      background: /images/Banner/Main_Banner_Main_1F.jpg
   - infopic:
       title: Release of 2025 GCE N-Level Exam Results
       id: infopic
