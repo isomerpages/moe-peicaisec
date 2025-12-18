@@ -51,7 +51,7 @@ your online purchase.</p>
 </p>
 <p>BL Marketing Pte Ltd</p>
 <p>Tel: 62848785</p>
-<p>Email: <a href="mailto:sales@blmarketing.sg" rel="noopener noreferrer nofollow" target="_blank">sales@blmarketing.sg</a>
+<p>Email: <strong>sales@blmarketing.sg</strong>
 </p>
 <p><strong>School Term Operation Hours</strong>: Monday – Friday, 7.30am
 to 2.00pm</p>
