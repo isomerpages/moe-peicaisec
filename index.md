@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Banner/Peicai_Banner_4.gif
+      background: /images/Banner/Main_Banner_Main_1F.jpg
   - infopic:
       title: Release of 2025 GCE N-Level Exam Results
       id: infopic
@@ -16,11 +16,11 @@ sections:
       image: /images/Announcement/eb_nlevel_121021_2x.jpg
       alt: Document
   - infopic:
-      title: Open House 2025 Programmes
+      title: Secondary One Registration 2026
       id: infopic
       button: Click here to find out more
-      url: /open-house-2025-programmes/
-      image: /images/Announcement/PCSS_Open_House_2025_Programmes_Cover.jpg
+      url: /sec-one-registration-2026/welcome-letter-by-principal/
+      image: /images/Secondary One Registration/sec_1_reg_2026_poster.jpg
       alt: Open House 2025 Programmes
   - infopic:
       title: School Corporate Video
