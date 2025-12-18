@@ -22,9 +22,6 @@ Humanities, Craft &amp; Technology, Computer Applications (G1 only) as
 well as about the Applied Learning Programme (ALP).</p>
 <p>4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 The Programme for the Orientation Week is as follows:</p>
-<p>&nbsp;
-<br>
-</p>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -242,3 +239,4 @@ by 2:30 pm.</p>
 <p>Should you require further details on the Secondary 1 Orientation Week
 Programme, you could contact Mr Alvin Yeo (Head of Department, PE &amp;
 CCA) via email at <a rel="noopener noreferrer nofollow" target="_blank">alvin_yeo@moe.edu.sg</a>.</p>
+<p></p>
