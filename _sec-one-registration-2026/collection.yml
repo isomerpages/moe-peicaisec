@@ -2,12 +2,12 @@ collections:
   sec-one-registration-2026:
     output: true
     order:
-      - Eligibility for 3rd Language (L3).md
       - Welcome Letter by Principal.md
       - Secondary One Registration Form (Submit by 23 Dec 2025, 12:00pm).md
       - Form Class Allocation Based on Social Causes.md
       - Personal Learning Device (PLD).md
       - Eligibility for Higher Mother Tongue Language (HMTL).md
+      - Eligibility for 3rd Language (L3).md
       - Subject–Based Banding (SBB) (For eligible students only).md
       - Eligibility for PinnaCle @ Peicai (Talent Development Programme).md
       - Instructions for First and Second Day of School (02 Jan).md
