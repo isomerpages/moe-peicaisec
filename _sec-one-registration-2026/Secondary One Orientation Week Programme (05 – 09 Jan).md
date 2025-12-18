@@ -238,5 +238,5 @@ by 2:30 pm.</p>
 <p></p>
 <p>Should you require further details on the Secondary 1 Orientation Week
 Programme, you could contact Mr Alvin Yeo (Head of Department, PE &amp;
-CCA) via email at <a rel="noopener noreferrer nofollow" target="_blank">alvin_yeo@moe.edu.sg</a>.</p>
+CCA) via email at <a href="mailto:alvin_yeo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">alvin_yeo@moe.edu.sg</a>.</p>
 <p></p>
