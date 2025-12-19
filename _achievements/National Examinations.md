@@ -51,7 +51,6 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<p></p>
 <h4><strong>2024 National Examination Results (Value-Added)</strong></h4>
 <p></p>
 <table style="minWidth: 75px">
