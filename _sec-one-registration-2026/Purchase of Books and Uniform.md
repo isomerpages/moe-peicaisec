@@ -35,8 +35,7 @@ in Table (B).</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Orders can only be made online at<a href="https://www.blmarketing.com.sg/" rel="noopener noreferrer nofollow" target="_blank"> https://www.blmarketing.sg</a> from
-19 to 23 December 2025.<strong> </strong>
-</p>
+19 to 23 December 2025.</p>
 <p>You may indicate S1 for the class when placing orders online</p>
 <p>Choose between:</p>
 <ul data-tight="true" class="tight">
