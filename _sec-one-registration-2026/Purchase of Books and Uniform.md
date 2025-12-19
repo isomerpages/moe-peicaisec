@@ -35,7 +35,8 @@ in Table (B).</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Orders can only be made online at<a href="https://www.blmarketing.com.sg/" rel="noopener noreferrer nofollow" target="_blank"> https://www.blmarketing.sg</a> from
-19 to 23 December 2025.<strong> </strong>Choose between:</p>
+19 to 23 December 2025.<strong> </strong>You may indicate S1 for the class
+when placing orders<strong> </strong>Choose between:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Home Delivery (Delivery fee $12.90 per location applies), or</p>
