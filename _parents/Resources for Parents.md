@@ -86,8 +86,6 @@ brought forward to 10.30 p.m. from the current 11.00 p.m.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>A Parent’s Guide to Generative AI tools for Learning</strong>
-</p>
-<p>
 <br>This resource (<a href="https://drive.google.com/file/d/1WqeLyadPcLG-RVvhhcP_XYRqHHotOJbu/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Link</a>),
 developed by MOE, helps parents support their children in using generative
 AI tools safely and appropriately for learning.</p>
