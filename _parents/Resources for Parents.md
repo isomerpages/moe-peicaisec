@@ -43,3 +43,71 @@ brought forward to 10.30 p.m. from the current 11.00 p.m.</p>
 <p>More information can be found here: <a href="https://www.moe.gov.sg/news/press-releases/20251130-moe-to-introduce-enhanced-measures-to-promote-healthier-screen-use-in-students" rel="noopener noreferrer nofollow" target="_blank">MOE Press Release</a>,
 <a href="https://www.channelnewsasia.com/singapore/secondary-school-can-use-phone-in-class-smartphone-screen-time-students-5495621" rel="noopener noreferrer nofollow" target="_blank">CNA Article</a>
 </p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="white bg" src="/images/Parents/white_BG.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="white bg" src="/images/Parents/white_BG.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>A Parent’s Guide to Generative AI tools for Learning</strong>
+<br>This resource (<a href="https://drive.google.com/file/d/1WqeLyadPcLG-RVvhhcP_XYRqHHotOJbu/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Link</a>),
+developed by MOE, helps parents support their children in using generative
+AI tools safely and appropriately for learning.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p></p>
