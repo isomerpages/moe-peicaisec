@@ -115,7 +115,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Service award 03" src="/images/Achievements/2025_MOE_Service_Excellence_Award__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Moe service award 3a" src="/images/Achievements/2025_MOE_Service_Excellence_Award__3_A.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
