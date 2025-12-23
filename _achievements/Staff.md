@@ -139,6 +139,17 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="AST 2025" src="/images/Achievements/Moe_awards_2025_AST.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Timetabling" src="/images/Achievements/Outstanding_Contribution_Award__Team__03.jpg">
 </div>
 </td>
