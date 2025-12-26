@@ -43,9 +43,8 @@ brought forward to 10.30 p.m. from the current 11.00 p.m.</p>
 <p>More information can be found here: <a href="https://www.moe.gov.sg/news/press-releases/20251130-moe-to-introduce-enhanced-measures-to-promote-healthier-screen-use-in-students" rel="noopener noreferrer nofollow" target="_blank">MOE Press Release</a>,
 <a href="https://www.channelnewsasia.com/singapore/secondary-school-can-use-phone-in-class-smartphone-screen-time-students-5495621" rel="noopener noreferrer nofollow" target="_blank">CNA Article</a>
 </p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -57,27 +56,9 @@ brought forward to 10.30 p.m. from the current 11.00 p.m.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="white bg" src="/images/Parents/white_BG.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="white bg" src="/images/Parents/white_BG.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -93,12 +74,15 @@ AI tools safely and appropriately for learning.</p>
 </tr>
 </tbody>
 </table>
+<p>
+<br>
+</p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>

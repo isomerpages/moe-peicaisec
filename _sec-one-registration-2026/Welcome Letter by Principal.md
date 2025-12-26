@@ -19,7 +19,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <h4><strong>PEICAI SECONDARY SCHOOL</strong></h4>
 <p>10 Serangoon Ave 4 Singapore 556094
-<br>Tel: 62021260, Fax: 62830480
+<br>Tel: 62021260
 <br>peicai_ss@moe.edu.sg</p>
 </td>
 </tr>
