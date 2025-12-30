@@ -2,6 +2,7 @@ collections:
   unused-pages:
     output: true
     order:
+      - Code of.md
       - School Events 2025.md
       - Staff.md
       - Students.md
@@ -14,12 +15,10 @@ collections:
       - School canteen advertisement.md
       - Team Peicai.md
       - Individual Student Achievements.md
-      - Gear Up.md
       - Learning for Life (LLP).md
       - Applied Learning Programme (ALP).md
       - Talent Development Programme (PinnaCle@Peicai).md
       - Rotary Club of Changi.md
-      - Lions Club.md
       - Partners.md
       - Alumni 1.md
       - Model Peicaian.md
