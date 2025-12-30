@@ -5,6 +5,953 @@ description: ""
 third_nav_title: Student Management
 variant: tiptap
 ---
-<p>Page is being updated and will be available shortly.</p>
+<h4>PHILOSOPHY AND APPROACH</h4>
+<h4></h4>
+<p>The code of conduct serves to nurture in our students desired values and
+behaviours that are exemplary.</p>
+<p>The discipline processes and systems in the school are designed to help
+and guide students to think responsibly, reflect on their actions, understand
+the consequences of actions as well as responsibilities and come up with
+collaborative solutions to move forward. Discipline offences will have
+a direct impact on conduct grade and testimonial of students.</p>
+<p>The school has a clear set of rules and regulations, which together with
+the school’s philosophy for discipline, are shared with the students. The
+rationale for each segment of the rules and regulations have been articulated
+explicitly to ensure that students do not follow rules blindly. Instead,
+students should understand the intentions and reasons for these rules as
+well as how these rules would serve them well in future as they progress
+to the next phase of their education and lives.</p>
+<p>We trust that the school’s Code of Conduct will enable students who graduate
+from PCSS would leave the school as responsible young adults and citizens
+who are ready to contribute to the community and the nation.</p>
+<h4>ATTIRE</h4>
+<p><strong>Rationale: To present oneself well and uphold the good name of the school with pride both in and out of school</strong>
+</p>
+<p>1. Students are to wear the prescribed school uniform. Modification to
+the uniform is strictly not allowed.</p>
+<p>2. All students are to ensure that they are properly attired at all times
+including during the school holidays and outside of school.</p>
+<p>3. No external attire is allowed in school at all times.</p>
+<p>4. All students are to ensure the following with regard to the school
+uniform:</p>
+<p>(a) Shirts and blouses must be properly buttoned up, worn neatly and smartly
+at all times.</p>
+<p>(b) The length of the school skirt should not be 3 cm higher than the
+knees.</p>
+<p>(c) The school pants/shorts/shirt/skirt is of the correct size and not
+oversized, too tight or too short.</p>
+<p>(d) White/black or dark coloured school-based t-shirts can be worn underneath
+the school shirt. No bright or fluorescent-coloured t-shirts e.g., bright
+pink, neon green or orange etc.</p>
+<p>(e) Only canvas, sneakers or sports shoes with laces or straps are allowed.
+Though students are encouraged to use shoes that are predominately black,
+blue or grey - canvas, sneakers and sports shoes of choice can be of any
+colour (though students are highly encouraged to avoid bright, flashy and
+outlandish designs as well as colours) so long the shoes are suitable for
+Physical Education lessons. Slip-on and high-cut shoes are not allowed.
+Shoes with lights, wheels or wedges are also not allowed.</p>
+<p>(f) Socks should be worn at all times when in school attire. Though students
+are encouraged to use socks that are predominately black, white or grey
+in colour - the choice of socks can be of any solid colour. Socks with
+images, designs, words or large logos are not allowed. Socks should also
+be long enough to cover the ankles but not the calf. students are to avoid
+bright colours, flashy and outlandish designs.</p>
+<p>(g) Any footwear, other than the above prescribed shoes, are not allowed
+to be worn in school except for medical reasons and approved by a teacher
+with supporting documentation issued by medical practitioners registered
+under the Medical Registration Act.</p>
+<p>5. The prescribed attire for various school activities and events (unless
+otherwise specified) is as follows:</p>
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>School Events / Activities</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Attire</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Daily</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;Prescribed school uniform</p>
+<p>&gt;Shirt and shorts for lower secondary boys</p>
+<p>&gt;Shirt and pants for upper secondary boys</p>
+<p>&gt;Blouse and skirts for both upper and lower secondary girls</p>
+<p>Note: In view of Singapore’s generally humid weather, the school allows
+for students to be in half uniform daily, where half uniform refers to
+PE T-shirt with school uniform shorts/pants/skirts (PE Shorts not allowed)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PE lessons</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PE attire</p>
+<p>Students must wear the school PE T-shirt and PE shorts for all PE lessons</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School functions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Prescribed full school uniform only
+(unless otherwise informed)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Examinations</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Prescribed full school uniform (unless
+otherwise informed)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Inter-class Games</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PE attire</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Class/CCA T-shirts with PE shorts</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Excursions &amp; Learning Journeys</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Depending on the nature of activity,
+as informed by Teacher I/C</p>
+<p>&gt; Prescribed school uniform, or,</p>
+<p>&gt;PE attire, or</p>
+<p>&gt;Class T-shirt with school shorts / pants / skirts</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Saturdays &amp; School Holidays</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PE attire</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PE/CCA/Class T-shirt with school
+shorts /pants / skirts / PE shorts</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Shoes and socks (no slippers allowed)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Physical activities and in the Gym</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PE attire</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CCA/Class T-shirt with
+PE shorts</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Night Study Programme /Consultations</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Prescribed school uniform</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PE/CCA/Class T-shirt with school
+shorts / pants / skirts / PE shorts</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Co-curricular Activities (CCA)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CCA Attire / CCA T-shirts/PE shorts
+/ school shorts / pants / skirts</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Every Friday
+<br>(except during the examination periods)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PE/Class/CCA T-shirt with school
+shorts/pants/ skirts (Only eligible classes are allowed to wear school-based
+class or CCA T-shirt on Friday)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p>6. All students are expected to be in the prescribed school attire every
+day, which is half uniform (PE T-shirt with school uniform shorts/pants/skirts).
+Students with the incorrect attire at the start of the school day will
+need to be in the correct attire before being allowed back to class. To
+avoid any disruption to lessons, students should ensure that they are in
+the correct prescribed attire at the start of the school day.</p>
+<h4>APPEARANCE</h4>
+<p><strong>Rationale: To portray a positive image of oneself through personal grooming and hygiene</strong>
+</p>
+<p>1. All students are to ensure the following:</p>
+<p>(a) For Male Students</p>
+<p>i. Only natural hair colour is allowed (i.e. no dyeing/tinting/highlights).</p>
+<p>ii. Hair must be neat and kept above the eyebrows. When combed downwards,
+hair should not cover the eyes, touch the ear as well as the collar of
+the uniform.</p>
+<p>iii. Hair at the crown must not be too thick or bushy.</p>
+<p>iv. Hairstyles must be kept simple. It should not incorporate any inappropriate
+styles as deemed by the school. Hairstyles such as e.g. undercut, thin
+shaven at the side, shaved line parting, fringe touching eyebrows, V-shaped
+at the back are not allowed.</p>
+<p>v. Earrings or ear sticks are not allowed.</p>
+<p>vi. Moustache/Beard/Goatee/Facial Piercings are not allowed. All students
+must be clean shaven and neat in appearance.</p>
+<p>vii. Sideburns, where kept, should not go beyond the cartilage at the
+centre of the ear.</p>
+<p>(b) For Female Students</p>
+<p>i. Only natural hair colour is allowed (i.e. no dyeing/tinting/highlights)</p>
+<p>ii. Hair must be neat and hair that is touching the shoulder or hair that
+is longer than shoulder length should be tied up.</p>
+<p>iii. Length of hair fringe should be above the eyebrows. If the fringe
+is below the eyebrows, it should be clipped up.</p>
+<p>iv. Any hair accessories worn should not be fanciful.</p>
+<p>v. Any ear studs worn should be of a simple design and not fanciful.</p>
+<p>vi. Only one ear stud per ear is allowed and it has to be worn on the
+ear lobes only.</p>
+<p>vii. Any ear sticks worn should be transparent.</p>
+<p>viii. Dangling earrings are not allowed.</p>
+<p>(c) All students are not allowed to have the following on them:</p>
+<p>i. Tattoos of any kind (visible or otherwise).</p>
+<p>Students found with any tattoos should remove it before they are allowed
+to go to class.</p>
+<p>ii. Henna painting.</p>
+<p>iii. Make-up of any form.</p>
+<p>iv. Long, coloured and press-on/stick-on nails.</p>
+<p>v. Fanciful or striking spectacle frames. Spectacle lenses should not
+be tinted.</p>
+<p>vi. Cosmetic contact lenses</p>
+<p>E.g., contact lens with colour/patterns, contact lens that enlarge the
+pupils etc.</p>
+<p>(d) The wearing of accessories of any kind (including chains, bracelet
+etc) is prohibited.</p>
+<p>2. Student leaders are to put on their Student Leaders’ badge at all times
+when they are in school uniform</p>
+<h4>ATTENDANCE</h4>
+<p><strong>Rationale: To cultivate self-management through personal responsibility and accountability</strong>
+</p>
+<p>1. All students are expected to be punctual for and be present in school
+to attend the flag raising ceremony and all lessons.</p>
+<p>2. Students who are Singapore citizens must sing the National Anthem and
+take the Pledge. Students will take the Pledge with the right fist placed
+over the heart.</p>
+<p>3. The procedures and timings for morning assembly and the flag raising
+ceremony are as follows:</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Time</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Activity</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7:45 a.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The slow music starts.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are to assemble with their form
+class in the parade square / school hall / classroom for flag raising ceremony.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; An announcement will be made via the public
+address system if there are any changes to the assigned assembly venues
+due to inclement weather.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7:48 a.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The slow music ends.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The school bell rings and the school gates
+will be closed at 7:48 a.m. sharp.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The fast music starts.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7:50 a.m. onwards</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The fast music ends.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The flag raising ceremony will commence.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students who are not present with their
+form class for the flag raising ceremony (although they are in school)
+will be considered as late for school.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>4. All students are to adhere to the following:</p>
+<p>(a) Be punctual and present for the flag raising ceremony, assembly, all
+lessons, activities and other school events.</p>
+<p>(b) Assemble in the parade square/school hall/classroom by 7:50 a.m. It
+is the responsibility of the student to personally inform his/her Form
+Teacher if he/she is in school but not in the respective assembly area
+due to valid reasons.</p>
+<p>(c) Inform the Form Teachers or the General Office of their absence from
+school by 7:50 a.m. on the day of absence.</p>
+<p>(d) Submit an original copy of the Medical Certificate (MC) for the day(s)
+absent from school to the Form Teacher on the day of return to school.
+A clear picture of the original MC may be also be submitted via Parents
+Gateway.</p>
+<p>(e) Letters from parents/guardians explaining a student’s absence from
+school should not exceed 5 in a semester as students’ attendance in school
+is critical for them to do well in school. Students will be considered
+as Absent without Valid Reason if they have submitted parent letters/emails
+for more than 5 days of absence per semester or travelled overseas during
+term time for family holidays. Absence without valid reason can be considered
+as truancy and appropriate consequences will be meted out.</p>
+<p>(f) Letters from parents/guardians cannot be used to explain absence from
+tests or examinations. Absence from a test/examination without a valid
+MC will result in the student getting a zero mark for the test/examination.</p>
+<p>(g) Submitted MCs must be issued by a medical practitioner registered
+under the Medical Registration Act or the Dental Registration Act.</p>
+<p>(h) Persistent truancy is viewed as a wilful absence from school and may
+result in expulsion. A student who is absent from school without any valid
+reasons for three days (the days need not be consecutive), will be issued
+a letter of warning.</p>
+<p>5. A student who has been late without valid reasons for 5 times for the
+year will be issued an advisory letter. Persistent late coming may result
+in suspension from school.</p>
+<p>6. Upon receiving any letter for late coming, a student who continues
+to be late without any valid reasons or comes to school after 8:10 a.m.,
+may not be allowed to go to class as it would be highly disruptive to lessons
+that are on-going.</p>
+<p>7. A student who has received a warning letter for being severely late
+(i.e. after 8:10 a.m.) on 5 occasions (with days not necessarily consecutive)
+and/or a warning letter for accumulating 10 instances of late coming will
+be placed under the Early Bird Programme (EBP).</p>
+<p>Students identified for the EBP will be required to report to school by
+7:40 a.m. daily until further notice. Wilful absence from the programme
+will be regarded as defiance or truancy and may result in out-of-school
+suspension for a specified number of days, depending on the severity and
+frequency of the individual’s late-coming offences.</p>
+<p>A student under the EBP who continues to be late, may face same-day after-school
+detention, in-school suspension, or out-of-school suspension, depending
+on the severity and extent of the repeated late-coming offence.</p>
+<p>8. Students who reach school after 8:10 a.m. would be considered as severely
+late. They are to proceed to the General Office to see one of the Vice
+Principals (HOD/SH for Student Management if the Vice Principals are not
+in schools) to obtain approval to proceed for lessons. Students should
+not proceed for lessons or activities for the day unless approval has been
+given via the issuance of a late coming slip by a Vice Principal or by
+HOD/SH for Student Management.</p>
+<p>9. Students with persistent late coming in the previous year, who arrive
+after 8:10 a.m. and have no valid reasons for being late, may not be allowed
+to go to class.</p>
+<p>10. Students who have been issued the late-coming slip are required to
+submit these slips to their Form Teachers or Subject Teachers upon arriving
+in class for recording purposes.</p>
+<p>11. Students with less than 95% attendance (where absence is without valid
+medical reasons) may not be allowed to sit for the End-of-Year examinations.</p>
+<p>12. Poor attendance in school and persistent late coming will affect the
+conduct grade and testimonial of the student.</p>
+<p>13. Curriculum time is of utmost importance, as such, early release from
+school or absence during curriculum time will not be approved unless it
+is on compassionate grounds. Students are advised to schedule their medical
+or dental appointment after curriculum time.</p>
+<p>14. Students who need to be absent from school for an extended period
+(continuously three or more days) during term time for valid reasons should
+seek approval from the Principal/Vice-Principal by filling in a Permission
+for Curriculum Absence (PCA) form. Failing which, absence from school during
+this period may be considered as truancy.</p>
+<p>(a) For planned absences (with valid reasons) from term time, the application
+should be submitted at least 2 weeks before. The PCA form may be obtained
+from the school’s General Office.</p>
+<p>(b) For last minute request on compassionate grounds, students should
+approach the General Office directly if in school or notify via their Form
+Teachers if not in school.</p>
+<p>(c) Students on Hospitalisation and/or Medical Leave need not submit the
+Permission for Curriculum Absence (PCA) Form and should instead follow
+the points listed out in part 4(c), 4(d) and 4(g).</p>
+<p>15. Preparing and studying for tests or examinations is not a valid reason
+for absence from school and such offences will have a direct impact on
+the student’s conduct grade and testimonials.</p>
+<p>16. Going on holidays during term time will not be considered as a valid
+reason for absence from school, including lessons, CCA and school programmes.
+Such offences will have a direct impact on the student’s conduct grade
+and testimonials.</p>
+<p>17. Attending tuition and other enrichment outside of school will not
+be considered as a valid reason for absence from school, afternoon lessons
+or programmes and CCA. Such offences will have a direct impact on the student’s
+conduct grade and testimonials.</p>
+<p>18. Attendance at detention and CWO is compulsory where assigned. Any
+assigned hours must be duly completed within the stipulated time. Wilful
+absence will be deemed as defiance/truancy, and the affected students will
+be placed under extended detention and/or suspension from school.</p>
+<p>19. Attendance at CCA is compulsory. Students who are absent from CCA
+will need to produce a valid MC (refer to Point 4(g) above) for the period
+of absence to the CCA teacher in-charge. Poor CCA attendance may affect
+conduct grade, school/national representation in competitions, as well
+as CCA points under the LEAPS system.</p>
+<p>20. If a student no longer has any more lessons for the day, the earliest
+time that he/she can be dismissed from school will be at 12:40 p.m.</p>
+<p>21. Students who do not have any lessons in between periods should do
+their own self-revision at the school library. Where there are such instances,
+it will be formally arranged by the school. Students are to sign in and
+out with the librarian at the library.</p>
+<h4>ATTITUDE AND BEHAVIOUR</h4>
+<p><strong>Rationale:&nbsp;&nbsp; To cultivate self-discipline through responsible decision making</strong>
+</p>
+<p>1. Students are to ensure adherence to the following at all times:</p>
+<p>(a) In school:</p>
+<p>(a) Students are to respect and obey all school rules and regulations.</p>
+<p>(b) Students are to display exemplary conduct and behave with decorum
+at all times.</p>
+<p>(c) Students are to observe silence when they are in the classroom, at
+the parade square or school hall for flag raising ceremony or other school
+functions. They are to conduct themselves well during such gatherings where
+common courtesy and respect must be accorded to all concerned including
+guest speakers.</p>
+<p>(d) Students must be respectful to all school staff, fellow students and
+members of the community.</p>
+<p>(e) Students are responsible for keeping the environment safe. The school
+has zero tolerance towards actions that may hurt or harm others emotionally
+or physically.</p>
+<p>(f) Students are prohibited from entering any staff offices, such as the
+Staff Rooms, General Office and HOD room, as well as the Staff Lounge.</p>
+<p>(g) Students can enter special rooms in the school only when accompanied
+by teachers.</p>
+<p>(h) Students are not allowed to invite anyone into the school without
+permission. All visitors to the school must obtain a Visitor Pass at the
+security post and report to the General Office.</p>
+<p>(i) Students are strictly not allowed to use abusive or foul language.</p>
+<p>(j) Possession of any material that promotes unhealthy habits such as
+gambling, violence, harassment, discrimination etc. are strictly not allowed.</p>
+<p>(k) Possession and consumption of alcohol, tobacco-related products and
+e-vapouriser related products, like cigarettes, e-vapourisers, e-vapouriser
+pods or cartridges, are strictly prohibited by law. The school is required
+by law to report all related offences to the relevant authorities.</p>
+<p>(l) Possession of any incendiary items, such as lighters, paracord survival
+bracelet, matchsticks, matchboxes, empty cigarette boxes, are strictly
+not allowed.</p>
+<p>(m) Possession and consumption of drugs are strictly prohibited by law.</p>
+<p>(n) All students are not allowed to have in their possession any weapon
+or weapon-like devices in school. They are also not allowed to bring any
+weapon-like item that is used or intended to be used to cause harm to others.</p>
+<p>(o) Cycling, skating, rollerblading, and riding skate-scooters within
+the school grounds are strictly not allowed.</p>
+<p>(p) Students are not to use their smartphones/smartwatches at all times
+in school, including during recess, CCA, after-school programmes (e.g.
+supplementary/enrichment/remedial lessons) and during all school activities
+held outside of school. Smartphones/smartwatches should be kept in their
+school bags (not to be held in hands or kept in pockets) at all times in
+school, including during recess, CCA, after-school programmes (e.g. supplementary/enrichment/remedial
+lessons) and during all school activities held outside of school. Students
+are to bear the responsibility for safekeeping their own devices. For emergency
+purposes, parents should contact the School’s General Office for assistance.
+Unauthorized usage of smartphones/smartwatches will result in confiscation
+in accordance to the School’s SOP.</p>
+<p>2. Students are to observe the following regarding the use of smartphones/smartwatches:</p>
+<p>(a) Students carry smartphones/smartwatches to school at their own risk.
+No other personal electronic devices should be brought to school.</p>
+<p>(b) Students are to inform their parents/guardians of the school’s policies
+on the use of smartphones/smartwatches in school. Parents have also been
+informed via the Start of Semester 1 Welcome Letter.</p>
+<p>(c) The period of confiscation for smartphones/smartwatches will be as
+follows:</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>No. of offences</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Confiscation period</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1<sup>st</sup> time</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 day</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2<sup>nd</sup> time</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 days</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3<sup>rd</sup> time</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 days</p>
+<p>Students may be required to surrender smartphones/smartwatches at the
+start of the day.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4<sup>th</sup> time or more</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Smartphones/smartwatches only to be returned to parents after 7 working
+days.</p>
+<p>OR</p>
+<p>Students may be banned from bringing smartphones/smartwatches to school.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>(d) Upon return of the confiscated smartphones/smartwatches and other
+electronic devices, it is the students' responsibility to check that the
+item is in a condition similar to that prior to confiscation.</p>
+<p>(e) The school may confiscate smartphones/smartwatches and other electronic
+devices as a disciplinary measure or access the device for the purpose
+of investigation.</p>
+<p>(f) Students who repeatedly flout the rule may be banned from bringing
+their smartphones/smart watches and other electronic devices to the school.</p>
+<p>(g) Should students need to contact their parents/guardians urgently in
+school, including during recess, CCA, after-school programmes (e.g. supplementary/enrichment/remedial
+lessons) (i.e. lessons time and CCA time included), they should proceed
+to the General Office for assistance. For emergency purposes, parents should
+also contact the school’s General Office for assistance.</p>
+<p>(h) Students should not abuse the use of smartphones/smartwatches and
+other electronic devices for non-academic purposes.</p>
+<p>(i) To protect the privacy of students and staff as well as to maintain
+a respectful and conducive learning environment, taking of pictures, videos
+and audio recordings and circulation of such media of classmates, schoolmates
+and staff without their explicit approval, regardless of the intent and
+nature of the device and/or tool/platform is strictly prohibited.</p>
+<p>3. The Personal Learning Devices (PLDs) are issued to students primarily
+for learning purposes. The objectives of the PLDs are as follows:</p>
+<p>(i) Enhance teaching and learning</p>
+<p>(ii) Support self-directed &amp; collaborative learning</p>
+<p>(iii) Support the development of digital literacies to be future-ready</p>
+<p>(a) Students should not abuse the use of PLDs for non-academic purposes.</p>
+<p>(b) Inappropriate use of the PLDs may result in the confiscation of the
+PLDs with alternative arrangements to ensure learning continues uninterrupted
+in class.</p>
+<p>(c) Charging of any Personal Learning Devices (PLDs) is not allowed at
+all times in class and should instead charge their devices at the allocated
+charging kiosk(s) found in the school canteen.</p>
+<p>(i) Students are responsible for the proper use and cleanliness of the
+charging kiosk(s). Any intentional damage(s) or damage(s) due to negligence
+will be deemed the responsibility of the student(s), who will bear the
+cost of damage and face disciplinary action in accordance with the school’s
+discipline policy.</p>
+<p>(ii) The school retains the right to open the charging kiosk(s) and/or
+units to remove any non-complying PLDs at any time for the safety, security
+and disciplinary purposes.</p>
+<p>(iii) All damages spotted on the charging kiosk(s) by students should
+be reported to the General Office.</p>
+<p>(ii) In class:</p>
+<p>a) Students should attend all lessons and not leave the classrooms without
+permission or a valid reason.</p>
+<p>b) Students should be punctual for lessons.</p>
+<p>c) Students should be attentive and participate actively during lessons.</p>
+<p>d) Students should complete and hand in all quality assignments on time.</p>
+<p>e) Students should be responsible for the cleanliness of their classrooms.</p>
+<p>f) Students leaving the classroom during a lesson will be issued a Teacher’s
+Pass. Only 1 student will be allowed to leave the classroom at a time.
+The Teacher’s Pass should be returned to the teacher upon returning back
+to class.</p>
+<p>g) Students who are going to another venue during a change of period are
+expected to do so promptly and in an orderly manner with minimal noise,
+so as to avoid disruption to on-going lessons in other classes.</p>
+<p>h) Students should not walk around the classroom during lesson time.</p>
+<p>i) Students should not be disruptive during lesson time.</p>
+<p>j) No food and drinks except mineral water are allowed in the classrooms/special
+rooms. School staff has the right to discard any food or drinks brought
+into classroom.</p>
+<p>4. The classrooms have been equipped with lockers for students. Students
+are to note that the lockers in the classroom are there to provide interim
+storage and security for their Personal Learning Devices (PLDs) and learning
+materials. They are to observe the following expectations regarding the
+use of these classroom lockers:</p>
+<p>(a) The responsibility to maintain the condition and cleanliness of the
+lockers lay with the assigned students. The assigned students shall be
+held liable if they inflict any wilful damage (e.g. vandalism) to their
+lockers or fail to report in a timely manner for any damage discovered.</p>
+<p>(b) The responsibility for any lost or stolen items from the lockers lay
+with the assigned students. Students therefore should not share access
+to the lockers with any other students.</p>
+<p>(c) The lockers shall be used to store items belonging to the assigned
+students only. Sharing of lockers is not allowed.</p>
+<p>(d) The lockers should not be used for any other purposes except to store
+the PLDs.</p>
+<p>(e) PLDs should be not left charging in the lockers, and all PLDs must
+be brought home and not left in the lockers overnight.</p>
+<p>(f) The lockers shall not be used to store any of the following items:</p>
+<p>(i) Any items that can attract pests (e.g. all food and drinks, food wrapper
+and other forms of litter)</p>
+<p>(ii) Any items that can affect the safety of students and staff (E.g.
+Items that can start fires, weapons or weapon-like objects etc)</p>
+<p>(iii) Any items that can cause distraction in class and affect students’
+learning</p>
+<p>(iv) Any contraband (e.g. tobacco-related products like cigarettes and
+e- vaporisers etc)</p>
+<p>(g) School retains the rights to open the lockers at any time for the
+purpose of safety and security (e.g. through routine spot-checks, disciplinary
+investigations etc).</p>
+<p>(iii) During recess:</p>
+<p>a) Students are not to stay in the class during recess unless accompanied
+by a teacher.</p>
+<p>b) Students should queue for their food and can only buy food for themselves.</p>
+<p>c) Students should not enter the canteen vendors’ kitchen area at any
+time.</p>
+<p>d) Students should keep the canteen clean.</p>
+<p>e) Students should return all eating utensils to the respective receptacles
+after use.</p>
+<p>f) Students should not bring food and drinks out of the canteen or to
+the classrooms for consumption. Food and drinks should be consumed only
+at the designated eating areas.</p>
+<p>(iv) At school functions/events</p>
+<p>a) Students are to show respect and common courtesy to uphold the good
+name of the school at all times.</p>
+<p>b) Competitors / players should are to practise fair play when representing
+the school.</p>
+<p></p>
+<p>5. To ensure the safety of students and staff within the school premises,
+all students who arrive in school by private transport must alight at the
+designated disembarkation areas. Students should inform their parents/guardians
+that no waiting or parking is allowed at the designated disembarkation
+areas. Such areas are designated drop off and pick up zones only.</p>
+<p>6. The overall Conduct Grade, Attendance, Punctuality of each student
+will be reflected in his/her Result Slip at the end of the year.</p>
+<h4>CYBER ETIQUETTE</h4>
+<p><strong>Students are to demonstrate the same behaviour and attitude as expected in school itself during the use of internet technology for communication and online lessons. In particular,</strong>
+</p>
+<p>1. When using internet technology to communicate with others, students
+are expected to be respectful to others by not sharing</p>
+<p>i. Obscene, derogatory or insensitive remarks/materials.</p>
+<p>ii. Information/materials that promotes unsafe or illegal acts .</p>
+<p>iii. Information and materials that would affect the safety or privacy
+of others.</p>
+<p>2. For online lessons, students are expected to</p>
+<p><em>Applications involving the use of internet technology for communication includes but not limiting to Emails, Instant messaging applications (like WhatsApp, Discord, Instagram Direct Messenger, Telegram etc) and social networking sites (like Instagram, Facebook, Tik Tok etc).</em>
+</p>
+<p><em>Unsafe or illegal acts includes, but not limiting to, gangsterism, pornography, drug/tobacco abuse (including vaping), gambling, violence, harassment, discrimination etc.</em>
+</p>
+<p>a. Be punctual for all scheduled online lessons.</p>
+<p>b. Be prompt in informing their teachers should they be unable to attend
+the online lessons due to valid reasons (e.g. on MC etc.). Absences must
+be supported by appropriate documentation, similar to how absence from
+school is accounted for (see Attendance 4(d) &amp; (e) above). Absence
+from school, without any valid reasons, is considered truancy.</p>
+<p>c. Be attentive and actively participate during lessons.</p>
+<p>d. Be neat and appropriately attired for lessons.</p>
+<p>e. Ensure that a conducive place is used for the online lessons.</p>
+<p>f. Ensure that the video camera is on and their faces are displayed prominently
+on screen.</p>
+<p>g. Ensure that the mute button is activated when they are not speaking
+so as to avoid disrupting other participants’ learning.</p>
+<p>h. Demonstrate respect to teachers and classmates at all times by</p>
+<p>i. Having only one person speak at a time</p>
+<p>ii. Giving their fullest attention to whoever is speaking</p>
+<p>iii. Being polite in their interactions</p>
+<p>i. Avoid sharing account details, such as the Login ID and password, with
+others for online lesson platforms such as SLS and Microsoft Teams etc.).</p>
+<p>j. Always log out from the online lesson platforms after every use.</p>
+<p>k. Be wary of suspicious emails and report such emails to your teachers.</p>
+<p>l. Protect the privacy by not video-recording or taking photos of other
+participants in the online lessons.</p>
+<p>m. Comply with the teachers’ instructions at all times during the online
+lessons.</p>
+<p><strong>Note</strong>: Students who are responsible for any breach of
+the above etiquette will be considered as having committed an offence in
+school and will therefore face a consequence during the school’s follow-up
+actions.</p>
+<h4>BULLYING</h4>
+<p>Bullying is a very serious offence and the school takes a zero-tolerance
+approach to bullying.</p>
+<p>Bullying happens when a person behaves in a way that hurts someone repeatedly
+and on purpose.</p>
+<p>Bullying can be physical, social/relational, verbal or cyber in nature.</p>
+<p>Students should always be respectful and considerate in their face-to-face
+and online interaction with others.</p>
+<p><strong>POSSIBLE CORRECTIVE AND DISCIPLINARY ACTIONS</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Offences</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Possible Corrective <br>&amp; Disciplinary Actions</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><em>Minor Offences</em></strong>
+</p>
+<p>A breach of the rules and regulations in&nbsp;&nbsp; the areas of Attire,
+Appearance, Attendance, Attitude and Behaviour including</p>
+<p>&nbsp;</p>
+<p>Attendance</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Late coming for school lessons and
+CCAs</p>
+<p>&nbsp;</p>
+<p>Misconduct</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Unauthorised alteration of school
+uniform</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Improper/Unacceptable appearance</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Failure to complete detention hours</p>
+<p>&nbsp;</p>
+<p>Inappropriate Behaviours</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Unauthorised and improper use of
+smartphones/smartwatches at all times in school, including during recess,
+CCA, after-school programmes (e.g. supplementary/enrichment/remedial lessons)
+and during all school activities held outside of school.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; IT-related&nbsp;&nbsp; offences&nbsp;&nbsp;
+depending&nbsp;&nbsp; on the nature of the offence</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Failure to return plates and cutlery
+to assigned receptacles</p>
+<p>&nbsp;</p>
+<p>Others</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Improper/Unacceptable attire</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Failure to complete and hand in
+assignments on time</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+<p>&gt;&nbsp; Follow up by Form Teachers / Subject Teachers / CCA Teachers</p>
+<p>&gt;&nbsp; Confiscation of Unauthorised Items</p>
+<p>&gt;&nbsp; Corrective Work Order</p>
+<p>&gt;&nbsp; Detention</p>
+<p>&gt;&nbsp; Immediate Rectification</p>
+<p>&gt;&nbsp; Involvement of Parents</p>
+<p>&gt;&nbsp; Probation</p>
+<p>&gt;&nbsp; Pledge of Good Behaviour</p>
+<p>&gt;&nbsp; Research and Presentation to School/Class</p>
+<p>&gt;&nbsp; Letter of Reflection</p>
+<p>&gt;&nbsp; Record of Offence</p>
+<p>&gt;&nbsp; Review of Conduct Grade</p>
+<p>&gt;&nbsp; Review of Testimonial</p>
+<p>&gt;&nbsp; Ineligibility for National and School-Based Scholarships/Awards,
+Leadership Appointments, Overseas Trips, School Team Representation</p>
+<p>&gt;&nbsp; Warning</p>
+<p>&gt;&nbsp; Suspension</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>An offence is considered serious when a student:</p>
+<p>a) causes <strong>serious harm and/or disruption to self,</strong> whether
+physical, psychological or social; and/or</p>
+<p>b) causes <strong>serious harm and/or disruption to others,</strong> whether
+physical, psychological or social; and/or</p>
+<p>c) causes <strong>serious damage to property or resources</strong>; and/or</p>
+<p>d) shows <strong>defiance against authorities</strong>
+</p>
+<p>For offences which also involves a breach of the law, schools will report
+to the relevant law enforcement agencies, mete out school-based consequences,
+in addition to consequences meted out by the relevant law enforcement agencies.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><em>Serious Offences (by category)</em></strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p>The repeat occurrence of the above-mentioned minor offences resulting
+in the persistent commission of the offences would constitute a serious
+offence.&nbsp; In addition, the following offences are considered serious:&nbsp;</p>
+<p>Attendance</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Absence without valid reasons from
+school (i.e. Truancy)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Leaving school without permission</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Persistent absenteeism from CCA
+without valid reasons</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Persistent late coming</p>
+<p>Damage /Infringement to Property and Resources</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Arson or any attempt to start a
+fire</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cyber abuse, Cyber Security Violations</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Misuse of school equipment or facilities</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Possession of any items that could
+start a fire such as matchsticks and lighters/paracord bracelet with fire-starting
+features</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Trespassing</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Vandalism</p>
+<p>Defiant Behaviours</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Open defiance to school leaders/teachers/staff</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Persistent disruptive behaviour
+in class or during assembly or school events</p>
+<p>Dishonest Behaviours</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Attempting to cheat or cheating
+in any form in school test or examination</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Borrowing or lending of money</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Deception and forgery of any kind</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Online impersonation</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Theft</p>
+<p>Hurtful Behaviours</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Assault</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bullying (cyber, physical, verbal,
+social)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fighting/Instigating others to fight</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gang association/Gangsterism</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Commission of offences during probation
+period</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Disregard of safety rules in school
+premises and special rooms such as workshops, kitchens and laboratories</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Engaging in inappropriate behaviours
+and/or having inappropriate physical contact in or outside of school.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Extortion</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Recording and/or taking of pictures,
+videos and audio recordings of classmates, schoolmates and staff without
+their explicit approval, regardless of the nature of the device or tool.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sharing and/or circulating of pictures,
+videos and audio recordings obtained without explicit approval of schoolmates,
+classmates and staff through any platform or medium.</p>
+<p>Sexual Misconduct</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Outrage of modesty</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Possession or viewing of pornography
+or unauthorised materials</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexual Misconduct in any forms</p>
+<p>Substance Abuse</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Glue sniffing</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Smoking or possession of cigarettes/
+cigars</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Substance abuse (glue sniffing,
+alcohol, drugs)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Vaping or possession of any e-vapourisers
+or any e-vapouriser pods and cartridges (for enhanced national penalties
+please click <a href="https://www.hsa.gov.sg/tobacco-regulation/vaping-enforcement" rel="noopener noreferrer nofollow" target="_blank">here</a>)</p>
+<p>Others</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gambling</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Possession of weapon and weapon-like
+device</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Receiving police reports on commission
+of offences</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Use of abusive or vulgar language,
+including on online platforms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&gt;&nbsp; Confiscation of Unauthorised items</p>
+<p>&gt;&nbsp; Individual Monitoring via a Monitoring Booklet</p>
+<p>&gt;&nbsp; Involvement of External Agencies</p>
+<p>&gt;&nbsp; Involvement of Parents</p>
+<p>&gt;&nbsp; Involvement of external agencies such as SPF.</p>
+<p>&gt;&nbsp; Letter of Undertaking and Probation with monthly progress report
+from teachers</p>
+<p>&gt;&nbsp; Official Record of Offence(s)</p>
+<p>&gt;&nbsp; Formal Warning Letter</p>
+<p>&gt;&nbsp; Detention</p>
+<p>&gt;&nbsp; Review of Conduct Grade</p>
+<p>&gt;&nbsp; Review of Testimonial&gt;</p>
+<p>&gt;&nbsp; Ineligibility for National and School-Based Scholarships/Awards,
+Leadership Appointments, Overseas Trips, School Team Representation</p>
+<p>&gt;&nbsp; Suspension</p>
+<p>&gt;&nbsp; Expulsion</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Note:</p>
+<p>The above list is non-exhaustive. The school reserves the sole right to
+determine and decide which category the offence falls under and the appropriate
+corrective and disciplinary action(s) that needs to be taken.</p>
+<p>The school may also issue rules and guidelines pertaining to specific
+matters of discipline from time to time. These may serve to add on to or
+clarify existing rules and corrective actions.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
