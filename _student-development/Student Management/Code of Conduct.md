@@ -490,5 +490,76 @@ are to bear the responsibility for safekeeping their own devices. For emergency
 purposes, parents should contact the School’s General Office for assistance.
 Unauthorized usage of smartphones/smartwatches will result in confiscation
 in accordance to the School’s SOP.</p>
+<p>2. Students are to observe the following regarding the use of smartphones/smartwatches:</p>
+<p>(a) Students carry smartphones/smartwatches to school at their own risk.
+No other personal electronic devices should be brought to school.</p>
+<p>(b) Students are to inform their parents/guardians of the school’s policies
+on the use of smartphones/smartwatches in school. Parents have also been
+informed via the Start of Semester 1 Welcome Letter.</p>
+<p>(c) The period of confiscation for smartphones/smartwatches will be as
+follows:</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>No. of offences</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Confiscation period</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1<sup>st</sup> time</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 day</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2<sup>nd</sup> time</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 days</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3<sup>rd</sup> time</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 days</p>
+<p>Students may be required to surrender smartphones/smartwatches at the
+start of the day.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4<sup>th</sup> time or more</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Smartphones/smartwatches only to be returned to parents after 7 working
+days.</p>
+<p>OR</p>
+<p>Students may be banned from bringing smartphones/smartwatches to school.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p></p>
