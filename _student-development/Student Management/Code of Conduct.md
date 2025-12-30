@@ -439,6 +439,56 @@ their own self-revision at the school library. Where there are such instances,
 it will be formally arranged by the school. Students are to sign in and
 out with the librarian at the library.</p>
 <h4>ATTITUDE AND BEHAVIOUR</h4>
-<p></p>
+<p><strong>Rationale:&nbsp;&nbsp; To cultivate self-discipline through responsible decision making</strong>
+</p>
+<p>1. Students are to ensure adherence to the following at all times:</p>
+<p>(a) In school:</p>
+<p>(a) Students are to respect and obey all school rules and regulations.</p>
+<p>(b) Students are to display exemplary conduct and behave with decorum
+at all times.</p>
+<p>(c) Students are to observe silence when they are in the classroom, at
+the parade square or school hall for flag raising ceremony or other school
+functions. They are to conduct themselves well during such gatherings where
+common courtesy and respect must be accorded to all concerned including
+guest speakers.</p>
+<p>(d) Students must be respectful to all school staff, fellow students and
+members of the community.</p>
+<p>(e) Students are responsible for keeping the environment safe. The school
+has zero tolerance towards actions that may hurt or harm others emotionally
+or physically.</p>
+<p>(f) Students are prohibited from entering any staff offices, such as the
+Staff Rooms, General Office and HOD room, as well as the Staff Lounge.</p>
+<p>(g) Students can enter special rooms in the school only when accompanied
+by teachers.</p>
+<p>(h) Students are not allowed to invite anyone into the school without
+permission. All visitors to the school must obtain a Visitor Pass at the
+security post and report to the General Office.</p>
+<p>(i) Students are strictly not allowed to use abusive or foul language.</p>
+<p>(j) Possession of any material that promotes unhealthy habits such as
+gambling, violence, harassment, discrimination etc. are strictly not allowed.</p>
+<p>(k) Possession and consumption of alcohol, tobacco-related products and
+e-vapouriser related products, like cigarettes, e-vapourisers, e-vapouriser
+pods or cartridges, are strictly prohibited by law. The school is required
+by law to report all related offences to the relevant authorities.</p>
+<p>(l) Possession of any incendiary items, such as lighters, paracord survival
+bracelet, matchsticks, matchboxes, empty cigarette boxes, are strictly
+not allowed.</p>
+<p>(m) Possession and consumption of drugs are strictly prohibited by law.</p>
+<p>(n) All students are not allowed to have in their possession any weapon
+or weapon-like devices in school. They are also not allowed to bring any
+weapon-like item that is used or intended to be used to cause harm to others.</p>
+<p>(o) Cycling, skating, rollerblading, and riding skate-scooters within
+the school grounds are strictly not allowed.</p>
+<p>(p) Students are not to use their smartphones/smartwatches at all times
+in school, including during recess, CCA, after-school programmes (e.g.
+supplementary/enrichment/remedial lessons) and during all school activities
+held outside of school. Smartphones/smartwatches should be kept in their
+school bags (not to be held in hands or kept in pockets) at all times in
+school, including during recess, CCA, after-school programmes (e.g. supplementary/enrichment/remedial
+lessons) and during all school activities held outside of school. Students
+are to bear the responsibility for safekeeping their own devices. For emergency
+purposes, parents should contact the School’s General Office for assistance.
+Unauthorized usage of smartphones/smartwatches will result in confiscation
+in accordance to the School’s SOP.</p>
 <p></p>
 <p></p>
