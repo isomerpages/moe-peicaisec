@@ -25,7 +25,7 @@ to the next phase of their education and lives.</p>
 from PCSS would leave the school as responsible young adults and citizens
 who are ready to contribute to the community and the nation.</p>
 <h4>ATTIRE</h4>
-<p><strong>Rationale:	To present oneself well and uphold the good name of the school with pride both in and out of school</strong>
+<p><strong>Rationale: To present oneself well and uphold the good name of the school with pride both in and out of school</strong>
 </p>
 <p>1. Students are to wear the prescribed school uniform. Modification to
 the uniform is strictly not allowed.</p>
@@ -195,4 +195,122 @@ class or CCA T-shirt on Friday)</p>
 </tbody>
 </table>
 <p></p>
+<p>6. All students are expected to be in the prescribed school attire every
+day, which is half uniform (PE T-shirt with school uniform shorts/pants/skirts).
+Students with the incorrect attire at the start of the school day will
+need to be in the correct attire before being allowed back to class. To
+avoid any disruption to lessons, students should ensure that they are in
+the correct prescribed attire at the start of the school day.</p>
+<h4>APPEARANCE</h4>
+<p><strong>Rationale:	To portray a positive image of oneself through personal grooming and hygiene</strong>
+</p>
+<p>1. All students are to ensure the following:</p>
+<p>(a) For Male Students</p>
+<p>i. Only natural hair colour is allowed (i.e. no dyeing/tinting/highlights).</p>
+<p>ii. Hair must be neat and kept above the eyebrows. When combed downwards,
+hair should not cover the eyes, touch the ear as well as the collar of
+the uniform.</p>
+<p>iii. Hair at the crown must not be too thick or bushy.</p>
+<p>iv. Hairstyles must be kept simple. It should not incorporate any inappropriate
+styles as deemed by the school. Hairstyles such as e.g. undercut, thin
+shaven at the side, shaved line parting, fringe touching eyebrows, V-shaped
+at the back are not allowed.</p>
+<p>v. Earrings or ear sticks are not allowed.</p>
+<p>vi. Moustache/Beard/Goatee/Facial Piercings are not allowed. All students
+must be clean shaven and neat in appearance.</p>
+<p>vii. Sideburns, where kept, should not go beyond the cartilage at the
+centre of the ear.</p>
+<p>(b) For Female Students</p>
+<p>i. Only natural hair colour is allowed (i.e. no dyeing/tinting/highlights)</p>
+<p>ii. Hair must be neat and hair that is touching the shoulder or hair that
+is longer than shoulder length should be tied up.</p>
+<p>iii. Length of hair fringe should be above the eyebrows. If the fringe
+is below the eyebrows, it should be clipped up.</p>
+<p>iv. Any hair accessories worn should not be fanciful.</p>
+<p>v. Any ear studs worn should be of a simple design and not fanciful.</p>
+<p>vi. Only one ear stud per ear is allowed and it has to be worn on the
+ear lobes only.</p>
+<p>vii. Any ear sticks worn should be transparent.</p>
+<p>viii. Dangling earrings are not allowed.</p>
+<p>(c) All students are not allowed to have the following on them:</p>
+<p>i. Tattoos of any kind (visible or otherwise).</p>
+<p>Students found with any tattoos should remove it before they are allowed
+to go to class.</p>
+<p>ii. Henna painting.</p>
+<p>iii. Make-up of any form.</p>
+<p>iv. Long, coloured and press-on/stick-on nails.</p>
+<p>v. Fanciful or striking spectacle frames. Spectacle lenses should not
+be tinted.</p>
+<p>vi. Cosmetic contact lenses</p>
+<p>E.g., contact lens with colour/patterns, contact lens that enlarge the
+pupils etc.</p>
+<p>(d) The wearing of accessories of any kind (including chains, bracelet
+etc) is prohibited.</p>
+<p>2. Student leaders are to put on their Student Leaders’ badge at all times
+when they are in school uniform</p>
+<h4>ATTENDANCE</h4>
+<p><strong>Rationale:	To cultivate self-management through personal responsibility and accountability</strong>
+</p>
+<p>1. All students are expected to be punctual for and be present in school
+to attend the flag raising ceremony and all lessons.</p>
+<p>2. Students who are Singapore citizens must sing the National Anthem and
+take the Pledge. Students will take the Pledge with the right fist placed
+over the heart.</p>
+<p>3. The procedures and timings for morning assembly and the flag raising
+ceremony are as follows:</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Time</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Activity</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7:45 a.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The slow music starts.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are to assemble with their form
+class in the parade square / school hall / classroom for flag raising ceremony.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; An announcement will be made via the public
+address system if there are any changes to the assigned assembly venues
+due to inclement weather.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7:48 a.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The slow music ends.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The school bell rings and the school gates
+will be closed at 7:48 a.m. sharp.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The fast music starts.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7:50 a.m. onwards</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The fast music ends.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The flag raising ceremony will commence.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students who are not present with their
+form class for the flag raising ceremony (although they are in school)
+will be considered as late for school.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
