@@ -678,7 +678,7 @@ areas. Such areas are designated drop off and pick up zones only.</p>
 <p>6. The overall Conduct Grade, Attendance, Punctuality of each student
 will be reflected in his/her Result Slip at the end of the year.</p>
 <h4>CYBER ETIQUETTE</h4>
-<p><strong>Students are to demonstrate the same behaviour and attitude as expected in school itself during the use of internet technology for communication and online lessons.  In particular, </strong>
+<p><strong>Students are to demonstrate the same behaviour and attitude as expected in school itself during the use of internet technology for communication and online lessons. In particular,</strong>
 </p>
 <p>1. When using internet technology to communicate with others, students
 are expected to be respectful to others by not sharing</p>
@@ -728,7 +728,7 @@ and on purpose.</p>
 <p>Bullying can be physical, social/relational, verbal or cyber in nature.</p>
 <p>Students should always be respectful and considerate in their face-to-face
 and online interaction with others.</p>
-<p><strong>POSSIBLE CORRECTIVE AND DISCIPLINARY ACTIONS</strong> 
+<p><strong>POSSIBLE CORRECTIVE AND DISCIPLINARY ACTIONS</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -830,6 +830,126 @@ in addition to consequences meted out by the relevant law enforcement agencies.<
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><em>Serious Offences (by category)</em></strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p>The repeat occurrence of the above-mentioned minor offences resulting
+in the persistent commission of the offences would constitute a serious
+offence.&nbsp; In addition, the following offences are considered serious:&nbsp;</p>
+<p>Attendance</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Absence without valid reasons from
+school (i.e. Truancy)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Leaving school without permission</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Persistent absenteeism from CCA
+without valid reasons</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Persistent late coming</p>
+<p>Damage /Infringement to Property and Resources</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Arson or any attempt to start a
+fire</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cyber abuse, Cyber Security Violations</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Misuse of school equipment or facilities</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Possession of any items that could
+start a fire such as matchsticks and lighters/paracord bracelet with fire-starting
+features</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Trespassing</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Vandalism</p>
+<p>Defiant Behaviours</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Open defiance to school leaders/teachers/staff</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Persistent disruptive behaviour
+in class or during assembly or school events</p>
+<p>Dishonest Behaviours</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Attempting to cheat or cheating
+in any form in school test or examination</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Borrowing or lending of money</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Deception and forgery of any kind</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Online impersonation</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Theft</p>
+<p>Hurtful Behaviours</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Assault</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bullying (cyber, physical, verbal,
+social)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fighting/Instigating others to fight</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gang association/Gangsterism</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Commission of offences during probation
+period</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Disregard of safety rules in school
+premises and special rooms such as workshops, kitchens and laboratories</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Engaging in inappropriate behaviours
+and/or having inappropriate physical contact in or outside of school.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Extortion</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Recording and/or taking of pictures,
+videos and audio recordings of classmates, schoolmates and staff without
+their explicit approval, regardless of the nature of the device or tool.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sharing and/or circulating of pictures,
+videos and audio recordings obtained without explicit approval of schoolmates,
+classmates and staff through any platform or medium.</p>
+<p>Sexual Misconduct</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Outrage of modesty</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Possession or viewing of pornography
+or unauthorised materials</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexual Misconduct in any forms</p>
+<p>Substance Abuse</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Glue sniffing</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Smoking or possession of cigarettes/
+cigars</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Substance abuse (glue sniffing,
+alcohol, drugs)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Vaping or possession of any e-vapourisers
+or any e-vapouriser pods and cartridges (for enhanced national penalties
+please click <a href="https://www.hsa.gov.sg/tobacco-regulation/vaping-enforcement" rel="noopener noreferrer nofollow" target="_blank">here</a>)</p>
+<p>Others</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gambling</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Possession of weapon and weapon-like
+device</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Receiving police reports on commission
+of offences</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Use of abusive or vulgar language,
+including on online platforms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&gt;&nbsp; Confiscation of Unauthorised items</p>
+<p>&gt;&nbsp; Individual Monitoring via a Monitoring Booklet</p>
+<p>&gt;&nbsp; Involvement of External Agencies</p>
+<p>&gt;&nbsp; Involvement of Parents</p>
+<p>&gt;&nbsp; Involvement of external agencies such as SPF.</p>
+<p>&gt;&nbsp; Letter of Undertaking and Probation with monthly progress report
+from teachers</p>
+<p>&gt;&nbsp; Official Record of Offence(s)</p>
+<p>&gt;&nbsp; Formal Warning Letter</p>
+<p>&gt;&nbsp; Detention</p>
+<p>&gt;&nbsp; Review of Conduct Grade</p>
+<p>&gt;&nbsp; Review of Testimonial&gt;</p>
+<p>&gt;&nbsp; Ineligibility for National and School-Based Scholarships/Awards,
+Leadership Appointments, Overseas Trips, School Team Representation</p>
+<p>&gt;&nbsp; Suspension</p>
+<p>&gt;&nbsp; Expulsion</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Note:</p>
+<p>The above list is non-exhaustive. The school reserves the sole right to
+determine and decide which category the offence falls under and the appropriate
+corrective and disciplinary action(s) that needs to be taken.</p>
+<p>The school may also issue rules and guidelines pertaining to specific
+matters of discipline from time to time. These may serve to add on to or
+clarify existing rules and corrective actions.</p>
 </td>
 </tr>
 </tbody>
