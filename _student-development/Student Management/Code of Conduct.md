@@ -561,5 +561,277 @@ days.</p>
 </tr>
 </tbody>
 </table>
+<p>(d) Upon return of the confiscated smartphones/smartwatches and other
+electronic devices, it is the students' responsibility to check that the
+item is in a condition similar to that prior to confiscation.</p>
+<p>(e) The school may confiscate smartphones/smartwatches and other electronic
+devices as a disciplinary measure or access the device for the purpose
+of investigation.</p>
+<p>(f) Students who repeatedly flout the rule may be banned from bringing
+their smartphones/smart watches and other electronic devices to the school.</p>
+<p>(g) Should students need to contact their parents/guardians urgently in
+school, including during recess, CCA, after-school programmes (e.g. supplementary/enrichment/remedial
+lessons) (i.e. lessons time and CCA time included), they should proceed
+to the General Office for assistance. For emergency purposes, parents should
+also contact the school’s General Office for assistance.</p>
+<p>(h) Students should not abuse the use of smartphones/smartwatches and
+other electronic devices for non-academic purposes.</p>
+<p>(i) To protect the privacy of students and staff as well as to maintain
+a respectful and conducive learning environment, taking of pictures, videos
+and audio recordings and circulation of such media of classmates, schoolmates
+and staff without their explicit approval, regardless of the intent and
+nature of the device and/or tool/platform is strictly prohibited.</p>
+<p>3. The Personal Learning Devices (PLDs) are issued to students primarily
+for learning purposes. The objectives of the PLDs are as follows:</p>
+<p>(i) Enhance teaching and learning</p>
+<p>(ii) Support self-directed &amp; collaborative learning</p>
+<p>(iii) Support the development of digital literacies to be future-ready</p>
+<p>(a) Students should not abuse the use of PLDs for non-academic purposes.</p>
+<p>(b) Inappropriate use of the PLDs may result in the confiscation of the
+PLDs with alternative arrangements to ensure learning continues uninterrupted
+in class.</p>
+<p>(c) Charging of any Personal Learning Devices (PLDs) is not allowed at
+all times in class and should instead charge their devices at the allocated
+charging kiosk(s) found in the school canteen.</p>
+<p>(i) Students are responsible for the proper use and cleanliness of the
+charging kiosk(s). Any intentional damage(s) or damage(s) due to negligence
+will be deemed the responsibility of the student(s), who will bear the
+cost of damage and face disciplinary action in accordance with the school’s
+discipline policy.</p>
+<p>(ii) The school retains the right to open the charging kiosk(s) and/or
+units to remove any non-complying PLDs at any time for the safety, security
+and disciplinary purposes.</p>
+<p>(iii) All damages spotted on the charging kiosk(s) by students should
+be reported to the General Office.</p>
+<p>(ii) In class:</p>
+<p>a) Students should attend all lessons and not leave the classrooms without
+permission or a valid reason.</p>
+<p>b) Students should be punctual for lessons.</p>
+<p>c) Students should be attentive and participate actively during lessons.</p>
+<p>d) Students should complete and hand in all quality assignments on time.</p>
+<p>e) Students should be responsible for the cleanliness of their classrooms.</p>
+<p>f) Students leaving the classroom during a lesson will be issued a Teacher’s
+Pass. Only 1 student will be allowed to leave the classroom at a time.
+The Teacher’s Pass should be returned to the teacher upon returning back
+to class.</p>
+<p>g) Students who are going to another venue during a change of period are
+expected to do so promptly and in an orderly manner with minimal noise,
+so as to avoid disruption to on-going lessons in other classes.</p>
+<p>h) Students should not walk around the classroom during lesson time.</p>
+<p>i) Students should not be disruptive during lesson time.</p>
+<p>j) No food and drinks except mineral water are allowed in the classrooms/special
+rooms. School staff has the right to discard any food or drinks brought
+into classroom.</p>
+<p>4. The classrooms have been equipped with lockers for students. Students
+are to note that the lockers in the classroom are there to provide interim
+storage and security for their Personal Learning Devices (PLDs) and learning
+materials. They are to observe the following expectations regarding the
+use of these classroom lockers:</p>
+<p>(a) The responsibility to maintain the condition and cleanliness of the
+lockers lay with the assigned students. The assigned students shall be
+held liable if they inflict any wilful damage (e.g. vandalism) to their
+lockers or fail to report in a timely manner for any damage discovered.</p>
+<p>(b) The responsibility for any lost or stolen items from the lockers lay
+with the assigned students. Students therefore should not share access
+to the lockers with any other students.</p>
+<p>(c) The lockers shall be used to store items belonging to the assigned
+students only. Sharing of lockers is not allowed.</p>
+<p>(d) The lockers should not be used for any other purposes except to store
+the PLDs.</p>
+<p>(e) PLDs should be not left charging in the lockers, and all PLDs must
+be brought home and not left in the lockers overnight.</p>
+<p>(f) The lockers shall not be used to store any of the following items:</p>
+<p>(i) Any items that can attract pests (e.g. all food and drinks, food wrapper
+and other forms of litter)</p>
+<p>(ii) Any items that can affect the safety of students and staff (E.g.
+Items that can start fires, weapons or weapon-like objects etc)</p>
+<p>(iii) Any items that can cause distraction in class and affect students’
+learning</p>
+<p>(iv) Any contraband (e.g. tobacco-related products like cigarettes and
+e- vaporisers etc)</p>
+<p>(g) School retains the rights to open the lockers at any time for the
+purpose of safety and security (e.g. through routine spot-checks, disciplinary
+investigations etc).</p>
+<p>(iii) During recess:</p>
+<p>a) Students are not to stay in the class during recess unless accompanied
+by a teacher.</p>
+<p>b) Students should queue for their food and can only buy food for themselves.</p>
+<p>c) Students should not enter the canteen vendors’ kitchen area at any
+time.</p>
+<p>d) Students should keep the canteen clean.</p>
+<p>e) Students should return all eating utensils to the respective receptacles
+after use.</p>
+<p>f) Students should not bring food and drinks out of the canteen or to
+the classrooms for consumption. Food and drinks should be consumed only
+at the designated eating areas.</p>
+<p>(iv) At school functions/events</p>
+<p>a) Students are to show respect and common courtesy to uphold the good
+name of the school at all times.</p>
+<p>b) Competitors / players should are to practise fair play when representing
+the school.</p>
 <p></p>
+<p>5. To ensure the safety of students and staff within the school premises,
+all students who arrive in school by private transport must alight at the
+designated disembarkation areas. Students should inform their parents/guardians
+that no waiting or parking is allowed at the designated disembarkation
+areas. Such areas are designated drop off and pick up zones only.</p>
+<p>6. The overall Conduct Grade, Attendance, Punctuality of each student
+will be reflected in his/her Result Slip at the end of the year.</p>
+<h4>CYBER ETIQUETTE</h4>
+<p><strong>Students are to demonstrate the same behaviour and attitude as expected in school itself during the use of internet technology for communication and online lessons.  In particular, </strong>
+</p>
+<p>1. When using internet technology to communicate with others, students
+are expected to be respectful to others by not sharing</p>
+<p>i. Obscene, derogatory or insensitive remarks/materials.</p>
+<p>ii. Information/materials that promotes unsafe or illegal acts .</p>
+<p>iii. Information and materials that would affect the safety or privacy
+of others.</p>
+<p>2. For online lessons, students are expected to</p>
+<p><em>Applications involving the use of internet technology for communication includes but not limiting to Emails, Instant messaging applications (like WhatsApp, Discord, Instagram Direct Messenger, Telegram etc) and social networking sites (like Instagram, Facebook, Tik Tok etc).</em>
+</p>
+<p><em>Unsafe or illegal acts includes, but not limiting to, gangsterism, pornography, drug/tobacco abuse (including vaping), gambling, violence, harassment, discrimination etc.</em>
+</p>
+<p>a. Be punctual for all scheduled online lessons.</p>
+<p>b. Be prompt in informing their teachers should they be unable to attend
+the online lessons due to valid reasons (e.g. on MC etc.). Absences must
+be supported by appropriate documentation, similar to how absence from
+school is accounted for (see Attendance 4(d) &amp; (e) above). Absence
+from school, without any valid reasons, is considered truancy.</p>
+<p>c. Be attentive and actively participate during lessons.</p>
+<p>d. Be neat and appropriately attired for lessons.</p>
+<p>e. Ensure that a conducive place is used for the online lessons.</p>
+<p>f. Ensure that the video camera is on and their faces are displayed prominently
+on screen.</p>
+<p>g. Ensure that the mute button is activated when they are not speaking
+so as to avoid disrupting other participants’ learning.</p>
+<p>h. Demonstrate respect to teachers and classmates at all times by</p>
+<p>i. Having only one person speak at a time</p>
+<p>ii. Giving their fullest attention to whoever is speaking</p>
+<p>iii. Being polite in their interactions</p>
+<p>i. Avoid sharing account details, such as the Login ID and password, with
+others for online lesson platforms such as SLS and Microsoft Teams etc.).</p>
+<p>j. Always log out from the online lesson platforms after every use.</p>
+<p>k. Be wary of suspicious emails and report such emails to your teachers.</p>
+<p>l. Protect the privacy by not video-recording or taking photos of other
+participants in the online lessons.</p>
+<p>m. Comply with the teachers’ instructions at all times during the online
+lessons.</p>
+<p><strong>Note</strong>: Students who are responsible for any breach of
+the above etiquette will be considered as having committed an offence in
+school and will therefore face a consequence during the school’s follow-up
+actions.</p>
+<h4>BULLYING</h4>
+<p>Bullying is a very serious offence and the school takes a zero-tolerance
+approach to bullying.</p>
+<p>Bullying happens when a person behaves in a way that hurts someone repeatedly
+and on purpose.</p>
+<p>Bullying can be physical, social/relational, verbal or cyber in nature.</p>
+<p>Students should always be respectful and considerate in their face-to-face
+and online interaction with others.</p>
+<p><strong>POSSIBLE CORRECTIVE AND DISCIPLINARY ACTIONS</strong> 
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Offences</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Possible Corrective <br>&amp; Disciplinary Actions</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><em>Minor Offences</em></strong>
+</p>
+<p>A breach of the rules and regulations in&nbsp;&nbsp; the areas of Attire,
+Appearance, Attendance, Attitude and Behaviour including</p>
+<p>&nbsp;</p>
+<p>Attendance</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Late coming for school lessons and
+CCAs</p>
+<p>&nbsp;</p>
+<p>Misconduct</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Unauthorised alteration of school
+uniform</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Improper/Unacceptable appearance</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Failure to complete detention hours</p>
+<p>&nbsp;</p>
+<p>Inappropriate Behaviours</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Unauthorised and improper use of
+smartphones/smartwatches at all times in school, including during recess,
+CCA, after-school programmes (e.g. supplementary/enrichment/remedial lessons)
+and during all school activities held outside of school.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; IT-related&nbsp;&nbsp; offences&nbsp;&nbsp;
+depending&nbsp;&nbsp; on the nature of the offence</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Failure to return plates and cutlery
+to assigned receptacles</p>
+<p>&nbsp;</p>
+<p>Others</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Improper/Unacceptable attire</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Failure to complete and hand in
+assignments on time</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+<p>&gt;&nbsp; Follow up by Form Teachers / Subject Teachers / CCA Teachers</p>
+<p>&gt;&nbsp; Confiscation of Unauthorised Items</p>
+<p>&gt;&nbsp; Corrective Work Order</p>
+<p>&gt;&nbsp; Detention</p>
+<p>&gt;&nbsp; Immediate Rectification</p>
+<p>&gt;&nbsp; Involvement of Parents</p>
+<p>&gt;&nbsp; Probation</p>
+<p>&gt;&nbsp; Pledge of Good Behaviour</p>
+<p>&gt;&nbsp; Research and Presentation to School/Class</p>
+<p>&gt;&nbsp; Letter of Reflection</p>
+<p>&gt;&nbsp; Record of Offence</p>
+<p>&gt;&nbsp; Review of Conduct Grade</p>
+<p>&gt;&nbsp; Review of Testimonial</p>
+<p>&gt;&nbsp; Ineligibility for National and School-Based Scholarships/Awards,
+Leadership Appointments, Overseas Trips, School Team Representation</p>
+<p>&gt;&nbsp; Warning</p>
+<p>&gt;&nbsp; Suspension</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>An offence is considered serious when a student:</p>
+<p>a) causes <strong>serious harm and/or disruption to self,</strong> whether
+physical, psychological or social; and/or</p>
+<p>b) causes <strong>serious harm and/or disruption to others,</strong> whether
+physical, psychological or social; and/or</p>
+<p>c) causes <strong>serious damage to property or resources</strong>; and/or</p>
+<p>d) shows <strong>defiance against authorities</strong>
+</p>
+<p>For offences which also involves a breach of the law, schools will report
+to the relevant law enforcement agencies, mete out school-based consequences,
+in addition to consequences meted out by the relevant law enforcement agencies.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
