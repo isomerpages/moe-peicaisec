@@ -298,7 +298,7 @@ variant: tiptap
 <p>Mr Yeap Choon How</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH (Literature)</p>
+<p>SH (English Literature)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yeap_choon_how@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeap_choon_how@moe.edu.sg</a>
