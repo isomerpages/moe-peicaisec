@@ -730,7 +730,7 @@ variant: tiptap
 <p>Mr Nur Zamir Bin Md Yatim</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>2CN</p>
+<p>2 CN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">nur_zamir_md_yatim@moe.edu.sg</a>
@@ -1008,7 +1008,7 @@ variant: tiptap
 <p>Ms Kalpana Prakash Otharam</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>4PN(E)</p>
+<p>4 PN(E)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">kalpana_balakrishnan@moe.edu.sg</a>
@@ -1029,7 +1029,7 @@ variant: tiptap
 <p>Ms Koh Cin Dee</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>4CN(E)</p>
+<p>4 CN(E)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">koh_cin_dee_sylvelin@moe.edu.sg</a>
@@ -1050,7 +1050,7 @@ variant: tiptap
 <p>Ms Grace Lee</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>4EE(E)</p>
+<p>4 EE(E)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">lee_min_hui_grace_a@moe.edu.sg</a>
@@ -1071,7 +1071,7 @@ variant: tiptap
 <p>Mr Wong Poh Shen</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>4RE(NA)</p>
+<p>4 RE(NA)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">Wong_poh_shen@moe.edu.sg</a>
@@ -1092,7 +1092,7 @@ variant: tiptap
 <p>Ms Tao Ruijue</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>4CY(NA)</p>
+<p>4 CY(NA)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">tao_ruijue@moe.edu.sg</a>
@@ -1113,7 +1113,7 @@ variant: tiptap
 <p>Ms Chow May Yen</p>
 </td>
 <td rowspan="3" colspan="1">
-<p>4CE(NA)</p>
+<p>4 CE(NA)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">chow_may_yen@moe.edu.sg</a>
@@ -1143,7 +1143,7 @@ variant: tiptap
 <p>Ms B Viveka</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>4MN(NT)</p>
+<p>4 MN(NT)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">b_viveka_a@moe.edu.sg</a>
@@ -1164,7 +1164,7 @@ variant: tiptap
 <p>Ms Lee Yu Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5NA</p>
+<p>5 NA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">lee_yu_hui@moe.edu.sg</a>
