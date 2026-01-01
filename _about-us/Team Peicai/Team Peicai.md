@@ -524,7 +524,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Khairul Usmana</p>
+<p>Mr Khairul Usman</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Khairul_Usman_Salim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Khairul_Usman_Salim@moe.edu.sg</a>
