@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Events 2026.md
       - Principal’s Message.md
       - School History.md
       - School Crest and Song.md
