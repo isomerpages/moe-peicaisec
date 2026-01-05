@@ -9,6 +9,14 @@ sections:
   - hero:
       background: /images/Banner/Main_Banner_Main_1F.jpg
   - infopic:
+      title: Peicai Secondary Open House 2025
+      id: infopic
+      description: A Celebration of One Peicai Spirit
+      button: Click here to view
+      url: /peicai-secondary-open-house-2025-a-celebration-of-one-peicai-spirit/
+      image: /images/Announcement/acc26_openhse25_4.jpg
+      alt: PCSS Open House 2025
+  - infopic:
       title: Release of 2025 GCE N-Level Exam Results
       id: infopic
       button: Click here to download letter
