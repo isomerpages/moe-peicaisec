@@ -14,7 +14,7 @@ sections:
       description: A Celebration of One Peicai Spirit
       button: Click here to view
       url: /peicai-secondary-open-house-2025-a-celebration-of-one-peicai-spirit/
-      image: /images/Announcement/acc26_openhse25_4.jpg
+      image: /images/Announcement/acc26_openhse25_2.jpg
       alt: PCSS Open House 2025
   - infopic:
       title: Release of 2025 GCE N-Level Exam Results
