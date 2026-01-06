@@ -4,7 +4,7 @@ permalink: /student-services/school-insurance/
 description: ""
 variant: tiptap
 ---
-<h4><strong>GROUP PERSONAL ACCIDENT INSURANCE FOR STUDENTS</strong></h4>
+<h4><strong>GROUP PERSONAL ACCIDENT INSURANCE FOR STUDENTS (for Year 2026)</strong></h4>
 <p>This is a Group Personal Accident (GPA) Insurance which covers death,
 permanent and total/partial disability and medical expenses due to an accident.
 The proximate or triggering causes of injuries must be reasonably attributed
@@ -13,7 +13,7 @@ to an accident.</p>
 </p>
 <p><strong>Parents/guardian should also take note that medical treatments at private hospitals will typically cost higher, and parents/guardian may need to pay more out-of-pocket expenses if treatment costs exceed the policy’s coverage limits.</strong>
 </p>
-<p><strong>1. Benefit/ Sum Insured for GPA Insurance – Effective from Year 2024&nbsp;</strong>
+<p><strong>1. Benefit/ Sum Insured for GPA Insurance – Effective from Year 2026&nbsp;</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -733,18 +733,21 @@ from you. For more information on the types of benefits that are covered
 under the scheme as well as the limits of coverage, where applicable, please
 contact Income Insurance or visit the GIA/LIA or SDIC websites (<a href="http://www.gia.org.sg" rel="noopener noreferrer nofollow" target="_blank">www.gia.org.sg</a> or
 <a href="http://www.lia.org.sg" rel="noopener noreferrer nofollow" target="_blank">www.lia.org.sg</a>or <a href="http://www.sdic.org.sg" rel="noopener noreferrer nofollow" target="_blank">www.sdic.org.sg</a>).</p>
-<p>Information is correct as of Dec 2024.</p>
+<p>Information is correct as of Dec 2025.</p>
 <p><strong>Frequently Asked Questions - </strong>MOE Travel Insurance for
 Students <a href="/files/MOE_travel_insurance_FAQ_for_parents_WEF_1_Nov_2023__30_Jan_2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">click here</a>
 </p>
 <p></p>
 <p><strong><u>Information on MOE GPA Insurance Plan for Students</u></strong>
 </p>
-<p>1.&nbsp;&nbsp;Information and revised FAQs on the Master Contract for
-MOE GPA Insurance Plan for Students can be found on the SD Intranet Microsite
-at <a href="https://intranet.moe.gov.sg/schdiv/Pages/Group-Personal-Accident-(GPA)-Insurance-for-Students.aspx" rel="noopener noreferrer nofollow" target="_blank">https://intranet.moe.gov.sg/schdiv/Pages/Group-Personal-Accident-(GPA)-Insurance-for-Students.aspx</a>.</p>
-<p>2.&nbsp;&nbsp;Information on claims, FAQs and other details pertaining
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;Information and revised FAQs on the Master Contract
+for MOE GPA Insurance Plan for Students can be found on the SD Intranet
+Microsite at <a href="https://intranet.moe.gov.sg/schdiv/Pages/Group-Personal-Accident-(GPA)-Insurance-for-Students.aspx" rel="noopener noreferrer nofollow" target="_blank">https://intranet.moe.gov.sg/schdiv/Pages/Group-Personal-Accident-(GPA)-Insurance-for-Students.aspx</a><u>.</u>
+</p>
+<p>2.&nbsp;&nbsp;&nbsp;Information on claims, FAQs and other details pertaining
 to the MOE GPA Insurance Plan for students can be found on Income’s website
-at <a href="https://www.income.com.sg/group-insurance-for-schools-and-centres-and-moe/group-personal-accident-for-students" rel="noopener noreferrer nofollow" target="_blank">https://www.income.com.sg/studentgpa</a>.</p>
-<p>3.&nbsp;&nbsp;For further clarifications, please contact <a href="mailto:MOE_Insurance@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">MOE_Insurance@moe.gov.sg</a>.</p>
+at <a href="https://www.income.com.sg/group-insurance-for-schools-and-centres-and-moe/group-personal-accident-for-students" rel="noopener noreferrer nofollow" target="_blank">https://www.income.com.sg/studentgpa</a><u>.</u>
+</p>
+<p>3.&nbsp;&nbsp;For further clarifications, please contact <a href="mailto:MOE_Insurance@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">MOE_Insurance@moe.gov.sg</a>
+</p>
 <p></p>
