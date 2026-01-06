@@ -13,7 +13,7 @@ to an accident.</p>
 </p>
 <p><strong>Parents/guardian should also take note that medical treatments at private hospitals will typically cost higher, and parents/guardian may need to pay more out-of-pocket expenses if treatment costs exceed the policy’s coverage limits.</strong>
 </p>
-<p><strong>1. Benefit/ Sum Insured for GPA Insurance – Effective from Year 2024&nbsp;</strong>
+<p><strong>1. Benefit/ Sum Insured for GPA Insurance – Effective from Year 2026&nbsp;</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
