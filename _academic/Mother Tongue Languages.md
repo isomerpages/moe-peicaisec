@@ -51,7 +51,7 @@ variant: tiptap
 <p>Ms Nur Syirain</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AYH (Sec 3) (Int)</p>
+<p>AYH (Sec 4) (Int)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Malay, Higher Malay</p>
