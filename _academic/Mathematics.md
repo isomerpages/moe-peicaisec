@@ -54,26 +54,26 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ang Yue Hua</p>
+<p>Mr Chua Jing Kai</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>AYH (Sec 1)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yue_hua_ang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yue_hua_ang@moe.edu.sg</a>
+<p><a href="mailto:chua_jing_kai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_jing_kai@moe.edu.sg</a>
 </p>
 <p>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chua Jing Kai</p>
+<p>Ms Ang Yue Hua</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>AYH (Sec 2)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chua_jing_kai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_jing_kai@moe.edu.sg</a>
+<p><a href="mailto:yue_hua_ang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yue_hua_ang@moe.edu.sg</a>
 </p>
 <p>&nbsp;</p>
 </td>
@@ -157,19 +157,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Doris Tan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_mee_yen_doris@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_mee_yen_doris@moe.edu.sg</a>
-</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Gan Yolk Get</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -218,18 +205,6 @@ variant: tiptap
 <p><a href="mailto:mohamad_sharizan_abu_bakar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohamad_sharizan_abu_bakar@moe.edu.sg</a>
 </p>
 <p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Rachel Huang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:huang_kaiting_rachel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">huang_kaiting_rachel@moe.edu.sg</a>
-</p>
 </td>
 </tr>
 <tr>
@@ -291,6 +266,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Ching_Teng_Hong_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ching_Teng_Hong_A@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Fyra Feliesya</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_xin_yi_fyra@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_xin_yi_fyra@moe.edu.sg</a>
 </p>
 </td>
 </tr>
