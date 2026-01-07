@@ -52,7 +52,7 @@ variant: tiptap
 <p>Mr James Koh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>YH (Upper Secondary)</p>
+<p>HOD (Partnerships &amp; Outreach)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lower Sec Science</p>
@@ -60,22 +60,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:koh_puay_yang_james@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_puay_yang_james@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Alex Mah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>YH (Upper Secondary)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lower Sec Science</p>
-<p>Chemistry</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:mah_shao_wei_alex@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mah_shao_wei_alex@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -92,6 +76,22 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_li_juan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_li_juan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Alex Mah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>YH (Upper Secondary)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower Sec Science</p>
+<p>Chemistry</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:mah_shao_wei_alex@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mah_shao_wei_alex@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -177,17 +177,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ophelia Kee</p>
+<p>Mr Wong Poh Shen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lower Sec Science</p>
+<p>Upper Sec NT Science</p>
 <p>Chemistry</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kee_yijuan_ophelia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kee_yijuan_ophelia@moe.edu.sg</a>
+<p><a href="mailto:wong_poh_shen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_poh_shen@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -210,18 +211,31 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Wong Poh Shen</p>
+<p>Ms Franlyn Seah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lower Sec Science</p>
-<p>Upper Sec NT Science</p>
-<p>Chemistry</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wong_poh_shen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_poh_shen@moe.edu.sg</a>
+<p><a href="mailto:franlyn_seah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">franlyn_seah@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Damien Goh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:goh_jin_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_jin_lee@moe.edu.sg</a>
 </p>
 </td>
 </tr>

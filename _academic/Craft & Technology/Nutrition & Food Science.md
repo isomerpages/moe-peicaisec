@@ -92,6 +92,21 @@ third_nav_title: Craft & Technology
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Emlyn Tham</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>FCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Tham_Shao_Yen_B@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Tham_Shao_Yen_B@moe.edu.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4><strong>Learning Outcomes</strong></h4>

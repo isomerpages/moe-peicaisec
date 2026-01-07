@@ -79,6 +79,21 @@ third_nav_title: Craft & Technology
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Tay Thiam Chuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>D&amp;T</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tay_thiam_chuan_1@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_thiam_chuan_1@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Victor Wong</p>
 </td>
 <td rowspan="1" colspan="1">

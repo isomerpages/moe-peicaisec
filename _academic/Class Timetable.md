@@ -4,6 +4,6 @@ permalink: /academic/class-timetable/
 description: ""
 variant: tiptap
 ---
-<p><strong><u>2025</u></strong>
+<p><strong><u>2026</u></strong>
 </p>
-<p>Semester 2 Class Timetable. Click <a href="/files/2025/2025_Sem_2_TT__Class__v2.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to download.</p>
+<p>Semester 1 Class Timetable. Click <a href="/files/2026/2026_Sem_1_Timetable__class__v1.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to download.</p>
