@@ -64,7 +64,7 @@ third_nav_title: Craft & Technology
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Sharon Tan</p>
+<p>Ms Dzafiirah Hakim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -73,7 +73,67 @@ third_nav_title: Craft & Technology
 <p>Art</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_sharon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_sharon@moe.edu.sg</a>
+<p><a href="mailto:dzafiirah_mohammad_hakim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">dzafiirah_mohammad_hakim@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Vridhi Gulati</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Art</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:vridhi_gulati@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">vridhi_gulati@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Serene Lam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Art</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:serene_wenghan_lam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">serene_wenghan_lam@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Val Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Art</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:val_tan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">val_tan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Christina Chua</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Art</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:christina_chua_yan_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">christina_chua_yan_ling@moe.edu.sg</a>
 </p>
 </td>
 </tr>
