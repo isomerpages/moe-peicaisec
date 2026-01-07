@@ -90,18 +90,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Alex Mah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>YH (Upper Secondary)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:mah_shao_wei_alex@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mah_shao_wei_alex@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Greg Ong</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -222,6 +210,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Alex Mah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>YH (Upper Secondary)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:mah_shao_wei_alex@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mah_shao_wei_alex@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mrs Jacelyn Liu</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -247,18 +247,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ang Yue Hua</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AYH (Sec 2)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:yue_hua_ang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yue_hua_ang@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Chua Jing Kai</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -266,6 +254,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chua_jing_kai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_jing_kai@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Ang Yue Hua</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AYH (Sec 2)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yue_hua_ang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yue_hua_ang@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -486,7 +486,7 @@ variant: tiptap
 <p>Ms Hana Syazwani Binte Sulaiman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:hana_syazwani_sulaiman_b@moe.edu.s" rel="noopener noreferrer nofollow" target="_blank">hana_syazwani_sulaiman_b@moe.edu.s</a>
+<p><a href="mailto:hana_syazwani_sulaiman_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hana_syazwani_sulaiman_b@moe.edu.sg</a>
 </p>
 </td>
 </tr>
