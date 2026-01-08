@@ -270,6 +270,167 @@ cause.</p>
 <p>This enriching experience not only deepened the students’ understanding
 of the importance of blood donation but also inspired them to become passionate
 advocates for this life-saving cause in their communities.</p>
+<h4></h4>
+<p><strong><u>Secondary 1 VIA Activities – 2025</u></strong>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/via_2025_1.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>In 2025, our Secondary 1 students were the second cohort to carry out
+their VIA projects on social causes. Building upon the experiences of their
+seniors, many had the opportunity to learn directly from Secondary 2 students
+who shared the same social causes.</p>
+<p>As part of a cross-level sharing initiative, each Secondary 1 class was
+paired with a Secondary 2 class focusing on a similar cause. The Secondary
+2 students designed and facilitated interactive games and discussions to
+help their juniors better understand the issues at hand. This meaningful
+exchange allowed Secondary 1 students to gain greater awareness and insight
+into their causes, while also inspiring them to think about how they might
+take action in the future.</p>
+<p>The experience culminated in a level-wide sharing event, where Secondary
+1 students hosted booth exhibitions to raise awareness among their peers
+and apply what they had learned.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong><u>Secondary 2: Acting on Social Causes</u></strong>
+</p>
+<p>In Secondary 2, students transition from learning to taking action. Using
+the knowledge and insights gained in Secondary 1, they collaborate with
+their classmates to design and implement small-scale projects that address
+their chosen social causes. These initiatives may take place within the
+school or extend into the wider community, allowing students to make a
+tangible impact.</p>
+<p><strong>Key Objectives for Secondary 2:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Take meaningful action through projects that address social causes.</p>
+</li>
+<li>
+<p>Collaborate with peers to create impact, either in school or the community.</p>
+</li>
+<li>
+<p>Strengthen leadership, teamwork, and problem-solving skills in real-world
+settings.</p>
+</li>
+</ul>
+<p>The focus here is on applying learning through action and using creativity
+to bring about positive change.</p>
+<p><strong><u>Secondary 2 VIA Activities – 2025</u></strong>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/via_2025_2.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>In 2025, our Secondary 2 students took meaningful steps to translate understanding
+into action through a variety of impactful projects.</p>
+<p>Within Peicai, one class organised a clothing donation drive, collecting
+pre-loved clothes from students and staff to promote sustainability and
+support those in need. Two other classes stepped beyond the school grounds
+to create impact in the wider community — one visited St Luke’s ElderCare,
+where students spent the day connecting with seniors, including those with
+dementia, to promote inclusivity and compassion. Another class partnered
+with a preschool, designing and conducting engaging, age-appropriate activities
+to teach young children about environmental sustainability.</p>
+<p>Meanwhile, through the cross-level sharing sessions with Secondary 1 students,
+the Secondary 2s furthered their objective of creating impact within the
+school community. By preparing interactive activities and games, they deepened
+their juniors’ understanding of important social causes while strengthening
+their own sense of purpose and leadership.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong><u>Secondary 3: Passing It On and Advocacy</u></strong>
+</p>
+<p>In Secondary 3, students take on an advocacy role, building upon their
+past experiences. They focus on raising awareness of their social causes
+by educating others — within the school or in the community. This may involve
+campaigns, partnerships, or outreach initiatives with external organisations.
+Students also mentor their juniors, passing on their knowledge and fostering
+a culture of peer-led leadership.</p>
+<p><strong>Key Objectives for Secondary 3:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Advocate for social causes by raising awareness through campaigns and
+projects.</p>
+</li>
+<li>
+<p>Mentor younger students, passing on knowledge and encouraging participation.</p>
+</li>
+<li>
+<p>Enhance communication and advocacy skills, while fostering a sense of
+responsibility for community improvement.</p>
+</li>
+</ul>
+<p>At this stage, students become ambassadors for their causes, using their
+voices and actions to inspire others to make a difference.</p>
+<p><strong><u>Secondary 3 VIA Activities – 2025</u></strong>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/via_2025_3.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>In 2025, our Secondary 3 students took their advocacy beyond the classroom
+by collaborating with external organisations and taking tangible action
+to support their causes.</p>
+<p>One class partnered with Food from the Heart, organising a school-wide
+food donation drive to encourage the Peicai community to support families
+in need. Others rolled up their sleeves to clean up the beach, contributing
+to environmental protection efforts. Several classes also partnered with
+organisations such as the SPCA and St Luke’s ElderCare, where students
+engaged meaningfully with animals and the elderly through hands-on service
+and heartfelt interaction.</p>
+<p>These experiences allowed our Secondary 3 students to transform their
+learning into purposeful advocacy — demonstrating compassion, responsibility,
+and initiative as they inspired others to care about the causes they championed.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p><strong><u>Secondary 1 VIA Activities – 2024</u></strong>
 </p>
 <table style="minWidth: 25px">
