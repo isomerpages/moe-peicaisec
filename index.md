@@ -9,6 +9,13 @@ sections:
   - hero:
       background: /images/Banner/Main_Banner_Main_1F.jpg
   - infopic:
+      title: Important Reminder for O-Level Results Collection
+      id: infopic
+      button: Click here to view
+      url: /important-reminder-for-o-level-results-collection/
+      image: /images/Announcement/important_reminder_for_o_level_results_collection.jpg
+      alt: Image alt text
+  - infopic:
       title: Peicai Secondary Open House 2025
       id: infopic
       description: A Celebration of One Peicai Spirit
