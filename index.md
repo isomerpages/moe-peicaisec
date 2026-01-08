@@ -28,7 +28,7 @@ sections:
       id: infopic
       button: Click here to download letters
       url: /announcements-2026/olevels-2025/download-letters/
-      image: /images/Announcement/eb_nlevel_121021_2x.jpg
+      image: /images/Announcement/olevel_release_25_banner.jpg
       alt: Files
   - infopic:
       title: Secondary One Registration 2026
