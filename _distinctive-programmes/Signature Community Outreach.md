@@ -270,7 +270,6 @@ cause.</p>
 <p>This enriching experience not only deepened the students’ understanding
 of the importance of blood donation but also inspired them to become passionate
 advocates for this life-saving cause in their communities.</p>
-<h4></h4>
 <p><strong><u>Secondary 1 VIA Activities – 2025</u></strong>
 </p>
 <table style="minWidth: 25px">
@@ -426,94 +425,6 @@ and heartfelt interaction.</p>
 <p>These experiences allowed our Secondary 3 students to transform their
 learning into purposeful advocacy — demonstrating compassion, responsibility,
 and initiative as they inspired others to care about the causes they championed.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<p><strong><u>Secondary 1 VIA Activities – 2024</u></strong>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Distinctive Programmes/llp_2024_4.jpg">
-</div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>In 2024, our Secondary 1 students actively participated in raising awareness
-for their chosen social causes. Over the course of six VIA sessions, including
-five planning sessions and one level-sharing event, students developed
-an in-depth understanding of their selected causes.</p>
-<p></p>
-<p>During their level sharing, they hosted interactive booth exhibitions
-to promote these causes, allowing their peers to engage with important
-community and global issues. The event aimed to foster empathy and encourage
-students to think critically about how they can contribute to positive
-change in society.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong><u>Secondary 2 VIA Activities – 2024</u></strong>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Distinctive Programmes/llp_2024_5.jpg">
-</div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>In 2024, our Secondary 2 students focused on applying their understanding
-of social causes by planning and executing their own VIA projects.</p>
-<p>Some classes engaged their juniors by visiting Secondary 1 classrooms
-to share their knowledge, while others created interactive awareness games.
-One class even designed and set up a recycling bin to promote eco-friendly
-habits among their peers, fostering a culture of sustainability within
-the school.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong><u>Secondary 3 VIA Activities – 2024</u></strong>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Distinctive Programmes/llp_2024_6.jpg">
-</div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>In 2024, our Secondary 3 students elevated their VIA projects by collaborating
-with various partner organisations to advocate for their chosen stakeholders.
-Working closely with these organisations, students developed and executed
-projects aimed at directly benefiting the stakeholders and their communities.
-Following their hands-on efforts, they conducted a level-wide sharing session
-in school, where they advocated for their stakeholders and beneficiaries,
-raising awareness and encouraging further involvement from their peers.</p>
 </td>
 </tr>
 </tbody>
