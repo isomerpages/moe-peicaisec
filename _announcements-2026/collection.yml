@@ -1,4 +1,6 @@
 collections:
   announcements-2026:
     output: true
-    order: []
+    order:
+      - Important Reminder for O Level Results Collection.md
+      - Download Letters for 2025 GCE O Levels Exam Results.md
