@@ -9,6 +9,13 @@ sections:
   - hero:
       background: /images/Banner/Main_Banner_Main_1F.jpg
   - infopic:
+      title: Release of 2025 GCE O-Levels Exam Results
+      id: infopic
+      button: Click here to download letters
+      url: /announcements-2026/olevels-2025/download-letters/
+      image: /images/Announcement/olevel_release_25_banner.jpg
+      alt: Files
+  - infopic:
       title: Important Reminder for O-Level Results Collection
       id: infopic
       button: Click here to view
@@ -23,13 +30,6 @@ sections:
       url: /peicai-secondary-open-house-2025-a-celebration-of-one-peicai-spirit/
       image: /images/Announcement/acc26_openhse25_2.jpg
       alt: PCSS Open House 2025
-  - infopic:
-      title: Release of 2025 GCE O-Levels Exam Results
-      id: infopic
-      button: Click here to download letters
-      url: /announcements-2026/olevels-2025/download-letters/
-      image: /images/Announcement/olevel_release_25_banner.jpg
-      alt: Files
   - infopic:
       title: Secondary One Registration 2026
       id: infopic
