@@ -24,12 +24,12 @@ sections:
       image: /images/Announcement/acc26_openhse25_2.jpg
       alt: PCSS Open House 2025
   - infopic:
-      title: Release of 2025 GCE N-Level Exam Results
+      title: Release of 2025 GCE O-Levels Exam Results
       id: infopic
-      button: Click here to download letter
-      url: /files/2026/GCE_N_level_Results_Release_2025_Letter_2.pdf
+      button: Click here to download letters
+      url: /announcements-2026/olevels-2025/download-letters/
       image: /images/Announcement/eb_nlevel_121021_2x.jpg
-      alt: Document
+      alt: Files
   - infopic:
       title: Secondary One Registration 2026
       id: infopic
