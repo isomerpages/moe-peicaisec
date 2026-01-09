@@ -26,9 +26,9 @@ students with opportunities to&nbsp;<strong>learn at their own pace</strong>&nbs
 be empowered to&nbsp;<strong>take charge of their learning</strong>&nbsp;for
 core curriculum as well as their interests beyond the syllabus.&nbsp;</p>
 <h4><strong>Home-based Learning (HBL) Days</strong></h4>
-<p>HBL days are scheduled on some odd Wednesdays to complement teaching and
+<p>HBL days are scheduled on some even Fridays to complement teaching and
 learning in school.</p>
-<p><strong>HBL Days for 2025</strong>
+<p><strong>HBL Days for 2026</strong>
 </p>
 <table style="minWidth: 100px">
 <colgroup>
@@ -58,89 +58,84 @@ learning in school.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>22 Jan (Wed)</strong>
+<p><strong>16 Jan (Fri)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>26 Mar (Wed)</strong>
+<p><strong>17 Apr (Fri)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2 Jul (Wed)</strong>
+<p><strong>10 Jul (Fri)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>16 Oct (Thu)**</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>5 Mar (Wed)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>9 Apr (Wed)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>15 Jul (Tue)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
+<p><strong>19 Oct (Mon)**</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
+<p><strong>30 Jan (Fri)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>23 Apr (Wed)</strong>
+<p><strong>15 May (Fri)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>16 Jul (Wed)</strong>
+<p><strong>14 Jul – 16 Jul**</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
+<p><strong>&nbsp;13 Feb (Fri)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
+<p><strong>22 May (Fri)*</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>17 Jul (Thu)</strong>
+<p><strong>24 Jul (Fri)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;27 Feb (Fri)</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="4">
-<p>&nbsp;**Only for Sec 1 – 3</p>
-<p>&nbsp;</p>
+<p>* Only for Sec 1 &amp; 3</p>
+<p>**Only for Sec 1 – 3</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p>On HBL days, students will have asynchronous learning with lesson resources
-assigned to students via &nbsp;<a href="https://vle.learning.moe.edu.sg/login/" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space</a>.&nbsp;Secondary
-One students will also have Morning Check-in (using Zoom) on HBL days with
-their Form Teachers and classmates where they will discuss about learning
-dispositions and attitudes. Time is also set aside for Student-Initiated
+assigned to students via <a href="https://vle.learning.moe.edu.sg/login/" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space</a>.&nbsp;Secondary
+One students will also have Morning Check-in (using Microsoft Teams) on
+HBL days with their Form Teachers and classmates where they will discuss
+about learning dispositions and attitudes. Time is also set aside for Student-Initiated
 Learning (SIL) for all students to pursue learning in areas of their interests
 and learn outside of the curriculum. The following shows the structure
 of a typical HBL day.</p>
@@ -169,20 +164,20 @@ of a typical HBL day.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8.20 am - 8.35 am</p>
+<p>8 am - 8.15 am</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Virtual Morning Check-In</p>
 <p>(for Secondary One students)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Join Zoom meeting via invitation link sent by Form Teacher. Students are
-reminded to log in to Zoom using only their Student iCON accounts.</p>
+<p>Join Teams meeting via invitation link sent by Form Teacher. Students
+are reminded to log in to Teams using only their Student iCON accounts.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8.35 am - 1.35 pm</p>
+<p>8.15 am - 1.15 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Commencement of learning on four subjects</p>
@@ -190,14 +185,14 @@ reminded to log in to Zoom using only their Student iCON accounts.</p>
 <td rowspan="1" colspan="1">
 <p>The Student Learning Space (SLS) will serve as the main platform in which
 students receive instructions from their subject teachers for HBL.</p>
-<p></p>
+<p>&nbsp;</p>
 <p>Teachers will monitor students on their learning and check for understanding
 as well as provide timely feedback for the assignments given during HBL.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1.35 pm - 2.35 pm</p>
+<p>1.15 pm - 2.15 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Student-Initiated Learning (SIL) &nbsp;</p>
