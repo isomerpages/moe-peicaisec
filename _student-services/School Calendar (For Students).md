@@ -5,9 +5,9 @@ description: ""
 variant: tiptap
 ---
 <h4><strong>2026</strong></h4>
-<p><strong>Term 1 (caa 7 Jan 2026)</strong>
+<p><strong>Term 1 (caa 9 Jan 2026)</strong>
 </p>
-<p>Click <a href="/files/2026/Students_Calendar_caa_7_Jan_2026_Term1.pdf" rel="noopener nofollow" target="_blank">here</a> to
+<p>Click <a href="/files/2026/Students_Calendar_caa_9_Jan_2026_Term1.pdf" rel="noopener nofollow" target="_blank">here</a> to
 download</p>
 <p><strong>Term 2 (caa 4 Jan 2026)</strong>
 </p>
