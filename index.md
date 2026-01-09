@@ -13,7 +13,7 @@ sections:
       id: infopic
       button: Click here to download letters
       url: /announcements-2026/olevels-2025/download-letters/
-      image: /images/Announcement/olevel_release_25_banner.jpg
+      image: /images/Announcement/important_reminder_for_o_level_results_collection.jpg
       alt: Files
   - infopic:
       title: Important Reminder for O-Level Results Collection
