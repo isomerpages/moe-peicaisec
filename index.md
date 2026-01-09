@@ -13,7 +13,7 @@ sections:
       id: infopic
       button: Click here to download letters
       url: /announcements-2026/olevels-2025/download-letters/
-      image: /images/Announcement/Release_of_2025_GCE_O_Levels_Exam_Results.jpg
+      image: /images/Announcement/olevel_release_25_banner_2.jpg
       alt: Files
   - infopic:
       title: Important Reminder for O-Level Results Collection
