@@ -760,7 +760,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Zhang Chu Yi</p>
+<p>Ms Zhang Chuyi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">zhang_chuyi@moe.edu.sg</a>
