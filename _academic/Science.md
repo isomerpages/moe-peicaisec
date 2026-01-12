@@ -217,10 +217,27 @@ variant: tiptap
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Lower Secondary Science</p>
+<p>Biology</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:franlyn_seah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">franlyn_seah@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Val Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower Secondary Science</p>
+<p>Biology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:val_tan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">val_tan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -232,7 +249,7 @@ variant: tiptap
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Chemistry</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:goh_jin_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_jin_lee@moe.edu.sg</a>
