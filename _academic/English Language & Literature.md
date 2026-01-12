@@ -96,7 +96,7 @@ variant: tiptap
 <p>Ms Talisa Dhaliwal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH (CCE) (Int)</p>
+<p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English Language</p>
@@ -208,6 +208,21 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:safura_zulkifly_1@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">safura_zulkifly_1@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Serene Lam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:serene_wenghan_lam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">serene_wenghan_lam@moe.edu.sg</a>
 </p>
 </td>
 </tr>
