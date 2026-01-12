@@ -64,6 +64,21 @@ third_nav_title: Craft & Technology
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Cheong Xi Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NFS, FCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:cheong_xi_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cheong_xi_ling@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Ow Ju-lin</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -79,16 +94,16 @@ third_nav_title: Craft & Technology
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Cheong Xi Ling</p>
+<p>Ms Val Tan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NFS, FCE</p>
+<p>FCE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheong_xi_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cheong_xi_ling@moe.edu.sg</a>
+<p><a href="mailto:val_tan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">val_tan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
