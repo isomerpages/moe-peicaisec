@@ -109,21 +109,6 @@ third_nav_title: Craft & Technology
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Val Tan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Art</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:val_tan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">val_tan@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Christina Chua</p>
 </td>
 <td rowspan="1" colspan="1">
