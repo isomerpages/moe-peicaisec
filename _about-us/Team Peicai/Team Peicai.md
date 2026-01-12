@@ -818,7 +818,7 @@ variant: tiptap
 <p>Mr Leong Yong Lee Kelvin</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>3-1</p>
+<p>3EE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">leong_yong_lee_kelvin@moe.edu.sg</a>
@@ -839,7 +839,7 @@ variant: tiptap
 <p>Mr Koh Ah Kheng Mark</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>3-2</p>
+<p>3AY</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">koh_ah_kheng@moe.edu.sg</a>
@@ -859,7 +859,7 @@ variant: tiptap
 <p>Ms Sereenjit Kaur d/o Surjit Singh</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>3-3</p>
+<p>3CE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">sereenjit_kaur_surjit_singh@moe.edu.sg</a>
@@ -880,7 +880,7 @@ variant: tiptap
 <p>Ms Leng Su Yee</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>3-4</p>
+<p>3PN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">leng_su_yee@moe.edu.sg</a>
@@ -901,7 +901,7 @@ variant: tiptap
 <p>Ms Siau Su-Ann Christina</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>3-5</p>
+<p>3HY</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">siau_suann_christina@moe.edu.sg</a>
@@ -922,7 +922,7 @@ variant: tiptap
 <p>Mr Peh Say Koon</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>3-6</p>
+<p>3RE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">peh_say_koon@moe.edu.sg</a>
@@ -942,7 +942,7 @@ variant: tiptap
 <p>Mr Seow Choon Chee Jonathan</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>3-7</p>
+<p>3CY</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">seow_choon_chee@moe.edu.sg</a>
@@ -962,7 +962,7 @@ variant: tiptap
 <p>Mr Chee Khuen Woei Andy</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>3-8</p>
+<p>3CN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">chee_khuen_woei@moe.edu.sg</a>
