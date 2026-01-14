@@ -4,7 +4,7 @@ permalink: /achievements/students/national-examinations-2025/
 description: ""
 variant: tiptap
 ---
-<h4><strong>2025 National Examination Results (Value-Added)</strong></h4>
+<h4><strong>2025 National Examination Results</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -54,7 +54,7 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<h4><strong>2024 National Examination Results (Value-Added)</strong></h4>
+<h4><strong>2024 National Examination Results </strong></h4>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -94,7 +94,7 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<h4><strong>2023 National Examination Results (Value-Added)</strong></h4>
+<h4><strong>2023 National Examination Results </strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
