@@ -16,7 +16,7 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="N Level results 2025" src="/images/Achievements/N_level_Results_2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Olevel results 2025" src="/images/Achievements/Olevel_results_2025.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -28,6 +28,9 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="N Level results 2025" src="/images/Achievements/N_level_Results_2025.jpg">
+</div>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
