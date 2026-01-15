@@ -1,10 +1,10 @@
 ---
 title: National Examinations
-permalink: /achievements/students/national-examinations-2023/
+permalink: /achievements/students/national-examinations-2025/
 description: ""
 variant: tiptap
 ---
-<h4><strong>2025 National Examination Results (Value-Added)</strong></h4>
+<h4><strong>2025 National Examination Results</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -16,7 +16,7 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="N Level results 2025" src="/images/Achievements/N_level_Results_2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Olevel results 2025" src="/images/Achievements/Olevel_results_2025.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -29,6 +29,9 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="N Level results 2025" src="/images/Achievements/N_level_Results_2025.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -51,7 +54,7 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<h4><strong>2024 National Examination Results (Value-Added)</strong></h4>
+<h4><strong>2024 National Examination Results</strong></h4>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -91,7 +94,7 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<h4><strong>2023 National Examination Results (Value-Added)</strong></h4>
+<h4><strong>2023 National Examination Results</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
