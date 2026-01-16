@@ -9,6 +9,13 @@ sections:
   - hero:
       background: /images/Banner/Main_Banner_Main_1F.jpg
   - infopic:
+      title: Sec One Orientation 2026
+      id: infopic
+      button: Click here to view
+      url: /sec-one-orientation-2026/
+      image: /images/Announcement/S1_Orient_26__1_.png
+      alt: S1 Orient 26
+  - infopic:
       title: Release of 2025 GCE O-Levels Exam Results
       id: infopic
       button: Click here to download letters
