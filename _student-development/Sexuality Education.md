@@ -83,7 +83,7 @@ which are of prime concern at this age.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Sexuality Education Sec 1A" src="/images/Student Development/Sexuality_Education_Sec_1A.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Sexuality Education Sec 1AA" src="/images/Student Development/Sexuality_Education_Sec_1AA.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -101,7 +101,7 @@ which are of prime concern at this age.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Sexuality Education Sec 1B" src="/images/Student Development/Sexuality_Education_Sec_1B.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Sexuality Education Sec 2AA" src="/images/Student Development/Sexuality_Education_Sec_2AA.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -119,7 +119,7 @@ which are of prime concern at this age.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Sexuality Education Sec 2A" src="/images/Student Development/Sexuality_Education_Sec_2A.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Sexuality Education Sec 3AA" src="/images/Student Development/Sexuality_Education_Sec_3AA.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -136,116 +136,9 @@ which are of prime concern at this age.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Sexuality Education Sec 2B" src="/images/Student Development/Sexuality_Education_Sec_2B.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
 <p></p>
-</th>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Sexuality Education Sec 2C" src="/images/Student Development/Sexuality_Education_Sec_2C.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Sexuality Education Sec 3A" src="/images/Student Development/Sexuality_Education_Sec_3A.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Sexuality Education Sec 3B" src="/images/Student Development/Sexuality_Education_Sec_3B.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Sexuality Education Sec 4A" src="/images/Student Development/Sexuality_Education_Sec_4A.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Sexuality Education Sec 4B" src="/images/Student Development/Sexuality_Education_Sec_4B.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Sexuality Education Sec 4C" src="/images/Student Development/Sexuality_Education_Sec_4C.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Sexuality Education Sec 4AA" src="/images/Student Development/Sexuality_Education_Sec_4AA.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
