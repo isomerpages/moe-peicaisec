@@ -262,7 +262,9 @@ which are of prime concern at this age.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Sexuality Education Sec 5A" src="/images/Student Development/Sexuality_Education_Sec_5A.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -284,7 +286,7 @@ to sex and negative peer pressure. They also learn that the impact of STIs/HIV
 extends beyond themselves and involves their family, and the importance
 of responsible decision-making and seeking help. Abstinence and upholding
 family values are the key messages.</p>
-<p><strong>At PEICAI Secondary School, the <em>eTeens</em> programme will be implemented as follows in 2025:</strong>
+<p><strong>At PEICAI Secondary School, the <em>eTeens</em> programme will be implemented as follows in 2026:</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -295,6 +297,9 @@ family values are the key messages.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Teens programme" src="/images/Student Development/Teens_programme.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -310,13 +315,13 @@ sexuality education programmes by MOE-approved external providers.</p>
 <p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their
 children out of the <strong>Sexuality Education lessons</strong> need to
 complete an opt-out form. This form will be communicated to parents at
-the start of the year and is also downloadable <a href="/files/2025/ANNEX_A.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a><u> </u>.The completed form
-is to be submitted by 27/01/2025.</p>
+the start of the year and is also downloadable <a href="/files/2026/Annex_A_SEd.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> .The completed form is
+to be submitted by 28/01/2026.</p>
 <p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their
 children out of the <strong><em>eTeens</em> programme</strong> need to complete
 an opt-out form. This form will be communicated to parents at the start
-of the year and is also downloadable <a href="/files/2025/ANNEX_B.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> . The completed form is to
-be submitted by 27/01/2025.</p>
+of the year and is also downloadable <a href="/files/2026/Annex_B_eTeens.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> . The completed form
+is to be submitted by 28/01/2026.</p>
 <p>Parents can contact the school at 6202 1260 for discussion or to seek
 clarification about the school’s Sexuality Education programme.</p>
 <p></p>
