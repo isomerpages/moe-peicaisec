@@ -189,7 +189,6 @@ family values are the key messages.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Teens programme" src="/images/Student Development/Teens_programme.jpg">
 </div>
