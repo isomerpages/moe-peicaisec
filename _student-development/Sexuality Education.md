@@ -39,7 +39,7 @@ and unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here </a>for
 more information on MOE Sexuality Education.</p>
-<p><strong>Overview of PEICAI Secondary School’s Sexuality Education Programme for 2025</strong>
+<p><strong>Overview of PEICAI Secondary School’s Sexuality Education Programme for 2026</strong>
 </p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education
 is delivered in a holistic manner through the school curriculum. The content
@@ -47,8 +47,8 @@ for Sexuality Education is grouped into five main themes: Human Development,
 Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture,
 Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a> for more
 information on the scope of Sexuality Education in the school curriculum.</p>
-<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The subjects that incorporate
-topics on sexuality include:</p>
+<p>5.&nbsp;&nbsp;&nbsp;&nbsp;The subjects that incorporate topics on sexuality
+include:</p>
 <p>a.&nbsp;&nbsp;&nbsp; Science</p>
 <p>b.&nbsp;&nbsp;&nbsp; Character and Citizenship Education (CCE)</p>
 <p><strong><u>Sexuality Education Lessons</u></strong>:</p>
@@ -72,7 +72,7 @@ Education lessons, secondary students will have the opportunity to develop
 a positive self-esteem, develop their character, and expand their understanding
 and repertoire of skills to deal with various issues related to sexuality,
 which are of prime concern at this age.</p>
-<p><strong>At PEICAI Secondary School, the following Sexuality Education lessons will be taught in <u>2025</u>:</strong>
+<p><strong>At PEICAI Secondary School, the following Sexuality Education lessons will be taught in <u>2026</u>:</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -82,9 +82,44 @@ which are of prime concern at this age.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="s1s" src="/images/Student Development/S1S.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Sexuality Education Sec 1AA" src="/images/Student Development/Sexuality_Education_Sec_1AA.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Sexuality Education Sec 2AA" src="/images/Student Development/Sexuality_Education_Sec_2AA.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Sexuality Education Sec 3AA" src="/images/Student Development/Sexuality_Education_Sec_3AA.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -103,7 +138,7 @@ which are of prime concern at this age.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="s1s1" src="/images/Student Development/S1S1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Sexuality Education Sec 4AA" src="/images/Student Development/Sexuality_Education_Sec_4AA.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -120,161 +155,8 @@ which are of prime concern at this age.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="s2s" src="/images/Student Development/S2S.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="s2s1" src="/images/Student Development/S2S1.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="s2s2" src="/images/Student Development/S2S2.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="s3s" src="/images/Student Development/S3S.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="s3s1" src="/images/Student Development/S3S1.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="s4s" src="/images/Student Development/S4S.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="s4s1" src="/images/Student Development/S4S1.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="s4s2" src="/images/Student Development/S4S2.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="s5s" src="/images/Student Development/S5S.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Sexuality Education Sec 5A" src="/images/Student Development/Sexuality_Education_Sec_5A.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -297,7 +179,7 @@ to sex and negative peer pressure. They also learn that the impact of STIs/HIV
 extends beyond themselves and involves their family, and the importance
 of responsible decision-making and seeking help. Abstinence and upholding
 family values are the key messages.</p>
-<p><strong>At PEICAI Secondary School, the <em>eTeens</em> programme will be implemented as follows in 2025:</strong>
+<p><strong>At PEICAI Secondary School, the <em>eTeens</em> programme will be implemented as follows in 2026:</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -307,9 +189,8 @@ family values are the key messages.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="implemented" src="/images/Student Development/9P.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Teens programme" src="/images/Student Development/Teens_programme.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -326,13 +207,13 @@ sexuality education programmes by MOE-approved external providers.</p>
 <p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their
 children out of the <strong>Sexuality Education lessons</strong> need to
 complete an opt-out form. This form will be communicated to parents at
-the start of the year and is also downloadable <a href="/files/2025/ANNEX_A.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a><u> </u>.The completed form
-is to be submitted by 27/01/2025.</p>
+the start of the year and is also downloadable <a href="/files/2026/Annex_A_SEd.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> .The completed form is
+to be submitted by 28/01/2026.</p>
 <p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their
 children out of the <strong><em>eTeens</em> programme</strong> need to complete
 an opt-out form. This form will be communicated to parents at the start
-of the year and is also downloadable <a href="/files/2025/ANNEX_B.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> . The completed form is to
-be submitted by 27/01/2025.</p>
+of the year and is also downloadable <a href="/files/2026/Annex_B_eTeens.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> . The completed form
+is to be submitted by 28/01/2026.</p>
 <p>Parents can contact the school at 6202 1260 for discussion or to seek
 clarification about the school’s Sexuality Education programme.</p>
 <p></p>
