@@ -111,9 +111,8 @@ variant: tiptap
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:CHUAN_THUK_LAN_MRS@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">CHUAN_THUK_LAN_MRS@moe.edu.sg</a>
+<p><a href="mailto:chuan_thuk_lan_mrs@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chuan_thuk_lan_mrs@moe.edu.sg</a>
 </p>
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
