@@ -172,7 +172,9 @@ which are of prime concern at this age.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Sexuality Education Sec 3A" src="/images/Student Development/Sexuality_Education_Sec_3A.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -188,7 +190,9 @@ which are of prime concern at this age.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Sexuality Education Sec 3B" src="/images/Student Development/Sexuality_Education_Sec_3B.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
