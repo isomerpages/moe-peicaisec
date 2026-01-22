@@ -299,7 +299,7 @@ and care shown by our Orientation Group Leaders (OGLs).</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="S1 Orient 17" src="/images/Announcement/S1_Orient_26__17_.jpg">
+<img style="width: 85%;" height="auto" width="100%" alt="S1 Orient 17" src="/images/Announcement/S1_Orient_26__17_.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
