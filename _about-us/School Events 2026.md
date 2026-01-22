@@ -170,7 +170,7 @@ Mass Dance, bringing the entire cohort together in celebration and unity.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="S1 Orient 09" src="/images/Announcement/S1_Orient_26__9_.jpg">
+<img style="width: 55%;" height="auto" width="100%" alt="S1 Orient 09" src="/images/Announcement/S1_Orient_26__9_.jpg">
 </div>
 </th>
 </tr>
