@@ -393,4 +393,29 @@ and care shown by our Orientation Group Leaders (OGLs).</p>
 </tr>
 </tbody>
 </table>
+<h4></h4>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<h4><strong>Release of 2025 Singapore Cambridge GCE O-Level Examination Results</strong></h4>
+<p><a href="/files/2026/Memo_for_2025_O_levels_results_letter_PG_signed_VP.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to download memo letter</a>
+</p>
+<p></p>
+<p><strong>AUTHORISATION OF PROXY FOR COLLECTION OF RESULT SLIP AND CERTIFICATE</strong>
+</p>
+<p><a href="/files/2026/Proxy_Letter_OLevels.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to download proxy letter</a>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
