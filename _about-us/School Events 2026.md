@@ -4,4 +4,148 @@ permalink: /school-events-2026/
 variant: tiptap
 description: ""
 ---
+<h4>Sec One Orientation 2026</h4>
+<p>The Sec One Orientation Programme 2026 warmly welcomed our newest students
+into the school community through a vibrant and engaging series of activities
+designed to build friendships, confidence, and a strong sense of belonging.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="S1 Orient 01" src="/images/Announcement/S1_Orient_26__0_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="S1 Orient 02" src="/images/Announcement/S1_Orient_26__2_.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>Sec 1 students registering their attendance at the registration booth</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Student Leaders ready to welcome our Sec 1 students</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="S1 Orient 03" src="/images/Announcement/S1_Orient_26__3_.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>Student Leaders ready to welcome our Sec 1 students</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>The programme kicked off with Welcome Day, where students arrived at school
+and were ushered by the Orientation Group Leaders to the MPH. Through lively
+icebreakers, the Sec One students quickly bonded with their classmates
+and orientation group leaders, setting the tone for an exciting and meaningful
+orientation experience.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="S1 Orient 04" src="/images/Announcement/S1_Orient_26__4_.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="S1 Orient 05" src="/images/Announcement/S1_Orient_26__5_.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>Sec 1s getting to know their classmates better through icebreakers</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Sec 1s getting to know their classmates better through icebreakers</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="S1 Orient 06" src="/images/Announcement/S1_Orient_26__6_.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><em>Sec 1s getting to know their classmates better through icebreakers</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Students had the opportunity to express their creativity during the Class
+Identity Flag Design activity, where teamwork and imagination came together
+to reflect each class’s unique spirit. This was followed by a variety of
+rotational games that encouraged collaboration, communication, and sportsmanship
+in a fun and supportive environment.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="S! Orient 07" src="/images/Announcement/S1_Orient_26__7_.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><em>Sec 1 students designing their class identity flag</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
 <p></p>
