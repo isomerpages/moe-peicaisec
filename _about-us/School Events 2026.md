@@ -211,9 +211,25 @@ Mass Dance, bringing the entire cohort together in celebration and unity.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="S1 Orient 12" src="/images/Announcement/S1_Orient_26__12_.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 55%;" height="auto" width="100%" alt="S1 Orient 13" src="/images/Announcement/S1_Orient_26__13_.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p> <em>Retrieving their treasure back to their bases without getting caught</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Learning the Mass Dance together as a cohort</em>
+</p>
 </td>
 </tr>
 </tbody>
