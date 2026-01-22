@@ -304,31 +304,15 @@ and care shown by our Orientation Group Leaders (OGLs).</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="S1 Orient 1" src="/images/Announcement/S1_Orient_26__1_.png">
+</div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><em>Sec One Orientation 2026 Orientation Group Leaders</em>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="S1 Orient 1" src="/images/Announcement/S1_Orient_26__1_.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -344,7 +328,7 @@ and care shown by our Orientation Group Leaders (OGLs).</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>2025 National Examination Results</strong></h4>
+<h4>2025 National Examination Results</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -401,7 +385,7 @@ and care shown by our Orientation Group Leaders (OGLs).</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<h4><strong>Release of 2025 Singapore Cambridge GCE O-Level Examination Results</strong></h4>
+<h4>Release of 2025 Singapore Cambridge GCE O-Level Examination Results</h4>
 <p><a href="/files/2026/Memo_for_2025_O_levels_results_letter_PG_signed_VP.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to download memo letter</a>
 </p>
 <p></p>
