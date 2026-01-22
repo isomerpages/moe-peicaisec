@@ -146,6 +146,76 @@ in a fun and supportive environment.</p>
 </tr>
 </tbody>
 </table>
+<p>A key highlight of the programme was the Outdoor Interdisciplinary Amazing
+Race, where students navigated challenges that tested their problem-solving
+skills, resilience, and teamwork while applying knowledge from different
+disciplines. Through the Rotational Games, the students learnt more about
+the 5 Leadership Practice (Model the Way, Inspire a Shared Vision, Enable
+Others to Act, Challenge the Process and Encourage the Heart). The energy
+continued with dynamic Mass Games, spirited cheers, and an electrifying
+Mass Dance, bringing the entire cohort together in celebration and unity.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="S1 Orient 08" src="/images/Announcement/S1_Orient_26__8_.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="S1 Orient 09" src="/images/Announcement/S1_Orient_26__9_.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>Outdoor Interdisciplinary Amazing Race infusing elements of Geography, Science, History and Outdoor Education</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Outdoor Interdisciplinary Amazing Race infusing elements of Geography, Science, History and Outdoor Education</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="S1 Orient 10" src="/images/Announcement/S1_Orient_26__10_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="S1 Orient 11" src="/images/Announcement/S1_Orient_26__11_.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>Outdoor Interdisciplinary Amazing Race infusing elements of Geography, Science, History and Outdoor Education</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Sec 1s learning more about the Five Leadership Practices through Rotational Games</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
