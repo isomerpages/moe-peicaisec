@@ -224,7 +224,7 @@ Mass Dance, bringing the entire cohort together in celebration and unity.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p> <em>Retrieving their treasure back to their bases without getting caught</em>
+<p><em>Retrieving their treasure back to their bases without getting caught</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -234,4 +234,58 @@ Mass Dance, bringing the entire cohort together in celebration and unity.</p>
 </tr>
 </tbody>
 </table>
+<p>The orientation concluded with the unforgettable Campfire Night, a memorable
+evening filled with laughter, performances, reflection, and camaraderie.
+It marked a meaningful end to an enriching journey and the beginning of
+the Sec One students’ secondary school life.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="S1 Orient 14" src="/images/Announcement/S1_Orient_26__14_.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="S1 Orient 15" src="/images/Announcement/S1_Orient_26__15_.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>Getting ready for the outdoor campfire</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Lighting of the campfire by our Principal, Mr Michael</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="S1 Orient 16" src="/images/Announcement/S1_Orient_26__16_.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><em>Class campfire performances</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>The Sec One Orientation Programme 2026 successfully fostered friendships,
+nurtured confidence, and instilled school pride, ensuring our students
+began their secondary school journey on a joyful and inspiring note. This
+would not have been possible without the unwavering support, leadership,
+and care shown by our Orientation Group Leaders (OGLs).</p>
