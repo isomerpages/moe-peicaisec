@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h4><strong>School Corporate Video</strong></h4>
 <div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="522" width="929" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/xB57M44bouA?si=rR1wYZ2ETHBXB4Pv"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="522" width="929" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/xB57M44bouA?si=WDIDPlmIBsnVqhrZ"></iframe>
 </div>
 <p></p>
 <table style="minWidth: 75px">
