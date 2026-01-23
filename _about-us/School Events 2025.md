@@ -75,8 +75,8 @@ into our family.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Our lovely students and teachers at our reception warmly welcoming our
-visitors</p>
+<p>Our lovely students, teachers and admin staff at our reception warmly
+welcoming our visitors</p>
 </td>
 </tr>
 <tr>
