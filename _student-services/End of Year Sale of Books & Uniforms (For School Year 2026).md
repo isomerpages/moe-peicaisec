@@ -138,7 +138,7 @@ from <strong>1 Nov 2025.</strong>
 </p>
 </li>
 <li>
-<p>Book your appointment via this link/QR code: <a href="https://jeepsinguniform.com/pages/appointment-booking" rel="noopener noreferrer nofollow" target="_blank">https://jeepsinguniform.com/pages/appointment-booking</a>
+<p>Book your appointment via this link/QR code: <a href="https://jeepsinguniform.com/pages/contact-us" rel="noopener noreferrer nofollow" target="_blank">https://jeepsinguniform.com/pages/contact-us</a>
 </p>
 </li>
 <li>
