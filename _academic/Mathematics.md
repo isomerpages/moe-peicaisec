@@ -268,6 +268,18 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Ariel Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_yang_ping_ariel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_yang_ping_ariel@moe.edu.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4><strong>Learning Outcomes</strong></h4>
