@@ -9,6 +9,13 @@ sections:
   - hero:
       background: /images/Banner/Main_Banner_Main_1F.jpg
   - infopic:
+      title: Sec 1 PES Talk - CCA
+      id: infopic
+      button: Click here to view
+      url: /files/2026/Sec_1_PES_Talk___CCA.pdf
+      image: /images/Announcement/For_Upload_on_School_Website____Sec_1_PES_Talk___CCA.jpg
+      alt: Image alt text
+  - infopic:
       title: Sec One Orientation 2026
       id: infopic
       button: Click here to view
