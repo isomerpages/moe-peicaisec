@@ -12,7 +12,7 @@ sections:
       title: Sec 1 PES Talk - CCA
       id: infopic
       button: Click here to view
-      url: /files/mediaDirectory/files%2F2026/editMediaSettings/Sec_1_PES_Talk___CCA.pdf
+      url: /files/2026/Sec_1_PES_Talk___CCA.pdf
       image: /images/Announcement/For_Upload_on_School_Website____Sec_1_PES_Talk___CCA.jpg
       alt: Image alt text
   - infopic:
