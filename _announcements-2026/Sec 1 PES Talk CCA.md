@@ -13,8 +13,7 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>Sec 1 PES Talk - CCA</strong> click <a href="/files/2026/Sec_1_PES_Talk___CCA.pdf" rel="noopener noreferrer nofollow" target="_blank">here </a>
-</p>
+<h4><strong>Sec 1 PES Talk - CCA</strong> </h4>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -22,7 +21,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Click here to download</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
