@@ -23,6 +23,13 @@ sections:
       image: /images/Announcement/For_Upload_on_School_Website____Sec_1_PES_Talk___CCA.jpg
       alt: Image alt text
   - infopic:
+      title: Inspiring Teacher of English Award 2026
+      id: infopic
+      button: Click here to view
+      url: /inspiring-teacher-of-english-award-2026
+      image: /images/Announcement/Inspiring_EL_Teacher_Award_copy.jpg
+      alt: Image alt text
+  - infopic:
       title: Sec One Orientation 2026
       id: infopic
       button: Click here to view
