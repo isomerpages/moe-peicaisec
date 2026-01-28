@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/Banner/Main_Banner_Main_1F.jpg
   - infopic:
-      title: Sec 2 PESSharing on Post Secondary Pathways and Options
+      title: Sec 2 PES Sharing on Post Secondary Pathways and Options
       id: infopic
       button: Click here to view
       url: /files/2026/S2_2026_ECG_Talk_on_Post_Sec_Pathways_and_Subject_Options_Talk__for_circulation_.pdf
