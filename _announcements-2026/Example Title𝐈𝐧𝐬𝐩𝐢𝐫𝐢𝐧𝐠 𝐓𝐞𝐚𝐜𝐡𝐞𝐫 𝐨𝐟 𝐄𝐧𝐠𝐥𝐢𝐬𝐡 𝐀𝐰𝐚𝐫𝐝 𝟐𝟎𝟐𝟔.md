@@ -1,7 +1,0 @@
----
-title: Example Title𝐈𝐧𝐬𝐩𝐢𝐫𝐢𝐧𝐠 𝐓𝐞𝐚𝐜𝐡𝐞𝐫 𝐨𝐟 𝐄𝐧𝐠𝐥𝐢𝐬𝐡
-  𝐀𝐰𝐚𝐫𝐝 𝟐𝟎𝟐𝟔
-permalink: /example-title/
-variant: tiptap
-description: ""
----
