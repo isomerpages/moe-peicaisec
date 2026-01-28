@@ -13,7 +13,7 @@ sections:
       id: infopic
       button: Click here to view
       url: /files/2026/S2_2026_ECG_Talk_on_Post_Sec_Pathways_and_Subject_Options_Talk__for_circulation_.pdf
-      image: /images/Announcement/S2_2026_ECG_Talk_on_Post_Sec_Pathways_and_Subject_Options_Talk.jpg
+      image: /images/Announcement/S2_2026_ECG_Talk_on_Post_Sec_Pathways_and_Subject_Options_Talk_A.jpg
       alt: Image alt text
   - infopic:
       title: Sec 1 PES Talk - CCA
