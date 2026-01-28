@@ -8,7 +8,7 @@ description: ""
 language, helped you think more clearly through reading and writing, or
 made lessons engaging and meaningful?</p>
 <p>We invite students, parents, and alumni of Peicai Secondary School to
-nominate an English teacher who continually develops their teaching, uses
+nominate an English teacher who continually refines their teaching, uses
 approaches suited to their learners, and brings the English Language curriculum
 to life through purposeful and engaging classroom practices.</p>
 <p>Share a story. Celebrate an impact. Honour a teacher who inspires a love
