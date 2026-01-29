@@ -9,6 +9,13 @@ sections:
   - hero:
       background: /images/Banner/Main_Banner_Main_1F.jpg
   - infopic:
+      title: Peicai’s Parent Engagement Session
+      id: infopic
+      button: Click here to view
+      url: /peicais-parent-engagement-session-2026/
+      image: /images/Announcement/pes_26_cover.jpg
+      alt: pcss_pes26
+  - infopic:
       title: Sec 2 PES Sharing on Post Secondary Pathways and Options
       id: infopic
       button: Click here to view
