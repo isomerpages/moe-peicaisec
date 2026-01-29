@@ -2,6 +2,7 @@ collections:
   announcements-2026:
     output: true
     order:
+      - Peicai’s Parent Engagement Session.md
       - Inspiring Teacher of English Award 2026.md
       - Sec One Orientation 2026.md
       - Important Reminder for O Level Results Collection.md
