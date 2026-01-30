@@ -9,6 +9,20 @@ sections:
   - hero:
       background: /images/Banner/Main_Banner_Main_1F.jpg
   - infopic:
+      title: Peicai’s Parent Engagement Session
+      id: infopic
+      button: Click here to view
+      url: /peicais-parent-engagement-session-2026/
+      image: /images/Announcement/pes_26_cover.jpg
+      alt: pcss_pes26
+  - infopic:
+      title: Sec 4 & 5 PES Sharing on Post Secondary Pathways and Options
+      id: infopic
+      button: Click here to view
+      url: /sec-4-5-pes-sharing-on-post-secondary-pathways-and-options/
+      image: /images/Announcement/S45_PES26_Cover.jpg
+      alt: s45_pes_26
+  - infopic:
       title: Sec 2 PES Sharing on Post Secondary Pathways and Options
       id: infopic
       button: Click here to view
@@ -21,6 +35,13 @@ sections:
       button: Click here to view
       url: /files/2026/Sec_1_PES_Talk___CCA.pdf
       image: /images/Announcement/For_Upload_on_School_Website____Sec_1_PES_Talk___CCA.jpg
+      alt: Image alt text
+  - infopic:
+      title: Inspiring Teacher of English Award 2026
+      id: infopic
+      button: Click here to view
+      url: /inspiring-teacher-of-english-award-2026
+      image: /images/Announcement/Inspiring_EL_Teacher_Award_copy.jpg
       alt: Image alt text
   - infopic:
       title: Sec One Orientation 2026
