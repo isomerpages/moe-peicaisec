@@ -20,7 +20,7 @@ sections:
       id: infopic
       button: Click here to view
       url: /sec-4-5-pes-sharing-on-post-secondary-pathways-and-options/
-      image: /images/Announcement/S45_PES26_Cover.jpg
+      image: /images/Announcement/S45_PES26_Cover_0.jpg
       alt: s45_pes_26
   - infopic:
       title: Sec 2 PES Sharing on Post Secondary Pathways and Options

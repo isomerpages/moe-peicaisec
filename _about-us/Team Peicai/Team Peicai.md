@@ -81,7 +81,7 @@ variant: tiptap
 <p>Mr James Koh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD Partnerships &amp; Outreach</p>
+<p>HOD (Partnerships &amp; Outreach)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:koh_puay_yang_james@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_puay_yang_james@moe.edu.sg</a>
@@ -350,18 +350,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_yi_quan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yi_quan@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Phyllis Kew</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Administration Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:kew_seow_juin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kew_seow_juin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
