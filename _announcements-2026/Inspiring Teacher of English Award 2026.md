@@ -16,7 +16,6 @@ for language and learning.</p>
 <p>Nominations for the Inspiring Teacher of English Award 2026 are now open.
 All in-service English Language teachers, including teachers of Literature
 in English, are eligible for nomination.</p>
-<p>&nbsp;</p>
 <p><strong>How to nominate</strong>
 </p>
 <p>Please click <a href="https://www.languagecouncils.sg/goodenglish/inspiring-teacher-of-english-award/nomination-information" rel="noopener noreferrer nofollow" target="_blank">here</a> to
