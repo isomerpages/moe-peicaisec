@@ -34,7 +34,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Edwin Kwek</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD (Science)</p>
@@ -44,22 +43,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:kwek_swee_hee_edwin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kwek_swee_hee_edwin@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr James Koh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD (Partnerships &amp; Outreach)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lower Sec Science</p>
-<p>Physics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:koh_puay_yang_james@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_puay_yang_james@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -113,6 +96,103 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Wong Poh Shen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower Sec Science</p>
+<p>Upper Sec NT Science</p>
+<p>Chemistry</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wong_poh_shen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_poh_shen@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tay Ning</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower Sec Science</p>
+<p>Upper Sec NT Science</p>
+<p>Chemistry</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tay_ning@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_ning@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Han Lijun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower Sec Science</p>
+<p>Chemistry</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lijun_han@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lijun_han@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lam Yong Peng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower Sec Science</p>
+<p>Chemistry</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lam_yong_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lam_yong_peng@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Damien Goh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chemistry</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:goh_jin_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_jin_lee@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr James Koh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD (Partnerships &amp; Outreach)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower Sec Science</p>
+<p>Physics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:koh_puay_yang_james@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_puay_yang_james@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Kelvin Leong</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -155,120 +235,7 @@ variant: tiptap
 <p>Physics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:abdul_rauf_abdul_rahim_1@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">abdul_rauf_abdul_rahim_1@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Han Lijun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lower Sec Science</p>
-<p>Chemistry</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lijun_han@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lijun_han@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Wong Poh Shen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lower Sec Science</p>
-<p>Upper Sec NT Science</p>
-<p>Chemistry</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:wong_poh_shen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_poh_shen@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Tay Ning</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lower Sec Science</p>
-<p>Upper Sec NT Science</p>
-<p>Chemistry</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tay_ning@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_ning@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Franlyn Seah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lower Secondary Science</p>
-<p>Biology</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:franlyn_seah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">franlyn_seah@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Val Tan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lower Secondary Science</p>
-<p>Biology</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:val_tan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">val_tan@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Damien Goh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chemistry</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:goh_jin_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_jin_lee@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Lam Yong Peng</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lower Sec Science</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lam_yong_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lam_yong_peng@moe.edu.sg</a>
+<p><a href="mailto:abdul_rauf_abdul_rahim_1@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ul_rauf_abdul_rahim_1@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -317,6 +284,38 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_khay_yi_sarah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_khay_yi_sarah@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Franlyn Seah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower Secondary Science</p>
+<p>Biology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:franlyn_seah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">franlyn_seah@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Val Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower Secondary Science</p>
+<p>Biology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:val_tan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">val_tan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
