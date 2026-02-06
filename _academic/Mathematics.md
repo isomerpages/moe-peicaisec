@@ -80,6 +80,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Teng Lip Koon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH (CPA)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:teng_lip_koon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teng_lip_koon@moe.edu.sg</a>
+</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Tan Yi Quan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -144,6 +157,32 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Andy Chee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Chee_khuen_woei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Chee_khuen_woei@moe.edu.sg</a>
+</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Melissa Koh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:koh_shihui_melissa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_shihui_melissa@moe.edu.sg</a>
+</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms B Viveka</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -189,45 +228,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ng_xin_yi_fyra@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_xin_yi_fyra@moe.edu.sg</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Teng Lip Koon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH (CPA)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:teng_lip_koon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teng_lip_koon@moe.edu.sg</a>
-</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Andy Chee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Chee_khuen_woei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Chee_khuen_woei@moe.edu.sg</a>
-</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Melissa Koh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:koh_shihui_melissa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_shihui_melissa@moe.edu.sg</a>
-</p>
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
