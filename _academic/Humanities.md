@@ -138,7 +138,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Liow Yi Xuan</p>
+<p>Mr Goh Wei Xuan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -147,7 +147,7 @@ variant: tiptap
 <p>Social Studies</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:liow_yi_xuan_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liow_yi_xuan_A@moe.edu.sg</a>
+<p><a href="mailto:goh_wei_xuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_wei_xuan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -168,6 +168,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Liow Yi Xuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Social Studies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:liow_yi_xuan_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liow_yi_xuan_A@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Tay Kai Yi</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -178,21 +193,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tay_kai_yi_e@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_kai_yi_e@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Goh Wei Xuan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Social Studies</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:goh_wei_xuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_wei_xuan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
