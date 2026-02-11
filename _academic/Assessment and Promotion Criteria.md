@@ -6,8 +6,6 @@ variant: tiptap
 ---
 <h4><strong>Assessment &amp; Subject Weighting</strong></h4>
 <p></p>
-<p>Promotion to the next level is dependent on student's performance in both
-Weighted Assessment (WA) and End-of-Year Examinations (EYE).</p>
 <h4><strong>Weighted Assessments for 2026</strong></h4>
 <table style="minWidth: 125px">
 <colgroup>
@@ -256,8 +254,9 @@ Weighted Assessment (WA) and End-of-Year Examinations (EYE).</p>
 </p>
 </li>
 <li>
-<p><strong>Attain at least 50% in at least half the total number of examinable subjects offered, subject to a minimum of 3 subjects</strong>
+<p><strong>Attain at least 50% in at least half the total number of examinable subjects offered.</strong>
 </p>
+<p></p>
 </li>
 </ul>
 <h5>Secondary 3</h5>

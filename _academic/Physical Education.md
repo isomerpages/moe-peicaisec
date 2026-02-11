@@ -63,21 +63,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Mark Koh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Physical Education</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Koh_ah_kheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Koh_ah_kheng@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Jonathan Seow</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -88,6 +73,21 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Seow_choon_chee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Seow_choon_chee@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Mark Koh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Physical Education</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Koh_ah_kheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Koh_ah_kheng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
