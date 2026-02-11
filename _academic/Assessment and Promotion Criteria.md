@@ -247,7 +247,7 @@ variant: tiptap
 </table>
 <p>*Grades marked with asterisks are fail grades.</p>
 <p></p>
-<h5>Secondary 2</h5>
+<h5>Secondary 2 &amp; Secondary 3</h5>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Attain at least 50% in EL and 2 subjects OR</strong>
@@ -259,50 +259,4 @@ variant: tiptap
 <p></p>
 </li>
 </ul>
-<h5>Secondary 3</h5>
-<p><strong>To be promoted to Secondary 4, the criteria for the respective courses are as follows:</strong>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Course &amp; Level</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Promotion Criteria</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Express</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Pass in English Language and two other subjects</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Normal Academic</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Grade 5 or better in,
-<br>a) English Language and 2 other subjects or
-<br>b) 4 subjects</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Normal Technical</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Grade D or better in 2 subjects, one of which should be English Language
-or Mathematics</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
