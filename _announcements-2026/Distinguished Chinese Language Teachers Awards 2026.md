@@ -5,6 +5,26 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>Nominate Your Outstanding Chinese Language Teacher Today!</strong></h4>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcement/distn_cl_trs_award26.png">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>Do you know a Chinese Language teacher who has made a lasting impact on
 students? One who inspires a love for the language, brings culture to life
 in the classroom, and goes the extra mile to support students’ growth?</p>
