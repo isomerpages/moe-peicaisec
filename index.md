@@ -9,6 +9,13 @@ sections:
   - hero:
       background: /images/Banner/Main_Banner_Main_1F.jpg
   - infopic:
+      title: Distinguished Chinese Language Teachers Awards 2026
+      id: infopic
+      button: Click here to view
+      url: /distinguished-chinese-language-teachers-awards-2026/
+      image: /images/Announcement/distn_cl_trs_award26.png
+      alt: distn_cl_trs_award26
+  - infopic:
       title: Peicai’s Parent Engagement Session
       id: infopic
       button: Click here to view
