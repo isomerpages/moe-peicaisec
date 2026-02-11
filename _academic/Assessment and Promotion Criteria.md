@@ -5,9 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h4><strong>Assessment &amp; Subject Weighting</strong></h4>
-<h5>Secondary 1</h5>
-<p>Promotion to the next level is dependent on student's performance in both
-Weighted Assessment (WA) and End-of-Year Examinations (EYE).</p>
+<p></p>
 <h4><strong>Weighted Assessments for 2026</strong></h4>
 <table style="minWidth: 125px">
 <colgroup>
