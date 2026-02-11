@@ -35,4 +35,5 @@ for their students.</p>
 in MOE primary, secondary, pre-university, junior colleges and IP schools
 are eligible (except for past winners).</p>
 <p>Students and parents are warmly invited to submit nominations online via
-<a href="https://contest.sph.com.sg/campaigns/dclta" rel="noopener noreferrer nofollow" target="_blank">https://zb.sg/dclta2026</a>or by scanning the QR code in the poster, by <strong>30 April 2026 (Thursday)</strong>.</p>
+(<a href="https://contest.sph.com.sg/campaigns/dclta" rel="noopener noreferrer nofollow" target="_blank">https://zb.sg/dclta2026</a>)or
+by scanning the QR code in the poster, by <strong>30 April 2026 (Thursday)</strong>.</p>
