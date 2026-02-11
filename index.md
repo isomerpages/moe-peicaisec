@@ -13,7 +13,7 @@ sections:
       id: infopic
       button: Click here to view
       url: /distinguished-chinese-language-teachers-awards-2026/
-      image: /images/Announcement/distn_cl_trs_award26.png
+      image: /images/Announcement/distn_cl_trs_award26_cover.png
       alt: distn_cl_trs_award26
   - infopic:
       title: Peicai’s Parent Engagement Session
