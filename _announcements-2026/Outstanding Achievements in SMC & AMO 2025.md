@@ -282,3 +282,71 @@ platform.</p>
 dedication, resilience, and passion for mathematics continue to inspire
 the Peicai community. We look forward to seeing you achieve greater heights
 in the future!</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Math award 2025" src="/images/Achievements/Math_award.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Our SMC and AMO award winners proudly receiving their certificates alongside
+Vice Principal Mr Shue. Well done to all for your remarkable achievements!</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SMC 2025" src="/images/Achievements/SMC_2025.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="AMO 2025" src="/images/Achievements/AMO_2025.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Congratulations to Jervin Yeo Kai Jie (4EE) on clinching the SMC 2025
+Exemplary Award (Gold)! A well-deserved recognition of his hard work and
+mathematical excellence.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hiok Zhi Hao Isaiah (2CE) receiving the AMO 2025 Bronze Award. Congratulations
+on this well-deserved achievement in an international mathematics competition.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
