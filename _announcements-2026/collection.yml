@@ -2,6 +2,7 @@ collections:
   announcements-2026:
     output: true
     order:
+      - Outstanding Achievements in SMC & AMO 2025.md
       - Distinguished Chinese Language Teachers Awards 2026.md
       - Sec 4 & 5 PES Sharing on Post Secondary Pathways and Options.md
       - Peicai’s Parent Engagement Session.md
