@@ -746,7 +746,7 @@ Microsite at <a href="https://intranet.moe.gov.sg/schdiv/Pages/Group-Personal-Ac
 </p>
 <p>2.&nbsp;&nbsp;&nbsp;Information on claims, FAQs and other details pertaining
 to the MOE GPA Insurance Plan for students can be found on Income’s website
-at <a href="https://www.income.com.sg/group-insurance-for-schools-and-centres-and-moe/group-personal-accident-for-students" rel="noopener noreferrer nofollow" target="_blank">https://www.income.com.sg/studentgpa</a><u>.</u>
+at <a href="https://www.income.com.sg/group-insurance-for-schools-and-moe-personnel/group-personal-accident-for-students" rel="noopener noreferrer nofollow" target="_blank">https://www.income.com.sg/studentgpa</a><u>.</u>
 </p>
 <p>3.&nbsp;&nbsp;For further clarifications, please contact <a href="mailto:MOE_Insurance@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">MOE_Insurance@moe.gov.sg</a>
 </p>
