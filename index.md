@@ -9,6 +9,13 @@ sections:
   - hero:
       background: /images/Banner/Main_Banner_Main_1F.jpg
   - infopic:
+      title: Outstanding Achievements in SMC & AMO 2025
+      id: infopic
+      button: Click here to view
+      url: /outstanding-achievements-in-smc-amo-2025
+      image: /images/Achievements/Math_award.jpg
+      alt: Image alt text
+  - infopic:
       title: Distinguished Chinese Language Teachers Awards 2026
       id: infopic
       button: Click here to view
