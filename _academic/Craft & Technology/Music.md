@@ -198,11 +198,10 @@ or in pairs.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.moe.gov.sg/-/media/files/primary/2015musicteachingandlearningsyllabusprimaryandlowersecondary.ashx?la=en&amp;hash=41025D7E02879592E04790C645AF026FD33D64E9" rel="noopener noreferrer nofollow" target="_blank">Lower Secondary Music</a>
-</p>
+<p>Lower Secondary Music</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p></p>
 </td>
 </tr>
 </tbody>
