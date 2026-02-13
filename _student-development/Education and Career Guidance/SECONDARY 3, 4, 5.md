@@ -8,7 +8,7 @@ third_nav_title: Education and Career Guidance
 <h4><strong>2025 SECONDARY 3, 4, 5 COHORTS</strong></h4>
 <p><strong><u>OVERVIEW OF POST-SEC PATHWAYS AVAILABLE AFTER N/O LEVELS</u></strong>
 </p>
-<p>2026 JAE Booklet: <strong>&lt;To be updated&gt;</strong>
+<p>2026 JAE Booklet: &lt;<strong>To be updated&gt;</strong>
 </p>
 <table style="minWidth: 25px">
 <colgroup>
