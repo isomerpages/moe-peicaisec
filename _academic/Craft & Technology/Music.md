@@ -198,7 +198,8 @@ or in pairs.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lower Secondary Music</p>
+<p><strong><u>Lower Secondary Music</u></strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
