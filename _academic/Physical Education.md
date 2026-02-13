@@ -354,7 +354,7 @@ to interact in a group made up of students from other schools.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.moe.gov.sg/-/media/files/secondary/syllabuses/pe/2024-physical-education-primary-secondary-and-preuniversity-syllabus.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE – PE Syllabus</a>
+<p><strong><u>MOE – PE Syllabus</u></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
