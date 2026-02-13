@@ -789,21 +789,21 @@ Mention (Physics)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.moe.gov.sg/-/media/files/secondary/fsbb/syllabus/2021-g1-lower-secondary-science-syllabus-updated-apr-2024.pdf" rel="noopener noreferrer nofollow" target="_blank">G1 Science</a>
+<p><strong><u>G1 Science</u></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.moe.gov.sg/-/media/files/secondary/fsbb/syllabus/2021-g2g3-lower-secondary-science-syllabus-updated-apr-2024.pdf" rel="noopener noreferrer nofollow" target="_blank">G2 Science</a>
+<p><strong><u>G2 Science</u></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.moe.gov.sg/-/media/files/secondary/fsbb/syllabus/2021-g2g3-lower-secondary-science-syllabus-updated-apr-2024.pdf" rel="noopener noreferrer nofollow" target="_blank">G3 Science</a>
+<p><strong><u>G3 Science</u></strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p>&nbsp;</p>
+<p></p>
 </td>
 </tr>
 <tr>
