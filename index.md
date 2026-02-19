@@ -80,20 +80,6 @@ sections:
       image: /images/Announcement/S1_Orient_26__1_.png
       alt: S1 Orient 26
   - infopic:
-      title: Release of 2025 GCE O-Levels Exam Results
-      id: infopic
-      button: Click here to download letters
-      url: /announcements-2026/olevels-2025/download-letters/
-      image: /images/Announcement/olevel_release_25_banner_2.jpg
-      alt: Files
-  - infopic:
-      title: Important Reminder for O-Level Results Collection
-      id: infopic
-      button: Click here to view
-      url: /important-reminder-for-o-level-results-collection/
-      image: /images/Announcement/important_reminder_for_o_level_results_collection.jpg
-      alt: Image alt text
-  - infopic:
       title: Peicai Secondary Open House 2025
       id: infopic
       description: A Celebration of One Peicai Spirit
@@ -303,13 +289,6 @@ sections:
       url: /student-leaders-investiture-2025/
       image: /images/Announcement/Investiture_2025_9.jpg
       alt: Student Leaders' Investiture
-  - infopic:
-      title: International Friendship Day 2025
-      id: infopic
-      button: Click here to view
-      url: /student-development/international-friendship-day-2025/
-      image: /images/Student Development/friendship.jpg
-      alt: IFD 2025
   - infopic:
       title: Signature Community Outreach at Blood Bank HSA
       id: infopic
