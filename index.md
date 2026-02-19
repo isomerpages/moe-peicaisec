@@ -16,13 +16,13 @@ sections:
       alt: Image alt text
       image: /images/Announcement/CNY.jpg
   - infopic:
-      title: Peicai hosts
+      title: Hosting Suanboonyopathum Lamphun School
       id: infopic
-      description: Suanboonyopathum Lamphun School for a cultural immersion
       button: Click here to view
       url: /peicai-hosts-suanboonyopathum-lamphun-school-for-a-cultural-immersion
       image: /images/Announcement/Peicai_hosts_Suanboonyopathum_Lamphun_pic_1.jpg
       alt: Image alt text
+      subtitle: Peicai
   - infopic:
       title: Outstanding Achievements in SMC & AMO 2025
       id: infopic
