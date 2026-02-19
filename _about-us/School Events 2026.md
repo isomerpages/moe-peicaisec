@@ -303,6 +303,17 @@ and look forward to the next chapter of friendship and collaboration.</p>
 <p></p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
@@ -654,6 +665,48 @@ Polytechnic representative).</p>
 <p>The school expresses its sincere appreciation to parents for their unwavering
 support and looks forward to continued collaboration in fostering students’
 growth and development.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>Sec One Orientation 2026</h4>
 <p>The Sec One Orientation Programme 2026 warmly welcomed our newest students
 into the school community through a vibrant and engaging series of activities
@@ -963,6 +1016,14 @@ and care shown by our Orientation Group Leaders (OGLs).</p>
 <td rowspan="1" colspan="1">
 <p><em>Sec One Orientation 2026 Orientation Group Leaders</em>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
