@@ -9,6 +9,13 @@ sections:
   - hero:
       background: /images/Banner/Main_Banner_Main_1F.jpg
   - infopic:
+      title: PCSS CNY 2026
+      id: infopic
+      button: Click here to view
+      url: https://www.youtube.com/watch?v=SYMVEysGbx4
+      alt: Image alt text
+      image: /images/Announcement/CNY.jpg
+  - infopic:
       title: Outstanding Achievements in SMC & AMO 2025
       id: infopic
       button: Click here to view
@@ -399,10 +406,4 @@ sections:
       title: Announcements
       subtitle: PEICAI SECONDARY SCHOOL
       button: More details
-  - infopic:
-      title: PCSS CNY 2026
-      id: infopic
-      button: Click here to view
-      url: https://www.youtube.com/watch?v=SYMVEysGbx4
-      alt: Image alt text
 ---
