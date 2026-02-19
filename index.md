@@ -16,6 +16,14 @@ sections:
       alt: Image alt text
       image: /images/Announcement/CNY.jpg
   - infopic:
+      title: Peicai hosts
+      id: infopic
+      description: Suanboonyopathum Lamphun School for a cultural immersion
+      button: Click here to view
+      url: /peicai-hosts-suanboonyopathum-lamphun-school-for-a-cultural-immersion
+      image: /images/Announcement/Peicai_hosts_Suanboonyopathum_Lamphun_pic_1.jpg
+      alt: Image alt text
+  - infopic:
       title: Outstanding Achievements in SMC & AMO 2025
       id: infopic
       button: Click here to view
@@ -402,14 +410,6 @@ sections:
       url: https://www.instagram.com/reel/DCirEYkzopk/?igsh=c3piM3UwenVtcDE5
       image: /images/Announcement/The_Sphere_copy.jpg
       alt: The Sphere
-  - infopic:
-      title: Peicai hosts
-      id: infopic
-      description: Suanboonyopathum Lamphun School for a cultural immersion
-      button: Click here to view
-      url: /peicai-hosts-suanboonyopathum-lamphun-school-for-a-cultural-immersion
-      image: /images/Announcement/Peicai_hosts_Suanboonyopathum_Lamphun_pic_1.jpg
-      alt: Image alt text
   - resources:
       title: Announcements
       subtitle: PEICAI SECONDARY SCHOOL
