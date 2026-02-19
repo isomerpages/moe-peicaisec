@@ -399,4 +399,10 @@ sections:
       title: Announcements
       subtitle: PEICAI SECONDARY SCHOOL
       button: More details
+  - infopic:
+      title: PCSS CNY 2026
+      id: infopic
+      button: Click here to view
+      url: https://www.youtube.com/watch?v=SYMVEysGbx4
+      alt: Image alt text
 ---
