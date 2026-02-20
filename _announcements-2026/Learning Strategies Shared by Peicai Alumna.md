@@ -23,7 +23,7 @@ and reflections from her transition to Raffles JC.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sharing by Peicai Alumni, Kerthana who graduated from Peicai in 2023.</p>
+<p>Sharing by Peicai Alumna, Kerthana who graduated from Peicai in 2023.</p>
 </td>
 </tr>
 <tr>
