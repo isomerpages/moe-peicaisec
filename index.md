@@ -9,19 +9,19 @@ sections:
   - hero:
       background: /images/Banner/Main_Banner_Main_1F.jpg
   - infopic:
-      title: Total Defence Day 2026
-      id: infopic
-      button: Click here to view
-      url: /total-defence-day-2026/
-      image: /images/Announcement/total_defence_26_cover.jpg
-      alt: TTD26
-  - infopic:
       title: PCSS CNY 2026
       id: infopic
       button: Click here to view
       url: https://www.youtube.com/watch?v=SYMVEysGbx4
       alt: Image alt text
       image: /images/Announcement/CNY.jpg
+  - infopic:
+      title: Total Defence Day 2026
+      id: infopic
+      button: Click here to view
+      url: /total-defence-day-2026/
+      image: /images/Announcement/total_defence_26_cover.jpg
+      alt: TTD26
   - infopic:
       title: Hosting Suanboonyopathum Lamphun School
       id: infopic
