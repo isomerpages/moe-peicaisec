@@ -9,6 +9,13 @@ sections:
   - hero:
       background: /images/Banner/Main_Banner_Main_1F.jpg
   - infopic:
+      title: Learning Strategies Shared by Peicai Alumna
+      id: infopic
+      button: Click here to view
+      url: /learning-strategies-shared-by-peicai-alumna/
+      image: /images/Announcement/pcss_alumuni_26_cover.jpg
+      alt: PCSS_Alumna_26
+  - infopic:
       title: PCSS CNY 2026
       id: infopic
       button: Click here to view
