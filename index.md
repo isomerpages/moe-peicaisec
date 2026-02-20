@@ -95,13 +95,6 @@ sections:
       image: /images/Announcement/acc26_openhse25_2.jpg
       alt: PCSS Open House 2025
   - infopic:
-      title: Secondary One Registration 2026
-      id: infopic
-      button: Click here to find out more
-      url: /sec-one-registration-2026/welcome-letter-by-principal/
-      image: /images/Secondary One Registration/sec_1_reg_2026_poster.jpg
-      alt: Open House 2025 Programmes
-  - infopic:
       title: School Corporate Video
       id: infopic
       button: Click here to view
