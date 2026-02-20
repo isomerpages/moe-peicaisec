@@ -4,6 +4,483 @@ permalink: /school-events-2026/
 variant: tiptap
 description: ""
 ---
+<h4>Total Defence Day 2026</h4>
+<p>Peicai commemorated Total Defence Day 2026 on 9<sup> </sup>February through
+engaging and interactive activities that helped students understand their
+role in safeguarding Singapore’s security in an increasingly digital world.</p>
+<p>During the morning flag-raising ceremony, student presenters highlighted
+how modern threats have evolved to include cyber-attacks, system disruptions,
+and power outages. They reminded the student body of the National Education
+message: that we must ourselves defend Singapore, as our security and well-being
+cannot be left to others but depend on the choices and actions of each
+of us.</p>
+<p>Singapore’s security rely on all of us, and everyone has a role to play
+in defending the nation through responsible choices and actions.</p>
+<p>Total Defence Day also marks a historical moment over 80 years ago, when
+Singapore fell to the Japanese military during World War II. We commemorate
+this event annually as a reminder of our collective responsibility to keep
+our nation safe and sovereign. Today, while threats may take new forms
+through technology and digital systems, the importance of vigilance and
+personal responsibility remains unchanged.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcement/total_defence_26_1.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Student presenters, Zoe (2AY) and Caleigh (4EE) presenting on the significance
+of Total Defence Day during morning flag-raising</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcement/total_defence_26_2.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Learning in action: Students discover how they can contribute to Singapore’s
+Total Defence.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>During CCE lessons, lower secondary students participated in stakeholder
+games and interactive flipchart discussions. By exploring how disruptions
+affect different members of society, they developed empathy and gained
+a deeper appreciation of how individual actions contribute to collective
+preparedness.</p>
+<p>Upper secondary students engaged in stakeholder simulations, assuming
+specific roles and responding to crisis scenarios. The highlight was the
+“Hot Seat” activity, where students shared response strategies while their
+peers asked thoughtful questions, strengthening both their critical thinking
+and communication skills.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcement/total_defence_26_3.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher facilitating a class discussion on potential digital disruptions
+in Singapore fostering critical thinking and awareness of cyber and system-related
+risks.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcement/total_defence_26_4.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Students showcasing communication, collaboration, and inventive thinking
+skills during the Stakeholder Game and interactive Flipchart activity on
+Digital Disruption.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcement/total_defence_26_5.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Students demonstrated communication and critical thinking skills as they
+present their stakeholder’s perspective to the class during the “Hot Seat”
+activity</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>These meaningful experiences deepened students’ understanding of Total
+Defence and strengthened their sense of responsibility, empowering them
+to contribute in building a resilient and prepared nation.</p>
+<p></p>
+<h4>Peicai hosts Suanboonyopathum Lamphun School for a cultural immersion</h4>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Peicai hosts Suanboonyopathum Lamphun pic 1" src="/images/Announcement/Peicai_hosts_Suanboonyopathum_Lamphun_pic_1.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>On 6 February 2026, Peicai welcomed the Principal, teachers and students
+from Suanboonyopathum Lamphun School, Thailand, for a meaningful afternoon
+of cultural exchange and learning. The visit reflected the thoughtful planning
+and collaboration between both schools, as well as the initiative and enthusiasm
+shown by our OSEP Thailand 2025 team, who ensured that their Thai counterparts
+experienced the warmth, hospitality and vibrant spirit of Peicai.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>An Afternoon of Connection, Learning, and Play</strong>
+</p>
+<p>Upon arrival, our Thai guests were warmly welcomed by the OSEP Thailand
+2025 team with a thoughtful welcome gift of local snacks and handmade letters.
+Each letter, carefully crafted by our students, expressed heartfelt greetings
+and excitement for the visit, setting a tone of genuine hospitality from
+the outset. The local snacks offered a taste of Singapore's culinary diversity,
+serving as both a gesture of friendship and a small introduction to the
+flavours that make our food culture unique. These personal touches reflected
+the care and effort our students invested in making their guests feel at
+home, embodying the spirit of graciousness and cultural pride that defines
+Peicai.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Peicai hosts Suanboonyopathum Lamphun pic 2B" src="/images/Announcement/Peicai_hosts_Suanboonyopathum_Lamphun_pic_2B.jpg">
+</div>
+<p></p>
+<p>Thai teachers on a guided tour of Peicai’s state-of-the-art library facilities.</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Over the course of three hours, our Thai guests were then immersed in
+various aspects of school life at Peicai. They observed lessons in our
+Math PinnaCle and Science PinnaCle programmes, gaining insight into how
+we nurture academic talent and foster critical thinking among our students.
+These observations provided a window into the rigour and creativity that
+define our approach to developing future-ready learners. It also stimulated
+conversations on both schools’ best academic practices, creating excitement
+for Peicai's upcoming visit to Lamphun in October 2026.&nbsp;</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Peicai hosts Suanboonyopathum Lamphun pic 3" src="/images/Announcement/Peicai_hosts_Suanboonyopathum_Lamphun_pic_3.jpg">
+</div>
+<p>Thai teachers and students engaging in a Science PinnaCle lesson in the
+laboratory, developing critical thinking, collaboration, and problem-solving
+skills through hands-on experiments.</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Beyond the classroom, students bonded through friendly sports exchanges
+in frisbee and captain's ball. Laughter and teamwork transcended language
+barriers as both sides played with and against each other. With such an
+electrifying atmosphere of cheers, both schools displayed the spirit of
+collaboration and adaptability central to Peicai's holistic development
+of our students.&nbsp;</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Peicai hosts Suanboonyopathum Lamphun pic 4" src="/images/Announcement/Peicai_hosts_Suanboonyopathum_Lamphun_pic_4.jpg">
+</div>
+<p>Peicai and Suanboonyopathum students playing on mixed teams during the
+Frisbee Games fostering collaboration, communication, and teamwork skills</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Celebrating Culture Through Performances</strong>
+</p>
+<p>A highlight of the visit was the performances by both schools. <em>Suanboonyopathum</em> kickstarted
+the exchange with a traditional Thai dance. Dressed in gold and adorned
+with flowers, the Thai students embodied Thailand's renowned passion for
+its traditional arts and culture.&nbsp;</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Peicai hosts Suanboonyopathum Lamphun pic 5" src="/images/Announcement/Peicai_hosts_Suanboonyopathum_Lamphun_pic_5.jpg">
+</div>
+<p>Thai students performing a traditional dance to express gratitude, showcasing
+cultural awareness and appreciation for Peicai’s warm hospitality.</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Our OSEP Thailand 2025 team expressed their appreciation with a self-choreographed
+dance to a lively Thai-Korean pop medley, followed by a heartfelt rendition
+of a Thai song. The performances were met with enthusiastic applause and
+appreciation, serving as a bridge between cultures and a testament to the
+students' dedication and creativity.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Peicai hosts Suanboonyopathum Lamphun pic 6" src="/images/Announcement/Peicai_hosts_Suanboonyopathum_Lamphun_pic_6.jpg">
+</div>
+<p>The OSEP Thailand 2025 team performing their self-choreographed dance
+medley, showcasing creativity and teamwork.</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>For Peicaians, the chance to perform for their Thai guests was not only
+an expression of respect and hospitality but also an opportunity to deepen
+their own civic, global, and cross-cultural literacy.</p>
+<p><strong>Building Bridges, Looking Forward</strong>
+</p>
+<p>Though the visit was short, it left a lasting impression on both students
+and teachers. The exchange reinforced key values such as empathy, open-mindedness,
+and adaptability qualities that are essential as our students navigate
+an increasingly interconnected and digitalised world. For our OSEP team,
+hosting their Thai counterparts was a valuable opportunity to develop communication,
+leadership, and cultural sensitivity, as they stepped up to guide, engage,
+and welcome our guests with confidence and care.</p>
+<p>The collaboration between Peicai Secondary School and <em>Suanboonyopathum Lamphun School</em> is
+a reminder that meaningful connections can be forged even in the briefest
+encounters. Through exchanges like these, our students are not only learning
+about the world—they are learning to thrive in it, equipped with the skills,
+dispositions, and global perspectives that will serve them well in the
+years to come.</p>
+<p>Peicai continues to look forward to future opportunities to deepen this
+partnership with <em>Suanboonyopathum Lamphun School</em>, and to continue
+building bridges of friendship across borders.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Peicai hosts Suanboonyopathum Lamphun pic 7" src="/images/Announcement/Peicai_hosts_Suanboonyopathum_Lamphun_pic_7.jpg">
+</div>
+<p>A heartfelt send-off as both schools celebrate their shared experiences
+and look forward to the next chapter of friendship and collaboration.</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h4>Peicai’s Parent Engagement Session</h4>
 <p>The school held the Parent Engagement Sessions (PES) on 17 and 24 January
 2026, with face-to-face sessions for the Secondary 1, Secondary 2 and Secondary
@@ -352,6 +829,48 @@ Polytechnic representative).</p>
 <p>The school expresses its sincere appreciation to parents for their unwavering
 support and looks forward to continued collaboration in fostering students’
 growth and development.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>Sec One Orientation 2026</h4>
 <p>The Sec One Orientation Programme 2026 warmly welcomed our newest students
 into the school community through a vibrant and engaging series of activities
@@ -661,6 +1180,14 @@ and care shown by our Orientation Group Leaders (OGLs).</p>
 <td rowspan="1" colspan="1">
 <p><em>Sec One Orientation 2026 Orientation Group Leaders</em>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

@@ -9,6 +9,35 @@ sections:
   - hero:
       background: /images/Banner/Main_Banner_Main_1F.jpg
   - infopic:
+      title: PCSS CNY 2026
+      id: infopic
+      button: Click here to view
+      url: https://www.youtube.com/watch?v=SYMVEysGbx4
+      alt: Image alt text
+      image: /images/Announcement/CNY.jpg
+  - infopic:
+      title: Total Defence Day 2026
+      id: infopic
+      button: Click here to view
+      url: /total-defence-day-2026/
+      image: /images/Announcement/total_defence_26_cover.jpg
+      alt: TTD26
+  - infopic:
+      title: Hosting Suanboonyopathum Lamphun School
+      id: infopic
+      button: Click here to view
+      url: /peicai-hosts-suanboonyopathum-lamphun-school-for-a-cultural-immersion
+      image: /images/Announcement/Peicai_hosts_Suanboonyopathum_Lamphun_pic_1.jpg
+      alt: Image alt text
+      subtitle: Peicai
+  - infopic:
+      title: Outstanding Achievements in SMC & AMO 2025
+      id: infopic
+      button: Click here to view
+      url: /outstanding-achievements-in-smc-amo-2025
+      image: /images/Achievements/Math_award.jpg
+      alt: Image alt text
+  - infopic:
       title: Distinguished Chinese Language Teachers Awards 2026
       id: infopic
       button: Click here to view
@@ -58,20 +87,6 @@ sections:
       image: /images/Announcement/S1_Orient_26__1_.png
       alt: S1 Orient 26
   - infopic:
-      title: Release of 2025 GCE O-Levels Exam Results
-      id: infopic
-      button: Click here to download letters
-      url: /announcements-2026/olevels-2025/download-letters/
-      image: /images/Announcement/olevel_release_25_banner_2.jpg
-      alt: Files
-  - infopic:
-      title: Important Reminder for O-Level Results Collection
-      id: infopic
-      button: Click here to view
-      url: /important-reminder-for-o-level-results-collection/
-      image: /images/Announcement/important_reminder_for_o_level_results_collection.jpg
-      alt: Image alt text
-  - infopic:
       title: Peicai Secondary Open House 2025
       id: infopic
       description: A Celebration of One Peicai Spirit
@@ -79,13 +94,6 @@ sections:
       url: /peicai-secondary-open-house-2025-a-celebration-of-one-peicai-spirit/
       image: /images/Announcement/acc26_openhse25_2.jpg
       alt: PCSS Open House 2025
-  - infopic:
-      title: Secondary One Registration 2026
-      id: infopic
-      button: Click here to find out more
-      url: /sec-one-registration-2026/welcome-letter-by-principal/
-      image: /images/Secondary One Registration/sec_1_reg_2026_poster.jpg
-      alt: Open House 2025 Programmes
   - infopic:
       title: School Corporate Video
       id: infopic
@@ -282,13 +290,6 @@ sections:
       image: /images/Announcement/Investiture_2025_9.jpg
       alt: Student Leaders' Investiture
   - infopic:
-      title: International Friendship Day 2025
-      id: infopic
-      button: Click here to view
-      url: /student-development/international-friendship-day-2025/
-      image: /images/Student Development/friendship.jpg
-      alt: IFD 2025
-  - infopic:
       title: Signature Community Outreach at Blood Bank HSA
       id: infopic
       button: Click here to view
@@ -379,15 +380,6 @@ sections:
       url: /media/announcements/permalink/
       image: /images/Announcement/PCSS_Partnering_Apple_in_our_Applied_Learning_Programme_2.jpg
       alt: Image alt text
-  - infopic:
-      title: The Sphere
-      id: infopic
-      description: A place for you to Synergise, Explore the World of Science and
-        Technology.
-      button: Click here to view
-      url: https://www.instagram.com/reel/DCirEYkzopk/?igsh=c3piM3UwenVtcDE5
-      image: /images/Announcement/The_Sphere_copy.jpg
-      alt: The Sphere
   - resources:
       title: Announcements
       subtitle: PEICAI SECONDARY SCHOOL
