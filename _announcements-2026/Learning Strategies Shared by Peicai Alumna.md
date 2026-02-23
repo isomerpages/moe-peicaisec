@@ -4,7 +4,7 @@ permalink: /learning-strategies-shared-by-peicai-alumna/
 variant: tiptap
 description: ""
 ---
-<p>Peicai Secondary School was delighted to host an alumni sharing session
+<p>Peicai Secondary School was delighted to host an alumna sharing session
 on campus, featuring our alumna Shankar Kerthana, who graduated in 2023.
 She shared practical study tips, insights on maintaining a positive mindset,
 and reflections from her transition to Raffles JC.</p>
@@ -17,7 +17,7 @@ and reflections from her transition to Raffles JC.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcement/pcss_alumuni_26_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Kerthana img 1" src="/images/Announcement/Kerthana_img_1.jpg">
 </div>
 </td>
 </tr>
@@ -93,9 +93,9 @@ strategies they could adopt immediately.</p>
 </tr>
 </tbody>
 </table>
-<p>Beyond academics, Kerthana spoke candidly about cultivating a positive
-and resilient mindset. She encouraged students to view challenges as opportunities
-for growth, to remain disciplined during demanding periods, and to believe
+<p>Beyond academics, Kerthana spoke about cultivating a positive and resilient
+mindset. She encouraged students to view challenges as opportunities for
+growth, to remain disciplined during demanding periods, and to believe
 in steady progress rather than quick results. Her message resonated strongly
 with the audience, reminding them that perseverance and self-belief are
 just as vital as technique.</p>
@@ -129,3 +129,4 @@ Secondary School.</p>
 the teachers who guided and supported her throughout her years at Peicai.
 Her appreciation underscored the lasting impact of dedicated educators
 and the strong bonds within the Peicai community.</p>
+<p></p>
