@@ -2,6 +2,7 @@ collections:
   announcements-2026:
     output: true
     order:
+      - Chinese New Year Celebrations.md
       - Learning Strategies Shared by Peicai Alumna.md
       - Total Defence Day 2026.md
       - Peicai hosts Suanboonyopathum Lamphun School for a cultural immersion.md
