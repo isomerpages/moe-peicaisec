@@ -9,6 +9,20 @@ sections:
   - hero:
       background: /images/Banner/Main_Banner_Main_1F.jpg
   - infopic:
+      title: Sports Day, OSEP & AI Assembly Talk
+      id: infopic
+      button: Click here to view
+      url: /sports-day-osep-ai-assembly-talk/
+      image: /images/Announcement/250226_Assemblytalk_2.jpg
+      alt: Assembly26
+  - infopic:
+      title: Chinese New Year Celebrations
+      id: infopic
+      button: Click here to view
+      url: /chinese-new-year-celebrations/
+      image: /images/Announcement/cny_celeb_26_13.png
+      alt: CNY 26
+  - infopic:
       title: Learning Strategies Shared by Peicai Alumna
       id: infopic
       button: Click here to view
