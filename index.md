@@ -14,6 +14,7 @@ sections:
       button: Click here to view
       url: /sports-day-osep-ai-assembly-talk/
       image: /images/Announcement/250226_Assemblytalk_2.jpg
+      alt: Assembly26
   - infopic:
       title: Chinese New Year Celebrations
       id: infopic
