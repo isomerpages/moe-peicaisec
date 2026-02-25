@@ -9,6 +9,12 @@ sections:
   - hero:
       background: /images/Banner/Main_Banner_Main_1F.jpg
   - infopic:
+      title: Sports Day, OSEP & AI Assembly Talk
+      id: infopic
+      button: Click here to view
+      url: /sports-day-osep-ai-assembly-talk/
+      image: /images/Announcement/250226_Assemblytalk_2.jpg
+  - infopic:
       title: Chinese New Year Celebrations
       id: infopic
       button: Click here to view
