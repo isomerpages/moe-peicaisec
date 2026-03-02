@@ -355,6 +355,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Toh Shufen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Administration Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:toh_shufen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>toh_shufen@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Richard Han</p>
 </td>
 <td rowspan="1" colspan="1">
