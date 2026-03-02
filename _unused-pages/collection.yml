@@ -2,6 +2,7 @@ collections:
   unused-pages:
     output: true
     order:
+      - Breakfast with Principal 2026.md
       - Code of.md
       - School Events 2025.md
       - Staff.md
