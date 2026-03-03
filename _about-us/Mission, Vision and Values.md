@@ -8,7 +8,7 @@ variant: tiptap
 <p><strong>Mission<br></strong>To nurture Learners, Thinkers and Leaders
 with the competencies, dispositions and values to thrive in an ever-evolving
 world.</p>
-<p><strong>Motto<br></strong>We make the difference</p>
+<p><strong>Motto<br></strong>We make the difference.</p>
 <p><strong>Values (PR²IDE) <br></strong>Perseverance
 <br>Respect and Responsibility
 <br>Integrity
