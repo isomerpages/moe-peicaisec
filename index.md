@@ -9,6 +9,20 @@ sections:
   - hero:
       background: /images/Banner/Main_Banner_Main_1F.jpg
   - infopic:
+      title: Athletes Oath Taking Ceremony 2026
+      id: infopic
+      button: Click here to view
+      url: /athletes-oath-taking-ceremony-2026/
+      image: /images/Announcement/Athletes_Oath_taking_Ceremony_26_Cover.jpg
+      alt: Athletes Oath 26
+  - infopic:
+      title: Singapore Science & Engineering Festival (SSEF) 2026
+      id: infopic
+      button: Click here to view
+      url: /singapore-science-engineering-festival-ssef-2026/
+      image: /images/Announcement/SSEF_26_Cover.jpg
+      alt: SSEF 2026
+  - infopic:
       title: Sports Day, OSEP & AI Assembly Talk
       id: infopic
       button: Click here to view
