@@ -30,7 +30,7 @@ sections:
       image: /images/Announcement/250226_Assemblytalk_2.jpg
       alt: Assembly26
   - infopic:
-      title: Breakfast with Principal
+      title: Breakfast with Principal 2026
       id: infopic
       description: Welcoming Our Secondary 1 Parents
       button: Click here to view
