@@ -419,4 +419,12 @@ sections:
       title: Announcements
       subtitle: PEICAI SECONDARY SCHOOL
       button: More details
+  - infopic:
+      title: Breakfast with Principal
+      id: infopic
+      description: Welcoming Our Secondary 1 Parents
+      button: Click here to view
+      url: /breakfast-with-principal/
+      image: /images/Announcement/Breakfast_with_Principal_Group_photo.jpg
+      alt: Image alt text
 ---
