@@ -403,13 +403,6 @@ sections:
       alt: SSEF
       image: /images/Achievements/SSEF_banner.png
   - infopic:
-      title: Breakfast with Principal 2025
-      id: infopic
-      button: Click here to find out more
-      url: /breakfast-with-principal-2025/
-      image: /images/Announcement/DSC_6579_copy.jpg
-      alt: Breakfast with Principal 2025
-  - infopic:
       title: Real World Co-design Platform (RWCDP)
       id: infopic
       button: Click here to view
