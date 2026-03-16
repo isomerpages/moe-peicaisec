@@ -9,6 +9,14 @@ sections:
   - hero:
       background: /images/Banner/Main_Banner_Main_1F.jpg
   - infopic:
+      title: World Thinking Day 100 Celebrations
+      subtitle: Pcss Girl Guides Commemorate
+      id: infopic
+      button: Click here to view
+      url: /world-thinking-day-100-celebrations/
+      image: /images/Announcement/GG_1.jpg
+      alt: Image alt text
+  - infopic:
       title: Athletes Oath Taking Ceremony 2026
       id: infopic
       button: Click here to view
