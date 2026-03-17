@@ -4,7 +4,7 @@ permalink: /world-thinking-day-100-celebrations/
 variant: tiptap
 description: ""
 ---
-<h4><strong>Peicai Girl Guides Commemorate World Thinking Day 100</strong></h4>
+<h4>Peicai Girl Guides Commemorate World Thinking Day 100</h4>
 <p>The Peicai Girl Guides proudly commemorated the 100th anniversary of World
 Thinking Day in February, a significant occasion celebrated by Girl Guides
 and Girl Scouts around the world. This special day recognises the values
