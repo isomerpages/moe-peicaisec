@@ -9,6 +9,14 @@ sections:
   - hero:
       background: /images/Banner/Main_Banner_Main_1F.jpg
   - infopic:
+      title: World Thinking Day 100 Celebrations
+      subtitle: Pcss Girl Guides Commemorate
+      id: infopic
+      button: Click here to view
+      url: /world-thinking-day-100-celebrations/
+      image: /images/Announcement/GG_1.jpg
+      alt: Image alt text
+  - infopic:
       title: Athletes Oath Taking Ceremony 2026
       id: infopic
       button: Click here to view
@@ -29,6 +37,14 @@ sections:
       url: /sports-day-osep-ai-assembly-talk/
       image: /images/Announcement/250226_Assemblytalk_2.jpg
       alt: Assembly26
+  - infopic:
+      title: Breakfast with Principal 2026
+      id: infopic
+      description: Welcoming Our Secondary 1 Parents
+      button: Click here to view
+      url: /breakfast-with-principal/
+      image: /images/Announcement/Breakfast_with_Principal_Group_photo.jpg
+      alt: Image alt text
   - infopic:
       title: Chinese New Year Celebrations
       id: infopic
@@ -394,13 +410,6 @@ sections:
       url: /singapore-science-and-engineering-fair-ssef/
       alt: SSEF
       image: /images/Achievements/SSEF_banner.png
-  - infopic:
-      title: Breakfast with Principal 2025
-      id: infopic
-      button: Click here to find out more
-      url: /breakfast-with-principal-2025/
-      image: /images/Announcement/DSC_6579_copy.jpg
-      alt: Breakfast with Principal 2025
   - infopic:
       title: Real World Co-design Platform (RWCDP)
       id: infopic
