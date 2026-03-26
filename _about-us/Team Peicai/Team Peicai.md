@@ -504,10 +504,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Goh Jin Lee (Damien)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:goh_jin_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_jin_lee@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -848,10 +849,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Val Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:val_tan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">val_tan@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -931,10 +933,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Franlyn Seah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:franlyn_seah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">franlyn_seah@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -951,10 +954,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Ng Xin Yi, Fyra Feliesya</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ng_xin_yi_fyra@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_xin_yi_fyra@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
