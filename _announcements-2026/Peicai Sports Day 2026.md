@@ -89,10 +89,41 @@ second year in the running, the event commenced to much aplomb.&nbsp;</p>
 In the Lower Secondary category, Calista Tan from 1CE, who is currently
 in the SP-CCA Athletics team, completed a double, defeating close rival
 Ho Jia Xin from 2CN in a tight contest.</p>
-<p></p>
 <p>In the Upper Secondary category, 3AY’s very own Ashley Su has cemented
 her position as the sprint queen when she took gold in both the 100m and
 200m events, breaking both records. On top of that, Ashley shaved 4 seconds
 off the previous 200m sprint record, coming in at 28.22 Secs.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="Sports Day pic 4" src="/images/Announcement/Sports_day_writeup_pic_4.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><em>Ashley cutting a lone figure as she approaches the finishing line</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
