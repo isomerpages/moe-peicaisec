@@ -424,10 +424,6 @@ sections:
       url: /media/announcements/permalink/
       image: /images/Announcement/PCSS_Partnering_Apple_in_our_Applied_Learning_Programme_2.jpg
       alt: Image alt text
-  - resources:
-      title: Announcements
-      subtitle: PEICAI SECONDARY SCHOOL
-      button: More details
   - infopic:
       title: Peicai Sports Day 2026
       id: infopic
@@ -436,4 +432,8 @@ sections:
       url: /peicai-sports-day-2026/
       image: /images/Announcement/Sportsday_writeup_pic_7.jpg
       alt: Image alt text
+  - resources:
+      title: Announcements
+      subtitle: PEICAI SECONDARY SCHOOL
+      button: More details
 ---
