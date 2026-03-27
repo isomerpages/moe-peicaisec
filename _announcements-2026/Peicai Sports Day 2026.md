@@ -126,4 +126,39 @@ off the previous 200m sprint record, coming in at 28.22 Secs.</p>
 </tr>
 </tbody>
 </table>
+<p>Secs, securing his name on the records board and eclipsing Kan Zhe Rui’s
+previous record of 11.91 Secs.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Sports day pic 5A" src="/images/Announcement/Sportsday_writeup_pic_5A.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><em>Keith (4EE, Orange, Center) holding the gold with GOH, Ms Veronica Shanti Pereira</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
