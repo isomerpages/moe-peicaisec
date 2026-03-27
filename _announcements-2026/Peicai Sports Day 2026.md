@@ -161,4 +161,80 @@ previous record of 11.91 Secs.</p>
 </tr>
 </tbody>
 </table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Sports day pic 6 A" src="/images/Announcement/Sportsday_writeup_pic_6_A.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><em>Parents Teams A and B with EL Department taking the podium!</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>At the end of the event, our esteemed guest of honour, Asian Sprint Queen
+Ms Shanti Veronica Pereira, who interacted with all student athletes and
+parents as well, shared a few words of inspiration to encourage Peicaians
+to aspire to break their barriers, overcome challenges and dream bigger,
+before giving out many of the prizes to all award winners.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Sports day pic 7" src="/images/Announcement/Sportsday_writeup_pic_7.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><em>Our School Leaders with Ms Shanti Veronica Pereira</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Our Principal Mr Michael then capped off the wonderful event by applauding
+the efforts of the various classes in bringing up class spirit by cheering
+on their classmates with poms-poms, support placards and even banner flags
+of their classes.</p>
+<p></p>
+<p>We look forward to the next edition in 2027! &nbsp;</p>
