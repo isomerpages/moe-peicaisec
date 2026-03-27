@@ -428,4 +428,12 @@ sections:
       title: Announcements
       subtitle: PEICAI SECONDARY SCHOOL
       button: More details
+  - infopic:
+      title: Peicai Sports Day 2026
+      id: infopic
+      description: "Guest-of-Honour : Veronica Shanti Pereira, Bishan Stadium."
+      button: Click here to view
+      url: /peicai-sports-day-2026/
+      image: /images/Announcement/Sportsday_writeup_pic_7.jpg
+      alt: Image alt text
 ---
