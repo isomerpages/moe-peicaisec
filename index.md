@@ -9,6 +9,14 @@ sections:
   - hero:
       background: /images/Banner/Main_Banner_Main_1F.jpg
   - infopic:
+      title: Peicai Sports Day 2026
+      id: infopic
+      description: "Guest-of-Honour : Veronica Shanti Pereira, Bishan Stadium."
+      button: Click here to view
+      url: /peicai-sports-day-2026/
+      image: /images/Announcement/Sportsday_writeup_pic_7.jpg
+      alt: Image alt text
+  - infopic:
       title: World Thinking Day 100 Celebrations
       subtitle: Pcss Girl Guides Commemorate
       id: infopic
