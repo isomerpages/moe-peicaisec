@@ -11,5 +11,5 @@ variant: tiptap
 download</p>
 <p><strong>Term 2 (caa 9 March 2026)</strong>
 </p>
-<p>Click <a href="/files/2026/Students_Calendar_caa_9_March_2026_Term2.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+<p>Click <a href="/files/2026/Students__Calendar_2026__caa_30_Mar_2026____Term_2.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 download</p>
