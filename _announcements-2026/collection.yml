@@ -2,6 +2,8 @@ collections:
   announcements-2026:
     output: true
     order:
+      - Hari Raya Concert 2026.md
+      - Softball Carnival 2026.md
       - Peicai Sports Day 2026.md
       - World Thinking Day 100 Celebrations.md
       - Athletes Oath Taking Ceremony 2026.md
