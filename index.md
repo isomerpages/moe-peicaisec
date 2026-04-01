@@ -16,6 +16,13 @@ sections:
       image: /images/Announcement/Softball_Carnival_2026_A_Winning_Finish_for_Team_Peicai.jpg
       alt: Image alt text
   - infopic:
+      title: Hari Raya Concert 2026
+      id: infopic
+      button: Click here to view
+      url: /hari-raya-concert-2026/
+      image: /images/Announcement/Hari_Raya_Celebration_cover_page_1.jpg
+      alt: Image alt text
+  - infopic:
       title: Peicai Sports Day 2026
       id: infopic
       description: "Guest-of-Honour : Veronica Shanti Pereira, Bishan Stadium."
@@ -443,11 +450,4 @@ sections:
       title: Announcements
       subtitle: PEICAI SECONDARY SCHOOL
       button: More details
-  - infopic:
-      title: Infopic
-      id: infopic
-      button: Click here to view
-      url: /hari-raya-concert-2026/
-      image: /images/Announcement/Hari_Raya_Celebration_cover_page_1.jpg
-      alt: Image alt text
 ---
