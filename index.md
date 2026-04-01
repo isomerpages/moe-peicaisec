@@ -443,4 +443,11 @@ sections:
       title: Announcements
       subtitle: PEICAI SECONDARY SCHOOL
       button: More details
+  - infopic:
+      title: Infopic
+      id: infopic
+      button: Click here to view
+      url: /hari-raya-concert-2026/
+      image: /images/Announcement/Hari_Raya_Celebration_cover_page_1.jpg
+      alt: Image alt text
 ---
