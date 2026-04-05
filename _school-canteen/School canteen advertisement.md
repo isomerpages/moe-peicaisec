@@ -41,8 +41,8 @@ description: ""
 </tbody>
 </table>
 <p>Application Procedure</p>
-<p>1. Download and complete the application form. <a href="/files/2026/Application_for_Canteen_Stall_FormBF7.pdf" rel="noopener" target="_blank">Application Form</a>
-<a href="/files/canappbf7.pdf" rel="noopener" target="_blank"></a>You may also request for a hardcopy from the School’s General Office.
+<p>1. Download and complete the application form. <a href="/files/2026/Application_for_Canteen_Stall_FormBF7.pdf" rel="noopener" target="_blank">Application Form</a>You
+may also request for a hardcopy from the School’s General Office.
 <br>
 <br>2. Attached the following documents together with the application form:
 <br>• Photocopy of the NRIC (front and back)
