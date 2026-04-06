@@ -9,6 +9,14 @@ sections:
   - hero:
       background: /images/Banner/Main_Banner_Main_1F.jpg
   - infopic:
+      title: School Canteen Advertisement
+      id: infopic
+      description: Western Food Stall
+      button: click here to view
+      url: /school-canteen-advertisement/school-canteen-advertisement/
+      image: /images/Announcement/School_Cafeteria_Banner.jpg
+      alt: Image alt text
+  - infopic:
       title: Softball Carnival 2026
       id: infopic
       button: Click here to view
