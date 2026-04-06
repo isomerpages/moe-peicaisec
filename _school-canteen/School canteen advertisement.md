@@ -53,14 +53,13 @@ etc
 <br>3. Submit the completed application form and documents via email to peicai_ss@moe.edu.sg
 OR to the School’s General Office.
 <br>• Address : 10 Serangoon Ave 4 Singapore (556094)
-<br>• Contact No. : 6288 4159
+<br>• Contact No. : 6202 1260
 <br>• Email: <a href="mailto:peicai_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">peicai_ss@moe.edu.sg</a>
 <br>
 </p>
 <p>How to get there?</p>
 <p>• Serangoon MRT &amp; Lorong Chuan MRT
-<br>• Bus number: No. 22, 24, 43, 53, 105, 156, 315, 853, 70, 76, 103, 147,
-156, 136, 103W, 317</p>
+<br>• Bus number: No. 22, 24, 53, 109, 109A, 156, 315, 853, 853M</p>
 <p>Interested applicants must meet the following criteria:</p>
 <p>• Singapore Citizen or Singapore Permanent Resident (SPR) for stallholder
 and stall assistant.
