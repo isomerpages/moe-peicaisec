@@ -45,12 +45,53 @@ set-up of answers to 3-security challenge questions. Please follow the
 instructions found here to do so. If you are unable to perform the set-up
 or your MIMS account is locked, please contact your Form-teacher(s) or
 IT personnel at E3-02.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/posters_mims_sspr_guide.pdf" rel="noopener noreferrer nofollow" target="_blank">1. Student iCON/ MIMS account Password Self-Reset Instructions</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/student_icon_onboarding_guide_sec_school.pdf" rel="noopener noreferrer nofollow" target="_blank">2.Student iCON Onboarding Guide_Sec Schs</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/pcssrequestloi" rel="noopener nofollow" target="_blank">3.Application for Letter of Identification (FormSG: https://go.gov.sg/pcssloi)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/pcssref" rel="noopener nofollow" target="_blank">4.Application for Letter of Recommendation/ Reference (FormSG: https://go.gov.sg/pcssref)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 </li>
 </ol>
-<p><a href="/files/posters_mims_sspr_guide.pdf" rel="noopener noreferrer nofollow" target="_blank">1. Student iCON/ MIMS account Password Self-Reset Instructions</a>
-<br><a href="/files/student_icon_onboarding_guide_sec_school.pdf" rel="noopener noreferrer nofollow" target="_blank">2.Student iCON Onboarding Guide_Sec Schs</a>
-<br><a href="https://go.gov.sg/pcssrequestloi" rel="noopener nofollow" target="_blank">3.Application for Letter of Identification (FormSG: https://go.gov.sg/pcssloi)</a>
-<br><a href="https://go.gov.sg/pcssref" rel="noopener nofollow" target="_blank">4.Application for Letter of Recommendation/ Reference (FormSG: https://go.gov.sg/pcssref)</a>
+<p>
+<br>
+<br>
+<br>
 </p>
 <hr>
 <p></p>
