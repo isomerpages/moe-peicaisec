@@ -88,12 +88,6 @@ IT personnel at E3-02.</p>
 </table>
 </li>
 </ol>
-<p>
-<br>
-<br>
-<br>
-</p>
-<hr>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
