@@ -285,6 +285,79 @@ question and examine issues and principles related to a particular content
 and articulate different points-of-view.</p>
 </li>
 </ul>
+<h4><strong>2026</strong></h4>
+<h4><strong>The Albatross Files Exhibition Learning Journey </strong></h4>
+<p>Students from the Secondary Four Pure History cohort embarked on an enriching
+learning journey exploring one of Singapore’s most pivotal moments — the
+Separation from Malaysia — through the newly revealed Albatross File exhibition.
+Hosted at the National Archives Museum, the exhibition offered fresh insights
+into the political and social circumstances surrounding Singapore’s independence,
+bringing history to life in a dynamic and interactive setting.</p>
+<p>Students were particularly captivated by the innovative use of AI chatbots
+that simulated conversations with key historical figures from the 1960s.
+These engaging digital companions guided them through archival documents,
+rare footage, and personal correspondences, deepening their understanding
+of the challenges faced by Singapore’s leaders during that tumultuous period.</p>
+<p>The experience reinforced the relevance of historical inquiry beyond textbooks,
+encouraging students to think critically about how past events continue
+to shape Singapore’s national identity today. By the end of the journey,
+students expressed a newfound appreciation for the resilience and foresight
+of Singapore’s early leaders — and an eagerness to continue uncovering
+the stories that define the nation’s heritage.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="The Albatross Files Exhibition Learning Journey pic 1" src="/images/Academic/The_Albatross_Files_Exhibition_Learning_Journey_pic_1.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Edelia Phua 4CN</strong>: From the albatross file exhibition,
+I got to read more in depth about how Singapore and Malaya got separated.
+This exhibition was extra special, as I got to see the actual letters and
+documents brought down from the olden days. It helped me better understand
+the cause and impact on both Malaya and Singapore, during and after the
+separation.</p>
+<p><strong>Ho Jing Wen 4CN</strong>: I learned a lot from the Albatross File
+Exhibition learning journey. Since young, I had always been taught that
+Singapore was kicked out of Malaya and that the separation was not planned
+at all. However, after attending the learning journey, I discovered a different
+perspective which was Singapore had planned the separation with Malaya
+and that it was not as sudden as I once thought. The interactive exhibition
+and well produced short films helped me better understand how the separation
+came about, and I also had the opportunity to read actual letters written
+during that period, which made the experience more meaningful and authentic.
+Overall, I really enjoyed the learning journey as it deepened my understanding
+of Singapore’s history and allowed me to see it from a new perspective.</p>
+<p><strong>Nadia Soh 4CN:</strong> The Albatross File exhibition shows that
+the separation was planned by both Singaporean and Malaysian ministers,
+who negotiated and mutually agreed on it. The exhibition featured documents
+and recordings from that period, providing valuable insights into the events
+leading up to the separation. In addition, the video presentation offered
+a detailed explanation of the process, which helped to clear my doubts
+about why Singapore and Malaysia had to separate. Overall, it was a very
+enriching and enjoyable learning journey for me.</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <h4><strong>Department Programme/Highlights/ Student Outcomes</strong></h4>
 <p><strong>Participating in 2025 NUS Geography Challenge</strong>
 </p>
