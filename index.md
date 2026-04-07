@@ -9,6 +9,14 @@ sections:
   - hero:
       background: /images/Banner/Main_Banner_Main_1F.jpg
   - infopic:
+      title: Bilingual Youth Model United Nations (BYMUN)
+      subtitle: "2026"
+      id: infopic
+      button: Click here to view
+      url: /bilingual-youth-model-united-nations-bymun/
+      image: /images/Announcement/Bilingual_Youth_Model_United_Nations__pic_0.jpg
+      alt: Image alt text
+  - infopic:
       title: School Canteen Advertisement
       id: infopic
       description: Western Food Stall
@@ -458,12 +466,4 @@ sections:
       title: Announcements
       subtitle: PEICAI SECONDARY SCHOOL
       button: More details
-  - infopic:
-      title: Bilingual Youth Model United Nations (BYMUN)
-      subtitle: "2026"
-      id: infopic
-      button: Click here to view
-      url: /bilingual-youth-model-united-nations-bymun/
-      image: /images/Announcement/Bilingual_Youth_Model_United_Nations__pic_0.jpg
-      alt: Image alt text
 ---
