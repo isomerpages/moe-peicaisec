@@ -286,7 +286,7 @@ and articulate different points-of-view.</p>
 </li>
 </ul>
 <h4><strong>2026</strong></h4>
-<h4><strong>The Albatross Files Exhibition Learning Journey </strong></h4>
+<h4><strong>The Albatross Files Exhibition Learning Journey</strong></h4>
 <p>Students from the Secondary Four Pure History cohort embarked on an enriching
 learning journey exploring one of Singapore’s most pivotal moments — the
 Separation from Malaysia — through the newly revealed Albatross File exhibition.
@@ -349,11 +349,108 @@ leading up to the separation. In addition, the video presentation offered
 a detailed explanation of the process, which helped to clear my doubts
 about why Singapore and Malaysia had to separate. Overall, it was a very
 enriching and enjoyable learning journey for me.</p>
+<h4><strong>NUS Geography Challenge</strong></h4>
+<p>A team of four students represented the school at the NUS Geography Challenge
+2026 in February this year. Organised annually by the NUS Department of
+Geography and the NUS Geographical Society, with support from the Ministry
+of Education, the competition seeks to ignite students’ passion for Geography
+and deepen their interest in this dynamic discipline.</p>
+<p>This year’s theme, <em>“City for Tomorrow: Shaping our Liveable Future,”</em> challenged
+participants to evaluate existing infrastructure and propose innovative
+solutions within Singapore’s context. Through this, students were empowered
+to reimagine and create liveable spaces that cater to the needs of diverse
+communities.</p>
+<p>The team, comprising of Chor Yu Jie (4CN), Austin Kong Jia He (4EE), Adriel
+Ng Jun De (4EE) and Chen Hongyu (4EE), competed against 472 students from
+118 schools in both the individual and team components. The components
+tested not only their understanding of geographical concepts but also their
+ability to think critically to problem-solve and collaborate effectively
+under the pressure of time.</p>
+<p>In preparation for the competition, the team demonstrated strong commitment
+and perseverance, dedicating many hours to preparation sessions and practice
+after school. Despite their academic commitments, they demonstrated strong
+discipline in managing their time while deepening their content understanding
+and refining their competition strategies. Their hard work and determination
+were evident throughout the event.</p>
+<p>Amidst the strong competition, we are pleased to announce that Chor Yu
+Jie (4CN) was awarded the Silver Award for the Individual Component.</p>
+<p>We congratulate the team for their commendable efforts and extend our
+appreciation to the staff and parents who supported them throughout their
+journey. Their accomplishments reflect our school’s commitment to nurturing
+both academic excellence and holistic development.</p>
+<p>Well done to our Geography stars!</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="NUS Geography Challenge pic 1" src="/images/Academic/NUS_Geography_Challenge_pic_1.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>The team and teachers during one of the preparation sessions</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="NUS Geography Challenge pic 2" src="/images/Academic/NUS_Geography_Challenge_pic_2.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>From left to right: Ms Koh, Chen Hongyu (4EE), Adriel Ng Jun De (4EE),
+Austin Kong Jia He (4EE), Chor Yu Jie (4CN) and Ms Karissa</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="NUS Geography Challenge pic 3" src="/images/Academic/NUS_Geography_Challenge_pic_3.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>The team celebrating their hard work and efforts after the competition</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Students’ reflections:</p>
+<p><strong>Chor Yu Jie (4CN):</strong> Throughout the preparation for the
+Geography Challenge, I faced many difficulties and challenges and even
+doubted myself as I couldn’t understand many of the questions. Thanks to
+the support of Ms Koh &amp; Ms Karissa, I was able to overcome the challenges
+and understand the concepts better. During the actual competition I still
+had my doubts but the preparation had helped me answer questions more accurately.</p>
+<p><strong>Austin Kong Jia He (4EE</strong>): When I was first invited to
+take part in the Geography Challenge, I was unsure of what to expect as
+an Elective Geography student. As a result, I felt that my content knowledge
+was not as strong as others. However, through the many practice papers
+and training sessions, I learned fascinating facts that piqued my interest.
+I found this especially&nbsp; valuable as it gave me a new perspective
+of Geography, not just as a subject but as lens for understanding the world.</p>
+<p><strong>Adriel Ng Jun De (4EE):</strong> The NUS Geography Challenge was
+a truly unique and memorable experience. It taught me invaluable real-world
+lessons that extend beyond the regular classroom. Although the team component
+was challenging, we remained calm and persevered with determination. Lastly,
+I would like to thank the teachers for making every session useful and
+enjoyable, as well as my teammates for making this an unforgettable experience.</p>
 <p></p>
 <p></p>
 <p></p>
