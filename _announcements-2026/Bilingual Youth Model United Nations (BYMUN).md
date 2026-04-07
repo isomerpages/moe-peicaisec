@@ -97,11 +97,8 @@ and authenticity of student-led media work at BYMUN.</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p>Editors from Singapore Press Holdings conducted a pre-conference workshop</p>
 </td>
 </tr>
 <tr>
@@ -114,4 +111,35 @@ and authenticity of student-led media work at BYMUN.</p>
 </tr>
 </tbody>
 </table>
+<p>These experiences helped students grow in confidence as speakers, sharpen
+their critical thinking, and broaden their understanding of global affairs,
+while also developing collaboration, adaptability, and communication skills.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Bilingual Youth Model United Nations  pic 5" src="/images/Announcement/Bilingual_Youth_Model_United_Nations__pic_5.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ending Ceremony of BYMUN 2026.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Overall, our students demonstrated what it means to think critically,
+speak with purpose, and lead with empathy. Through their active participation,
+they truly embodied the spirit of this year’s BYMUN theme, <em>“Moving Forward, Our Voices As One”</em> 「心系寰宇，众声与共」,
+making the experience both meaningful and impactful.</p>
