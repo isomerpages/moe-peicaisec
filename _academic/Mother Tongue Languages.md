@@ -592,170 +592,8 @@ members of our school community a prosperous and successful year ahead.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Chinese New Year Celebrations 2025</strong>
+<p><strong>Achievements 2026</strong>
 </p>
-<p>We celebrated the Chinese New Year on 28 January with a vibrant and festive
-atmosphere at school. Peicaians had the opportunity to engage in various
-fringe activities in the classroom, such as Chinese Calligraphy and Chinese
-New Year Digital Card Making Competition, where they could experience the
-beauty of this traditional art form.</p>
-<p>Later, the whole school came together to enjoy a series of performances
-and programs in the school hall, showcasing the rich cultural heritage
-of the Chinese New Year. It was a day filled with joy, creativity, and
-community spirit as we embraced the traditions and celebrations of this
-special occasion.</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/mt_1.png">
-</div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong><u>Mother Tongue Languages Fortnight cultural activities</u></strong>
-</p>
-<p>From 24 March to 4 April 2025, the school buzzed with colour, creativity,
-and cultural pride during <strong>Mother Tongue Languages Fortnight</strong>.
-This annual event aimed to spark joy in learning the Mother Tongue through
-immersive, hands-on experiences that celebrated the richness of cultural
-traditions. Secondary 1 to 3 students took part in various workshops conducted
-during their Mother Tongue Languages lesson.</p>
-<p><strong>Chinese Language Workshops</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Sec 1</strong> – <em>Hanfu Origami（汉服折纸）</em>: Crafted bookmarks
-inspired by traditional costumes</p>
-</li>
-<li>
-<p><strong>Sec 2</strong> – <em>Opera Mask Painting（画脸谱）</em>: Designed bold
-and dramatic Chinese opera masks</p>
-</li>
-<li>
-<p><strong>Sec 3</strong> – <em>Chinese Knots（中国结）</em>: Learned the meaning
-behind intricate knot patterns</p>
-</li>
-</ul>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="2">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/mt_dept_4.jpg">
-</div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/mt_dept_5.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/mt_dept_6.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4><strong>Mid-Autumn Festival 2025</strong></h4>
-<p><strong><em>The Mid-Autumn Festival (MAF) celebration aimed to strengthen the connection and collaboration between the school staff and the Parent Support Group (PSG), fostering closer home-school relations.</em></strong>
-</p>
-<p>This year, the Mother Tongue Languages Department took the lead in decorating
-the school compound, including the design and setup of the Moon Appreciation
-Walk. The team also prepared a variety of engaging game booths that aligned
-with the festival’s theme. These activities not only reflected the festive
-spirit of MAF but also encouraged active participation and created a lively,
-joyful atmosphere for everyone.</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/mt_dept_7.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/mt_dept_8.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/mt_dept_9.jpg">
-</div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/mt_dept_10.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/mt_dept_11.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/mt_dept_12.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4><strong>Achievements 2026</strong></h4>
 <p>From 25–27 March 2026, Peicaians participated in the 5th <strong>Bilingual Youth Model United Nations (BYMUN)</strong> organised
 by Nanyang Girls’ High School. During the three-day conference, they engaged
 in dynamic and thought-provoking discussions on global issues using both
@@ -937,7 +775,171 @@ making the experience both meaningful and impactful.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>Achievements 2025</strong></h4>
+<p><strong>Chinese New Year Celebrations 2025</strong>
+</p>
+<p>We celebrated the Chinese New Year on 28 January with a vibrant and festive
+atmosphere at school. Peicaians had the opportunity to engage in various
+fringe activities in the classroom, such as Chinese Calligraphy and Chinese
+New Year Digital Card Making Competition, where they could experience the
+beauty of this traditional art form.</p>
+<p>Later, the whole school came together to enjoy a series of performances
+and programs in the school hall, showcasing the rich cultural heritage
+of the Chinese New Year. It was a day filled with joy, creativity, and
+community spirit as we embraced the traditions and celebrations of this
+special occasion.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/mt_1.png">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong><u>Mother Tongue Languages Fortnight cultural activities</u></strong>
+</p>
+<p>From 24 March to 4 April 2025, the school buzzed with colour, creativity,
+and cultural pride during <strong>Mother Tongue Languages Fortnight</strong>.
+This annual event aimed to spark joy in learning the Mother Tongue through
+immersive, hands-on experiences that celebrated the richness of cultural
+traditions. Secondary 1 to 3 students took part in various workshops conducted
+during their Mother Tongue Languages lesson.</p>
+<p><strong>Chinese Language Workshops</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Sec 1</strong> – <em>Hanfu Origami（汉服折纸）</em>: Crafted bookmarks
+inspired by traditional costumes</p>
+</li>
+<li>
+<p><strong>Sec 2</strong> – <em>Opera Mask Painting（画脸谱）</em>: Designed bold
+and dramatic Chinese opera masks</p>
+</li>
+<li>
+<p><strong>Sec 3</strong> – <em>Chinese Knots（中国结）</em>: Learned the meaning
+behind intricate knot patterns</p>
+</li>
+</ul>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/mt_dept_4.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/mt_dept_5.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/mt_dept_6.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Mid-Autumn Festival 2025</strong></h4>
+<p><strong><em>The Mid-Autumn Festival (MAF) celebration aimed to strengthen the connection and collaboration between the school staff and the Parent Support Group (PSG), fostering closer home-school relations.</em></strong>
+</p>
+<p>This year, the Mother Tongue Languages Department took the lead in decorating
+the school compound, including the design and setup of the Moon Appreciation
+Walk. The team also prepared a variety of engaging game booths that aligned
+with the festival’s theme. These activities not only reflected the festive
+spirit of MAF but also encouraged active participation and created a lively,
+joyful atmosphere for everyone.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/mt_dept_7.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/mt_dept_8.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/mt_dept_9.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/mt_dept_10.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/mt_dept_11.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/mt_dept_12.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Achievements 2025</strong>
+</p>
 <p><strong>National Schools Translation Competition 2025</strong>
 </p>
 <p>Our students took part in the National Schools Translation Competition
