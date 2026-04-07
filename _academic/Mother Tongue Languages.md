@@ -755,7 +755,7 @@ joyful atmosphere for everyone.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong><u>Achievements 2026</u></strong></h4>
+<h4><strong>Achievements 2026</strong></h4>
 <p>From 25–27 March 2026, Peicaians participated in the 5th <strong>Bilingual Youth Model United Nations (BYMUN)</strong> organised
 by Nanyang Girls’ High School. During the three-day conference, they engaged
 in dynamic and thought-provoking discussions on global issues using both
@@ -937,7 +937,7 @@ making the experience both meaningful and impactful.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong><u>Achievements 2025</u></strong></h4>
+<h4><strong>Achievements 2025</strong></h4>
 <p><strong>National Schools Translation Competition 2025</strong>
 </p>
 <p>Our students took part in the National Schools Translation Competition
