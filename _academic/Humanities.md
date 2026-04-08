@@ -287,17 +287,50 @@ and articulate different points-of-view.</p>
 </li>
 </ul>
 <h4><strong>ACHIEVEMENTS</strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
+</th>
+<th rowspan="1" colspan="1">
 <p></p>
+</th>
+<th rowspan="1" colspan="1">
 <p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
-<h4><strong>2026 </strong></h4>
+<h4><strong>2026</strong></h4>
 <h4><strong>Department Programme &amp; Highlights</strong></h4>
 <h4><strong>The Albatross Files Exhibition Learning Journey</strong></h4>
 <p>Students from the Secondary Four Pure History cohort embarked on an enriching
