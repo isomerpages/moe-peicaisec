@@ -283,9 +283,22 @@ build thinking and reflection schemas to examine information critically.</p>
 <p>discussion strategies such as Socratic Seminar so that students systematically
 question and examine issues and principles related to a particular content
 and articulate different points-of-view.</p>
+<p></p>
 </li>
 </ul>
-<h4><strong>2026</strong></h4>
+<h4><strong>ACHIEVEMENTS</strong></h4>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<h4><strong>2026 </strong></h4>
+<h4><strong>Department Programme &amp; Highlights</strong></h4>
 <h4><strong>The Albatross Files Exhibition Learning Journey</strong></h4>
 <p>Students from the Secondary Four Pure History cohort embarked on an enriching
 learning journey exploring one of Singapore’s most pivotal moments — the
@@ -379,8 +392,9 @@ appreciation to the staff and parents who supported them throughout their
 journey. Their accomplishments reflect our school’s commitment to nurturing
 both academic excellence and holistic development.</p>
 <p>Well done to our Geography stars!</p>
-<table style="minWidth: 25px">
+<table style="minWidth: 50px">
 <colgroup>
+<col>
 <col>
 </colgroup>
 <tbody>
@@ -388,29 +402,28 @@ both academic excellence and holistic development.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="NUS Geography Challenge pic 1" src="/images/Academic/NUS_Geography_Challenge_pic_1.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="NUS Geography Challenge pic 1" src="/images/Academic/NUS_Geography_Challenge_pic_1.jpg">
 </div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="NUS Geography Challenge pic 2" src="/images/Academic/NUS_Geography_Challenge_pic_2.jpg">
+</div>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>The team and teachers during one of the preparation sessions</p>
 </td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="NUS Geography Challenge pic 2" src="/images/Academic/NUS_Geography_Challenge_pic_2.jpg">
-</div>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>From left to right: Ms Koh, Chen Hongyu (4EE), Adriel Ng Jun De (4EE),
 Austin Kong Jia He (4EE), Chor Yu Jie (4CN) and Ms Karissa</p>
@@ -418,15 +431,29 @@ Austin Kong Jia He (4EE), Chor Yu Jie (4CN) and Ms Karissa</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="NUS Geography Challenge pic 3" src="/images/Academic/NUS_Geography_Challenge_pic_3.jpg">
 </div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>The team celebrating their hard work and efforts after the competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -526,299 +553,7 @@ the training and the collaborative nature of the unmoderated caucuses helped
 me see Social Studies through a much more practical lens. It piques your
 interest when you realize the theories we learn in class actually dictate
 how countries interact in real time."</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
 <p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4><strong>Department Programme/Highlights/ Student Outcomes</strong></h4>
-<p><strong>Participating in 2025 NUS Geography Challenge</strong>
-</p>
-<p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="2025 NUS Geography Challenge" src="/images/Academic/2025_NUS_Geography_Challenge__1_.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2025 NUS Geography Challenge 2" src="/images/Academic/2025_NUS_Geography_Challenge__2_.jpg">
-</div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>Lets hear from our students about their experiences!</p>
-<p><strong>CASTILLO ZIAN DENVER MENCIANO 3EE (Team Leader) [Certificate of Participation]</strong>
-</p>
-<p>When I first heard about the Geography competition, I was intrigued but
-also uncertain about the activities that I would embark on if I were to
-participate. However, after participating in the competition and gaining
-the chance to represent the school, I have learnt so much more about geography
-and understood it at a much deeper level. We tried our best for each component
-whether it be the individual or team, and I would say it is a very enriching
-experience overall.</p>
-<p><strong>BERNICE CHEN 3CN [Bronze (Individual Component)]</strong>
-</p>
-<p>Reflecting on the NUS Geography Challenge, I realize that it was more
-than just a competition, it was a journey of self-discovery. I stepped
-out of my comfort zone, developed new skills, and formed meaningful connections
-with others. This experience taught me that growth often lies just beyond
-our comfort zones, and I'm grateful for the lessons learned.</p>
-<p><strong>PIMENTEL MARIA MICHAELA BENAVIDEZ 3CN [Certification of Participation]</strong>
-</p>
-<p>The Geography Challenge was a really memorable experience for me. This
-challenge enabled me to learn more about the different plans and strategies
-that Singapore has to improve the country. The team had to put in a lot
-of effort into preparing for the challenge and we even had to spend our
-weekends discussing our points and ideas. Although we didn't manage to
-get into the semi-finals, I'm still proud of my team as we went through
-the difficulties together. I would like to thank my teachers and teammates
-who made this challenge enjoyable.</p>
-<p><strong>RAYNISE TAN YI XUAN 3CN [Certification of Participation]</strong>
-</p>
-<p>Through the NUS Geography Challenge, I learnt that perseverance is key.
-During the individual component, I came across content that I was not familiar
-with, despite this I did not give up and still attempted the questions
-to the best of my abilities. During the team component, our team worked
-together and distributed the different components of the paper so that
-we could do it effectively and submit it on time.</p>
-<hr>
-<p>Self-directed learners during the 2024 Geographical Investigation at MacRitchie
-Reservoir.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Humanaties img 1" src="/images/Academic/Humanaties_img_1.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Humanaties img 2" src="/images/Academic/Humanaties_img_2.jpg">
-</div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>Learning about Singapore History at the National Museum.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Academic/humanities_oct25_1.jpg">
-</div>
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/humanities_oct25_2.jpg">
-</div>
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Academic/humanities_oct25_3.jpg">
-</div>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/humanities_oct25_4.jpg">
-</div>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>Participating in 2024 United Nation programmes.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Humanaties img 5" src="/images/Academic/Humanaties_img_5.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Humanaties img 6" src="/images/Academic/Humanaties_img_6.jpg">
-</div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4><strong>ACHIEVEMENTS</strong></h4>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Subject</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Competition</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Award</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Geography</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>National University of Singapore Geography Challenge</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2023 – Individual Bronze</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3" colspan="1">
-<p>History</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NLB Historical Scene Investigation</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2024 – Two Silver Awards</p>
-<p>&nbsp;2022 – Gold and Silver Awards</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>NLB Prove It! Competition</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2024 – Two Bronze Awards</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MOE History Challenge</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2023 – Student selected for MOE Talent Development Programme</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-</tbody>
-</table>
 <h4><strong>Syllabus</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
