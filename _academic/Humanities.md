@@ -296,24 +296,60 @@ and articulate different points-of-view.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<p><strong>Subject</strong>
+</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p><strong>Competition</strong>
+</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p><strong>Award</strong>
+</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Geography</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2025 NUS Geography Challenge</p>
+<p>2026 NUS Geography Challenge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2025 – Individual Bronze</p>
+<p>&nbsp;</p>
+<p>2026 – Individual Silver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>History</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2025 NLB Historical Scene Investigation</p>
+<p>2025 NLB Prove It! Competition</p>
+<p>2025 MOE History Challenge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2025 – 2 Bronze awards</p>
+<p>&nbsp;</p>
+<p>2025 – 2 Bronze awards</p>
+<p>&nbsp;</p>
+<p>2025 – Certificate of participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Social Studies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2025 Anglo-Chinese School (Independent) Model United Nations</p>
+<p>2026 River Valley Model United Nations</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2025 – Certificate of participation</p>
+<p>2026 – Certificate of participation</p>
 </td>
 </tr>
 <tr>
