@@ -39,7 +39,7 @@ variant: tiptap
 <p>HOD (Humanities)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Social Studies and History</p>
+<p>History and Social Studies</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tey_ai_hoon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tey_ai_hoon@moe.edu.sg</a>
