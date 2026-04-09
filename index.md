@@ -466,4 +466,12 @@ sections:
       title: Announcements
       subtitle: PEICAI SECONDARY SCHOOL
       button: More details
+  - infopic:
+      title: Infopic
+      id: infopic
+      description: Rakan Bahasa Appointment Ceremony
+      button: click here to view
+      url: /rakan-bahasa-appointment-ceremony/
+      image: /images/Announcement/Rakan_Bahasa_pic_cover_copy1.jpg
+      alt: Image alt text
 ---
