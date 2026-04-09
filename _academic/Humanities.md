@@ -423,6 +423,8 @@ the stories that define the nation’s heritage.</p>
 </tr>
 </tbody>
 </table>
+<p><strong>Student’s reflection :</strong>
+</p>
 <p><strong>Edelia Phua 4CN</strong>: From the albatross file exhibition,
 I got to read more in depth about how Singapore and Malaya got separated.
 This exhibition was extra special, as I got to see the actual letters and
@@ -544,7 +546,8 @@ Austin Kong Jia He (4EE), Chor Yu Jie (4CN) and Ms Karissa</p>
 </tr>
 </tbody>
 </table>
-<p>Students’ reflections:</p>
+<p><strong>Students’ reflections:</strong>
+</p>
 <p><strong>Chor Yu Jie (4CN):</strong> Throughout the preparation for the
 Geography Challenge, I faced many difficulties and challenges and even
 doubted myself as I couldn’t understand many of the questions. Thanks to
