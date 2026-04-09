@@ -14,7 +14,7 @@ sections:
       description: Rakan Bahasa Appointment Ceremony
       button: click here to view
       url: /rakan-bahasa-appointment-ceremony/
-      image: /images/Announcement/Rakan_Bahasa_pic_cover_copy1.jpg
+      image: /images/Announcement/Rakan_Bahasa_pic_cover_3.jpg
       alt: Image alt text
   - infopic:
       title: Bilingual Youth Model United Nations (BYMUN)
