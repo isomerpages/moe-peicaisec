@@ -2,6 +2,7 @@ collections:
   announcements-2026:
     output: true
     order:
+      - Rakan Bahasa Appointment Ceremony.md
       - Bilingual Youth Model United Nations (BYMUN).md
       - Hari Raya Concert 2026.md
       - Softball Carnival 2026.md
