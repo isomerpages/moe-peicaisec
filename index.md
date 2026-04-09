@@ -9,9 +9,8 @@ sections:
   - hero:
       background: /images/Banner/Main_Banner_Main_1F.jpg
   - infopic:
-      title: Infopic
+      title: Rakan Bahasa Appointment Ceremony
       id: infopic
-      description: Rakan Bahasa Appointment Ceremony
       button: click here to view
       url: /rakan-bahasa-appointment-ceremony/
       image: /images/Announcement/Rakan_Bahasa_pic_cover_3.jpg
