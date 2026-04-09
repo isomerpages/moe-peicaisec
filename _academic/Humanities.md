@@ -283,7 +283,6 @@ build thinking and reflection schemas to examine information critically.</p>
 <p>discussion strategies such as Socratic Seminar so that students systematically
 question and examine issues and principles related to a particular content
 and articulate different points-of-view.</p>
-<p></p>
 </li>
 </ul>
 <h4><strong>ACHIEVEMENTS</strong></h4>
@@ -365,22 +364,21 @@ and articulate different points-of-view.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<h4><strong>2026</strong></h4>
-<h4><strong>Department Programme &amp; Highlights</strong></h4>
-<h4><strong>The Albatross Files Exhibition Learning Journey</strong></h4>
+<h4><strong>2026</strong><br><strong>Department Programme &amp; Highlights</strong><br><strong>The Albatross Files Exhibition Learning Journey</strong></h4>
 <p>Students from the Secondary Four Pure History cohort embarked on an enriching
 learning journey exploring one of Singapore’s most pivotal moments — the
 Separation from Malaysia — through the newly revealed Albatross File exhibition.
 Hosted at the National Archives Museum, the exhibition offered fresh insights
 into the political and social circumstances surrounding Singapore’s independence,
-bringing history to life in a dynamic and interactive setting.</p>
-<p>Students were particularly captivated by the innovative use of AI chatbots
+bringing history to life in a dynamic and interactive setting.
+<br>
+<br>Students were particularly captivated by the innovative use of AI chatbots
 that simulated conversations with key historical figures from the 1960s.
 These engaging digital companions guided them through archival documents,
 rare footage, and personal correspondences, deepening their understanding
-of the challenges faced by Singapore’s leaders during that tumultuous period.</p>
-<p>The experience reinforced the relevance of historical inquiry beyond textbooks,
+of the challenges faced by Singapore’s leaders during that tumultuous period.
+<br>
+<br>The experience reinforced the relevance of historical inquiry beyond textbooks,
 encouraging students to think critically about how past events continue
 to shape Singapore’s national identity today. By the end of the journey,
 students expressed a newfound appreciation for the resilience and foresight
