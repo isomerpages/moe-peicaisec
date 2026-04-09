@@ -382,7 +382,8 @@ and articulate different points-of-view.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>2026</strong><br><strong>Department Programme &amp; Highlights</strong><br><strong>The Albatross Files Exhibition Learning Journey</strong></h4>
+<h4><strong>2026</strong><br><strong>Department Programme &amp; Highlights</strong></h4>
+<h4><br><strong>The Albatross Files Exhibition Learning Journey</strong></h4>
 <p>Students from the Secondary Four Pure History cohort embarked on an enriching
 learning journey exploring one of Singapore’s most pivotal moments — the
 Separation from Malaysia — through the newly revealed Albatross File exhibition.
