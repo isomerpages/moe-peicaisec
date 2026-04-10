@@ -592,6 +592,189 @@ members of our school community a prosperous and successful year ahead.</p>
 </tr>
 </tbody>
 </table>
+<p><strong>Achievements 2026</strong>
+</p>
+<p>From 25–27 March 2026, Peicaians participated in the 5th <strong>Bilingual Youth Model United Nations (BYMUN)</strong> organised
+by Nanyang Girls’ High School. During the three-day conference, they engaged
+in dynamic and thought-provoking discussions on global issues using both
+English and Chinese.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Bilingual Youth Model United Nations  pic 1" src="/images/Announcement/Bilingual_Youth_Model_United_Nations__pic_1.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Zhang Chuyi with the student participants from left to right: Ong Sin
+En (3CE), Chong Qiao Yan Rachel (3AY), Josette Yao Ruihan (3EE), Ng Hui
+Lin Alexis (3AY), Yi Yuxuan (3EE), Too Zi Heng (3CE).</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>At the conference, our students took on roles across different councils,
+including the <strong>Association of Southeast Asian Nations Plus Three (ASEAN+3)</strong>, <strong>United Nations Educational, Scientific and Cultural Organization (UNESCO)</strong> and <strong>United Nations General Assembly Third Committee (SOCHUM, C3). </strong>In
+addition, the delegates had the opportunity to learn from professionals
+in their respective fields through two bilingual keynote lectures, gaining
+valuable perspectives that deepened their understanding of contemporary
+issues.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Bilingual Youth Model United Nations pic 2" src="/images/Announcement/Bilingual_Youth_Model_United_Nations_pic_2.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Yi Yuxuan (3EE) presenting his views as the delegate of United Kingdom
+of Great Britain and Northern Ireland.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>In addition, 3 Peicaians took on the role of Press Corps members, observing
+debates, conducting interviews, and producing news reports. This provided
+them with valuable opportunities to analyse discussions critically and
+present balanced, well-structured coverage of the proceedings.</p>
+<p>Prior to the conference, editors from Singapore Press Holdings conducted
+a workshop for our press delegates. Their expert guidance enriched the
+students’ understanding of journalistic practices and elevated the Press
+Corps experience, marking a meaningful step forward in enhancing the depth
+and authenticity of student-led media work at BYMUN.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Bilingual Youth Model United Nations  pic 3" src="/images/Announcement/Bilingual_Youth_Model_United_Nations__pic_3.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Bilingual Youth Model United Nations  pic 4" src="/images/Announcement/Bilingual_Youth_Model_United_Nations_pic_4.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Editors from Singapore Press Holdings conducted a pre-conference workshop</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>These experiences helped students grow in confidence as speakers, sharpen
+their critical thinking, and broaden their understanding of global affairs,
+while also developing collaboration, adaptability, and communication skills.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Bilingual Youth Model United Nations  pic 5" src="/images/Announcement/Bilingual_Youth_Model_United_Nations__pic_5.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ending Ceremony of BYMUN 2026.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Overall, our students demonstrated what it means to think critically,
+speak with purpose, and lead with empathy. Through their active participation,
+they truly embodied the spirit of this year’s BYMUN theme, <em>“Moving Forward, Our Voices As One”</em> 「心系寰宇，众声与共」,
+making the experience both meaningful and impactful.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>Chinese New Year Celebrations 2025</strong>
 </p>
 <p>We celebrated the Chinese New Year on 28 January with a vibrant and festive
@@ -755,7 +938,7 @@ joyful atmosphere for everyone.</p>
 </tr>
 </tbody>
 </table>
-<p><strong><u>Achievements</u></strong>
+<p><strong>Achievements 2025</strong>
 </p>
 <p><strong>National Schools Translation Competition 2025</strong>
 </p>
@@ -1042,6 +1225,100 @@ a vibrant fashion show showcasing traditional attire.</p>
 members in a joyful celebration. Overall, the Hari Raya concert fostered
 greater appreciation of Malay culture and traditions while creating a memorable
 and enjoyable experience for all.</p>
+<p><strong>Achievements 2026</strong>
+</p>
+<p>Khalif Arka Waluya (2RE) and Nurul Amanda Binte Nashron (3PN) were officially
+appointed as Rakan Bahasa ambassadors on 6 April at the Singapore Chinese
+Cultural Centre. The ceremony was graced by Mr Zhulkarnain Abdul Rahim,
+Minister of State for Foreign Affairs and Social &amp; Family Development,
+in recognition of the students’ exemplary passion and dedication.</p>
+<p></p>
+<p>The Rakan Bahasa programme recognises students who lead by example in
+promoting the Malay language and culture. As ambassadors, Khalif and Nurul
+serve as role models, inspiring their peers to embrace and appreciate the
+Malay language in daily life while honing their confidence and communication
+skills.</p>
+<p></p>
+<p>From April to September, the ambassadors will participate in engaging
+activities designed to spark interest in the language. Key highlights include
+Kad Kembara and the TeeVers Competition, which runs from 20 April to 8
+May and showcases students’ talents in audio drama. They also attended
+a training session with Opera Academy, focusing on script interpretation,
+voice projection, and intonation through the art of bangsawan.</p>
+<p></p>
+<p>Congratulations to Khalif and Nurul! As our 2026 Rakan Bahasa ambassadors,
+we look forward to seeing them inspire their peers and champion the beauty
+and vibrancy of the Malay language and culture throughout the year.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="Rakan Bahasa cover" src="/images/Announcement/Rakan_Bahasa_pic_cover.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Congrats to our new Language Ambassadors! Keeping culture alive and language
+strong. 🌟 #ProudMoment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Rakan Bahasa Pic 1" src="/images/Announcement/Rakan_Bahasa_Pic_1.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="Rakan Bahasa Pic 2" src="/images/Announcement/Rakan_Bahasa_Pic_2.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Rakan Bahasa 2026 is preparing to recite the pledge. (Photo: Courtesy
+of BERITA Mediacorp)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rakan Bahasa participated in a training session conducted by Opera Academy,
+which, among other things, focused on script interpretation. (Photo: Courtesy
+of BERITA Mediacorp)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p></p>
 <p><strong>Hari Raya Celebration 2025</strong>
 </p>
 <p>On 16 April 2025, the Peicai school hall came alive with vibrant energy
