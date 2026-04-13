@@ -2,6 +2,9 @@ collections:
   announcements-2026:
     output: true
     order:
+      - Student Council Presidential Election.md
+      - Modern Dance CCA Five Stars Distinction Award at Open Stage Dance
+        Competition.md
       - Rakan Bahasa Appointment Ceremony.md
       - Bilingual Youth Model United Nations (BYMUN).md
       - Hari Raya Concert 2026.md
