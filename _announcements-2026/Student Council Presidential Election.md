@@ -109,4 +109,35 @@ teachers to engage directly with the candidates in Fig. 3 and 4.</p>
 </tr>
 </tbody>
 </table>
+<p>The candidates were put to the test during this live Q&amp;A session,
+demonstrating their capacity to articulate their thoughts clearly when
+receiving spontaneous queries. They confidently explored their visions,
+aspirations, and proposed initiatives for enhancing the school environment,
+as seen in Fig. 5.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Student Council Presidential Election pic 4" src="/images/Announcement/Student_Council_Presidential_Election_pic_4.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Fig. 5 Presidential candidates addressing the questions from the live
+Q&amp;A</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
