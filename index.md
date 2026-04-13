@@ -482,4 +482,12 @@ sections:
       title: Announcements
       subtitle: PEICAI SECONDARY SCHOOL
       button: More details
+  - infopic:
+      title: Student Council Presidential Election
+      subtitle: Student Leadership
+      id: infopic
+      button: click here to view
+      url: /student-council-presidential-election/
+      image: /images/Announcement/Student_Council_Presidential_Election_pic_1.jpg
+      alt: Image alt text
 ---
