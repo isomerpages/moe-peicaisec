@@ -20,7 +20,7 @@ Tampines Hub.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="PAssionArts Festival 2026 pic 1" src="/images/Announcement/PAssionArts_Festival_2026_pic1.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="PAssionArts Festival 2026 pic 1" src="/images/Announcement/PAssionArts_Festival_2026_pic1.jpg">
 </div>
 </th>
 </tr>
