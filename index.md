@@ -473,4 +473,13 @@ sections:
       title: Announcements
       subtitle: PEICAI SECONDARY SCHOOL
       button: More details
+  - infopic:
+      title: Five-Stars Distinction Award
+      subtitle: Modern Dance CCA
+      id: infopic
+      description: Open Stage Dance Competition
+      button: Click here to view
+      url: /modern-dance-cca-five-stars-distinction-award-at-open-stage-dance-competition/
+      image: /images/Announcement/PAssionArts_Festival_2026_pic_8.jpg
+      alt: Image alt text
 ---
