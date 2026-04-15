@@ -9,6 +9,15 @@ sections:
   - hero:
       background: /images/Banner/Main_Banner_Main_1F.jpg
   - infopic:
+      title: Motivational Fireside Conversation with Professor Ernest Tan
+      id: infopic
+      description: "Assembly Talk by Assistant Professor Dr Ernest Tan: Embracing an
+        Unconventional Journey"
+      button: Click here to view
+      url: /motivational-fireside-conversation-with-professor-ernest-tan/
+      image: /images/Announcement/Dr_Ernest_Tan_pic_1.jpg
+      alt: Image alt text
+  - infopic:
       title: Five-Stars Distinction Award
       subtitle: Modern Dance CCA
       id: infopic
@@ -462,13 +471,4 @@ sections:
       title: Announcements
       subtitle: PEICAI SECONDARY SCHOOL
       button: More details
-  - infopic:
-      title: Motivational Fireside Conversation with Professor Ernest Tan
-      id: infopic
-      description: "Assembly Talk by Assistant Professor Dr Ernest Tan: Embracing an
-        Unconventional Journey"
-      button: Click here to view
-      url: /motivational-fireside-conversation-with-professor-ernest-tan/
-      image: /images/Announcement/Dr_Ernest_Tan_pic_1.jpg
-      alt: Image alt text
 ---
