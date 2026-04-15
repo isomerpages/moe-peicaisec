@@ -108,4 +108,76 @@ to keep learning, unlearning, and relearning.</p>
 </tr>
 </tbody>
 </table>
+<p>The assembly concluded on an engaging note, with students eagerly lining
+up in an orderly manner to ask Dr Tan questions. Their thoughtful queries
+reflected a genuine interest in his experiences and insights, making the
+session both meaningful and interactive.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Peicaians came forward" src="/images/Announcement/Peicaians_came_forward_pic_1.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Peicaians came forward in an orderly manner to ask questions.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Peicaians asked questions pic 1" src="/images/Announcement/Peicaians_asked_questions_pic_1.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Peicaians asked questions pic 2" src="/images/Announcement/Peicaians_asked_questions__pic_2.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Peicaians asked questions about Dr Tan’s educational pathway and the choices
+that shaped his interests.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>The exchange provided students with valuable opportunities to deepen their
+understanding and draw inspiration from his unconventional educational
+journey. We would like to extend our heartfelt appreciation to Dr Tan for
+his time and insightful sharing with our students, which also served as
+meaningful motivation for students as they prepare for their upcoming WA2
+examinations.</p>
+<p></p>
 <p></p>
