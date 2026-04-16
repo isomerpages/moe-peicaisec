@@ -26,7 +26,7 @@ obtained his doctorate in Computer Engineering.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Dr Tan engaged the students during assembly.</p>
+<p>Dr Tan sharing with Peicaians his journey during assembly.</p>
 </td>
 </tr>
 <tr>
