@@ -9,10 +9,9 @@ sections:
   - hero:
       background: /images/Banner/Main_Banner_Main_1F.jpg
   - infopic:
-      title: Motivational Fireside Conversation with Professor Ernest Tan
+      title: Fireside Conversation with Dr Ernest Tan
       id: infopic
-      description: "Assembly Talk by Assistant Professor Dr Ernest Tan: Embracing an
-        Unconventional Journey"
+      description: "Assembly Talk: Embracing an Unconventional Journey"
       button: Click here to view
       url: /motivational-fireside-conversation-with-professor-ernest-tan/
       image: /images/Announcement/Dr_Ernest_Tan_pic_1.jpg
