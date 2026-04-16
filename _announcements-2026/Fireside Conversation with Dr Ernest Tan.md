@@ -6,9 +6,11 @@ description: ""
 ---
 <p><strong>Assembly Talk by Assistant Professor Dr Ernest Tan: Embracing an Unconventional Journey</strong>
 </p>
-<p>During the assembly on 15 April, Peicai Secondary School invited SIT Assistant
-Professor Dr Ernest Tan to share his unconventional educational journey,
-which progressed from the Normal Technical stream to a Doctorate.</p>
+<p>During the Assembly Talk on 15 April, we invited Singapore Institute of
+Technology, Assistant Professor Ernest Tan to share his unconventional
+educational journey. He went through Normal Tech in secondary school, took
+his N-levels, went to ITE, then Polytechnic and eventually NTU where he
+obtained his doctorate in Computer Engineering.</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -34,8 +36,7 @@ which progressed from the Normal Technical stream to a Doctorate.</p>
 </tr>
 </tbody>
 </table>
-<p>Dr Ernest Tan engaged the students with a simple yet thought-provoking
-question: <em>“Who here knows exactly what you want to do in the future?”</em> While
+<p>Dr Tan engaged the students with a simple yet thought-provoking question: <em>“Who knows exactly what you want to do in the future?”</em> While
 some students raised their hands confidently, many hesitated. Reassuringly,
 Dr Tan shared that he once belonged to the “unsure” group himself.</p>
 <table style="minWidth: 25px">
@@ -179,5 +180,4 @@ journey. We would like to extend our heartfelt appreciation to Dr Tan for
 his time and insightful sharing with our students, which also served as
 meaningful motivation for students as they prepare for their upcoming WA2
 examinations.</p>
-<p></p>
 <p></p>
