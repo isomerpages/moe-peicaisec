@@ -8,10 +8,13 @@ third_nav_title: PinnaCle(Talent Development)
 <h4><strong>Talent Development Programme (PinnaCle@Peicai)</strong></h4>
 <p>Peicai Secondary School’s vision as a forward-looking school is to nurture
 future-ready students with a critical mind and a compassionate heart.</p>
-<p>PinnaCle@Peicai, the school’s Talent Development Programme (TDP) offers
-enriched and customised opportunities in English, Mathematics, Science
-and Sports to enable and empower students with strengths and talents in
-specific disciplines to Discover, Develop and Excel at more advanced levels.</p>
+<p>PinnaCle@Peicai, the school’s Talent Development Programme (TDP), provides
+enriched and customised learning experiences in English, Mathematics, Science,
+and Sports. It is designed to deepen students’ mastery in specific disciplines
+while cultivating key 21st Century Competencies, including critical, adaptive,
+and inventive thinking. Through this programme, students are empowered
+to stretch their potential, pursue excellence, and develop as confident,
+future-ready learners.</p>
 <p>PinnaCle@Peicai aims to</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" src="/images/tdp1.png">
