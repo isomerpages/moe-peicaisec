@@ -342,7 +342,6 @@ in-school clinic held by former National Athletes, and participation in
 other sports not offered in our school as a CCA.</p>
 <p><strong>OVERVIEW OF DSA WORKFLOW AND TIMELINE</strong>
 </p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -353,6 +352,9 @@ other sports not offered in our school as a CCA.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="DSA Application portal" src="/images/CCA/DSA_Application_portal.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -360,17 +362,6 @@ other sports not offered in our school as a CCA.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
