@@ -9,6 +9,14 @@ sections:
   - hero:
       background: /images/Banner/Main_Banner_Main_1F.jpg
   - infopic:
+      title: Fireside Conversation with Dr Ernest Tan
+      id: infopic
+      description: "Assembly Talk: Embracing an Unconventional Journey"
+      button: Click here to view
+      url: /motivational-fireside-conversation-with-professor-ernest-tan/
+      image: /images/Announcement/Dr_Ernest_Tan_pic_1.jpg
+      alt: Image alt text
+  - infopic:
       title: Five-Stars Distinction Award
       subtitle: Modern Dance CCA
       id: infopic
@@ -23,6 +31,14 @@ sections:
       button: click here to view
       url: /rakan-bahasa-appointment-ceremony/
       image: /images/Announcement/Rakan_Bahasa_pic_cover_3.jpg
+      alt: Image alt text
+  - infopic:
+      title: Student Council Presidential Election
+      subtitle: Student Leadership
+      id: infopic
+      button: click here to view
+      url: /student-council-presidential-election/
+      image: /images/Announcement/Student_Council_Presidential_Election_pic_1.jpg
       alt: Image alt text
   - infopic:
       title: Bilingual Youth Model United Nations (BYMUN)
@@ -200,13 +216,6 @@ sections:
       image: /images/Announcement/acc26_openhse25_2.jpg
       alt: PCSS Open House 2025
   - infopic:
-      title: School Corporate Video
-      id: infopic
-      button: Click here to view
-      url: https://www.youtube.com/watch?v=OIUIeSrzGoA
-      image: /images/Aboutus/Outreach.jpg
-      alt: Outreach 2025
-  - infopic:
       title: The Cove and The Sphere
       id: infopic
       description: Our New , State of the Art facilities !
@@ -249,13 +258,6 @@ sections:
       url: /mid-autumn-festival-2025/
       image: /images/Aboutus/maf_25.jpg
       alt: mid_autumn_festival_2025
-  - infopic:
-      title: Sec 4 and 5 Graduation Night
-      id: infopic
-      button: Click here to view
-      url: /sec-4-and-5-graduation-night/
-      image: /images/Announcement/sec45_grad_25_cover.jpg
-      alt: sec45_grad_night
   - infopic:
       title: Volleyball Boys B Division NSG Bronze 2025
       id: infopic
@@ -409,13 +411,6 @@ sections:
       image: /images/CCA/concert_band_distinction_2.png
       alt: Concert Band SYF Dist.
   - infopic:
-      title: Student Council Presidential Elections 2025
-      id: infopic
-      button: Click here to view
-      url: /presidential-rally-2025/
-      image: /images/Aboutus/presidential_rally_2025_5.jpg
-      alt: Presidential Rally 2025
-  - infopic:
       title: Peicai Alumnus awarded Temasek Polytechnic Scholarship
       id: infopic
       button: Click here to find out more
@@ -443,13 +438,6 @@ sections:
       url: /src-softball-championship-2025/
       image: /images/Announcement/SRC25_1.png
       alt: SRC 2025
-  - infopic:
-      title: Peicai Sports Day 2025
-      id: infopic
-      button: Click here to view
-      url: /peicai-sports-day-2025/
-      image: /images/Aboutus/pcss_sport_banner.jpg
-      alt: Sports Day 2025
   - infopic:
       title: Girl Guides World Thinking Day Commemoration
       id: infopic
