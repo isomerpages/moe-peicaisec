@@ -239,61 +239,51 @@ DSA Exercise will meet the students to provide further instructions.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><u>Sports &amp; Games</u>
-</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; knowledge of game rules</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; in-game decision-making skills</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; passion, commitment and interest
-in game</p>
+<br>·&nbsp;&nbsp;knowledge of game rules
+<br>·&nbsp;&nbsp;in-game decision-making skills
+<br>·&nbsp;&nbsp;passion, commitment and interest in game</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><u>Performing Arts</u>
-</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; knowledge in performing arts</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; specific arts-related skills</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; passion, commitment and interest
-in performing arts</p>
+<br>·&nbsp;&nbsp;knowledge in performing arts
+<br>·&nbsp;&nbsp;specific arts-related skills
+<br>·&nbsp;&nbsp;passion, commitment and interest in performing arts</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><u>Uniformed Groups</u>
-</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understanding of being in uniformed
-groups,</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; passion, commitment and interest
-in the uniformed groups.</p>
+<br>·&nbsp;&nbsp;understanding of being in uniformed groups,
+<br>·&nbsp;&nbsp;passion, commitment and interest in the uniformed groups.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><u>Leadership</u>
-</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understanding of leadership,</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; reflection of their past leadership
-experiences.</p>
+<br>·&nbsp;&nbsp;understanding of leadership,
+<br>·&nbsp;&nbsp;reflection of their past leadership experiences.</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p>Applicants under DSA-Sports may be required to demonstrate some sport-specific
 performance tasks during the trial while applicants under DSA-Performing
 Arts may be required to perform a short skit based on the script provided
-during the audition, or a dance performance of their speciality genre.</p>
-<p>Please note that the meeting of specified criteria does not guarantee
+during the audition, or a dance performance of their speciality genre.
+<br>Please note that the meeting of specified criteria does not guarantee
 the student will be shortlisted or given an offer.</p>
 <p><strong>RELEASE OF OUTCOME OF DSA-SEC EXERCISE</strong>
 </p>
 <p>All applicants would be informed of the selection outcome between 17 –
-28 Aug 2026 [i.e., Confirmed Offer (CO), Wait List (WL) or Unsuccessful]</p>
-<p>Applicants given CO are guaranteed admission only if they</p>
-<p>· Indicate the school during School Preference Submission (19 – 23 Oct
-2026)</p>
-<p>· Qualify for an academic course offered by the school (i.e. G3, G2, G1)
-based on PSLE results</p>
-<p>DSA-Sec allocation results will be released to students through Primary
+28 Aug 2026 [i.e., Confirmed Offer (CO), Wait List (WL) or Unsuccessful]
+<br>Applicants given CO are guaranteed admission only if they
+<br>· Indicate the school during School Preference Submission (19 – 23 Oct
+2026)
+<br>· Qualify for an academic course offered by the school (i.e. G3, G2, G1)
+based on PSLE results
+<br>DSA-Sec allocation results will be released to students through Primary
 Schools together with the PSLE results.</p>
 <p>Please note that students successfully allocated to their DSA-Sec schools
 are NOT allowed to participate in the annual S1 Posting Exercise to opt
@@ -316,6 +306,7 @@ provides students with the exposure to a broad base of sports curriculum,
 with activities such as learning journeys to National Youth Sports Institute,
 in-school clinic held by former National Athletes, and participation in
 other sports not offered in our school as a CCA.</p>
+<p></p>
 <p><strong>OVERVIEW OF DSA WORKFLOW AND TIMELINE</strong>
 </p>
 <table style="minWidth: 75px">
@@ -352,7 +343,6 @@ other sports not offered in our school as a CCA.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p><strong>ENQUIRIES</strong>&nbsp;</p>
 <p>If you would like further details or require any clarifications, you may
 contact Mr Alvin Yeo, Head of Department for PE &amp; CCA at +(65) 6202
