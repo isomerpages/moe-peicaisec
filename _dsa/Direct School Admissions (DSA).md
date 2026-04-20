@@ -248,9 +248,9 @@ level</p>
 </table>
 <p><strong>&nbsp;SELECTION PROCESS BY THE SCHOOL</strong>
 </p>
-<p>All shortlisted applicants will be notified via email from 30<sup> </sup>June
-2025 onwards to attend an interview and or a trial/audition (<em>only applicable to sports and performing arts</em>)
-that would be conducted between 30 June 2025 and 4 September 2025.</p>
+<p>All shortlisted applicants will be notified via email from 29 Jun 2026
+onwards to attend an interview and or a trial/audition (<em>only applicable to sports and performing arts</em>)
+that would be conducted between 29 Jun 2026 till 28 Aug 2026.</p>
 <p>Students who are shortlisted to attend the interview/trial/audition are
 to report to the school’s General Office where the teacher overseeing the
 DSA Exercise will meet the students to provide further instructions.</p>
@@ -310,13 +310,13 @@ during the audition, or a dance performance of their speciality genre.</p>
 the student will be shortlisted or given an offer.</p>
 <p><strong>RELEASE OF OUTCOME OF DSA-SEC EXERCISE</strong>
 </p>
-<p>All applicants would be informed of the selection outcome between 25 Aug
-to 4 Sep 2025 [i.e., Confirmed Offer (CO), Wait List (WL) or Unsuccessful]</p>
+<p>All applicants would be informed of the selection outcome between 17 –
+28 Aug 2026 [i.e., Confirmed Offer (CO), Wait List (WL) or Unsuccessful]</p>
 <p>Applicants given CO are guaranteed admission only if they</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Indicate the school during School
-Preference Submission (End Oct 2025)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Qualify for an academic course offered
-by the school (i.e. G3, G2, G1) based on PSLE results</p>
+<p>· Indicate the school during School Preference Submission (19 – 23 Oct
+2026)</p>
+<p>· Qualify for an academic course offered by the school (i.e. G3, G2, G1)
+based on PSLE results</p>
 <p>DSA-Sec allocation results will be released to students through Primary
 Schools together with the PSLE results.</p>
 <p>Please note that students successfully allocated to their DSA-Sec schools
