@@ -100,13 +100,13 @@ competition/s</p>
 <p>Students applying should demonstrate passion and potential in the discipline.
 They should also have the relevant experience which could include the following:</p>
 <p></p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; attained a minimum conduct grade
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; attained a minimum conduct grade
 of “Good”</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; represented at school or national
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; represented at school or national
 level or relevant external organisations in performances</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; participated in SYF (Drama) Arts
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; participated in SYF (Drama) Arts
 Presentation</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; attended drama-related programmes</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; attended drama-related programmes</p>
 </td>
 </tr>
 <tr>
