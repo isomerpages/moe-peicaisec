@@ -7,17 +7,18 @@ description: ""
 <p><strong>INTRODUCTION</strong>
 </p>
 <p>Peicai Secondary School (PCSS) welcomes eligible Primary Six students
-for Secondary One admission in 2026 with talents in various areas to apply
+for Secondary One admission in 2027 with talents in various areas to apply
 for Direct School Admission to Secondary One.</p>
 <p><strong>WHY APPLY FOR DSA TO PCSS</strong>
 </p>
 <p>In PCSS, we focus on the holistic development of our students via the
 provision of the Peicai Experience. The school strongly believes that both
 passion for learning and strength of character are critical components
-in nurturing our students to be future ready.</p>
+in nurturing our students to be future ready.&nbsp;</p>
 <p>Our CCAs and Student Leadership Programme offer a multitude of vibrant
 as well as exciting opportunities for students to pursue their passion
-and enhance their knowledge and skills as they develop 21st Century Competencies.</p>
+and enhance their knowledge and skills as they develop 21<sup>st</sup> Century
+Competencies.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -58,29 +59,30 @@ and enhance their knowledge and skills as they develop 21st Century Competencies
 </td>
 <td rowspan="1" colspan="1">
 <p>Our Sports and Games have been making steady progress with the most recent
-achievement being the school’s Volleyball Boys achieving South Zone Top
+achievements being the school’s Volleyball Boys achieving South Zone Top
 4 Placing in 2023, 2<sup>nd</sup> Place in League 4 in 2024, and 3<sup>rd</sup> Placing
-in 2025’s B Division National Schools’ Games Tournament</p>
+in 2025’s B Division National Schools’ Games Tournament.
+<br>
+<br>
+</p>
 <p>Our Basketball C Division Boys team have also qualified for the second
-round of the South Zone National Schools Games 2023 tournament</p>
-<p>Our Softball Boys and Girls C Division teams are champions in League 3
+round of the South Zone National Schools Games 2023 tournament. &nbsp;
+<br>
+<br>Our Softball Boys and Girls C Division teams are champions in League 3
 and 2 NSG 2024 respectively. &nbsp;&nbsp;</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students applying should demonstrate passion and potential in the sport.
 They should also have the relevant experience which could include the following:</p>
 <p></p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; attained a minimum conduct grade
-of “Good”</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; represented primary school in National
-Schools Games (Zonal or National) Inter-Primary School Championship</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; represented National Sports Association
-or Club in local or overseas competition/s</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; participated in MOE’s Junior Sports
-Academy (JSA) Programme</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; participated in school or external
-training programmes related to sports</p>
+<p>• attained a minimum conduct grade of “Good”</p>
+<p>• represented primary school in National Schools Games (Zonal or National)
+Inter-Primary School Championship</p>
+<p>• represented National Sports Association or Club in local or overseas
+competition/s</p>
+<p>• participated in MOE’s Junior Sports Academy (JSA) Programme</p>
+<p>• participated in school or external training programmes related to sports</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -111,26 +113,70 @@ Presentation</p>
 <td rowspan="1" colspan="1">
 <p><strong><u>Performing Arts</u></strong>
 </p>
+<p><strong>English Drama</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Our English Drama CCA has been doing well at the Singapore Youth Festival
+(SYF) 2023 Presentations with the team achieving the Distinction award.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students applying should demonstrate passion and potential in the discipline.
+They should also have the relevant experience which could include the following:</p>
+<p>• attained a minimum conduct grade of “Good”</p>
+<p>• represented at school or national level or relevant external organisations
+in performances</p>
+<p>• participated in SYF (Drama) Arts Presentation</p>
+<p>• attended drama-related programmes</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><u>Performing Arts</u></strong>
+</p>
 <p><strong>Modern Dance</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Our Modern Dance CCA has been doing well at the Singapore Youth Festival
 (SYF) 2023 Presentations with the team achieving the Distinction award,
-as well as representing the school at Chingay Parade 2024.</p>
+as well as representing the school at Chingay Parade 2024 and PAssionArts
+Festival’s Open Stage Dance Competition in 2026, achieving the 5-star Distinction
+award in the Contemporary genre.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students applying should demonstrate passion and potential in dance. They
 should also have the relevant experience which could include the following:</p>
+<p>• attained a minimum conduct grade of “Good”</p>
+<p>• represented at school or national level or relevant external organisations
+in performances</p>
+<p>• participated in SYF (Modern Dance) Arts Presentation</p>
+<p>• attended dance-related programmes</p>
 <p></p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; attained a minimum conduct grade
-of “Good”</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; represented at school or national
-level or relevant external organisations in performances</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; participated in SYF (Modern Dance)
-Arts Presentation</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; attended dance-related programmes</p>
 <p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><u>Performing Arts</u></strong>
+</p>
+<p><strong>Concert Band</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Our Concert Band CCA has been doing well at the Singapore Youth Festival
+(SYF) 2025 Presentations with the team achieving the Distinction award,
+as well as representing the school at the Asia Pacific Bands Festival 2026.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students applying should demonstrate passion and potential in dance. They
+should also have the relevant experience which could include the following:</p>
+<p>• attained a minimum conduct grade of “Good”</p>
+<p>• represented at school or national level or relevant external organisations
+in performances</p>
+<p>• participated in SYF (Concert Band) Arts Presentation</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -146,25 +192,24 @@ Arts Presentation</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Our Uniformed Groups (UGs) have been performing very well over the past
-years. As of 2025, our Girl Guides, NCC and NPCC units have been consistently
-achieving the Distinction Awards in the unit competitions for 8 and 7 years
-respectively.</p>
+years. As of 2026, our Girl Guides, NCC and NPCC units have been consistently
+achieving the Distinction Awards in the unit competitions for 10 and 8
+consecutive years respectively.</p>
 <p>The UGs develop our students’ leadership potential in various ways. Our
 UG students are regularly given opportunities to lead, which in turn developing
 them into independent and confident leaders of character.</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students applying should demonstrate a keen interest and passion in the
 respective Uniformed Group. They should also have the relevant experience
 which could include the following:</p>
-<p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; attained a minimum conduct grade
-of “Good”</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; attained a proven and sustained
-record of playing key leadership roles in their respective CCAs in primary
-school.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; active involvement in class level,
-school level or community level programmes and/or projects</p>
+<p>• attained a minimum conduct grade of “Good”</p>
+<p>• attained a proven and sustained record of playing key leadership roles
+in their respective CCAs in primary school.</p>
+<p>• active involvement in class level, school level or community level programmes
+and/or projects</p>
+<p></p>
 <p></p>
 </td>
 </tr>
@@ -181,25 +226,21 @@ school level or community level programmes and/or projects</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<p></p>
 <p>At the apex of our Student Leadership Wings, our Student Council (SC)
 aims to develop students into inspiring leaders with a daring spirit and
-a passion to lead and serve. The Student Leadership Programme in PCSS offers
-a wide range of platforms for students to take on leadership roles in the
-school.</p>
+a passion to lead and serve.</p>
+<p>The Student Leadership Programme in PCSS offers a wide range of platforms
+for students to take on leadership roles in the school.</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students applying should demonstrate a keen interest and passion in leading
 and serving peers as well as the community. They should also have the relevant
 experience which could include the following:</p>
-<p></p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; attained a minimum conduct grade
-of “Good”</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; currently holding a leadership position
-at the Class, CCA and/or School level</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; active involvement in school and/or
-community level programmes</p>
+<p>• attained a minimum conduct grade of “Good”</p>
+<p>• currently holding a leadership position at the Class, CCA and/or School
+level</p>
+<p>• active involvement in school and/or community level programmes</p>
 <p></p>
 </td>
 </tr>
