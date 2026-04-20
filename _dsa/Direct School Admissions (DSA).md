@@ -113,28 +113,6 @@ Presentation</p>
 <td rowspan="1" colspan="1">
 <p><strong><u>Performing Arts</u></strong>
 </p>
-<p><strong>English Drama</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Our English Drama CCA has been doing well at the Singapore Youth Festival
-(SYF) 2023 Presentations with the team achieving the Distinction award.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Students applying should demonstrate passion and potential in the discipline.
-They should also have the relevant experience which could include the following:</p>
-<p>• attained a minimum conduct grade of “Good”</p>
-<p>• represented at school or national level or relevant external organisations
-in performances</p>
-<p>• participated in SYF (Drama) Arts Presentation</p>
-<p>• attended drama-related programmes</p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><u>Performing Arts</u></strong>
-</p>
 <p><strong>Modern Dance</strong>
 </p>
 </td>
