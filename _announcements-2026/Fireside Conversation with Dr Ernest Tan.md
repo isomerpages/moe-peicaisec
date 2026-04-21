@@ -174,7 +174,29 @@ that shaped his interests.</p>
 </tr>
 </tbody>
 </table>
-<p>The exchange provided students with valuable opportunities to deepen their
+<p>The following presents the students’ questions together with Dr Tan’s
+responses.</p>
+<p><strong>Q1: What if you do not perform well in a test? How do you motivate yourself to move forward?</strong>
+<br>Dr Tan: Consistency is key in one’s educational journey. When I did not
+perform well, I made it a point to reflect on the concepts I had not fully
+understood. I would then take active steps to bridge those gaps, such as
+revisiting my textbooks or practising additional questions independently.
+<br><strong>Q2: What factors should we consider when selecting a course in polytechnic? </strong>
+<br><strong>Q3: What are some careers that you could recommend us?</strong>
+<br>Dr Tan: Every individual has different circumstances and considerations
+when it comes to choosing a career path, selecting polytechnic courses,
+or deciding between JC and polytechnic. Regardless of the path you take,
+it is important to reflect on whether it will be meaningful and fulfilling
+for you in the long term, particularly over the next five to ten years.
+<br><strong>Q4: What should guide our decision between junior college and the polytechnic education pathway?</strong>
+<br>Dr Tan: In my own journey, I found the process of elimination helpful
+— narrowing down my options by ruling out courses in ITE, polytechnic,
+and university that I did not see myself thriving in. I applied the same
+approach when making career decisions.
+<br>I hope this provides a useful starting point as you begin exploring your
+pathway beyond secondary school.
+<br>
+<br>The exchange provided students with valuable opportunities to deepen their
 understanding and draw inspiration from his unconventional educational
 journey. We would like to extend our heartfelt appreciation to Dr Tan for
 his time and insightful sharing with our students, which also served as
