@@ -653,6 +653,96 @@ the training and the collaborative nature of the unmoderated caucuses helped
 me see Social Studies through a much more practical lens. It piques your
 interest when you realize the theories we learn in class actually dictate
 how countries interact in real time."</p>
+<h4><strong>Interdisciplinary Learning Journey to Treelodge@Punggol</strong></h4>
+<p>In Term 2, the Humanities and Science department organised an interdisciplinary
+learning journey for the Secondary 2 students to Treelodge@Punggol. As
+Singapore’s first eco-precinct designed to harness natural elements to
+promote sustainable living, Treelodge@Punggol provided an authentic and
+meaningful setting for students to apply concepts from both Geography and
+Science in the context of real-world housing development.
+<br>
+<br>During the visit, students engaged in on-site observations and participated
+in various activities across four stations at the Eco-Deck. Through these
+activities, they applied Geography concepts to examine how housing design
+and the distribution of amenities influence the quality of life within
+a community. At the same time, they explored key Science concepts such
+as energy transfer, heat management and sustainability, gaining a deeper
+understanding of how eco-friendly features are incorporated into contemporary
+residential developments to promote environmental sustainability.
+<br>
+<br>The learning journey was also an integral part of the students’ Geographical
+Investigation (GI) assessment on “<em>How do the amenities in Punggol neighbourhood meet the needs of residents?</em>”
+Students had the opportunity to collect primary data through photo annotations
+and conduct interviews with residents. This hands-on experience allowed
+them to develop important inquiry and fieldwork skills, while also building
+their confidence in engaging with members of the public. Many students
+found this particularly meaningful as it was their first experience conducting
+fieldwork beyond the classroom.
+<br>
+<br>This experiential learning journey encouraged students to consider diverse
+perspectives and reflect on their role as an active and concerned citizen
+in contributing to a sustainable and liveable Singapore. It also deepened
+their appreciation of how different subject disciplines are interconnected,
+and how the knowledge and skills they acquire in school can be applied
+meaningfully in the real world.
+<br>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Treelodge@Punggol" src="/images/Academic/Treelodge_1.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Students from 2PN and 2AY at Treelodge@Punggol</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="amenities for their photo annotation" src="/images/Academic/Treelodge_2.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Students taking photos of the amenities for their photo annotation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <h4><strong>Syllabus</strong></h4>
 <table style="minWidth: 50px">
