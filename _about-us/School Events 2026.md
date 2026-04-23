@@ -73,8 +73,9 @@ Q&amp;A</p>
 <p>The rally reached its crescendo with an engaging live Question-and-Answer
 segment, where candidates faced direct questions from the audience. This
 interactive portion provided an invaluable opportunity for students and
-teachers to engage directly with the candidates in Fig. 3 and 4.</p>
-<p>&nbsp;</p>
+teachers to engage directly with the candidates in Fig. 3 and 4.
+<br>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
