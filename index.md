@@ -94,7 +94,7 @@ sections:
       image: /images/Announcement/Athletes_Oath_taking_Ceremony_26_Cover.jpg
       alt: Athletes Oath 26
   - infopic:
-      title: Singapore Science & Engineering Festival (SSEF) 2026
+      title: 27th International Elementz Fair 2026
       id: infopic
       button: Click here to view
       url: /singapore-science-engineering-festival-ssef-2026/

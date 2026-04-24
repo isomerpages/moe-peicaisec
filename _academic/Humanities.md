@@ -653,7 +653,143 @@ the training and the collaborative nature of the unmoderated caucuses helped
 me see Social Studies through a much more practical lens. It piques your
 interest when you realize the theories we learn in class actually dictate
 how countries interact in real time."</p>
+<h4><strong>Interdisciplinary Learning Journey to Treelodge@Punggol</strong></h4>
+<p>In Term 2, the Humanities and Science department organised an interdisciplinary
+learning journey for the Secondary 2 students to Treelodge@Punggol. As
+Singapore’s first eco-precinct designed to harness natural elements to
+promote sustainable living, Treelodge@Punggol provided an authentic and
+meaningful setting for students to apply concepts from both Geography and
+Science in the context of real-world housing development.
+<br>
+<br>During the visit, students engaged in on-site observations and participated
+in various activities across four stations at the Eco-Deck. Through these
+activities, they applied Geography concepts to examine how housing design
+and the distribution of amenities influence the quality of life within
+a community. At the same time, they explored key Science concepts such
+as energy transfer, heat management and sustainability, gaining a deeper
+understanding of how eco-friendly features are incorporated into contemporary
+residential developments to promote environmental sustainability.
+<br>
+<br>The learning journey was also an integral part of the students’ Geographical
+Investigation (GI) assessment on “<em>How do the amenities in Punggol neighbourhood meet the needs of residents?</em>”
+Students had the opportunity to collect primary data through photo annotations
+and conduct interviews with residents. This hands-on experience allowed
+them to develop important inquiry and fieldwork skills, while also building
+their confidence in engaging with members of the public. Many students
+found this particularly meaningful as it was their first experience conducting
+fieldwork beyond the classroom.
+<br>
+<br>This experiential learning journey encouraged students to consider diverse
+perspectives and reflect on their role as an active and concerned citizen
+in contributing to a sustainable and liveable Singapore. It also deepened
+their appreciation of how different subject disciplines are interconnected,
+and how the knowledge and skills they acquire in school can be applied
+meaningfully in the real world.
+<br>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Treelodge@Punggol" src="/images/Academic/Treelodge_1.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 85%;" height="auto" width="100%" alt="amenities for their photo annotation" src="/images/Academic/Treelodge_2.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Students from 2PN and 2AY at Treelodge@Punggol</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students taking photos of the amenities for their photo annotation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="infographic boards during one of the station activities" src="/images/Academic/Treelodge_3.jpg">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="conducting an interview with the residents for their GI task" src="/images/Academic/Treelodge_4.jpg">
+</div>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Students engaging with the infographic boards during one of the station
+activities</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>One of the groups conducting an interview with the residents for their
+GI task</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Students’ reflections:</strong>
+<br>Chan Jeun Hong (2CY): During my learning journey to Treelodge@Punggol,
+I learnt that a housing estate can be designed to meet the needs of different
+people. The exercise corner showed me how residents can stay active, while
+features like ramps, railings and wide pathways make it easier for the
+elderly and people with disabilities to move around. Walking around with
+my friends made the experience more enjoyable as we were able to observe
+these features together while having a fun time. Overall, I benefitted
+from this learning journey by experiencing a housing estate equipped with
+many different amenities that meet the needs of different residents.</p>
+<p>Irina Gurung (2PN): During my visit to Treelodge@Punggol, I learnt that
+residents could grow their own crops in community gardens. This promotes
+sustainability and provides access to fresh food, which is not commonly
+seen in other HDB estates! The most memorable part of the learning journey
+was having the courage to interview residents alongside my friends. Although
+we faced challenges such as language barriers, we persevered and tried
+our best to understand their responses. This experience was especially
+meaningful as it allowed me to learn more about the different types of
+amenities available and how they meet residents’ needs. At the same time,
+I was able to build my confidence and improve my communication skills through
+interacting with members of the public.</p>
+<p>Toh Xi Tong (2MN): The learning journey to Treelodge@Punggol was a fun
+and engaging experience that allowed me to better understand how Singapore
+designs environmentally-friendly housing and provides amenities that benefit
+residents. Through this experience, I learnt how these features are carefully
+planned to improve efficiency and make living spaces more comfortable.
+Overall, it was a memorable and meaningful experience.</p>
+<p>Zachary Yohana Chua (2RE): The learning journey provided me with a valuable
+hands-on experience, where I could observe real-life examples of sustainable
+planning. This helped me better understand the sustainable management of
+housing, compared to relying on secondary data from the Internet where
+I could only imagine these environments. My favourite part of the learning
+journey was exploring Treelodge@Punggol and taking photos of the various
+amenities. This allowed me to think more deeply about how these features
+benefit both residents and the environment.</p>
 <h4><strong>Syllabus</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
