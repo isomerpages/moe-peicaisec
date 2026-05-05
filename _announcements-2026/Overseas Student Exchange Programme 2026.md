@@ -178,4 +178,29 @@ about Singapore’s culture through the painting of Peranakan tiles, gaining
 insights into local heritage and design motifs. This hands-on experience
 encouraged creativity, focus, and a deeper appreciation of diverse cultural
 perspectives.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Exploring Singapore’s culture" src="/images/Announcement/Exploring_Singapore_s_culture.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Exploring Singapore’s culture through the painting of Peranakan tiles.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
