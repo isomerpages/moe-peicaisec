@@ -112,6 +112,51 @@ learning conducted by our Senior Teacher, Mr Kelvin Leong.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CWCC and PCSS students engaged" src="/images/Announcement/CWCC_and_PCSS_students_engaged.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CWCC and PCSS students engaged in an active discussion during the lesson.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>A guided school tour led by our Peicaians provided CWCC students with
+a closer look at PCSS’s learning environment and facilities, while also
+offering opportunities for informal interaction and sharing. The highlight
+of the day was the Sports and Games segment, where students from both schools
+participated in frisbee and volleyball games.</p>
+<p>&nbsp;</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CWCC and PCSS students engaging in a quick game  1" src="/images/Announcement/CWCC_and_PCSS_students_engaging_in_a_quick_game_1.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CWCC and PCSS students engaging in a quick game of foosball at The Cove
+during the guided tour.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
