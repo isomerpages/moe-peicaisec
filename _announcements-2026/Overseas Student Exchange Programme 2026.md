@@ -70,11 +70,43 @@ PCSS community.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Michael, welcoming" src="/images/Announcement/Mr_Michael__welcoming.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Our Principal, Mr Michael, welcoming the CWCC staff and students to PCSS.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>This was followed by classroom lesson observations in Physics and Biology,
+where students experienced first-hand how technology and inquiry-based
+approaches are used to support learning.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CWCC students immersing themselves in a Physics lesson" src="/images/Announcement/CWCC_students_immersing_themselves_in_a_Physics_lesson.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CWCC students immersing themselves in a Physics lesson through inquiry-based
+learning conducted by our Senior Teacher, Mr Kelvin Leong.</p>
 </td>
 </tr>
 <tr>
