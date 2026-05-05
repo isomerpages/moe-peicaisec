@@ -41,6 +41,45 @@ the morning assembly.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Lo Yuk Kwong, Assistant Principal of CWCC" src="/images/Announcement/Mr_Lo_Yuk_Kwong__Assistant_Principal_of_CWCC.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lo Yuk Kwong, Assistant Principal of CWCC, receiving an appreciation
+plaque from our Vice Principal, Mr Shue, in recognition for the sustained
+partnership since 2024.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CWCC students, Ronald and Cassey" src="/images/Announcement/CWCC_students__Ronald_and_Cassey.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CWCC students, Ronald and Cassey, sharing about their school with the
+PCSS community.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
