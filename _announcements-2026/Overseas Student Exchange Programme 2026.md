@@ -199,6 +199,51 @@ perspectives.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Art Workshop" src="/images/Announcement/Art_Workshop.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CWCC and PCSS students proudly showcasing their completed Peranakan tiles
+from the Art Workshop.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Through these varied activities, students from both schools engaged actively,
+learned from one another, and forged new friendships. The visit concluded
+with a shared sense of appreciation for the opportunity to connect and
+learn together. PCSS looks forward to reconnecting with our partners in
+Hong Kong during our upcoming OSEP (Hong Kong) experience in October 2026!</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Students and teachers from CWCC and PCSS capturing a farewell group" src="/images/Announcement/Students_and_teachers_from_CWCC_and_PCSS_capturing_a_farewell_group.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Students and teachers from CWCC and PCSS capturing a farewell group photo
+to mark the conclusion of a meaningful day of exchange.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
