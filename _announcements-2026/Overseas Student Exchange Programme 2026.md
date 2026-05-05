@@ -134,7 +134,6 @@ a closer look at PCSS’s learning environment and facilities, while also
 offering opportunities for informal interaction and sharing. The highlight
 of the day was the Sports and Games segment, where students from both schools
 participated in frisbee and volleyball games.</p>
-<p>&nbsp;</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -157,8 +156,26 @@ during the guided tour.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CWCC and PCSS students engaging in a quick game 2" src="/images/Announcement/CWCC_and_PCSS_students_engaging_in_a_quick_game_2.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Students from both schools bonding through a friendly game of volleyball.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
+<p>The exchange continued with an Art Workshop, where CWCC students learnt
+about Singapore’s culture through the painting of Peranakan tiles, gaining
+insights into local heritage and design motifs. This hands-on experience
+encouraged creativity, focus, and a deeper appreciation of diverse cultural
+perspectives.</p>
 <p></p>
