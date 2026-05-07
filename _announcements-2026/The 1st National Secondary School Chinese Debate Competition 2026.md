@@ -26,7 +26,7 @@ Four Higher Chinese students to participate in this prestigious competition.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Peicaians debate team during the Preliminary Round.</p>
+<p>Peicaians Chinese debate team during the Preliminary Round.</p>
 </td>
 </tr>
 <tr>
@@ -49,6 +49,11 @@ debate rules and formats. They also underwent intensive training to improve
 their argumentation, rebuttal, questioning, and public speaking skills.
 Throughout the preparation process, the students demonstrated strong commitment,
 teamwork, and resilience.</p>
+<p>In the preliminary round held on 16 April 2026, Peicai Secondary School
+achieved an impressive victory against Anglican High School with a unanimous
+judges’ score of 6–0. In addition, Li Kunpeng from 3EE was awarded the
+title of Best Speaker for his outstanding performance, clear argumentation,
+and confident delivery.</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -58,13 +63,13 @@ teamwork, and resilience.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="debate team Impressive victory" src="/images/Announcement/debate_team_Impressive_victory.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="debate team 3" src="/images/Announcement/debate_team_3.jpg">
 </div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Impressive victory of 6-0 against Anglican High School.</p>
+<p>Debate team with the panelist during the Preliminary Round.</p>
 </td>
 </tr>
 <tr>
@@ -74,11 +79,6 @@ teamwork, and resilience.</p>
 </tr>
 </tbody>
 </table>
-<p>In the preliminary round held on 16 April 2026, Peicai Secondary School
-achieved an impressive victory against Anglican High School with a unanimous
-judges’ score of 6–0. In addition, Li Kunpeng from 3EE was awarded the
-title of Best Speaker for his outstanding performance, clear argumentation,
-and confident delivery.</p>
 <p>The team subsequently advanced to the Round of 16 held on 30 April 2026,
 where they faced the strong and experienced team from Hwa Chong Institution.
 Although the team was eventually eliminated from the competition, the students
@@ -95,13 +95,13 @@ the school. For a newly formed and relatively young team, achieving a Top
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="debate team 3" src="/images/Announcement/debate_team_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Second Round of competition" src="/images/Announcement/debate_team_4.jpg">
 </div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Debate team with the panelist during the competition.</p>
+<p>Second Round of competition against Hwa Chong Institution.</p>
 </td>
 </tr>
 <tr>
