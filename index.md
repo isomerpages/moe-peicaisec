@@ -9,6 +9,14 @@ sections:
   - hero:
       background: /images/Banner/Main_Banner_Main_1F.jpg
   - infopic:
+      title: Chinese Debate Competition 2026
+      id: infopic
+      description: 1st National Secondary School Chinese Debate Competition 2026
+      button: click here to view
+      url: /the-1st-national-secondary-school-chinese-debate-competition-2026/
+      image: /images/Announcement/Debate_cover.jpg
+      alt: Image alt text
+  - infopic:
       title: Overseas Student Exchange Programme
       subtitle: PCSS Hosts
       id: infopic
@@ -479,12 +487,4 @@ sections:
       title: Announcements
       subtitle: PEICAI SECONDARY SCHOOL
       button: More details
-  - infopic:
-      title: Chinese Debate Competition 2026
-      id: infopic
-      description: 1st National Secondary School Chinese Debate Competition 2026
-      button: click here to view
-      url: /the-1st-national-secondary-school-chinese-debate-competition-2026/
-      image: /images/Announcement/Debate_cover.jpg
-      alt: Image alt text
 ---
