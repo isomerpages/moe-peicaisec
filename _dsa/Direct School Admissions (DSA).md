@@ -146,7 +146,7 @@ in performances</p>
 as well as representing the school at the Asia Pacific Bands Festival 2026.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Students applying should demonstrate passion and potential in dance. They
+<p>Students applying should demonstrate passion and potential in band. They
 should also have the relevant experience which could include the following:</p>
 <p>• attained a minimum conduct grade of “Good”</p>
 <p>• represented at school or national level or relevant external organisations
