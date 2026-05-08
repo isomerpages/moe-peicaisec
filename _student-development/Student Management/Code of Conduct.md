@@ -354,6 +354,12 @@ tests or examinations. Absence from a test/examination without a valid
 MC will result in the student getting a zero mark for the test/examination.</p>
 <p>(g) Submitted MCs must be issued by a medical practitioner registered
 under the Medical Registration Act or the Dental Registration Act.</p>
+<p>For MCs obtained via teleconsultations, if the number submitted exceeds
+five per semester, students may be required to provide further medical
+clarification, attend an in-person medical consultation with a doctor,
+and/or meet the school together with their parents/guardians so that the
+school and parents can work in partnership to better support the student’s
+attendance, well-being and academic progress.</p>
 <p>(h) Persistent truancy is viewed as a wilful absence from school and may
 result in expulsion. A student who is absent from school without any valid
 reasons for three days (the days need not be consecutive), will be issued
