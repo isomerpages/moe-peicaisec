@@ -1,0 +1,251 @@
+---
+title: Overseas Student Exchange Programme 2026
+permalink: /overseas-student-exchange-programme-2026/
+variant: tiptap
+description: ""
+---
+<p>On 23 April 2026, Peicai Secondary School (PCSS) hosted a delegation of
+24 students and 4 teachers from Caritas Wu Cheng-Chung College (CWCC),
+Hong Kong, as part of our Overseas Student Exchange Programme (OSEP) partnership.
+<br>
+<br>The visit was anchored on a series of interactive and immersive activities
+designed to provide CWCC students with authentic insights into school life
+at PCSS, while fostering meaningful peer-to-peer engagement.
+<br>
+<br>Throughout the day, CWCC students were hosted by our PCSS students who
+had participated in the OSEP (Hong Kong) programme since last year. Drawing
+from their own exchange experiences, these student ambassadors played an
+active role in facilitating interactions, guiding their peers through the
+programme, and encouraging conversations that deepened cultural understanding.
+The programme began with a welcome segment during the school’s morning
+assembly, where CWCC students were introduced to the PCSS community.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CWCC students receiving a warm welcome" src="/images/Announcement/CWCC_students_receiving_a_warm_welcome.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CWCC students receiving a warm welcome from the PCSS community during
+the morning assembly.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Lo Yuk Kwong, Assistant Principal of CWCC" src="/images/Announcement/Mr_Lo_Yuk_Kwong__Assistant_Principal_of_CWCC.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lo Yuk Kwong, Assistant Principal of CWCC, receiving an appreciation
+plaque from our Vice Principal, Mr Shue, in recognition for the sustained
+partnership since 2024.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CWCC students, Ronald and Cassey" src="/images/Announcement/CWCC_students__Ronald_and_Cassey.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CWCC students, Ronald and Cassey, sharing about their school with the
+PCSS community.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Michael, welcoming" src="/images/Announcement/Mr_Michael__welcoming.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Our Principal, Mr Michael, welcoming the CWCC staff and students to PCSS.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>This was followed by classroom lesson observations in Physics and Biology,
+where students experienced first-hand how technology and inquiry-based
+approaches are used to support learning.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CWCC students immersing themselves in a Physics lesson" src="/images/Announcement/CWCC_students_immersing_themselves_in_a_Physics_lesson.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CWCC students immersing themselves in a Physics lesson through inquiry-based
+learning conducted by our Senior Teacher, Mr Kelvin Leong.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CWCC and PCSS students engaged" src="/images/Announcement/CWCC_and_PCSS_students_engaged.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CWCC and PCSS students engaged in an active discussion during the lesson.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>A guided school tour led by our Peicaians provided CWCC students with
+a closer look at PCSS’s learning environment and facilities, while also
+offering opportunities for informal interaction and sharing. The highlight
+of the day was the Sports and Games segment, where students from both schools
+participated in frisbee and volleyball games.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CWCC and PCSS students engaging in a quick game  1" src="/images/Announcement/CWCC_and_PCSS_students_engaging_in_a_quick_game_1.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CWCC and PCSS students engaging in a quick game of foosball at The Cove
+during the guided tour.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CWCC and PCSS students engaging in a quick game 2" src="/images/Announcement/CWCC_and_PCSS_students_engaging_in_a_quick_game_2.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Students from both schools bonding through a friendly game of volleyball.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>The exchange continued with an Art Workshop, where CWCC students learnt
+about Singapore’s culture through the painting of Peranakan tiles, gaining
+insights into local heritage and design motifs. This hands-on experience
+encouraged creativity, focus, and a deeper appreciation of diverse cultural
+perspectives.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Exploring Singapore’s culture" src="/images/Announcement/Exploring_Singapore_s_culture.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Exploring Singapore’s culture through the painting of Peranakan tiles.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Art Workshop" src="/images/Announcement/Art_Workshop.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CWCC and PCSS students proudly showcasing their completed Peranakan tiles
+from the Art Workshop.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Through these varied activities, students from both schools engaged actively,
+learned from one another, and forged new friendships. The visit concluded
+with a shared sense of appreciation for the opportunity to connect and
+learn together. PCSS looks forward to reconnecting with our partners in
+Hong Kong during our upcoming OSEP (Hong Kong) experience in October 2026!</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Students and teachers from CWCC and PCSS capturing a farewell group" src="/images/Announcement/Students_and_teachers_from_CWCC_and_PCSS_capturing_a_farewell_group.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Students and teachers from CWCC and PCSS capturing a farewell group photo
+to mark the conclusion of a meaningful day of exchange.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
