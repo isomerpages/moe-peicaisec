@@ -20,7 +20,7 @@ Four Higher Chinese students to participate in this prestigious competition.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="debate team 1" src="/images/Announcement/debate_team_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Debate pic1" src="/images/Announcement/Debate_pic1.jpg">
 </div>
 </th>
 </tr>
@@ -63,7 +63,7 @@ and confident delivery.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="debate team 3" src="/images/Announcement/debate_team_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Debate pic2" src="/images/Announcement/Debate_pic2.jpg">
 </div>
 </th>
 </tr>
@@ -95,7 +95,7 @@ the school. For a newly formed and relatively young team, achieving a Top
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Second Round of competition" src="/images/Announcement/debate_team_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Debate pic3" src="/images/Announcement/Debate_pic3.jpg">
 </div>
 </th>
 </tr>
