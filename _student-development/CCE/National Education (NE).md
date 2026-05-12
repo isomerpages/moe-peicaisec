@@ -343,7 +343,7 @@ to the world.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="IFD img 5" src="/images/Student Development/IFD_img_5.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="IFD img 5" src="/images/Student Development/IFD_img_5.jpg">
 </div>
 </th>
 </tr>
