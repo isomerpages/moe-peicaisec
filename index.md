@@ -480,4 +480,13 @@ sections:
       title: Announcements
       subtitle: PEICAI SECONDARY SCHOOL
       button: More details
+  - infopic:
+      title: Silver Award at Asia Pacific Band Festival (APBF) 2026
+      subtitle: Concert Band
+      id: infopic
+      description: Infopic description
+      button: Click here to view
+      url: /concert-band-silver-award-at-asia-pacific-band-festival-apbf-2026/
+      image: /images/Achievements/Cover.jpg
+      alt: Image alt text
 ---
