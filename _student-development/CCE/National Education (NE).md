@@ -251,9 +251,109 @@ and a willingness to understand others. In a world that can sometimes feel
 divided, our students were encouraged to see themselves as bridges—individuals
 who can connect, respect, and grow alongside others, contributing to a
 more inclusive and harmonious community.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="IFD 1" src="/images/Student Development/IFD_img_1.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="IFD img 2" src="/images/Student Development/IFD_img_2.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="IFD 3" src="/images/Student Development/IFD_img_3.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>On 6 April, students Ray Heng Zeng Rui from Secondary 2 HY and Zara Eliza
+Joseph from Secondary 2 PN took to the stage to share their perspectives
+on building friendships in a in a diverse society.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower secondary students analysing ST IN excerpts sharing insights on
+building international friendships through openness and mutual understanding.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Upper Secondary students in discussion with their teacher facilitator,
+sharing perspectives and exploring why Singapore continues to forge friendships
+in an increasingly complex world.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="IFD img 4" src="/images/Student Development/IFD_img_4.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Upper Secondary students presenting their responses synthesising ideas
+from different articles on why Singapore must remain open and connected
+to the world.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="IFD img 5" src="/images/Student Development/IFD_img_5.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p></p>
 <p><strong>International Friendship Day 2025</strong>
