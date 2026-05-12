@@ -55,7 +55,7 @@ Day, International Friendship Day, Racial Harmony Day as well as National
 Day.</p>
 <hr>
 <h4><strong>Key Programmes:</strong></h4>
-<p><strong>Total Defence Day 2026</strong> 
+<p><strong>Total Defence Day 2026</strong>
 </p>
 <p>Peicai commemorated Total Defence Day 2026 on 9<sup> </sup>February through
 engaging and interactive activities that helped students understand their
@@ -220,6 +220,42 @@ activity</p>
 <p>These meaningful experiences deepened students’ understanding of Total
 Defence and strengthened their sense of responsibility, empowering them
 to contribute in building a resilient and prepared nation.</p>
+<p><strong>International Friendship Day 2026</strong>
+</p>
+<p>Peicai came together as a school to commemorate International Friendship
+Day (IFD) with the theme, “Singapore: Forging Friendships in a Complex
+World.” More than just a school programme, the day provided a meaningful
+opportunity for students to reflect on what it truly means to live in a
+connected and diverse world, and how friendships—both near and far—play
+a part in shaping who we are.
+<br>Through thoughtfully designed activities, students were invited to step
+into the perspectives of others and consider how people from different
+cultures can learn from and support one another. Lower Secondary students
+explored real-life experiences through ST IN articles, engaging in discussions
+that highlighted the importance of openness, empathy, and understanding.
+Upper Secondary students deepened their learning by examining how Singapore
+builds and maintains relationships with other countries, and why these
+connections matter, especially in uncertain times.
+<br>
+<br>Students also learnt about the importance of forging meaningful connections
+with our neighbours to help Singapore remain relevant in a complex world.
+They explored the value of openness and international cooperation, while
+deepening their understanding of Singapore’s geopolitical realities and
+national interests. One engaging approach was through country infographics,
+which our international students helped to design, raising awareness about
+their home countries and enriching their peers’ perspectives.
+<br>
+<br>Ultimately, the International Friendship Day programme reminded students
+that friendship goes beyond familiarity; it requires effort, openness,
+and a willingness to understand others. In a world that can sometimes feel
+divided, our students were encouraged to see themselves as bridges—individuals
+who can connect, respect, and grow alongside others, contributing to a
+more inclusive and harmonious community.</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p><strong>International Friendship Day 2025</strong>
 </p>
 <p>For the whole week of the 7<sup>th</sup> to 11<sup>th</sup> April, Peicai
