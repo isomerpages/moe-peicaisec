@@ -16,7 +16,7 @@ at the NUS University Cultural Centre.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Concert Band img 1" src="/images/Announcement/Concert_Band_img_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Band img 2a" src="/images/Announcement/Concert_Band_img_2A.jpg">
 </div>
 </th>
 </tr>
