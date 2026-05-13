@@ -14,7 +14,7 @@ sections:
       id: infopic
       button: Click here to view
       url: /concert-band-silver-award-at-asia-pacific-band-festival-apbf-2026/
-      image: /images/Achievements/Cover.jpg
+      image: /images/Announcement/Concert_Band_img_2A.jpg
       alt: Image alt text
   - infopic:
       title: Chinese Debate Competition 2026
