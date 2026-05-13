@@ -47,7 +47,7 @@ at the NUS University Cultural Centre.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Band cover page" src="/images/Achievements/Cover.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Band img 2a" src="/images/Announcement/Concert_Band_img_2A.jpg">
 </div>
 </th>
 </tr>
@@ -77,7 +77,7 @@ high standards required for regional competition.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Band image 1" src="/images/Achievements/Band_image_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Concert Band img 4" src="/images/Announcement/Concert_Band_img_4.jpg">
 </div>
 </th>
 </tr>
@@ -104,13 +104,13 @@ of discipline, responsibility and camaraderie.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Band image 2A" src="/images/Achievements/Band_image_2A.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="Concert Band img 1" src="/images/Announcement/Concert_Band_img_1.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Band image 2" src="/images/Achievements/Band_image_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Concert Band img 3" src="/images/Announcement/Concert_Band_img_3.jpg">
 </div>
 </th>
 </tr>
@@ -137,24 +137,7 @@ University Symphonic Band, Japan)
 Music, Singapore Armed Forces Central Band)</p>
 <p>We congratulate all band members on this well-deserved achievement and
 look forward to their continued musical excellence in upcoming performances.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Certificate of Distinction at the Singapore Youth Festival Art Presentation
-2025</p>
-</li>
-<li>
-<p>Anchor Performance at the Singapore Youth Festival Gardens by the Bay
-Concert 2024</p>
-</li>
-<li>
-<p>5-Star Distinction Award at the Tampines Central PAssionArts Festival
-Open Stage Band Competition 2024</p>
-</li>
-<li>
-<p>4-Star Merit Award at the Tampines Central PAssionArts Festival Open Stage
-Band Competition 2023</p>
-</li>
-</ul>
+<p></p>
 <h4><strong>CCA Schedule</strong></h4>
 <p></p>
 <table style="minWidth: 25px">
