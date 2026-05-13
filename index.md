@@ -74,14 +74,6 @@ sections:
       image: /images/Announcement/Bilingual_Youth_Model_United_Nations__pic_0.jpg
       alt: Image alt text
   - infopic:
-      title: School Canteen Advertisement
-      id: infopic
-      description: Western Food Stall
-      button: click here to view
-      url: /school-canteen-advertisement/school-canteen-advertisement/
-      image: /images/Announcement/School_Cafeteria_Banner.jpg
-      alt: Image alt text
-  - infopic:
       title: Softball Carnival 2026
       id: infopic
       button: Click here to view
