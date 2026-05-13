@@ -17,7 +17,7 @@ at the NUS University Cultural Centre.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Band cover page" src="/images/Achievements/Cover.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Concert Band img 1" src="/images/Announcement/Concert_Band_img_2.jpg">
 </div>
 </th>
 </tr>
@@ -47,7 +47,7 @@ high standards required for regional competition.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Band image 1" src="/images/Achievements/Band_image_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Concert Band img 4" src="/images/Announcement/Concert_Band_img_4.jpg">
 </div>
 </th>
 </tr>
@@ -74,13 +74,13 @@ of discipline, responsibility and camaraderie.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Band image 2A" src="/images/Achievements/Band_image_2A.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="Concert Band img 1" src="/images/Announcement/Concert_Band_img_1.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Band image 2" src="/images/Achievements/Band_image_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Concert Band img 3" src="/images/Announcement/Concert_Band_img_3.jpg">
 </div>
 </th>
 </tr>
