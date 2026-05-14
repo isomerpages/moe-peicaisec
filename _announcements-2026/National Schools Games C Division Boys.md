@@ -13,7 +13,7 @@ description: ""
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="Gold Medal 01 NSG" src="/images/Announcement/Gold_Medal_in_national_competition_01.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="Gold Medal 01 NSG" src="/images/Announcement/Gold_Medal_in_national_competition_01.jpg">
 </div>
 </th>
 </tr>
@@ -42,7 +42,7 @@ C Division Boys-Kyorugi, Under-74KG Weight Class Category</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="Gold medal NSG img 2" src="/images/Announcement/Gold_Medal_in_national_competition_04.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="Gold medal NSG img 2" src="/images/Announcement/Gold_Medal_in_national_competition_04.jpg">
 </div>
 </th>
 </tr>
@@ -67,7 +67,7 @@ C Division Boys-Kyorugi, Under-74KG Weight Class Category</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="Gold medal Taekwondo match img 3" src="/images/Announcement/Gold_Medal_in_national_competition_02.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="Gold medal Taekwondo match img 3" src="/images/Announcement/Gold_Medal_in_national_competition_02.jpg">
 </div>
 </th>
 </tr>
@@ -101,7 +101,7 @@ and focus can lead to outstanding results on the national stage.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="Taekwondo match prize ceremony in school img 4" src="/images/Announcement/Gold_Medal_in_national_competition_03.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="Taekwondo match prize ceremony in school img 4" src="/images/Announcement/Gold_Medal_in_national_competition_03.jpg">
 </div>
 </th>
 </tr>
