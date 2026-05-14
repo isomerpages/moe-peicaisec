@@ -4,6 +4,9 @@ permalink: /national-schools-games-c-division-boys/
 variant: tiptap
 description: ""
 ---
+<p>We are proud to celebrate the outstanding achievement of <strong>Koh Hoaw Haun</strong> from <strong>Class 2HY</strong>,
+who has secured the <strong>Gold Medal</strong> in the National Schools Games
+C Division Boys-Kyorugi, Under-74KG Weight Class Category</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -30,9 +33,7 @@ competition.</p>
 </tr>
 </tbody>
 </table>
-<p>We are proud to celebrate the outstanding achievement of <strong>Koh Hoaw Haun</strong> from <strong>Class 2HY</strong>,
-who has secured the <strong>Gold Medal</strong> in the National Schools Games
-C Division Boys-Kyorugi, Under-74KG Weight Class Category</p>
+<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
