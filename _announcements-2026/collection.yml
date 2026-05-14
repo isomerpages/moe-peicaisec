@@ -2,6 +2,8 @@ collections:
   announcements-2026:
     output: true
     order:
+      - National Schools Games C Division Boys.md
+      - Concert Band Silver Award at Asia Pacific Band Festival (APBF) 2026.md
       - The 1st National Secondary School Chinese Debate Competition 2026.md
       - Overseas Student Exchange Programme 2026.md
       - Fireside Conversation with Dr Ernest Tan.md

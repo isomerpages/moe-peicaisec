@@ -55,6 +55,307 @@ Day, International Friendship Day, Racial Harmony Day as well as National
 Day.</p>
 <hr>
 <h4><strong>Key Programmes:</strong></h4>
+<p><strong>Total Defence Day 2026</strong>
+</p>
+<p>Peicai commemorated Total Defence Day 2026 on 9<sup> </sup>February through
+engaging and interactive activities that helped students understand their
+role in safeguarding Singapore’s security in an increasingly digital world.</p>
+<p>During the morning flag-raising ceremony, student presenters highlighted
+how modern threats have evolved to include cyber-attacks, system disruptions,
+and power outages. They reminded the student body of the National Education
+message: that we must ourselves defend Singapore, as our security and well-being
+cannot be left to others but depend on the choices and actions of each
+of us.</p>
+<p>Singapore’s security rely on all of us, and everyone has a role to play
+in defending the nation through responsible choices and actions.</p>
+<p>Total Defence Day also marks a historical moment over 80 years ago, when
+Singapore fell to the Japanese military during World War II. We commemorate
+this event annually as a reminder of our collective responsibility to keep
+our nation safe and sovereign. Today, while threats may take new forms
+through technology and digital systems, the importance of vigilance and
+personal responsibility remains unchanged.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcement/total_defence_26_1.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Student presenters, Zoe (2AY) and Caleigh (4EE) presenting on the significance
+of Total Defence Day during morning flag-raising</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcement/total_defence_26_2.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Learning in action: Students discover how they can contribute to Singapore’s
+Total Defence.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>During CCE lessons, lower secondary students participated in stakeholder
+games and interactive flipchart discussions. By exploring how disruptions
+affect different members of society, they developed empathy and gained
+a deeper appreciation of how individual actions contribute to collective
+preparedness.</p>
+<p>Upper secondary students engaged in stakeholder simulations, assuming
+specific roles and responding to crisis scenarios. The highlight was the
+“Hot Seat” activity, where students shared response strategies while their
+peers asked thoughtful questions, strengthening both their critical thinking
+and communication skills.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcement/total_defence_26_3.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher facilitating a class discussion on potential digital disruptions
+in Singapore fostering critical thinking and awareness of cyber and system-related
+risks.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcement/total_defence_26_4.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Students showcasing communication, collaboration, and inventive thinking
+skills during the Stakeholder Game and interactive Flipchart activity on
+Digital Disruption.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcement/total_defence_26_5.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Students demonstrated communication and critical thinking skills as they
+present their stakeholder’s perspective to the class during the “Hot Seat”
+activity</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>These meaningful experiences deepened students’ understanding of Total
+Defence and strengthened their sense of responsibility, empowering them
+to contribute in building a resilient and prepared nation.</p>
+<p><strong>International Friendship Day 2026</strong>
+</p>
+<p>Peicai came together as a school to commemorate International Friendship
+Day (IFD) with the theme, “Singapore: Forging Friendships in a Complex
+World.” More than just a school programme, the day provided a meaningful
+opportunity for students to reflect on what it truly means to live in a
+connected and diverse world, and how friendships—both near and far—play
+a part in shaping who we are.
+<br>Through thoughtfully designed activities, students were invited to step
+into the perspectives of others and consider how people from different
+cultures can learn from and support one another. Lower Secondary students
+explored real-life experiences through ST IN articles, engaging in discussions
+that highlighted the importance of openness, empathy, and understanding.
+Upper Secondary students deepened their learning by examining how Singapore
+builds and maintains relationships with other countries, and why these
+connections matter, especially in uncertain times.
+<br>
+<br>Students also learnt about the importance of forging meaningful connections
+with our neighbours to help Singapore remain relevant in a complex world.
+They explored the value of openness and international cooperation, while
+deepening their understanding of Singapore’s geopolitical realities and
+national interests. One engaging approach was through country infographics,
+which our international students helped to design, raising awareness about
+their home countries and enriching their peers’ perspectives.
+<br>
+<br>Ultimately, the International Friendship Day programme reminded students
+that friendship goes beyond familiarity; it requires effort, openness,
+and a willingness to understand others. In a world that can sometimes feel
+divided, our students were encouraged to see themselves as bridges—individuals
+who can connect, respect, and grow alongside others, contributing to a
+more inclusive and harmonious community.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="IFD 1" src="/images/Student Development/IFD_img_1.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="IFD img 2" src="/images/Student Development/IFD_img_2.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="IFD 3" src="/images/Student Development/IFD_img_3.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>On 6 April, students Ray Heng Zeng Rui from Secondary 2 HY and Zara Eliza
+Joseph from Secondary 2 PN took to the stage to share their perspectives
+on building friendships in a in a diverse society.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower secondary students analysing ST IN excerpts sharing insights on
+building international friendships through openness and mutual understanding.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Upper Secondary students in discussion with their teacher facilitator,
+sharing perspectives and exploring why Singapore continues to forge friendships
+in an increasingly complex world.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="IFD img 4" src="/images/Student Development/IFD_img_4.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Upper Secondary students presenting their responses synthesising ideas
+from different articles on why Singapore must remain open and connected
+to the world.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="IFD img 5" src="/images/Student Development/IFD_img_5.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
 <p><strong>International Friendship Day 2025</strong>
 </p>
 <p>For the whole week of the 7<sup>th</sup> to 11<sup>th</sup> April, Peicai

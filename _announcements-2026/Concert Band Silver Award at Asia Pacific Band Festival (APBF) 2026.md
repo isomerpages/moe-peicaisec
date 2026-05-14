@@ -1,40 +1,9 @@
 ---
-title: Concert Band
-permalink: /cca/ccas/performing-arts/concert-band/
-description: ""
-third_nav_title: Performing Arts
+title: Concert Band Silver Award at Asia Pacific Band Festival (APBF) 2026
+permalink: /concert-band-silver-award-at-asia-pacific-band-festival-apbf-2026/
 variant: tiptap
+description: ""
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Concert_Band_1.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Concert_Band_2.jpg">
-</div>
-<h4><strong>Goals &amp; Objectives</strong></h4>
-<ol data-tight="true" class="tight">
-<li>
-<p>Established in 1984, the Peicai Concert Band provides students with a
-holistic musical education that cultivates discipline, teamwork and a lifelong
-appreciation for music. The band exposes members to a diverse repertoire
-of musical works, allowing them to develop musicality, confidence and creativity.</p>
-</li>
-<li>
-<p>With little or no prior music background, band members demonstrate remarkable
-growth and excellence, achieving Distinction at the Singapore Youth Festival
-(SYF) Arts Presentation.</p>
-</li>
-<li>
-<p>Beyond regular rehearsals, we aim to expose band members by having them
-participate in sectional workshops, school exchange programmes and public
-performances, which further broaden their musical experiences.</p>
-</li>
-</ol>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Concert_Band_3.jpg">
-</div>
-<h4><strong>CCA Achievements</strong></h4>
 <p>We are proud to share that our school’s Concert Band has attained a Silver
 Award at the Asia Pacific Band Festival (APBF) 2026, held on 29 April 2026
 at the NUS University Cultural Centre.</p>
@@ -137,21 +106,3 @@ University Symphonic Band, Japan)
 Music, Singapore Armed Forces Central Band)</p>
 <p>We congratulate all band members on this well-deserved achievement and
 look forward to their continued musical excellence in upcoming performances.</p>
-<p></p>
-<h4><strong>CCA Schedule</strong></h4>
-<p></p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Sec 1 Only | Tuesday | 3:15 - 5:45PM</p>
-<p>Sec 2 - 5s Only | Monday | 3:15 - 5:45PM</p>
-<p>All Levels | Thursday | 3:15 - 5:45PM</p>
-</th>
-</tr>
-</tbody>
-</table>
-<p></p>

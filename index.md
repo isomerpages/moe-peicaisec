@@ -9,6 +9,22 @@ sections:
   - hero:
       background: /images/Banner/Main_Banner_Main_1F.jpg
   - infopic:
+      title: National Schools Games C Division Boys
+      id: infopic
+      description: Kyorugi, Under-74KG Weight Class Category (GOLD)
+      button: click here to view
+      url: /national-schools-games-c-division-boys/
+      image: /images/Announcement/Cover.jpg
+      alt: Image alt text
+  - infopic:
+      title: Silver Award at Asia Pacific Band Festival (APBF) 2026
+      subtitle: Concert Band
+      id: infopic
+      button: Click here to view
+      url: /concert-band-silver-award-at-asia-pacific-band-festival-apbf-2026/
+      image: /images/Announcement/Concert_Band_img_2A.jpg
+      alt: Image alt text
+  - infopic:
       title: Chinese Debate Competition 2026
       id: infopic
       description: 1st National Secondary School Chinese Debate Competition 2026
@@ -64,14 +80,6 @@ sections:
       button: Click here to view
       url: /bilingual-youth-model-united-nations-bymun/
       image: /images/Announcement/Bilingual_Youth_Model_United_Nations__pic_0.jpg
-      alt: Image alt text
-  - infopic:
-      title: School Canteen Advertisement
-      id: infopic
-      description: Western Food Stall
-      button: click here to view
-      url: /school-canteen-advertisement/school-canteen-advertisement/
-      image: /images/Announcement/School_Cafeteria_Banner.jpg
       alt: Image alt text
   - infopic:
       title: Softball Carnival 2026
@@ -153,13 +161,6 @@ sections:
       url: https://www.youtube.com/watch?v=SYMVEysGbx4
       alt: Image alt text
       image: /images/Announcement/CNY.jpg
-  - infopic:
-      title: Total Defence Day 2026
-      id: infopic
-      button: Click here to view
-      url: /total-defence-day-2026/
-      image: /images/Announcement/total_defence_26_cover.jpg
-      alt: TTD26
   - infopic:
       title: Hosting Suanboonyopathum Lamphun School
       id: infopic
