@@ -480,4 +480,12 @@ sections:
       title: Announcements
       subtitle: PEICAI SECONDARY SCHOOL
       button: More details
+  - infopic:
+      title: National Schools Games C Division Boys
+      id: infopic
+      description: Kyorugi, Under-74KG Weight Class Category (GOLD)
+      button: click here to view
+      url: /national-schools-games-c-division-boys/
+      image: /images/Announcement/Cover.jpg
+      alt: Image alt text
 ---
