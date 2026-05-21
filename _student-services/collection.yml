@@ -2,6 +2,7 @@ collections:
   student-services:
     output: true
     order:
+      - Singapore Youth Festival Art Presentation 2026.md
       - National Examination Matters.md
       - Booklist.md
       - End of Year Sale of Books & Uniforms (For School Year 2026).md
