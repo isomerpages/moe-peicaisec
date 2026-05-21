@@ -16,6 +16,13 @@ sections:
       image: /images/Achievements/Catergory_A_shortlisted_artwork_1_for_SYF_exhibition_2026.png
       alt: Image alt text
   - infopic:
+      title: Dunman High Debate Open 2026 (DHDO)
+      id: infopic
+      button: Click here to view
+      url: /dunman-high-debate-open-2026/
+      image: /images/Achievements/Debate_Open_A.jpg
+      alt: Image alt text
+  - infopic:
       title: National Schools Games C Division Boys
       id: infopic
       description: Kyorugi, Under-74KG Weight Class Category (GOLD)
