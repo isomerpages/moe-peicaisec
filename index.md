@@ -9,6 +9,13 @@ sections:
   - hero:
       background: /images/Banner/Main_Banner_Main_1F.jpg
   - infopic:
+      title: Singapore Youth Festival Art Presentation 2026
+      id: infopic
+      button: click here to view
+      url: /singapore-youth-festival-art-presentation-2026/
+      image: /images/Achievements/Catergory_A_shortlisted_artwork_1_for_SYF_exhibition_2026.png
+      alt: Image alt text
+  - infopic:
       title: National Schools Games C Division Boys
       id: infopic
       description: Kyorugi, Under-74KG Weight Class Category (GOLD)
@@ -488,11 +495,4 @@ sections:
       title: Announcements
       subtitle: PEICAI SECONDARY SCHOOL
       button: More details
-  - infopic:
-      title: Singapore Youth Festival Art Presentation 2026
-      id: infopic
-      button: click here to view
-      url: /singapore-youth-festival-art-presentation-2026/
-      image: /images/Achievements/Catergory_A_shortlisted_artwork_1_for_SYF_exhibition_2026.png
-      alt: Image alt text
 ---
