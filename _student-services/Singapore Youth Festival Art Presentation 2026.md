@@ -33,3 +33,60 @@ and passion that our Art Club members have poured into their creative journeys.
 We warmly invite all Peicaians to visit the exhibition and show your support
 for your fellow schoolmates. Let us celebrate their achievements together
 and be inspired by the stories their art has to tell.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Catergory A_shortlisted artwork 1 for SYF exhibition 2026" src="/images/Achievements/Catergory_A_shortlisted_artwork_1_for_SYF_exhibition_2026.png">
+</div>
+<p>Catergory A_shortlisted artwork 1 for SYF exhibition 2026</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Catergory A_shortlisted artwork 2 for SYF exhibition 2026" src="/images/Achievements/Catergory_A_shortlisted_artwork_2_for_SYF_exhibition_2026.png">
+</div>
+<p><strong>Catergory A_shortlisted artwork 2 for SYF exhibition 2026</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Catergory A_shortlisted artwork 3 for SYF exhibition 2026" src="/images/Achievements/Catergory_A_shortlisted_artwork_3_for_SYF_exhibition_2026.png">
+</div>
+<p><strong>Catergory A_shortlisted artwork 3 for SYF exhibition 2026</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Catergory B_shortlisted artwork for SYF exhibition 2026" src="/images/Achievements/Catergory_B_shortlisted_artwork_for_SYF_exhibition_2026.png">
+</div>
+<p><strong>Catergory B_shortlisted artwork for SYF exhibition 2026</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="overview of shortlisted artwork for SYF exhibition 2026" src="/images/Achievements/overview_of_shortlisted_artwork_for_SYF_exhibition_2026.png">
+</div>
+<p>overview of shortlisted artwork for SYF exhibition 2026</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
