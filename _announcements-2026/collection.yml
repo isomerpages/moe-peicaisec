@@ -2,6 +2,7 @@ collections:
   announcements-2026:
     output: true
     order:
+      - Elements of Business Skills National Competition 2026.md
       - X Bots Ignite Challenge.md
       - Singapore Youth Festival Art Presentation 2026.md
       - Dunman High Debate Open 2026.md
