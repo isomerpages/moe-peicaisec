@@ -16,6 +16,13 @@ sections:
       image: /images/Announcement/X_bots_pic_3.png
       alt: Image alt text
   - infopic:
+      title: Elements of Business Skills National Competition 2026
+      id: infopic
+      button: click here to view
+      url: /elements-of-business-skills-national-competition-2026/
+      image: /images/Announcement/Cover_page.jpg
+      alt: Image alt text
+  - infopic:
       title: Singapore Youth Festival Art Presentation 2026
       id: infopic
       button: click here to view
