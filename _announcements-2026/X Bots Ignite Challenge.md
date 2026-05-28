@@ -35,4 +35,35 @@ STEM-related skills beyond the classroom.</p>
 <p>We congratulate Keith, Ashton and Evelyn on their outstanding achievement,
 and thank their teachers for guiding and supporting them throughout this
 learning journey.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="X bots pic 1" src="/images/Announcement/X_bots_pic_1.png">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="X bots pic 2" src="/images/Announcement/X_bots_pic_2.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="X bots pic 3" src="/images/Announcement/X_bots_pic_3.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
