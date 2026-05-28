@@ -174,6 +174,116 @@ include the following:</p>
 </tr>
 </tbody>
 </table>
+<p>The Sec 3 ECG Forum was successfully held on 21 May 2026 as part of the
+school’s Education and Career Guidance (ECG) programme. The forum aimed
+to broaden students’ awareness of the diverse education and career pathways
+available to them while encouraging them to remain resilient and motivated
+in pursuing their aspirations.</p>
+<p>Students attended engaging keynote addresses by lawyers Thaddeus Oh and
+Jonathan Tan from Withers Worldwide, as well as Verleeen Goh from Alchemy
+Foodtech. The speakers shared candidly about their educational journeys,
+career experiences and the challenges they encountered along the way. Through
+their authentic sharing, students gained valuable insights into the legal
+and food technology industries, while learning the importance of perseverance,
+adaptability and continuous learning.</p>
+<p>Students also participated in breakout sessions conducted by alumni members
+Marie Soh, Marklin Ang, Ronald Tan, Jenzus Hsu, Kelvin Ching and Samuel
+Tey, who shared their post-secondary experiences, career journeys and personal
+reflections with students. Their relatable experiences encouraged students
+to stay open-minded and confident as they plan their future pathways.</p>
+<p>The school would like to thank all invited speakers, alumni members, teachers
+and staff for contributing to the success of the event.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ECG pic 1" src="/images/Student Development/Ecg_pic_1.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Keynote speakers sharing and Q&amp;A session facilitated by student moderator
+Kalista Cheah (3PN) and our Principal Mr Michael presenting tokens of appreciation
+to all speakers</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ecg pic 2" src="/images/Student Development/Ecg_pic_2.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Our six alumni speakers who shared their invaluable experiences with their
+juniors.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ecg pic 3" src="/images/Student Development/Ecg_pic_3.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Alumni engaging their juniors in stories of their educational and career
+journeys.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ecg pic 4" src="/images/Student Development/Ecg_pic_4.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Our S3 students found the sessions enriching and engaging.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h4><strong>Interaction with Post-Secondary Institutions (ITE)</strong></h4>
 <p>At Peicai Secondary, we emphasize helping students make informed decisions
 about their educational and career pathways. Events like the ‘Start Smart’
