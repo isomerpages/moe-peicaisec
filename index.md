@@ -9,6 +9,20 @@ sections:
   - hero:
       background: /images/Banner/Main_Banner_Main_1F.jpg
   - infopic:
+      title: X-Bots Ignite Challenge
+      id: infopic
+      button: click here to view
+      url: /x-bots-ignite-challenge/
+      image: /images/Announcement/X_bots_pic_3.png
+      alt: Image alt text
+  - infopic:
+      title: Elements of Business Skills National Competition 2026
+      id: infopic
+      button: click here to view
+      url: /elements-of-business-skills-national-competition-2026/
+      image: /images/Announcement/Cover_page.jpg
+      alt: Image alt text
+  - infopic:
       title: Singapore Youth Festival Art Presentation 2026
       id: infopic
       button: click here to view
