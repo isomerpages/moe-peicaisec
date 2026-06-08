@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h4><strong>Semester Two 2026</strong></h4>
 <p>Please click on each link to access the subject overview of each subject
-for Semester One 2026</p>
+for Semester Two 2026</p>
 <p>Do note that the subject overviews are tentative and subject to changes.</p>
 <table style="minWidth: 100px">
 <colgroup>
