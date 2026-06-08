@@ -9,6 +9,14 @@ sections:
   - hero:
       background: /images/Banner/Main_Banner_Main_1F.jpg
   - infopic:
+      title: Debating Championships (Silver Division) 2026
+      subtitle: Champion of the RI Under-14s
+      id: infopic
+      button: click here to view
+      url: /champion-of-the-raffles-institution-under-14s-debating-championships-silver-division-2026/
+      image: /images/Announcement/Champ_RI_img_1.jpg
+      alt: Image alt text
+  - infopic:
       title: X-Bots Ignite Challenge
       id: infopic
       button: click here to view
