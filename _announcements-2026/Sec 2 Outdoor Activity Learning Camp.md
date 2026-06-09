@@ -69,4 +69,78 @@ classes will challenge their team’s camaraderie in Low Elements as well
 as the BPEC Water Challenge, where they have to activate all their core
 muscles in order to cross over a body of water through limited tools and
 ropes.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Outdoor activity 03" src="/images/Announcement/Outdoor_Activity_03.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>The last syndicate of 4 classes will undergo a series of team challenges
+that they will have to solve, alongside making a meal that will replace
+their lunch / dinner through outdoor cooking.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Outdoor activity 04" src="/images/Announcement/Outdoor_Activity_04.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>The programme matrix then rotates to allow every camper to experience
+all of these exciting activities, and through that, also learn to live
+life without relying too much on the convenience of mobile phones and sedentary
+activities.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Outdoor activity 05" src="/images/Announcement/Outdoor_activity_05.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>On the final night of camp, the cohort then came together to celebrate
+their team achievements with a rousing campfire, opened officially by our
+Principal, Mr Michael to cap off an excellent camp of bonding, of effective
+communication and collaboration, and of class spirit.
+<br>
+<br>With this, the cohort successfully completes their first sojourn and looks
+forward to their next main challenge outdoors: The Secondary 3 MOE-OBS
+Challenge Programme! &nbsp;</p>
