@@ -152,7 +152,7 @@ platform to showcase their skills and passions beyond the classroom.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Violin performance" src="/images/Announcement/C_R_Day_2026_10.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="C&amp;R Day img 10" src="/images/Announcement/C_R_Day_2026_10_A.jpg">
 </div>
 </td>
 </tr>
