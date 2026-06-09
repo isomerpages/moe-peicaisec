@@ -88,4 +88,16 @@ nothing is impossible with discipline and hardwork.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>Students were also awarded for their contributions in non-academic areas
+such as CCAs. The ceremony witnessed a host of students in the senior category
+who clinched awards in the following areas:
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PCSS Outstanding Leader of the Year
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PCSS Outstanding Contributor of
+the Year
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PCSS Outstanding Female and Male
+Cadet of the Year
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PCSS Outstanding Female and Male
+Performer of the Year
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PCSS Sports Girl and Boy of the
+Year
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PCSS CCA Colours Awards</p>
