@@ -2,6 +2,7 @@ collections:
   announcements-2026:
     output: true
     order:
+      - Sec 2 Outdoor Activity Learning Camp.md
       - Champion of the Raffles Institution Under 14s Debating Championships
         Silver Division 2026.md
       - X Bots Ignite Challenge.md
