@@ -128,3 +128,47 @@ Year
 and celebrated for their continued contribution and dedication to the MOE
 and Peicai alike. Recipients who served anywhere form 5 years to 30 years
 were given the MOE Long Service Award and/or the Peicai Long Service Award.</p>
+<p>Celebration and Recognition Day also featured a series of captivating
+student performances. The Uniformed Groups showcased their precision, discipline
+and teamwork through a well-coordinated drill performance. This was followed
+by a delightful violin performance and a duet performance, both of which
+showcased the performers’ musical talent, dedication and musicality. These
+performances added vibrancy to the event and provided students with a valuable
+platform to showcase their skills and passions beyond the classroom.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Uniformed Group Drill Performance" src="/images/Announcement/C_R_Day_2026_09.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Violin performance" src="/images/Announcement/C_R_Day_2026_10.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Duet performance" src="/images/Announcement/C_R_Day_2026_11.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>In the final segment of Celebration &amp; Recognition Day, Principal Mr
+Michael delivered his Principal’s Address. His message served not only
+to inspire and encourage students, but also to reinforce the values, aspirations,
+and goals that every Peicaian strives to uphold. Through his address, students
+were reminded of the importance of character, resilience, and a commitment
+to excellence in their journey of growth and learning.</p>
