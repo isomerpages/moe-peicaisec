@@ -101,3 +101,30 @@ Performer of the Year
 <br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PCSS Sports Girl and Boy of the
 Year
 <br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PCSS CCA Colours Awards</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="C&amp;R Day 07" src="/images/Announcement/C_R_Day_2026_07.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="C&amp;R Day 08" src="/images/Announcement/C_R_Day_2026_08.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Besides students, teaching and non-teaching staff were also recognised
+and celebrated for their continued contribution and dedication to the MOE
+and Peicai alike. Recipients who served anywhere form 5 years to 30 years
+were given the MOE Long Service Award and/or the Peicai Long Service Award.</p>
