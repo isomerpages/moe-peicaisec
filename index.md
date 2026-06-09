@@ -9,6 +9,13 @@ sections:
   - hero:
       background: /images/Banner/Main_Banner_Main_1F.jpg
   - infopic:
+      title: Celebration & Recognition Day, Semester 1 2026
+      id: infopic
+      button: click here to view
+      url: /celebration-recognition-day-semester-1-2026/
+      image: /images/Announcement/Slide_1_banner.jpg
+      alt: Image alt text
+  - infopic:
       title: Debating Championships (Silver Division) 2026
       subtitle: Champion of the RI Under-14s
       id: infopic
