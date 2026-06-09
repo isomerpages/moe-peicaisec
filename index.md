@@ -16,6 +16,13 @@ sections:
       image: /images/Announcement/Slide_1_banner.jpg
       alt: Image alt text
   - infopic:
+      title: Sec 2 Outdoor Activity Learning Camp
+      id: infopic
+      button: click here to view
+      url: /sec-2-outdoor-activity-learning-camp/
+      image: /images/Announcement/Outdoor_activity_05.jpg
+      alt: Image alt text
+  - infopic:
       title: Debating Championships (Silver Division) 2026
       subtitle: Champion of the RI Under-14s
       id: infopic
