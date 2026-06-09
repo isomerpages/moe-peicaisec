@@ -73,6 +73,17 @@ nothing is impossible with discipline and hardwork.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="C&amp;R Day img 05" src="/images/Announcement/C_R_Day_2026_05.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="C&amp;R Day img 06" src="/images/Announcement/C_R_Day_2026_06.jpg">
+</div>
 </td>
 </tr>
 </tbody>
