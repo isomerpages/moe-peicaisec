@@ -9,6 +9,13 @@ sections:
   - hero:
       background: /images/Banner/Main_Banner_Main_1F.jpg
   - infopic:
+      title: SWAP 2026 (Mid Year)
+      id: infopic
+      button: click here to view
+      url: /swap-2026-mid-year/
+      image: /images/Announcement/Cover_SWAP.jpg
+      alt: Image alt text
+  - infopic:
       title: NCC Dragonboat Regetta (Semi-Finals)
       id: infopic
       button: click here to view
