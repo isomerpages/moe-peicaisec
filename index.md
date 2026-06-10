@@ -9,6 +9,13 @@ sections:
   - hero:
       background: /images/Banner/Main_Banner_Main_1F.jpg
   - infopic:
+      title: NCC Dragonboat Regetta (Semi-Finals)
+      id: infopic
+      button: click here to view
+      url: /ncc-dragonboat-regetta-semi-finals/
+      image: /images/Announcement/2__Cover_Photo__Dragon_Boat_.jpg
+      alt: Image alt text
+  - infopic:
       title: NCC (SEA) Unit Recognition - Distinction
       id: infopic
       description: Infopic description
