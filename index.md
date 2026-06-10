@@ -501,13 +501,6 @@ sections:
       image: /images/Aboutus/ICDC_2025_2.png
       alt: PCSS ICDC 25
   - infopic:
-      title: "NCC (Sea) Unit Achievement: Distinction Award 2024"
-      id: infopic
-      button: Click here to view
-      url: /ncc-sea-unit-achievement-distinction-award-2024/
-      image: /images/Achievements/NCC_SEA_2025_10.jpg
-      alt: NCC (Sea)
-  - infopic:
       title: SRC Softball Championship 2025
       id: infopic
       button: Click here to view
