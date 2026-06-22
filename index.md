@@ -9,6 +9,42 @@ sections:
   - hero:
       background: /images/Banner/Main_Banner_Main_1F.jpg
   - infopic:
+      title: SWAP 2026 (Mid Year)
+      id: infopic
+      button: click here to view
+      url: /swap-2026-mid-year/
+      image: /images/Announcement/Cover_SWAP.jpg
+      alt: Image alt text
+  - infopic:
+      title: NCC Dragonboat Regetta (Semi-Finals)
+      id: infopic
+      button: click here to view
+      url: /ncc-dragonboat-regetta-semi-finals/
+      image: /images/Announcement/2__Cover_Photo__Dragon_Boat_.jpg
+      alt: Image alt text
+  - infopic:
+      title: NCC (SEA) Unit Recognition - Distinction
+      id: infopic
+      description: Infopic description
+      button: click here to view
+      url: /ncc-sea-unit-recognition-distinction/
+      image: /images/Announcement/NCC_01.jpg
+      alt: Image alt text
+  - infopic:
+      title: Celebration & Recognition Day, Semester 1 2026
+      id: infopic
+      button: click here to view
+      url: /celebration-recognition-day-semester-1-2026/
+      image: /images/Announcement/Slide_1_banner.jpg
+      alt: Image alt text
+  - infopic:
+      title: Sec 2 Outdoor Activity Learning Camp
+      id: infopic
+      button: click here to view
+      url: /sec-2-outdoor-activity-learning-camp/
+      image: /images/Announcement/Outdoor_activity_05.jpg
+      alt: Image alt text
+  - infopic:
       title: Debating Championships (Silver Division) 2026
       subtitle: Champion of the RI Under-14s
       id: infopic
@@ -248,13 +284,6 @@ sections:
       image: /images/Announcement/For_Upload_on_School_Website____Sec_1_PES_Talk___CCA.jpg
       alt: Image alt text
   - infopic:
-      title: Inspiring Teacher of English Award 2026
-      id: infopic
-      button: Click here to view
-      url: /inspiring-teacher-of-english-award-2026
-      image: /images/Announcement/Inspiring_EL_Teacher_Award_copy.jpg
-      alt: Image alt text
-  - infopic:
       title: Sec One Orientation 2026
       id: infopic
       button: Click here to view
@@ -478,13 +507,6 @@ sections:
       url: /peicai-inter-class-debate-championship-2025/
       image: /images/Aboutus/ICDC_2025_2.png
       alt: PCSS ICDC 25
-  - infopic:
-      title: "NCC (Sea) Unit Achievement: Distinction Award 2024"
-      id: infopic
-      button: Click here to view
-      url: /ncc-sea-unit-achievement-distinction-award-2024/
-      image: /images/Achievements/NCC_SEA_2025_10.jpg
-      alt: NCC (Sea)
   - infopic:
       title: SRC Softball Championship 2025
       id: infopic
