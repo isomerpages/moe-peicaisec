@@ -633,31 +633,36 @@ Debating Championship Preliminary Round.</p>
 </colgroup>
 <tbody>
 <tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2025/1184_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">1184 "O" Level English</a>
-</p>
+<p>1184 "O" Level English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/NA%20Lvl%20Syllabus%20Private%20Cddts/2025/1190_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">1190 ‘N(A)’ Level English</a>
-</p>
+<p>1190 ‘N(A)’ Level English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/NT%20Lvl%20Syllabus%20Sch%20Cddts/2025/1195_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">1195 ‘N(T)’ Level English</a>
-</p>
+<p>1195 ‘N(T)’ Level English</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2026/2262_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">2262 ‘O’ Level Humanities (Social Studies, Literature in English)</a>
-</p>
+<p>2262 ‘O’ Level Humanities (Social Studies, Literature in English)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2025/2065_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">2065 ‘O’ Level (Pure Literature)</a>
-</p>
+<p>2065 ‘O’ Level (Pure Literature)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/NA%20Level%20Syllabus%20Sch%20Cddts/2026/2127_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">2127 ‘N(A)’ Level Humanities (Social Studies, Literature in English)</a>
-</p>
+<p>2127 ‘N(A)’ Level Humanities (Social Studies, Literature in English)</p>
 </td>
 </tr>
 </tbody>
