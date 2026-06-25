@@ -610,19 +610,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Khay Yi Sarah</p>
-</td>
-<td rowspan="2" colspan="1">
-<p>2PN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tan_khay_yi_sarah@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Zhao Liying</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2PN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">zhao_liying_a@moe.edu.sg</a>
