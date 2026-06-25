@@ -1081,19 +1081,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tao Ruijue</p>
-</td>
-<td rowspan="2" colspan="1">
-<p>4CY</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tao_ruijue@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Zhou Wensi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4CY</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">eileen_zhou@moe.edu.sg</a>
