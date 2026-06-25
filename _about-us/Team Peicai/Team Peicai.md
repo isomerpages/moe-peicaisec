@@ -447,19 +447,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Yong Xian</p>
-</td>
-<td rowspan="2" colspan="1">
-<p>1AY</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_yong_xian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yong_xian@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Hana Syazwani Binte Sulaiman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1AY</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:hana_syazwani_sulaiman_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hana_syazwani_sulaiman_b@moe.edu.sg</a>
@@ -848,11 +839,20 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Tay Kai Yi</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>3PN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">tay_kai_yi_e@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Yong Xian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_yong_xian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yong_xian@moe.edu.sg</a>
 </p>
 </td>
 </tr>
