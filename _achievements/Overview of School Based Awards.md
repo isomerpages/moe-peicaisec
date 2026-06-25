@@ -53,6 +53,63 @@ a Semestral basis and demonstrated exemplary conduct.</p>
 </tbody>
 </table>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="Sec 1 Principal list" src="/images/Achievements/Sec_1_Principal_list.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="Sec 2 Principal list" src="/images/Achievements/Sec_2_Principal_list.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="Sec 3 Principal list" src="/images/Achievements/Sec_3_Principal_list.jpg">
+</div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Name of award</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Description of award</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CCA Colours Award (Senior Category)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Recognises and affirms Sec 4s students who have attained significant achievements
+in their respective CCAs and contributed to the running of the CCAs or
+to the school to his/her best ability.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="CCA Colours Award (Senior Category) 2026" src="/images/Achievements/CCA_Colours_Award__Senior_Category__2026.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="CCA Colours Award (Senior Category) 2026 p1" src="/images/Achievements/CCA_Colours_Award__Senior_Category__2026_p1.jpg">
+</div>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
