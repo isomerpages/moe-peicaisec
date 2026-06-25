@@ -36,7 +36,7 @@ variant: tiptap
 a Semestral basis and demonstrated exemplary conduct.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Presented at the end of Semester 2</p>
+<p>Presented at the end of Semester 1</p>
 </td>
 </tr>
 <tr>
