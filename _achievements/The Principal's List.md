@@ -4,6 +4,29 @@ permalink: /achievements/students/the-principals-list/
 description: ""
 variant: tiptap
 ---
+<h4><u>Principal's List 2026</u></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Principal's List sec 1 2026" src="/images/Achievements/Principal_s_List_2026__sec_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Principal's List sec 2 2026" src="/images/Achievements/Principal_s_List_2026__sec_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Principal's List sec 3 2026" src="/images/Achievements/Principal_s_List_2026__sec_3.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Principal's List sec 4 2026" src="/images/Achievements/Principal_s_List_2026__sec_4.jpg">
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <h4><u>Principal's List 2025</u></h4>
 <table style="minWidth: 50px">
 <colgroup>
