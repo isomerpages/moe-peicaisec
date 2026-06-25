@@ -4,6 +4,58 @@ permalink: /achievements/students/school-based-awards/
 description: ""
 variant: tiptap
 ---
+<h4>2025 Sem 1</h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Name of Award</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Description of Award</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Time of Presentation</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Principal’s List</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Recognises and affirms students who have achieve outstanding results on
+a Semestral basis and demonstrated exemplary conduct.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Presented at the end of Semester 2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <h4>2025 Sem 2</h4>
 <h4>School-based Student Achievements</h4>
 <table style="minWidth: 75px">
