@@ -814,11 +814,20 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Val Tan</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="2" colspan="1">
+<p>3AY</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:val_tan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">val_tan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr P Vinoth</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:p_vinoth@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">p_vinoth@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -931,7 +940,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Chee Khuen Woei Andy</p>
 </td>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>3CN</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -950,10 +959,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Francis Sim Choon Heng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
