@@ -102,15 +102,13 @@ to the school to his/her best ability.</p>
 </tbody>
 </table>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="CCA Colours Award (Senior Category) 2026" src="/images/Achievements/CCA_Colours_Award__Senior_Category__2026.jpg">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="CCA Colours Award (Senior Category) 2026 p1" src="/images/Achievements/CCA_Colours_Award__Senior_Category__2026_p1.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="CCA Colours Award (Senior Category) 2026 01" src="/images/Achievements/CCA_Colours_Award__Senior_Category__2026_01.jpg">
 </div>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 69%;" height="auto" width="100%" alt="CCA Colours Award (Senior Category) 2026 p1 A" src="/images/Achievements/CCA_Colours_Award__Senior_Category__2026_p1_A.jpg">
+</div>
 <p></p>
 <p></p>
 <h4>2025 Sem 2</h4>
