@@ -1075,19 +1075,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Chow May Yen</p>
-</td>
-<td rowspan="3" colspan="1">
-<p>4CE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chow_may_yen@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Tay Ning</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>4CE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">tay_ning@moe.edu.sg</a>
