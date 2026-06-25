@@ -4,7 +4,7 @@ permalink: /achievements/alumni/
 description: ""
 variant: tiptap
 ---
-<h4><strong>Peicai Alumni Activities </strong></h4>
+<h4><strong>Peicai Alumni Activities</strong></h4>
 <p>Peicai Secondary School continues to strengthen connections with its alumni
 through a variety of engaging activities. Throughout the year, former students
 returned to share their experiences, inspire current Peicaians, and contribute
