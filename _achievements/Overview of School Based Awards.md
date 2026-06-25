@@ -4,7 +4,7 @@ permalink: /achievements/students/school-based-awards/
 description: ""
 variant: tiptap
 ---
-<h4>2025 Sem 1</h4>
+<h4>2026 Sem 1</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
