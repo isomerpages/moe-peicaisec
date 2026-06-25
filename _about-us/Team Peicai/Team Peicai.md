@@ -367,18 +367,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Sera</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operations Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:serasozapandian_k@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">serasozapandian_k@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Sec 1 Form Teachers</strong>
 </p>
 </td>
