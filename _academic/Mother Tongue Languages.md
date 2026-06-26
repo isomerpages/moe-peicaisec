@@ -123,21 +123,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tao Ruijue</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chinese, Higher Chinese</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tao_ruijue@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tao_ruijue@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Zhu Ruoye</p>
 </td>
 <td rowspan="1" colspan="1">
