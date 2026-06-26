@@ -34,21 +34,6 @@ third_nav_title: Craft & Technology
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Chow May Yen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ST (Food &amp; Consumer Education)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NFS, FCE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chow_may_yen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chow_may_yen@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mrs Sheela Xavier</p>
 </td>
 <td rowspan="1" colspan="1">
