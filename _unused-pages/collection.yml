@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Code of.md
-      - School Events 2025.md
       - Staff.md
       - Students.md
       - Subject overview.md
