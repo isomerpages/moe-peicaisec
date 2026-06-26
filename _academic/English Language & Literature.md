@@ -243,21 +243,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Clement Vijayalakshmi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>English Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:clement_vijayalakshmi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">clement_vijayalakshmi@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Grace Lee</p>
 </td>
 <td rowspan="1" colspan="1">
