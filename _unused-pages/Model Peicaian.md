@@ -2,89 +2,175 @@
 title: Model Peicaian
 permalink: /about-us/our-peicai-family/students/model-peicaian/
 description: ""
+variant: tiptap
 ---
 <p>The Model Peicaian is Peicai Secondary School's pinnacle award.</p>
-<table style="width: 537px; margin-left: auto; margin-right: auto;">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<th style="width: 39.8281px;">Year</th>
-<th style="width: 481.172px; text-align: center;">Model Peicaian</th>
+<th rowspan="1" colspan="1">
+<p>Year</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Model Peicaian</p>
+</th>
 </tr>
 <tr>
-<td style="text-align: center; width: 39.8281px;">2001</td>
-<td style="text-align: center; width: 481.172px;">Tan Wei Min Simon</td>
+<td rowspan="1" colspan="1">
+<p>2001</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Wei Min Simon</p>
+</td>
 </tr>
 <tr>
-<td style="text-align: center; width: 39.8281px;">2002</td>
-<td style="text-align: center; width: 481.172px;">Chong Kai Sheng Jacob</td>
+<td rowspan="1" colspan="1">
+<p>2002</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chong Kai Sheng Jacob</p>
+</td>
 </tr>
 <tr>
-<td style="text-align: center; width: 39.8281px;">2003</td>
-<td style="text-align: center; width: 481.172px;">Maria Magdalena&nbsp;</td>
+<td rowspan="1" colspan="1">
+<p>2003</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Maria Magdalena&nbsp;</p>
+</td>
 </tr>
 <tr>
-<td style="text-align: center; width: 39.8281px;">2004</td>
-<td style="text-align: center; width: 481.172px;">Edwin Neo Boon Wee</td>
+<td rowspan="1" colspan="1">
+<p>2004</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Edwin Neo Boon Wee</p>
+</td>
 </tr>
 <tr>
-<td style="text-align: center; width: 39.8281px;">2006</td>
-<td style="text-align: center; width: 481.172px;">Rachel Gan Ling Rong</td>
+<td rowspan="1" colspan="1">
+<p>2006</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rachel Gan Ling Rong</p>
+</td>
 </tr>
 <tr>
-<td style="text-align: center; width: 39.8281px;">2007</td>
-<td style="text-align: center; width: 481.172px;">Lina Goh</td>
+<td rowspan="1" colspan="1">
+<p>2007</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lina Goh</p>
+</td>
 </tr>
 <tr>
-<td style="text-align: center; width: 39.8281px;">2009</td>
-<td style="text-align: center; width: 481.172px;">&nbsp;Seah Wei Ren Andrew&nbsp;</td>
+<td rowspan="1" colspan="1">
+<p>2009</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Seah Wei Ren Andrew&nbsp;</p>
+</td>
 </tr>
 <tr>
-<td style="text-align: center; width: 39.8281px;">2010</td>
-<td style="text-align: center; width: 481.172px;">&nbsp;Brenda Lim Hui Qun, Ng Cheng Rong, Toh Wei Cai&nbsp;</td>
+<td rowspan="1" colspan="1">
+<p>2010</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Brenda Lim Hui Qun, Ng Cheng Rong, Toh Wei Cai&nbsp;</p>
+</td>
 </tr>
 <tr>
-<td style="text-align: center; width: 39.8281px;">2011</td>
-<td style="text-align: center; width: 481.172px;">Regina Koh Sze Han, Ng Yih Jin</td>
+<td rowspan="1" colspan="1">
+<p>2011</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Regina Koh Sze Han, Ng Yih Jin</p>
+</td>
 </tr>
 <tr>
-<td style="text-align: center; width: 39.8281px;">2012</td>
-<td style="text-align: center; width: 481.172px;">Tan Wan Qing Tissany, Lim Chye Fen</td>
+<td rowspan="1" colspan="1">
+<p>2012</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Wan Qing Tissany, Lim Chye Fen</p>
+</td>
 </tr>
 <tr>
-<td style="text-align: center; width: 39.8281px;">2013</td>
-<td style="text-align: center; width: 481.172px;">Lee En Yi, Lim Ming Sheng</td>
+<td rowspan="1" colspan="1">
+<p>2013</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lee En Yi, Lim Ming Sheng</p>
+</td>
 </tr>
 <tr>
-<td style="text-align: center; width: 39.8281px;">2014</td>
-<td style="text-align: center; width: 481.172px;">Lim Zi Yue Sharon</td>
+<td rowspan="1" colspan="1">
+<p>2014</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lim Zi Yue Sharon</p>
+</td>
 </tr>
 <tr>
-<td style="text-align: center; width: 39.8281px;">2015</td>
-<td style="text-align: center; width: 481.172px;">Leng Wei Zhi Jerriel, Balangon Ronaleen Jezelle</td>
+<td rowspan="1" colspan="1">
+<p>2015</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Leng Wei Zhi Jerriel, Balangon Ronaleen Jezelle</p>
+</td>
 </tr>
 <tr>
-<td style="text-align: center; width: 39.8281px;">2016</td>
-<td style="text-align: center; width: 481.172px;">Constante Joschelly Hannah Magbitang, Placido Ronalbel Mananghaya</td>
+<td rowspan="1" colspan="1">
+<p>2016</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Constante Joschelly Hannah Magbitang, Placido Ronalbel Mananghaya</p>
+</td>
 </tr>
 <tr>
-<td style="text-align: center; width: 39.8281px;">2017</td>
-<td style="text-align: center; width: 481.172px;">Thanathorn Sukprasert, Tan Chao Khon</td>
+<td rowspan="1" colspan="1">
+<p>2017</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thanathorn Sukprasert, Tan Chao Khon</p>
+</td>
 </tr>
 <tr>
-<td style="text-align: center; width: 39.8281px;">2018</td>
-<td style="text-align: center; width: 481.172px;">Jared Lim, Lim Quan Fa&nbsp;</td>
+<td rowspan="1" colspan="1">
+<p>2018</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jared Lim, Lim Quan Fa&nbsp;</p>
+</td>
 </tr>
 <tr>
-<td style="text-align: center; width: 39.8281px;">2019</td>
-<td style="text-align: center; width: 481.172px;">Kelvin Ching Kay Feng, Tan Yi Zhi Dexter&nbsp;</td>
+<td rowspan="1" colspan="1">
+<p>2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kelvin Ching Kay Feng, Tan Yi Zhi Dexter&nbsp;</p>
+</td>
 </tr>
 <tr>
-<td style="text-align: center; width: 39.8281px;">2020</td>
-<td style="text-align: center; width: 481.172px;">Xu Ning, Long Hui Yern, Davien Zanon Cheah</td>
+<td rowspan="1" colspan="1">
+<p>2020</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Xu Ning, Long Hui Yern, Davien Zanon Cheah</p>
+</td>
 </tr>
 <tr>
-<td style="text-align: center; width: 39.8281px;">2021</td>
-<td style="text-align: center; width: 481.172px;">Fyleen Su Hui Qin, Ong Rui Si Regina, Putraj Santhoshi&nbsp;</td>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fyleen Su Hui Qin, Ong Rui Si Regina, Putraj Santhoshi&nbsp;</p>
+</td>
 </tr>
 </tbody>
 </table>
+<p></p>
