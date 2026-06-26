@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Code of.md
-      - Staff.md
       - Students.md
       - Subject overview.md
       - Assessment an promotion.md
