@@ -97,6 +97,5 @@ development in life skills, competencies and values.</p>
 </tbody>
 </table>
 <p>Learn more about the different domains of the LEAPS 2.0 Framework via
-: <strong>&lt;To be updated&gt;</strong>
+: <a href="https://www.moe.gov.sg/media/files/programmes/LEAPS%202%20Framework.pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/media/files/programmes/LEAPS%202%20Framework.pdf</a>
 </p>
-<p></p>

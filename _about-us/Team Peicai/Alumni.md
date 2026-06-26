@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Team Peicai
 variant: tiptap
 ---
-<h4><strong>Peicai Alumni Activities 2025</strong></h4>
+<h4><strong>Peicai Alumni Activities</strong></h4>
 <p>Peicai Secondary School continues to strengthen connections with its alumni
 through a variety of engaging activities. Throughout the year, former students
 returned to share their experiences, inspire current Peicaians, and contribute
@@ -17,6 +17,15 @@ and growth served as a source of motivation for current students.</p>
 <p>These meaningful interactions not only celebrate the achievements of our
 alumni but also reinforce the enduring bonds within the Peicai family —
 one that continues to grow, connect, and inspire across generations.</p>
+<h4><strong>2026</strong></h4>
+<p>Motivational Talk by Shankar Keerthina</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Motivational Talk by Shankar Keerthina" src="/images/Achievements/Motivational_Talk_by_Shankar_Keerthina.jpg">
+</div>
+<p></p>
+<h4><strong>2025</strong></h4>
+<p>Motivational Talk by Regina Koh</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -38,7 +47,16 @@ one that continues to grow, connect, and inspire across generations.</p>
 </tbody>
 </table>
 <h4><strong>Recent Alumni Achievements</strong></h4>
-<h4><strong>2025 </strong>CELEBRATION &amp; RECOGNITION DAY</h4>
+<p>NAC Arts Scholarship 2026 – Angela Tan Chng Xuen</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="NAC Arts Scholarship 2026 – Angela Tan Chng Xuen" src="/images/Achievements/NAC_Arts_Scholarship_2026___Angela_Tan_Chng_Xuen.jpg">
+</div>
+<h4>Celebration and Recognition Day 2026</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Celebration and Recognition Day 2026" src="/images/Achievements/Celebration_and_Recognition_Day_2026.jpg">
+</div>
+<h4>Celebration and Recognition Day 2025</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
