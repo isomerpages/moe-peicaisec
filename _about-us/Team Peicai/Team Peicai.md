@@ -1371,7 +1371,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ryan Tay</p>
+<p>Mr Tay Boon Heng Ryan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ICT Manager</p>
