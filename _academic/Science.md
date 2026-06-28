@@ -96,6 +96,22 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Hong Anliang Kenny</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH (Student Leadership)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower Sec Science</p>
+<p>&nbsp;Chemistry</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Hong_anliang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Hong_anliang@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Wong Poh Shen</p>
 </td>
 <td rowspan="1" colspan="1">
