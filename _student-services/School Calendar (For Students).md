@@ -5,8 +5,8 @@ description: ""
 variant: tiptap
 ---
 <h4><strong>2026</strong></h4>
-<p><strong>Term 3 (caa 26 June 2026)</strong>
-<br>Click <a href="/files/2026/Term_3_Students__Calendar_2026__caa_26_Jun_2026_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+<p><strong>Term 3 (caa 28 June 2026)</strong>
+<br>Click <a href="/files/2026/Term_3_Students__Calendar_2026__caa_28_Jun_2026_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 download
 <br>
 <br><strong>Term 4 (caa 25 June 2026)</strong>
