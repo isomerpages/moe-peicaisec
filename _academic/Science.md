@@ -305,6 +305,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Ng Li Ling Alicia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower Sec Science</p>
+<p>&nbsp;Physics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Halyssa Fatiha Hairi</p>
 </td>
 <td rowspan="1" colspan="1">
