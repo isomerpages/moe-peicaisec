@@ -136,6 +136,21 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P Vinoth</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Physical Education</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:p_vinoth@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>p_vinoth@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4><strong>Learning Outcomes</strong></h4>
