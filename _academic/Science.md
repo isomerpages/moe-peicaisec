@@ -96,6 +96,22 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Hong Anliang Kenny</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH (Student Leadership)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower Sec Science</p>
+<p>&nbsp;Chemistry</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Hong_anliang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Hong_anliang@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Wong Poh Shen</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -284,6 +300,22 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:val_tan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">val_tan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Ng Li Ling Alicia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower Sec Science</p>
+<p>&nbsp;Physics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="ng_Li_Ling_Alicia@moe.edu.sg" rel="noopener nofollow" target="_blank">ng_Li_Ling_Alicia@moe.edu.sg</a>
 </p>
 </td>
 </tr>

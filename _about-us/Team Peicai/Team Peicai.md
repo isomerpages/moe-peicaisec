@@ -271,6 +271,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Hong Anliang Kenny</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH (Student Leadership)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Hong_anliang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Hong_anliang@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Chua Jing Kai</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -459,7 +471,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ng Li Ling Alicia</p>
+<p>Ms Ng Li Ling Alicia<a href="ng_Li_Ling_Alicia@moe.edu.sg" rel="noopener nofollow" target="_blank">ng_Li_Ling_Alicia@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -599,20 +612,11 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Zhao Liying</p>
 </td>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p>2PN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">zhao_liying_a@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Hong Anliang Kenny</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Hong_anliang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Hong_anliang@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -940,7 +944,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Chee Khuen Woei Andy</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>3CN</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -955,14 +959,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">therese_malini_pereira@moe.edu.sg</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Francis Sim Choon Heng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -1368,7 +1364,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ryan Tay</p>
+<p>Mr Tay Boon Heng Ryan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ICT Manager</p>
