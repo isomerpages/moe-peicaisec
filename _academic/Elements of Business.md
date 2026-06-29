@@ -106,7 +106,8 @@ description: ""
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="Francis_Sim_Choon_Heng@moe.edusg" rel="noopener nofollow" target="_blank">Francis_Sim_Choon_Heng@moe.edusg</a>
+</p>
 </td>
 </tr>
 <tr>
