@@ -471,7 +471,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ng Li Ling Alicia</p>
+<p>Ms Ng Li Ling Alicia<a href="ng_Li_Ling_Alicia@moe.edu.sg" rel="noopener nofollow" target="_blank">ng_Li_Ling_Alicia@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
