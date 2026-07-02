@@ -837,7 +837,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr P Vinoth</p>
+<p>Mr Vinoth</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:p_vinoth@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">p_vinoth@moe.edu.sg</a>
