@@ -184,7 +184,7 @@ variant: tiptap
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chemistry</p>
+<p>Lower Sec Science Chemistry</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:goh_jin_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_jin_lee@moe.edu.sg</a>
@@ -252,22 +252,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:thenmozhi_nalathamby@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">thenmozhi_nalathamby@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Sarah Tan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lower Sec Science</p>
-<p>Biology</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_khay_yi_sarah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_khay_yi_sarah@moe.edu.sg</a>
 </p>
 </td>
 </tr>
