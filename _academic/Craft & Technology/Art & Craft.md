@@ -109,7 +109,7 @@ third_nav_title: Craft & Technology
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Sharon</p>
+<p>Ms Sharon Tan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
