@@ -138,7 +138,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P Vinoth</p>
+<p>Mr Vinoth</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
