@@ -379,6 +379,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Tay Boon Heng Ryan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ICT Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ryan_tay_boon_heng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ryan_tay_boon_heng@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Sec 1 Form Teachers</strong>
 </p>
 </td>
@@ -1359,18 +1371,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:mohamed_hafiz_mohamed_alwi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohamed_hafiz_mohamed_alwi@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Tay Boon Heng Ryan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ICT Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ryan_tay_boon_heng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ryan_tay_boon_heng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
