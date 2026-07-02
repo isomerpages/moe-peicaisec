@@ -483,11 +483,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ng Li Ling Alicia<a href="ng_Li_Ling_Alicia@moe.edu.sg" rel="noopener nofollow" target="_blank">ng_Li_Ling_Alicia@moe.edu.sg</a>
-</p>
+<p>Ms Ng Li Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Aliciang_Li_Ling_Alicia@moe.edu.sg" rel="noopener nofollow" target="_blank">Aliciang_Li_Ling_Alicia@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
