@@ -379,23 +379,19 @@ challenges</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>N Level</strong>
-</p>
+<p>G3 Design &amp; Technology</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/NT%20Lvl%20Syllabus%20Sch%20Cddts/2026/7062_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">7062 GCE N(T) Level</a>
-</p>
-<p><a href="https://www.seab.gov.sg/files/NA%20Level%20Syllabus%20Sch%20Cddts/2026/7055_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">7055 GCE N(A) Level</a>
+<p><a href="https://isomer-user-content.by.gov.sg/334/e5ed79ad-a947-474a-b650-679faf1f169d/7059_y26_sy.pdf" rel="noopener nofollow" target="_blank">G3 Design &amp; Technology</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>O Level</strong>
-</p>
+<p>G1 Design &amp; Technology</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2026/7059_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">7059 GCE O-Level</a>
+<p><a href="https://isomer-user-content.by.gov.sg/334/f300daff-cd74-44a9-bf53-c0509d7d9411/7062_y26_sy.pdf" rel="noopener nofollow" target="_blank">G1 Design &amp; Technology</a>
 </p>
 </td>
 </tr>
