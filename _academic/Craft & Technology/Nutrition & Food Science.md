@@ -262,6 +262,15 @@ recipes, and food presentation techniques as they compete for top honours.</p>
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CC Lower Sec Food &amp; Consumer Education</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.moe.gov.sg/media/files/secondary/fsbb/syllabus/2024%20Lower%20Secondary%20Food%20and%20Consumer%20Education%20Syllabus.pdf" rel="noopener nofollow" target="_blank">CC Lower Sec Food &amp; Consumer Education</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
