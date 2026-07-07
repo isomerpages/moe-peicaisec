@@ -198,11 +198,11 @@ or in pairs.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>Lower Secondary Music</u></strong>
-</p>
+<p>CC Lower Sec Music</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.moe.gov.sg/media/files/secondary/fsbb/syllabus/music/2023%20Primary%20and%20Lower%20Secondary%20Music%20Syllabus.pdf" rel="noopener nofollow" target="_blank">CC Lower Sec Music</a>
+</p>
 </td>
 </tr>
 </tbody>
