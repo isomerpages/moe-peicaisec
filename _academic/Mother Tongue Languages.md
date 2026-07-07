@@ -1595,25 +1595,25 @@ from songket fabric</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2025/1116_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Higher Chinese Syllabus (1116)</a>
+<p><a href="https://isomer-user-content.by.gov.sg/334/7ddaa983-3da0-4ac4-96a7-3816e3ac61c9/1116_y26_sy_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Higher Chinese Syllabus (1116)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2026/1160_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">G3 Chinese / Express Chinese Syllabus (1160)</a>
+<p><a href="https://isomer-user-content.by.gov.sg/334/b70bbbce-765d-4173-87bf-d300591052f5/1160_y26_sy_2.pdf" rel="noopener noreferrer nofollow" target="_blank">G3 Chinese / Express Chinese Syllabus (1160)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/NA%20Level%20Syllabus%20Sch%20Cddts/2025/1196_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">G2 Chinese / Normal Academic Chinese (1196)</a>
+<p><a href="https://isomer-user-content.by.gov.sg/334/41c0e9b1-f142-43ad-bf41-b86ead1f7405/1196_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">G2 Chinese / Normal Academic Chinese (1196)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/NT%20Lvl%20Syllabus%20Sch%20Cddts/2025/1202_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">G1 Chinese / Basic Chinese (1202)</a>
+<p><a href="https://isomer-user-content.by.gov.sg/334/667c6092-740b-45c1-b3ff-74e6edfb8c5b/1202_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">G1 Chinese / Basic Chinese (1202)</a>
 </p>
 <p><strong><u>&nbsp;</u></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2025/1153_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Chinese Syllabus ‘B’ (1153)</a>
+<p><a href="https://isomer-user-content.by.gov.sg/334/77319a0b-2b7b-43c2-b61e-7bfb6edb4589/1153_y26_sy_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Chinese Syllabus ‘B’ (1153)</a>
 </p>
 </td>
 </tr>
@@ -1654,25 +1654,25 @@ from songket fabric</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2025/1117_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Higher Malay Syllabus (1117)</a>
+<p><a href="https://isomer-user-content.by.gov.sg/334/d44781d2-97fe-4e96-8479-e6dd0a33a92f/1117_y26_sy_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Higher Malay Syllabus (1117)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2025/1148_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">G3 Malay / Express Malay Syllabus (1148)</a>
+<p><a href="https://isomer-user-content.by.gov.sg/334/ca9fa201-b872-4ab4-9adb-de337c7a27cc/1148_y26_sy_2.pdf" rel="noopener noreferrer nofollow" target="_blank">G3 Malay / Express Malay Syllabus (1148)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/NA%20Level%20Syllabus%20Sch%20Cddts/2025/1197_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">G2 Malay / Normal Academic Malay (1197)</a>
+<p><a href="https://isomer-user-content.by.gov.sg/334/93bc9b3c-880b-4e5d-9a03-c3e5bd009646/1197_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">G2 Malay / Normal Academic Malay (1197)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/NT%20Lvl%20Syllabus%20Sch%20Cddts/2025/1203_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">G1 Malay / Basic Malay (1203)</a>
+<p><a href="https://isomer-user-content.by.gov.sg/334/11d1a90f-ce50-4a65-b40c-33c51d27e698/1203_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">G1 Malay / Basic Malay (1203)</a>
 </p>
 <p><strong><u>&nbsp;</u></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2025/1151_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Malay Syllabus ‘B’ (1151)</a>
+<p><a href="https://isomer-user-content.by.gov.sg/334/3e5686e1-e8ae-47e4-9f6c-090fb2ac9789/1151_y26_sy_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Malay Syllabus ‘B’ (1151)</a>
 </p>
 </td>
 </tr>
