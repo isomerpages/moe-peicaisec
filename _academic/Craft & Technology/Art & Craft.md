@@ -335,23 +335,19 @@ artworks and critically assess art.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>N Level</strong>
-</p>
+<p>G3 Art</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/NT%20Lvl%20Syllabus%20Sch%20Cddts/2026/6128_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">6128 GCE N(T) Level</a>
-</p>
-<p><a href="https://www.seab.gov.sg/files/NA%20Level%20Syllabus%20Sch%20Cddts/2026/6127_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">6125 GCE N(A) Level</a>
+<p><a href="https://isomer-user-content.by.gov.sg/334/74463926-4922-4621-8902-6714514ad8af/6114_y26_sy_v0_3.pdf" rel="noopener nofollow" target="_blank">G3 Art</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>O Level</strong>
-</p>
+<p>G1 Art</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2026/6114_y26_sy_v0_3.pdf" rel="noopener noreferrer nofollow" target="_blank">6114 GCE O Level</a>
+<p><a href="https://isomer-user-content.by.gov.sg/334/2e801755-026e-4740-819e-61b54c4356a5/6128_y26_sy.pdf" rel="noopener nofollow" target="_blank">G1 Art</a>
 </p>
 </td>
 </tr>
