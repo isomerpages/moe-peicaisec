@@ -817,7 +817,7 @@ benefit both residents and the environment.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://isomer-user-content.by.gov.sg/334/4dc8940c-a281-4268-95f1-ee0fca1ad6ab/2065_y26_sy.pdf" rel="noopener nofollow" target="_blank">‘O’ Level (Pure Literature) </a>
+<p><a href="https://isomer-user-content.by.gov.sg/334/4dc8940c-a281-4268-95f1-ee0fca1ad6ab/2065_y26_sy.pdf" rel="noopener nofollow" target="_blank">‘O’ Level (Pure Literature)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -826,7 +826,7 @@ benefit both residents and the environment.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://isomer-user-content.by.gov.sg/334/45ebd129-5570-4077-99e0-336bba82fadc/2127_y26_sy.pdf" rel="noopener nofollow" target="_blank">‘N(A)’ Level Humanities (Social Studies, Literature in English) </a>
+<p><a href="https://isomer-user-content.by.gov.sg/334/45ebd129-5570-4077-99e0-336bba82fadc/2127_y26_sy.pdf" rel="noopener nofollow" target="_blank">‘N(A)’ Level Humanities (Social Studies, Literature in English)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
