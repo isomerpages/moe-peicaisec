@@ -791,6 +791,7 @@ journey was exploring Treelodge@Punggol and taking photos of the various
 amenities. This allowed me to think more deeply about how these features
 benefit both residents and the environment.</p>
 <h4><strong>Syllabus</strong></h4>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -798,66 +799,38 @@ benefit both residents and the environment.</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Upper Secondary NA level</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2025/2125_y25_sy_N_level_SSGY.pdf" rel="noopener noreferrer nofollow" target="_blank">Humanities(Geography) (SSGY)</a>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong><a href="https://isomer-user-content.by.gov.sg/334/519b4ff2-7fe8-44dc-96f2-9986dbba6563/2262_y26_sy.pdf" rel="noopener nofollow" target="_blank">‘O’ Level Humanities (Social Studies, Literature in English)</a></strong>
 </p>
+</th>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Upper Secondary O level</p>
+<p><a href="https://isomer-user-content.by.gov.sg/334/4dc8940c-a281-4268-95f1-ee0fca1ad6ab/2065_y26_sy.pdf" rel="noopener nofollow" target="_blank">‘O’ Level (Pure Literature) </a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025/2260_y25_sy_O_level_SSGY.pdf" rel="noopener noreferrer nofollow" target="_blank">Humanities(Geography) (SSGY)</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Upper Secondary O level</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2025/2279_y25_sy_O_level_GY.pdf" rel="noopener noreferrer nofollow" target="_blank">Geography</a>
+<p><a href="https://isomer-user-content.by.gov.sg/334/45ebd129-5570-4077-99e0-336bba82fadc/2127_y26_sy.pdf" rel="noopener nofollow" target="_blank">‘N(A)’ Level Humanities (Social Studies, Literature in English) </a>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Upper Secondary NA level</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2025/2126_y25_sy_N_level_SSHY.pdf" rel="noopener noreferrer nofollow" target="_blank">Humanities(History) (SSHY)</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Upper Secondary O level</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2025/2261_y25_sy_O_level_SSHY.pdf" rel="noopener noreferrer nofollow" target="_blank">Humanities(History) (SSHY)</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Upper Secondary O level</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2025/2174_y25_sy_O_level_HY.pdf" rel="noopener noreferrer nofollow" target="_blank">History</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Upper Secondary NT Level</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2025/7066_y25_sy_NT_Level_EBS.pdf" rel="noopener noreferrer nofollow" target="_blank">Elements of Business Skills (EBS)</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
