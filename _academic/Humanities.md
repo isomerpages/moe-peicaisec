@@ -802,7 +802,7 @@ benefit both residents and the environment.</p>
 <p>Upper Secondary NA level</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025/2125_y25_sy_N_level_SSGY.pdf" rel="noopener noreferrer nofollow" target="_blank">Humanities(Geography) (SSGY)</a>
+<p><a href="https://isomer-user-content.by.gov.sg/334/67f5fc2f-14f2-44e3-9a30-9cef1c15a8fe/2125_y26_sy.pdf" rel="noopener nofollow" target="_blank">Humanities(Geography) (SSGY)</a>
 </p>
 </td>
 </tr>
@@ -811,7 +811,7 @@ benefit both residents and the environment.</p>
 <p>Upper Secondary O level</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025/2260_y25_sy_O_level_SSGY.pdf" rel="noopener noreferrer nofollow" target="_blank">Humanities(Geography) (SSGY)</a>
+<p><a href="https://isomer-user-content.by.gov.sg/334/9dd22d76-8a1b-4106-867f-cc9ce447ac6a/2260_y26_sy.pdf" rel="noopener nofollow" target="_blank">Humanities(Geography) (SSGY)</a>
 </p>
 </td>
 </tr>
@@ -820,7 +820,7 @@ benefit both residents and the environment.</p>
 <p>Upper Secondary O level</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025/2279_y25_sy_O_level_GY.pdf" rel="noopener noreferrer nofollow" target="_blank">Geography</a>
+<p><a href="https://isomer-user-content.by.gov.sg/334/b5070a6b-fb07-4ffb-bea0-e7b554629ea1/2279_y26_sy.pdf" rel="noopener nofollow" target="_blank">Geography</a>
 </p>
 </td>
 </tr>
@@ -829,7 +829,7 @@ benefit both residents and the environment.</p>
 <p>Upper Secondary NA level</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025/2126_y25_sy_N_level_SSHY.pdf" rel="noopener noreferrer nofollow" target="_blank">Humanities(History) (SSHY)</a>
+<p><a href="https://isomer-user-content.by.gov.sg/334/d1f86d35-d3b4-4c16-83e1-d9369424e0f0/2126_y26_sy.pdf" rel="noopener nofollow" target="_blank">Humanities(History) (SSHY)</a>
 </p>
 </td>
 </tr>
@@ -838,7 +838,7 @@ benefit both residents and the environment.</p>
 <p>Upper Secondary O level</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025/2261_y25_sy_O_level_SSHY.pdf" rel="noopener noreferrer nofollow" target="_blank">Humanities(History) (SSHY)</a>
+<p><a href="https://isomer-user-content.by.gov.sg/334/93e78ba6-cef7-4366-bdda-25a6af04c6d4/2261_y26_sy.pdf" rel="noopener nofollow" target="_blank">Humanities(History) (SSHY)</a>
 </p>
 </td>
 </tr>
@@ -847,7 +847,7 @@ benefit both residents and the environment.</p>
 <p>Upper Secondary O level</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025/2174_y25_sy_O_level_HY.pdf" rel="noopener noreferrer nofollow" target="_blank">History</a>
+<p><a href="https://isomer-user-content.by.gov.sg/334/3622b032-4be0-497a-9192-399cb6c98b65/2174_y26_sy.pdf" rel="noopener nofollow" target="_blank">History</a>
 </p>
 </td>
 </tr>
@@ -856,8 +856,52 @@ benefit both residents and the environment.</p>
 <p>Upper Secondary NT Level</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025/7066_y25_sy_NT_Level_EBS.pdf" rel="noopener noreferrer nofollow" target="_blank">Elements of Business Skills (EBS)</a>
+<p><a href="https://isomer-user-content.by.gov.sg/334/033dafa4-0197-4b37-92de-a30a65e31d6c/7066_y26_sy.pdf" rel="noopener nofollow" target="_blank">Elements of Business Skills (EBS)</a>
 </p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong><a href="https://isomer-user-content.by.gov.sg/334/519b4ff2-7fe8-44dc-96f2-9986dbba6563/2262_y26_sy.pdf" rel="noopener nofollow" target="_blank">‘O’ Level Humanities (Social Studies, Literature in English)</a></strong>
+</p>
+</th>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://isomer-user-content.by.gov.sg/334/4dc8940c-a281-4268-95f1-ee0fca1ad6ab/2065_y26_sy.pdf" rel="noopener nofollow" target="_blank">‘O’ Level (Pure Literature)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://isomer-user-content.by.gov.sg/334/45ebd129-5570-4077-99e0-336bba82fadc/2127_y26_sy.pdf" rel="noopener nofollow" target="_blank">‘N(A)’ Level Humanities (Social Studies, Literature in English)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>

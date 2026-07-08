@@ -49,21 +49,6 @@ third_nav_title: Craft & Technology
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Cheong Xi Ling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NFS, FCE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:cheong_xi_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cheong_xi_ling@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Ow Ju-lin</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -261,23 +246,28 @@ recipes, and food presentation techniques as they compete for top honours.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>N Level</strong>
-</p>
+<p>G3 Nutrition &amp; Food Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/NT%20Lvl%20Syllabus%20Sch%20Cddts/2026/5979_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">5979 GCE N(T) Level</a>
-</p>
-<p><a href="https://www.seab.gov.sg/files/NA%20Level%20Syllabus%20Sch%20Cddts/2026/6073_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">6073 GCE N(A) Level</a>
+<p><a href="https://isomer-user-content.by.gov.sg/334/4e62de68-71cd-464f-b753-1219bb9ffe30/6097_y26_sy.pdf" rel="noopener nofollow" target="_blank">G3 Nutrition &amp; Food Science</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>O Level</strong>
-</p>
+<p>G1 Nutrition &amp; Food Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2026/6097_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">6097 GCE O-Level</a>
+<p><a href="https://isomer-user-content.by.gov.sg/334/258283e2-94a6-4512-a90a-15bbd07f3c81/5979_y26_sy.pdf" rel="noopener nofollow" target="_blank">G1 Nutrition &amp; Food Science</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CC Lower Sec Food &amp; Consumer Education</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.moe.gov.sg/media/files/secondary/fsbb/syllabus/2024%20Lower%20Secondary%20Food%20and%20Consumer%20Education%20Syllabus.pdf" rel="noopener nofollow" target="_blank">CC Lower Sec Food &amp; Consumer Education</a>
 </p>
 </td>
 </tr>

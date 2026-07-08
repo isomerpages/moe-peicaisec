@@ -641,13 +641,16 @@ Debating Championship Preliminary Round.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2262 ‘O’ Level Humanities (Social Studies, Literature in English)</p>
+<p><a href="https://isomer-user-content.by.gov.sg/334/c542bbf3-e54f-4d08-aeba-e58380a2808b/1184_y26_sy.pdf" rel="noopener nofollow" target="_blank">2262 ‘O’ Level Humanities (Social Studies, Literature in English)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2065 ‘O’ Level (Pure Literature)</p>
+<p><a href="https://isomer-user-content.by.gov.sg/334/55f52521-9ccc-46c3-b519-76cf45d68a44/1190_y26_sy.pdf" rel="noopener nofollow" target="_blank">2065 ‘O’ Level (Pure Literature)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2127 ‘N(A)’ Level Humanities (Social Studies, Literature in English)</p>
+<p><a href="https://isomer-user-content.by.gov.sg/334/e8ae8767-591b-4b5e-8936-894df8dfcfb3/1195_y26_sy.pdf" rel="noopener nofollow" target="_blank">2127 ‘N(A)’ Level Humanities (Social Studies, Literature in English)</a>
+</p>
 </td>
 </tr>
 </tbody>

@@ -193,12 +193,12 @@ propose solutions to real-life business scenarios.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/NA%20Level%20Syllabus%20Sch%20Cddts/2025/7086_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_new">N Level Syllabus 2025</a>
+<p><a href="https://isomer-user-content.by.gov.sg/334/39bc212f-fbd7-49fa-a5b2-5cade79edb44/K233_y27_sy.pdf" rel="noopener noreferrer nofollow" target="_new">N Level Syllabus 2025</a>
 </p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2025/7087_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_new">O Level Syllabus 2025</a>
+<p><a href="https://isomer-user-content.by.gov.sg/334/c9a41ab4-45e8-4f06-b1d4-aea62c994b8b/K342_y27_sy.pdf" rel="noopener noreferrer nofollow" target="_new">O Level Syllabus 2025</a>
 </p>
 </td>
 </tr>

@@ -100,7 +100,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Francis</p>
+<p>Mr Francis Sim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
