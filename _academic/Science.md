@@ -888,15 +888,15 @@ Mention (Physics)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2026/6091_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">6091 Physics</a>
+<p><a href="https://isomer-user-content.by.gov.sg/334/42ee79d0-bb13-43f5-94ab-629729f88aa0/6091_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">6091 Physics</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2026/6092_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">6092 Chemistry</a>
+<p><a href="https://isomer-user-content.by.gov.sg/334/19dfb9f9-b3ce-4609-a3cf-5d30052317f5/6092_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">6092 Chemistry</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2026/6093_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">6093 Biology</a>
+<p><a href="https://isomer-user-content.by.gov.sg/334/3d8f2c30-36a3-4aa3-babe-4a41b314a381/6093_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">6093 Biology</a>
 </p>
 </td>
 </tr>
