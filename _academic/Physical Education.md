@@ -457,7 +457,8 @@ to interact in a group made up of students from other schools.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>&nbsp;<a href="2024 Physical Education Primary Secondary and PreUniversity Syllabus.pdf" rel="noopener nofollow" target="_blank">Physical Education</a>
+</p>
 </td>
 </tr>
 </tbody>
