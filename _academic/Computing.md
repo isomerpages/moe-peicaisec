@@ -291,6 +291,7 @@ Sec.</p>
 </tbody>
 </table>
 <h4><strong>Syllabus</strong></h4>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -307,15 +308,29 @@ Sec.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Computing (from 2026 onwards)</p>
+<p><a href="https://isomer-user-content.by.gov.sg/334/b097f41d-40af-4109-95ff-65afe816ac56/K127_y27_sy.pdf" rel="noopener nofollow" target="_blank">G1 Computing</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/file/d/1LVov1b64zcsaCsxcrr8HuNFLyqNg6vxv/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">G1 Computing T&amp;L Syllabus K144 (2026)</a>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://isomer-user-content.by.gov.sg/334/ec79d6ea-4e2d-4296-acfa-318be509e3e0/K237_y27_sy.pdf" rel="noopener nofollow" target="_blank">G2 Computing</a>
 </p>
-<p><a href="https://drive.google.com/file/d/1A_7rU6bx-N-3itJUnkAge1pj66HoaHF0/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">G2 Computing T&amp;L Syllabus K244 (2026)</a>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://isomer-user-content.by.gov.sg/334/4320fbe7-b9d7-4024-ab0b-b2d42a9cd8c9/K349_y27_sy.pdf" rel="noopener nofollow" target="_blank">G3 Computing</a>
 </p>
-<p><a href="https://drive.google.com/file/d/1Hwd_082SnikSxb07dECiCXpVACmQGflZ/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Summary of Differences in G1 vs G2 Computing Syllabuses</a>
-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
