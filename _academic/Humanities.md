@@ -791,6 +791,77 @@ journey was exploring Treelodge@Punggol and taking photos of the various
 amenities. This allowed me to think more deeply about how these features
 benefit both residents and the environment.</p>
 <h4><strong>Syllabus</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Upper Secondary NA level</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://isomer-user-content.by.gov.sg/334/67f5fc2f-14f2-44e3-9a30-9cef1c15a8fe/2125_y26_sy.pdf" rel="noopener nofollow" target="_blank">Humanities(Geography) (SSGY)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Upper Secondary O level</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://isomer-user-content.by.gov.sg/334/9dd22d76-8a1b-4106-867f-cc9ce447ac6a/2260_y26_sy.pdf" rel="noopener nofollow" target="_blank">Humanities(Geography) (SSGY)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Upper Secondary O level</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://isomer-user-content.by.gov.sg/334/b5070a6b-fb07-4ffb-bea0-e7b554629ea1/2279_y26_sy.pdf" rel="noopener nofollow" target="_blank">Geography</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Upper Secondary NA level</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://isomer-user-content.by.gov.sg/334/d1f86d35-d3b4-4c16-83e1-d9369424e0f0/2126_y26_sy.pdf" rel="noopener nofollow" target="_blank">Humanities(History) (SSHY)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Upper Secondary O level</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://isomer-user-content.by.gov.sg/334/93e78ba6-cef7-4366-bdda-25a6af04c6d4/2261_y26_sy.pdf" rel="noopener nofollow" target="_blank">Humanities(History) (SSHY)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Upper Secondary O level</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://isomer-user-content.by.gov.sg/334/3622b032-4be0-497a-9192-399cb6c98b65/2174_y26_sy.pdf" rel="noopener nofollow" target="_blank">History</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Upper Secondary NT Level</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://isomer-user-content.by.gov.sg/334/033dafa4-0197-4b37-92de-a30a65e31d6c/7066_y26_sy.pdf" rel="noopener nofollow" target="_blank">Elements of Business Skills (EBS)</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
