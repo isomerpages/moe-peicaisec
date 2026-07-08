@@ -492,7 +492,16 @@ Singapore Math Kangaroo Contest</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>Mathematics</u></strong>
+<p><a href="https://isomer-user-content.by.gov.sg/334/df217515-dfb8-4551-9422-ed978d71c287/K110_y27_sy.pdf" rel="noopener nofollow" target="_blank">G1 Mathematics</a>
+</p>
+</td>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://isomer-user-content.by.gov.sg/334/1b628f91-48ac-4211-95dc-1c269349efe8/K210_y27_sy.pdf" rel="noopener nofollow" target="_blank">G2 Mathematics</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -501,28 +510,37 @@ Singapore Math Kangaroo Contest</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>N Level</strong>
+<p><a href="https://isomer-user-content.by.gov.sg/334/332ca9aa-990e-49a7-9394-23e6db5544d4/K310_y27_sy.pdf" rel="noopener nofollow" target="_blank">G3 Mathematics</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/NA%20Level%20Syllabus%20Sch%20Cddts/2025/4045_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">N(A)-Level Mathematics Syllabus (4045)</a>
-</p>
-<p><a href="https://www.seab.gov.sg/files/NA%20Level%20Syllabus%20Sch%20Cddts/2025/4051_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">N(A)-Level Additional Mathematics Syllabus (4051)</a>
-</p>
-<p><a href="https://www.seab.gov.sg/files/NT%20Lvl%20Syllabus%20Sch%20Cddts/2025/4046_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">N(T)-Level Mathematics Syllabus (4046)</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>O Level</strong>
+<p><a href="https://isomer-user-content.by.gov.sg/334/bd77e1a0-acd0-4e38-83dd-b0f5e3f3ec3f/K232_y27_sy.pdf" rel="noopener nofollow" target="_blank">G2 Additional Mathematics</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2025/4052_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_new">O-Level Mathematics Syllabus (4052)</a>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://isomer-user-content.by.gov.sg/334/7609d80d-5786-44e8-b79f-f70e29925cd5/K341_y27_sy.pdf" rel="noopener nofollow" target="_blank">G3 Additional Mathematics</a>
 </p>
-<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2025/4049_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">O-Level Additional Mathematics Syllabus (4049)</a>
-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
