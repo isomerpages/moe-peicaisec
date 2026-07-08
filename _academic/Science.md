@@ -816,15 +816,15 @@ Mention (Physics)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>G1 Science</u></strong>
+<p><a href="https://www.moe.gov.sg/media/files/secondary/syllabuses/science/G1%20Lower%20Secondary%20Science%20Teaching%20and%20Learning%20Syllabus.pdf" rel="noopener nofollow" target="_blank">G1 Science</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>G2 Science</u></strong>
+<p><a href="https://www.moe.gov.sg/media/files/secondary/syllabuses/science/G2-3%20Lower%20Secondary%20Science%20Teaching%20and%20Learning%20Syllabus.pdf" rel="noopener nofollow" target="_blank">G2 Science</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>G3 Science</u></strong>
+<p><a href="https://www.moe.gov.sg/media/files/secondary/syllabuses/science/G2-3%20Lower%20Secondary%20Science%20Teaching%20and%20Learning%20Syllabus.pdf" rel="noopener nofollow" target="_blank">G3 Science</a>
 </p>
 </td>
 </tr>
@@ -841,7 +841,7 @@ Mention (Physics)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/NT%20Lvl%20Syllabus%20Sch%20Cddts/2026/5148_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">5148 Science Syllabus T</a>
+<p><a href="https://isomer-user-content.by.gov.sg/334/6749d31d-0228-48e9-b545-cf3325e57266/5148_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">5148 Science Syllabus T</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -864,11 +864,11 @@ Mention (Physics)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/NA%20Level%20Syllabus%20Sch%20Cddts/2026/5105_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">5105 Science (Physics, Chemistry)</a>
+<p><a href="https://isomer-user-content.by.gov.sg/334/c34d4fa5-34c6-48d6-9916-29105547cce6/5105_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">5105 Science (Physics, Chemistry)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/NA%20Level%20Syllabus%20Sch%20Cddts/2026/5107_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">5107 Science (Chemistry, Biology)</a>
+<p><a href="https://isomer-user-content.by.gov.sg/334/c34d4fa5-34c6-48d6-9916-29105547cce6/5105_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">5107 Science (Chemistry, Biology)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -902,11 +902,11 @@ Mention (Physics)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2026/5088_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">5086 Science (Physics, Chemistry)</a>
+<p><a href="https://isomer-user-content.by.gov.sg/334/a67fa90c-d3a3-4cb4-8c92-4f88346b5051/5086_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">5086 Science (Physics, Chemistry)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2026/5088_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">5088 Science (Chemistry, Biology)</a>
+<p><a href="https://isomer-user-content.by.gov.sg/334/a67fa90c-d3a3-4cb4-8c92-4f88346b5051/5086_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">5088 Science (Chemistry, Biology)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
