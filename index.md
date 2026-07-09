@@ -21,7 +21,7 @@ sections:
       button: click here to view
       url: /human-values-drama-festival-hvdf/
       image: /images/Announcement/Peicai_Drama_Club_01.jpg
-      alt: Image alt text
+      alt: Human Values Drama Festival
   - infopic:
       title: SWAP 2026 (Mid Year)
       id: infopic
