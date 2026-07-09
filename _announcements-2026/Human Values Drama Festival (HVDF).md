@@ -60,6 +60,11 @@ the future.</p>
 <p><strong>Drama Club members delivering their HVDF performance with confidence on stage</strong>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="In-school rehearsal on show day as Drama Club members fine-tune their performance" src="/images/Announcement/Peicai_Drama_Club_06.jpg">
+</div>
+<p><strong>In-school rehearsal on show day as Drama Club members fine-tune their performance</strong>
+</p>
 <p></p>
 <p></p>
 <p></p>
