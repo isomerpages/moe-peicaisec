@@ -553,4 +553,11 @@ sections:
       title: Announcements
       subtitle: PEICAI SECONDARY SCHOOL
       button: More details
+  - infopic:
+      title: International Science Drama Competition (ISDC)
+      id: infopic
+      button: click here to view
+      url: /international-science-drama-competition-isdc/
+      image: /images/Announcement/Science_Drama_06.jpg
+      alt: Image alt text
 ---
