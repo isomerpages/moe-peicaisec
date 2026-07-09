@@ -9,6 +9,13 @@ sections:
   - hero:
       background: /images/Banner/Main_Banner_Main_1F.jpg
   - infopic:
+      title: Human Values Drama Festival (HVDF)
+      id: infopic
+      button: click here to view
+      url: /human-values-drama-festival-hvdf/
+      image: /images/Announcement/Peicai_Drama_Club_01.jpg
+      alt: Image alt text
+  - infopic:
       title: SWAP 2026 (Mid Year)
       id: infopic
       button: click here to view
@@ -546,11 +553,4 @@ sections:
       title: Announcements
       subtitle: PEICAI SECONDARY SCHOOL
       button: More details
-  - infopic:
-      title: Human Values Drama Festival (HVDF)
-      id: infopic
-      button: click here to view
-      url: /human-values-drama-festival-hvdf/
-      image: /images/Announcement/Peicai_Drama_Club_01.jpg
-      alt: Image alt text
 ---
