@@ -52,11 +52,15 @@ the future.</p>
 </div>
 <p><strong>Drama Club members fully immersed in their characters during the HVDF performance</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Secondary 2 and 3 Drama Club members during rehearsals for HVDF" src="/images/Announcement/Peicai_Drama_Club_04.jpg">
-</div>
 <p><strong>Secondary 2 and 3 Drama Club members during rehearsals for HVDF</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Drama Club members delivering their HVDF performance with confidence on stage" src="/images/Announcement/Peicai_Drama_Club_05.jpg">
+</div>
+<p><strong>Drama Club members delivering their HVDF performance with confidence on stage</strong>
+</p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
