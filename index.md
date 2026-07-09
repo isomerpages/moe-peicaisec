@@ -14,7 +14,7 @@ sections:
       button: click here to view
       url: /international-science-drama-competition-isdc/
       image: /images/Announcement/Science_Drama_06.jpg
-      alt: Image alt text
+      alt: (ISDC)
   - infopic:
       title: Human Values Drama Festival (HVDF)
       id: infopic
