@@ -546,4 +546,11 @@ sections:
       title: Announcements
       subtitle: PEICAI SECONDARY SCHOOL
       button: More details
+  - infopic:
+      title: Human Values Drama Festival (HVDF)
+      id: infopic
+      button: click here to view
+      url: /human-values-drama-festival-hvdf/
+      image: /images/Announcement/Peicai_Drama_Club_01.jpg
+      alt: Image alt text
 ---
