@@ -2,6 +2,8 @@ collections:
   announcements-2026:
     output: true
     order:
+      - International Science Drama Competition (ISDC).md
+      - Human Values Drama Festival (HVDF).md
       - SWAP 2026 (Mid Year).md
       - NCC Dragonboat Regetta (Semi Finals).md
       - NCC (SEA) Unit Recognition Distinction.md

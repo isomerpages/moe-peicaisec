@@ -9,6 +9,20 @@ sections:
   - hero:
       background: /images/Banner/Main_Banner_Main_1F.jpg
   - infopic:
+      title: International Science Drama Competition (ISDC)
+      id: infopic
+      button: click here to view
+      url: /international-science-drama-competition-isdc/
+      image: /images/Announcement/Science_Drama_06.jpg
+      alt: (ISDC)
+  - infopic:
+      title: Human Values Drama Festival (HVDF)
+      id: infopic
+      button: click here to view
+      url: /human-values-drama-festival-hvdf/
+      image: /images/Announcement/Peicai_Drama_Club_01.jpg
+      alt: Human Values Drama Festival
+  - infopic:
       title: SWAP 2026 (Mid Year)
       id: infopic
       button: click here to view
