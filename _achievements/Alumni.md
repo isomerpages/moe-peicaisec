@@ -17,8 +17,12 @@ and growth served as a source of motivation for current students.</p>
 alumni but also reinforce the enduring bonds within the Peicai family —
 one that continues to grow, connect, and inspire across generations.</p>
 <h4><strong>2026</strong></h4>
-<p>Motivational Talk by Shankar Keerthina</p>
+<p>Ngee Ann Poly’s 2026 Graduating Class Award Winners</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Ngee Ann Poly’s 2026 Graduating Class Award Winners" src="/images/Achievements/Ngee_Ann_Poly_s_2026_Graduating_Class_Award_Winners.png">
+</div>
 <p></p>
+<p>Motivational Talk by Shankar Keerthina</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Motivational Talk by Shankar Keerthina" src="/images/Achievements/Motivational_Talk_by_Shankar_Keerthina.jpg">
 </div>
