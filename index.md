@@ -46,7 +46,6 @@ sections:
   - infopic:
       title: NCC (SEA) Unit Recognition - Distinction
       id: infopic
-      description: Infopic description
       button: click here to view
       url: /ncc-sea-unit-recognition-distinction/
       image: /images/Announcement/NCC_01.jpg
