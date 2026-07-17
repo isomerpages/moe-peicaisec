@@ -560,4 +560,11 @@ sections:
       title: Announcements
       subtitle: PEICAI SECONDARY SCHOOL
       button: More details
+  - infopic:
+      title: NDP 2026 co-creation design competition
+      id: infopic
+      button: click here to view
+      url: /ndp-2026-co-creation-design-competition/
+      image: /images/Announcement/Misha_Marissa_Binte_Meslan_NDP_2026_co_created_logo_design.png
+      alt: Image alt text
 ---
