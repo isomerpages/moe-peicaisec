@@ -32,3 +32,9 @@ of eloquence, analysis, and rebuttal.</p>
 <p>The championship was a celebration of intellectual curiosity, respectful
 discourse, and confident communication—hallmarks of the school's commitment
 to nurturing thoughtful, articulate, and future-ready learners.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Debating Championship 2026 Grand Final" src="/images/Announcement/Debating_Championship_2026_Grand_Final_pic_1.jpg">
+</div>
+<p><em>Moments before the first speech, both teams stand ready to showcase their critical thinking, teamwork, and public speaking skills.</em>
+</p>
