@@ -9,6 +9,14 @@ sections:
   - hero:
       background: /images/Banner/Main_Banner_Main_1F.jpg
   - infopic:
+      title: NCC Outstanding Cadet Award
+      id: infopic
+      description: Ng Yee Shan (4PN)
+      button: Click here to view
+      url: /ncc-outstanding-cadet-award-ng-yee-shan-4pn/
+      image: /images/Announcement/NCC_Outstanding_Cadet_Award___Ng_Yee_Shan__4PN_A.jpg
+      alt: Image alt text
+  - infopic:
       title: NDP 2026 co-creation design competition
       id: infopic
       button: click here to view
@@ -566,12 +574,4 @@ sections:
       title: Announcements
       subtitle: PEICAI SECONDARY SCHOOL
       button: More details
-  - infopic:
-      title: NCC Outstanding Cadet Award
-      id: infopic
-      description: Ng Yee Shan (4PN)
-      button: Click here to view
-      url: /ncc-outstanding-cadet-award-ng-yee-shan-4pn/
-      image: /images/Announcement/NCC_Outstanding_Cadet_Award___Ng_Yee_Shan__4PN_.jpg
-      alt: Image alt text
 ---
