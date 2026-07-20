@@ -9,6 +9,13 @@ sections:
   - hero:
       background: /images/Banner/Main_Banner_Main_1F.jpg
   - infopic:
+      title: Inter-class Debating Championship 2026 Grand Final
+      id: infopic
+      button: click here to view
+      url: /inter-class-debating-championship-2026-grand-final/
+      image: /images/Announcement/Debating_Championship_2026_Grand_Final_pic_1.jpg
+      alt: Image alt text
+  - infopic:
       title: NCC Outstanding Cadet Award
       id: infopic
       description: Ng Yee Shan (4PN)
@@ -574,11 +581,4 @@ sections:
       title: Announcements
       subtitle: PEICAI SECONDARY SCHOOL
       button: More details
-  - infopic:
-      title: Inter-class Debating Championship 2026 Grand Final
-      id: infopic
-      button: clickhere to view
-      url: /inter-class-debating-championship-2026-grand-final/
-      image: /images/Announcement/Debating_Championship_2026_Grand_Final_pic_1.jpg
-      alt: Image alt text
 ---
