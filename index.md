@@ -566,4 +566,12 @@ sections:
       title: Announcements
       subtitle: PEICAI SECONDARY SCHOOL
       button: More details
+  - infopic:
+      title: NCC Outstanding Cadet Award
+      id: infopic
+      description: Ng Yee Shan (4PN)
+      button: Click here to view
+      url: /ncc-outstanding-cadet-award-ng-yee-shan-4pn/
+      image: /images/Announcement/NCC_Outstanding_Cadet_Award___Ng_Yee_Shan__4PN_.jpg
+      alt: Image alt text
 ---
