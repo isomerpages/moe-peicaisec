@@ -122,6 +122,21 @@ third_nav_title: Craft & Technology
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Yap Kai Siang Shawn</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Art</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yap_kai_siang_shawn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yap_kai_siang_shawn@moe.edu.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4><strong>Learning Outcomes</strong></h4>
