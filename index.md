@@ -9,6 +9,21 @@ sections:
   - hero:
       background: /images/Banner/Main_Banner_Main_1F.jpg
   - infopic:
+      title: Inter-class Debating Championship 2026 Grand Final
+      id: infopic
+      button: click here to view
+      url: /inter-class-debating-championship-2026-grand-final/
+      image: /images/Announcement/Debating_Championship_2026_Grand_Final_pic_1.jpg
+      alt: Image alt text
+  - infopic:
+      title: NCC Outstanding Cadet Award
+      id: infopic
+      description: Ng Yee Shan (4PN)
+      button: Click here to view
+      url: /ncc-outstanding-cadet-award-ng-yee-shan-4pn/
+      image: /images/Announcement/NCC_Outstanding_Cadet_Award___Ng_Yee_Shan__4PN_A.jpg
+      alt: Image alt text
+  - infopic:
       title: NDP 2026 co-creation design competition
       id: infopic
       button: click here to view
