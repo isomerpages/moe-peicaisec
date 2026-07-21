@@ -64,7 +64,7 @@ of sustainability but also took a meaningful step towards becoming more
 responsible and environmentally conscious members of the community.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Environment Heads" src="/images/Student Development/Picture1.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="Environment Heads" src="/images/Student Development/Picture1.jpg">
 </div>
 <p><em>Environment Heads, Amanda (3PN) and Jon (2PN) sharing on the significance of Earth Day</em>
 </p>
