@@ -112,13 +112,14 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Wong Nyok Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Wong_nyok_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Wong_nyok_ling@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
