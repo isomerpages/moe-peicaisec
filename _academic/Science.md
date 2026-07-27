@@ -112,6 +112,36 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Tay Ning</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower Sec Science, Chemistry, Biology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tay_ning@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_ning@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Wong Poh Shen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower Sec Science, Chemistry</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto :wong_poh_shen@@moe.edu.sg" rel="noopener nofollow" target="_blank">wong_poh_shen@@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Han Lijun</p>
 </td>
 <td rowspan="1" colspan="1">
