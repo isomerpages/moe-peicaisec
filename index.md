@@ -9,6 +9,13 @@ sections:
   - hero:
       background: /images/Banner/Main_Banner_Main_1F.jpg
   - infopic:
+      title: Mother Tongue Languages Fortnight 2026
+      id: infopic
+      button: click here to view
+      url: /mother-tongue-languages-fortnight-2026/
+      image: /images/Announcement/MT_Fortnight_2026_01.png
+      alt: Image alt text
+  - infopic:
       title: Inter-class Debating Championship 2026 Grand Final
       id: infopic
       button: click here to view
