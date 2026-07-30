@@ -581,4 +581,11 @@ sections:
       title: Announcements
       subtitle: PEICAI SECONDARY SCHOOL
       button: More details
+  - infopic:
+      title: Mother Tongue Languages Fortnight 2026
+      id: infopic
+      button: click here to view
+      url: /mother-tongue-languages-fortnight-2026/
+      image: /images/Announcement/MT_Fortnight_2026_01.png
+      alt: Image alt text
 ---
