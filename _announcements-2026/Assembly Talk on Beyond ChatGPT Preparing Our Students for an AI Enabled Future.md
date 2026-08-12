@@ -6,8 +6,9 @@ description: ""
 ---
 <p>As Artificial Intelligence (AI) continues to reshape the way we live,
 learn and work, how can we prepare our students not just to use AI, but
-to thrive in a future transformed by it?</p>
-<p>On 12 August 2026, Peicai Secondary School welcomed <strong>Mr. Alan Lee, Co-founder of Astria Consulting Pte Ltd</strong>,
+to thrive in a future transformed by it?
+<br>
+<br>On 12 August 2026, Peicai Secondary School welcomed <strong>Mr. Alan Lee, Co-founder of Astria Consulting Pte Ltd</strong>,
 to share with our students and staff on <strong>“Beyond ChatGPT: How AI Is Changing the Way the World Works.”</strong>
 </p>
 <p>Drawing on his experiences in technology, consulting, business transformation
