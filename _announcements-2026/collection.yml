@@ -2,6 +2,8 @@ collections:
   announcements-2026:
     output: true
     order:
+      - "Assembly Talk on Beyond ChatGPT : Preparing Our Students for an AI
+        Enabled Future.md"
       - Mother Tongue Languages Fortnight 2026.md
       - Inter class Debating Championship 2026 Grand Final.md
       - NCC Outstanding Cadet Award – Ng Yee Shan (4PN).md
