@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/Banner/Main_Banner_Main_1F.jpg
   - infopic:
-      title: Assembly Talk on “Beyond ChatGPT"
+      title: Assembly Talk on “Beyond ChatGPT”
       id: infopic
       button: Click here to view
       url: /assembly-talk-on-beyond-chatgpt-preparing-our-students-for-an-ai-enabled-future/
