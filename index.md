@@ -588,4 +588,12 @@ sections:
       title: Announcements
       subtitle: PEICAI SECONDARY SCHOOL
       button: More details
+  - infopic:
+      title: "Assembly Talk on “Beyond ChatGPT :"
+      id: infopic
+      description: Preparing Our Students for an AI-Enabled Future”
+      button: Click here to view
+      url: /assembly-talk-on-beyond-chatgpt-preparing-our-students-for-an-ai-enabled-future/
+      image: /images/Announcement/Beyond_ChatGPT_Preparing_Our_Students_for_an_AI_Enabled_Future.jpg
+      alt: Assembly Talk Beyond ChatGPT
 ---
