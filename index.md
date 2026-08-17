@@ -595,4 +595,11 @@ sections:
       title: Announcements
       subtitle: PEICAI SECONDARY SCHOOL
       button: More details
+  - infopic:
+      title: PAssionArts Festival 2026
+      id: infopic
+      button: Click here to view
+      url: /passionarts-festival-2026/
+      image: /images/Announcement/Art_festival_img_5_copy.jpg
+      alt: ArtClub students
 ---
