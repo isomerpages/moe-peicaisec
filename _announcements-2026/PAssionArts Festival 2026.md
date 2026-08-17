@@ -39,4 +39,29 @@ with a diverse range of participants, from toddlers to the elderly.</p>
 <p>Our Art Club students patiently guided young participants in pebble painting,
 sharing their skills and passion for creativity.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Art festival img 4" src="/images/Announcement/Art_festival_img_4.jpg">
+</div>
+<p>Our Art Club students patiently guided young participants, making creativity
+and learning a fun experience for all.</p>
 <p></p>
+<p>The event was graced by Guest-of-Honour Dr Koh Poh Koon, whose presence
+added to the significance of the celebrations. Our students were delighted
+to meet Dr Koh, interacting with him enthusiastically and sharing their
+experiences at the festival.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Art festival img 5" src="/images/Announcement/Art_festival_img_5.jpg">
+</div>
+<p>A proud moment as our Art Club students showcased their collaborative
+artwork with Dr Koh Poh Koon and fellow community partners.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Art festival img 6" src="/images/Announcement/Art_festival_img_6.jpg">
+</div>
+<p>Our Art Club students proudly shared their creativity with Dr Koh Poh
+Koon and the community.</p>
+<p></p>
+<p>Through this experience, our students discovered that art is a powerful
+way to connect people and strengthen community bonds. We are immensely
+proud of their creativity, teamwork and community spirit!&nbsp;</p>
