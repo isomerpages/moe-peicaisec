@@ -9,6 +9,13 @@ sections:
   - hero:
       background: /images/Banner/Main_Banner_Main_1F.jpg
   - infopic:
+      title: PAssionArts Festival 2026
+      id: infopic
+      button: Click here to view
+      url: /passionarts-festival-2026/
+      image: /images/Announcement/Art_festival_img_5_copy.jpg
+      alt: ArtClub students
+  - infopic:
       title: Assembly Talk on “Beyond ChatGPT”
       id: infopic
       button: Click here to view
