@@ -100,8 +100,9 @@ which are of prime concern at this age.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Sexuality Education Sec 2AA" src="/images/Student Development/Sexuality_Education_Sec_2AA.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="SE 19" src="/images/Student Development/Sexuality_Education_Sec_2A_19.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -118,8 +119,9 @@ which are of prime concern at this age.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Sexuality Education Sec 3AA" src="/images/Student Development/Sexuality_Education_Sec_3AA.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="SE sec 3" src="/images/Student Development/Sexuality_Education_Sec_3AA_19.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -155,8 +157,9 @@ which are of prime concern at this age.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Sexuality Education Sec 5A" src="/images/Student Development/Sexuality_Education_Sec_5A.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Teen prog" src="/images/Student Development/Teens_programme_19.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
