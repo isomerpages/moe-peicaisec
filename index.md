@@ -9,6 +9,13 @@ sections:
   - hero:
       background: /images/Banner/Main_Banner_Main_1F.jpg
   - infopic:
+      title: PAssionArts Festival (Concert Band)
+      id: infopic
+      button: click here to view
+      url: /passionarts-festival-concert-band/
+      image: /images/Announcement/Concert_band_img_3.jpg
+      alt: Image alt text
+  - infopic:
       title: PAssionArts Festival 2026
       id: infopic
       button: Click here to view
@@ -602,11 +609,4 @@ sections:
       title: Announcements
       subtitle: PEICAI SECONDARY SCHOOL
       button: More details
-  - infopic:
-      title: PAssionArts Festival (Concert Band)
-      id: infopic
-      button: click here to view
-      url: /passionarts-festival-concert-band/
-      image: /images/Announcement/Concert_band_img_3.jpg
-      alt: Image alt text
 ---
