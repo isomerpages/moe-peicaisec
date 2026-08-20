@@ -30,3 +30,18 @@ have played an important role in the band's musical journey.</p>
 <p>Congratulations to the Peicai Concert Band on this outstanding achievement!
 We are proud of our students for their hard work, resilience and passion,
 and for continuing to make a difference through music.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Concert band img 1" src="/images/Announcement/Concert_band_img_1.jpg">
+</div>
+<p>Peicai Concert Band Team Receiving the 5-Star Distinction Award</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Concert band img 2" src="/images/Announcement/Concert_band_img_2.jpg">
+</div>
+<p>Peicai Concert Band Group Photo at Our Tampines Hub</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Concert band img 3" src="/images/Announcement/Concert_band_img_3.jpg">
+</div>
+<p>Peicai Concert Band performing <em>Fate of the Gods</em> at the Open Stage</p>
