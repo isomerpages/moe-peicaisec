@@ -602,4 +602,11 @@ sections:
       title: Announcements
       subtitle: PEICAI SECONDARY SCHOOL
       button: More details
+  - infopic:
+      title: PAssionArts Festival (Concert Band)
+      id: infopic
+      button: click here to view
+      url: /passionarts-festival-concert-band/
+      image: /images/Announcement/Concert_band_img_3.jpg
+      alt: Image alt text
 ---
