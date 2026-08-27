@@ -9,6 +9,14 @@ sections:
   - hero:
       background: /images/Banner/Main_Banner_Main_1F.jpg
   - infopic:
+      title: S6 Cluster InnoSTEAM AI Showcase 2026
+      subtitle: Peicai Secondary School
+      id: infopic
+      button: click here to view
+      url: /s6-cluster-innosteam-ai-showcase-2026-peicai-secondary-school/
+      image: /images/Announcement/Photo_Montage_AI_Showcase_v1.jpg
+      alt: Image alt text
+  - infopic:
       title: PAssionArts Festival (Concert Band)
       id: infopic
       button: click here to view
