@@ -17,6 +17,13 @@ sections:
       image: /images/Announcement/Photo_Montage_AI_Showcase_v1.jpg
       alt: Image alt text
   - infopic:
+      title: Girl Guides PNAA Gold Award 2025
+      id: infopic
+      button: Click here to view
+      url: /girl-guides-pnaa-gold-award-2025/
+      image: /images/Announcement/PNAA__Gold_Award.jpg
+      alt: Image alt text
+  - infopic:
       title: PAssionArts Festival (Concert Band)
       id: infopic
       button: click here to view
@@ -617,11 +624,4 @@ sections:
       title: Announcements
       subtitle: PEICAI SECONDARY SCHOOL
       button: More details
-  - infopic:
-      title: Girl Guides PNAA Gold Award 2025
-      id: infopic
-      button: Click here to view
-      url: /girl-guides-pnaa-gold-award-2025/
-      image: /images/Announcement/PNAA__Gold_Award.jpg
-      alt: Image alt text
 ---
