@@ -17,6 +17,13 @@ sections:
       image: /images/Announcement/Photo_Montage_AI_Showcase_v1.jpg
       alt: Image alt text
   - infopic:
+      title: VIA Project @ SHECARES Open House
+      id: infopic
+      button: click here to view
+      url: /via-project-shecares-open-house/
+      image: /images/Announcement/SHECARES_Open_House_pic_2.jpg
+      alt: Image alt text
+  - infopic:
       title: Girl Guides PNAA Gold Award 2025
       id: infopic
       button: Click here to view
