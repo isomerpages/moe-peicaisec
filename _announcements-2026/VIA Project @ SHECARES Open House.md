@@ -105,3 +105,31 @@ at the open house.</p>
 </div>
 <p>2 Care’s class pledge board, featuring visotors’ pledges at the SHECARES
 Open House.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SHECARES Open House pic 6" src="/images/Announcement/SHECARES_Open_House_pic_6.png">
+</div>
+<p>Infographic 1: What online harms are.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Infographic 2: Possible signs that someone has experienced or is experiencing online harm." src="/images/Announcement/SHECARES_Open_House_pic_7.jpg">
+</div>
+<p>Infographic 2: Possible signs that someone has experienced or is experiencing
+online harm.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SHECARES Open House pic 8" src="/images/Announcement/SHECARES_Open_House_pic_8.jpg">
+</div>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Infographic 3: Youth insight on online harms</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
