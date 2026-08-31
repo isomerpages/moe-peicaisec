@@ -79,3 +79,29 @@ online harms.</p>
 <p>Our student, Angel Ong, walking&nbsp; Minister Edwin Tong through the
 infographics that the class has created on online harms, signs of online
 harms, as well as youth insights on online harms.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SHECARES Open House pic 3" src="/images/Announcement/SHECARES_Open_House_pic_3.jpg">
+</div>
+<p>Our student, Javan Pek, at his booth, where he introduces the class’s
+video on online harms to visitors.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SHECARES Open House pic 4" src="/images/Announcement/SHECARES_Open_House_pic_4.jpg">
+</div>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Our teachers and students taking a group photo with Minister Edwin Tong
+at the open house.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="SHECARES Open House pic 5" src="/images/Announcement/SHECARES_Open_House_pic_5.jpg">
+</div>
+<p>2 Care’s class pledge board, featuring visotors’ pledges at the SHECARES
+Open House.</p>
