@@ -2,6 +2,7 @@ collections:
   announcements-2026:
     output: true
     order:
+      - We warmly welcome former students.md
       - S6 Cluster InnoSTEAM AI Showcase 2026 @ Peicai Secondary School.md
       - VIA Project @ SHECARES Open House.md
       - Girl Guides PNAA Gold Award 2025.md
