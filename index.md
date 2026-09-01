@@ -9,6 +9,44 @@ sections:
   - hero:
       background: /images/Banner/Main_Banner_Main_1F.jpg
   - infopic:
+      title: We warmly welcome former students
+      id: infopic
+      description: who wish to return to Peicai Secondary School to visit their
+        teachers on Thursday, 3 September 2026.
+      button: click here to view
+      url: /we-warmly-welcome-former-students/
+      image: /images/Announcement/We_warmly_welcome_former_students.jpg
+      alt: welcome former students
+  - infopic:
+      title: S6 Cluster InnoSTEAM AI Showcase 2026
+      subtitle: Peicai Secondary School
+      id: infopic
+      button: click here to view
+      url: /s6-cluster-innosteam-ai-showcase-2026-peicai-secondary-school/
+      image: /images/Announcement/Photo_Montage_AI_Showcase_v1.jpg
+      alt: Image alt text
+  - infopic:
+      title: VIA Project @ SHECARES Open House
+      id: infopic
+      button: click here to view
+      url: /via-project-shecares-open-house/
+      image: /images/Announcement/SHECARES_Open_House_pic_2.jpg
+      alt: Image alt text
+  - infopic:
+      title: Girl Guides PNAA Gold Award 2025
+      id: infopic
+      button: Click here to view
+      url: /girl-guides-pnaa-gold-award-2025/
+      image: /images/Announcement/PNAA__Gold_Award.jpg
+      alt: Image alt text
+  - infopic:
+      title: PAssionArts Festival (Concert Band)
+      id: infopic
+      button: click here to view
+      url: /passionarts-festival-concert-band/
+      image: /images/Announcement/Concert_band_img_3.jpg
+      alt: Image alt text
+  - infopic:
       title: PAssionArts Festival 2026
       id: infopic
       button: Click here to view
