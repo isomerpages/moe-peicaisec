@@ -9,6 +9,15 @@ sections:
   - hero:
       background: /images/Banner/Main_Banner_Main_1F.jpg
   - infopic:
+      title: We warmly welcome former students
+      id: infopic
+      description: who wish to return to Peicai Secondary School to visit their
+        teachers on Thursday, 3 September 2026.
+      button: click here to view
+      url: /we-warmly-welcome-former-students/
+      image: /images/Announcement/We_warmly_welcome_former_students.jpg
+      alt: welcome former students
+  - infopic:
       title: S6 Cluster InnoSTEAM AI Showcase 2026
       subtitle: Peicai Secondary School
       id: infopic
@@ -631,13 +640,4 @@ sections:
       title: Announcements
       subtitle: PEICAI SECONDARY SCHOOL
       button: More details
-  - infopic:
-      title: We warmly welcome former students
-      id: infopic
-      description: who wish to return to Peicai Secondary School to visit their
-        teachers on Thursday, 3 September 2026.
-      button: click here to view
-      url: /we-warmly-welcome-former-students/
-      image: /images/Announcement/We_warmly_welcome_former_students.jpg
-      alt: welcome former students
 ---
