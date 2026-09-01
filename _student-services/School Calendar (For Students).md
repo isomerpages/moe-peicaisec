@@ -9,8 +9,8 @@ variant: tiptap
 <br>Click <a href="/files/2026/Term_3_Students__Calendar_2026__caa_18_Aug_2026_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 download
 <br>
-<br><strong>Term 4 (caa 18 August 2026)</strong>
-<br>Click <a href="/files/2026/Term_4_Students__Calendar_2026__caa_18_Aug_2026_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+<br><strong>Term 4 (caa 01 September 2026)</strong>
+<br>Click <a href="/files/2026/Term_4_Students__Calendar_2026__caa_01_Sep_2026_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 download</p>
 <table style="minWidth: 75px">
 <colgroup>
